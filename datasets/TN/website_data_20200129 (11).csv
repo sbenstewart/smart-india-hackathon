@@ -1,0 +1,408 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2018,7.64,5.69,NA,NA
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2018,NA,15.62,NA,NA
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2018,NA,9.75,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2018,NA,7.79,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2018,NA,7.56,NA,NA
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2018,NA,1.93,1.2,NA
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2018,NA,9.7,7.85,NA
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2018,NA,7.85,9.55,NA
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2018,NA,8.8,1.49,NA
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2018,NA,7.74,5.66,NA
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,2018,8.65,NA,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2017,6.94,6.5,NA,6.45
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2017,NA,9.37,NA,NA
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,2017,6.47,NA,NA,NA
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2017,10.95,9.93,9.03,11.55
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2017,18.53,18.07,16.2,19.45
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2017,19.83,NA,17.3,18.7
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2017,14.12,10.07,12,15.55
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2017,10.24,10.1,8.15,10.5
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2017,8.7,6.72,3.7,9.25
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2017,NA,6.87,4.69,6.08
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2017,10.25,7.54,7.85,9.25
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2016,4.3,NA,1.98,4.72
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2016,17.46,NA,17.63,17
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2016,6.93,NA,6.76,NA
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2016,NA,NA,6.5,NA
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2016,9.7,NA,13.75,11.4
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2016,9.35,NA,8.97,7.4
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2016,NA,NA,NA,7.1
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2016,NA,NA,NA,5.15
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2016,8.9,NA,9.63,7.8
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2016,9.4,NA,10.36,8.8
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2016,NA,NA,10.78,NA
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2016,7.33,NA,7.28,7.15
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2016,5.8,NA,NA,NA
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,2016,NA,NA,NA,8
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2016,NA,NA,7.32,NA
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2015,2.2,1.55,NA,4.57
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2015,17.8,4.5,NA,18.05
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2015,6.28,4.24,NA,5.1
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2015,6.95,6.19,NA,6.64
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2015,NA,9.45,NA,5.6
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2015,NA,2.6,NA,8.38
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2015,NA,8.49,NA,8.49
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2015,5.8,NA,NA,5.8
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2015,8.1,6.25,NA,7.44
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2015,NA,6.7,NA,6.5
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2015,8.49,NA,NA,8.49
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2015,8.55,12.3,NA,9.75
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2015,5.9,6.3,NA,6.7
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,2015,7.6,NA,NA,7.6
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2015,7.78,9.37,NA,6.75
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2014,7.44,32.52,NA,5.28
+TN,Madurai,Ushilampatti,Usilampatti,9.96333333,77.78833333,Usilampatti-EW,"Bore Well",W30894,2014,NA,NA,7.53,NA
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2014,6.55,5.8,NA,6.26
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2014,NA,6.95,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2014,NA,7.54,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,2014,NA,7.55,NA,NA
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2014,12.94,9.02,NA,11.96
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2014,19.25,9.85,NA,16.17
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2014,NA,6.35,NA,NA
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2014,NA,3.55,NA,9.15
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2014,9.61,6.92,NA,8.69
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,2014,NA,NA,11.65,NA
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2014,8.9,7.36,NA,7.97
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2014,16.71,NA,NA,16.96
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2014,25.5,14.05,NA,15.95
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2014,8.2,11.74,NA,NA
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,2014,NA,7.4,NA,NA
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2014,18.65,16.4,NA,17.89
+TN,Madurai,Peraiyur,Sedapatti,9.73944444,77.78916667,Peraiyur-EW,"Bore Well",W30887,2014,NA,NA,10.9,NA
+TN,Madurai,Tirumangalam,Thirumangalam,9.85833333,78.01666667,Nilayur-EW,"Bore Well",W30891,2014,NA,NA,9.9,NA
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2014,7.4,NA,NA,NA
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2013,3.3,NA,1.5,NA
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2013,17.34,12.98,17.85,NA
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2013,5.7,6.84,5.6,5.7
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2013,NA,6.64,NA,6.95
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2013,8.14,7.56,5.64,8.14
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,2013,NA,4.88,NA,NA
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2013,10.4,2.69,NA,NA
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2013,19.95,7.05,8.15,9.15
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2013,9.15,8.49,9.15,9.15
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2013,7.15,5.45,7,NA
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2013,8.25,5.94,4.7,NA
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2013,21.4,11.43,9,NA
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2013,13.75,9.22,NA,6.1
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2013,10.95,4.88,NA,NA
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,2013,7.4,NA,NA,7.43
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2013,6.88,6.83,8.9,9.7
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2012,NA,1.9,3.25,3.6
+TN,Madurai,Tirumangalam,Thirumangalam,9.94138889,77.96805556,Chekkanoorani,"Bore Well",W22698,2012,NA,NA,NA,4.36
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2012,NA,'0.94,3.76,3.64
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2012,NA,4.39,6.57,5.69
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2012,NA,2.9,2.32,2.7
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2012,NA,NA,NA,9.02
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2012,NA,1.62,NA,7.27
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2012,NA,1.39,NA,4.09
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2012,NA,5.25,7.46,6.65
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2012,NA,3.15,5.05,4.1
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2012,NA,2.52,8.99,7.66
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2012,NA,5.4,NA,7.2
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2012,NA,5.22,8.53,6.9
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2012,NA,1.97,3.93,3.2
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2012,NA,9.4,12.37,10.1
+TN,Madurai,Melur,Melur,10.22194444,78.37722222,Kottampatti1,"Bore Well",W22657,2012,NA,NA,NA,5.55
+TN,Madurai,Melur,Melur,10.25972222,78.35861111,Thonthilingapuram,"Bore Well",W22658,2012,NA,NA,NA,8.55
+TN,Madurai,"Madurai North","Madurai East",9.9675,78.22611111,Kayampatti,"Bore Well",W22664,2012,NA,NA,NA,3.7
+TN,Madurai,"Madurai North","Madurai East",9.96027778,78.18694444,Othakadai,"Bore Well",W22665,2012,NA,NA,NA,10.95
+TN,Madurai,"Madurai North","Madurai East",9.9775,78.19583333,Thethankulam,"Bore Well",W22666,2012,NA,NA,NA,8.86
+TN,Madurai,"Madurai North","Madurai West",10.01388889,78.11472222,Kulamangalam,"Bore Well",W22667,2012,NA,NA,NA,2.25
+TN,Madurai,"Madurai North","Madurai West",10.05166667,78.16555556,M.Chatrapatti,"Bore Well",W22668,2012,NA,NA,NA,6.8
+TN,Madurai,"Madurai North","Madurai West",9.95722222,78.13333333,Narayanapuram,"Bore Well",W22669,2012,NA,NA,NA,12.5
+TN,Madurai,"Madurai North","Madurai West",9.995,78.10111111,Omachikulam,"Bore Well",W22670,2012,NA,NA,NA,4.25
+TN,Madurai,Melur,Kottampatti,10.08583333,78.37472222,Thumbaipatti1,"Bore Well",W22671,2012,NA,NA,NA,6.2
+TN,Madurai,Melur,Melur,9.96833333,78.39138889,Ambalakaranpatti,"Bore Well",W22672,2012,NA,NA,NA,2.9
+TN,Madurai,Melur,Melur,10.03277778,78.39388889,Thariyamangalam,"Bore Well",W22673,2012,NA,NA,NA,6.36
+TN,Madurai,Melur,Melur,10.05972222,78.27083333,Vellalapatti,"Bore Well",W22674,2012,NA,NA,NA,7.36
+TN,Madurai,Natham,Alanganallur,10.11,78.11305556,Palamedu,"Bore Well",W22675,2012,NA,NA,NA,8.2
+TN,Madurai,Natham,Alanganallur,10.01861111,78.10111111,Thandalai1,"Bore Well",W22676,2012,NA,NA,NA,4.9
+TN,Madurai,"Madurai North","Madurai East",9.90861111,78.18583333,Andarkottaram,"Bore Well",W22677,2012,NA,NA,NA,4
+TN,Madurai,"Madurai North","Madurai East",9.89666667,78.255,Kunnathur2,"Bore Well",W22678,2012,NA,NA,NA,5.5
+TN,Madurai,"Madurai North","Madurai East",9.92638889,78.14972222,Melamadai,"Bore Well",W22679,2012,NA,NA,NA,14.1
+TN,Madurai,"Madurai North","Madurai East",9.9125,78.25694444,Varichiyur,"Bore Well",W22680,2012,NA,NA,NA,8.1
+TN,Madurai,"Madurai South","Madurai South",9.85527778,78.05888889,Nilayur2,"Bore Well",W22681,2012,NA,NA,NA,4.5
+TN,Madurai,"Madurai South","Madurai South",9.83638889,78.05666667,Surakulam,"Bore Well",W22682,2012,NA,NA,NA,2.5
+TN,Madurai,Peraiyur,"T. Kallupatti",9.70694444,77.88555556,Koliveeranpatti,"Bore Well",W22683,2012,NA,NA,NA,5.35
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72333333,77.8475,T.Kallupatti-1,"Bore Well",W22684,2012,NA,NA,NA,10.9
+TN,Madurai,Peraiyur,Usilampatti,9.87583333,77.755,Jothilnaickanur,"Bore Well",W22685,2012,NA,NA,NA,11.3
+TN,Madurai,Peraiyur,Sedapatti,9.76277778,77.73916667,Saptur,"Bore Well",W22686,2012,NA,NA,NA,7.65
+TN,Madurai,Peraiyur,Sedapatti,9.80444444,77.66916667,T.Krishnapuram,"Bore Well",W22687,2012,NA,NA,NA,18.2
+TN,Madurai,Peraiyur,Sedapatti,9.8325,77.71666667,T.Ramanathapuram,"Bore Well",W22688,2012,NA,NA,NA,2.1
+TN,Madurai,Peraiyur,Sedapatti,9.8725,77.71333333,Uthapuram,"Bore Well",W22689,2012,NA,NA,NA,10.45
+TN,Madurai,Tirumangalam,Kalllikudi,9.64138889,77.97444444,Avaisuranpatti,"Bore Well",W22690,2012,NA,NA,NA,3.7
+TN,Madurai,Tirumangalam,Thirumangalam,9.78666667,78.00194444,Keelakottai,"Bore Well",W22691,2012,NA,NA,NA,3.75
+TN,Madurai,Ushilampatti,Usilampatti,9.93416667,77.79638889,Pothampatti,"Bore Well",W22692,2012,NA,NA,NA,9.3
+TN,Madurai,Tirumangalam,Thirumangalam,9.84583333,77.89472222,P.Ammapatti,"Bore Well",W22693,2012,NA,NA,NA,4.1
+TN,Madurai,Ushilampatti,Chellampatti,10.03916667,77.87777778,Arasamarathupatti,"Bore Well",W22694,2012,NA,NA,NA,14.1
+TN,Madurai,Ushilampatti,Chellampatti,9.87388889,77.86805556,Thummakundu,"Bore Well",W22695,2012,NA,NA,NA,11.6
+TN,Madurai,Ushilampatti,Vadipatti,10.0025,77.92888889,Vikramangalam1,"Bore Well",W22696,2012,NA,NA,NA,6.4
+TN,Madurai,Ushilampatti,Usilampatti,10.05555556,77.83444444,Kalluthu,"Bore Well",W22697,2012,NA,NA,NA,7.6
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2012,NA,5.35,6.62,6.07
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2011,1.28,1.38,NA,3.1
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2011,11.8,12.6,11.39,NA
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2011,4.13,2.49,1.44,3.59
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2011,6.16,2.84,5.49,2.25
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2011,1.85,1.21,1.56,7.56
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2011,2.38,7.95,1.48,2.45
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2011,11.36,9.55,NA,6.95
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2011,3.01,1.59,1.11,3.69
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2011,5.9,5,3.85,6.25
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2011,5.47,2.52,4.08,NA
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2011,8.3,9.3,NA,NA
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2011,NA,NA,6.08,NA
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2011,8.26,4.75,5.72,5.7
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2011,5.9,NA,2.84,5.95
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2011,5.85,5.05,5.37,5.74
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2010,4.7,1.6,'0.7,2.9
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2010,6.94,6.07,3.87,6.2
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2010,6.44,5.14,'0.54,6.3
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2010,6.94,5.31,'0.29,6.39
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2010,6.36,5.91,'0.66,7.08
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2010,9.9,3.6,2.15,9.1
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2010,17.8,15.1,6.5,17.1
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2010,10.99,1.99,'0.27,3.44
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2010,9.3,6.9,4.95,7.72
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2010,22.1,4.8,NA,5.82
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2010,9.3,5.6,8.2,9.82
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2010,9.07,7.5,6.7,8.02
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2010,NA,6.6,NA,NA
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2010,13.8,3.5,NA,11.4
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2009,2.3,1.35,4.2,3.1
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2009,5.8,5.07,6.6,5.9
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2009,6.1,4.31,6.45,6.4
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2009,6.8,NA,7.25,5.29
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2009,7.14,2.81,7.34,6.18
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2009,10.2,2.4,10.5,9.55
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2009,14.7,11.4,15.9,13.1
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2009,6,1.74,5.5,4.27
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2009,8.5,5.48,9.2,7.63
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2009,5.6,3.37,6.1,5
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2009,3.38,1.42,10.2,5.95
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2009,7.8,NA,8.1,7.1
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2009,7.4,NA,NA,6.5
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2009,9.4,2.1,8.9,8.64
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2008,1.32,1.36,1.34,2.32
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2008,12.63,11.5,12.3,11.37
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2008,5.38,3.62,3.96,4.8
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2008,5.36,3.8,3.71,3.9
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2008,5.79,1.72,4.22,4.19
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2008,7.15,3.35,NA,2.68
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2008,7.03,2.26,2.56,1.66
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2008,2.28,'0.71,1.46,3.2
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2008,5.11,5.14,NA,5.88
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2008,5.95,4.02,3.65,2.78
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2008,6.4,'0.72,3.02,5.72
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2008,NA,NA,NA,4.2
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2008,7.15,6.44,NA,6.78
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2008,3.77,3.39,NA,NA
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2008,5.6,4.78,5.37,NA
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2007,1.57,1.46,1.33,3.66
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2007,5.73,5.74,4.9,5.8
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2007,5.23,4.45,4.75,5.36
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2007,6.63,5.02,6.02,NA
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2007,6.53,3.64,2.54,5.61
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2007,10.52,NA,5.85,9.76
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2007,13.8,3.12,3.43,10.5
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2007,3.6,1.86,1.4,4.42
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2007,6.21,5.68,5,6.82
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2007,6.4,3.61,4.4,5.67
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2007,10,3.8,3.22,7.8
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,2007,2.15,1.28,NA,2.03
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2007,8.18,6.66,6.02,7.5
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2007,4.97,1.8,5.23,2.67
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2007,13.71,11.52,13.12,12.56
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2006,15.2,16.15,14.4,13.66
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2006,11.4,2.1,5.6,6.46
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2006,5.77,3.88,4.1,6.42
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2006,5.91,2.83,12.6,5.36
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2006,9.57,1.98,7,7.66
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,2006,1.73,1.2,1.5,1.82
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2006,7.15,8.07,7.2,6.82
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2006,5.83,3.13,NA,3.99
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2006,'0.6,1.5,4.18,NA
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2006,5.94,4.9,3.72,7.66
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2006,4.78,1.05,3.85,5.69
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2006,4.85,4.9,5.65,5.9
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2006,4.15,1.44,2.79,4.13
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2006,9.88,1.52,2.91,5.02
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2006,2.55,1.6,'0.8,3.13
+TN,Madurai,"Madurai South",Thiruparankundram,9.80833333,78.09944444,Valayankulam-2,"Bore Well",W18732,2005,18.91,16.79,17.54,17.57
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2005,10.08,3.04,2.5,7.25
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2005,5.14,2.02,6.5,3.3
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2005,7.3,5.79,6.27,6.55
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2005,8.21,6.53,6.01,7.48
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2005,14.63,10.95,4.79,12.7
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,2005,1.72,1.46,'0.87,1.15
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2005,10.31,NA,10.98,10.57
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2005,10.15,3.42,4.53,NA
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2005,2.73,1.56,1.43,2.17
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2005,7.8,5.21,4.93,5.74
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2005,5.05,1.24,3.15,4.65
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2005,6.29,3,'0.63,5.95
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2005,5.41,2.08,1.23,4.47
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,2005,NA,16.79,17.54,17.57
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,2005,NA,'0.42,5.57,NA
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2005,5.5,NA,2.64,4.75
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2005,NA,2.56,NA,NA
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2004,NA,7.57,NA,NA
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2004,NA,17.03,10.3,20.8
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2004,NA,4.27,1.39,6.44
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,2004,7.4,NA,5,NA
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,2004,10.97,5.72,7.82,8.8
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2004,10.3,7.59,6.5,9.4
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2004,20.8,14.97,20.2,19.14
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,2004,3.4,'0.64,1.05,2.28
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2004,11.4,10.7,13.6,11.4
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2004,24.1,13.95,11.85,22.18
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2004,17.2,NA,4.6,NA
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2004,4.4,2.06,'0.9,4.4
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2004,7.9,7.3,4.2,7.4
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2004,7.55,5.22,'0.9,6.15
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2004,7,4.79,6.35,5.54
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2004,6.78,4.92,2.28,6.18
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,2004,9.99,9.01,5.99,10.75
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,2004,20.7,16.72,18.6,18.93
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,2004,11.2,NA,6.1,12.54
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,2004,NA,6.2,NA,NA
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2003,NA,3.77,7.57,6.73
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2003,15.65,6.22,NA,15.29
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2003,NA,3.44,7.2,NA
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,2003,9.93,7.67,5.69,9.62
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2003,7.64,5.65,7.1,7.46
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2003,12.59,7.55,13.57,10.77
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,2003,1.93,3.1,1.12,2.55
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2003,NA,NA,10.7,NA
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2003,22.56,11.7,16.04,15.48
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2003,5.22,7.2,5.63,5.21
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2003,6.92,4.85,5.35,6.9
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2003,3.81,2.13,4.51,5.28
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2003,6.78,6,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2003,7.1,5.13,3.75,7.19
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,2003,7.73,6.59,8.51,6.58
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,2003,17.62,16.39,17.28,16.79
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,2003,NA,6.2,NA,NA
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,2003,NA,2.46,6.2,NA
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,2002,NA,1.28,NA,NA
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2002,NA,2.24,5.87,5.04
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,2002,9.84,6.52,7.7,8.27
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2002,7.56,NA,NA,6.75
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2002,7.56,3.5,7.27,6.95
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,2002,NA,NA,1.57,2.6
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2002,NA,11.05,NA,NA
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2002,15,NA,12.1,11.8
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2002,NA,NA,23.83,NA
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2002,5.14,1.38,1.56,4.25
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2002,6.85,4.62,4.42,7.35
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2002,6.6,5.5,'0.68,6.3
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2002,6.79,1.21,1.29,NA
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2002,7.24,4.58,7.13,6.08
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,2002,9.02,7.54,4.25,8.79
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,2002,NA,17.25,NA,4.59
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,2002,NA,1.86,6.64,NA
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2002,15.43,NA,10.5,10.35
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2002,NA,1.47,3.6,4.72
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2001,2.94,2.87,2.69,4.29
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2001,8.32,3.88,NA,NA
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2001,12.5,9.68,12.37,11.47
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,2001,NA,'0.43,NA,NA
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2001,6.3,NA,5.43,5.34
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,2001,12.55,14.16,14.85,16.21
+TN,Madurai,Tirumangalam,Thirumangalam,9.84166667,77.87222222,Valandur,"Dug Well",W02231,2001,6.62,3.45,NA,4.4
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,2001,8.71,3.7,7.29,6.59
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2001,NA,2.7,6.32,4.78
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2001,6.29,2.25,5.24,4.28
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2001,12.4,9.09,NA,11.82
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2001,6.11,5.59,5.65,6.09
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,2001,NA,4.17,6.67,6.91
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2001,6.5,6.21,4.97,7.55
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,2001,NA,NA,1.7,3.72
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2001,5.02,3.56,NA,5.05
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,2001,4.97,1.44,4.1,NA
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2001,2.3,NA,1.47,NA
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2001,7.42,1.76,8.1,2.42
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2001,NA,3.18,16.17,10.07
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,2000,5.36,'0.85,'0.84,3.45
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,2000,NA,3.9,3.57,NA
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,2000,7.46,3.94,NA,6.2
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,2000,5.01,13.35,15.2,14.55
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,2000,6.12,2.49,3.54,4.94
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,2000,3.48,2.58,2.38,2.43
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,2000,NA,4.89,5.04,5.39
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,2000,5.8,3.37,5.85,5.15
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,2000,4.78,4.51,4.6,4.83
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,2000,NA,1.5,2.2,3.78
+TN,Madurai,Ushilampatti,Usilampatti,9.97083333,77.79583333,M.Kallupatti,"Bore Well",W02233,2000,NA,NA,1.32,NA
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,2000,NA,8.2,10.74,10.3
+TN,Madurai,Tirumangalam,Thirumangalam,9.84166667,77.87222222,Valandur,"Dug Well",W02231,2000,6.38,4.5,NA,5.25
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,2000,10.7,7.99,NA,9.55
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,2000,NA,2.4,1.52,NA
+TN,Madurai,Peraiyur,Sedapatti,9.82083333,77.80416667,Sellampatti,"Bore Well",W02228,2000,NA,2.2,1.35,6.2
+TN,Madurai,Peraiyur,Sedapatti,9.75,77.675,Sedapatti,"Bore Well",W02227,2000,NA,4.5,3.49,8.92
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,2000,7.09,4.67,NA,5.57
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,2000,3.29,2.11,2.29,6.24
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,2000,NA,8.98,NA,NA
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,2000,4.76,1.31,1.72,2.95
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,1999,'0.2,1.07,3.87,4.17
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,1999,4.8,4.7,4.32,5
+TN,Madurai,Tirumangalam,Thirumangalam,9.84166667,77.87222222,Valandur,"Dug Well",W02231,1999,5.5,2.85,NA,4.7
+TN,Madurai,Melur,Melur,9.95833333,78.30416667,Kambur,"Bore Well",W02219,1999,10.75,NA,NA,NA
+TN,Madurai,Melur,Melur,10.03055556,78.33333333,Melur-1,"Bore Well",W02220,1999,9.55,NA,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,1999,6.19,1.79,1.56,2.49
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,1999,7.27,3.29,7.51,6.15
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,1999,6.25,2.79,9.01,4.55
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,1999,5.52,1.45,1.33,4.6
+TN,Madurai,Tirumangalam,Kalllikudi,9.69166667,77.95833333,Kattapatti,"Bore Well",W02229,1999,21.6,NA,NA,NA
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,1999,6.75,2.83,5.2,5.24
+TN,Madurai,Ushilampatti,Chellampatti,9.92083333,77.88333333,Tirumangalam,"Bore Well",W02232,1999,13.3,NA,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,1999,5.79,NA,4.97,5.79
+TN,Madurai,Natham,Alanganallur,10.05,78.09666667,Alanganallur,"Bore Well",W02225,1999,6.2,NA,NA,NA
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,1999,2.59,1.69,2.55,3.19
+TN,Madurai,"Madurai North","Madurai East",10.04583333,78.2,Kallandri1,"Bore Well",W02211,1999,10.2,NA,NA,NA
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,1999,3.16,1.78,1.9,3.48
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,1999,4.74,1.3,1.77,NA
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,1999,6.11,NA,1.65,7.92
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,1999,12.72,10.55,14.65,10.89
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,1998,14.15,11.87,12.44,13.15
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,1998,6.14,'0.81,2.59,6.09
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,1998,3.03,1.18,1.83,3.18
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,1998,NA,4.69,4.84,4.19
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,1998,5.2,1.1,2.35,5.4
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,1998,5.2,5.25,4.32,6.25
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,1998,6.8,1.6,7.3,4.45
+TN,Madurai,Tirumangalam,Thirumangalam,9.84166667,77.87222222,Valandur,"Dug Well",W02231,1998,4.6,3.45,7.75,4.3
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,1998,7.59,7.14,6.99,7.59
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,1998,4.98,3.03,4.83,5.83
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,1998,2.82,1.56,1.19,5.29
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,1998,4.92,1.2,'0.9,3.2
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,1998,1.82,'0.77,'0.32,4.47
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,1998,5.33,4.17,3.75,7.1
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,1997,8.48,3.61,1.49,6.34
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,1997,5.64,4.09,4.79,4.1
+TN,Madurai,Tirumangalam,Thirumangalam,9.84166667,77.87222222,Valandur,"Dug Well",W02231,1997,7.05,3.81,2.2,4.87
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,1997,14.15,11.2,6.86,12.89
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,1997,6.27,1.07,1.05,3.91
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,1997,7.9,4.76,3.55,6.73
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,1997,14.15,5.06,7.03,7.92
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,1997,12.6,7.99,9.74,8.96
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,1997,NA,6.32,4.45,NA
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,1997,NA,6.46,4.32,7.9
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,1997,3.59,'0.83,4.47,5.19
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,1997,4.88,1.83,2.53,3.35
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,1997,6.25,5.05,4.99,6.3
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,1997,NA,1.26,3.35,3.3
+TN,Madurai,"Madurai South","Madurai South",9.90833333,78.15277778,"Madurai South","Dug Well",W02214,1996,5.71,5.14,5.19,5.09
+TN,Madurai,"Madurai North","Madurai East",9.88444444,78.18888889,Puliyankulam,"Dug Well",W02212,1996,5.5,4.67,5.3,8.3
+TN,Madurai,Ushilampatti,Usilampatti,9.98611111,77.80416667,Usilampatti1,"Dug Well",W02234,1996,11.45,10.75,7,10.95
+TN,Madurai,Tirumangalam,Thirumangalam,9.84166667,77.87222222,Valandur,"Dug Well",W02231,1996,7.18,4.1,5.02,6.45
+TN,Madurai,Peraiyur,"T. Kallupatti",9.72083333,77.85555556,T.Kallupatti-2,"Dug Well",W02226,1996,12.62,9.7,6.71,12.27
+TN,Madurai,"Madurai South","Madurai South",9.91944444,78.11805556,"Madurai Town","Dug Well",W02215,1996,4.36,6.24,2.43,2.53
+TN,Madurai,Natham,Vadipatti,9.99444444,77.99222222,Ayyankottai,"Dug Well",W02223,1996,5.28,1.46,2.02,1.3
+TN,Madurai,Natham,Vadipatti,10.06388889,77.975,V.Andippatti,"Dug Well",W02224,1996,3.46,3.04,1.4,5.49
+TN,Madurai,Melur,Melur,10.03333333,78.34444444,Melur-2,"Dug Well",W02222,1996,6.27,1.22,3.22,3.64
+TN,Madurai,Melur,Melur,10.225,78.37916667,Kottampatti,"Dug Well",W02218,1996,7.54,7.26,6.56,7.86
+TN,Madurai,"Madurai South","Madurai South",9.875,78.18333333,Puriankulam,"Dug Well",W02216,1996,5.31,9.29,4.4,5.69
+TN,Madurai,"Madurai North","Madurai West",10.07916667,78.175,Kadavoor,"Dug Well",W02213,1996,4.61,3.96,1.92,3.62
+TN,Madurai,Tirumangalam,Thirumangalam,9.81666667,77.97916667,Thirumangalam1,"Dug Well",W02230,1996,15.01,8.12,9.4,10.59
+TN,Madurai,"Madurai South",Thiruparankundram,9.80416667,78.09166667,Valayankulam-1,"Dug Well",W02217,1996,12.52,13.1,11.63,NA
