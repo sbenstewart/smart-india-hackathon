@@ -1,0 +1,838 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2018,8.31,2.37,NA,NA
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti S.Puram","Dug Well",W23743,2018,'0.13,NA,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2018,3.12,5.4,NA,NA
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2018,3.63,17.93,NA,NA
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2018,18,15.56,NA,NA
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2018,51.07,10.65,NA,NA
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2018,9.48,7.85,NA,NA
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2018,6.63,4.25,NA,NA
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2018,17.3,10.14,NA,NA
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2018,4.8,6.85,NA,NA
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2018,5.4,5.75,NA,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2018,11,7.48,NA,NA
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2018,13.53,6.95,NA,NA
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2018,3.28,'0.82,NA,NA
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2018,9.86,9.62,NA,NA
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2018,8.45,3.55,NA,NA
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2018,18.9,17.93,NA,NA
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2018,36.2,8.1,NA,NA
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2018,7.82,4.9,NA,NA
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2018,NA,1.89,NA,NA
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2018,NA,19.81,NA,NA
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2018,NA,7.99,NA,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2018,NA,1.99,NA,NA
+TN,Salem,Gangavalli,Gangavalli,11.49583333,78.65,Gangavalli,"Bore Well",W02413,2018,8.02,NA,NA,12.43
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2018,8.85,NA,NA,NA
+TN,Salem,Salem,Veerapandi,11.52555556,78.05,Papparapatti,"Dug Well",W20662,2018,7.5,NA,NA,NA
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2018,10.32,NA,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2018,4.5,NA,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.59166667,78.11138889,"Pincheyai Kodu","Dug Well",W20669,2018,5.4,NA,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2018,4.8,NA,NA,NA
+TN,Salem,Salem,Salem,11.63916667,78.125,"S.K.Garden Nathimedi","Dug Well",W20663,2018,1.93,NA,NA,NA
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2018,5.64,NA,NA,NA
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2018,10.55,NA,NA,NA
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2018,12.5,10.45,NA,NA
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2017,54.54,53.44,11.7,NA
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2017,7.75,6.72,2.91,9.11
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2017,3.08,6.53,NA,8.26
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2017,12.96,12.25,NA,14.2
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2017,12.87,15.47,NA,20.15
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2017,17.1,9.34,NA,17.12
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2017,7.2,8.55,NA,7.94
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2017,24.68,22.01,NA,26.43
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2017,10.35,11.86,NA,11.16
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2017,14.4,10.2,NA,14.4
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2017,22.76,24.53,NA,24.37
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2017,28.2,28.5,NA,26.65
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2017,4.91,5.45,2.8,8.66
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2017,19.81,15.39,19.81,19.81
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2017,9.3,8.5,3.9,9.3
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2017,26.1,17.7,20.58,24.9
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2017,9.95,8.25,7.4,10.88
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2017,12.1,9.4,5.7,11.6
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2017,9.35,10.61,3.9,11.66
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2017,13.75,12.15,8.75,16.25
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2017,17.15,17.15,17.15,17.15
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2017,2.3,8.2,'0.95,2.43
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2017,5.7,7.35,3.67,7.56
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2017,2.27,1.83,1.38,3.59
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2017,14.71,9.24,7.83,15.56
+TN,Salem,Gangavalli,Talavasal,11.59722222,78.6625,Kattukottai,"Bore Well",W02417,2017,NA,NA,8.1,NA
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2016,49.48,NA,53.55,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2016,2.53,NA,5.97,NA
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2016,14.09,NA,23.64,NA
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2016,2.5,NA,6.55,NA
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2016,3.68,NA,15.95,NA
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2016,8.17,NA,9.17,NA
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2016,12.2,NA,11.58,NA
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2016,18.25,NA,17.1,NA
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2016,4.76,NA,8.18,NA
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2016,20.72,NA,20.44,NA
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2016,8.01,NA,11.5,NA
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2016,4.72,NA,7.35,NA
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2016,10.3,NA,11.68,NA
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2016,10.16,NA,9.5,NA
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2016,NA,NA,21.41,NA
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2016,3.39,NA,6.25,NA
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2016,4.89,NA,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2016,4.49,NA,6.94,NA
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2016,14.4,NA,16.4,NA
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2016,8.98,NA,9.5,NA
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2016,6.85,NA,13.03,NA
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2016,11.51,NA,16.76,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2016,13.97,NA,12.85,NA
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2016,15.91,NA,12.76,NA
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2016,9.67,NA,10.4,NA
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2015,13.17,NA,12.8,13.17
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti S.Puram","Dug Well",W23743,2015,NA,'0.68,NA,5.73
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2015,24.06,23.88,13.8,22.6
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2015,4.45,3.68,1.72,3.47
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2015,2.24,1.4,'0.52,1.9
+TN,Salem,Gangavalli,Talavasal,11.59166667,78.75,Thalaivasal,"Bore Well",W02418,2015,NA,6.2,NA,NA
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2015,7.93,NA,7.02,7.93
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2015,8.78,NA,8.09,8.78
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,2015,2.8,NA,NA,2.8
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2015,17.15,17.15,NA,17.15
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2015,16.55,5.57,3.19,7
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2015,21.65,18.85,13.93,18.95
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2015,NA,9.07,NA,NA
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2015,9.16,NA,NA,9.16
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2015,1.6,1.5,'0.93,6.3
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2015,11.6,7.92,3.25,8.83
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2015,8,4.8,3.15,8
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2015,NA,7.81,11.29,5.27
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2015,11.3,10.95,9.11,11.63
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2015,5.8,NA,3.84,5.39
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2015,4.29,6,2.76,6.7
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2015,NA,18.9,9.65,24.95
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2015,6.24,8.05,4.03,6.27
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2015,5,3.35,2.4,5.63
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2015,12.91,7.61,7.66,9.49
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2015,11.35,11.35,7.13,13
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2015,16.51,15,12.58,16.51
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,2015,NA,NA,NA,15.93
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2015,2.42,2.47,1.09,2.42
+TN,Salem,Salem,Veerapandi,11.52555556,78.05,Papparapatti,"Dug Well",W20662,2015,2,NA,NA,2
+TN,Salem,Salem,Salem,11.63916667,78.125,"S.K.Garden Nathimedi","Dug Well",W20663,2015,5.8,9.6,NA,4.66
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2015,14.12,9.3,NA,13.3
+TN,Salem,Salem,Veerapandi,11.51916667,78.05805556,Mamana,"Dug Well",W20667,2015,NA,NA,NA,4.24
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2015,13.45,11.18,NA,13.45
+TN,Salem,Salem,Panaimarathupatti,11.59166667,78.11138889,"Pincheyai Kodu","Dug Well",W20669,2015,NA,9.55,NA,16.85
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2015,NA,'0.75,NA,5.05
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2015,11,11.8,NA,9.9
+TN,Salem,Salem,Salem,11.61388889,78.10305556,Utamacholapuram,"Dug Well",W20672,2015,10.75,NA,NA,10.75
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2015,8.45,7.95,7.66,9.24
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2014,13.4,19.45,NA,54.25
+TN,Salem,Salem,Salem,11.61388889,78.10305556,Utamacholapuram,"Dug Well",W20672,2014,NA,13.32,NA,NA
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2014,26.4,17.2,NA,24.7
+TN,Salem,Gangavalli,Gangavalli,11.54166667,78.6375,Odayathur,"Bore Well",W02414,2014,NA,NA,'0.01,NA
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2014,6.83,4.8,NA,7.95
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2014,4.3,3.35,NA,7.83
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2014,7.22,6.47,NA,8.42
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2014,12.55,10.75,NA,12.25
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2014,7.82,7.6,NA,8.6
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2014,22.1,22.7,NA,26.87
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2014,12.1,10.15,NA,11.56
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2014,5.33,6.1,NA,7.16
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2014,8.4,12.3,NA,11.87
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2014,13.2,12.2,NA,NA
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2014,61.75,48.1,NA,57
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2014,11.2,NA,NA,11.06
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,2014,NA,NA,3.89,NA
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2014,NA,5.7,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2014,11.74,7.49,NA,11.69
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2014,20.53,15.8,NA,15.5
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2014,11.7,12.5,NA,12.7
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2014,8.85,4.07,NA,11.9
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2014,16.86,13.36,NA,19.81
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2014,14.75,8.65,NA,12.65
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2014,24.11,11.56,NA,14.81
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,2014,NA,NA,NA,18.37
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2014,1.53,2.37,NA,3.62
+TN,Salem,Salem,Veerapandi,11.52555556,78.05,Papparapatti,"Dug Well",W20662,2014,NA,6.1,NA,NA
+TN,Salem,Salem,Salem,11.63916667,78.125,"S.K.Garden Nathimedi","Dug Well",W20663,2014,10.95,4.2,NA,12.15
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2014,9.6,10.45,NA,11.38
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2014,12.2,18.85,NA,17.25
+TN,Salem,Salem,Panaimarathupatti,11.59166667,78.11138889,"Pincheyai Kodu","Dug Well",W20669,2014,15,18.1,NA,6.85
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2014,2.3,6.9,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2014,14.9,14.6,NA,7.9
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2014,9.37,8.82,NA,10.02
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2013,NA,56.1,32.5,NA
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2013,14.8,NA,11.6,12.8
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2013,13.65,9.1,14.75,NA
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2013,8.5,4.35,4.9,6.7
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2013,15.4,5.2,2.3,NA
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2013,9.77,6.3,10.72,7.67
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2013,13.5,9.85,10.9,NA
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2013,NA,17.15,18.25,17.15
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2013,NA,5.56,NA,5.74
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2013,12.2,6.9,5.05,NA
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2013,24,21.1,20.53,NA
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2013,11.1,6.1,9.67,NA
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2013,13.63,11.23,NA,12.73
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2013,8,2.4,4.1,4.05
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2013,13.4,12.9,12.75,NA
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2013,14.08,10.98,11.7,15
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2013,22.8,21.7,38,NA
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2013,10.3,4.7,10.7,11.4
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2013,11.6,5.1,4.7,12.9
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2013,10.54,5.39,4.89,9.59
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2013,16,10.5,14.8,15.5
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2013,11.9,10.5,11.4,14
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2013,5.1,NA,NA,NA
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2013,6.9,7.6,3.7,NA
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2013,12.16,9.71,11.91,13.01
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2013,7.49,NA,NA,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2013,13,8.25,9,12.45
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2013,11.81,11.46,NA,11.81
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,2013,NA,NA,11.81,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2013,1.97,2.42,NA,3.92
+TN,Salem,Salem,Veerapandi,11.52555556,78.05,Papparapatti,"Dug Well",W20662,2013,NA,NA,5.6,NA
+TN,Salem,Salem,Salem,11.63916667,78.125,"S.K.Garden Nathimedi","Dug Well",W20663,2013,7.3,NA,5.75,13.2
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2013,11.1,NA,10.6,10.8
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2013,11.75,NA,10.15,16.95
+TN,Salem,Salem,Panaimarathupatti,11.59166667,78.11138889,"Pincheyai Kodu","Dug Well",W20669,2013,17.4,NA,17.6,17.4
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2013,7,NA,6.9,8
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2013,12.52,9.35,8.77,11.72
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2012,NA,NA,50.4,26.9
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2012,NA,NA,'0.67,4.07
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2012,NA,NA,7.1,8.4
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2012,NA,NA,2.75,3.8
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2012,NA,NA,2.5,16.9
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2012,NA,NA,5.65,4.8
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2012,NA,NA,9.05,7.7
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2012,NA,NA,15.9,NA
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2012,NA,NA,4.85,5.4
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2012,NA,NA,18.1,20.9
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2012,NA,NA,5.45,5.8
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2012,NA,NA,9.93,10.43
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2012,NA,NA,2.2,NA
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2012,NA,NA,7,12.4
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2012,NA,NA,6.58,7.98
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2012,NA,NA,10.05,16.6
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2012,NA,NA,3,5.2
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2012,NA,NA,3.44,8.55
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2012,NA,NA,3.1,3.49
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2012,NA,NA,10.8,NA
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2012,NA,NA,7.8,NA
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2012,NA,NA,5.2,10.4
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2012,NA,NA,8.11,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2012,NA,NA,7.45,9.35
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2012,NA,NA,15.31,NA
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2012,NA,NA,7.35,8.75
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2011,35.9,8.24,25.5,9.45
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2011,1.67,1.1,1.07,2.62
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2011,7.55,3.45,5.25,6.4
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2011,2.95,1.2,1.55,2.8
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2011,5.95,1.96,1.55,4.1
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2011,6.6,4.52,4.42,5
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2011,7.75,5.43,7.52,6.65
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,2011,NA,2.1,NA,NA
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2011,16.2,NA,NA,16.4
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2011,3.54,2.1,'0.46,3.89
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2011,3.85,4.45,2.25,3.61
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2011,17.15,NA,16.75,16.37
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2011,5.95,3.61,3.95,3.35
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2011,7.23,7.18,6.98,6.28
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2011,'0.5,'0.79,-0.02,'0.6
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2011,10.7,8.58,11.1,12.7
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2011,4.48,8.16,2.53,4.58
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2011,7.11,4.6,2.75,7.05
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2011,3.55,2.58,1.9,4
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2011,5.6,4.22,4.2,4.96
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2011,4.39,2.29,2.79,3.84
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2011,8.2,6.2,8.57,6.57
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2011,12.05,5.65,8.15,9.1
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2011,4.1,2.7,2.05,5.65
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2011,NA,1.49,NA,NA
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2011,4.66,2.56,3.56,3.66
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2011,NA,NA,6.54,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2011,8.2,5,5.35,7.05
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2011,11.26,10.53,10.81,11.96
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,2011,NA,6.2,NA,NA
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2011,8.25,4.65,6.6,10.75
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2010,58,39,50.4,58
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2010,NA,NA,NA,15.63
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2010,12.92,10.95,16.05,19.47
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2010,2.75,4.6,1.32,5.29
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2010,5.85,2.75,2.3,5.51
+TN,Salem,Gangavalli,Talavasal,11.59166667,78.75,Thalaivasal,"Bore Well",W02418,2010,NA,NA,NA,10.25
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2010,8.77,8.3,6.97,8.38
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2010,9.5,8.1,8.65,10.04
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,2010,3.66,NA,NA,NA
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2010,NA,6.4,17.15,17.15
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2010,3.66,3.44,'0.66,3.79
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2010,5.25,8.2,2.86,8.5
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2010,NA,17.9,NA,22.8
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2010,10.3,7.15,5,9.45
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2010,9.23,11.28,7.88,7.42
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2010,4.05,3.6,'0.8,6.86
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2010,9.4,11.65,8.43,10.68
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2010,9.4,5.38,2.87,10.48
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2010,11.3,29.45,3.79,38.65
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2010,7.85,5.7,2.6,8.07
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2010,6.27,4.75,4.39,8.27
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2010,4.28,5.39,2.54,11.54
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2010,9.12,NA,NA,10.25
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2010,11.24,6.8,8.81,10.7
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2010,6.6,9.7,4.45,13.1
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2010,NA,NA,NA,6.12
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2010,11.3,3.15,1.4,9.8
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2010,1.3,3.28,'0.76,4
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2010,4.86,9.11,2.59,9.64
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2010,NA,13.44,NA,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2010,3.2,9.45,6.57,13.02
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2010,11.06,12.61,10.51,11.66
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,2010,9.12,NA,NA,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2010,1.82,2.37,1.22,4.71
+TN,Salem,Salem,Veerapandi,11.52555556,78.05,Papparapatti,"Dug Well",W20662,2010,NA,NA,NA,6.03
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2010,NA,NA,NA,9.95
+TN,Salem,Salem,Veerapandi,11.51916667,78.05805556,Mamana,"Dug Well",W20667,2010,NA,NA,NA,5.73
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2010,NA,NA,NA,18.81
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2010,NA,NA,NA,8.86
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2010,8.33,9.15,5.05,10.1
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2009,50.4,NA,50.4,NA
+TN,Salem,Salem,Salem,11.61388889,78.10305556,Utamacholapuram,"Dug Well",W20672,2009,NA,NA,NA,10.1
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2009,10.47,4,8.9,NA
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2009,5.95,1.3,5.84,4.6
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2009,7.45,1.52,6.2,NA
+TN,Salem,Gangavalli,Talavasal,11.59166667,78.75,Thalaivasal,"Bore Well",W02418,2009,4.38,NA,NA,4.44
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2009,7.47,2.75,9.07,5.66
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2009,9.5,6.55,11.1,8.3
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2009,17.15,11.4,17.15,17.15
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2009,2.54,1.54,3.46,2.62
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2009,NA,5.48,7.08,7.97
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,2009,6.86,NA,NA,NA
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2009,19.37,16.3,16.92,19.3
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2009,7.55,NA,7.45,6.87
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2009,10.31,7.38,11.03,NA
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2009,3.25,NA,3.55,3.7
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2009,11.72,8.55,11.4,11.75
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2009,4.48,2.73,5.46,5.58
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2009,19.58,10.15,26.5,22.17
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2009,4.5,3.2,4.1,5.2
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2009,4.65,4,4.32,NA
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2009,4.44,2.67,5.64,5.59
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2009,4.38,NA,NA,4.44
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2009,5.9,3.55,6.2,5.6
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2009,9.66,5.7,10.22,10.2
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2009,NA,4.17,NA,NA
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2009,5.9,2.8,3.9,5.6
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2009,1.6,1.79,3.2,4.64
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2009,8.83,6.76,10.46,9.21
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2009,10.89,4.54,14.99,8.96
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2009,9.75,4.55,10.9,8.88
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2009,12.51,9.91,12.56,12.47
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2009,1.8,2.07,2.85,3.67
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2009,NA,NA,NA,9.96
+TN,Salem,Salem,Veerapandi,11.51916667,78.05805556,Mamana,"Dug Well",W20667,2009,NA,NA,NA,4.39
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2009,NA,NA,NA,10.8
+TN,Salem,Salem,Panaimarathupatti,11.59166667,78.11138889,"Pincheyai Kodu","Dug Well",W20669,2009,NA,NA,NA,10.05
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2009,NA,NA,NA,7.91
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2009,NA,NA,NA,7.15
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2009,9.42,5.15,10,NA
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2008,22.7,5.36,NA,23.57
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2008,1.33,2.07,2.02,2.59
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2008,8.83,6.2,5.86,6.16
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2008,3.3,2.8,2.2,4.22
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2008,5.7,2.4,NA,3.5
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2008,7.17,6.12,5.41,6.13
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2008,7.47,6.16,NA,6.27
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2008,14.95,17.15,16.5,17.15
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2008,1.14,1.29,2.09,2.27
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2008,NA,NA,NA,5.54
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,2008,NA,2.36,NA,5.54
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2008,18,18.07,NA,20.57
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2008,3.43,3.7,5.29,3.42
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2008,NA,6.23,5.68,7.26
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2008,2.65,9.7,NA,4.3
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2008,9.52,8.03,NA,8.96
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2008,2.48,1.91,2.48,3.58
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2008,8.42,5.7,NA,9.92
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2008,2.15,2.56,2.5,3.46
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2008,NA,3.35,3.75,4.8
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2008,2.46,2.39,2.74,3.62
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2008,NA,10.95,NA,NA
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2008,5,3.85,4.1,5.55
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2008,2.7,6.5,4.55,9.78
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2008,5.94,3.99,4.17,4.67
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2008,9.61,2.7,NA,NA
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2008,1.57,2.2,2.55,3.89
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2008,NA,8.06,8.41,9.61
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2008,3.79,5.04,4.49,8.44
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2008,5.1,3.91,4.72,7.6
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2008,9.71,9.13,9.81,12.31
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2008,8.22,NA,6.75,8.32
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2007,6.62,6.63,6.12,15.1
+TN,Salem,Salem,Salem,11.61388889,78.10305556,Utamacholapuram,"Dug Well",W20672,2007,9.55,8.7,NA,NA
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2007,9.6,4.5,3.65,9.1
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2007,5.2,2.1,3.96,4.3
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2007,14.7,2.65,3.7,3.57
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2007,6.92,4.93,6.57,6.49
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2007,7.12,5.9,6.74,13.1
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2007,17.15,17.15,17.15,17.15
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2007,4.04,1.84,1.04,2.99
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2007,NA,NA,3.4,8.4
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2007,22.24,19.62,16.4,11
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2007,7.6,5.01,3.7,9.8
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2007,11.73,8.23,6.38,9.18
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2007,12.2,11.6,10.6,11.8
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2007,10.76,9.57,7.3,10.52
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2007,7.73,2.68,1.53,6.48
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2007,12.37,9.96,4.77,17.38
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2007,4.52,3.37,1.2,7
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2007,5.9,4.05,3.1,5.9
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,2007,NA,8.35,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2007,3.89,2.07,2.19,3.7
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2007,13.05,2.05,15.65,NA
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2007,5.65,3.15,4,4.6
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2007,8.3,8.1,2.8,9.85
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2007,6.48,4.4,3.99,7
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2007,5.7,3.3,2.7,3.6
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2007,3.5,4.35,1.95,7.4
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2007,10.81,9.01,7.81,12.57
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2007,11.74,6.54,5.84,12.74
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2007,7.25,4.1,3.85,7.3
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2007,12.31,8.31,10.11,14.41
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2007,2.67,2.37,1.69,3.32
+TN,Salem,Salem,Veerapandi,11.52555556,78.05,Papparapatti,"Dug Well",W20662,2007,-0.09,NA,NA,NA
+TN,Salem,Salem,Salem,11.63916667,78.125,"S.K.Garden Nathimedi","Dug Well",W20663,2007,6.5,7.3,NA,NA
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2007,9.7,8.8,NA,NA
+TN,Salem,Salem,Veerapandi,11.58055556,78.06666667,K.Kodu,"Dug Well",W20666,2007,NA,'0.6,NA,NA
+TN,Salem,Salem,Veerapandi,11.51916667,78.05805556,Mamana,"Dug Well",W20667,2007,1.05,1.6,NA,NA
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2007,7.05,7.5,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.59166667,78.11138889,"Pincheyai Kodu","Dug Well",W20669,2007,13.6,13.97,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2007,1.1,'0.1,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2007,16.6,3.9,NA,NA
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2007,9.17,7.1,7.02,8.72
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2006,8.75,4.58,6.63,6.98
+TN,Salem,Salem,Salem,11.61388889,78.10305556,Utamacholapuram,"Dug Well",W20672,2006,10.55,6.07,7.14,9.2
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2006,8.4,3.09,6.31,6.88
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2006,4.52,'0.95,2.32,2.3
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2006,5.03,1.45,1.94,3
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2006,6.57,2.61,5.51,5.43
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2006,7.85,4.82,6.68,6.32
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2006,17.15,7.36,17.15,11.46
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2006,3.41,2.31,2.23,2.44
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2006,5.52,2.51,3.79,NA
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,2006,NA,2.5,17.04,13.86
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2006,20.7,15.05,13.92,18
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2006,6.55,3.41,4.81,4.83
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2006,9.07,6.22,6.48,7.73
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2006,11.62,3.84,17.86,10.1
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2006,10.3,7.44,NA,10.85
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2006,5.5,1.25,2.38,4.31
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2006,13.5,4.63,6.27,11.1
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2006,6.7,2.07,2.15,4.5
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,2006,5.85,3.04,NA,4.75
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2006,5.12,2.78,3.47,4.77
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,2006,NA,NA,NA,7.05
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2006,3.27,1.12,1.37,2.59
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2006,5.88,4.64,1.79,14.45
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2006,6.72,5.79,2.05,6.4
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2006,5.55,3.6,4.94,8.2
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2006,5.44,3.13,4.02,4.96
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2006,4.97,2.54,2.77,8.04
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2006,5.56,'0.3,4.25,4.44
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2006,10.01,1.61,8.95,4.25
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2006,10.67,5.12,5.79,8.19
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2006,7.29,2.98,3.71,NA
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2006,11.26,2.23,8.48,7.11
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2006,2.23,1.75,2.29,2.77
+TN,Salem,Idappadi,Edappadi,11.59805556,77.75444444,Irupalli,"Bore Well",W20751,2006,NA,4.72,NA,NA
+TN,Salem,Salem,Salem,11.66111111,78.16777778,Anaimedu,"Dug Well",W20661,2006,6.45,2.56,NA,'0.1
+TN,Salem,Salem,Veerapandi,11.52555556,78.05,Papparapatti,"Dug Well",W20662,2006,'0.1,'0.1,'0.1,'0.1
+TN,Salem,Salem,Salem,11.63916667,78.125,"S.K.Garden Nathimedi","Dug Well",W20663,2006,8.52,2.84,2.67,5.7
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2006,10.85,7.43,'0.1,9.1
+TN,Salem,Salem,Veerapandi,11.58055556,78.06666667,K.Kodu,"Dug Well",W20666,2006,2.1,'0.1,'0.1,'0.8
+TN,Salem,Salem,Veerapandi,11.51916667,78.05805556,Mamana,"Dug Well",W20667,2006,4.72,'0.78,'0.49,4
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2006,6.34,3.28,NA,6.75
+TN,Salem,Salem,Panaimarathupatti,11.59166667,78.11138889,"Pincheyai Kodu","Dug Well",W20669,2006,5.24,5.5,4.73,9.95
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2006,'0.1,'0.1,'0.2,'0.1
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2006,5.95,3.3,'0.77,5.05
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2006,8.46,4.29,6.58,6.8
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2005,24.8,5.5,6.95,10.02
+TN,Salem,Salem,Salem,11.61388889,78.10305556,Utamacholapuram,"Dug Well",W20672,2005,NA,NA,5.6,NA
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2005,27.2,13.4,13.49,27.4
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2005,6.3,2.73,1.23,4.3
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2005,4.7,NA,'0.75,3.9
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2005,8.02,3.8,3.5,6.82
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2005,8.8,6.7,6.86,8.4
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2005,17.15,16.9,11.19,17.15
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2005,3.44,4.67,'0.69,3.54
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2005,5.6,3.97,14.45,14
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,2005,NA,NA,14.41,NA
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2005,20.15,17.35,12.57,19.5
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2005,9.95,8.9,4.72,8.92
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2005,10.73,7.93,7.33,9.9
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2005,12.4,3.35,4.95,12.2
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2005,12.9,9.3,6.58,11.16
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2005,6.58,4.88,1.16,10.74
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2005,41.3,NA,NA,39.56
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2005,8.55,8.1,4.35,10.25
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,2005,NA,14.1,3.72,NA
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2005,8.9,3.9,3,5.25
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,2005,NA,NA,15.55,11.86
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2005,7.19,4.94,'0.69,5.3
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2005,NA,NA,17.45,NA
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2005,12.2,10.85,9.1,15.04
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2005,2.7,8.35,3.24,8.65
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2005,9,6.8,3.87,9.1
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2005,4.8,3.4,'0.95,6.64
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2005,5.8,4.23,'0.8,3.13
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2005,8.21,8.16,3.71,2.94
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2005,18.34,17.44,7.54,17.64
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2005,13.8,8.05,4.2,12.55
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2005,14.71,13.21,2.81,12.41
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2005,3.52,2.47,1.27,3.47
+TN,Salem,Salem,Salem,11.66111111,78.16777778,Anaimedu,"Dug Well",W20661,2005,NA,NA,2.76,NA
+TN,Salem,Salem,Veerapandi,11.52555556,78.05,Papparapatti,"Dug Well",W20662,2005,NA,NA,1.37,NA
+TN,Salem,Salem,Salem,11.63916667,78.125,"S.K.Garden Nathimedi","Dug Well",W20663,2005,NA,NA,1.4,NA
+TN,Salem,Salem,Veerapandi,11.52527778,78.075,"Attayampatti Ghss","Dug Well",W20664,2005,NA,NA,7.87,NA
+TN,Salem,Salem,Veerapandi,11.58055556,78.06666667,K.Kodu,"Dug Well",W20666,2005,NA,NA,'0.2,NA
+TN,Salem,Salem,Veerapandi,11.51916667,78.05805556,Mamana,"Dug Well",W20667,2005,NA,NA,'0.27,NA
+TN,Salem,Salem,Veerapandi,11.56944444,78.07222222,Palampatti,"Dug Well",W20668,2005,NA,NA,2.95,NA
+TN,Salem,Salem,Panaimarathupatti,11.59166667,78.11138889,"Pincheyai Kodu","Dug Well",W20669,2005,NA,NA,3.8,NA
+TN,Salem,Salem,Panaimarathupatti,11.60833333,78.10833333,Pulaveri,"Dug Well",W20670,2005,NA,NA,'0.95,NA
+TN,Salem,Salem,Panaimarathupatti,11.55833333,78.09166667,Sevantampatti,"Dug Well",W20671,2005,NA,NA,2.2,NA
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2005,10.05,5.95,5.07,8.42
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2004,8.84,7.91,6.5,9.04
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2004,6.97,7,6.15,8.65
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2004,23.71,19.54,13.1,26.5
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2004,4.6,6.95,2.6,10.4
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2004,NA,3.9,1.7,69.9
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2004,7.33,7.58,6.1,7.29
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2004,9.73,7.9,6.84,7.11
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,2004,NA,3.46,NA,NA
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2004,17.15,8.03,16.98,17.15
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2004,5.59,3.59,3.04,5.64
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2004,6.09,5,3.3,5.2
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2004,18.98,19.2,14.77,16.44
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2004,8.86,8.9,6.62,8.58
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2004,9.63,12.73,7.93,11.23
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2004,11.25,10.55,3.8,11.73
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2004,10.1,8.5,8.43,9.6
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2004,6.3,3.68,4.28,4.78
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2004,27.6,29.82,14.2,NA
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2004,8.55,8.27,6.7,10.2
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,2004,5.97,5.8,3.45,6.31
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2004,4.6,4.6,3.2,5
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,2004,NA,-0.6,9.8,71.4
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2004,4.25,4.74,4.99,5.09
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2004,21.11,NA,NA,159.45
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2004,12.6,12.9,13.1,14.3
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2004,8.9,6.4,7.3,NA
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2004,6.87,5.91,6,6.36
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2004,7.32,4.4,3.3,12.81
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2004,NA,4.6,3.2,6.22
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2004,9.95,9.01,4.01,9.11
+TN,Salem,Valapadi,Gangavalli,11.76388889,78.28333333,Achankuttapatti,"Bore Well",W02451,2004,NA,14.7,NA,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2004,16.44,21.24,13.74,11.29
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2004,11.17,7.35,NA,9.65
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2004,14.51,13.91,10.41,22.56
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,2004,NA,12.62,NA,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2004,2.77,2.17,1.47,1.92
+TN,Salem,Sankari,"Mc. Donal Choultry",11.57083333,78.00416667,Kakapalayam,"Bore Well",W02447,2003,NA,32.7,23.2,NA
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2003,10.08,11,8.5,12.2
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2003,7.5,6.68,2.3,9.2
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2003,13.21,9.41,6.99,9.01
+TN,Salem,Valapadi,Gangavalli,11.76388889,78.28333333,Achankuttapatti,"Bore Well",W02451,2003,14.57,NA,30.53,14.58
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2003,17.44,14.04,18.14,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2003,13.55,10.78,7.57,NA
+TN,Salem,Valapadi,Vazhapadi,11.70277778,78.42222222,"Belur (Kurichi)","Dug Well",W02454,2003,NA,20.6,NA,NA
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2003,13.71,9.13,12.71,26.01
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,2003,NA,18.4,NA,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2003,1.57,5.22,1.72,5.87
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2003,15.28,16,13.71,24.83
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2003,12.1,11.83,17.7,12
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2003,13.4,10.5,3.1,NA
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2003,8.28,7.78,NA,10.93
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2003,NA,24.02,8.68,48
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2003,18.6,9.4,8.88,19.6
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,2003,6.75,5.8,5.42,18.1
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2003,4.75,5.5,5.32,5.55
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,2003,NA,NA,9.9,NA
+TN,Salem,Salem,Panaimarathupatti,11.55416667,78.15,Mallur,"Bore Well",W02439,2003,NA,NA,9.25,NA
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2003,6.34,10.69,9.04,NA
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2003,NA,NA,16.3,NA
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2003,15.1,14.54,NA,25.9
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2003,7.05,10.15,4.32,9.1
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2003,6.9,5.85,4.88,7.65
+TN,Salem,Salem,Salem,11.62916667,78.13333333,Seeragapadi,"Dug Well",W02446,2003,NA,18.2,NA,NA
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2003,8.8,11.25,9.82,NA
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2003,6.85,11.09,6.3,24.87
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2003,23.9,20.6,20.2,43.4
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2003,5.85,6.2,4.63,16.7
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2003,NA,4.7,1.6,6.85
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2003,10.45,13,6.2,22.16
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2003,10.8,10.4,9,NA
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,2003,4.51,4.44,NA,NA
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2003,NA,NA,17.15,NA
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,2003,4.64,16.96,3.09,5.52
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2003,4.9,1.6,2.9,NA
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,2003,17.56,18.2,-0.64,16
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2003,20.39,18.8,16.45,NA
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2003,12.65,5.4,4.78,NA
+TN,Salem,Sankari,"Mc. Donal Choultry",11.57083333,78.00416667,Kakapalayam,"Bore Well",W02447,2002,14.95,12.62,21.5,19.45
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2002,13.6,2.15,5.9,9.4
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2002,10.95,7.3,2.7,9.9
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2002,14.5,11.82,18.13,14.81
+TN,Salem,Valapadi,Gangavalli,11.76388889,78.28333333,Achankuttapatti,"Bore Well",W02451,2002,12.24,8.31,11.46,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2002,18.14,10.29,16.41,13.04
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2002,11.48,5.4,12.85,10.08
+TN,Salem,Valapadi,Vazhapadi,11.70277778,78.42222222,"Belur (Kurichi)","Dug Well",W02454,2002,19.4,14.53,13.6,17.8
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2002,15.81,8.41,12.34,NA
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,2002,20.1,9.3,14.96,18.3
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2002,4.47,1.57,'0.99,3.62
+TN,Salem,Mettur,Mecheri,11.84722222,77.94638889,Erakaundampatti,"Dug Well",W02428,2002,NA,9.28,NA,NA
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2002,15.3,6.18,15.66,14.03
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2002,11.15,10.54,11.1,11.06
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2002,12.57,10.24,9.8,10.64
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2002,11.75,5.42,5.03,10.08
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2002,NA,3.48,18.16,4.52
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2002,8.9,8.54,8.2,8.64
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,2002,14.6,2.87,5.34,5.18
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2002,4.6,3.34,5,4.75
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,2002,NA,6.94,5.42,10.45
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2002,NA,8.19,9.29,6.96
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2002,16.25,11.52,15.48,15.75
+TN,Salem,Salem,Gangavalli,11.59027778,78.19305556,Panamarathupatti-2,"Dug Well",W02442,2002,NA,NA,14.2,NA
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2002,8.8,6.8,7.4,8.7
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2002,10.8,4.3,5.5,6.14
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2002,NA,6.92,16.46,8.3
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2002,10.43,6.95,7.45,10.35
+TN,Salem,Attur,Attur,11.575,78.49722222,Malliyakarai,"Dug Well",W02408,2002,NA,NA,NA,25.39
+TN,Salem,Attur,Pethanaickenpalayam,11.71666667,78.44166667,Belur,"Bore Well",W02410,2002,NA,NA,NA,7.66
+TN,Salem,Attur,Pethanaickenpalayam,11.65833333,78.4625,Ethapur,"Bore Well",W02411,2002,NA,3.84,NA,NA
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2002,26.5,11.02,19,7.66
+TN,Salem,Gangavalli,Gangavalli,11.49583333,78.65,Gangavalli,"Bore Well",W02413,2002,NA,NA,NA,8.5
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2002,6.44,NA,5.3,6.9
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2002,7.75,NA,1.9,6.5
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2002,13.4,5.34,13,8.7
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2002,5.2,NA,11.46,4.5
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,2002,NA,NA,2.61,NA
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2002,6.7,2.77,2.9,4.28
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,2002,NA,9.09,NA,11.41
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2002,23.09,NA,19.3,22.1
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2002,11.6,7.78,10.83,10.4
+TN,Salem,Sankari,"Mc. Donal Choultry",11.57083333,78.00416667,Kakapalayam,"Bore Well",W02447,2001,17.63,13.77,13.8,17.62
+TN,Salem,Mettur,Mecheri,11.84722222,77.94638889,Erakaundampatti,"Dug Well",W02428,2001,5.03,3.71,7.77,6.45
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2001,5.55,1.69,6.37,7.95
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2001,11.71,4.18,11.18,9.41
+TN,Salem,Valapadi,Gangavalli,11.76388889,78.28333333,Achankuttapatti,"Bore Well",W02451,2001,8.19,7.01,6.61,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2001,10.84,5.22,9.16,10.89
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2001,7.48,5.24,1.65,6.6
+TN,Salem,Valapadi,Vazhapadi,11.70277778,78.42222222,"Belur (Kurichi)","Dug Well",W02454,2001,NA,6.23,10.77,NA
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2001,NA,11.02,13.11,NA
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,2001,NA,7.97,11.56,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2001,8.82,1.25,1.8,8.32
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2001,6.73,5.53,5.05,8.48
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2001,8.34,2.5,9.85,'0.7
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2001,9.15,8.33,8.8,8
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2001,6.05,3.13,3.74,4.55
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2001,7.95,7.74,8.8,11.63
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2001,5.79,5.7,6.33,8.35
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,2001,2.47,2.5,2.31,3.48
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2001,2.97,2.3,2.27,3.25
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,2001,6.15,6.72,6.5,6.73
+TN,Salem,Salem,Panaimarathupatti,11.55416667,78.15,Mallur,"Bore Well",W02439,2001,NA,4.18,NA,NA
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2001,6.94,5.79,7.29,8.79
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2001,14.44,6.65,9.18,9.69
+TN,Salem,Salem,Salem,11.6625,78.18055556,"Salem  Rly.stn","Dug Well",W02443,2001,4.31,NA,NA,NA
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2001,6.6,4.45,4.75,7.94
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2001,4.52,3.22,3.52,NA
+TN,Salem,Salem,Salem,11.62916667,78.13333333,Seeragapadi,"Dug Well",W02446,2001,24.13,11.12,8.14,16.14
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2001,25.15,8.26,7.35,10.55
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2001,9.05,10.82,5.85,10
+TN,Salem,Attur,Pethanaickenpalayam,11.65833333,78.4625,Ethapur,"Bore Well",W02411,2001,NA,2.05,2.75,NA
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2001,12.57,5.45,10.04,NA
+TN,Salem,Gangavalli,Gangavalli,11.49583333,78.65,Gangavalli,"Bore Well",W02413,2001,NA,6.18,9.43,28.08
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2001,4.94,3.08,2.75,4.72
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2001,8.08,1.78,2.56,3.2
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2001,7.4,3.8,7.4,4.6
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2001,8.15,6,7.6,7.51
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2001,8.32,3.08,6.01,7.25
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2001,16.15,2.43,2.46,1.87
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,2001,3.52,8.86,8.14,11.62
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2001,24.15,17.81,18.75,21.24
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2001,4.5,2.74,6.25,3.34
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2001,8.07,3,3.08,7.75
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,2000,NA,4.7,2.8,NA
+TN,Salem,Mettur,Mecheri,11.84722222,77.94638889,Erakaundampatti,"Dug Well",W02428,2000,NA,5.39,3.2,NA
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,2000,8.66,5.84,4.18,10.71
+TN,Salem,Valapadi,Gangavalli,11.76388889,78.28333333,Achankuttapatti,"Bore Well",W02451,2000,9.03,10,NA,NA
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,2000,15.18,8.44,6.9,15.74
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,2000,11.03,5.23,7.28,11.08
+TN,Salem,Valapadi,Vazhapadi,11.70277778,78.42222222,"Belur (Kurichi)","Dug Well",W02454,2000,9.66,1.88,7.28,8.46
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,2000,13.77,5.64,11.01,14.08
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,2000,10.43,3.25,8.5,9.19
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,2000,NA,NA,NA,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,2000,5.29,4.45,'0.89,6.81
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,2000,7.07,4.63,4.31,NA
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,2000,6.4,3.87,2.4,7.49
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,2000,10.37,NA,8.16,4.06
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,2000,7.71,4.96,3.68,9.02
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,2000,NA,NA,6.36,NA
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,2000,4.98,4.8,3.03,7.62
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,2000,4.64,NA,2.13,NA
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,2000,4.19,3.32,2.13,4.58
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,2000,NA,9.55,7.46,NA
+TN,Salem,Salem,Panaimarathupatti,11.55416667,78.15,Mallur,"Bore Well",W02439,2000,NA,10.98,5.23,13.37
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,2000,10.39,6.93,5.97,9.48
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,2000,13.49,8.16,8.89,NA
+TN,Salem,Salem,Salem,11.6625,78.18055556,"Salem  Rly.stn","Dug Well",W02443,2000,NA,NA,NA,NA
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,2000,6.51,5.12,3.27,8.12
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,2000,NA,5.39,2.88,5.98
+TN,Salem,Salem,Salem,11.62916667,78.13333333,Seeragapadi,"Dug Well",W02446,2000,23.06,4.33,9.19,25.27
+TN,Salem,Sankari,"Mc. Donal Choultry",11.57083333,78.00416667,Kakapalayam,"Bore Well",W02447,2000,NA,13.02,16.22,NA
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,2000,16.8,7.3,7.98,9.74
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,2000,8.1,4.11,5.89,7.5
+TN,Salem,Attur,Attur,11.575,78.49722222,Malliyakarai,"Dug Well",W02408,2000,NA,5.29,NA,NA
+TN,Salem,Attur,Gangavalli,11.535,78.56833333,Paithur,"Bore Well",W02409,2000,NA,6.39,NA,8.32
+TN,Salem,Attur,Pethanaickenpalayam,11.65833333,78.4625,Ethapur,"Bore Well",W02411,2000,5.28,NA,NA,4.22
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,2000,NA,3.72,7.56,7.74
+TN,Salem,Gangavalli,Gangavalli,11.49583333,78.65,Gangavalli,"Bore Well",W02413,2000,27,7.06,9.59,20.92
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,2000,9.73,1.17,2.2,8.5
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,2000,NA,NA,2.33,4.28
+TN,Salem,Gangavalli,Talavasal,11.59166667,78.75,Thalaivasal,"Bore Well",W02418,2000,NA,NA,NA,16.33
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,2000,6.64,4.2,4.59,5.48
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,2000,8.2,6.69,6.44,7.54
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,2000,NA,'0.03,NA,12.98
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,2000,NA,3,5.12,'0.05
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,2000,4.69,3.5,2.63,NA
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,2000,16.39,6.62,NA,12.98
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,2000,19.52,NA,16.76,18.9
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,2000,NA,NA,2.55,NA
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,2000,NA,5.64,1.5,NA
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,1999,4.15,1.62,4.57,1.87
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,1999,7.13,1.78,4.84,5.58
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,1999,4.41,3.31,3.15,4.11
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,1999,9.41,3.5,7.11,8.79
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,1999,24.55,7.75,8.75,10.05
+TN,Salem,Salem,Salem,11.6625,78.18055556,"Salem  Rly.stn","Dug Well",W02443,1999,7.7,NA,NA,NA
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,1999,7.7,4.8,5.43,7
+TN,Salem,Salem,Salem,11.62916667,78.13333333,Seeragapadi,"Dug Well",W02446,1999,7.55,7.8,NA,12.75
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,1999,9.54,3.71,7.11,2.57
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,1999,5.24,10.69,10.84,20.74
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,1999,6.28,6.38,NA,10.58
+TN,Salem,Valapadi,Vazhapadi,11.70277778,78.42222222,"Belur (Kurichi)","Dug Well",W02454,1999,4.6,4.7,NA,9.4
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,1999,4.91,9.92,8.95,NA
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,1999,11.6,4.3,6.73,9.3
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,1999,NA,6.16,NA,10.05
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,1999,7.1,4.1,5.35,8.85
+TN,Salem,Attur,Attur,11.575,78.49722222,Malliyakarai,"Dug Well",W02408,1999,17.19,8.64,10.69,NA
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,1999,4.2,1.05,1.17,4.4
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,1999,7.5,3.06,3.7,14.6
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,1999,'0.91,'0.31,'0.07,'0.26
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,1999,8.85,3.05,2.24,8.2
+TN,Salem,Idappadi,Edappadi,11.58388889,77.85,Idapadi1,"Dug Well",W02423,1999,NA,NA,7.44,NA
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,1999,NA,7.56,NA,9.36
+TN,Salem,Mettur,Mecheri,11.84722222,77.94638889,Erakaundampatti,"Dug Well",W02428,1999,7.76,2.56,5.27,7.26
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,1999,NA,4.02,11.02,6.13
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,1999,3.6,4.2,4.56,8.2
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,1999,7.7,5.1,3.5,7.2
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,1998,5.24,'0.87,3.53,1.5
+TN,Salem,Omalur,Kadayampatti,11.85416667,78.08333333,Kadayampatti,"Bore Well",W02433,1998,NA,NA,NA,17.5
+TN,Salem,Omalur,Omalur,11.74583333,78.05,Omalur-1,"Bore Well",W02435,1998,NA,NA,NA,9.26
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,1998,3.5,2.66,2.51,5.26
+TN,Salem,Omalur,Tharamangalam,11.65,77.95833333,Papambadi,"Bore Well",W02437,1998,NA,NA,NA,16.78
+TN,Salem,Omalur,Tharamangalam,11.67916667,78.01666667,T.Konakapadi,"Bore Well",W02438,1998,NA,NA,NA,17.8
+TN,Salem,Salem,Panaimarathupatti,11.55416667,78.15,Mallur,"Bore Well",W02439,1998,NA,NA,NA,10.45
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,1998,4.19,2.64,3.13,7
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,1998,10.33,6.8,9.2,16.05
+TN,Salem,Salem,Salem,11.6625,78.18055556,"Salem  Rly.stn","Dug Well",W02443,1998,1.36,1.43,NA,2.45
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,1998,5.24,5.07,2.6,9.1
+TN,Salem,Salem,Salem,11.65416667,78.17638889,Salem1,"Bore Well",W02445,1998,NA,NA,NA,15.87
+TN,Salem,Salem,Salem,11.62916667,78.13333333,Seeragapadi,"Dug Well",W02446,1998,1.99,5.12,1.62,9.1
+TN,Salem,Sankari,"Mc. Donal Choultry",11.57083333,78.00416667,Kakapalayam,"Bore Well",W02447,1998,NA,NA,NA,26.54
+TN,Salem,Sankari,Sankari,11.58333333,77.79166667,Kullampatti,"Bore Well",W02448,1998,NA,NA,NA,11.17
+TN,Salem,Sankari,Sankari,11.47916667,77.87083333,Sankari1,"Bore Well",W02449,1998,NA,NA,NA,5.6
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,1998,4.29,3.01,3.96,4.9
+TN,Salem,Valapadi,Gangavalli,11.76388889,78.28333333,Achankuttapatti,"Bore Well",W02451,1998,NA,NA,NA,11.6
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,1998,14.54,7.76,10.95,15.05
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,1998,10.96,6.21,8.09,9.73
+TN,Salem,Valapadi,Vazhapadi,11.70277778,78.42222222,"Belur (Kurichi)","Dug Well",W02454,1998,4.67,1.85,3.46,NA
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,1998,11.81,7.91,9.11,9.71
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,1998,12.3,5.4,9.41,9.7
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,1998,NA,5.46,8.41,NA
+TN,Salem,Attur,Attur,11.59166667,78.58611111,Athur,"Bore Well",W02406,1998,NA,NA,NA,15.8
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,1998,6.11,3.75,5.25,7
+TN,Salem,Attur,Attur,11.575,78.49722222,Malliyakarai,"Dug Well",W02408,1998,NA,2.37,11.49,12.5
+TN,Salem,Attur,Gangavalli,11.535,78.56833333,Paithur,"Bore Well",W02409,1998,NA,NA,NA,13.82
+TN,Salem,Attur,Pethanaickenpalayam,11.71666667,78.44166667,Belur,"Bore Well",W02410,1998,NA,NA,NA,9.6
+TN,Salem,Attur,Pethanaickenpalayam,11.64722222,78.5125,P.N.Palayam1,"Bore Well",W02412,1998,NA,NA,NA,20.02
+TN,Salem,Gangavalli,Gangavalli,11.49583333,78.65,Gangavalli,"Bore Well",W02413,1998,NA,NA,NA,14.2
+TN,Salem,Gangavalli,Gangavalli,11.54166667,78.6375,Odayathur,"Bore Well",W02414,1998,7.15,NA,NA,NA
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,1998,2.77,1.12,1.22,4.6
+TN,Salem,Gangavalli,Gangavalli,11.4375,78.5,Sendarpatti,"Bore Well",W02416,1998,NA,NA,NA,16.7
+TN,Salem,Gangavalli,Talavasal,11.59722222,78.6625,Kattukottai,"Bore Well",W02417,1998,NA,NA,NA,8.5
+TN,Salem,Gangavalli,Talavasal,11.59166667,78.75,Thalaivasal,"Bore Well",W02418,1998,NA,NA,NA,10.5
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,1998,6.45,2.6,2.76,10.8
+TN,Salem,Gangavalli,Talavasal,11.475,78.7375,Veraganur,"Bore Well",W02420,1998,NA,NA,NA,11
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,1998,'0.8,1.6,'0.11,3.11
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,1998,11.95,8.2,6.17,10.7
+TN,Salem,Idappadi,Kolathur,11.56666667,77.9,Konganapuram,"Bore Well",W02424,1998,NA,NA,NA,6.77
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,1998,11.31,6.86,6.18,15.46
+TN,Salem,Mettur,Kolathur,11.84722222,77.74722222,Kulathur,"Bore Well",W02426,1998,NA,NA,NA,26.6
+TN,Salem,Mettur,Mettur,11.88333333,77.84166667,Vellar,"Bore Well",W02427,1998,NA,NA,NA,4.1
+TN,Salem,Mettur,Mecheri,11.84722222,77.94638889,Erakaundampatti,"Dug Well",W02428,1998,4.82,2.21,1.86,8.16
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,1998,7.88,6.38,7.23,6.43
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,1998,5.79,3.47,4.23,9.5
+TN,Salem,Mettur,Mettur,11.75833333,77.89583333,Nangavalli,"Bore Well",W02431,1998,NA,NA,NA,11.1
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,1998,2.28,2.5,1.15,6.48
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,1998,6.26,3.47,3.74,6.9
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,1997,2.17,'0.91,1.04,7.15
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,1997,6.01,3.56,3.89,6.42
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,1997,7.59,3.95,4.13,5.35
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,1997,17.35,14.4,15.32,15.45
+TN,Salem,Salem,Salem,11.6625,78.18055556,"Salem  Rly.stn","Dug Well",W02443,1997,1.8,1.22,'0.91,2.18
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,1997,8.1,5.22,4.86,7.76
+TN,Salem,Salem,Salem,11.62916667,78.13333333,Seeragapadi,"Dug Well",W02446,1997,9.4,8.43,7.05,10.73
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,1997,5.01,5.16,6.58,10.25
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,1997,10.53,5.12,8.64,9.31
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,1997,8.28,3.58,6.46,7.24
+TN,Salem,Valapadi,Vazhapadi,11.70277778,78.42222222,"Belur (Kurichi)","Dug Well",W02454,1997,NA,1.09,6.68,8.36
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,1997,11.51,5.1,10.77,9.04
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,1997,9.2,3.3,7.13,7.28
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,1997,NA,11.46,NA,14.55
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,1997,7.05,NA,4.01,NA
+TN,Salem,Attur,Attur,11.575,78.49722222,Malliyakarai,"Dug Well",W02408,1997,NA,8.08,NA,13.42
+TN,Salem,Attur,Pethanaickenpalayam,11.65833333,78.4625,Ethapur,"Bore Well",W02411,1997,NA,NA,NA,7.2
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,1997,5.8,'0.64,2.03,6.8
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,1997,13.7,2.7,6.09,NA
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,1997,3.71,1.05,2.6,2.88
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,1997,17,1.1,17.14,14.43
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,1997,30.06,8.53,17.44,12.6
+TN,Salem,Mettur,Mecheri,11.84722222,77.94638889,Erakaundampatti,"Dug Well",W02428,1997,7.24,2.72,4.18,5.17
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,1997,7.53,4.63,5.82,8.49
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,1997,12.7,7.37,10.55,12.15
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,1997,9.08,2.64,6.61,6.42
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,1997,6.65,5.49,5.65,8.63
+TN,Salem,Omalur,Omalur,11.74166667,78.04444444,Omalur-2,"Dug Well",W02436,1996,12.58,5.05,3.6,11.62
+TN,Salem,Omalur,Kadayampatti,11.86666667,78.0875,Tivettipatti,"Dug Well",W02434,1996,5.4,8.05,5,5.52
+TN,Salem,Salem,Panaimarathupatti,11.57083333,78.18333333,Panamarathupatti,"Bore Well",W02441,1996,30,21.6,NA,29
+TN,Salem,Salem,Salem,11.6625,78.18055556,"Salem  Rly.stn","Dug Well",W02443,1996,1.7,2.55,1.1,2.57
+TN,Salem,Salem,Salem,11.66666667,78.15833333,"Salem Bankhouse","Dug Well",W02444,1996,8.15,7.4,3.95,8.94
+TN,Salem,Salem,Salem,11.62916667,78.13333333,Seeragapadi,"Dug Well",W02446,1996,NA,NA,8.54,NA
+TN,Salem,Sankari,Sankari,11.475,77.86944444,Sankaridrug,"Dug Well",W02450,1996,8.76,5.02,5.15,10.69
+TN,Salem,Valapadi,Ayodhiapattinam,11.6625,78.29166667,Karipatti,"Dug Well",W02452,1996,15.54,17.89,7.64,19.63
+TN,Salem,Valapadi,Ayodhiapattinam,11.71666667,78.275,Sukkamppatti,"Dug Well",W02453,1996,11.45,7.5,4.15,10.93
+TN,Salem,Valapadi,Vazhapadi,11.70277778,78.42222222,"Belur (Kurichi)","Dug Well",W02454,1996,NA,NA,7.1,13.94
+TN,Salem,Valapadi,Vazhapadi,11.64583333,78.4125,Valappadi,"Dug Well",W02455,1996,15.5,12.11,9.81,11.79
+TN,Salem,Valapadi,Vazhapadi,11.64444444,78.4125,Valappadi1,"Bore Well",W02456,1996,17.2,10.75,8.6,15.81
+TN,Salem,Yercaud,Gangavalli,11.89305556,78.16666667,Panamarathupatti-1,"Dug Well",W02457,1996,16.82,16.2,12.27,14.6
+TN,Salem,Yercaud,Yercaud,11.78333333,78.21111111,Yercaud,"Dug Well",W02921,1996,'0.97,2.47,2.17,NA
+TN,Salem,Attur,Attur,11.6,78.60833333,"Attur fire st.","Dug Well",W02407,1996,6.5,6.4,4.55,8.8
+TN,Salem,Attur,Attur,11.575,78.49722222,Malliyakarai,"Dug Well",W02408,1996,14.14,15.74,14.19,16.49
+TN,Salem,Attur,Pethanaickenpalayam,11.65833333,78.4625,Ethapur,"Bore Well",W02411,1996,10.04,4.7,'0.1,9.04
+TN,Salem,Gangavalli,Gangavalli,11.46666667,78.4825,P.Goundanpalyam,"Dug Well",W02415,1996,2.64,4.6,1.35,7.22
+TN,Salem,Gangavalli,Talavasal,11.58333333,78.75833333,Thalaivasal1,"Dug Well",W02419,1996,8.96,6.03,2.73,8.9
+TN,Salem,Idappadi,Edappadi,11.59166667,77.84166667,Idapadi,"Dug Well",W02421,1996,1.91,'0.91,'0.91,2.37
+TN,Salem,Idappadi,Edappadi,11.61388889,77.80833333,Vellanaickenpalayam,"Dug Well",W02422,1996,13.2,7.2,8.8,11.56
+TN,Salem,Idappadi,Kolathur,11.56666667,77.90416667,Konganapuram1,"Bore Well",W02425,1996,18.76,9.06,6,10.77
+TN,Salem,Mettur,Mecheri,11.84722222,77.94638889,Erakaundampatti,"Dug Well",W02428,1996,9.15,4.85,3.2,7.77
+TN,Salem,Mettur,Mecheri,11.82916667,77.94583333,Mecheri1,"Dug Well",W02429,1996,9.13,7.68,5.03,9.51
+TN,Salem,Mettur,Mettur,11.70555556,77.87222222,Jalakandapuram,"Dug Well",W02430,1996,13.5,14.1,6.8,NA
+TN,Salem,Mettur,Mettur,11.75972222,77.89166667,Nangavalli1,"Dug Well",W02432,1996,'0.97,7.38,2.08,NA
+TN,Salem,Salem,Panaimarathupatti,11.5375,78.14583333,Mallur1,"Dug Well",W02440,1996,6.99,5.44,4.09,4.3
