@@ -1,0 +1,1149 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+KA,Mysore,Hunsur,Hunsur,12.38222222,76.39416667,Shiriyur,"Dug Well",W24045,2018,NA,22.46,NA,NA
+KA,Mysore,Mysore,Mysore,12.25444444,76.81694444,Kellanapura,"Dug Well",W23996,2018,NA,7.67,NA,NA
+KA,Mysore,Krishnarajanagara,Hunsur,12.325,76.28333333,Kalayanapura,"Dug Well",W24017,2018,7.05,NA,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.07222222,76.68333333,Chikkayyanachathra,"Dug Well",W23944,2018,NA,NA,NA,'0.46
+KA,Mysore,Hunsur,Hunsur,12.35055556,76.29111111,Huduguru,"Dug Well",W31010,2018,NA,10.4,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.13083333,76.74,Allampur,"Dug Well",W31005,2018,NA,4.35,1.3,NA
+KA,Mysore,Nanjangud,Nanjangud,12.16361111,76.84111111,Kahalli,"Dug Well",W31006,2018,NA,16.25,9.05,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.375,76.03888889,Kundanahalli,"Dug Well",W24041,2018,11.2,11.2,NA,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2018,12.75,11.95,NA,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2018,NA,4.19,NA,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2018,NA,NA,9.05,14.66
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,2018,5.7,NA,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2018,NA,17.69,2.34,NA
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2018,NA,9.74,5.09,NA
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2018,NA,18.76,1.56,NA
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2018,NA,16.2,13.4,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2018,NA,15.71,6.17,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2018,NA,19.15,8.72,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2018,NA,6.59,3.58,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09055556,76.32972222,Heggadadevanakote-A,"Dug Well",W22303,2018,NA,9.55,3.41,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2018,NA,14.71,2.21,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2018,NA,5.15,'0.3,NA
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2018,NA,2.74,'0.95,NA
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2018,NA,3.51,1.9,NA
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2018,NA,16.06,13.93,NA
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2018,NA,3.68,2.22,NA
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2018,NA,15.3,13.03,NA
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2018,NA,9.63,2.43,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2018,NA,5.7,2.23,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2018,NA,5.71,1.95,NA
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2018,NA,'0.61,'0.8,NA
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2018,NA,10.3,10.12,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2018,NA,16.3,8.35,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2018,NA,3.27,1.65,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2018,NA,20.92,3.98,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2018,NA,6.58,1.85,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2018,NA,3.44,2.14,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2018,NA,3.57,1.45,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2018,NA,10.5,7.11,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2018,NA,4.72,2.72,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26972222,Bheerya-A,"Dug Well",W22570,2018,NA,4.85,1.25,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2018,NA,8.12,7.75,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2018,NA,2.99,2.09,NA
+KA,Mysore,Nanjangud,Nanjangud,12.09444444,76.47777778,Motha,"Dug Well",W23949,2018,NA,1.35,'0.6,NA
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Palya,"Dug Well",W23950,2018,NA,5.5,'0.7,NA
+KA,Mysore,Nanjangud,Nanjangud,12.09722222,76.51388889,Kannenuru,"Dug Well",W23951,2018,NA,8.2,3.8,NA
+KA,Mysore,Nanjangud,Nanjangud,12.10277778,76.67777778,Deviramanahalli,"Dug Well",W23953,2018,NA,6.95,1.87,NA
+KA,Mysore,Nanjangud,Nanjangud,12.10555556,76.70833333,Vidyapitha,"Dug Well",W23954,2018,NA,2.1,1.52,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11111111,76.70555556,Guluru,"Dug Well",W23957,2018,NA,1.25,'0.5,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11277778,76.44694444,Ibjala,"Dug Well",W23958,2018,NA,9.7,1.86,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11527778,76.60166667,Gandhigrama,"Dug Well",W23959,2018,NA,5.62,'0.96,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Heggadadevanakote,"Bore Well",W23952,2018,NA,14.71,5.83,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Hampapur,"Dug Well",W23961,2018,NA,2.78,1.19,NA
+KA,Mysore,Hunsur,Hunsur,12.23888889,76.34166667,Rathnapuri,"Dug Well",W23990,2018,NA,2.1,1.45,NA
+KA,Mysore,Hunsur,Hunsur,12.25027778,76.33138889,"Koimuthur Colony","Dug Well",W23994,2018,NA,10.3,4.1,NA
+KA,Mysore,Krishnarajanagara,Hunsur,12.36666667,76.42222222,Hosaramanahalli,"Dug Well",W24038,2018,NA,19.3,12.1,NA
+KA,Mysore,Hunsur,Hunsur,12.37972222,76.37361111,Hejjodlu,"Dug Well",W24043,2018,NA,21.05,13.6,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.20194444,76.91055556,Alaguda,"Dug Well",W23981,2018,NA,2.4,4.05,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.25472222,76.91055556,Hunugunahalli,"Dug Well",W23997,2018,NA,9.5,'0.5,NA
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.3,76.88805556,Kethupura,"Dug Well",W24010,2018,NA,2.55,'0.75,NA
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.30666667,76.885,Bevinahalli,"Dug Well",W24011,2018,NA,1.65,'0.55,NA
+KA,Mysore,Mysore,Mysore,12.26722222,76.74527778,Varuna,"Dug Well",W24003,2018,NA,2.84,1.57,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.66111111,Siddalingapura,"Dug Well",W24032,2018,NA,2.27,1.34,NA
+KA,Mysore,Mysore,Mysore,12.36111111,76.66111111,Kalasthavadi,"Dug Well",W24034,2018,NA,2.36,1.05,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.39472222,76.04666667,"Punnadahalli Koppalu","Dug Well",W24048,2018,NA,7.4,3.35,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.44805556,76.07111111,Konasuru,"Dug Well",W24062,2018,NA,4.56,1.05,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.4625,76.07305556,Depuru,"Dug Well",W24072,2018,NA,14.22,1.62,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.13611111,Attigod,"Dug Well",W24084,2018,NA,23.5,23.5,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50055556,76.24222222,Mayagowdanahalli,"Dug Well",W24092,2018,NA,6.65,4.98,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Chunchankatte,"Dug Well",W24096,2018,NA,6.35,2.89,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.51138889,76.38972222,Badakanakoppalu,"Dug Well",W24101,2018,NA,7,3.98,NA
+KA,Mysore,Nanjangud,Nanjangud,11.93361111,76.52583333,Beeredevanapura,"Dug Well",W23902,2018,NA,7.55,NA,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.51138889,76.38972222,Badakanakoppalu,"Dug Well",W24101,2017,6.64,7.7,3.55,10.38
+KA,Mysore,Nanjangud,Nanjangud,12.07222222,76.68333333,Chikkayyanachathra,"Dug Well",W23944,2017,3.92,1.47,'0.38,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Heggadadevanakote,"Bore Well",W23952,2017,15.1,16.03,11.04,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.66111111,Siddalingapura,"Dug Well",W24032,2017,1.57,2.74,1.46,NA
+KA,Mysore,Nanjangud,Nanjangud,12.10555556,76.70833333,Vidyapitha,"Dug Well",W23954,2017,NA,2.76,1.55,2.4
+KA,Mysore,Krishnarajanagara,Hunsur,12.325,76.28333333,Kalayanapura,"Dug Well",W24017,2017,12,19.2,NA,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.42666667,76.06138889,"P Basavanahalli","Dug Well",W24058,2017,NA,23.27,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.13083333,76.74,Allampur,"Dug Well",W31005,2017,2.75,3.31,2.25,2.88
+KA,Mysore,Nanjangud,Nanjangud,12.16361111,76.84111111,Kahalli,"Dug Well",W31006,2017,12.95,12.71,5.9,16.25
+KA,Mysore,Hunsur,Hunsur,12.35055556,76.29111111,Huduguru,"Dug Well",W31010,2017,6.15,10.4,NA,10.4
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.4925,76.39722222,"Hampapura A","Dug Well",W24085,2017,NA,NA,2.35,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Hampapur,"Dug Well",W23961,2017,5.9,5.16,NA,5.31
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2017,14.5,14.71,11.18,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2017,15.9,18.92,12.4,NA
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2017,25.3,21.02,15.17,NA
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2017,15.5,14.71,13.56,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2017,14.75,10.2,11.05,NA
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2017,10.05,12.29,8.58,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2017,17.55,49.3,13.61,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2017,24.85,4.73,9.93,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2017,11.4,11.88,7.16,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2017,6.6,6.62,2.51,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2017,NA,4.73,1.66,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2017,NA,11,NA,11
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,2017,'0.9,18.54,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2017,17.69,17.69,17.69,17.69
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2017,9.74,7.9,7.97,9.74
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2017,18.76,18.76,18.76,18.76
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2017,15.71,15.28,13.74,15.71
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2017,5.42,7.13,2.65,7.46
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09055556,76.32972222,Heggadadevanakote-A,"Dug Well",W22303,2017,9.55,9.55,9.55,9.55
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2017,12.01,14.71,11.91,14.71
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2017,8.49,8.08,3.89,7.19
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2017,8.77,8.77,1.99,7.25
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2017,3.52,4.36,2,3.87
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2017,4.45,4.21,3.55,4.37
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2017,12.98,12.59,6.88,11
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2017,8.75,6.39,3.95,8.95
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2017,'0.55,1.22,'0.6,1.24
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2017,2.4,4.13,2.46,2.15
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2017,14.66,12.99,9.5,12.55
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2017,7.15,7.67,3.65,5.15
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2017,4.54,2.89,3.79,2.69
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2017,1.45,1.32,1.75,4.05
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2017,2.69,9.87,3.64,4.57
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26972222,Bheerya-A,"Dug Well",W22570,2017,4.6,7.64,2.47,8.3
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2017,8.47,6.53,7.14,12.75
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2017,3.79,3.82,1.74,3.19
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2017,NA,NA,9.08,13.8
+KA,Mysore,Nanjangud,Nanjangud,12.10277778,76.67777778,Deviramanahalli,"Dug Well",W23953,2017,NA,NA,1.52,6.95
+KA,Mysore,Mysore,Mysore,12.25444444,76.81694444,Kellanapura,"Dug Well",W23996,2017,NA,NA,3.57,12.02
+KA,Mysore,Nanjangud,Nanjangud,11.93361111,76.52583333,Beeredevanapura,"Dug Well",W23902,2017,9.65,9.57,5.1,10.15
+KA,Mysore,Nanjangud,Nanjangud,12.09444444,76.47777778,Motha,"Dug Well",W23949,2017,1.7,7.03,'0.69,3.26
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Palya,"Dug Well",W23950,2017,1.48,1.31,2.28,5.73
+KA,Mysore,Nanjangud,Nanjangud,12.09722222,76.51388889,Kannenuru,"Dug Well",W23951,2017,5.45,6,4.25,9.35
+KA,Mysore,Nanjangud,Nanjangud,12.11111111,76.70555556,Guluru,"Dug Well",W23957,2017,'0.7,1.16,'0.6,1.53
+KA,Mysore,Nanjangud,Nanjangud,12.11277778,76.44694444,Ibjala,"Dug Well",W23958,2017,9.7,4.71,6.73,9.7
+KA,Mysore,Nanjangud,Nanjangud,12.11527778,76.60166667,Gandhigrama,"Dug Well",W23959,2017,2.92,4.83,1.48,6.87
+KA,Mysore,Hunsur,Hunsur,12.23888889,76.34166667,Rathnapuri,"Dug Well",W23990,2017,4.4,4.32,1.73,3.3
+KA,Mysore,Hunsur,Hunsur,12.25027778,76.33138889,"Koimuthur Colony","Dug Well",W23994,2017,9.47,11.01,3.9,14.5
+KA,Mysore,Krishnarajanagara,Hunsur,12.36666667,76.42222222,Hosaramanahalli,"Dug Well",W24038,2017,15.7,19.3,9.76,19.3
+KA,Mysore,Hunsur,Hunsur,12.37972222,76.37361111,Hejjodlu,"Dug Well",W24043,2017,21.05,21.05,12.22,21.05
+KA,Mysore,Hunsur,Hunsur,12.38222222,76.39416667,Shiriyur,"Dug Well",W24045,2017,11.19,22.46,6.1,22.46
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.20194444,76.91055556,Alaguda,"Dug Well",W23981,2017,1.69,1.75,1.35,2.61
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.25472222,76.91055556,Hunugunahalli,"Dug Well",W23997,2017,5.2,1.19,'0.95,9.5
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.3,76.88805556,Kethupura,"Dug Well",W24010,2017,'0.4,1.83,1.1,1.4
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.30666667,76.885,Bevinahalli,"Dug Well",W24011,2017,1.15,2.69,1.25,2.78
+KA,Mysore,Mysore,Mysore,12.26722222,76.74527778,Varuna,"Dug Well",W24003,2017,3.45,2.73,1.45,4.5
+KA,Mysore,Mysore,Mysore,12.36111111,76.66111111,Kalasthavadi,"Dug Well",W24034,2017,2.92,7.41,2.15,8.4
+KA,Mysore,Piriyapatna,Piriyapatna,12.375,76.03888889,Kundanahalli,"Dug Well",W24041,2017,9.7,11.2,11.2,11.2
+KA,Mysore,Piriyapatna,Piriyapatna,12.39472222,76.04666667,"Punnadahalli Koppalu","Dug Well",W24048,2017,8.93,9.01,6.57,9.8
+KA,Mysore,Piriyapatna,Piriyapatna,12.44805556,76.07111111,Konasuru,"Dug Well",W24062,2017,1.3,6.19,1.56,1.25
+KA,Mysore,Piriyapatna,Piriyapatna,12.4625,76.07305556,Depuru,"Dug Well",W24072,2017,14.22,9.88,5.37,14.22
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.13611111,Attigod,"Dug Well",W24084,2017,23.5,23.5,23.5,23.5
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50055556,76.24222222,Mayagowdanahalli,"Dug Well",W24092,2017,8.7,8.7,6.58,8.4
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Chunchankatte,"Dug Well",W24096,2017,6.35,6.35,3,4.05
+KA,Mysore,Piriyapatna,Piriyapatna,12.42666667,76.06138889,"P Basavanahalli","Dug Well",W24058,2016,22.5,23.76,NA,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.44805556,76.07111111,Konasuru,"Dug Well",W24062,2016,2.82,5.46,6.3,11.97
+KA,Mysore,Piriyapatna,Piriyapatna,12.4625,76.07305556,Depuru,"Dug Well",W24072,2016,14.22,5.72,NA,14.22
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.13611111,Attigod,"Dug Well",W24084,2016,20.15,23.15,21.3,23.5
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.4925,76.39722222,"Hampapura A","Dug Well",W24085,2016,NA,2.15,NA,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50055556,76.24222222,Mayagowdanahalli,"Dug Well",W24092,2016,8.7,6.3,NA,8.1
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Chunchankatte,"Dug Well",W24096,2016,6.35,3.85,NA,6.35
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.51138889,76.38972222,Badakanakoppalu,"Dug Well",W24101,2016,6.53,5.76,6.3,10.9
+KA,Mysore,Nanjangud,Nanjangud,12.13083333,76.74,Allampur,"Dug Well",W31005,2016,3.71,2.56,2.4,5.6
+KA,Mysore,Nanjangud,Nanjangud,12.16361111,76.84111111,Kahalli,"Dug Well",W31006,2016,11.96,3.5,9.97,16.25
+KA,Mysore,Hunsur,Hunsur,12.35055556,76.29111111,Huduguru,"Dug Well",W31010,2016,NA,3.87,8.95,7.56
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2016,9.52,NA,11.98,9.93
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2016,6.38,NA,7.44,6.84
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2016,12.99,NA,14.2,NA
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2016,19.41,NA,17.38,NA
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2016,3.77,NA,4.15,4.1
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2016,11.27,NA,11.4,NA
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2016,8.53,NA,7.59,9.74
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2016,3.39,NA,4.15,3.45
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2016,6.67,NA,NA,6.07
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2016,3.59,NA,3.59,4.46
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2016,12.75,NA,NA,12.75
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,2016,5.4,NA,NA,18.54
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2016,17.69,NA,NA,17.69
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2016,20.92,NA,24.97,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2016,2.84,NA,3.04,13.44
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2016,5.22,NA,3.94,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2016,6.9,NA,6.95,6.05
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2016,'0.6,NA,'0.62,2.15
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2016,16.1,NA,14.92,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2016,14.71,NA,NA,14.71
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2016,11.3,NA,12.3,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2016,15.18,NA,17.05,15.8
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2016,11,NA,NA,11
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2016,14.66,NA,12.9,5.8
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2016,18.3,NA,28.85,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2016,5.73,NA,6.86,6.91
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2016,6.34,NA,6.48,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2016,3.71,NA,4.19,3.99
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2016,11.75,NA,16.35,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2016,2.15,NA,3.2,6
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2016,16.5,NA,6.35,8.7
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2016,13.72,NA,14.37,12.97
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2016,2.94,NA,3.55,3.9
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2016,18.76,NA,NA,18.76
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09055556,76.32972222,Heggadadevanakote-A,"Dug Well",W22303,2016,9.55,NA,NA,9.55
+KA,Mysore,Nanjangud,Nanjangud,11.93361111,76.52583333,Beeredevanapura,"Dug Well",W23902,2016,7.25,6.95,8.7,7.15
+KA,Mysore,Nanjangud,Nanjangud,12.07222222,76.68333333,Chikkayyanachathra,"Dug Well",W23944,2016,'0.38,4.07,3.38,'0.43
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26972222,Bheerya-A,"Dug Well",W22570,2016,4.83,NA,6.45,5.45
+KA,Mysore,Nanjangud,Nanjangud,12.09444444,76.47777778,Motha,"Dug Well",W23949,2016,1.36,'0.85,6.45,4.35
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Palya,"Dug Well",W23950,2016,'0.8,2,2.03,9.38
+KA,Mysore,Nanjangud,Nanjangud,12.09722222,76.51388889,Kannenuru,"Dug Well",W23951,2016,5,4.58,3.9,10.3
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Heggadadevanakote,"Bore Well",W23952,2016,12.58,9.4,15.62,NA
+KA,Mysore,Nanjangud,Nanjangud,12.10277778,76.67777778,Deviramanahalli,"Dug Well",W23953,2016,NA,2.49,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.10555556,76.70833333,Vidyapitha,"Dug Well",W23954,2016,1.97,1.88,2.2,4.4
+KA,Mysore,Nanjangud,Nanjangud,12.11111111,76.70555556,Guluru,"Dug Well",W23957,2016,'0.75,'0.94,1,3.1
+KA,Mysore,Nanjangud,Nanjangud,12.11277778,76.44694444,Ibjala,"Dug Well",W23958,2016,5.55,3.28,NA,9.7
+KA,Mysore,Nanjangud,Nanjangud,12.11527778,76.60166667,Gandhigrama,"Dug Well",W23959,2016,7.02,3.47,NA,7.02
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Hampapur,"Dug Well",W23961,2016,5.68,NA,2.5,8.26
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.20194444,76.91055556,Alaguda,"Dug Well",W23981,2016,2.88,1.8,1.95,2.15
+KA,Mysore,Hunsur,Hunsur,12.23888889,76.34166667,Rathnapuri,"Dug Well",W23990,2016,2.71,1.87,2,2.71
+KA,Mysore,Hunsur,Hunsur,12.25027778,76.33138889,"Koimuthur Colony","Dug Well",W23994,2016,6.22,3.4,6.8,14.5
+KA,Mysore,Mysore,Mysore,12.25444444,76.81694444,Kellanapura,"Dug Well",W23996,2016,NA,4.92,NA,6.89
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.25472222,76.91055556,Hunugunahalli,"Dug Well",W23997,2016,6.4,1.37,4.21,6.5
+KA,Mysore,Mysore,Mysore,12.26722222,76.74527778,Varuna,"Dug Well",W24003,2016,3.3,'0.97,2.05,1.33
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.3,76.88805556,Kethupura,"Dug Well",W24010,2016,1.54,1.02,1.36,2.2
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.30666667,76.885,Bevinahalli,"Dug Well",W24011,2016,1.37,1.35,2.15,8.75
+KA,Mysore,Krishnarajanagara,Hunsur,12.325,76.28333333,Kalayanapura,"Dug Well",W24017,2016,11.93,NA,11,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.66111111,Siddalingapura,"Dug Well",W24032,2016,1.74,1.82,1.74,2.59
+KA,Mysore,Mysore,Mysore,12.36111111,76.66111111,Kalasthavadi,"Dug Well",W24034,2016,3.62,2.18,6.02,6.68
+KA,Mysore,Krishnarajanagara,Hunsur,12.36666667,76.42222222,Hosaramanahalli,"Dug Well",W24038,2016,19.25,11.85,15.68,14.48
+KA,Mysore,Piriyapatna,Piriyapatna,12.375,76.03888889,Kundanahalli,"Dug Well",W24041,2016,10.42,7.7,NA,11.1
+KA,Mysore,Hunsur,Hunsur,12.37972222,76.37361111,Hejjodlu,"Dug Well",W24043,2016,21.05,21.05,NA,21.05
+KA,Mysore,Hunsur,Hunsur,12.38222222,76.39416667,Shiriyur,"Dug Well",W24045,2016,10.43,7.9,NA,22.46
+KA,Mysore,Piriyapatna,Piriyapatna,12.39472222,76.04666667,"Punnadahalli Koppalu","Dug Well",W24048,2016,7.4,5.8,7.9,9.9
+KA,Mysore,Hunsur,Hunsur,12.37972222,76.37361111,Hejjodlu,"Dug Well",W24043,2015,NA,15.13,1.45,21.05
+KA,Mysore,Hunsur,Hunsur,12.38222222,76.39416667,Shiriyur,"Dug Well",W24045,2015,NA,14.85,13.3,22.46
+KA,Mysore,Piriyapatna,Piriyapatna,12.39472222,76.04666667,"Punnadahalli Koppalu","Dug Well",W24048,2015,6.2,7.5,10.2,6.97
+KA,Mysore,Piriyapatna,Piriyapatna,12.42666667,76.06138889,"P Basavanahalli","Dug Well",W24058,2015,NA,24.4,29.2,29.2
+KA,Mysore,Piriyapatna,Piriyapatna,12.44805556,76.07111111,Konasuru,"Dug Well",W24062,2015,4.1,5.55,6.35,1.7
+KA,Mysore,Piriyapatna,Piriyapatna,12.4625,76.07305556,Depuru,"Dug Well",W24072,2015,6.72,7.92,7.22,9.17
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.13611111,Attigod,"Dug Well",W24084,2015,19,17.45,8.2,16.5
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.4925,76.39722222,"Hampapura A","Dug Well",W24085,2015,5.1,4.04,1.3,4.83
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50055556,76.24222222,Mayagowdanahalli,"Dug Well",W24092,2015,5.85,5.78,5.28,5.65
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Chunchankatte,"Dug Well",W24096,2015,NA,6.35,3.72,4.03
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.51138889,76.38972222,Badakanakoppalu,"Dug Well",W24101,2015,8.8,6.53,3.78,10.6
+KA,Mysore,Nanjangud,Nanjangud,12.13083333,76.74,Allampur,"Dug Well",W31005,2015,2.3,NA,1.8,NA
+KA,Mysore,Nanjangud,Nanjangud,12.16361111,76.84111111,Kahalli,"Dug Well",W31006,2015,8.75,NA,7.75,NA
+KA,Mysore,Hunsur,Hunsur,12.35055556,76.29111111,Huduguru,"Dug Well",W31010,2015,4.6,NA,4.4,NA
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2015,10.28,10.58,NA,12.01
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2015,3.64,7.94,3.04,6.09
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2015,12.4,13.45,NA,13.4
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2015,12.65,25.25,NA,14.85
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2015,3.57,3.47,2.32,2.77
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2015,NA,12.25,NA,5.53
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2015,10.37,NA,NA,6.1
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2015,6.09,5.69,5.09,5.29
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2015,3.03,3.27,2.6,2.57
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2015,4.57,2.07,'0.67,4.98
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2015,3.39,3.29,3.19,3.64
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2015,12.75,12.75,6.82,12.75
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2015,NA,8.89,8.89,NA
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2015,6.89,7.79,3.64,17.69
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2015,19.5,22.27,NA,22.75
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2015,2.24,5.56,3.59,2.81
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2015,3.05,3.02,NA,5.2
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2015,7.65,5.9,4.9,6.23
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2015,'0.55,2.6,'0.53,1.75
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2015,15.12,14.4,NA,16.01
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2015,NA,9.13,8.36,9.21
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2015,11.13,10.66,NA,10.45
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2015,15.05,14.35,15.1,13.6
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2015,11,11,4.38,11
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2015,6.98,5.18,5.08,5.32
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2015,12.4,14.6,NA,14.65
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2015,NA,5.57,NA,6.43
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2015,6.11,6.01,5.81,5.74
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2015,5.57,5,NA,4.75
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2015,3.44,2.92,2.07,2.27
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2015,6.72,12.36,NA,12.71
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2015,6,1.8,1.26,4.4
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2015,NA,3.79,4.88,11.72
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2015,12.27,8.37,8.72,12.47
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2015,2.7,2.58,1.85,2.6
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2015,NA,10.66,NA,7.41
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2015,NA,4.2,NA,7.1
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09055556,76.32972222,Heggadadevanakote-A,"Dug Well",W22303,2015,9.55,9.55,9.55,6.68
+KA,Mysore,Nanjangud,Nanjangud,11.93361111,76.52583333,Beeredevanapura,"Dug Well",W23902,2015,1.5,1.92,NA,1.59
+KA,Mysore,Nanjangud,Nanjangud,12.07222222,76.68333333,Chikkayyanachathra,"Dug Well",W23944,2015,'0.28,1.33,'0.18,1.68
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26972222,Bheerya-A,"Dug Well",W22570,2015,3.95,12.2,NA,3.55
+KA,Mysore,Nanjangud,Nanjangud,12.09444444,76.47777778,Motha,"Dug Well",W23949,2015,2.35,'0.85,'0.88,2.2
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Palya,"Dug Well",W23950,2015,'0.88,2.63,'0.74,1.64
+KA,Mysore,Nanjangud,Nanjangud,12.09722222,76.51388889,Kannenuru,"Dug Well",W23951,2015,9.1,5.52,3.12,7.95
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Heggadadevanakote,"Bore Well",W23952,2015,11.4,11.65,9,13.4
+KA,Mysore,Nanjangud,Nanjangud,12.10277778,76.67777778,Deviramanahalli,"Dug Well",W23953,2015,2.45,1.41,1.48,NA
+KA,Mysore,Nanjangud,Nanjangud,12.10555556,76.70833333,Vidyapitha,"Dug Well",W23954,2015,2,2.35,1.46,1.9
+KA,Mysore,Nanjangud,Nanjangud,12.11111111,76.70555556,Guluru,"Dug Well",W23957,2015,'0.6,1.2,'0.45,'0.4
+KA,Mysore,Nanjangud,Nanjangud,12.11277778,76.44694444,Ibjala,"Dug Well",W23958,2015,2.4,2.9,2.35,2.24
+KA,Mysore,Nanjangud,Nanjangud,12.11527778,76.60166667,Gandhigrama,"Dug Well",W23959,2015,1.87,3.57,1.72,2.47
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Hampapur,"Dug Well",W23961,2015,8.26,8.26,8.26,8.26
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.20194444,76.91055556,Alaguda,"Dug Well",W23981,2015,2,1.6,1.13,1.87
+KA,Mysore,Hunsur,Hunsur,12.23888889,76.34166667,Rathnapuri,"Dug Well",W23990,2015,1.7,1.73,1.53,1.9
+KA,Mysore,Hunsur,Hunsur,12.25027778,76.33138889,"Koimuthur Colony","Dug Well",W23994,2015,4.6,4.85,2.75,7.9
+KA,Mysore,Mysore,Mysore,12.25444444,76.81694444,Kellanapura,"Dug Well",W23996,2015,NA,4.33,4.59,8.95
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.25472222,76.91055556,Hunugunahalli,"Dug Well",W23997,2015,4.5,'0.82,'0.65,6.7
+KA,Mysore,Mysore,Mysore,12.26722222,76.74527778,Varuna,"Dug Well",W24003,2015,NA,1.07,'0.73,1.3
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.3,76.88805556,Kethupura,"Dug Well",W24010,2015,3.45,1.35,1.25,1.63
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.30666667,76.885,Bevinahalli,"Dug Well",W24011,2015,3.8,1.28,1.18,1.84
+KA,Mysore,Krishnarajanagara,Hunsur,12.325,76.28333333,Kalayanapura,"Dug Well",W24017,2015,NA,NA,NA,16.5
+KA,Mysore,Mysore,Mysore,12.35833333,76.66111111,Siddalingapura,"Dug Well",W24032,2015,2.32,2.09,NA,1.74
+KA,Mysore,Mysore,Mysore,12.36111111,76.66111111,Kalasthavadi,"Dug Well",W24034,2015,7.95,2.76,2.18,6.15
+KA,Mysore,Krishnarajanagara,Hunsur,12.36666667,76.42222222,Hosaramanahalli,"Dug Well",W24038,2015,15.1,15.1,14.8,13.85
+KA,Mysore,Piriyapatna,Piriyapatna,12.375,76.03888889,Kundanahalli,"Dug Well",W24041,2015,8.1,9,7.1,10.3
+KA,Mysore,Piriyapatna,Piriyapatna,12.39472222,76.04666667,"Punnadahalli Koppalu","Dug Well",W24048,2014,5.2,7.25,2.3,15.6
+KA,Mysore,Piriyapatna,Piriyapatna,12.42666667,76.06138889,"P Basavanahalli","Dug Well",W24058,2014,22.3,23.5,14.32,29.2
+KA,Mysore,Piriyapatna,Piriyapatna,12.44805556,76.07111111,Konasuru,"Dug Well",W24062,2014,1.61,4.8,1.93,1.35
+KA,Mysore,Piriyapatna,Piriyapatna,12.4625,76.07305556,Depuru,"Dug Well",W24072,2014,5.03,7.22,2.34,10.42
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.13611111,Attigod,"Dug Well",W24084,2014,19.75,18.1,17.05,20.5
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.4925,76.39722222,"Hampapura A","Dug Well",W24085,2014,3.23,4.48,3.1,4.25
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50055556,76.24222222,Mayagowdanahalli,"Dug Well",W24092,2014,6.2,5.75,3.14,7.1
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Chunchankatte,"Dug Well",W24096,2014,6.35,NA,6.35,6.35
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.51138889,76.38972222,Badakanakoppalu,"Dug Well",W24101,2014,6.9,5.8,4,9.51
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2014,11.72,3.3,10.1,11.81
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2014,8.37,3.49,6.86,8.69
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2014,13.4,12.01,11.9,13
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2014,17.98,13.7,18.9,17.25
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2014,3.61,3.92,2.61,3.87
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2014,7.05,6.25,5.89,8.6
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2014,5.27,6.3,3.76,14.43
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2014,6.21,NA,4.59,8.59
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2014,2.65,3.3,2.15,2.9
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2014,6.37,2.83,1.47,5.17
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2014,4.12,3.99,3.01,4.41
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2014,12.75,8.97,NA,12.75
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2014,8.89,NA,8.89,8.89
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2014,17.69,17.69,6.19,17.69
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2014,22.5,26.3,20.2,21.57
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2014,4.4,7.99,4.74,7.56
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2014,6.1,1.73,1.68,5.03
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2014,7.3,6.7,3.8,8.15
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2014,'0.65,'0.57,'0.81,'0.62
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2014,8.22,13.1,13.72,15.61
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2014,11.81,14.69,8.75,11.33
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2014,10.19,12.23,9.56,11.3
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2014,14.85,15.8,12.26,19.32
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2014,11,11,11,11
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2014,10.3,6,4.9,10.05
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2014,15.2,12.7,13.02,16.92
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2014,9.25,5.77,2,10.6
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2014,2.74,6.41,3.41,5.61
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2014,2.5,4.42,4.7,6.15
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2014,4.22,2.66,1.92,3.04
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2014,8.45,7.9,11.5,9.75
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2014,3.53,1.85,1.58,3.8
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2014,7.45,3.8,2.88,6.48
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2014,10.47,9.82,9.9,12.69
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2014,2.97,2.62,2.23,2.75
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2014,18.76,8.91,1.56,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2014,7.05,1.45,4,5.8
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09055556,76.32972222,Heggadadevanakote-A,"Dug Well",W22303,2014,5.8,4.75,5.25,5.45
+KA,Mysore,Nanjangud,Nanjangud,11.93361111,76.52583333,Beeredevanapura,"Dug Well",W23902,2014,5.95,2.55,1.18,4.66
+KA,Mysore,Nanjangud,Nanjangud,12.07222222,76.68333333,Chikkayyanachathra,"Dug Well",W23944,2014,'0.38,1.46,'0.38,'0.23
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26972222,Bheerya-A,"Dug Well",W22570,2014,5.55,13.7,11.07,14.75
+KA,Mysore,Nanjangud,Nanjangud,12.09444444,76.47777778,Motha,"Dug Well",W23949,2014,1.2,1.1,'0.77,1.88
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Palya,"Dug Well",W23950,2014,'0.92,2.58,'0.81,8.49
+KA,Mysore,Nanjangud,Nanjangud,12.09722222,76.51388889,Kannenuru,"Dug Well",W23951,2014,8.8,5.3,3.2,9.2
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Heggadadevanakote,"Bore Well",W23952,2014,11.9,7.9,9.6,11.45
+KA,Mysore,Nanjangud,Nanjangud,12.10277778,76.67777778,Deviramanahalli,"Dug Well",W23953,2014,6.45,1.15,'0.8,6.6
+KA,Mysore,Nanjangud,Nanjangud,12.10555556,76.70833333,Vidyapitha,"Dug Well",W23954,2014,2.42,2.75,2.03,4.48
+KA,Mysore,Nanjangud,Nanjangud,12.11111111,76.70555556,Guluru,"Dug Well",W23957,2014,'0.72,1.4,'0.8,1
+KA,Mysore,Nanjangud,Nanjangud,12.11277778,76.44694444,Ibjala,"Dug Well",W23958,2014,8.25,3.5,2.12,9.32
+KA,Mysore,Nanjangud,Nanjangud,12.11527778,76.60166667,Gandhigrama,"Dug Well",W23959,2014,2.13,3.74,1.59,7.02
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Hampapur,"Dug Well",W23961,2014,8.26,8.26,8.26,8.26
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.20194444,76.91055556,Alaguda,"Dug Well",W23981,2014,1.75,1.62,1.12,NA
+KA,Mysore,Hunsur,Hunsur,12.23888889,76.34166667,Rathnapuri,"Dug Well",W23990,2014,1.9,3.22,1.5,1.95
+KA,Mysore,Hunsur,Hunsur,12.25027778,76.33138889,"Koimuthur Colony","Dug Well",W23994,2014,4.62,6.59,3.86,14.5
+KA,Mysore,Mysore,Mysore,12.25444444,76.81694444,Kellanapura,"Dug Well",W23996,2014,NA,NA,2.77,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.25472222,76.91055556,Hunugunahalli,"Dug Well",W23997,2014,2.64,NA,NA,NA
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.3,76.88805556,Kethupura,"Dug Well",W24010,2014,1.6,1.75,'0.83,3.3
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.30666667,76.885,Bevinahalli,"Dug Well",W24011,2014,1.55,1.4,1.4,2.65
+KA,Mysore,Mysore,Mysore,12.35833333,76.66111111,Siddalingapura,"Dug Well",W24032,2014,1.49,2.39,1.49,1.72
+KA,Mysore,Mysore,Mysore,12.36111111,76.66111111,Kalasthavadi,"Dug Well",W24034,2014,1.9,2.38,2.31,6.43
+KA,Mysore,Krishnarajanagara,Hunsur,12.36666667,76.42222222,Hosaramanahalli,"Dug Well",W24038,2014,15.35,15,13.75,16.48
+KA,Mysore,Piriyapatna,Piriyapatna,12.375,76.03888889,Kundanahalli,"Dug Well",W24041,2014,7.63,7.1,7.2,9.1
+KA,Mysore,Hunsur,Hunsur,12.37972222,76.37361111,Hejjodlu,"Dug Well",W24043,2014,21.05,15.1,5.95,10.42
+KA,Mysore,Hunsur,Hunsur,12.38222222,76.39416667,Shiriyur,"Dug Well",W24045,2014,15.35,13.5,8,16.2
+KA,Mysore,Krishnarajanagara,Hunsur,12.36666667,76.42222222,Hosaramanahalli,"Dug Well",W24038,2013,16.15,15.81,6.2,19.3
+KA,Mysore,Piriyapatna,Piriyapatna,12.375,76.03888889,Kundanahalli,"Dug Well",W24041,2013,5.5,9.32,5.9,9.3
+KA,Mysore,Hunsur,Hunsur,12.37972222,76.37361111,Hejjodlu,"Dug Well",W24043,2013,21.05,NA,14.55,20.8
+KA,Mysore,Piriyapatna,Piriyapatna,12.44805556,76.07111111,Konasuru,"Dug Well",W24062,2013,1.45,NA,1.6,9.5
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.13611111,Attigod,"Dug Well",W24084,2013,NA,18.7,17.85,19.5
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.4925,76.39722222,"Hampapura A","Dug Well",W24085,2013,6.4,NA,4.5,6
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50055556,76.24222222,Mayagowdanahalli,"Dug Well",W24092,2013,7.9,NA,7.03,6.4
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Chunchankatte,"Dug Well",W24096,2013,6.35,4.59,6.35,6.35
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.51138889,76.38972222,Badakanakoppalu,"Dug Well",W24101,2013,7.48,NA,5.1,12.8
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Beemanahalli,"Dug Well",W31007,2013,NA,18.83,NA,18.83
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.48888889,76.4,Hampapura,"Dug Well",W31022,2013,4.2,2.3,NA,NA
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2013,NA,9.42,9.86,11.18
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2013,5.64,14.7,3.87,8.54
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,2013,NA,NA,NA,18.83
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2013,12.85,12.4,11.17,16.6
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2013,19.1,19.35,13.2,18.6
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2013,NA,14.41,NA,NA
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2013,6.57,4.7,3.5,4.92
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2013,7.05,6.37,6.45,10.05
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2013,7.25,12.64,5.74,13.65
+KA,Mysore,Mysore,Mysore,12.20416667,76.55277778,Jayapur(Chatnahalli),"Dug Well",W06015,2013,NA,12.63,NA,3.53
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2013,7.19,7.79,5.69,9.74
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2013,2.75,3.46,2.51,5.1
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2013,NA,3.27,1.97,4.92
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2013,4.04,4.01,4.15,4.09
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2013,7.17,6.18,6.19,12.75
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2013,NA,4.56,NA,8.89
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2013,NA,11.66,NA,11.66
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2013,NA,NA,NA,13.98
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2013,NA,17.69,7.94,17.69
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2013,20.04,26.1,21.2,25.35
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2013,4.39,7.53,6.04,13.44
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2013,3.25,1.85,2.9,4.2
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2013,7.05,7.1,5.8,9.4
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2013,NA,'0.9,'0.64,1.9
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2013,13.5,16,11.49,18.4
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2013,10.31,12.71,11.35,12.71
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2013,17.2,14.44,13.07,12.5
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2013,15.5,16.1,15.4,NA
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2013,NA,9.32,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2013,11,11,11,11
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2013,9.05,7.01,5.95,11.25
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2013,13.4,13.93,12.98,12
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2013,7.57,4.81,4.78,11.3
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2013,4.51,8.44,4.05,8.96
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2013,5.8,9.04,4.84,6.5
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2013,3.74,3.4,2.63,4.44
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2013,NA,NA,NA,26.33
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2013,9.06,8.87,7.92,10.1
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2013,1.2,1.56,1.26,4.45
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2013,8.05,4.5,2.99,16.5
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2013,10.07,12.39,8.47,15.37
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2013,2.85,2.94,2.42,3.8
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2013,9.61,5.84,8.76,5.61
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2013,4.12,4.24,5.6,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09055556,76.32972222,Heggadadevanakote-A,"Dug Well",W22303,2013,4.37,9.55,4,9.55
+KA,Mysore,Nanjangud,Nanjangud,11.93361111,76.52583333,Beeredevanapura,"Dug Well",W23902,2013,2.25,NA,NA,8.2
+KA,Mysore,Nanjangud,Nanjangud,12.07222222,76.68333333,Chikkayyanachathra,"Dug Well",W23944,2013,'0.43,1.26,'0.3,4.43
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26972222,Bheerya-A,"Dug Well",W22570,2013,NA,14.75,13.25,14.75
+KA,Mysore,Nanjangud,Nanjangud,12.09444444,76.47777778,Motha,"Dug Well",W23949,2013,'0.85,'0.99,'0.75,3.55
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Palya,"Dug Well",W23950,2013,1.03,1.89,'0.84,9.38
+KA,Mysore,Nanjangud,Nanjangud,12.09722222,76.51388889,Kannenuru,"Dug Well",W23951,2013,3.45,5.61,2.62,10.1
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Heggadadevanakote,"Bore Well",W23952,2013,9.53,19.42,7.5,13.4
+KA,Mysore,Nanjangud,Nanjangud,12.10277778,76.67777778,Deviramanahalli,"Dug Well",W23953,2013,'0.8,4.7,'0.75,NA
+KA,Mysore,Nanjangud,Nanjangud,12.10555556,76.70833333,Vidyapitha,"Dug Well",W23954,2013,2.4,2.88,1.92,6.1
+KA,Mysore,Nanjangud,Nanjangud,12.11111111,76.70555556,Guluru,"Dug Well",W23957,2013,'0.85,1.08,'0.77,3.15
+KA,Mysore,Nanjangud,Nanjangud,12.11277778,76.44694444,Ibjala,"Dug Well",W23958,2013,2.3,NA,2.11,6.2
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Hampapur,"Dug Well",W23961,2013,8.26,8.26,8.26,8.26
+KA,Mysore,Hunsur,Hunsur,12.23888889,76.34166667,Rathnapuri,"Dug Well",W23990,2013,1.95,2,2.6,3.1
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.25472222,76.91055556,Hunugunahalli,"Dug Well",W23997,2013,NA,NA,'0.7,NA
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.3,76.88805556,Kethupura,"Dug Well",W24010,2013,3.6,NA,1.5,6.9
+KA,Mysore,Mysore,"Tirumakudal Narsipur",12.30666667,76.885,Bevinahalli,"Dug Well",W24011,2013,'0.73,NA,3.42,11
+KA,Mysore,Krishnarajanagara,Hunsur,12.325,76.28333333,Kalayanapura,"Dug Well",W24017,2013,NA,11.26,NA,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.66111111,Siddalingapura,"Dug Well",W24032,2013,1.14,1.96,1.42,3.64
+KA,Mysore,Mysore,Mysore,12.36111111,76.66111111,Kalasthavadi,"Dug Well",W24034,2013,1.7,2.47,1.55,NA
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2012,NA,4.78,8.88,8.06
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Beemanahalli,"Dug Well",W31007,2012,NA,NA,4.8,NA
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2012,NA,12.2,14.05,13.46
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2012,NA,11.45,14,14.25
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2012,NA,5.37,4.02,5.92
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2012,NA,5.41,6.25,10.2
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2012,NA,9.5,10.15,11.85
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2012,NA,5.54,6.94,6.69
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2012,NA,3.15,2.8,2.5
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2012,NA,2.37,2.52,3.47
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2012,NA,3.54,3.69,3.64
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2012,NA,5.42,5.82,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2012,NA,4.54,3.69,5.31
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2012,NA,11.66,11.66,11.66
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2012,NA,5.74,17.69,7.71
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2012,NA,19.6,22.4,22.66
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2012,NA,1.99,4.34,4.26
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2012,NA,2.65,2.85,4.12
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2012,NA,5.95,7,8.05
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2012,NA,'0.8,'0.72,'0.2
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2012,NA,15,8.9,16.33
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2012,NA,5.71,12.61,10.93
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2012,NA,22.6,10.6,12.45
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2012,NA,15.6,11.05,15.7
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2012,NA,5.3,2.7,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2012,NA,6.78,11,7.92
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2012,NA,5.9,7.65,9.5
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2012,NA,20.1,11.45,10.27
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2012,NA,5.1,5.3,9.6
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2012,NA,7.71,7.16,7.86
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2012,NA,6.45,5.6,6
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2012,NA,1.39,2.94,3.49
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2012,NA,2.48,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2012,NA,9.15,7.95,7.2
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2012,NA,1.65,1.4,4.95
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2012,NA,2.97,5.07,6.05
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2012,NA,12.17,11.57,13.24
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2012,NA,2.5,NA,2.95
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2012,NA,1.86,5.21,2.81
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2012,NA,4.05,3.25,4.75
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09055556,76.32972222,Heggadadevanakote-A,"Dug Well",W22303,2012,NA,3.1,6.8,9.5
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26972222,Bheerya-A,"Dug Well",W22570,2012,NA,13.15,14.65,13.15
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Palya,"Dug Well",W23950,2012,NA,NA,1.13,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Heggadadevanakote,"Bore Well",W23952,2012,NA,NA,10.55,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Hampapur,"Dug Well",W23961,2012,NA,NA,8.26,NA
+KA,Mysore,Krishnarajanagara,Hunsur,12.325,76.28333333,Kalayanapura,"Dug Well",W24017,2012,NA,NA,11.05,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Chunchankatte,"Dug Well",W24096,2012,NA,NA,4.35,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2012,NA,2.04,4.69,5.24
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2011,2.98,4.17,NA,6.89
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09055556,76.32972222,Heggadadevanakote-A,"Dug Well",W22303,2011,3.55,NA,4.65,2.64
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2011,13.6,11.94,13.35,12.83
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2011,13.92,12.46,12.95,NA
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2011,NA,NA,NA,4.95
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2011,5.42,3.47,4.57,5.86
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2011,6.45,4.95,4,7.42
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2011,10.35,11.08,9.45,11.59
+KA,Mysore,Mysore,Mysore,12.20416667,76.55277778,Jayapur(Chatnahalli),"Dug Well",W06015,2011,12.63,NA,12.63,NA
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2011,5.89,5.09,4.69,6.42
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2011,2.7,2.36,1.55,2.84
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2011,1.87,1.22,1.37,2.6
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2011,3.24,3.04,2.91,1.99
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2011,6.39,8.57,5.62,8.78
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2011,4.34,3.61,3.94,3.85
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2011,11.66,11.66,11.66,11.66
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2011,NA,3.17,5.91,15.11
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2011,6.09,5.56,4.94,6.31
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2011,19.8,17.06,16.7,19.08
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2011,3.39,3.3,1.69,3.46
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2011,2.35,2.67,2.32,1.8
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2011,7.25,4.1,4.55,5.78
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2011,'0.99,'0.65,'0.9,'0.98
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2011,12.2,11.96,11.35,17.11
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2011,3.96,4.91,4.03,5.92
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2011,11.25,10.21,10.5,11.08
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2011,10.73,13.4,10.55,11.68
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2011,3.3,NA,2.92,2.74
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2011,6.48,5.64,4.48,7.1
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2011,8.95,4.27,6.55,8.46
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2011,10.1,9.02,9.02,10.57
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2011,6.75,4.98,4.4,8.76
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2011,6.81,7.27,6.86,6.05
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2011,6.35,3.58,5.75,5.28
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2011,2.84,2.55,'0.79,2.6
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2011,3.48,NA,3.23,NA
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2011,7.4,6.09,7.11,6.98
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2011,4.7,1.76,1.45,4.04
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2011,6.85,3.55,2.8,5.59
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2011,9.07,8.54,8.17,12.47
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2011,2.45,2.41,2.2,2.22
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2011,1.36,1.11,1.16,2.27
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2011,4.45,3.81,4.4,4.65
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2011,2.29,1.67,NA,4.29
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2010,5.97,4.9,2.38,8
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2010,3.76,4.12,3.09,3.95
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2010,13.56,12.55,11.64,14.44
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2010,13.29,11.72,11.99,15.04
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2010,4.47,3.95,1.96,4.95
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2010,6.61,5.73,2.96,9.4
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2010,12.16,10.16,6.39,13.06
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2010,7.34,5.62,4.49,8.06
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2010,2.9,2.98,'0.95,NA
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2010,1.96,2.6,'0.47,7.93
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2010,3.09,3.72,2.8,3.59
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2010,8.67,NA,5.09,8.37
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2010,4.03,4.26,2.07,4.21
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2010,6.45,4.34,3.7,6.23
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2010,6.15,5.28,4.92,6.74
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2010,22.82,16.15,16.67,6.85
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2010,4.79,4.68,2.14,7.14
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2010,2.72,2.74,1.31,2.35
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,2010,NA,NA,NA,2.48
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2010,7.25,5.59,'0.88,8.46
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2010,1.11,'0.9,1,'0.95
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2010,16.1,14.52,11.29,12.82
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2010,8.37,4.52,3.81,7.79
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2010,10.21,9.68,9.32,10.22
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2010,13.7,14.4,10.78,14.16
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2010,NA,5.51,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2010,5.93,5.63,4.61,6.48
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2010,9.59,4.5,4.5,7.86
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2010,10.1,9.62,7.58,10.05
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2010,8.1,4.13,3.72,8.2
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2010,6.96,7.39,6.15,7.91
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2010,7.01,6.28,3.59,7.36
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2010,3.42,2.57,3.58,4.25
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2010,NA,2.55,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2010,7.73,9.33,5.45,8.05
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2010,3.49,1.68,1.26,3.55
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2010,6.39,3.8,1.85,5.87
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2010,13.17,10.42,8.21,12.79
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2010,2.45,2.48,1.26,2.68
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2010,3.06,NA,'0.68,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2010,4.25,2.16,'0.8,5.14
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2009,2.84,6.63,3.19,10
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2009,3.72,5.3,3.92,4.83
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2009,NA,NA,15.91,NA
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2009,13.2,14.1,12.2,14.55
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2009,14.13,12.42,10.8,15.6
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2009,4.75,6.07,4.03,6.32
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2009,6.45,5.67,5.35,9.27
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2009,9.42,14.35,7.5,12.27
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2009,5.73,5.89,4.66,8.14
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2009,1.71,3.35,2.67,3.08
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2009,3.32,2.77,1.77,3.12
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2009,4.19,4.99,3.98,4.41
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2009,4.5,12.75,4.41,5.79
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2009,3.09,4.74,3.7,4.58
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2009,NA,11.66,11.66,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2009,14.81,12.33,11.41,14.71
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2009,5.34,5.04,4.53,6.12
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2009,20.5,13.75,12.4,20.9
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2009,3.98,4.94,3.77,5.26
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2009,NA,2.9,2.2,3.3
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2009,6.87,5.87,5.68,6.98
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2009,'0.87,1.33,'0.83,'0.9
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2009,12.17,14.5,11.81,17.49
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2009,4.01,9.31,3.27,9.18
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2009,9.98,9.87,10.35,11.13
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2009,13.92,13.8,13.83,14.15
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2009,4.06,5.6,5.82,5.26
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2009,5.03,7.43,5.49,7.43
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2009,6.47,3.85,4.79,6.15
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2009,8.93,11.4,10,11.5
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2009,7.02,4.58,4.42,8.32
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2009,6.34,7.56,6.64,7.77
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2009,5.5,5.62,5.35,5.67
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2009,2.15,3.34,2.57,3.52
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2009,3.03,2.68,NA,10.06
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2009,8.86,9.4,8,9.1
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2009,1.74,2.52,1.32,4.3
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2009,5.88,5.47,2.74,5.83
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2009,9.12,10.67,8.65,13.57
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2009,2.38,2.62,2.25,3.1
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2009,2.84,17.71,NA,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2009,2.16,5.29,1.6,7.96
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2008,4.03,5.55,5.78,2.02
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2008,4.34,1.97,3.94,7.06
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2008,NA,NA,NA,15.91
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2008,13.7,14.6,13,14.58
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2008,11.42,12.07,NA,13.58
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2008,3.72,3.38,5.33,4.41
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2008,8.95,4.82,4.58,8.4
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2008,9.66,10.95,10.56,11.1
+KA,Mysore,Mysore,Mysore,12.20416667,76.55277778,Jayapur(Chatnahalli),"Dug Well",W06015,2008,NA,NA,12.63,12.63
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2008,6.51,3.98,5.19,4.61
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2008,2.65,2.8,3.05,2.73
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2008,1.9,6.31,1.93,7.35
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2008,NA,NA,4.77,9.87
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2008,5.42,6.3,5.83,4.78
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2008,4.16,4.58,3.51,5.36
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2008,NA,NA,11.66,11.66
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2008,4.52,6.11,10.71,6.27
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2008,3.67,3.9,3.54,5.25
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2008,5.39,8.06,7.9,12.11
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2008,3.24,2.63,3.41,5.69
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2008,2.78,2.47,1.92,4.88
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2008,4.53,5.14,2.75,5.46
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2008,'0.71,1.55,'0.84,'0.82
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2008,15.03,11.84,11.65,18.96
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2008,8.41,NA,NA,NA
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2008,9.32,9.86,10.2,11.21
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2008,12.82,12.76,13.94,13.33
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2008,3.63,2.85,4.65,2.32
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2008,5.78,6.98,3.68,7.9
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2008,5.28,4.11,3.51,5.07
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2008,9.72,9.73,9.35,9.14
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2008,5.33,4.2,3.6,5.03
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2008,5.27,7.58,6.06,6.92
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2008,4.61,4.62,4.35,5.07
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2008,2.09,2.76,2.39,3.26
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2008,NA,NA,1.58,NA
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2008,9.46,9.49,8.9,10.38
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2008,1.87,1.02,1.4,3.06
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2008,6.41,4,2.65,3.67
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2008,11.4,8.99,8.41,14.13
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2008,2.53,2.75,8.75,2.53
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2008,NA,2.66,7.16,12.78
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2008,5.95,5.41,4.02,6.61
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2007,'0.64,NA,1.27,2.99
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2007,4.05,4.33,2.04,4.78
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98333333,76.47916667,Mulluru,"Dug Well",W21379,2007,10.88,NA,7.09,13.88
+KA,Mysore,Hunsur,Hunsur,12.30555556,76.275,"Hunsur A","Dug Well",W21381,2007,2.15,NA,1.77,9.9
+KA,Mysore,Nanjangud,Nanjangud,11.925,76.56805556,Kothanahalli,"Dug Well",W21383,2007,8.56,NA,2.41,12.78
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2007,8.45,4.93,4.89,8.5
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2007,7.41,4.6,4.3,7.85
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2007,6.4,9.69,8.68,11.9
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2007,5.86,4.69,3.4,7.75
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2007,6.85,7.85,4.51,8.88
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2007,5.66,6.08,3.43,5.57
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2007,2.48,3.77,1.59,3.7
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2007,NA,2.44,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2007,9.85,10.19,8.77,9.67
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2007,3.25,3.24,'0.37,3.52
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2007,5.56,NA,2.82,7.59
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2007,'0.9,'0.83,'0.94,1.22
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2007,14.33,13.85,9.68,16.5
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2007,3.51,5.86,NA,11.21
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2007,10.4,14.45,8.57,12.16
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2007,13.04,10.29,11.03,9.54
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2007,2.49,3.72,2.46,3.33
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2007,5.9,5.91,5.43,10.82
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2007,NA,3.94,NA,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2007,6.21,7.17,4.12,3.29
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2007,5.47,5.09,2.54,5.83
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2007,NA,11.66,NA,11.66
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2007,9.15,8.92,5.38,11.11
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2007,3.35,5.79,3.02,6.29
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2007,6.06,13.69,5.83,16.66
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2007,1.38,NA,1.06,8.55
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2007,9.45,5.22,7.15,11.36
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2007,12.38,12.96,7.4,15.56
+KA,Mysore,Mysore,Mysore,12.20416667,76.55277778,Jayapur(Chatnahalli),"Dug Well",W06015,2007,NA,12.63,NA,12.63
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2007,6.58,6.34,3.17,7.58
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2007,1.73,2.46,1.82,8.39
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2007,7.13,3.18,5.52,8.58
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2007,1.72,4.45,3.1,6.74
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2007,1.3,4.19,1.09,8.72
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2007,15.91,NA,15.91,NA
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2007,14.05,13.44,NA,18.3
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2007,14.68,13.78,11.2,16.37
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2007,'0.74,2.49,'0.75,14.4
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2007,5.3,4.79,3.5,7
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2006,6.6,4.4,1.77,6.76
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2006,3.12,2.83,3.16,4
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2006,6.07,3.33,3.55,5.52
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2006,8.42,8.74,8.94,9.93
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2006,4.59,4.34,2.97,4.79
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2006,7.2,7.86,4.85,8.12
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2006,5.27,3.38,5.33,4.59
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2006,2.67,3.1,2.68,3.5
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2006,6.81,3.46,2.84,6.98
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2006,8.94,9.71,9.12,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2006,5.43,5.16,2.65,3
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2006,'0.83,1.28,'0.86,'0.87
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2006,13.23,11.65,10.59,15.9
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2006,4.72,2.83,2.93,5.04
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2006,10.41,9.47,12.14,10.25
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2006,2.91,NA,2.04,NA
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2006,1.25,2.12,1.92,1.5
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2006,3.9,5.17,4.56,6.17
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2006,3.29,3.9,2.75,3.38
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2006,3.88,NA,1.66,6.08
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2006,2.99,3.14,2.88,3.52
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2006,11.66,11.66,NA,11.66
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2006,7.11,3.55,6.7,7.72
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2006,3.89,2.76,4.19,5.12
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2006,11.3,7.69,11.02,9.47
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2006,6.55,4.25,4.07,7.07
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2006,13.37,12.75,10.29,13.15
+KA,Mysore,Mysore,Mysore,12.20416667,76.55277778,Jayapur(Chatnahalli),"Dug Well",W06015,2006,12.63,NA,NA,12.63
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,2006,17.77,17.77,17.77,NA
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2006,5.92,5.25,4.41,6.39
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2006,2.16,2.26,1.9,3.95
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,2006,NA,1.8,8.78,NA
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2006,2.39,2.27,1.77,3.11
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2006,2.34,3.89,1.66,8.46
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2006,4.48,2.37,3.11,5.7
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2006,NA,NA,15.91,NA
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2006,12.86,10.77,12.83,12.92
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2006,14.67,10.91,12.61,13.59
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2006,'0.94,1.32,'0.95,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2006,4.3,4.35,3.57,4.9
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2005,NA,14.32,NA,5.91
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2005,3.47,NA,1.06,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.33,76.8625,"Bannur A","Dug Well",W20548,2005,4.15,NA,2.97,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2005,5.09,13.22,1.75,3.27
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2005,12.7,14.34,7.48,16.79
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2005,4.54,4.81,2.51,5.78
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2005,7.26,NA,6.02,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2005,6.48,6.23,2.44,6.39
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2005,2.73,13.94,1.22,3.86
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2005,11.55,4.36,3.7,3.88
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2005,NA,11.74,8.88,10.59
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2005,4.02,5.37,1.48,3.52
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,2005,NA,2.05,NA,3.77
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2005,NA,14.67,NA,5.39
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2005,'0.7,'0.8,'0.12,'0.7
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2005,15.24,16.49,8.5,19.32
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,2005,7.32,NA,1.36,NA
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2005,10.14,10.21,7.88,10.57
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2005,2.02,4.22,1.22,4.86
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2005,1.16,4.16,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2005,10.82,3.12,4.05,2.31
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2005,3.5,13.91,2.7,4.59
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2005,5.17,7.69,3.47,9.62
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,2005,NA,3.37,NA,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2005,2.58,NA,'0.58,5.32
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2005,NA,1.77,5.63,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2005,8.44,12.83,5.41,8.84
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2005,3.91,5.57,'0.89,6.51
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2005,15.82,13.68,4.69,17.79
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2005,NA,15.37,NA,5.93
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2005,4.05,NA,1.24,5.72
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2005,13.29,13.82,6.66,14.81
+KA,Mysore,Mysore,Mysore,12.20416667,76.55277778,Jayapur(Chatnahalli),"Dug Well",W06015,2005,NA,NA,12.63,NA
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,2005,9.91,NA,17.77,10.51
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2005,4.04,2.64,3.04,1.62
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2005,2.18,NA,'0.72,NA
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,2005,NA,2.5,NA,4.58
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,2005,NA,3.83,NA,5.96
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2005,2.44,3.05,'0.25,2.9
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2005,2.13,NA,NA,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2005,3.68,6.77,'0.31,8.68
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,2005,NA,11.32,NA,2.98
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2005,NA,7.93,NA,8.72
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2005,13.33,13.51,9.48,15.24
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2005,13.6,14.06,8.84,15.92
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2005,1.77,2.97,'0.75,6.55
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2005,6.08,5,1.36,6.62
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2004,3.22,3.7,2.81,4.22
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2004,4.33,5.38,3.66,7.39
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2004,2.8,3.09,2.21,3.18
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2004,NA,12.42,11.58,13.1
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2004,NA,4.74,3.27,7.18
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2004,7.51,6.7,7.12,7.53
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2004,NA,6.65,4.85,6.04
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2004,4.03,4.23,3.46,9.33
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2004,4.25,4.66,4.1,3.66
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2004,NA,2.77,1.36,2.84
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,2004,2.48,NA,1.46,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2004,3.65,6.64,3.37,6.95
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2004,'0.75,1.22,'0.92,1.85
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2004,15.52,20,15.06,19.3
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2004,NA,10.15,10.71,9.03
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2004,4.1,5.36,2.92,5.74
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2004,2.21,3.15,1.18,3.49
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2004,9.39,10.01,6.83,10.77
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,2004,12.05,12.51,10.68,9.82
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2004,5.55,NA,5.09,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2004,5.92,5.76,5.09,8.13
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2004,7.17,7.03,NA,9.72
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2004,NA,19.51,8.61,16.35
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2004,5.39,6.36,4.14,5.13
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2004,NA,15.01,12.05,14.35
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,2004,10.04,10.56,4.5,11.18
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2004,'0.9,3.45,'0.84,8.24
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,2004,1.54,3.93,1.26,4.32
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,2004,3.22,3.9,2.34,5.66
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2004,2.02,3.42,2.12,4.01
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2004,3.67,5.25,7.66,3.97
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2004,7.27,6.6,5.77,9.66
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,2004,11.49,11.22,NA,10.28
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2004,7.84,8.17,7.28,8.31
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2004,NA,NA,12.52,NA
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2004,NA,14.15,12.96,16.9
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2004,5.97,4.53,3.87,7.26
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2003,7.43,4.95,4.45,6.75
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2003,2.93,2.7,2.23,4.55
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2003,NA,10.1,NA,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2003,NA,4.22,NA,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2003,6.55,4.25,5.52,6.5
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2003,NA,5.35,NA,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2003,4.61,3.96,3.72,NA
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2003,4.58,5.03,4.43,6.2
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2003,NA,11.4,NA,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2003,3.29,3.04,3.16,5.87
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2003,6.89,15.78,5.66,7.24
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2003,'0.52,'0.9,'0.79,2.07
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2003,NA,19.27,NA,NA
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2003,NA,9.95,NA,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2003,6.79,4.84,3.9,6.98
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2003,3.1,3.6,1.64,4.65
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2003,10.88,7.86,8.66,10.25
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,2003,11.92,13.55,10.64,10.42
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2003,10.18,6.1,5.26,10.6
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2003,8.98,5.59,6.28,9.29
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2003,NA,15.89,NA,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2003,7.15,6.6,5.37,10.47
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2003,NA,2.8,NA,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2003,NA,14.73,NA,NA
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,2003,12.81,13.37,9.77,NA
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2003,'0.82,1.33,'0.37,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2003,NA,6.43,7.71,NA
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,2003,5.63,3.32,2.72,6.53
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,2003,3.02,NA,1.21,5.3
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2003,2.58,2.53,2.16,3.38
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2003,5.64,5.89,4.07,5.89
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2003,9.95,8.05,7.89,9.69
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,2003,11.54,11.8,9.93,11.68
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2003,8.41,NA,7.22,8.86
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2003,NA,13.3,NA,NA
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2003,NA,12.95,NA,NA
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2003,5.19,4.23,4.95,9.76
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2003,7.63,6.55,5.39,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2003,NA,'0.5,NA,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2002,8.62,4.47,5.5,5.03
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2002,1.38,'0.55,NA,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2002,6.27,NA,4.08,13.02
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2002,5.87,3.62,3.42,5.31
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2002,5.94,NA,4.09,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2002,4.1,4.03,3.45,5.18
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2002,5.08,5.87,4.78,12.44
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2002,10.71,NA,10.27,5.5
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2002,2.04,1.72,2.14,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,2002,NA,2.66,1.6,6.09
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2002,5.5,NA,5.09,5.66
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2002,'0.77,1.11,'0.95,1.35
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2002,14.2,NA,18.45,16.91
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2002,9.88,NA,9.59,10.22
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2002,6.62,4.08,3.44,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2002,3.2,5.31,2.2,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2002,3.57,3.53,3.41,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2002,9.56,5.53,6.76,NA
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,2002,13.45,12.3,12.68,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2002,NA,6.01,5.72,8.47
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2002,7.65,6.12,5.85,NA
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2002,7.54,5.62,5.49,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2002,14.31,NA,16.2,12.89
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2002,7.25,1,5.75,8.48
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2002,3.27,NA,2.4,2.7
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2002,16.75,NA,13.07,17.45
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,2002,13.62,13.3,13.02,12.91
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2002,'0.88,2.17,1.03,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2002,NA,5.49,5.73,6.49
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,2002,6.9,2.14,2.44,6.22
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,2002,1.25,1.3,'0.75,NA
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2002,3.36,3.11,2.35,3.63
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2002,4.74,3.82,3.32,6.19
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2002,8.25,4.03,7.4,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,2002,12.4,9.55,9.27,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2002,9.81,9.75,9.58,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09166667,76.375,Karimuddanahalli1,"Dug Well",W06008,2002,NA,3.28,NA,NA
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2002,13.6,NA,12.79,13.7
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2002,15.8,NA,12.11,14.6
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2002,6.34,'0.45,3.86,6.26
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2002,6.54,6.35,5.2,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2002,11.75,NA,9.38,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2001,5.6,2.65,4.25,4.64
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2001,4.3,3.4,1.33,3.15
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2001,4,3.9,3.37,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2001,5.27,3.2,2.29,4.79
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2001,NA,3.87,3.67,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2001,3.91,3.7,1.85,3.93
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2001,5.08,17.38,3.47,11.59
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2001,10.8,10.67,8.99,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2001,'0.94,5.64,'0.85,1.44
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,2001,NA,2.95,1.33,4.51
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2001,'0.77,2.55,1.8,'0.85
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2001,NA,9,NA,NA
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2001,9.61,9.3,8.65,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2001,4.34,7.04,2.42,3.72
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2001,2.46,2.5,'0.72,3.08
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2001,3.07,3.25,1.57,3.44
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2001,6.61,2.11,4.97,6.88
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,2001,NA,8.7,13,12.86
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2001,4.12,NA,2.42,7
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2001,1.71,9.58,NA,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2001,6.06,5.45,3.61,7.45
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2001,4.04,4.89,2.53,5.81
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2001,9.75,7.98,5.16,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2001,7,5.7,1.42,6.73
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2001,2.45,1.8,'0.45,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2001,NA,14.95,13.08,NA
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,2001,12.77,13.37,NA,11.73
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2001,'0.68,5.33,'0.61,1.8
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2001,5.8,5.38,4.24,5.96
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2001,5.79,3.69,3.28,9.94
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,2001,3.12,6.02,1.47,2.57
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,2001,1.25,5.55,'0.55,1.2
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2001,2.17,2.83,1.33,2.73
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2001,4.07,3.14,2.36,4.13
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2001,5.11,2.55,1.93,3.52
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,2001,10.1,9.3,9.15,9.45
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2001,9.41,7.91,8.18,10.57
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09166667,76.375,Karimuddanahalli1,"Dug Well",W06008,2001,1.37,9.57,'0.65,7.11
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2001,13,11.1,11.47,NA
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2001,12.6,11.87,11.61,NA
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2001,NA,8.54,NA,3.77
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2001,6.3,5.3,4.68,9.21
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2001,9.51,8.8,NA,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,2000,4.63,3.14,2.18,5.52
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,2000,4.23,3.68,1.45,5.4
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.125,76.95,Muguru,"Bore Well",W06344,2000,4.37,4.04,NA,6.57
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,2000,2.57,3.94,1.75,5.35
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,2000,6.01,4.55,NA,5.71
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,2000,3.35,3.82,2.73,4.08
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,2000,14.04,7.48,8.5,12.56
+KA,Mysore,Nanjangud,Nanjangud,12.175,76.725,Thandavapura,"Bore Well",W06648,2000,11.62,10.32,NA,10.7
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,2000,'0.29,1.34,'0.79,3.95
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,2000,1.69,1.76,1.46,3.04
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,2000,1,1.2,'0.75,'0.71
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,2000,16.36,NA,NA,NA
+KA,Mysore,Mysore,Mysore,12.3,76.64166667,Mysore,"Bore Well",W06338,2000,8.89,NA,NA,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,2000,4.16,3.59,2.49,4.72
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,2000,NA,NA,6.34,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,2000,2.45,3.75,1.95,3.25
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,2000,2.99,3.29,1.91,3.51
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,2000,7.36,4.21,2.56,8.41
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,2000,12.05,NA,11.3,13.31
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,2000,5.86,NA,NA,6.37
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,2000,NA,10.23,9.09,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,2000,6.14,5.45,3.07,10.33
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,2000,4.56,5.24,5.07,7.55
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,2000,9.96,9.24,NA,10.9
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,2000,6.01,5.03,4.27,7.87
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,2000,3.58,3.84,NA,4.61
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,2000,14.1,16.08,NA,16.88
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,2000,11.32,13.02,10.36,12.09
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,2000,'0.87,2.96,'0.65,8.01
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,2000,5.35,5.54,4.84,7.57
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,2000,5.04,4.45,3.1,6.17
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,2000,3.53,1.59,1.42,2.47
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,2000,NA,1.25,NA,1.67
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,2000,2.88,2.89,2.19,3.26
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,2000,3.98,3.44,2.35,4.88
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,2000,NA,NA,22.86,24.43
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,2000,4.33,3.05,2.11,6.28
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,2000,10.69,9.68,8.75,10.55
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,2000,9.99,9.57,7.27,10.72
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09166667,76.375,Karimuddanahalli1,"Dug Well",W06008,2000,3.39,3.93,NA,7.97
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,2000,12.43,NA,NA,NA
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,2000,NA,12.62,NA,14.98
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,2000,2.72,2.14,'0.39,4.39
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,2000,5.94,6,4.06,9.61
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,2000,9.33,8.97,NA,10.86
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,1999,3.7,4.59,2.47,3.56
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,1999,1.03,7.65,'0.9,3.99
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,1999,1.86,'0.48,'0.93,4.39
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,1999,5.85,4.32,2.65,4.6
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,1999,2.38,2.72,2.35,3.23
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,1999,3.59,4.4,2.6,4.39
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,1999,8.54,6,2.5,3.86
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,1999,12.4,13.92,12.72,13.35
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,1999,NA,NA,3.77,6.1
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,1999,13.15,6,4.2,7.4
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,1999,3.05,5.7,4.17,4.1
+KA,Mysore,Piriyapatna,Piriyapatna,12.47083333,76.10833333,Bettdapura,"Bore Well",W05439,1999,9.45,NA,8.87,NA
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,1999,6.15,7.65,2.35,5.93
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.85,Bannur-2,"Bore Well",W05441,1999,4.2,NA,NA,NA
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,1999,1.64,1.65,1.8,3.15
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,1999,'0.62,1.4,1.17,1.09
+KA,Mysore,Heggadadevankote,Heggadadevankote,11.98388889,76.46666667,Mullur,"Bore Well",W06336,1999,16.88,NA,15.75,NA
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,1999,4.97,5.16,2.79,3.87
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,1999,3.66,4.9,2.2,3.18
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,1999,3.35,3.88,2.04,3.95
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.1,Piriyapatna,"Bore Well",W06343,1999,10.1,NA,8.87,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,1999,4.38,5.15,3.29,5.1
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.25,Saligrama,"Bore Well",W06645,1999,7.38,NA,4.38,NA
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,1999,NA,2.91,NA,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,1999,6.65,7.1,3.35,7.6
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,1999,11.65,11.8,8.8,17.4
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,1999,10.07,12.98,6.78,11.05
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09166667,76.375,Karimuddanahalli1,"Dug Well",W06008,1999,6.07,5.5,NA,6.67
+KA,Mysore,Hunsur,Hunsur,12.30833333,76.29166667,Hunsur1,"Bore Well",W06009,1999,13.62,NA,3.3,NA
+KA,Mysore,Hunsur,Hunsur,12.18416667,76.36666667,Karimuddanahalli,"Bore Well",W06010,1999,15.67,NA,12.45,NA
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,1999,4.47,3.16,NA,5.24
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,1999,6.48,NA,4.2,7.35
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,1999,5.7,4.35,1.48,5.16
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.46666667,76.38333333,Krishnarajanagara,"Bore Well",W06014,1999,18.48,NA,14.52,NA
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,1999,14.55,14.5,12.54,14.15
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,1999,'0.78,4.43,7.28,1.53
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,1999,5.33,6.12,4.69,6.68
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,1999,4.57,5.82,3.87,5.49
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,1999,'0.63,1.62,1.22,1.69
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,1999,5.4,6.52,5.54,8.88
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,1998,3.06,3.56,2.72,4.05
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,1998,5.43,6.08,4.21,9.66
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,1998,1.76,NA,1.37,'0.47
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,1998,4.29,3.5,2.58,4.8
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,1998,NA,1.18,2.05,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,1998,3.21,3.27,2.72,4.57
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,1998,5.12,7.09,2.94,4.58
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,1998,13.01,13.3,NA,13.37
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,1998,NA,NA,1.92,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,1998,4.81,5.28,4.37,9.6
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,1998,4.45,4.93,4.2,5.95
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,1998,6.55,4.65,5.02,7.67
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,1998,1.65,2.2,1.65,5.73
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,1998,'0.52,'0.95,NA,'0.36
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,1998,14.34,11.43,NA,14.41
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,1998,2.79,3.55,2.82,5
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,1998,'0.24,NA,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,1998,3.7,4.04,2.86,4.2
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,1998,3.04,2.9,2.53,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,1998,3.83,2.68,3.57,3.98
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,1998,NA,NA,24.46,NA
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,1998,9.64,1.68,9,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,1998,5.45,4.25,5.42,5.69
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,1998,11.22,14.7,15.76,11.19
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,1998,9.83,9.75,9.71,10.92
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09166667,76.375,Karimuddanahalli1,"Dug Well",W06008,1998,7.33,4.01,1.17,7.33
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,1998,7.24,1.24,2.02,5.02
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,1998,6.3,5.65,5.3,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,1998,3.93,4.42,1.81,6.5
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,1998,13.81,11.62,13.25,2.96
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,1998,'0.74,2.98,'0.76,1.01
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,1998,4.76,4.89,4.96,5.57
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,1998,5.87,4.33,4.83,6.71
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,1998,1.13,'0.37,1.21,2.59
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,1998,'0.84,'0.85,'0.65,1.3
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,1997,4.43,4.58,2.69,5.05
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,1997,2.85,3.39,1.63,4
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,1997,1,1.6,'0.34,2.63
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,1997,6.15,4.54,3.5,5.8
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,1997,4.95,4.29,2.54,5.17
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,1997,9.98,7.87,6.65,9.43
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,1997,14.36,14.02,12.46,14.88
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,1997,2.5,5.78,NA,7.35
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,1997,6.53,1.39,4.3,7.78
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,1997,5.06,6.08,4.72,7
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,1997,6,1.8,2.25,8.7
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,1997,1.7,2.09,1.6,5.85
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,1997,1.65,1.61,'0.97,1.45
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,1997,12.8,9.9,12.26,15
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,1997,5.23,4.27,3.09,6.2
+KA,Mysore,Nanjangud,Nanjangud,12.06666667,76.62777778,Nanjangud,"Dug Well",W06340,1997,13,NA,NA,NA
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,1997,5.1,5.83,2.8,4.92
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,1997,3.2,4.02,1.83,4.5
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,1997,3.34,3.07,2.92,4.04
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,1997,NA,23,NA,NA
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,1997,2.5,2.97,6.55,3.13
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,1997,4.77,6.78,3.4,8.15
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,1997,7.14,11.55,13.72,12.38
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,1997,9.35,11.58,9,14.38
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09166667,76.375,Karimuddanahalli1,"Dug Well",W06008,1997,2.24,2.1,1.04,7
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,1997,1.34,3,'0.97,7.08
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,1997,7.67,7.94,5.95,11.58
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,1997,7.75,5.07,2.19,6
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,1997,14.33,12.68,13.4,13
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,1997,1.64,3.45,'0.77,2.72
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,1997,5.2,5.32,4.43,6
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,1997,5.07,6.04,4.25,8.16
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,1997,1.9,1.92,1.12,3
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,1997,'0.83,1.6,NA,2
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,1997,20.18,14.02,5.71,25.38
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.50416667,76.29166667,Saligrama1,"Dug Well",W06646,1996,4.76,4.59,4.25,5.03
+KA,Mysore,Hunsur,Hunsur,12.19166667,76.375,Gowdikere,"Dug Well",W05651,1996,2.56,4.22,2.98,4.63
+KA,Mysore,Piriyapatna,Piriyapatna,12.425,76,Ranganathapura,"Dug Well",W06649,1996,2.28,4.2,1.38,7.09
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.13333333,76.94166667,Somanathapura-1,"Dug Well",W06651,1996,5.77,5.34,3.94,7.46
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5625,76.25861111,Chamundibetta,"Dug Well",W05652,1996,5.1,4.44,4,5.15
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.35,Gargeswari,"Dug Well",W05653,1996,8.8,15.64,7.8,NA
+KA,Mysore,Mysore,Mysore,12.26666667,76.66666667,Deveerammanahalli,"Dug Well",W05654,1996,14.1,14.44,13.62,14.75
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.28333333,76.88333333,Elwala,"Dug Well",W05655,1996,3.83,7.5,3.91,7.4
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.5,76.26944444,Bherya,"Dug Well",W05437,1996,1.17,6.23,5.52,1.85
+KA,Mysore,Nanjangud,Nanjangud,12.09166667,76.51666667,Bettadapura,"Dug Well",W05438,1996,6.66,6.46,5.1,8.03
+KA,Mysore,Piriyapatna,Piriyapatna,12.49166667,76.21111111,Bylakuppe,"Dug Well",W05440,1996,1.67,1.9,5.1,3.6
+KA,Mysore,Tirumakudal-narsipur,"Tirumakudal Narsipur",12.31666667,76.83888889,Bannur-1,"Dug Well",W05442,1996,1,2.5,1.6,5.7
+KA,Mysore,Shrirangapattana,Mysore,12.38888889,76.68333333,Naguvanahalli,"Dug Well",W06335,1996,1.52,1.9,1.6,1.61
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.1,76.33333333,Nanjanayakanahalli,"Dug Well",W06337,1996,9.45,9.45,13.9,9.73
+KA,Mysore,Mysore,Mysore,12.35833333,76.5375,Mysore1,"Dug Well",W06339,1996,5.7,6.64,1.58,7.77
+KA,Mysore,Nanjangud,Nanjangud,12.11666667,76.68333333,Piriyapatna1,"Dug Well",W06341,1996,4.05,5.96,4.11,5.01
+KA,Mysore,Piriyapatna,Piriyapatna,12.33611111,76.16111111,Muguru1,"Dug Well",W06342,1996,3.78,4.07,2.92,3.95
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.12083333,76.46666667,Saragur,"Dug Well",W06643,1996,2.97,3.46,2.47,3.72
+KA,Mysore,Hunsur,Hunsur,12.31388889,76.45277778,"Anechowkur Forest","Dug Well",W05435,1996,26.2,23.75,NA,26
+KA,Mysore,Hunsur,Hunsur,12.28333333,76.2875,Bilikere,"Dug Well",W05436,1996,12.15,4.22,NA,NA
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.14166667,76.29166667,Hanagodu,"Dug Well",W06004,1996,9.1,6.58,7.22,9.05
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.18333333,76.275,Heggadevanakote,"Dug Well",W06006,1996,13.55,10.83,10.6,13.6
+KA,Mysore,Heggadadevankote,Heggadadevankote,12,76.39166667,Hyrige,"Dug Well",W06007,1996,11.05,11.56,11.33,11.9
+KA,Mysore,Heggadadevankote,Heggadadevankote,12.09166667,76.375,Karimuddanahalli1,"Dug Well",W06008,1996,5.35,8.53,2.35,7.15
+KA,Mysore,Hunsur,Hunsur,12.2375,76.19166667,Karnakuppe,"Dug Well",W06011,1996,5.08,4.2,2.04,6.05
+KA,Mysore,Hunsur,Hunsur,12.325,76.28333333,Krishnarajanagara1,"Dug Well",W06012,1996,8.1,8.1,7.2,NA
+KA,Mysore,Krishnarajanagara,Krishnrajanagara,12.55,76.3,Hosur1,"Dug Well",W06013,1996,6.32,5.02,4.3,5.52
+KA,Mysore,Mysore,Mysore,12.225,76.60833333,Jayapura1,"Dug Well",W06016,1996,15.37,13.12,11.45,15.32
+KA,Mysore,Nanjangud,Nanjangud,12.095,76.66888889,Hullahalli,"Dug Well",W06017,1996,1.59,4.57,1.66,8.93
+KA,Mysore,Piriyapatna,Piriyapatna,12.33333333,76.10833333,Kampalapura,"Dug Well",W06018,1996,6.2,5.28,5.05,7.25
+KA,Mysore,Piriyapatna,Piriyapatna,12.47777778,76.1,Kithoor,"Dug Well",W06019,1996,6.87,6.96,5.46,8.12
+KA,Mysore,Hunsur,Hunsur,12.39583333,76.34166667,ChikkaHunsur,"Dug Well",W05648,1996,2.59,2.9,2.6,3.15
+KA,Mysore,Hunsur,Hunsur,12.29166667,76.1625,Dallalu,"Dug Well",W05650,1996,1.65,6.35,1.4,2.8
+KA,Mysore,Mysore,Mysore,12.26944444,76.67083333,Sindhuvalli,"Dug Well",W06647,1996,14.35,9.9,NA,22.55

@@ -1,0 +1,462 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2018,4.15,4.53,NA,NA
+BR,"Purba Champaran",Chiraiya,Chiraia,26.6975,85.07194444,Chiraiya,"Dug Well",W29659,2018,NA,NA,4.09,4.6
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2018,'0.25,2.49,NA,NA
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2018,3.19,4.15,NA,NA
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2018,'0.5,1.91,NA,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2018,2.49,3.84,NA,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2018,'0.88,2.71,NA,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2018,3.8,3.76,NA,NA
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2018,'0.3,1.36,NA,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2018,1.09,3.32,NA,NA
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2018,1.49,2.73,NA,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2018,1.2,NA,NA,3.95
+BR,"Purba Champaran",Kesaria,Kesaria,26.33472222,84.85527778,"Lala Chapra","Dug Well",W29543,2018,2.88,2.61,NA,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37083333,84.81222222,Kizerpura,"Dug Well",W29557,2018,3.62,4,NA,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.40805556,85.06083333,"Uttari Gavandra","Dug Well",W29567,2018,1.99,3.44,NA,NA
+BR,"Purba Champaran",Kesaria,Sangrampur,26.53166667,84.75611111,"Dubey Tola","Dug Well",W29603,2018,1.03,2.63,NA,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Rajpur,"Dug Well",W29596,2018,3.01,3.24,NA,NA
+BR,"Purba Champaran",Turkaulia,Turkauliya,26.61,84.84361111,"Bairiya Bazar","Dug Well",W29642,2018,3.15,4.5,NA,NA
+BR,"Purba Champaran",Paharpur,Paharpur,26.57166667,84.60972222,"Bishunpur Matiyarwan","Dug Well",W29624,2018,1.41,3.45,NA,NA
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07277778,Chatia,"Dug Well",W29662,2018,4.2,4.5,NA,NA
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07305556,Belai,"Dug Well",W29663,2018,'0.99,2.82,NA,NA
+BR,"Purba Champaran",Dhaka,Dhaka,26.66833333,85.17388889,Mohabbatpur,"Dug Well",W29655,2018,1.3,2.9,NA,NA
+BR,"Purba Champaran",Narkatia,Narkatia,26.84944444,85.005,Chhauradanu,"Dug Well",W29683,2018,'0.57,2.16,NA,NA
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.78611111,85.10916667,"Bhakatiy Tola","Dug Well",W29676,2018,1.44,3.38,NA,NA
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91555556,84.82944444,Raghunathpur,"Dug Well",W29693,2018,'0.73,2.38,NA,NA
+BR,"Purba Champaran",Adapur,Adepur,26.91972222,84.94722222,Shyampur,"Dug Well",W29697,2018,3.81,7.5,NA,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.35277778,84.8525,Husaini,"Dug Well",W33490,2018,3.79,3.36,NA,NA
+BR,"Purba Champaran",Areraj,Kesaria,26.39027778,84.74333333,Dumaria,"Dug Well",W33491,2018,3.27,4.03,NA,NA
+BR,"Purba Champaran",Areraj,Areraj,26.54944444,84.63388889,Radia,"Dug Well",W33493,2018,'0.83,2.36,NA,NA
+BR,"Purba Champaran",Harsidhi,Turkauliya,26.60083333,84.80916667,Murarpur,"Dug Well",W33495,2018,1.74,3.53,NA,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2018,1.55,4.09,NA,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2017,NA,4.97,4.55,5.6
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07277778,Chatia,"Dug Well",W29662,2017,2.16,4.96,3.7,5.34
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2017,NA,3.83,2.98,4.62
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2017,NA,2.71,2.5,2.92
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2017,1.9,2.18,NA,4.06
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2017,1.91,NA,NA,2.74
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2017,'0.7,3.03,NA,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42166667,85.05916667,Chakia-2,"Dug Well",W20982,2017,NA,4.97,NA,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2017,NA,3.03,NA,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2017,1.65,3.62,3.8,5.12
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2017,'0.82,2.52,2.75,3.48
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2017,2.1,3.98,4.15,4.46
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2017,1.25,2.39,3.7,4.08
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2017,1.82,4.56,4,5.09
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2017,1.57,1.32,1.7,1.36
+BR,"Purba Champaran",Areraj,Kesaria,26.39027778,84.74333333,Dumaria,"Dug Well",W33491,2017,2.86,3.44,4.3,4.92
+BR,"Purba Champaran",Areraj,Areraj,26.54944444,84.63388889,Radia,"Dug Well",W33493,2017,2.25,1.74,2.6,2.56
+BR,"Purba Champaran",Harsidhi,Turkauliya,26.60083333,84.80916667,Murarpur,"Dug Well",W33495,2017,2.39,2.87,3.8,3.73
+BR,"Purba Champaran",Kesaria,Kesaria,26.33472222,84.85527778,"Lala Chapra","Dug Well",W29543,2017,NA,2.04,2.62,3.99
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Rajpur,"Dug Well",W29596,2017,NA,3.1,3.35,4.41
+BR,"Purba Champaran",Dhaka,Dhaka,26.66833333,85.17388889,Mohabbatpur,"Dug Well",W29655,2017,NA,2.56,2.85,3.17
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.78611111,85.10916667,"Bhakatiy Tola","Dug Well",W29676,2017,NA,3.21,3.25,3.82
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91555556,84.82944444,Raghunathpur,"Dug Well",W29693,2017,NA,1.77,2.35,2.35
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.40805556,85.06083333,"Uttari Gavandra","Dug Well",W29567,2017,2,NA,3.6,4.23
+BR,"Purba Champaran",Narkatia,Narkatia,26.84944444,85.005,Chhauradanu,"Dug Well",W29683,2017,NA,NA,3.98,1.79
+BR,"Purba Champaran",Kesaria,Kesaria,26.35277778,84.8525,Husaini,"Dug Well",W33490,2017,2,2.44,3.7,NA
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07305556,Belai,"Dug Well",W29663,2017,3.15,2.63,NA,3.05
+BR,"Purba Champaran",Kesaria,Kesaria,26.37083333,84.81222222,Kizerpura,"Dug Well",W29557,2017,2.6,3.25,3.7,4.76
+BR,"Purba Champaran",Kesaria,Sangrampur,26.53166667,84.75611111,"Dubey Tola","Dug Well",W29603,2017,1.75,2.09,3.85,3.46
+BR,"Purba Champaran",Turkaulia,Turkauliya,26.61,84.84361111,"Bairiya Bazar","Dug Well",W29642,2017,2.72,4.02,4.55,5.25
+BR,"Purba Champaran",Paharpur,Paharpur,26.57166667,84.60972222,"Bishunpur Matiyarwan","Dug Well",W29624,2017,2.55,2.56,3.7,3.21
+BR,"Purba Champaran",Chiraiya,Chiraia,26.6975,85.07194444,Chiraiya,"Dug Well",W29659,2017,'0.9,3.4,3.05,4.6
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2017,NA,1.68,2,1.97
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2016,1.14,NA,1.22,2.46
+BR,"Purba Champaran",Harsidhi,Turkauliya,26.60083333,84.80916667,Murarpur,"Dug Well",W33495,2016,NA,NA,2.62,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2016,2.03,NA,4.35,4.84
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2016,3.36,NA,3.75,3.23
+BR,"Purba Champaran",Turkaulia,Motihari,26.64583333,84.89166667,Nawada-1,"Dug Well",W12932,2016,NA,NA,NA,5.06
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2016,2.35,NA,NA,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2016,3.31,NA,4.79,4.89
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2016,1.73,NA,2.45,4.23
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2016,3.75,NA,3.12,4.53
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2016,1.43,NA,2.27,3.2
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2016,1.85,NA,1.38,3.57
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2016,NA,NA,2.51,NA
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2016,2.23,NA,NA,4.17
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2016,'0.87,NA,1.93,4.58
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2016,'0.73,NA,NA,NA
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2016,1.76,NA,1.58,2.8
+BR,"Purba Champaran",Kesaria,Kesaria,26.33472222,84.85527778,"Lala Chapra","Dug Well",W29543,2016,4.74,2.6,1.88,4.28
+BR,"Purba Champaran",Kesaria,Kesaria,26.37083333,84.81222222,Kizerpura,"Dug Well",W29557,2016,NA,4.64,2.89,5.44
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.40805556,85.06083333,"Uttari Gavandra","Dug Well",W29567,2016,2.13,3.14,NA,4.03
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Rajpur,"Dug Well",W29596,2016,NA,3.67,2.76,NA
+BR,"Purba Champaran",Kesaria,Sangrampur,26.53166667,84.75611111,"Dubey Tola","Dug Well",W29603,2016,1.48,2.68,1.82,3.59
+BR,"Purba Champaran",Paharpur,Paharpur,26.57166667,84.60972222,"Bishunpur Matiyarwan","Dug Well",W29624,2016,'0.82,3.02,2.34,3.64
+BR,"Purba Champaran",Turkaulia,Turkauliya,26.61,84.84361111,"Bairiya Bazar","Dug Well",W29642,2016,2.39,4.36,3.76,5.38
+BR,"Purba Champaran",Dhaka,Dhaka,26.66833333,85.17388889,Mohabbatpur,"Dug Well",W29655,2016,NA,3.29,2.16,3.45
+BR,"Purba Champaran",Chiraiya,Chiraia,26.6975,85.07194444,Chiraiya,"Dug Well",W29659,2016,'0.73,4.6,2.93,3.45
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07277778,Chatia,"Dug Well",W29662,2016,2.27,NA,4.98,4.2
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07305556,Belai,"Dug Well",W29663,2016,3.17,2.23,2.67,3.83
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.78611111,85.10916667,"Bhakatiy Tola","Dug Well",W29676,2016,3.41,3.62,2.84,4.23
+BR,"Purba Champaran",Narkatia,Narkatia,26.84944444,85.005,Chhauradanu,"Dug Well",W29683,2016,1.61,2.22,2.8,2.07
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91555556,84.82944444,Raghunathpur,"Dug Well",W29693,2016,'0.31,2.48,1.55,3.51
+BR,"Purba Champaran",Adapur,Adepur,26.91972222,84.94722222,Shyampur,"Dug Well",W29697,2016,3.31,5.23,NA,5.24
+BR,"Purba Champaran",Kesaria,Kesaria,26.35277778,84.8525,Husaini,"Dug Well",W33490,2016,NA,NA,2.23,NA
+BR,"Purba Champaran",Areraj,Kesaria,26.39027778,84.74333333,Dumaria,"Dug Well",W33491,2016,NA,NA,3.17,NA
+BR,"Purba Champaran",Areraj,Areraj,26.54944444,84.63388889,Radia,"Dug Well",W33493,2016,NA,NA,1.42,NA
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2016,2.23,NA,3.81,4.82
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2015,NA,1.09,'0.6,2.4
+BR,"Purba Champaran",Adapur,Adepur,26.91972222,84.94722222,Shyampur,"Dug Well",W29697,2015,3.83,NA,4.28,5.36
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2015,3.47,2.2,5.13,4.16
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2015,1.09,2.86,2.92,3.78
+BR,"Purba Champaran",Turkaulia,Motihari,26.64583333,84.89166667,Nawada-1,"Dug Well",W12932,2015,'0.59,NA,NA,'0.59
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2015,NA,2.46,3.2,4.9
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2015,2.96,3.1,5.72,4.28
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2015,1.56,2.07,3.44,3.54
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2015,3.46,3.33,4.32,4.82
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2015,1.88,2.92,2.42,3.16
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2015,'0.62,1.35,2.38,3.05
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2015,1.76,NA,NA,4.5
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2015,2.5,NA,1.27,4.66
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2015,'0.93,NA,3.3,5.62
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2015,'0.66,2.46,2.67,3.45
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2015,NA,'0.76,'0.97,4.2
+BR,"Purba Champaran",Kesaria,Kesaria,26.33472222,84.85527778,"Lala Chapra","Dug Well",W29543,2015,2.02,2.02,2.49,3.75
+BR,"Purba Champaran",Kesaria,Kesaria,26.37083333,84.81222222,Kizerpura,"Dug Well",W29557,2015,NA,3.56,4.3,4.92
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.40805556,85.06083333,"Uttari Gavandra","Dug Well",W29567,2015,2.85,2.92,3.45,4.11
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Rajpur,"Dug Well",W29596,2015,2.29,NA,3.85,4.41
+BR,"Purba Champaran",Kesaria,Sangrampur,26.53166667,84.75611111,"Dubey Tola","Dug Well",W29603,2015,1.67,1.98,3.19,3.59
+BR,"Purba Champaran",Paharpur,Paharpur,26.57166667,84.60972222,"Bishunpur Matiyarwan","Dug Well",W29624,2015,'0.76,2.03,2.59,3.69
+BR,"Purba Champaran",Turkaulia,Turkauliya,26.61,84.84361111,"Bairiya Bazar","Dug Well",W29642,2015,'0.5,NA,NA,5.3
+BR,"Purba Champaran",Dhaka,Dhaka,26.66833333,85.17388889,Mohabbatpur,"Dug Well",W29655,2015,1.22,NA,2.22,3.62
+BR,"Purba Champaran",Chiraiya,Chiraia,26.6975,85.07194444,Chiraiya,"Dug Well",W29659,2015,'0.8,1.76,3.05,4.6
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07277778,Chatia,"Dug Well",W29662,2015,2.32,3.43,2.34,3.7
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07305556,Belai,"Dug Well",W29663,2015,'0.59,NA,NA,NA
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.78611111,85.10916667,"Bhakatiy Tola","Dug Well",W29676,2015,2.36,NA,4.05,NA
+BR,"Purba Champaran",Narkatia,Narkatia,26.84944444,85.005,Chhauradanu,"Dug Well",W29683,2015,1.5,NA,3.13,3.69
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91555556,84.82944444,Raghunathpur,"Dug Well",W29693,2015,'0.66,1.68,2.17,2.2
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91638889,84.82944444,Belhi,"Dug Well",W29694,2015,NA,NA,NA,2.68
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2015,2.56,3.3,3.82,4.55
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2014,1.91,1.16,'0.75,2.01
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91638889,84.82944444,Belhi,"Dug Well",W29694,2014,1.56,NA,2.55,2.68
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2014,1.41,3.47,2.65,4.31
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2014,1.45,2.93,3.15,3.81
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2014,1.42,2.65,1.89,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2014,2.03,NA,4.44,4.23
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2014,2.17,2.85,1.81,3.22
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2014,1.56,3.21,2.43,4.95
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2014,1.78,2,2.34,2.46
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2014,'0.77,1.41,2.45,2.64
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2014,1.21,'0.66,1.36,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2014,1.98,NA,1.84,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2014,1.8,2.62,1.36,2.91
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2014,1.34,'0.92,2.18,'0.44
+BR,"Purba Champaran",Kesaria,Kesaria,26.33472222,84.85527778,"Lala Chapra","Dug Well",W29543,2014,2.32,1.8,1.5,3.84
+BR,"Purba Champaran",Kesaria,Kesaria,26.37083333,84.81222222,Kizerpura,"Dug Well",W29557,2014,2.14,3.7,2.8,4.92
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.40805556,85.06083333,"Uttari Gavandra","Dug Well",W29567,2014,1.53,NA,2.38,3.1
+BR,"Purba Champaran",Kesaria,Sangrampur,26.53166667,84.75611111,"Dubey Tola","Dug Well",W29603,2014,1.15,1.78,2.27,3.02
+BR,"Purba Champaran",Paharpur,Paharpur,26.57166667,84.60972222,"Bishunpur Matiyarwan","Dug Well",W29624,2014,'0.79,2.86,1.57,4.04
+BR,"Purba Champaran",Chiraiya,Chiraia,26.6975,85.07194444,Chiraiya,"Dug Well",W29659,2014,1.72,NA,3.75,NA
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07277778,Chatia,"Dug Well",W29662,2014,1.6,NA,2.58,3.9
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91555556,84.82944444,Raghunathpur,"Dug Well",W29693,2014,'0.56,NA,1.37,2.31
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2014,2.11,3.53,2.7,4.02
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2013,1.51,NA,'0.62,4.21
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91638889,84.82944444,Belhi,"Dug Well",W29694,2013,'0.1,NA,1.62,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2013,3.69,NA,2.97,5.05
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2013,3.25,NA,3.28,4.06
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2013,2.91,NA,1.53,4.28
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2013,4.06,NA,3.34,4.5
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2013,1.62,NA,2.23,4.73
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2013,3.53,NA,2.47,4.53
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2013,2.41,NA,2.42,4.83
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2013,NA,NA,'0.75,3.6
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2013,NA,NA,NA,4.26
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2013,2.43,NA,NA,5.62
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2013,2.11,NA,2.43,6.27
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2013,1.82,NA,'0.9,5
+BR,"Purba Champaran",Kesaria,Kesaria,26.33472222,84.85527778,"Lala Chapra","Dug Well",W29543,2013,3.78,NA,1.44,5
+BR,"Purba Champaran",Kesaria,Kesaria,26.37083333,84.81222222,Kizerpura,"Dug Well",W29557,2013,3.99,NA,3.67,4.92
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.40805556,85.06083333,"Uttari Gavandra","Dug Well",W29567,2013,3.05,NA,NA,NA
+BR,"Purba Champaran",Kesaria,Sangrampur,26.53166667,84.75611111,"Dubey Tola","Dug Well",W29603,2013,2.11,NA,2.89,4.35
+BR,"Purba Champaran",Paharpur,Paharpur,26.57166667,84.60972222,"Bishunpur Matiyarwan","Dug Well",W29624,2013,2.84,NA,2.29,NA
+BR,"Purba Champaran",Chiraiya,Chiraia,26.6975,85.07194444,Chiraiya,"Dug Well",W29659,2013,NA,NA,1.3,4.6
+BR,"Purba Champaran",Chiraiya,Chiraia,26.70333333,85.07277778,Chatia,"Dug Well",W29662,2013,3.22,NA,3.44,NA
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.91555556,84.82944444,Raghunathpur,"Dug Well",W29693,2013,1.32,NA,1.48,NA
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2013,2.81,NA,3.03,4.77
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2012,NA,1.15,1.29,2.77
+BR,"Purba Champaran",Turkaulia,Motihari,26.655,84.91277778,Motihari-2,"Dug Well",W20983,2012,NA,NA,3.45,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2012,NA,3.17,NA,4.04
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2012,NA,3.01,NA,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2012,NA,2.06,3.54,3.96
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2012,NA,2.47,NA,5.07
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2012,NA,2.48,3.69,4.22
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2012,NA,3.41,3.3,6.13
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2012,NA,2.88,1.42,4.53
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2012,NA,2.09,1.7,3.7
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2012,NA,NA,NA,4.06
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2012,NA,2.13,NA,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2012,NA,3.09,2.8,4.16
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2012,NA,1.68,NA,NA
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2012,NA,3.5,3.45,4.74
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2011,'0.74,1.99,'0.94,4.32
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2011,2.2,4,3.25,4.93
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2011,2,4.9,2.1,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2011,NA,6.79,NA,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2011,NA,8.92,NA,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2011,NA,4.9,NA,NA
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2011,'0.78,1.88,'0.98,1.48
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2011,1.75,NA,1.9,6.78
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2011,1.72,3.82,2.87,5.16
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2011,'0.65,2.25,'0.8,4.21
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2011,1.1,4.66,1.35,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2011,'0.7,2.95,1.65,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2011,1.41,3.8,2.85,4.7
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2011,2.24,4.24,2.59,NA
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2010,'0.54,NA,1.59,NA
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2010,2.4,3.53,3.61,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2010,NA,3.01,NA,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2010,NA,6.79,NA,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2010,2.84,2.85,2.98,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2010,3.44,5.18,4.5,6.95
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2010,'0.73,1.03,1.58,2.53
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2010,2.33,NA,2.73,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2010,1.62,3.63,3.12,NA
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2010,'0.8,3.6,1.63,4.1
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2010,1.05,4.66,NA,4.66
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2010,1.68,3.62,1.82,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2010,2.02,3.7,2.35,4.2
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2010,NA,3.1,2.22,3.97
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2009,'0.74,NA,1.54,NA
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2009,1.85,3.65,3.4,5
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2009,1.8,3.05,2.35,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2009,NA,3.26,NA,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2009,1.8,3.34,3.09,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2009,2.85,3.6,4.26,6.18
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2009,'0.68,2.23,1.68,2.5
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2009,1.65,3.5,1.3,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2009,'0.77,2.92,2.74,4.79
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2009,'0.65,1.95,2,4.9
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2009,2.2,2.45,2.6,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2009,2.23,2.45,3.15,4.52
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2009,1.95,3.4,1.45,4.6
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2009,1.34,2.94,2.06,NA
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57916667,84.675,Sheoraha-1,"Dug Well",W12923,2008,NA,NA,NA,2.48
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2008,1.5,3.89,3.68,4.7
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2008,NA,3.15,4.05,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2008,NA,NA,2.85,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2008,NA,NA,2.8,NA
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2008,NA,2.02,2.3,2.48
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2008,'0.9,3.02,3.35,3.47
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2008,1.15,2.09,2.45,3.45
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2008,1.6,2.64,2.5,3.1
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2008,'0.9,NA,2.7,3.6
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2008,1.15,2.65,3.06,3.86
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2008,NA,NA,3.35,4.25
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2007,NA,3.66,3.4,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2007,NA,NA,NA,3.3
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2007,NA,6.79,2.61,3.81
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67111111,Areraj-3,"Dug Well",W12497,2007,NA,2.32,NA,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2007,NA,5.63,NA,NA
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2007,NA,NA,NA,4.27
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2007,NA,2.69,2.92,3.72
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2007,NA,2.78,1.15,3.65
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2007,NA,2.32,NA,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2007,NA,3.1,2.15,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2007,NA,2.84,1.94,3.91
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2007,NA,2.1,1.72,3.2
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42166667,85.05916667,Chakia-2,"Dug Well",W20982,2007,NA,5.63,NA,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.655,84.91277778,Motihari-2,"Dug Well",W20983,2007,NA,3.66,NA,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2006,2.24,3.11,3.36,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.655,84.91277778,Motihari-2,"Dug Well",W20983,2006,3.45,NA,3.3,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2006,2.81,NA,3.36,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2006,2.9,3.27,2.21,3.53
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2006,NA,NA,3,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2006,NA,NA,6.78,NA
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2006,3.45,3.82,3.3,NA
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2006,2.32,2.68,1.85,3.6
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2006,NA,NA,2.94,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42166667,85.05916667,Chakia-2,"Dug Well",W20982,2006,5.95,NA,NA,NA
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2006,1.74,2.55,2.05,3.15
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2006,NA,8.53,NA,6.97
+BR,"Purba Champaran",Raxaul,Adepur,26.94611111,84.88361111,Bhelwa-2,"Dug Well",W12579,2006,NA,3.02,NA,NA
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2006,2.02,NA,1.93,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2006,'0.77,NA,2.92,3.75
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2006,NA,4.33,NA,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2005,2.11,3.07,3.51,3.61
+BR,"Purba Champaran",Turkaulia,Motihari,26.64583333,84.89166667,Nawada-1,"Dug Well",W12932,2005,NA,3.69,NA,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2005,NA,2.26,NA,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2005,NA,3.31,NA,3.95
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2005,1.9,NA,3.7,5.15
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2005,NA,1.8,NA,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,2005,NA,3.48,2.9,4.65
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57916667,84.675,Sheoraha-1,"Dug Well",W12923,2005,1.13,NA,1.18,5.56
+BR,"Purba Champaran",Adapur,Adepur,26.91944444,84.93777778,Shampur-1,"Dug Well",W12921,2005,NA,NA,NA,5.74
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57944444,84.67555556,Sheoraha-2,"Dug Well",W20186,2005,1.13,NA,1.18,5.56
+BR,"Purba Champaran",Adapur,Adepur,26.92916667,84.95,Shampur-2,"Dug Well",W20185,2005,NA,NA,NA,5.74
+BR,"Purba Champaran",Kesaria,Kesaria,26.37916667,84.77916667,Khajuriachowk-2,"Dug Well",W17774,2005,NA,3.48,2.9,4.65
+BR,"Purba Champaran",Areraj,Areraj,26.55333333,84.67111111,Areraj-2,"Dug Well",W17773,2005,1.1,3.1,2.55,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2005,1.56,2.71,3.06,4.06
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2005,1.65,2.61,2.5,3.85
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2005,1.12,3.06,3.07,4.17
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2005,NA,3.08,NA,4.44
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2005,'0.72,NA,8.53,NA
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,2005,1.1,3.1,2.55,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72805556,84.795,Chhapwa-2,"Dug Well",W17775,2005,1.56,2.71,3.06,4.06
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,2004,NA,NA,1.13,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2004,NA,3.05,NA,4
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2004,NA,NA,2.77,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2004,NA,3.95,NA,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2004,NA,NA,NA,3.95
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2004,'0.93,2.62,2.32,3.37
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2004,NA,3.2,NA,NA
+BR,"Purba Champaran",Raxaul,Adepur,26.94611111,84.88361111,Bhelwa-2,"Dug Well",W12579,2004,NA,NA,3.78,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,2004,1.57,3.5,NA,3.83
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2004,NA,NA,1.26,NA
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2004,NA,NA,NA,4.57
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2004,1.91,3.9,2.78,3.65
+BR,"Purba Champaran",Turkaulia,Motihari,26.64583333,84.89166667,Nawada-1,"Dug Well",W12932,2004,NA,NA,2.59,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2004,NA,3.9,NA,NA
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,2003,'0.5,NA,NA,3.7
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2003,NA,4.7,NA,4.65
+BR,"Purba Champaran",Dhaka,Dhaka,26.68777778,85.17027778,Dhaka,"Dug Well",W12687,2003,'0.6,NA,NA,NA
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2003,NA,2.92,1.83,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2003,NA,NA,NA,4.3
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2003,'0.22,NA,2.54,4.22
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2003,'0.15,1.49,1.31,3.25
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2003,'0.5,2.86,NA,3.76
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.55833333,84.77138889,Nawada-2,"Dug Well",W12922,2003,NA,4.7,NA,4.65
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57916667,84.675,Sheoraha-1,"Dug Well",W12923,2003,NA,NA,NA,3.45
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,2003,NA,3.1,1.78,4.3
+BR,"Purba Champaran",Motihari,Bankatwa,26.75611111,84.99638889,Laakhawara,"Dug Well",W12925,2003,NA,2.83,NA,2.64
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2003,'0.05,2.83,'0.96,2.64
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2003,'0.6,NA,NA,4.9
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2003,NA,NA,2.52,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2003,'0.27,3.21,3.31,3.62
+BR,"Purba Champaran",Turkaulia,Banjaria,26.66944444,84.82805556,Motihari-3,"Dug Well",W12931,2003,NA,NA,NA,4.9
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2003,'0.08,2.68,NA,4.12
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,2002,NA,2.2,NA,NA
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2002,'0.95,NA,NA,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2002,1.62,1.97,2.12,2.37
+BR,"Purba Champaran",Dhaka,Dhaka,26.68777778,85.17027778,Dhaka,"Dug Well",W12687,2002,NA,2.18,2.48,NA
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2002,NA,2.19,2.34,3.9
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2002,NA,2.3,NA,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2002,'0.93,2.72,1.62,3.46
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2002,1.01,1.05,2.25,3.53
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.88555556,84.8375,Champapur,"Dug Well",W12692,2002,1.96,2.4,2,NA
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2002,1.11,2.06,1.66,3.74
+BR,"Purba Champaran",Adapur,Adepur,26.91944444,84.93777778,Shampur-1,"Dug Well",W12921,2002,NA,NA,2.94,NA
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.55833333,84.77138889,Nawada-2,"Dug Well",W12922,2002,'0.95,NA,NA,NA
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57916667,84.675,Sheoraha-1,"Dug Well",W12923,2002,NA,2.39,NA,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,2002,2.35,2.6,2.3,4.3
+BR,"Purba Champaran",Motihari,Bankatwa,26.75611111,84.99638889,Laakhawara,"Dug Well",W12925,2002,NA,2.09,1.99,2.74
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2002,NA,2.09,1.99,2.74
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2002,1.7,3.6,3.6,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2002,1.42,1.67,NA,3.69
+BR,"Purba Champaran",Raxaul,Raxaul,26.95833333,84.7875,Lakhsmipur,"Dug Well",W12929,2002,NA,NA,1.65,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2002,2.67,2.26,1.61,NA
+BR,"Purba Champaran",Turkaulia,Banjaria,26.66944444,84.82805556,Motihari-3,"Dug Well",W12931,2002,1.7,3.6,3.6,NA
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67111111,Areraj-3,"Dug Well",W12497,2002,NA,2.2,NA,NA
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,2001,'0.9,2.63,2.05,3.48
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2001,NA,3.05,2.22,3.5
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2001,-0.4,2.8,1.06,4.12
+BR,"Purba Champaran",Dhaka,Dhaka,26.68777778,85.17027778,Dhaka,"Dug Well",W12687,2001,'0.61,3.05,NA,NA
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2001,1.23,3.37,NA,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2001,NA,3.69,2.88,4.28
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2001,'0.62,2.8,1.74,3.56
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2001,-0.55,2.52,1.5,3.25
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.88555556,84.8375,Champapur,"Dug Well",W12692,2001,NA,3.18,1.81,4.15
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2001,1.21,3.15,1.8,3.93
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.55833333,84.77138889,Nawada-2,"Dug Well",W12922,2001,NA,3.05,2.22,3.5
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57916667,84.675,Sheoraha-1,"Dug Well",W12923,2001,'0.82,NA,NA,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,2001,1,3.39,2.05,3.98
+BR,"Purba Champaran",Motihari,Bankatwa,26.75611111,84.99638889,Laakhawara,"Dug Well",W12925,2001,1.59,1.83,1.21,2.92
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2001,'0.59,1.83,1.21,2.92
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2001,1.53,3.69,3.4,4.8
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2001,-0.76,2.61,NA,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2001,1.12,3.6,2.62,3.7
+BR,"Purba Champaran",Turkaulia,Banjaria,26.66944444,84.82805556,Motihari-3,"Dug Well",W12931,2001,2.25,3.69,3.4,4.8
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67111111,Areraj-3,"Dug Well",W12497,2001,'0.9,2.63,2.05,3.48
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67111111,Areraj-3,"Dug Well",W12497,2000,NA,2.55,2.27,3.18
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,2000,NA,2.55,2.27,3.18
+BR,"Purba Champaran",Dhaka,Dhaka,26.68777778,85.17027778,Dhaka,"Dug Well",W12687,2000,1.48,2.74,2.82,3.52
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,2000,1.74,3.06,3.19,4.05
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,2000,NA,NA,3.35,4.16
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,2000,NA,2.71,2.35,3.07
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,2000,'0.3,2.23,2.63,3.3
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.88555556,84.8375,Champapur,"Dug Well",W12692,2000,NA,2.58,3.32,4.21
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,2000,1.76,3.4,2.71,3.83
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.55833333,84.77138889,Nawada-2,"Dug Well",W12922,2000,NA,NA,2.7,3.3
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57916667,84.675,Sheoraha-1,"Dug Well",W12923,2000,NA,2.18,NA,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,2000,1.3,2.84,3.23,3.98
+BR,"Purba Champaran",Motihari,Bankatwa,26.75611111,84.99638889,Laakhawara,"Dug Well",W12925,2000,1.99,NA,1.58,3.35
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,2000,1.99,NA,1.58,3.35
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,2000,2.7,3.78,3.38,4.34
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,2000,NA,3.03,3.13,4.22
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,2000,1.41,2.92,3.4,3.82
+BR,"Purba Champaran",Turkaulia,Banjaria,26.66944444,84.82805556,Motihari-3,"Dug Well",W12931,2000,2.7,3.78,3.38,4.34
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,2000,NA,NA,2.7,3.3
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,2000,'0.32,3.31,2.12,7.5
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,1999,'0.27,3.26,2.84,4.45
+BR,"Purba Champaran",Turkaulia,Banjaria,26.66944444,84.82805556,Motihari-3,"Dug Well",W12931,1999,2.1,3.88,3.51,4.98
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.55833333,84.77138889,Nawada-2,"Dug Well",W12922,1999,NA,NA,1.81,3.67
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,1999,'0.95,3.56,2.13,4.59
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,1999,1.16,2.39,2.85,4.13
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,1999,1.69,3.36,2.91,4.1
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,1999,2.1,3.88,3.51,4.98
+BR,"Purba Champaran",Dhaka,Dhaka,26.68777778,85.17027778,Dhaka,"Dug Well",W12687,1999,1.38,2.78,2.52,3.71
+BR,"Purba Champaran",Motihari,Bankatwa,26.755,84.97555556,Lakhwara,"Dug Well",W12926,1999,1.44,NA,NA,3.7
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,1999,'0.52,1.5,1.5,3.96
+BR,"Purba Champaran",Motihari,Bankatwa,26.75611111,84.99638889,Laakhawara,"Dug Well",W12925,1999,1.44,NA,NA,3.7
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67111111,Areraj-3,"Dug Well",W12497,1999,'0.8,2.15,2.07,3.47
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,1999,'0.45,3.18,2.61,4.17
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,1999,'0.8,2.15,2.07,3.47
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.88555556,84.8375,Champapur,"Dug Well",W12692,1999,1.3,2.63,2.29,4.42
+BR,"Purba Champaran",Turkaulia,Motihari,26.64611111,84.89194444,Nawada-3,"Dug Well",W12933,1999,NA,NA,1.81,3.67
+BR,"Purba Champaran",Harsidhi,Harsidhi,26.57916667,84.675,Sheoraha-1,"Dug Well",W12923,1999,NA,NA,2.11,3.13
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,1999,1.16,2.99,2.63,4.84
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,1999,'0.1,1.96,1.58,3.41
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,1999,'0.87,2.92,2.82,3.63
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,1998,1.2,2.54,1.26,3.78
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,1998,NA,2.81,NA,3.39
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,1998,NA,3.32,3.3,4.72
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,1998,1.78,2.48,3.08,3.77
+BR,"Purba Champaran",Dhaka,Dhaka,26.68777778,85.17027778,Dhaka,"Dug Well",W12687,1998,1.11,1.9,2.53,4.83
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,1998,1.36,2.85,1.18,4.24
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67111111,Areraj-3,"Dug Well",W12497,1998,'0.75,NA,'0.7,3.03
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,1998,'0.75,NA,'0.7,3.03
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,1998,1.8,3.63,2.61,3.75
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,1998,'0.87,2.45,2.98,3.47
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,1998,'0.7,3.72,3.6,5.1
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,1998,1.02,3.65,1.83,3.74
+BR,"Purba Champaran",Raxaul,Adepur,26.94611111,84.88361111,Bhelwa-2,"Dug Well",W12579,1998,'0.98,4.12,NA,5.22
+BR,"Purba Champaran",Adapur,Adepur,26.87111111,85.01861111,Bhelwa-1,"Dug Well",W12578,1998,'0.98,4.12,NA,5.22
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,1998,'0.92,2.72,1.68,3.8
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.88555556,84.8375,Champapur,"Dug Well",W12692,1998,1.69,3.1,2.27,2.94
+BR,"Purba Champaran",Turkaulia,Banjaria,26.66944444,84.82805556,Motihari-3,"Dug Well",W12931,1998,'0.7,3.72,3.6,5.1
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.88555556,84.8375,Champapur,"Dug Well",W12692,1997,2.1,2.7,2.93,3.1
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,1997,NA,3.47,2.56,4.36
+BR,"Purba Champaran",Adapur,Adepur,26.87111111,85.01861111,Bhelwa-1,"Dug Well",W12578,1997,NA,3.55,3.96,5.45
+BR,"Purba Champaran",Raxaul,Adepur,26.94611111,84.88361111,Bhelwa-2,"Dug Well",W12579,1997,NA,3.55,3.96,5.45
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,1997,1.96,3.18,3.42,4.3
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,1997,2.9,3.97,2.74,5.5
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,1997,NA,NA,2.11,NA
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,1997,2.51,3.29,3.22,4.11
+BR,"Purba Champaran",Turkaulia,Banjaria,26.66944444,84.82805556,Motihari-3,"Dug Well",W12931,1997,2.9,3.97,2.74,5.5
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,1997,'0.82,1.13,NA,NA
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67111111,Areraj-3,"Dug Well",W12497,1997,'0.82,1.13,NA,NA
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,1997,1.18,3.59,NA,4.72
+BR,"Purba Champaran",Dhaka,Dhaka,26.68777778,85.17027778,Dhaka,"Dug Well",W12687,1997,'0.73,2.33,1.54,5.3
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,1997,1.35,2.69,2.21,3.84
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,1997,2.13,3.27,2.67,4.95
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,1997,'0.92,2.94,2.72,3.57
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,1997,1.01,3.41,2.27,3.7
+BR,"Purba Champaran",Sugauli,Sugauli,26.72777778,84.79583333,Chhapwa-1,"Dug Well",W12693,1996,2.03,2.62,2.84,4.12
+BR,"Purba Champaran",Ramgarhwa,Ramgarhwa,26.88555556,84.8375,Champapur,"Dug Well",W12692,1996,'0.92,2.39,3.3,4.32
+BR,"Purba Champaran",Raxaul,Adepur,26.94611111,84.88361111,Bhelwa-2,"Dug Well",W12579,1996,2.94,3.9,4.52,NA
+BR,"Purba Champaran",Kesaria,Kesaria,26.37361111,84.775,Khajuriachowk-1,"Dug Well",W12924,1996,1.61,3.65,3.06,5.14
+BR,"Purba Champaran",Motihari,Motihari,26.65416667,84.9125,Motihari-1,"Dug Well",W12927,1996,2.9,2.44,3.62,NA
+BR,"Purba Champaran",Patahi,Patahi,26.575,85.17083333,Patahi,"Dug Well",W12928,1996,'0.39,2.14,1.19,5.87
+BR,"Purba Champaran",Raxaul,Raxaul,26.98333333,84.83333333,Raxaul,"Dug Well",W12930,1996,1.29,3.13,3.61,5.2
+BR,"Purba Champaran",Turkaulia,Banjaria,26.66944444,84.82805556,Motihari-3,"Dug Well",W12931,1996,2.9,2.44,3.62,NA
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67083333,Areraj-1,"Dug Well",W12496,1996,1.36,2.39,NA,3.64
+BR,"Purba Champaran",Areraj,Areraj,26.55277778,84.67111111,Areraj-3,"Dug Well",W12497,1996,1.36,2.39,NA,3.64
+BR,"Purba Champaran","Chakia (pipra)",Madhuban,26.42083333,85.05833333,Chakia-1,"Dug Well",W12686,1996,'0.3,3.6,1.41,5.58
+BR,"Purba Champaran",Dhaka,Dhaka,26.68777778,85.17027778,Dhaka,"Dug Well",W12687,1996,1.04,2.34,1.58,4.96
+BR,"Purba Champaran",Ghorasahan,Bankatwa,26.81666667,85.14166667,Ghorashan,"Dug Well",W12688,1996,1.64,2.73,1.88,5.19
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.39166667,84.95416667,Dharampur,"Dug Well",W12689,1996,1.27,3.68,2.01,NA
+BR,"Purba Champaran",Kalyanpur,Kalyanpur,26.50694444,84.84166667,Dipau,"Dug Well",W12690,1996,1.52,2.34,2.72,3.46
+BR,"Purba Champaran",Paharpur,Paharpur,26.65416667,84.6625,Gobindganj,"Dug Well",W12691,1996,1.39,2.33,1.85,4.73
+BR,"Purba Champaran",Adapur,Adepur,26.87111111,85.01861111,Bhelwa-1,"Dug Well",W12578,1996,2.94,3.9,4.52,NA

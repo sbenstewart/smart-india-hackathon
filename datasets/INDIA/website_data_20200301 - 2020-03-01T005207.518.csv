@@ -1,0 +1,564 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2018,NA,4,3.4,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.02388889,75.16861111,"Ghusneshwar temple","Dug Well",W33409,2018,NA,5.8,6,NA
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2018,NA,10.4,8,NA
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2018,NA,10.1,15,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2018,NA,22.6,18.5,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2018,NA,13.3,8.8,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2018,NA,8.5,32,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2018,NA,7.13,12.6,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2018,NA,9.93,12,NA
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2018,NA,8.74,6,NA
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2018,NA,4.5,6.8,NA
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2018,NA,4.22,5,NA
+MS,Aurangabad,Sillod,Sillod,20.2975,75.65388889,Sillod-3,"Dug Well",W32760,2018,NA,4.8,4.6,NA
+MS,Aurangabad,Sillod,Sillod,20.35583333,75.56194444,Bharadi,"Dug Well",W32766,2018,NA,11,16.8,NA
+MS,Aurangabad,Soegaon,Soegaon,20.59138889,75.62083333,Soyegaon-1,"Dug Well",W32789,2018,NA,8.85,9.5,NA
+MS,Aurangabad,Soegaon,Soegaon,20.59305556,75.70833333,Fardapur_1,"Dug Well",W32790,2018,NA,10.3,10.6,NA
+MS,Aurangabad,Kannad,Kannad,20.29111111,75.27194444,Hasta,"Dug Well",W26433,2018,NA,5.22,6.8,NA
+MS,Aurangabad,Sillod,Sillod,20.45638889,75.71,"Golegaon Budruk","Dug Well",W26525,2018,NA,9.1,8.4,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.86833333,75.47138889,Shendra,"Dug Well",W26243,2018,NA,9.9,14.8,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88472222,75.33666667,"Abad PWD RH","Dug Well",W26248,2018,NA,9.5,8.7,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.9025,75.3125,"Abad Vidhyapeeth","Dug Well",W26257,2018,NA,9.65,6.7,NA
+MS,Aurangabad,Kannad,Kannad,20.03472222,75.03472222,Devgaon-1,"Dug Well",W26285,2018,NA,8.43,8.6,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.8475,74.83111111,Waghalgaon,"Dug Well",W26235,2018,NA,8.1,11.3,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.93166667,74.71055556,Vaijapur,"Dug Well",W26264,2018,NA,6.3,10.5,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.05638889,74.89444444,Garaj,"Dug Well",W26302,2018,NA,11.8,12.4,NA
+MS,Aurangabad,Paithan,Paithan,19.53194444,75.50666667,Dawarwadi,"Dug Well",W26136,2018,NA,12.1,17,NA
+MS,Aurangabad,Paithan,Paithan,19.65111111,75.33527778,Taherpur,"Dug Well",W26161,2018,NA,7.6,14,NA
+MS,Aurangabad,Ganagapur,Ganagapur,19.69944444,75.00638889,Gangapur-3,"Dug Well",W26167,2018,NA,2.9,4,NA
+MS,Aurangabad,Ganagapur,Ganagapur,19.73111111,75.12416667,"Dahegaon Bangla","Dug Well",W26173,2018,NA,15.15,15,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88611111,75.315,"Abad Police HQ","Dug Well",W26249,2018,7.12,8.29,NA,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88916667,75.31166667,"Abad PES polytec","Dug Well",W26252,2018,NA,NA,2.8,7.3
+MS,Aurangabad,Sillod,Fulambari,20.19888889,75.55361111,Aalandh,"Dug Well",W32747,2018,6.8,10.1,NA,NA
+MS,Aurangabad,Paithan,Paithan,19.49027778,75.39555556,Paithan-1,"Dug Well",W31206,2018,NA,6.35,9.9,NA
+MS,Aurangabad,Paithan,Paithan,19.57166667,75.61916667,Pachud-1,"Dug Well",W31213,2018,NA,9.6,13.4,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58277778,75.67305556,"Jangla Tanda-1","Dug Well",W31278,2018,NA,5.1,6,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88805556,75.31472222,"Panchakki-Aurangabad City","Dug Well",W33404,2018,NA,6.5,6.6,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.90027778,75.3225,"Aurangabad City-Bibi Ka Makbara","Dug Well",W33405,2018,NA,10.6,10,NA
+MS,Aurangabad,Khuldabad,Aurangabad,19.94722222,75.22111111,"Daulatabad Fort","Dug Well",W33406,2018,NA,17.97,13,NA
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2018,NA,6.3,5.2,NA
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2017,5.8,3.1,2.5,5
+MS,Aurangabad,Khuldabad,Khuldabad,20.02388889,75.16861111,"Ghusneshwar temple","Dug Well",W33409,2017,5.8,4.6,5.86,16.3
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2017,7.9,5.3,7.86,15
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2017,15.2,8.5,9.66,18
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2017,18.4,20,14.06,21.3
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2017,13.6,13.5,15.36,15.6
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2017,11.3,9.3,9.09,11.75
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2017,6.45,5.2,7.8,8.64
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2017,4.3,6,3.75,13
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2017,1.6,2.1,2.68,7.22
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2017,11.9,5.6,6.76,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2017,9,14.9,6.56,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88472222,75.33666667,"Abad PWD RH","Dug Well",W26248,2017,5.3,4.9,4.96,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88916667,75.31166667,"Abad PES polytec","Dug Well",W26252,2017,3,6.5,NA,8.29
+MS,Aurangabad,Aurangabad,Aurangabad,19.89472222,75.27194444,Aurangabad,"Dug Well",W26253,2017,NA,8.2,NA,NA
+MS,Aurangabad,Ganagapur,Ganagapur,19.95,75.16361111,Jambhala,"Dug Well",W26267,2017,NA,11.3,NA,NA
+MS,Aurangabad,Sillod,Sillod,20.2975,75.65388889,Sillod-3,"Dug Well",W32760,2017,2.7,2.3,2.06,6
+MS,Aurangabad,Sillod,Sillod,20.35583333,75.56194444,Bharadi,"Dug Well",W32766,2017,10.4,12.4,8.23,14.3
+MS,Aurangabad,Soegaon,Soegaon,20.59138889,75.62083333,Soyegaon-1,"Dug Well",W32789,2017,10.7,8.8,6.46,12.3
+MS,Aurangabad,Soegaon,Soegaon,20.59305556,75.70833333,Fardapur_1,"Dug Well",W32790,2017,10.4,10,10.06,11.1
+MS,Aurangabad,Kannad,Kannad,20.29111111,75.27194444,Hasta,"Dug Well",W26433,2017,5.9,6.8,4.16,13.9
+MS,Aurangabad,Sillod,Sillod,20.45638889,75.71,"Golegaon Budruk","Dug Well",W26525,2017,6,8,6.96,8
+MS,Aurangabad,Aurangabad,Aurangabad,19.86833333,75.47138889,Shendra,"Dug Well",W26243,2017,20,18.6,7.46,22.1
+MS,Aurangabad,Aurangabad,Aurangabad,19.88611111,75.315,"Abad Police HQ","Dug Well",W26249,2017,6.4,7.4,7.19,6.53
+MS,Aurangabad,Aurangabad,Aurangabad,19.9025,75.3125,"Abad Vidhyapeeth","Dug Well",W26257,2017,8.1,7.4,7.16,12
+MS,Aurangabad,Kannad,Kannad,20.03472222,75.03472222,Devgaon-1,"Dug Well",W26285,2017,8,8.6,4.09,10.7
+MS,Aurangabad,Vaijapur,Vaijapur,19.8475,74.83111111,Waghalgaon,"Dug Well",W26235,2017,9.8,8.9,7.66,11.7
+MS,Aurangabad,Vaijapur,Vaijapur,19.93166667,74.71055556,Vaijapur,"Dug Well",W26264,2017,8.6,7.1,4.86,12.5
+MS,Aurangabad,Vaijapur,Vaijapur,20.05638889,74.89444444,Garaj,"Dug Well",W26302,2017,7.4,12.4,12.16,13.4
+MS,Aurangabad,Paithan,Paithan,19.53194444,75.50666667,Dawarwadi,"Dug Well",W26136,2017,10.3,13.6,9.66,14.8
+MS,Aurangabad,Paithan,Paithan,19.65111111,75.33527778,Taherpur,"Dug Well",W26161,2017,7.4,11.3,7.66,7.65
+MS,Aurangabad,Ganagapur,Ganagapur,19.69944444,75.00638889,Gangapur-3,"Dug Well",W26167,2017,1.8,13.2,2.06,12.5
+MS,Aurangabad,Ganagapur,Ganagapur,19.73111111,75.12416667,"Dahegaon Bangla","Dug Well",W26173,2017,15,14.5,13.21,14.55
+MS,Aurangabad,Sillod,Fulambari,20.19888889,75.55361111,Aalandh,"Dug Well",W32747,2017,NA,7.9,8.96,10.7
+MS,Aurangabad,Paithan,Paithan,19.49027778,75.39555556,Paithan-1,"Dug Well",W31206,2017,5.4,9.9,6.26,9.1
+MS,Aurangabad,Paithan,Paithan,19.57166667,75.61916667,Pachud-1,"Dug Well",W31213,2017,7.4,7.2,6.96,14.3
+MS,Aurangabad,Soegaon,Soegaon,20.58277778,75.67305556,"Jangla Tanda-1","Dug Well",W31278,2017,3.1,4,5.26,7.3
+MS,Aurangabad,Aurangabad,Aurangabad,19.88805556,75.31472222,"Panchakki-Aurangabad City","Dug Well",W33404,2017,3,7.4,5.16,13.9
+MS,Aurangabad,Aurangabad,Aurangabad,19.90027778,75.3225,"Aurangabad City-Bibi Ka Makbara","Dug Well",W33405,2017,4,8.2,6.26,13.29
+MS,Aurangabad,Khuldabad,Aurangabad,19.94722222,75.22111111,"Daulatabad Fort","Dug Well",W33406,2017,9,12,9,15
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2017,4.5,4.8,5.06,4.2
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2016,2.5,NA,3.35,9.7
+MS,Aurangabad,Khuldabad,Khuldabad,20.02388889,75.16861111,"Ghusneshwar temple","Dug Well",W33409,2016,NA,NA,5.7,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2016,2.7,NA,7.5,13
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2016,6.6,NA,8,15.5
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2016,2.9,NA,4.8,6.4
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2016,4.6,NA,5,4.4
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2016,12.3,NA,7.6,17.2
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2016,3.1,NA,8.5,12.9
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2016,4.5,NA,2.4,11
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2016,13,NA,5.5,11.53
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2016,3.9,NA,4.7,7.2
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2016,8.8,NA,5.05,47
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2016,11.5,NA,16.3,24
+MS,Aurangabad,Paithan,Paithan,19.53194444,75.50666667,Dawarwadi,"Dug Well",W26136,2016,10.3,17.1,5.4,18.69
+MS,Aurangabad,Paithan,Paithan,19.65111111,75.33527778,Taherpur,"Dug Well",W26161,2016,9.1,21.9,7.25,19.3
+MS,Aurangabad,Ganagapur,Ganagapur,19.69944444,75.00638889,Gangapur-3,"Dug Well",W26167,2016,5.1,6.3,4.75,14
+MS,Aurangabad,Ganagapur,Ganagapur,19.73111111,75.12416667,"Dahegaon Bangla","Dug Well",W26173,2016,8.8,14.2,15.55,16
+MS,Aurangabad,Vaijapur,Vaijapur,19.8475,74.83111111,Waghalgaon,"Dug Well",W26235,2016,4.95,11.2,7.8,12.19
+MS,Aurangabad,Aurangabad,Aurangabad,19.86833333,75.47138889,Shendra,"Dug Well",W26243,2016,7.7,20.3,10.1,23
+MS,Aurangabad,Aurangabad,Aurangabad,19.88472222,75.33666667,"Abad PWD RH","Dug Well",W26248,2016,3.75,5.2,5.8,11.4
+MS,Aurangabad,Aurangabad,Aurangabad,19.88611111,75.315,"Abad Police HQ","Dug Well",W26249,2016,3.3,7.7,6.5,8.5
+MS,Aurangabad,Aurangabad,Aurangabad,19.88916667,75.31166667,"Abad PES polytec","Dug Well",W26252,2016,NA,3.5,2.75,8
+MS,Aurangabad,Aurangabad,Aurangabad,19.89472222,75.27194444,Aurangabad,"Dug Well",W26253,2016,4.45,7.8,5.1,10.91
+MS,Aurangabad,Aurangabad,Aurangabad,19.9025,75.3125,"Abad Vidhyapeeth","Dug Well",W26257,2016,5.8,8,6.5,11.4
+MS,Aurangabad,Vaijapur,Vaijapur,19.93166667,74.71055556,Vaijapur,"Dug Well",W26264,2016,6.1,11.2,7.3,14
+MS,Aurangabad,Ganagapur,Ganagapur,19.95,75.16361111,Jambhala,"Dug Well",W26267,2016,12.4,NA,11.8,19
+MS,Aurangabad,Kannad,Kannad,20.03472222,75.03472222,Devgaon-1,"Dug Well",W26285,2016,4.7,8.8,8.7,9.6
+MS,Aurangabad,Vaijapur,Vaijapur,20.05638889,74.89444444,Garaj,"Dug Well",W26302,2016,5,11.5,11.4,15
+MS,Aurangabad,Kannad,Kannad,20.29111111,75.27194444,Hasta,"Dug Well",W26433,2016,7.6,9.36,6.3,13.9
+MS,Aurangabad,Sillod,Sillod,20.45638889,75.71,"Golegaon Budruk","Dug Well",W26525,2016,2.3,8.5,7.7,7.1
+MS,Aurangabad,Paithan,Paithan,19.49027778,75.39555556,Paithan-1,"Dug Well",W31206,2016,10.5,21.4,4.65,10.4
+MS,Aurangabad,Paithan,Paithan,19.57166667,75.61916667,Pachud-1,"Dug Well",W31213,2016,11.2,14.5,4.5,16
+MS,Aurangabad,Soegaon,Soegaon,20.58277778,75.67305556,"Jangla Tanda-1","Dug Well",W31278,2016,2.1,4.15,2.9,6
+MS,Aurangabad,Sillod,Fulambari,20.19888889,75.55361111,Aalandh,"Dug Well",W32747,2016,9.1,NA,10.95,11.1
+MS,Aurangabad,Sillod,Sillod,20.2975,75.65388889,Sillod-3,"Dug Well",W32760,2016,2.2,NA,2.35,7.3
+MS,Aurangabad,Sillod,Sillod,20.35583333,75.56194444,Bharadi,"Dug Well",W32766,2016,1.3,NA,19.3,13.1
+MS,Aurangabad,Soegaon,Soegaon,20.59138889,75.62083333,Soyegaon-1,"Dug Well",W32789,2016,3.9,NA,5.45,13
+MS,Aurangabad,Soegaon,Soegaon,20.59305556,75.70833333,Fardapur_1,"Dug Well",W32790,2016,4.4,NA,7.2,10.7
+MS,Aurangabad,Aurangabad,Aurangabad,19.88805556,75.31472222,"Panchakki-Aurangabad City","Dug Well",W33404,2016,NA,NA,7.25,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.90027778,75.3225,"Aurangabad City-Bibi Ka Makbara","Dug Well",W33405,2016,NA,NA,5.5,NA
+MS,Aurangabad,Khuldabad,Aurangabad,19.94722222,75.22111111,"Daulatabad Fort","Dug Well",W33406,2016,NA,NA,8.3,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2016,4.5,NA,11.35,15.2
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2015,3.9,6.7,NA,10
+MS,Aurangabad,Soegaon,Soegaon,20.58277778,75.67305556,"Jangla Tanda-1","Dug Well",W31278,2015,NA,NA,3.6,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2015,11.4,10,10.2,12.1
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2015,14.7,15.3,14.5,15.1
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2015,1,4.4,NA,8.8
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2015,4.6,5,NA,30
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2015,9,6,7,11.3
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2015,15,6.6,3.31,10.5
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2015,2.1,4.1,2.36,5.2
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2015,NA,3.6,3.63,11.5
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2015,7.2,4.3,3.9,13
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2015,38.7,9,NA,38.7
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2015,18.5,18.3,8.36,18.5
+MS,Aurangabad,Paithan,Paithan,19.53194444,75.50666667,Dawarwadi,"Dug Well",W26136,2015,16.3,NA,14.5,15.2
+MS,Aurangabad,Paithan,Paithan,19.65111111,75.33527778,Taherpur,"Dug Well",W26161,2015,8.5,8,11.31,9.9
+MS,Aurangabad,Ganagapur,Ganagapur,19.69944444,75.00638889,Gangapur-3,"Dug Well",W26167,2015,6,6.5,5.4,10.3
+MS,Aurangabad,Ganagapur,Ganagapur,19.73111111,75.12416667,"Dahegaon Bangla","Dug Well",W26173,2015,12.9,14,14.5,16.4
+MS,Aurangabad,Vaijapur,Vaijapur,19.8475,74.83111111,Waghalgaon,"Dug Well",W26235,2015,12,10.6,11.5,12.2
+MS,Aurangabad,Aurangabad,Aurangabad,19.86833333,75.47138889,Shendra,"Dug Well",W26243,2015,20.2,NA,16.2,21
+MS,Aurangabad,Aurangabad,Aurangabad,19.88472222,75.33666667,"Abad PWD RH","Dug Well",W26248,2015,4.4,4.5,11.91,13.4
+MS,Aurangabad,Aurangabad,Aurangabad,19.88611111,75.315,"Abad Police HQ","Dug Well",W26249,2015,6,6.5,6.7,7.7
+MS,Aurangabad,Aurangabad,Aurangabad,19.88916667,75.31166667,"Abad PES polytec","Dug Well",W26252,2015,2.3,2.3,2.39,8.2
+MS,Aurangabad,Aurangabad,Aurangabad,19.89472222,75.27194444,Aurangabad,"Dug Well",W26253,2015,9,8.1,10.91,10.1
+MS,Aurangabad,Aurangabad,Aurangabad,19.9025,75.3125,"Abad Vidhyapeeth","Dug Well",W26257,2015,8.4,9.5,9.37,13
+MS,Aurangabad,Vaijapur,Vaijapur,19.93166667,74.71055556,Vaijapur,"Dug Well",W26264,2015,12.5,11.2,13.2,13
+MS,Aurangabad,Ganagapur,Ganagapur,19.95,75.16361111,Jambhala,"Dug Well",W26267,2015,15,15,NA,15
+MS,Aurangabad,Kannad,Kannad,20.03472222,75.03472222,Devgaon-1,"Dug Well",W26285,2015,8.5,8.2,7.8,10.2
+MS,Aurangabad,Vaijapur,Vaijapur,20.05638889,74.89444444,Garaj,"Dug Well",W26302,2015,13.8,11.8,13.5,15
+MS,Aurangabad,Kannad,Kannad,20.29111111,75.27194444,Hasta,"Dug Well",W26433,2015,7.2,6,8.94,12.8
+MS,Aurangabad,Sillod,Sillod,20.45638889,75.71,"Golegaon Budruk","Dug Well",W26525,2015,6.5,7.45,5.5,10.15
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2015,14.1,14.6,8.6,15.5
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2014,3.8,5.23,4.9,9.77
+MS,Aurangabad,Kannad,Kannad,20.29111111,75.27194444,Hasta,"Dug Well",W26433,2014,4.63,10.1,4.27,7.85
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2014,7.2,4.88,15.71,6.85
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2014,16,11,16,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2014,NA,10.55,NA,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2014,11.8,10.9,11,11.76
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2014,9.6,5,14,14.25
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2014,NA,7.3,NA,NA
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2014,5.4,4.1,3.68,12.3
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2014,1.05,5.04,4.43,4.85
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2014,5.97,6.9,6.67,10.93
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2014,3.82,4.17,7.03,7.15
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2014,NA,7.2,NA,NA
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2014,1.5,3.5,2.48,4.09
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2014,3.8,6.25,3.3,NA
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2014,NA,3.64,NA,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2014,NA,7.3,NA,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2014,6.82,9.78,7.78,25.4
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2014,6.02,NA,18,18.15
+MS,Aurangabad,Paithan,Paithan,19.53194444,75.50666667,Dawarwadi,"Dug Well",W26136,2014,14.91,NA,NA,NA
+MS,Aurangabad,Paithan,Paithan,19.65111111,75.33527778,Taherpur,"Dug Well",W26161,2014,8,NA,7.41,9.78
+MS,Aurangabad,Ganagapur,Ganagapur,19.69944444,75.00638889,Gangapur-3,"Dug Well",W26167,2014,2.8,7.24,5.3,13.23
+MS,Aurangabad,Aurangabad,Aurangabad,19.86833333,75.47138889,Shendra,"Dug Well",W26243,2014,15.7,NA,12.75,12.92
+MS,Aurangabad,Aurangabad,Aurangabad,19.89472222,75.27194444,Aurangabad,"Dug Well",W26253,2014,10.7,5.8,7,7.22
+MS,Aurangabad,Aurangabad,Aurangabad,19.9025,75.3125,"Abad Vidhyapeeth","Dug Well",W26257,2014,8.25,NA,2.62,8.65
+MS,Aurangabad,Vaijapur,Vaijapur,19.93166667,74.71055556,Vaijapur,"Dug Well",W26264,2014,11.92,NA,10.38,11.82
+MS,Aurangabad,Ganagapur,Ganagapur,19.95,75.16361111,Jambhala,"Dug Well",W26267,2014,NA,11.75,NA,NA
+MS,Aurangabad,Kannad,Kannad,20.03472222,75.03472222,Devgaon-1,"Dug Well",W26285,2014,4.4,8.88,7.9,8.7
+MS,Aurangabad,Vaijapur,Vaijapur,20.05638889,74.89444444,Garaj,"Dug Well",W26302,2014,2.8,11.97,8.5,13.45
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2014,NA,4,NA,NA
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2013,3,8.15,3.71,NA
+MS,Aurangabad,Kannad,Kannad,20.29111111,75.27194444,Hasta,"Dug Well",W26433,2013,8,14.35,10.5,NA
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2013,NA,NA,11.1,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2013,9.5,NA,5.25,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2013,11.2,11.3,10.03,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2013,10.2,15.5,5.4,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2013,8.3,9.35,6.62,NA
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2013,2.1,8.42,3.07,NA
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2013,3.9,4.35,4.5,26.5
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2013,NA,6.3,NA,7.25
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2013,15,13.2,5,NA
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2013,4.25,12.6,2.62,NA
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2013,7.5,NA,7.5,NA
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2013,1.7,5.56,4.68,NA
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2013,3.1,NA,2.1,NA
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2013,2.25,11.35,2.8,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2013,4.8,7.8,5,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2013,NA,10.1,8.1,11.5
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2013,8,16.35,8.02,16.8
+MS,Aurangabad,Ganagapur,Ganagapur,19.69944444,75.00638889,Gangapur-3,"Dug Well",W26167,2013,4,9.85,5.2,14.1
+MS,Aurangabad,Aurangabad,Aurangabad,19.89472222,75.27194444,Aurangabad,"Dug Well",W26253,2013,5,6.75,6.1,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.93166667,74.71055556,Vaijapur,"Dug Well",W26264,2013,12,11.92,8.2,12.6
+MS,Aurangabad,Ganagapur,Ganagapur,19.95,75.16361111,Jambhala,"Dug Well",W26267,2013,14.5,13.8,12.45,NA
+MS,Aurangabad,Kannad,Kannad,20.03472222,75.03472222,Devgaon-1,"Dug Well",W26285,2013,6.75,NA,7.1,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.05638889,74.89444444,Garaj,"Dug Well",W26302,2013,3.5,10.2,11.3,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2013,5.7,15.8,NA,14.2
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2012,NA,5,5.1,6.86
+MS,Aurangabad,Ganagapur,Ganagapur,19.69944444,75.00638889,Gangapur-3,"Dug Well",W26167,2012,NA,NA,5.5,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2012,NA,4.7,14.4,9.2
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2012,NA,16,NA,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2012,NA,14.5,3.04,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2012,NA,9.65,10.4,12.5
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2012,NA,7.3,12.4,13.8
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2012,NA,7.15,9.1,NA
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2012,NA,4.5,NA,16.07
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2012,NA,5,6.1,5.1
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2012,NA,4.6,6.12,6.4
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2012,NA,5,8.5,10.9
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2012,NA,4.95,11.3,9.15
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2012,NA,16.1,NA,NA
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2012,NA,3,3.8,7.34
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2012,NA,11.53,NA,NA
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2012,NA,7.7,12.7,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2012,NA,6.4,6.4,8.76
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2012,NA,9.95,11.5,35
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2012,NA,4.9,12.4,15.3
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2012,NA,NA,8.1,7.9
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2011,6.29,3,3.84,6.44
+MS,Aurangabad,Aurangabad,Aurangabad,19.86666667,75.53888889,Karmad-2,"Bore Well",W21274,2011,NA,6.5,NA,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2011,2.9,5,5,6.5
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2011,NA,2.08,5.5,11.8
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2011,10.53,7.1,7.43,10.13
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2011,6.46,5.2,7.4,8.25
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2011,4.51,6.9,5.2,8.7
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2011,3.6,3,4.3,10.35
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2011,3.23,4.3,4.3,5.3
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2011,NA,4.45,NA,4.75
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2011,3,4.95,4.7,8.6
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2011,4.12,2.9,3.9,6.58
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2011,5.23,5.5,4.8,7.7
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2011,1.32,3,2.82,3.82
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2011,9,4.6,7.5,9.5
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2011,2.23,4.7,3.14,7.44
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2011,5.73,12,5.8,7.1
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2011,8.09,4.78,7.5,8.05
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2011,6.12,7.7,5.91,10.85
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2011,5,5.08,4,7.9
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2010,1.61,2.54,1.76,7.3
+MS,Aurangabad,Aurangabad,Aurangabad,19.86666667,75.53888889,Karmad-2,"Bore Well",W21274,2010,3.43,7.7,NA,26
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2010,2.99,4.8,5.07,7.5
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2010,NA,NA,NA,16
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2010,2.2,3.3,1.15,14.5
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2010,6.85,8.12,6.13,11.6
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2010,4.97,10.1,3.75,14.5
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2010,6.35,7.47,5.25,11.35
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2010,1.5,2,1.86,12.05
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2010,2.95,4.82,3.74,5.15
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2010,3.32,4.09,3.95,6.6
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2010,3.08,5.41,3.62,11.1
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2010,'0.37,2.2,1.5,6.45
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2010,7.65,10.14,5.17,16.1
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2010,1.38,2.45,1.54,7.6
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2010,NA,NA,NA,11.53
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2010,1.89,1.94,2.16,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2010,5.52,6.1,6.05,8.4
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2010,3.9,8.1,3.78,19.7
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2010,5.8,8.1,3.9,15.4
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2010,4.1,5.8,3.44,8.6
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2009,4.7,4.05,2.44,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.86666667,75.53888889,Karmad-2,"Bore Well",W21274,2009,NA,7.35,NA,24.97
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2009,2.8,6.2,4,7.95
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2009,NA,16,NA,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2009,NA,5.65,8,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2009,6.5,9.8,8.58,11.2
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2009,7.9,10.5,6.8,14.5
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2009,7.7,7.65,7.17,11.6
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2009,2.6,4.23,2,12.9
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2009,4.4,5,4.2,5.02
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2009,4.5,5.2,4.65,6
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2009,11.5,8.8,6.9,16.25
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2009,2.15,5,1.4,9.15
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2009,9,10.18,8.95,15.45
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2009,2.8,3.87,2.92,NA
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2009,4.5,8.85,3.3,NA
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2009,3.2,NA,2.94,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2009,6.3,4.8,6.2,8.95
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2009,11.5,NA,8.72,27.52
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2009,9.5,11.1,8.1,13.1
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2009,2.6,6.55,4.85,8.2
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2008,4.8,4.84,2.6,7.2
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2008,'0.26,13.1,9.05,15.6
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2008,5.6,6.3,3.9,8.8
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2008,NA,16,16,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2008,14.5,10,3.6,14.5
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2008,11.6,10.23,7.5,11.6
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2008,14.2,14.5,14.05,14.5
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2008,7.9,5.45,6,7.9
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2008,2,3.4,1.85,6
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2008,NA,9.5,NA,9.5
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,2008,NA,8.19,NA,NA
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2008,4.86,6,4.95,5.74
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2008,5.65,5.55,4.55,6.1
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2008,17.85,10.9,8.6,17.7
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2008,5.7,5.65,2.6,9.8
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2008,NA,9.05,9.25,16.1
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2008,3.8,4.32,3.15,10.73
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2008,11.53,11.53,7,11.53
+MS,Aurangabad,Sillod,Sillod,20.3875,75.65,Golegaon,"Dug Well",W17155,2008,NA,NA,NA,10.73
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2008,4.2,6.94,3.1,13
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2008,6.15,6.4,6.3,8.35
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2008,NA,7.1,6.43,17.95
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2008,4.45,6.5,4.5,8.78
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2007,3.54,4.36,2.14,8.99
+MS,Aurangabad,Aurangabad,Aurangabad,19.86666667,75.53888889,Karmad-2,"Bore Well",W21274,2007,NA,5.62,NA,21.7
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2007,4.8,4.19,4.1,6.2
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2007,16,16,16,16
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2007,10.25,NA,6.6,14.5
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2007,10.28,7.09,9.03,10.65
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2007,13,7.74,8.3,14.1
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2007,7.05,3.95,3.45,7.9
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2007,1.8,8.22,1.85,5.55
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2007,3.1,9.5,NA,9.5
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2007,NA,5,4.6,4.77
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2007,5,5.05,4.8,5
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2007,9.2,5,7.95,12.75
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2007,2.6,4.35,2.85,7.45
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2007,7.35,3.19,7.9,6.05
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2007,3.67,4,NA,4.82
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2007,2.1,7.54,11.53,11.53
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2007,2.59,3.93,3.64,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2007,6.2,6.4,6.1,6.75
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.95,Khamgaon,"Bore Well",W17160,2007,8.2,10.15,NA,9.14
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2007,10,5.5,5.85,8.75
+MS,Aurangabad,Khuldabad,Khuldabad,20.00416667,75.19166667,Khuldabad,"Dug Well",W21442,2007,9.3,NA,14.95,NA
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2007,7.3,6.32,3.55,7.03
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2006,2.37,4.39,2.65,10.11
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2006,7.29,NA,4.56,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2006,3.34,8.75,3.58,14.25
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2006,16,16,NA,16
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2006,5.09,14.5,1.88,14.5
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2006,4.9,10.71,4.96,11.63
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2006,7.72,13.49,8.96,13.65
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2006,2.65,5.55,2.8,9.9
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2006,1.96,2.73,1.93,5.45
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2006,9.5,9.5,NA,9.5
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2006,NA,4.68,4.36,5.5
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2006,3.87,5.35,3.86,5.8
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2006,8.32,11.63,NA,17.25
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2006,1.85,8.28,1.79,9.45
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2006,3.83,5.22,2.99,7.3
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2006,1.05,4.12,NA,6.87
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2006,1.54,8.6,3.9,11.53
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2006,2.45,4.64,2.77,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2006,5.58,6.73,6.33,8.3
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.95,Khamgaon,"Bore Well",W17160,2006,12.69,12.81,9.93,12.82
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2006,2.15,7.6,4.45,8.9
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2005,3.49,6.09,3,8.89
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2005,8.05,8.6,5.97,9.11
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2005,6.65,13.75,7.55,15.75
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2005,16,16,16,16
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2005,14.5,14.5,14.5,14.5
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2005,11.79,11.79,10.7,11.08
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2005,12.9,10.88,12.2,12.85
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2005,6.3,12.5,19.51,7.25
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2005,1.8,3.4,2,8.16
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2005,9.5,NA,NA,9.5
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,2005,8.19,8.19,NA,8.19
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2005,6.05,NA,6.15,6.9
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2005,5.5,5.35,5.25,13.8
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2005,14.1,9.65,9.91,17.65
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2005,4.35,6.7,3.45,9.85
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2005,16.1,16.1,7.63,11.22
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2005,3.67,2.97,2.65,6.37
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2005,11.53,11.53,4.9,11.53
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2005,2.14,7.44,25.7,12.94
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2005,6.2,6.4,6.3,8.25
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.95,Khamgaon,"Bore Well",W17160,2005,13.15,12.1,15.4,12.68
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2005,10.9,NA,NA,NA
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2004,NA,8.2,NA,14.45
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2004,NA,6.4,NA,10.45
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2004,NA,16.1,NA,16.1
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2004,NA,2.1,NA,3.57
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2004,NA,11.53,NA,11.53
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2004,NA,4.1,NA,10.24
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2004,NA,6.7,NA,6.6
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.95,Khamgaon,"Bore Well",W17160,2004,NA,12.95,NA,12.6
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2004,NA,5.4,NA,8.64
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2004,NA,12.5,NA,9.8
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2004,NA,14.1,NA,14.3
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2004,NA,16,NA,16
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2004,NA,14.5,NA,14.5
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2004,NA,12.6,NA,11.79
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2004,NA,10.88,NA,10.88
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2004,NA,11.2,NA,12.5
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2004,NA,3.7,NA,4.8
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2004,NA,9.5,NA,9.5
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,2004,NA,8.19,NA,8.19
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2004,NA,NA,NA,6
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2004,NA,10.2,NA,9.1
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2003,9.5,10,5.5,12.2
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2003,NA,9.9,16.1,19.4
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2003,2.7,3.2,3.1,3.82
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2003,NA,NA,11.53,NA
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2003,3,4.6,3.6,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2003,5.8,6.8,7,6.92
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.68333333,"Jangla Tanda","Bore Well",W17159,2003,NA,10,NA,11.9
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.95,Khamgaon,"Bore Well",W17160,2003,12.1,12,12,12.7
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2003,2.4,5.15,4.25,11.3
+MS,Aurangabad,Ganagapur,Ganagapur,19.77916667,75.19444444,"Limbe Jalgaon","Bore Well",W06916,2003,9.75,NA,9.6,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2003,8.8,12.1,13.3,14.7
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2003,15.65,13.9,16,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2003,NA,NA,14.5,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2003,NA,11.4,12.7,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2003,15,14.4,10.88,14
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2003,8.1,11.45,8.36,10.8
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2003,2.4,4.4,2.5,7.8
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2003,NA,NA,9.5,NA
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,2003,8.19,NA,8.19,NA
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2003,5,NA,3.5,8
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2003,7,5.7,6.6,NA
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2003,10.2,7.3,7,NA
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2002,10.46,9.8,6.4,15.1
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2002,4.29,NA,5.45,NA
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2002,2.36,3.9,1.1,8.82
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2002,16.25,14.85,15,15.9
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2002,2.25,7.7,2.17,NA
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2002,5.45,6.65,5.6,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2002,11.15,9.95,10.5,12.7
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2002,NA,NA,16.67,NA
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,2002,7.27,NA,NA,NA
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2002,NA,NA,5.1,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2002,7.37,NA,NA,NA
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2002,1.7,4.6,3,11.8
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2002,6.27,NA,6,NA
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2002,2.52,6.45,2.85,7.92
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2002,10.9,7.7,7.95,NA
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2002,8.56,9.1,9,11.2
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2002,6.19,6.5,6.4,6.1
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.68333333,"Jangla Tanda","Bore Well",W17159,2002,NA,NA,9.35,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.95,Khamgaon,"Bore Well",W17160,2002,NA,NA,10.95,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2002,13.66,14.4,13.2,14.3
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2002,6.77,11.75,6,14.2
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2001,12.25,12.1,14.2,14.4
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2001,6,10.5,3.75,9.8
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2001,NA,16.4,NA,30.4
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2001,6.05,6.7,6.65,7.3
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2001,NA,5.85,3.4,11.6
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2001,3.5,3.95,2.5,6.55
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2001,9.95,6.4,8.1,11.7
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,2001,9.35,NA,NA,NA
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2001,14.6,14.3,13.35,14.3
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2001,10.5,9.3,8.8,14.8
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2001,6.05,5.5,5.7,8.4
+MS,Aurangabad,Kannad,Kannad,20.29166667,75.34583333,"Digar Pishore-2","Bore Well",W17146,2001,4.9,6.6,NA,6.55
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,2001,7.05,NA,6.4,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2001,6.45,7.15,5.8,NA
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2001,4,4.8,3,6.45
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2001,9,8.1,7.45,11.05
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2001,14.7,10,15,10.9
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2001,11.2,10.8,9.35,11.6
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2001,NA,NA,6.15,NA
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,2000,6.3,6.4,6.7,11.9
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,2000,14.8,14.7,13.5,14.75
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,2000,1.8,4.7,3,5.85
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,2000,2.55,2.6,3.4,5.65
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,2000,3.6,5.4,4.55,11.4
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,2000,3.6,7,5.1,NA
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,2000,6.7,9.75,6.1,7.1
+MS,Aurangabad,Sillod,Sillod,20.44166667,75.70555556,"Golegaon (Kh)","Bore Well",W17156,2000,9.55,11,10.8,12.2
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,2000,3.1,6.45,4.4,9.8
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,2000,11.1,NA,NA,NA
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,2000,NA,NA,NA,10.7
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,2000,10.7,6.5,10.6,9.9
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,2000,2.85,5.01,4,NA
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,2000,8.3,5.1,5.2,11.4
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,2000,9.6,6.9,9.25,11.1
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,2000,6.5,7,NA,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,2000,12.1,10.2,10,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,2000,5.2,6.85,5.8,6.2
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,2000,6.25,6.4,6.6,7.4
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,1999,4.2,4.9,4,9.9
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,1999,15.3,9.3,14.9,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,1999,8.5,9.2,3.72,9.73
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,1999,3.1,5.9,2.7,5.84
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,1999,6.3,7.7,5.4,7.55
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,1999,10.6,7.9,4.5,NA
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,1999,6.9,7.1,6,7.55
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,1999,2,3.45,1.7,5.3
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,1999,2.3,3.8,2.29,4.17
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,1999,4.8,4.9,6.2,6.5
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.95,Khamgaon,"Bore Well",W17160,1999,NA,NA,5,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.01666667,74.8,Khandala,"Bore Well",W17161,1999,7.6,NA,5,NA
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,1999,5.9,8.25,5.66,5.55
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,1999,9.9,10.45,8.55,10.7
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,1999,4.6,2.9,2.7,6.64
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,1999,6.1,6.6,6,NA
+MS,Aurangabad,Sillod,Sillod,20.44166667,75.70555556,"Golegaon (Kh)","Bore Well",W17156,1999,10.8,NA,7.3,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,1999,6.9,4,5.26,5.85
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,1999,18.2,5.1,4.35,NA
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,1999,NA,4.1,NA,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,1999,7.7,8.1,5.5,9.55
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,1998,8.05,10,8.5,10.75
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,1998,7.15,9.2,7.2,11.33
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,1998,7.7,12.5,4.7,13.18
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,1998,NA,NA,14.65,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,1998,3,5.5,4.25,9
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,1998,2.6,2.7,1.45,7.7
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,1998,6.4,6,7.2,7.47
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,1998,2.7,2.7,2.15,6.65
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,1998,'0.3,2.9,1.85,9.4
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,1998,'0.7,1.9,1.7,6
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,1998,8.4,9.2,6.2,NA
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,1998,NA,7.8,5.4,NA
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,1998,4.3,4.4,3.75,8.54
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,1998,4,5.2,4.35,6.65
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,1998,6.25,6.8,5.15,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,1998,1.5,5.5,2.7,NA
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,1998,1.1,2.2,2.25,5.77
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,1998,3.35,6,2.9,10.47
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,1997,NA,NA,8.2,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,1997,10.9,9.45,10.5,8.2
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,1997,8.72,5.7,8.75,15.09
+MS,Aurangabad,Kannad,Kannad,20.28333333,75.31666667,"Digar Pishore-1","Dug Well",W17144,1997,NA,11,NA,NA
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,1997,5.85,6.1,6.3,NA
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,1997,11.27,10.8,9.8,18.21
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,1997,5.68,6.35,3.8,NA
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,1997,14.43,12.2,6.9,NA
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,1997,1.82,2.25,1.95,3.45
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,1997,15.05,NA,NA,15.3
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,1997,8.5,7.4,5.5,13.16
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,1997,NA,5.25,6.8,NA
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,1997,NA,15,15.8,NA
+MS,Aurangabad,Kannad,Kannad,20.16666667,75.06666667,Kinnal-2,"Dug Well",W17149,1997,10.85,NA,9.8,NA
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,1997,4.83,4.8,4.6,10.11
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,1997,11.43,9.75,NA,11.5
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,1997,5.87,6.3,6.2,6.55
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,1997,7.95,6,7.7,8.81
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,1997,11.04,5,3.2,NA
+MS,Aurangabad,Sillod,Sillod,20.23333333,75.65,"Borgaon Bazar","Dug Well",W17154,1996,NA,10.05,9.2,NA
+MS,Aurangabad,Sillod,Sillod,20.3875,75.65,Golegaon,"Dug Well",W17155,1996,NA,12.7,NA,NA
+MS,Aurangabad,Sillod,Sillod,20.16666667,75.63333333,Kaigaon,"Dug Well",W17157,1996,7.15,7.5,3.1,NA
+MS,Aurangabad,Soegaon,Soegaon,20.58194444,75.73194444,Fardapur,"Dug Well",W17158,1996,4.7,9.2,2.65,9.45
+MS,Aurangabad,Aurangabad,Fulambari,20.125,75.46666667,Patri,"Dug Well",W06915,1996,5.65,6.25,4.4,NA
+MS,Aurangabad,Khuldabad,Khuldabad,20.08333333,75.15,"Walur Tanda","Dug Well",W06917,1996,8.05,6.78,4.5,8.55
+MS,Aurangabad,Paithan,Paithan,19.48333333,75.38333333,Paithan,"Dug Well",W06918,1996,19.3,15.15,NA,16.16
+MS,Aurangabad,Vaijapur,Vaijapur,19.79722222,74.87361111,Mahalgaon,"Dug Well",W06919,1996,13.25,9.7,10.72,11.68
+MS,Aurangabad,Vaijapur,Vaijapur,19.91666667,74.75,Rotegaon,"Dug Well",W06920,1996,10.4,11.7,8.3,NA
+MS,Aurangabad,Vaijapur,Vaijapur,20.13333333,74.85,Tunki,"Dug Well",W06921,1996,NA,11.2,7.2,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.8,75.47777778,Apatgaon,"Dug Well",W17135,1996,11.8,10.9,4.3,11.97
+MS,Aurangabad,Aurangabad,Aurangabad,20.01666667,75.39444444,Chauka,"Dug Well",W17136,1996,4.2,13.4,2.4,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88055556,75.375,Chikalthana,"Dug Well",W17137,1996,6.8,NA,4.9,NA
+MS,Aurangabad,Aurangabad,Aurangabad,19.88333333,75.53333333,Karmad-1,"Dug Well",W17138,1996,NA,8.03,NA,NA
+MS,Aurangabad,Ganagapur,Ganagapur,20.00277778,75.06666667,Kinnal-1,"Dug Well",W17141,1996,NA,NA,5.2,NA
+MS,Aurangabad,Kannad,Kannad,20.05,75.05,Devgaon,"Dug Well",W17142,1996,NA,NA,8,NA
+MS,Aurangabad,Kannad,Kannad,20.28333333,75.31666667,"Digar Pishore-1","Dug Well",W17144,1996,9.5,NA,9.9,12.35
+MS,Aurangabad,Kannad,Kannad,20.1375,75.13333333,Hatnur,"Dug Well",W17147,1996,NA,6.2,6.2,NA
+MS,Aurangabad,Kannad,Kannad,20.26666667,75.13333333,Kannad,"Dug Well",W17148,1996,16.3,11.37,11.6,14.31
+MS,Aurangabad,Paithan,Paithan,19.70833333,75.54583333,Adul,"Dug Well",W17150,1996,14.3,15.4,10.44,17.86
+MS,Aurangabad,Paithan,Paithan,19.725,75.29166667,Bidkingaon,"Dug Well",W17151,1996,NA,3.63,NA,NA
+MS,Aurangabad,Sillod,Sillod,20.54166667,75.74166667,Ajanta,"Dug Well",W17153,1996,2.4,2.95,6.1,5.01

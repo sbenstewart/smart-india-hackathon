@@ -1,0 +1,626 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2018,NA,6.73,NA,NA
+UP,Hardoi,BHARAWAN,Bharawan,27.16777778,80.69472222,"Atrauli (GWD PZ)","Tube Well",W33291,2018,NA,NA,9.05,NA
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2018,NA,NA,5,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2018,NA,NA,2.5,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2018,NA,2.62,2.09,NA
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2018,NA,4.28,3.82,NA
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2018,NA,6.8,4.44,NA
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2018,NA,6.26,6.03,NA
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2018,NA,5.09,3.5,NA
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2018,NA,4.81,2.37,NA
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2018,NA,3.75,3.03,NA
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2018,NA,5.82,2.66,NA
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2018,NA,2.87,1.16,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2018,NA,4.75,3.98,NA
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2018,NA,7.94,6.36,NA
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2018,NA,3.57,1.8,NA
+UP,Hardoi,BEHADAR,Behadar,27.02166667,80.41555556,"Behdar (GWD PZ)","Tube Well",W33285,2018,NA,4.69,2.26,NA
+UP,Hardoi,SANDILA,Sandila,27.05222222,80.52638889,"Sandila (GWD PZ)","Tube Well",W33286,2018,NA,7.52,3.82,NA
+UP,Hardoi,KACHHAUNA,Kachhauna,27.15861111,80.34055556,"Kachauna (GWD PZ)","Tube Well",W33290,2018,NA,5.83,4.05,NA
+UP,Hardoi,SURSA,Sursa,27.29694444,80.11861111,"Sursa (GWD PZ)","Tube Well",W33293,2018,NA,5.25,3.72,NA
+UP,Hardoi,HARPALPUR,Harpalpur,27.35055556,79.78888889,"Harpalpur PZ-GWD","Tube Well",W33295,2018,NA,7.82,6.55,NA
+UP,Hardoi,TADIYAWAN,Tadiyawan,27.43833333,80.24027778,"Tediaon (GWD PZ)","Tube Well",W33302,2018,NA,3.52,2.53,NA
+UP,Hardoi,BAWAN,Bawan,27.39888889,79.99583333,"Bawan Pz-GWD","Tube Well",W33300,2018,NA,2.81,2.18,NA
+UP,Hardoi,Ahrori,Ahrori,27.33194444,80.30888889,Ahrori,"Dug Well",W32986,2018,NA,3.07,2.11,NA
+UP,Hardoi,BHARKHANI,Bharkhani,27.61583333,79.79583333,"Barkhani Pz-GWD","Tube Well",W33307,2018,NA,8.63,NA,NA
+UP,Hardoi,SHAHABAD,Shahabad,27.645,79.945,"Shahabad Pz-GWD","Tube Well",W33309,2018,NA,8.18,NA,NA
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2018,NA,NA,12.2,NA
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2017,3.39,4.8,4.13,NA
+UP,Hardoi,BHARAWAN,Bharawan,27.16777778,80.69472222,"Atrauli (GWD PZ)","Tube Well",W33291,2017,NA,9.88,NA,9.82
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2017,4.65,4.34,4.93,NA
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2017,4.95,4.8,4.43,NA
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2017,2.94,7.74,7.91,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2017,1.52,3.01,2.22,4.15
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2017,6.29,6.17,6.36,6.69
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2017,3.3,4.07,3.84,4.69
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2017,5.93,6.14,5.6,6.86
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2017,3.32,2.87,2.27,3.87
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2017,6.68,7,6.89,7.37
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2017,4.18,NA,4.47,NA
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2017,3.22,3.84,3.17,4.53
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2017,3.96,4.55,NA,NA
+UP,Hardoi,BEHADAR,Behadar,27.02166667,80.41555556,"Behdar (GWD PZ)","Tube Well",W33285,2017,4.43,4.65,4.41,4.95
+UP,Hardoi,SANDILA,Sandila,27.05222222,80.52638889,"Sandila (GWD PZ)","Tube Well",W33286,2017,7,7.18,7.94,7.95
+UP,Hardoi,KACHHAUNA,Kachhauna,27.15861111,80.34055556,"Kachauna (GWD PZ)","Tube Well",W33290,2017,5.91,5.81,5.88,6
+UP,Hardoi,SURSA,Sursa,27.29694444,80.11861111,"Sursa (GWD PZ)","Tube Well",W33293,2017,4.86,4.96,5.16,5
+UP,Hardoi,HARPALPUR,Harpalpur,27.35055556,79.78888889,"Harpalpur PZ-GWD","Tube Well",W33295,2017,3.8,7.03,7.1,6.98
+UP,Hardoi,BAWAN,Bawan,27.39888889,79.99583333,"Bawan Pz-GWD","Tube Well",W33300,2017,2.77,3.33,2.62,2.43
+UP,Hardoi,BHARKHANI,Bharkhani,27.61583333,79.79583333,"Barkhani Pz-GWD","Tube Well",W33307,2017,8.07,8.02,8.3,7.65
+UP,Hardoi,SHAHABAD,Shahabad,27.645,79.945,"Shahabad Pz-GWD","Tube Well",W33309,2017,8.08,7.5,8.1,5.97
+UP,Hardoi,TADIYAWAN,Tadiyawan,27.43833333,80.24027778,"Tediaon (GWD PZ)","Tube Well",W33302,2017,2.77,NA,3.32,4.82
+UP,Hardoi,Ahrori,Ahrori,27.33194444,80.30888889,Ahrori,"Dug Well",W32986,2017,4.7,3.95,2.44,5.3
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2017,6.65,6.51,6.69,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2016,NA,NA,4.5,NA
+UP,Hardoi,Bharkhani,Sandi,27.34222222,80.03777778,Pali-New,"Dug Well",W33507,2016,NA,NA,6.45,NA
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2016,NA,NA,5.59,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2016,2.7,NA,2.56,4.17
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2016,3.4,NA,4.17,NA
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2016,6.95,NA,6.03,6.95
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2016,2.82,NA,1.15,4.12
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2016,5.79,NA,5.2,6.14
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2016,8.13,NA,3.72,NA
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2016,4.4,NA,4.06,NA
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2016,NA,NA,4.8,NA
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2016,3.08,NA,3.55,NA
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2016,6,NA,2.48,6.48
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2016,3.8,NA,4.22,NA
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2016,14.6,NA,NA,11.8
+UP,Hardoi,Ahrori,Ahrori,27.33194444,80.30888889,Ahrori,"Dug Well",W32986,2016,2.9,NA,2.63,5.3
+UP,Hardoi,BEHADAR,Behadar,27.02166667,80.41555556,"Behdar (GWD PZ)","Tube Well",W33285,2016,3.25,NA,4.55,NA
+UP,Hardoi,SANDILA,Sandila,27.05222222,80.52638889,"Sandila (GWD PZ)","Tube Well",W33286,2016,6.36,NA,7.01,NA
+UP,Hardoi,KACHHAUNA,Kachhauna,27.15861111,80.34055556,"Kachauna (GWD PZ)","Tube Well",W33290,2016,5.68,NA,5.75,NA
+UP,Hardoi,BHARAWAN,Bharawan,27.16777778,80.69472222,"Atrauli (GWD PZ)","Tube Well",W33291,2016,9.5,NA,9.58,NA
+UP,Hardoi,SURSA,Sursa,27.29694444,80.11861111,"Sursa (GWD PZ)","Tube Well",W33293,2016,4.71,NA,4.81,NA
+UP,Hardoi,HARPALPUR,Harpalpur,27.35055556,79.78888889,"Harpalpur PZ-GWD","Tube Well",W33295,2016,6.7,NA,6.65,NA
+UP,Hardoi,BAWAN,Bawan,27.39888889,79.99583333,"Bawan Pz-GWD","Tube Well",W33300,2016,2.36,NA,2.7,NA
+UP,Hardoi,TADIYAWAN,Tadiyawan,27.43833333,80.24027778,"Tediaon (GWD PZ)","Tube Well",W33302,2016,3.5,NA,NA,NA
+UP,Hardoi,BHARKHANI,Bharkhani,27.61583333,79.79583333,"Barkhani Pz-GWD","Tube Well",W33307,2016,7.62,NA,7.65,NA
+UP,Hardoi,SHAHABAD,Shahabad,27.645,79.945,"Shahabad Pz-GWD","Tube Well",W33309,2016,6.47,NA,6.92,NA
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2016,3.01,NA,3,5.03
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2015,2.89,3.9,NA,5.17
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W29779,2015,NA,5.4,NA,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2015,2.28,2.5,2.7,3.97
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2015,3.4,5.73,4.55,3.4
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2015,5.75,5.96,6.63,7.55
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2015,1.5,2.5,1.32,4.95
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2015,7.8,7.6,7.9,7.8
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2015,NA,NA,6.19,7.24
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2015,7.44,7.34,7.66,8.35
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2015,4.2,4.44,4.6,5.15
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2015,2.8,4.28,3.75,5.25
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2015,6.52,6.47,6.92,7.7
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2015,3.09,5.21,4.54,3.09
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2015,3.54,4.12,NA,4.26
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2015,NA,3.24,NA,3.6
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2015,4.21,5.85,4.28,4.21
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2015,2.8,4.17,3.7,2.8
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2015,3.04,3.74,4,4.54
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2015,11.1,10.5,11.35,10.87
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2015,5.48,6.04,5.44,6.9
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2014,3.66,2.9,NA,3.98
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W29779,2014,NA,2.65,NA,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2014,2.32,1.86,NA,2.9
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2014,5.43,4.93,NA,4.8
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2014,5.43,4.55,NA,6.08
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2014,1.61,1.42,NA,2.47
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2014,7.37,6.7,NA,7
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2014,6.23,5.69,NA,6.39
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2014,7.15,5.54,NA,6.76
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2014,3.5,3.24,NA,4.4
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2014,3.75,2,NA,4.2
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2014,6.23,4.66,NA,5.62
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2014,3.43,3.15,NA,3.84
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2014,4.09,2.57,NA,3.6
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2014,2.81,2.13,NA,2.96
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2014,5.82,3.23,NA,4.48
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2014,NA,2.72,NA,4.41
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2014,NA,4.57,NA,4.77
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2014,2.11,2.51,NA,2.9
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2014,3.68,2.69,NA,3.79
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2014,10.55,9.6,NA,10.1
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2014,6.16,4.04,NA,4.98
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2013,'0.23,3.58,2.48,3.55
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2013,9.98,10.45,9.78,10.35
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2013,1.85,1.82,2.2,2.75
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2013,2.45,3.61,3.6,4.3
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2013,3.99,4.26,5.23,5.58
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2013,1.15,'0.73,1.6,2.95
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2013,6.45,6.25,6.4,6.8
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2013,5.14,5.94,5.59,6.44
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2013,4.46,NA,5.41,6.98
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2013,2.2,3.04,3.5,4.3
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2013,1.28,2.25,1.95,4.6
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2013,4.2,4.75,4.72,5.72
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2013,2.34,3.58,3.04,5.21
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2013,1.85,2.79,2.84,4.27
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2013,NA,NA,NA,NA
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2013,3,3.18,3.7,4.83
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2013,1.95,2.23,3.26,4.53
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2013,4.4,4.02,4.44,NA
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2013,2.5,2.92,3.4,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2013,1.65,2.59,2.54,3.67
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2013,2.44,NA,4.03,4.96
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2012,NA,2.43,3.18,3.83
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2012,NA,10.2,10.05,10.3
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2012,NA,4.43,NA,5.83
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2012,NA,NA,1.2,3.4
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2012,NA,3.6,3.18,4.65
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2012,NA,3.53,3.63,5.73
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2012,NA,1.52,'0.52,3.52
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2012,NA,5.8,5.8,6.4
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2012,NA,3.29,5.87,5.39
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2012,NA,6.46,9.4,7.06
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2012,NA,2.6,1.9,4.1
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2012,NA,2.55,2.16,4.6
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2012,NA,3.02,4.33,5.22
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2012,NA,2.3,3.06,3.64
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2012,NA,2.84,1.84,4.34
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2012,NA,3.06,2.65,4.66
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2012,NA,3.38,3.11,4.48
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2012,NA,1.92,2.11,4.36
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2012,NA,2.67,3.72,4.77
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2012,NA,NA,2.67,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2012,NA,2.19,1.84,3.79
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,2012,NA,NA,NA,6.05
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2011,'0.33,1.98,1.83,3.38
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2011,10.45,14.2,10.4,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2011,1.1,1.8,1.9,3.2
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2011,2.6,3.7,3.6,4.7
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2011,'0.93,3.18,3.13,5.43
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2011,'0.82,1.52,1.52,3.57
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2011,5.7,5.6,5.4,6.55
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2011,1.54,NA,3.09,6.19
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2011,6.26,6.26,6.26,7.21
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2011,NA,2.3,NA,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2011,'0.6,2.2,2.1,4.4
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2011,'0.9,2.4,2.2,4.4
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2011,1.22,3.42,2.62,5.42
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2011,'0.14,2.79,1.79,4.79
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2011,1.94,2.89,2.94,4.94
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2011,1.41,2.91,2.96,4.66
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2011,1.68,3.18,3.18,4.48
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2011,'0.26,2.96,1.76,4.06
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2011,1.47,2.87,2.47,4.47
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2011,'0.79,3.49,2.19,3.99
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2011,NA,5.95,NA,NA
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2011,2.73,3.58,4.23,5.03
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2010,'0.43,2.68,1.33,3.29
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2010,2.4,2.34,1.7,4.04
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2010,'0.8,1.82,1.5,2.7
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2010,2.35,3.93,3,4.43
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2010,NA,3.61,NA,NA
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2010,'0.93,5.09,2.03,5.53
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2010,'0.12,'0.99,'0.97,2.24
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2010,6.1,7.15,5.15,6.49
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2010,5.19,5.85,4.59,6.25
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2010,6.81,6.21,6.06,6.94
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2010,'0.85,2.42,1.3,3.47
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2010,1.1,3.94,1.3,4.21
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2010,4.02,4.88,2.52,5.46
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2010,2.59,2.54,2.29,4.15
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2010,'0.84,3.39,2.34,4.13
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2010,1.48,2.31,2.06,NA
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2010,1.28,3.25,2.68,4.3
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2010,1.96,3.06,2.56,4.2
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2010,1.97,3.79,2.27,4.87
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2010,NA,2.47,NA,2.81
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2010,'0.69,3.06,1.34,3.12
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2010,6.05,5.65,5.75,NA
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2010,NA,13.97,14.3,NA
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2010,3.63,4.68,3.28,5.04
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2009,'0.73,1.98,'0.93,4.53
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2009,1.6,2.1,1.7,4.1
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2009,3.48,3.58,3.53,3.73
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2009,'0.8,1.65,2.7,3.2
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2009,2.7,3.5,3.5,4.3
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2009,8.95,8.95,8.95,8.95
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2009,2.63,3.43,2.43,4.03
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2009,2.32,2.45,1.72,3.42
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2009,6.3,5.8,5.55,6.5
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2009,NA,5.59,5.69,6.09
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2009,6.29,6.22,5.94,6.79
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2009,2.5,2.5,1.9,3.6
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2009,2.8,2.55,1.95,4.3
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2009,4.92,2.92,3.52,4.92
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2009,2.59,2.29,1.99,3.74
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2009,2.44,2.89,3.04,3.99
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2009,6.64,2.96,6.64,6.64
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2009,2.28,3.38,2.88,4.28
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2009,4.46,2.26,3.66,5.66
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2009,3.67,3.47,3.27,4.57
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2009,NA,2.7,NA,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2009,'0.79,2.69,1.89,3.89
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2009,5.65,5.45,5.55,5.95
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2009,13.1,12.9,12.9,13.8
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,2009,NA,NA,2.25,NA
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2008,'0.26,2.83,1.2,3.52
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2008,'0.88,3.44,1.57,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2008,1.19,2.29,1.71,2.42
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2008,2.66,4.64,3.42,4.87
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2008,2.64,4.66,3.06,5.08
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2008,1.5,5.39,2.14,5.87
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2008,NA,1.37,'0.33,1.09
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2008,5.86,7.28,5.62,7.64
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2008,2.76,6.07,3.96,11.35
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2008,5.32,6.9,5.16,7.3
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2008,'0.6,2.78,1.67,3.36
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2008,'0.73,4.24,1.31,2.76
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2008,1.06,5.02,2.95,5.84
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2008,NA,4.31,1.28,5.58
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2008,1.86,3.75,2.61,4.05
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2008,1.83,2.61,2.74,1.93
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2008,2,3.81,2.68,3.77
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2008,'0.88,3.44,2.18,4.35
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2008,2.55,4.71,2.96,5.03
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2008,2,3.41,2.57,4.09
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2008,'0.7,3.25,1.55,3.63
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2008,2.41,5.51,5.41,5.9
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2008,13.18,12.75,13.02,13.28
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2008,2.58,4.78,2.93,5.19
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2007,'0.73,2.66,2.12,2.69
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2007,NA,2.9,NA,3.65
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2007,1.59,2.15,1.9,2.32
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2007,3.08,4.13,3.8,3.76
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2007,4.05,4.1,4.6,4.66
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2007,3.84,4.96,4.9,5.55
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2007,'0.16,NA,'0.82,1.81
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2007,6.86,7.05,7.08,7.18
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2007,5.74,5.89,6.49,4.95
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2007,6.49,6.17,6.66,6.84
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2007,1.6,2.3,2.2,3.14
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2007,1.81,4.3,3.75,4.39
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2007,3.92,2.37,4.6,4.97
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2007,3.29,3.24,3.79,4.38
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2007,2.44,3.48,3.24,NA
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2007,1.41,1.74,2.39,2.45
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2007,2.72,3.55,3.53,4.03
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2007,2.53,3.16,3.05,3.9
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2007,3.63,4.37,4.36,4.66
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2007,2.57,NA,3.21,3
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2007,'0.72,2.29,1.87,2.45
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2007,5.05,5.17,5.43,4.96
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2007,12.21,11.4,12.47,12.05
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2007,3.85,4.23,4.42,4.75
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2006,'0.83,3.19,3.04,2.59
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2006,2,2.05,2.1,3.79
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2006,1.4,2.03,2.1,2.45
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2006,2.53,3.74,3.7,4.2
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2006,2.6,3.5,3.6,4.34
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2006,1.63,3.41,4.53,4.9
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2006,NA,'0.82,NA,1.73
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2006,6.48,6.71,6.5,7.26
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2006,5.29,5.76,5.89,5.91
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2006,5.28,6.34,5.73,6.96
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2006,1.25,2.07,NA,3.03
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2006,2.1,2.57,3.75,4.22
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2006,1.72,3.8,1.85,5.16
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2006,3.29,2.83,2.74,4.34
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2006,1.84,2.93,2.75,3.8
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2006,1.36,2.45,1.49,2.57
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2006,2.06,3.32,3.23,3.77
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2006,1.16,NA,2.81,3.62
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2006,3.27,4.07,4.12,4.63
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2006,2.25,2.91,3.1,3.27
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2006,'0.59,2.17,NA,2.37
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2006,4.65,5,4.75,5.37
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2006,12.6,11.34,11.2,11.81
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2006,2.43,3.62,3.73,4.67
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2005,'0.02,2.88,1.48,2.88
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2005,11.72,11.65,11.35,11.98
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2005,2.66,2.97,2.93,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2005,1.21,1.7,1.68,2.8
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2005,2.25,2.71,3.23,3.68
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2005,3.12,2.65,2.98,4.05
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2005,2.83,2.83,2.7,4.72
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2005,'0.09,'0.72,'0.82,1.69
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2005,6.45,6.06,6.37,6.86
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2005,4.94,5.6,5.44,6.04
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2005,6.4,5.57,6.11,6.41
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2005,'0.9,1.81,1.62,2.17
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2005,1.56,2.57,1.7,4.12
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2005,1.32,1.48,1,4.55
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2005,3.07,3.06,3.27,4.68
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2005,2.05,2.43,2.46,3.2
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,2005,NA,5.21,NA,NA
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2005,1.59,2.54,2.34,NA
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2005,1.18,1.9,1.74,2.51
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2005,1.88,3.58,1.89,3.48
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2005,NA,2.12,NA,NA
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2005,4.69,2.44,NA,4.72
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2005,NA,3.67,2.45,2.6
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2005,'0.57,NA,1.37,2.21
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2005,4.92,5.19,4.87,5.46
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,2005,NA,4.95,NA,5.75
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2004,'0.11,2.43,1.63,4.03
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2004,12.19,12.85,11.7,12.5
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2004,1.92,2.68,2.26,5.14
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2004,1.06,1.6,1.2,2.58
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2004,2.24,3.3,2.8,4.26
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2004,1.9,2.6,1.65,3.86
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2004,3.37,2.58,1.33,4.11
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2004,'0.01,'0.77,'0.32,1.66
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2004,6.32,5.7,5.75,6.57
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,2004,NA,2.83,NA,NA
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2004,4.99,5.39,5.22,6.04
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2004,5.36,5.16,NA,6.16
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2004,1.35,1.8,1.35,2.96
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2004,2.03,1.8,1.56,3.54
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2004,'0.84,1.3,'0.9,3.4
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2004,3.37,2.27,2.27,4.33
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2004,2.66,1.84,1.94,2.66
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,2004,1.61,6.5,4.7,6.35
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2004,1.93,2.54,2.06,3.81
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2004,1.35,2.41,2.22,2.61
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2004,1.77,2.78,2.08,4.09
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2004,NA,2.16,2.11,3.54
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2004,NA,3.17,3.17,3.9
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2004,NA,NA,NA,3.69
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2004,NA,1.64,1.19,2.38
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2004,4.94,5.1,4.85,5.15
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,2004,4.84,4.3,4.35,5.34
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2003,1.13,3.13,'0.73,3.91
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,2003,3.45,5.12,3.6,5.61
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2003,NA,4.34,2.58,5.22
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2003,'0.8,2.07,1.72,2.85
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2003,2.1,3.28,3.25,4.36
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2003,3.95,4.76,2.4,5.44
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2003,11.5,4.03,1.93,5.4
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2003,6.1,'0.79,1.26,2.39
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2003,6.9,6.9,5.75,7.39
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,2003,5.18,3.15,2.13,3.8
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2003,4.54,5.61,5.64,5.79
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2003,5.56,6.35,4.89,6.86
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2003,6.1,2.01,1.5,3.09
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2003,2.1,3.28,1.53,5.06
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2003,'0.5,NA,1.15,3.89
+UP,Hardoi,Sandi,Sandi,27.28833333,79.96333333,Sandi1,"Dug Well",W15720,2003,7.5,NA,NA,NA
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2003,8.8,3.88,2.17,5.16
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2003,2.19,2.95,1.04,4.28
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,2003,7.2,7.38,2.6,7.35
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2003,4.96,3.05,2.39,4.16
+UP,Hardoi,Sursa,Sursa,27.32194444,80.19027778,"Palpur chauraha","Dug Well",W15726,2003,9.51,NA,NA,4.11
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2003,1.36,3.09,2.36,3.38
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2003,2.28,3.85,2.58,4.68
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2003,NA,2.42,1.76,3.86
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2003,3.02,4.32,2.97,4.88
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2003,NA,3.97,NA,4.27
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2003,5.1,1.56,1.59,2.48
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2003,8.17,6.09,5.1,7.17
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2003,13.9,13.8,13.3,NA
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2002,3.52,3.55,3.29,3.98
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,2002,7.43,NA,6.8,7.35
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2002,3.04,3.3,2.96,4.04
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2002,3.78,3.47,3.61,4.28
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2002,3.54,3.36,2.26,4.33
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2002,4.66,4.59,4.08,4.92
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2002,4.99,3.98,5.2,4.25
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2002,NA,2.13,NA,2.13
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2002,6.08,5.87,6.25,6.17
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2002,13.56,13.26,14,13.63
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2002,3.61,2.66,2.63,3.17
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,2002,5.71,5.32,4.92,5.77
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2002,3.47,3.95,4.1,5.13
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2002,1.62,2.08,1.78,2.98
+UP,Hardoi,Ahrori,Ahrori,27.22916667,80.29444444,Baghauli,"Dug Well",W14981,2002,NA,NA,NA,4.07
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2002,2.6,4.07,3.5,4.14
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2002,5.23,4.62,4.56,4.96
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2002,4.73,4.96,5.09,5.68
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2002,'0.93,'0.59,1.03,2.89
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2002,7.22,6.18,7.05,6.8
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,2002,3.21,3.68,3.09,4.05
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2002,5.87,5.61,5.59,5.99
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2002,7.04,6.28,6.26,6.86
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2002,2.19,2.66,2.06,3.1
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2002,5.68,4.59,4.1,4.85
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2002,3.59,2.41,3.83,3.54
+UP,Hardoi,Sandi,Sandi,27.28833333,79.96333333,Sandi1,"Dug Well",W15720,2002,NA,5.63,NA,5.95
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2002,5.2,4.31,3.72,5.17
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2002,3.67,3.95,2.59,5.09
+UP,Hardoi,Sursa,Sursa,27.32194444,80.19027778,"Palpur chauraha","Dug Well",W15726,2002,4.08,3.81,4.36,4.1
+UP,Hardoi,Sursa,Sursa,27.32194444,80.19027778,"Palpur chauraha","Dug Well",W15726,2001,3.13,NA,3.46,4.1
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2001,2.06,NA,2.91,3.76
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2001,2.5,NA,3.18,3.98
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2001,1.99,NA,2.88,NA
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2001,4.58,NA,4.24,NA
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,2001,3.49,NA,3.76,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2001,'0.56,NA,1.56,3.1
+UP,Hardoi,Kothwan,Kothwan,27.32777778,80.42777778,Pratapnagar,"Dug Well",W15715,2001,9.66,NA,NA,9.89
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2001,4.89,NA,5.72,5.65
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2001,13.2,NA,13.24,13.38
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2001,'0.65,NA,2.2,3.28
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,2001,4.53,NA,4.99,5.68
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2001,2.33,NA,3.35,NA
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2001,'0.05,NA,1.89,3.02
+UP,Hardoi,Ahrori,Ahrori,27.22916667,80.29444444,Baghauli,"Dug Well",W14981,2001,NA,NA,2.62,4.15
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2001,3,NA,3.32,NA
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2001,3.67,NA,4.22,4.87
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2001,3.69,NA,4.44,5.43
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2001,NA,NA,'0.83,1.43
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2001,6.03,NA,5.94,6.35
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,2001,2.04,NA,3.21,3.76
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2001,3.01,NA,5.46,6.09
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2001,5.94,NA,5.96,6.84
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2001,1.14,NA,1.66,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2001,3.73,NA,4.38,4.93
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2001,'0.74,NA,1.48,3.86
+UP,Hardoi,Sandi,Sandi,27.28833333,79.96333333,Sandi1,"Dug Well",W15720,2001,5.34,NA,5.53,5.9
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2001,3.74,NA,3.92,4.92
+UP,Hardoi,Sandila,Sandila,27.08388889,80.46111111,"Muran nagar","Dug Well",W15722,2001,NA,NA,NA,5.13
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2001,3.18,NA,3.47,5.17
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2001,1.93,NA,3.03,3.95
+UP,Hardoi,Sursa,Sursa,27.32194444,80.19027778,"Palpur chauraha","Dug Well",W15726,2000,2.55,4.38,3.02,3.8
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,2000,1.53,NA,2.85,3.33
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,2000,1.78,4.68,2.88,5.75
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,2000,2.86,4.06,3.8,3.96
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,2000,NA,NA,NA,4.5
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,2000,'0.6,NA,1.6,1.6
+UP,Hardoi,Kothwan,Kothwan,27.32777778,80.42777778,Pratapnagar,"Dug Well",W15715,2000,9.24,6.62,9.34,9.64
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,2000,5.05,NA,5.15,3.65
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,2000,13.2,13.6,12.9,13.75
+UP,Hardoi,Madhoganj,Madhoganj,27.15416667,80.19388889,Barbatapur,"Dug Well",W14994,2000,NA,3.25,NA,NA
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,2000,NA,3.44,1.53,4.53
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,2000,'0.36,4.98,1.29,5.43
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,2000,2.31,NA,3.06,3.74
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,2000,1.05,NA,1.63,2.42
+UP,Hardoi,Ahrori,Ahrori,27.22916667,80.29444444,Baghauli,"Dug Well",W14981,2000,1.52,3.54,2.37,3.97
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,2000,NA,4.86,3.35,3.95
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,2000,2.95,5.08,3.95,4.4
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,2000,3.28,4.61,4.03,4.73
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,2000,NA,3.45,NA,NA
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,2000,4.98,6.08,NA,6.3
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,2000,NA,NA,2.87,3.23
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,2000,5.14,NA,NA,6.04
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,2000,5.61,4.23,5.81,6.38
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,2000,1.28,2.12,2.34,3.26
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,2000,3.45,4.46,4.07,3.85
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,2000,'0.75,NA,1.21,3.61
+UP,Hardoi,Sandi,Sandi,27.28833333,79.96333333,Sandi1,"Dug Well",W15720,2000,5.25,5.52,5.25,6.11
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,2000,NA,3.84,NA,NA
+UP,Hardoi,Sandila,Sandila,27.08388889,80.46111111,"Muran nagar","Dug Well",W15722,2000,NA,3.72,3.6,NA
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,2000,3.09,4.69,3.24,3.74
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,2000,NA,4.17,NA,NA
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,2000,1.41,3.45,2.29,3.3
+UP,Hardoi,Kothwan,Kothwan,27.32777778,80.42777778,Pratapnagar,"Dug Well",W15715,1999,9.74,9.34,4.34,9.59
+UP,Hardoi,Harpalpur,Harpalpur,27.32333333,79.83666667,Iknaura1,"Dug Well",W14990,1999,4.45,3.8,NA,NA
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,1999,13.3,11.6,14.18,13.2
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,1999,1.95,1.42,3.03,3.26
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,1999,4.55,2,2.7,4.42
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,1999,1.91,2.35,1.62,4.21
+UP,Hardoi,Sandi,Sandi,27.28833333,79.96333333,Sandi1,"Dug Well",W15720,1999,5.53,4.8,3.78,5.4
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,1999,4.02,2.32,2.11,4.39
+UP,Hardoi,Sandila,Sandila,27.08388889,80.46111111,"Muran nagar","Dug Well",W15722,1999,NA,2.62,2.27,4.73
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,1999,3.5,4.69,3.39,3.91
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,1999,3.15,2.8,2.72,3.67
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,1999,3.05,2.65,2.78,3.75
+UP,Hardoi,Sursa,Sursa,27.32194444,80.19027778,"Palpur chauraha","Dug Well",W15726,1999,3.25,2.65,2.12,3.85
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,1999,1.3,2.76,3.07,3.32
+UP,Hardoi,Tadiyawan,Tadiyawan,27.43638889,80.24222222,Tandiaon,"Dug Well",W15728,1999,2.03,2.29,3.78,3.38
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,1999,1.78,2.63,3.5,3.78
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,1999,3.81,1.86,2.74,3.71
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,1999,4.18,3.63,NA,4.78
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,1999,1.03,1.12,NA,2.25
+UP,Hardoi,Madhoganj,Madhoganj,27.15416667,80.19388889,Barbatapur,"Dug Well",W14994,1999,'0.56,1.46,2.97,2.46
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,1999,1.68,2.18,2.1,NA
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,1999,5.6,5,4.58,5.28
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,1999,3.09,2.31,NA,4.12
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,1999,1.46,1.8,NA,3.35
+UP,Hardoi,Ahrori,Ahrori,27.22916667,80.29444444,Baghauli,"Dug Well",W14981,1999,2.77,2.32,2.07,3.91
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,1999,2.77,3.25,4.93,4.15
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,1999,3.95,2.55,2.51,4.05
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,1999,4.58,2.63,3.34,4.63
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,1999,NA,1.38,2.1,1.93
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,1999,5.92,4.6,3.91,5.75
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,1999,2.25,3.28,NA,3.88
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,1999,5.34,5.4,NA,5.67
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,1999,5.91,5.22,2.67,6.36
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,1999,5.33,4.97,NA,5.25
+UP,Hardoi,Kothwan,Kothwan,27.32777778,80.42777778,Pratapnagar,"Dug Well",W15715,1998,3.71,9.5,7.69,5.77
+UP,Hardoi,Kachhauna,Kachhauna,27.07638889,80.28472222,Ghausganj,"Dug Well",W14991,1998,2.17,2.77,2.75,2.75
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,1998,NA,5.1,5.05,5.95
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,1998,9.1,13.31,13.07,13.48
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,1998,1.26,1.66,2.21,2.58
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,1998,'0.8,2.32,1.4,3.8
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,1998,'0.81,1.23,1.36,2.7
+UP,Hardoi,Sandi,Sandi,27.28833333,79.96333333,Sandi1,"Dug Well",W15720,1998,NA,5.84,4.95,6.15
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,1998,1.17,1.67,2.37,3.42
+UP,Hardoi,Sandila,Sandila,27.08388889,80.46111111,"Muran nagar","Dug Well",W15722,1998,1.52,2.18,1.97,3.21
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,1998,NA,3.54,2.14,4.1
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,1998,1.91,3.82,2.15,3.97
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,1998,2.45,2.25,2.37,4.26
+UP,Hardoi,Sursa,Sursa,27.32194444,80.19027778,"Palpur chauraha","Dug Well",W15726,1998,1.75,2.71,2.4,3.45
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,1998,2.86,2.41,1.36,5.64
+UP,Hardoi,Tadiyawan,Tadiyawan,27.43638889,80.24222222,Tandiaon,"Dug Well",W15728,1998,2.08,2.24,1.58,2.96
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,1998,NA,2.68,1.98,3.96
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,1998,NA,1.66,2.43,3.06
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,1998,NA,3.96,2.11,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,1998,'0.8,1.35,1.22,1.5
+UP,Hardoi,Madhoganj,Madhoganj,27.15416667,80.19388889,Barbatapur,"Dug Well",W14994,1998,1.06,1.06,1.26,1.91
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,1998,1.67,1.7,4.63,3.6
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,1998,4.3,4.73,4.7,5.32
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,1998,NA,2.04,2.09,3.31
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,1998,NA,1.27,NA,NA
+UP,Hardoi,Ahrori,Ahrori,27.22916667,80.29444444,Baghauli,"Dug Well",W14981,1998,'0.97,1.91,1.83,3.2
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,1998,2.7,3.56,3.4,3.98
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,1998,1.65,2.8,1.35,3.92
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,1998,'0.93,2.58,2.58,4
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,1998,NA,'0.93,'0.83,1.12
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,1998,3.85,4.35,4.2,5.45
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,1998,NA,2.97,1.68,NA
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,1998,NA,5.81,4.59,3.17
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,1998,'0.94,5.35,4.96,2.55
+UP,Hardoi,Harpalpur,Harpalpur,27.32333333,79.83666667,Iknaura1,"Dug Well",W14990,1998,NA,9.4,NA,9.4
+UP,Hardoi,Madhoganj,Madhoganj,27.12222222,80.15694444,Madhoganj,"Dug Well",W15716,1998,'0.07,'0.52,'0.72,1.56
+UP,Hardoi,Kothwan,Kothwan,27.32777778,80.42777778,Pratapnagar,"Dug Well",W15715,1997,9.49,9.39,8.95,9.79
+UP,Hardoi,Madhoganj,Madhoganj,27.12222222,80.15694444,Madhoganj,"Dug Well",W15716,1997,'0.64,1.08,'0.81,1.2
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,1997,4.97,6.2,5.03,6
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,1997,13.61,12.95,13.37,13.85
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,1997,2.07,2.45,2.37,4.75
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,1997,1.02,1.72,'0.98,4.06
+UP,Hardoi,Sandi,Sandi,27.28833333,79.96333333,Sandi1,"Dug Well",W15720,1997,5.8,5.82,NA,6.19
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,1997,1.53,2.73,1.61,4.62
+UP,Hardoi,Sandila,Sandila,27.08388889,80.46111111,"Muran nagar","Dug Well",W15722,1997,2.07,NA,2.41,5.04
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,1997,3.32,3.29,3.69,5.12
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,1997,3.38,9.75,2.58,4.7
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,1997,1.49,1.57,1.88,3.75
+UP,Hardoi,Sursa,Sursa,27.32194444,80.19027778,"Palpur chauraha","Dug Well",W15726,1997,2.7,3.07,2.54,3.97
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,1997,1.68,2.74,NA,3.74
+UP,Hardoi,Tadiyawan,Tadiyawan,27.43638889,80.24222222,Tandiaon,"Dug Well",W15728,1997,1.42,2.18,1.53,3.53
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,1997,1.23,2.99,1.97,4.18
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,1997,1.02,2.29,1.15,3.93
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,1997,3.3,3.89,NA,4.52
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,1997,NA,3.15,2.75,3.91
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,1997,'0.35,NA,'0.99,2.16
+UP,Hardoi,Madhoganj,Madhoganj,27.15416667,80.19388889,Barbatapur,"Dug Well",W14994,1997,'0.36,1.55,NA,2.84
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,1997,NA,NA,'0.26,3.13
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,1997,5.05,5.08,4.44,5.58
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,1997,NA,2.89,1.93,4.14
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,1997,NA,NA,NA,3.05
+UP,Hardoi,Ahrori,Ahrori,27.22916667,80.29444444,Baghauli,"Dug Well",W14981,1997,'0.79,7.5,3.06,4.01
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,1997,1.91,3.41,2.87,4.65
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,1997,3.08,8.95,2.75,4.7
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,1997,3.38,3.96,2.98,5.43
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,1997,'0.28,1.47,'0.75,2.06
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,1997,5.39,5.4,4.88,6.65
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,1997,1.77,3.28,2.58,3.93
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,1997,5.11,NA,3.71,5.99
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,1997,5.38,5.78,5.08,6.61
+UP,Hardoi,Harpalpur,Harpalpur,27.32333333,79.83666667,Iknaura1,"Dug Well",W14990,1997,9.4,NA,NA,7.05
+UP,Hardoi,Kachhauna,Kachhauna,27.07638889,80.28472222,Ghausganj,"Dug Well",W14991,1997,3.62,3.89,8.88,NA
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,1997,1.09,2.08,NA,3.49
+UP,Hardoi,Kothwan,Kothwan,27.32777778,80.42777778,Pratapnagar,"Dug Well",W15715,1996,NA,9.99,9.23,10.12
+UP,Hardoi,Kachhauna,Kachhauna,27.0825,80.36194444,Jayantnagar,"Dug Well",W14992,1996,NA,2.71,1.91,3.69
+UP,Hardoi,Madhoganj,Madhoganj,27.13611111,80.09027778,Sadarpur,"Dug Well",W15717,1996,NA,6.12,5.61,6.35
+UP,Hardoi,Mallawan,Mallawan,27.04166667,80.15,Mallawan,"Dug Well",W15718,1996,NA,NA,13.08,13.6
+UP,Hardoi,Kachhauna,Kachhauna,27.15833333,80.34166667,Kachauna,"Dug Well",W14993,1996,NA,4.07,1.92,5.15
+UP,Hardoi,Pihani,Pihani,27.625,80.19444444,Pihani,"Dug Well",W15719,1996,NA,2.76,1.16,4.06
+UP,Hardoi,Sandi,Sandi,27.28833333,79.96333333,Sandi1,"Dug Well",W15720,1996,NA,NA,5.55,7.17
+UP,Hardoi,Sandila,Sandila,27.11194444,80.57888889,Mohammadpur,"Dug Well",W15721,1996,NA,NA,2.02,4.06
+UP,Hardoi,Sandila,Sandila,27.08388889,80.46111111,"Muran nagar","Dug Well",W15722,1996,NA,3.52,2.82,4.94
+UP,Hardoi,Sandila,Sandila,27.0625,80.50833333,Sandila,"Dug Well",W15723,1996,NA,4.74,2.97,6.44
+UP,Hardoi,Shahabad,Shahabad,27.65833333,79.9375,Shahabad2,"Dug Well",W15724,1996,NA,9.75,3.7,5.9
+UP,Hardoi,Sursa,Sursa,27.26944444,80.075,Manjila,"Dug Well",W15725,1996,NA,2.84,2.27,3.17
+UP,Hardoi,Sursa,Sursa,27.32194444,80.19027778,"Palpur chauraha","Dug Well",W15726,1996,NA,3.82,2.7,4.25
+UP,Hardoi,Sursa,Sandi,27.34222222,80.03777778,Rasulpur,"Dug Well",W15727,1996,NA,3.02,1.91,3.46
+UP,Hardoi,Tadiyawan,Tadiyawan,27.43638889,80.24222222,Tandiaon,"Dug Well",W15728,1996,NA,2.66,2.03,3.48
+UP,Hardoi,Ahrori,Ahrori,27.375,80.34111111,Sahabadpur,"Dug Well",W15710,1996,NA,3.29,2.63,4.03
+UP,Hardoi,Behadar,Behadar,27.01777778,80.41111111,Quasimpur,"Dug Well",W15711,1996,NA,2.88,2.06,4.18
+UP,Hardoi,Bharkhani,Bharkhani,27.53333333,79.84916667,Pali,"Dug Well",W15712,1996,NA,4.83,3.53,5.23
+UP,Hardoi,Bharkhani,Bharkhani,27.65888889,79.76527778,"Panch deora","Dug Well",W15713,1996,NA,4.78,3.28,4.73
+UP,Hardoi,Kachhauna,Kachhauna,27.19305556,80.29166667,Marhia,"Dug Well",W15714,1996,NA,2.09,1.29,2.64
+UP,Hardoi,Pihani,Pihani,27.76111111,80.20138889,"Del panderwa","Dug Well",W14995,1996,NA,NA,2.23,3.57
+UP,Hardoi,Pihani,Pihani,27.74083333,80.25972222,"Gomti_west bank","Dug Well",W14996,1996,NA,5.12,4.85,5.47
+UP,Hardoi,Tadiyawan,Hariyawan,27.4875,80.15472222,Barganwar,"Dug Well",W14997,1996,NA,3.94,2.44,4.84
+UP,Hardoi,Tadiyawan,Tadiyawan,27.39666667,80.275,Bhadaial,"Dug Well",W14998,1996,NA,NA,2.06,2.75
+UP,Hardoi,Ahrori,Ahrori,27.22916667,80.29444444,Baghauli,"Dug Well",W14981,1996,NA,2.75,2.21,3.91
+UP,Hardoi,Bawan,Bawan,27.50972222,80.02083333,"Gokul behta","Dug Well",W14982,1996,NA,3.72,3.27,4.18
+UP,Hardoi,Bawan,Bawan,27.38333333,80.12916667,Hardoi2,"Dug Well",W14983,1996,NA,4.61,3.11,4.91
+UP,Hardoi,Behadar,Behadar,27.11944444,80.42138889,"Dalel nagar rly","Dug Well",W14984,1996,NA,5.21,3.68,5.98
+UP,Hardoi,Behadar,Behadar,27.07138889,80.41694444,Gangau,"Dug Well",W14985,1996,NA,1.82,1.34,1.87
+UP,Hardoi,Bharawan,Bharawan,27.16944444,80.67194444,Atrauli1,"Dug Well",W14986,1996,NA,NA,5.48,7.26
+UP,Hardoi,Bilgram,Bilgram,27.10638889,79.99555556,Chibramau,"Dug Well",W14987,1996,NA,3.57,2.93,3.67
+UP,Hardoi,Hariyawan,Hariyawan,27.63888889,80.28444444,Dhobia,"Dug Well",W14988,1996,NA,NA,NA,6.16
+UP,Hardoi,Hariyawan,Hariyawan,27.53194444,80.28611111,Gopamau,"Dug Well",W14989,1996,NA,6.46,5.37,7.03
+UP,Hardoi,Harpalpur,Harpalpur,27.32333333,79.83666667,Iknaura1,"Dug Well",W14990,1996,NA,7.34,NA,7.3
+UP,Hardoi,Kachhauna,Kachhauna,27.07638889,80.28472222,Ghausganj,"Dug Well",W14991,1996,NA,3.94,3.44,4.64
+UP,Hardoi,Madhoganj,Madhoganj,27.12222222,80.15694444,Madhoganj,"Dug Well",W15716,1996,NA,NA,'0.61,1.21

@@ -1,0 +1,277 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+JK,Udhampur,Udhampur,Jammu,32.89666667,75.02388889,"Eastern Mand","Dug Well",W22642,2018,NA,3.13,3.76,NA
+JK,Udhampur,UDHAMPURR,Udhampurr,32.94666667,75.12333333,Jhakkar,"Dug Well",W33358,2018,NA,7.15,4.5,NA
+JK,Udhampur,Udhampur,Udhampurr,32.83583333,75.27083333,"Nagrota Panjgrain","Dug Well",W22335,2018,NA,1.88,1.53,NA
+JK,Udhampur,Udhampur,Udhampurr,32.85027778,75.18194444,Kuperlah,"Dug Well",W22334,2018,NA,3.51,2.15,NA
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2018,NA,5.55,5.2,NA
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2018,NA,4.91,3.43,NA
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2018,NA,'0.66,1.82,NA
+JK,Udhampur,Udhampur,Udhampurr,32.91305556,75.03833333,"Seen Thakaran","Dug Well",W22313,2018,NA,3.23,3.08,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.67944444,75.2425,Sunal,"Dug Well",W22647,2018,NA,2.26,1.73,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2018,NA,2,4.1,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2018,NA,4.95,5.36,NA
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2018,1,2.63,NA,NA
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2018,2.8,6.9,NA,NA
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2018,NA,2.4,NA,NA
+JK,Udhampur,Udhampurr,Udhampurr,32.84166667,75.16333333,Ritti,"Dug Well",W30810,2018,NA,1.1,2,NA
+JK,Udhampur,Udhampurr,Udhampurr,32.90888889,75.09138889,"Kotli Pain Megaini","Dug Well",W30818,2018,NA,'0.95,1.24,NA
+JK,Udhampur,RAMNAGAR,Ramnagar,32.81916667,75.3125,Dalsar,"Dug Well",W33352,2018,NA,'0.54,'0.8,NA
+JK,Udhampur,REASI,Reasi,32.96277778,75.00722222,"Dhanu Kannal","Dug Well",W33359,2018,NA,1.45,'0.9,NA
+JK,Udhampur,RAMNAGAR,Udhampurr,32.79583333,75.23166667,Jallow,"Dug Well",W33351,2018,NA,1.4,1.95,NA
+JK,Udhampur,UDHAMPURR,Udhampurr,32.83583333,75.27055556,Talpad,"Dug Well",W33355,2018,NA,1.36,1,NA
+JK,Udhampur,UDHAMPURR,Udhampurr,32.915,75.10888889,Birmah,"Dug Well",W33356,2018,NA,2.78,3.34,NA
+JK,Udhampur,UDHAMPURR,Udhampurr,32.91527778,75.10888889,"Rakh Badali","Dug Well",W33357,2018,NA,3.39,4.15,NA
+JK,Udhampur,Udhampur,Reasi,32.94444444,75.03472222,Badola,"Dug Well",W22312,2018,NA,2.63,2.44,NA
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2017,2.04,2.35,2.42,2.84
+JK,Udhampur,UDHAMPURR,Udhampurr,32.94666667,75.12333333,Jhakkar,"Dug Well",W33358,2017,1.7,5.25,4.95,7.09
+JK,Udhampur,Udhampur,Jammu,32.89666667,75.02388889,"Eastern Mand","Dug Well",W22642,2017,1.5,2,2.88,6.12
+JK,Udhampur,Udhampur,Reasi,32.94444444,75.03472222,Badola,"Dug Well",W22312,2017,2.1,3,2.52,5.19
+JK,Udhampur,Udhampur,Udhampurr,32.83583333,75.27083333,"Nagrota Panjgrain","Dug Well",W22335,2017,1.45,2,1.65,1.95
+JK,Udhampur,Udhampur,Udhampurr,32.85027778,75.18194444,Kuperlah,"Dug Well",W22334,2017,'0.34,3.32,2.63,3.45
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2017,2.7,6.1,3.43,5.2
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2017,1.15,4.4,2.43,5.3
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2017,1.1,'0.9,1.3,1.9
+JK,Udhampur,Udhampur,Udhampurr,32.91305556,75.03833333,"Seen Thakaran","Dug Well",W22313,2017,2.45,3.1,2.33,3.53
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2017,3.2,6.2,6.06,7.94
+JK,Udhampur,Ramnagar,Ramnagar,32.67944444,75.2425,Sunal,"Dug Well",W22647,2017,'0.75,2.93,2.1,3.44
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2017,'0.4,3.65,4.83,2.3
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2017,2.95,5.25,5.25,4.99
+JK,Udhampur,Udhampurr,Udhampurr,32.84166667,75.16333333,Ritti,"Dug Well",W30810,2017,'0.15,1.45,1.22,2.3
+JK,Udhampur,Udhampurr,Udhampurr,32.90888889,75.09138889,"Kotli Pain Megaini","Dug Well",W30818,2017,'0.73,1.01,'0.95,1.27
+JK,Udhampur,RAMNAGAR,Ramnagar,32.81916667,75.3125,Dalsar,"Dug Well",W33352,2017,'0.3,1.2,'0.53,1.08
+JK,Udhampur,REASI,Reasi,32.96277778,75.00722222,"Dhanu Kannal","Dug Well",W33359,2017,1.12,1.18,'0.89,1.72
+JK,Udhampur,RAMNAGAR,Udhampurr,32.79583333,75.23166667,Jallow,"Dug Well",W33351,2017,'0.32,3.4,1.24,2.94
+JK,Udhampur,UDHAMPURR,Udhampurr,32.83583333,75.27055556,Talpad,"Dug Well",W33355,2017,'0.4,2.3,1.3,2.46
+JK,Udhampur,UDHAMPURR,Udhampurr,32.915,75.10888889,Birmah,"Dug Well",W33356,2017,1.8,3.3,2.76,3.77
+JK,Udhampur,UDHAMPURR,Udhampurr,32.91527778,75.10888889,"Rakh Badali","Dug Well",W33357,2017,1.95,2,3.68,4.35
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2017,'0.7,3.5,3.23,3.8
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2016,3.43,NA,5.3,5.4
+JK,Udhampur,REASI,Reasi,32.96277778,75.00722222,"Dhanu Kannal","Dug Well",W33359,2016,'0.4,NA,'0.84,NA
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2016,1.28,NA,5.9,7.1
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2016,NA,NA,'0.6,6.25
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2016,2.86,NA,4.5,6
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2016,'0.68,NA,'0.7,1.9
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2016,1.25,NA,2.6,7.05
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2016,2.05,NA,2.43,3.2
+JK,Udhampur,Udhampur,Reasi,32.94444444,75.03472222,Badola,"Dug Well",W22312,2016,3.65,NA,2.35,3.6
+JK,Udhampur,Udhampur,Udhampurr,32.91305556,75.03833333,"Seen Thakaran","Dug Well",W22313,2016,3,NA,3.05,3.4
+JK,Udhampur,Udhampur,Udhampurr,32.85027778,75.18194444,Kuperlah,"Dug Well",W22334,2016,'0.49,NA,1.94,3.69
+JK,Udhampur,Udhampur,Udhampurr,32.83583333,75.27083333,"Nagrota Panjgrain","Dug Well",W22335,2016,1.48,NA,1.73,1.95
+JK,Udhampur,Udhampur,Jammu,32.89666667,75.02388889,"Eastern Mand","Dug Well",W22642,2016,1.1,NA,5.6,6.43
+JK,Udhampur,Udhampur,Udhampurr,32.85944444,75.19861111,Talpad,"Dug Well",W22643,2016,NA,NA,NA,2.23
+JK,Udhampur,Ramnagar,Ramnagar,32.67944444,75.2425,Sunal,"Dug Well",W22647,2016,'0.8,NA,1.8,5.6
+JK,Udhampur,Ramnagar,Udhampurr,32.79555556,75.23166667,Jallow,"Dug Well",W30803,2016,NA,3.67,NA,3.8
+JK,Udhampur,Ramnagar,Ramnagar,32.81888889,75.3125,Dalsar,"Dug Well",W30806,2016,NA,'0.54,NA,1.07
+JK,Udhampur,Udhampurr,Udhampurr,32.84166667,75.16333333,Ritti,"Dug Well",W30810,2016,'0.49,'0.78,1.25,1.58
+JK,Udhampur,Udhampurr,Udhampurr,32.90888889,75.09138889,"Kotli Pain Megaini","Dug Well",W30818,2016,'0.88,'0.93,'0.95,1.55
+JK,Udhampur,Udhampurr,Udhampurr,32.91472222,75.10888889,Birmah,"Dug Well",W30820,2016,NA,1.95,NA,3.1
+JK,Udhampur,Udhampurr,Udhampurr,32.94638889,75.12333333,Jhakkar,"Dug Well",W30822,2016,NA,4.52,NA,5.48
+JK,Udhampur,RAMNAGAR,Udhampurr,32.79583333,75.23166667,Jallow,"Dug Well",W33351,2016,'0.13,NA,1.7,NA
+JK,Udhampur,RAMNAGAR,Ramnagar,32.81916667,75.3125,Dalsar,"Dug Well",W33352,2016,'0.34,NA,'0.9,NA
+JK,Udhampur,UDHAMPURR,Udhampurr,32.83583333,75.27055556,Talpad,"Dug Well",W33355,2016,'0.68,NA,1.45,NA
+JK,Udhampur,UDHAMPURR,Udhampurr,32.915,75.10888889,Birmah,"Dug Well",W33356,2016,2,NA,2.5,NA
+JK,Udhampur,UDHAMPURR,Udhampurr,32.91527778,75.10888889,"Rakh Badali","Dug Well",W33357,2016,2.34,NA,3.2,NA
+JK,Udhampur,UDHAMPURR,Udhampurr,32.94666667,75.12333333,Jhakkar,"Dug Well",W33358,2016,1.6,NA,4.75,NA
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2016,'0.33,NA,2.78,1.38
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2015,4.4,5.16,5.42,5.03
+JK,Udhampur,Udhampurr,Udhampurr,32.94638889,75.12333333,Jhakkar,"Dug Well",W30822,2015,'0.6,5.01,4.56,3.74
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2015,'0.85,6.34,5.18,5.72
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2015,'0.9,4.43,5.67,'0.76
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2015,2.06,5.9,12.2,7.78
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2015,1.67,'0.45,1.22,1.08
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2015,1.8,2.15,3.49,1.63
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2015,2.2,2.56,NA,2.62
+JK,Udhampur,Udhampur,Reasi,32.94444444,75.03472222,Badola,"Dug Well",W22312,2015,1.52,2.32,3.34,2.3
+JK,Udhampur,Udhampur,Udhampurr,32.91305556,75.03833333,"Seen Thakaran","Dug Well",W22313,2015,2.4,3.05,2.97,1.82
+JK,Udhampur,Udhampur,Udhampurr,32.85027778,75.18194444,Kuperlah,"Dug Well",W22334,2015,'0.99,3.4,3,1.4
+JK,Udhampur,Udhampur,Udhampurr,32.83583333,75.27083333,"Nagrota Panjgrain","Dug Well",W22335,2015,1.38,1.82,1.51,1.93
+JK,Udhampur,Udhampur,Jammu,32.89666667,75.02388889,"Eastern Mand","Dug Well",W22642,2015,1.07,4.8,2.08,1.1
+JK,Udhampur,Udhampur,Udhampurr,32.85944444,75.19861111,Talpad,"Dug Well",W22643,2015,'0.65,1.63,'0.98,1.8
+JK,Udhampur,Ramnagar,Ramnagar,32.67944444,75.2425,Sunal,"Dug Well",W22647,2015,'0.8,3.35,1.9,1.54
+JK,Udhampur,Ramnagar,Udhampurr,32.79555556,75.23166667,Jallow,"Dug Well",W30803,2015,'0.58,1.93,2.31,'0.5
+JK,Udhampur,Ramnagar,Ramnagar,32.81888889,75.3125,Dalsar,"Dug Well",W30806,2015,'0.2,1.25,'0.73,1.34
+JK,Udhampur,Udhampurr,Udhampurr,32.84166667,75.16333333,Ritti,"Dug Well",W30810,2015,'0.5,'0.92,2.02,'0.37
+JK,Udhampur,Udhampurr,Udhampurr,32.90888889,75.09138889,"Kotli Pain Megaini","Dug Well",W30818,2015,'0.7,2.75,1.1,NA
+JK,Udhampur,Udhampurr,Udhampurr,32.91472222,75.10888889,Birmah,"Dug Well",W30820,2015,1.3,2.46,1.1,1.13
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2015,'0.4,'0.95,2.24,2.07
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2014,4.1,3.92,5.05,5
+JK,Udhampur,Udhampurr,Udhampurr,32.94638889,75.12333333,Jhakkar,"Dug Well",W30822,2014,'0.65,NA,4.1,4
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2014,5.3,5.27,5.81,6
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2014,-0.1,'0.25,1.55,'0.45
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2014,9.98,4.76,4.82,3.9
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2014,'0.7,'0.46,NA,'0.85
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2014,3.35,2.32,1.45,2.72
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2014,2.2,2.45,2.54,2.6
+JK,Udhampur,Udhampur,Reasi,32.94444444,75.03472222,Badola,"Dug Well",W22312,2014,1.4,1.71,2.15,3
+JK,Udhampur,Udhampur,Udhampurr,32.91305556,75.03833333,"Seen Thakaran","Dug Well",W22313,2014,1.08,1.85,2.89,1.98
+JK,Udhampur,Udhampur,Udhampurr,32.85027778,75.18194444,Kuperlah,"Dug Well",W22334,2014,'0.74,2.66,2.14,1.63
+JK,Udhampur,Udhampur,Udhampurr,32.83583333,75.27083333,"Nagrota Panjgrain","Dug Well",W22335,2014,1.65,2.1,1.5,1.5
+JK,Udhampur,Udhampur,Jammu,32.89666667,75.02388889,"Eastern Mand","Dug Well",W22642,2014,'0.6,1.97,1.92,2.9
+JK,Udhampur,Udhampur,Udhampurr,32.85944444,75.19861111,Talpad,"Dug Well",W22643,2014,'0.6,'0.78,'0.85,1.05
+JK,Udhampur,Ramnagar,Udhampurr,32.79555556,75.23166667,Jallow,"Dug Well",W30803,2014,'0.8,NA,1.22,'0.9
+JK,Udhampur,Ramnagar,Ramnagar,32.81888889,75.3125,Dalsar,"Dug Well",W30806,2014,'0.3,NA,'0.42,'0.55
+JK,Udhampur,Udhampurr,Udhampurr,32.84166667,75.16333333,Ritti,"Dug Well",W30810,2014,'0.4,NA,'0.23,'0.92
+JK,Udhampur,Udhampurr,Udhampurr,32.90888889,75.09138889,"Kotli Pain Megaini","Dug Well",W30818,2014,'0.75,NA,'0.79,1.05
+JK,Udhampur,Udhampurr,Udhampurr,32.91472222,75.10888889,Birmah,"Dug Well",W30820,2014,2.7,NA,1.92,2.4
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2014,'0.3,1.47,'0.75,1.27
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2013,2.85,5.17,4.55,4.98
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2013,'0.8,1.32,1.1,1.9
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2013,'0.55,6.76,4.9,6.58
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2013,-0.7,1.75,'0.95,1.05
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2013,2.08,5.4,4.53,9.76
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2013,'0.45,'0.21,'0.85,1.15
+JK,Udhampur,Udhampur,Udhampurr,32.85944444,75.19861111,Talpad,"Dug Well",W22643,2013,'0.7,1.42,1.05,1.58
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2013,1.92,2.5,2.35,2.35
+JK,Udhampur,Udhampur,Reasi,32.94444444,75.03472222,Badola,"Dug Well",W22312,2013,1.55,2.25,2,4.5
+JK,Udhampur,Udhampur,Udhampurr,32.91305556,75.03833333,"Seen Thakaran","Dug Well",W22313,2013,1.08,2.13,1.88,2.23
+JK,Udhampur,Udhampur,Udhampurr,32.85027778,75.18194444,Kuperlah,"Dug Well",W22334,2013,NA,3.31,2.09,3.85
+JK,Udhampur,Udhampur,Udhampurr,32.83583333,75.27083333,"Nagrota Panjgrain","Dug Well",W22335,2013,1.4,2.86,2.3,NA
+JK,Udhampur,Udhampur,Jammu,32.89666667,75.02388889,"Eastern Mand","Dug Well",W22642,2013,1.15,5.58,'0.75,2.94
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2013,1.25,2.97,1.85,3.23
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2012,NA,4.8,4.87,4.18
+JK,Udhampur,Ramnagar,Ramnagar,32.67944444,75.2425,Sunal,"Dug Well",W22647,2012,NA,NA,1.43,3.9
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2012,NA,5.58,5.71,6.37
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2012,NA,'0.6,1.89,1.75
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2012,NA,4.67,2.24,9.93
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2012,NA,'0.14,'0.31,'0.67
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2012,NA,5.63,2.09,7.52
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2012,NA,2.66,2.42,3.38
+JK,Udhampur,Udhampur,Reasi,32.94444444,75.03472222,Badola,"Dug Well",W22312,2012,NA,2.88,1.84,2.88
+JK,Udhampur,Udhampur,Udhampurr,32.91305556,75.03833333,"Seen Thakaran","Dug Well",W22313,2012,NA,2.14,1.84,2.12
+JK,Udhampur,Udhampur,Udhampurr,32.85027778,75.18194444,Kuperlah,"Dug Well",W22334,2012,NA,3.71,1.07,3.86
+JK,Udhampur,Udhampur,Udhampurr,32.83583333,75.27083333,"Nagrota Panjgrain","Dug Well",W22335,2012,NA,1.98,NA,NA
+JK,Udhampur,Udhampur,Jammu,32.89666667,75.02388889,"Eastern Mand","Dug Well",W22642,2012,NA,NA,'0.98,5.97
+JK,Udhampur,Udhampur,Udhampurr,32.85944444,75.19861111,Talpad,"Dug Well",W22643,2012,NA,NA,1.64,2.6
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2012,NA,1.66,1.64,2.22
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2011,3.4,4.62,4.55,7.5
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2011,NA,'0.83,1.78,2.3
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2011,1.78,7.3,5.5,7.7
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2011,'0.5,2.93,'0.92,1.3
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2011,2.64,5.32,NA,6.22
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2011,9.61,14.3,9.6,9.95
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2011,'0.36,'0.43,'0.27,1.1
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2011,NA,3.76,3.3,5.8
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2011,NA,2.86,2.41,3.7
+JK,Udhampur,Udhampur,Reasi,32.94444444,75.03472222,Badola,"Dug Well",W22312,2011,1.03,NA,1.82,3.55
+JK,Udhampur,Udhampur,Udhampurr,32.91305556,75.03833333,"Seen Thakaran","Dug Well",W22313,2011,NA,NA,1.91,3.4
+JK,Udhampur,Udhampur,Udhampurr,32.85027778,75.18194444,Kuperlah,"Dug Well",W22334,2011,'0.25,NA,1.79,2.64
+JK,Udhampur,Udhampur,Udhampurr,32.83583333,75.27083333,"Nagrota Panjgrain","Dug Well",W22335,2011,1.52,NA,1.55,1.8
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2010,'0.35,'0.2,'0.4,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2010,'0.45,5.07,1.94,10.75
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2010,2.78,4.72,3.39,6.65
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2010,3.07,11,6.11,10.7
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2010,14.26,NA,14.23,NA
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2010,'0.95,2.78,1.45,5.5
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2010,2.13,NA,2.68,5.86
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2010,NA,2.41,NA,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2010,2.6,7.55,4.86,5.35
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2010,3.67,7.19,4.12,8.42
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2009,4.22,5.94,5.44,8.75
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2009,1.05,1.46,2.03,4.4
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2009,5.46,6.98,8.03,8.2
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2009,1.07,1.66,1.58,3.24
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2009,1.83,1.41,2.33,2.84
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2009,4.39,4.83,5.14,5.11
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2009,3.55,2.73,4.21,3.9
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2009,4.5,4.57,6,15.41
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2009,'0.87,'0.28,'0.23,'0.7
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2008,'0.5,'0.12,'0.14,'0.41
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2008,1.35,1.98,2.17,5.47
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2008,2.4,3.24,2.46,3.75
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2008,3,4.88,4.82,4.98
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2008,1.48,1.88,1.32,1.86
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2008,1.04,2.14,1.51,3.22
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2008,3.05,5.88,6.1,5.82
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2008,NA,2.02,1.28,2.08
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2008,NA,5.78,2.5,8.41
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2008,1.79,2.98,3.23,3.24
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2007,3.15,4.9,3.55,4.65
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2007,1.49,2.08,1.72,1.81
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2007,'0.28,NA,'0.25,1.42
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2007,1.02,1.85,1.78,1.76
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2007,1.03,1.42,1.79,1.93
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2007,1.25,2,1.81,2.16
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2007,2.96,6.4,5.62,7.06
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2007,1.62,3.04,2.79,2.94
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2007,2.35,2.95,2.95,3.47
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2007,1.8,4.47,4.15,5.08
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2006,2,3.65,2.85,4.45
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2006,1.15,1.98,1.66,4.77
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2006,'0.33,'0.12,'0.2,'0.8
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2006,1.02,3.24,2.25,3.55
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2006,1.03,5.82,3.3,2.93
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2006,NA,1.58,1.49,2.04
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2006,'0.92,6.52,5.65,7.03
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2006,1.01,1.85,1.51,5.32
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2006,1.14,'0.62,1.65,2.2
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2006,2.16,4.84,4.7,4.85
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2005,1.51,2.11,1.61,3.03
+JK,Udhampur,Jammu,Jammu,32.86555556,74.99527778,Katcha-Pind,"Dug Well",W18573,2005,2.65,6.13,NA,3.52
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2005,3.75,4.98,4.83,3.6
+JK,Udhampur,Udhampur,Udhampurr,32.89555556,75.13527778,Phangyal,"Dug Well",W18543,2005,2.28,3.61,2.11,3.16
+JK,Udhampur,Udhampur,Udhampurr,32.905,75.0825,Garhi,"Dug Well",W18542,2005,'0.4,1.15,'0.26,1.78
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2005,'0.74,'0.74,1.92,3.38
+JK,Udhampur,Udhampur,Udhampurr,32.87972222,75.12555556,"Battal Ballian","Dug Well",W18541,2005,'0.55,3.95,2.33,3.85
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2005,3.82,6.85,5.94,6.92
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2005,1.65,4.32,3.46,4.78
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2005,1.09,2.35,NA,3.14
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2003,NA,3.1,NA,1.84
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2003,NA,8.87,NA,9.37
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2003,NA,6.57,NA,6.2
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2003,NA,3,NA,3.51
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2003,NA,3.48,NA,3.28
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2003,NA,2.1,NA,2.3
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2002,1.4,6.69,3,NA
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2002,1.62,1.72,2.15,2.45
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2002,3.32,6.75,7.25,10.1
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2002,'0.55,5.05,3.2,3.85
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2002,3.57,2.63,5.4,NA
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2002,1.07,NA,2.35,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2001,'0.52,5.7,3.55,3.93
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2001,'0.2,1.9,2.44,2.35
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2001,3.1,9.9,5.79,8.5
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2001,3.1,5.62,5.05,3.35
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2001,1,3.3,2.4,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2001,1.05,8.7,5.9,8.8
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,2000,'0.21,1.85,3.67,8.85
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,2000,1.43,5.9,5.3,8.97
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,2000,1.05,2.33,2.7,5.24
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,2000,1.26,1.85,1.32,2.27
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,2000,3.3,3.31,5.13,4.72
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,2000,'0.95,6.2,6.76,8.72
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,1999,1.25,1.75,1.63,2.1
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,1999,'0.33,2.45,1.68,2.57
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,1999,1.94,5.35,5.02,8.46
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,1999,1.1,1.65,1.92,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,1999,1.88,6.4,4.68,8.5
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,1999,3.45,2.65,3.14,4.83
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,1998,1.48,NA,4.35,3.38
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,1998,NA,2.78,2.2,5.3
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,1998,'0.67,NA,1.4,6.26
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,1998,2.51,4.01,3.9,5.53
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,1998,1.35,1.49,1.3,2.66
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,1998,'0.53,1.51,1.35,'0.43
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,1997,1.37,2.08,1.27,1.97
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,1997,1.05,5.51,5.06,6.41
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,1997,1.25,6.26,2.7,3.11
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,1997,NA,1.8,1.28,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,1997,NA,3.25,1,1.64
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,1997,NA,5.3,4.81,4.87
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,1996,'0.49,6.51,4.88,8.48
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,1996,'0.36,2.58,5.42,7.1
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,1996,1.14,3.25,1.92,3.38
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,1996,NA,4.75,3.18,4.8
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,1996,1.2,2.03,1.92,3.41
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,1996,1.07,3.05,1.42,1.62
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,1995,3.07,3.44,3.03,5.27
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,1995,'0.99,1.76,1.37,4.22
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,1995,3.62,6.79,8.02,3.62
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,1995,5.04,5.86,5.22,8.73
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,1995,1.09,NA,2.08,2.74
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,1995,2.07,2.02,1.42,7.27
+JK,Udhampur,Billawar,Billawar,32.64166667,75.33611111,Ramkot,"Dug Well",W01724,1994,5.28,6.29,5.02,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.80638889,75.31,Ramnagar,"Dug Well",W01759,1994,3.14,3.33,2.77,NA
+JK,Udhampur,Udhampur,Udhampurr,32.96944444,75.11527778,Krimichi,"Dug Well",W01763,1994,'0.93,1.94,1.34,NA
+JK,Udhampur,Jammu,Jammu,32.87916667,74.95833333,Sugetar,"Dug Well",W01703,1994,1.07,3.54,1.32,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.69,75.22916667,Kiayal,"Dug Well",W01757,1994,3.16,7.18,7.92,NA
+JK,Udhampur,Ramnagar,Ramnagar,32.78138889,75.27277778,Dehari,"Dug Well",W01756,1994,2.17,2,1.38,NA

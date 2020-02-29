@@ -1,0 +1,694 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2018,2.24,12.7,NA,NA
+MP,Betul,Chicholi,Chicholi,22.06777778,77.53361111,Pathakhera,"Dug Well",W27495,2018,1.6,11.6,NA,NA
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2018,26.55,40.58,NA,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2018,7.7,11.35,NA,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2018,7.09,8.91,NA,NA
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2018,12.11,11.01,NA,NA
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2018,1.49,2.05,NA,NA
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2018,10.04,8.89,NA,NA
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2018,3.85,7.49,NA,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2018,10.25,12.1,NA,NA
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2018,5.12,5.69,NA,NA
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2018,3.7,6.34,NA,NA
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2018,4.37,8.5,NA,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2018,6.46,13.53,NA,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2018,7.61,6.64,NA,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2018,'0.3,1.86,NA,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2018,3.91,5.71,NA,NA
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2018,5.45,7.37,NA,NA
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2018,6.37,9.6,NA,NA
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2018,7.05,6.88,NA,NA
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2018,1.27,10,NA,NA
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2018,1.03,5.62,NA,NA
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2018,17.14,11.51,NA,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2018,3.88,8.39,NA,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2018,6.62,7.18,NA,NA
+MP,Betul,Betul,Betul,21.85666667,77.80277778,Khedi,"Dug Well",W27381,2018,NA,11.81,16.3,NA
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2018,4.87,NA,NA,NA
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2018,32.58,NA,NA,NA
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.60277778,78.11777778,"Masod New","Dug Well",W27248,2018,7.78,13.5,NA,NA
+MP,Betul,Athner,Athner,21.63027778,77.94638889,Gujarmaal,"Dug Well",W27267,2018,8.13,6,NA,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.51361111,77.69944444,"Sanwal Medha","Dug Well",W27198,2018,1.91,7.57,NA,NA
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(S),"Bore Well",W27418,2018,5.14,5.86,NA,NA
+MP,Betul,Chicholi,Chicholi,21.91472222,77.74805556,Gadha,"Dug Well",W27414,2018,9.62,6.9,NA,NA
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2018,5.61,19.8,NA,NA
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2017,2,7.86,'0.7,11.02
+MP,Betul,Chicholi,Chicholi,22.06777778,77.53361111,Pathakhera,"Dug Well",W27495,2017,'0.7,9.42,2.5,10.52
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2017,29.5,30.64,28.55,30.02
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2017,8.27,6.72,8.45,8.31
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2017,6.68,12.09,6.85,11.86
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2017,8.2,10.58,7.88,15.23
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2017,1.75,2.13,1.85,2.71
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2017,3.9,8.79,6.15,9.6
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2017,2.54,9.57,2.69,10.53
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2017,8.05,12.37,7.95,12.82
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2017,3.25,6.34,3.44,7.1
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2017,7.66,5.9,4.31,9.78
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2017,'0.68,3.51,'0.61,5.76
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2017,4.3,4.29,4.1,3.9
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2017,6,5.45,6.91,8.45
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2017,6.27,7.65,6.22,8.99
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2017,4.67,4.63,4.3,5.47
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2017,3.1,5.22,5.65,7.65
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2017,1.25,6,5.35,5.93
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2017,12.26,14.13,9.47,38.78
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2017,5.65,3.99,4.65,9.75
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2017,6.9,3.71,4.48,11.92
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2017,NA,4.05,4.35,5.75
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2017,9.22,NA,6.75,9.65
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2017,13.51,12.08,NA,12.98
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.60277778,78.11777778,"Masod New","Dug Well",W27248,2017,6.72,14.95,7.14,13.97
+MP,Betul,Athner,Athner,21.63027778,77.94638889,Gujarmaal,"Dug Well",W27267,2017,3.73,10.54,4.35,13.01
+MP,Betul,Bhainsdehi,Bhainsdehi,21.51361111,77.69944444,"Sanwal Medha","Dug Well",W27198,2017,2.75,3.69,1.95,4.78
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(S),"Bore Well",W27418,2017,5.42,3.65,3.92,5.12
+MP,Betul,Betul,Betul,21.85666667,77.80277778,Khedi,"Dug Well",W27381,2017,9.51,19.08,13.6,15.02
+MP,Betul,Chicholi,Chicholi,21.91472222,77.74805556,Gadha,"Dug Well",W27414,2017,8.7,12.24,7.2,12.82
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2017,4.3,11.15,6.55,15.07
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2016,2.55,3.9,4.62,NA
+MP,Betul,Chicholi,Chicholi,22.06777778,77.53361111,Pathakhera,"Dug Well",W27495,2016,'0.12,9.52,7.07,10.68
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2016,3.68,8.27,7.3,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2016,3.63,4.62,4.3,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2016,24.7,24.7,24.7,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2016,5.75,8.88,7.7,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2016,1.76,4.88,4.09,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2016,'0.31,2.55,'0.48,NA
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2016,6.31,14.54,9.06,NA
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2016,2.2,NA,4.9,8
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2016,13.53,13.53,NA,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2016,3.49,6.32,5.82,NA
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2016,7.23,8.5,8.53,NA
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2016,2.2,8.67,6.1,NA
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2016,2.55,5.38,4.42,NA
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2016,3.82,8.62,5.39,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2016,7.02,8.22,8.8,NA
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2016,'0.9,6.28,4.7,NA
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2016,3.69,4.27,5.65,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2016,4.17,8.27,6.35,NA
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2016,3.1,7.35,5.75,NA
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2016,89.6,89.6,89.6,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2016,6.8,12.36,9.4,NA
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2016,1.3,10.48,5,NA
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2016,5.2,8.85,7.27,NA
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2016,3.19,3.8,4.63,6.45
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2016,'0.85,NA,1.07,2.55
+MP,Betul,Bhainsdehi,Bhainsdehi,21.51361111,77.69944444,"Sanwal Medha","Dug Well",W27198,2016,1.13,2.77,5.57,3.75
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.60277778,78.11777778,"Masod New","Dug Well",W27248,2016,2.57,11.58,6.85,16.6
+MP,Betul,Athner,Athner,21.63027778,77.94638889,Gujarmaal,"Dug Well",W27267,2016,2.76,5.57,4.41,12.5
+MP,Betul,Betul,Betul,21.85666667,77.80277778,Khedi,"Dug Well",W27381,2016,8.77,19.08,9.25,18.9
+MP,Betul,Chicholi,Chicholi,21.91472222,77.74805556,Gadha,"Dug Well",W27414,2016,1.1,12.75,3.93,14.1
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(S),"Bore Well",W27418,2016,3.32,3.36,4.49,5.57
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2016,35.3,39.72,38,NA
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2015,4.37,5.15,4.85,5.28
+MP,Betul,Chicholi,Chicholi,22.06777778,77.53361111,Pathakhera,"Dug Well",W27495,2015,'0.8,7.6,3.84,8.78
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2015,35.65,37.5,38,42.1
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2015,3.35,7.5,6.9,11.64
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2015,NA,19.05,NA,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2015,3.94,6.3,4.6,6.38
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2015,24.7,22.7,24.7,24.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2015,6.2,9.1,7.1,10.1
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2015,2.84,3.46,4.06,6.41
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2015,'0.42,2.54,'0.86,2.16
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2015,8.66,12.16,10.96,13.66
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2015,3.1,6.22,5.42,7.5
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2015,13.53,9.88,13.53,11.28
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2015,4.42,5.42,5.18,7.82
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2015,7.13,8.65,7.38,11.37
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2015,3.75,7.65,4.37,10.05
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2015,3.88,3.9,4.3,5.42
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2015,4.25,5.4,5.61,6.5
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2015,6.35,5.92,7.65,6.65
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2015,1.05,6.75,5.85,4.9
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2015,4.5,5.05,5.45,5.35
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2015,5.92,5.73,6.35,6.33
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2015,4.09,6.02,4.87,6.82
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2015,NA,89.6,89.6,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2015,8.92,9.1,9.6,11.4
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2015,7.9,8.22,8.48,8.7
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2015,6.29,8.57,7.97,9.39
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2015,3.55,6.17,4.45,6.3
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2015,1.05,1.35,1.25,1.9
+MP,Betul,Bhainsdehi,Bhainsdehi,21.51361111,77.69944444,"Sanwal Medha","Dug Well",W27198,2015,1.55,3.31,2.1,2.9
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.60277778,78.11777778,"Masod New","Dug Well",W27248,2015,3.26,13.8,9.39,11.9
+MP,Betul,Athner,Athner,21.63027778,77.94638889,Gujarmaal,"Dug Well",W27267,2015,3.5,NA,4.75,10.8
+MP,Betul,Betul,Betul,21.85666667,77.80277778,Khedi,"Dug Well",W27381,2015,9.85,18.3,13.8,19.8
+MP,Betul,Chicholi,Chicholi,21.91472222,77.74805556,Gadha,"Dug Well",W27414,2015,1.9,NA,6.5,14.9
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(S),"Bore Well",W27418,2015,4.45,5.14,4.54,5.32
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2015,NA,3.43,4.27,8.62
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2014,2.17,NA,3.62,4.58
+MP,Betul,Chicholi,Chicholi,22.06777778,77.53361111,Pathakhera,"Dug Well",W27495,2014,1.12,6.54,4.47,10.4
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2014,31.2,30.53,34.1,28.58
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2014,NA,5.17,4.9,3.93
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2014,5.89,10.65,NA,19.05
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2014,3.6,4.88,5.78,6.01
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2014,16.46,20.7,15.6,21.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2014,4.45,10.63,8.3,10.71
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2014,2.29,5.4,4.32,11.16
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2014,'0.29,2.455,'0.66,9.085
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2014,9.11,11.54,10.26,15.46
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2014,3.26,6.93,4.9,10
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2014,NA,7.15,6.9,13.53
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2014,5.8,6.02,3.9,7.43
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2014,7.29,10.23,7.43,10.87
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2014,2.89,4.89,4.85,9.6
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2014,2.76,5.88,3.5,14.06
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2014,1.05,6.64,4.4,6.35
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2014,6.12,6.22,5.2,6.4
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2014,'0.78,3.32,5.9,4.35
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2014,3.13,6.13,3.63,4.13
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2014,1.27,1.29,4.25,4.69
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2014,1.47,2.66,4.6,5.39
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2014,18.5,79.6,20,89.6
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2014,5.82,10.54,6.76,12.33
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2014,NA,NA,NA,3.65
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2014,1.7,9.74,5.22,5.52
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2014,5.3,6.07,6.37,8.54
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2014,2.89,2.47,4.6,5.9
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2014,'0.93,1.47,1.05,2
+MP,Betul,Bhainsdehi,Bhainsdehi,21.51361111,77.69944444,"Sanwal Medha","Dug Well",W27198,2014,'0.7,1.72,2.27,3.27
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.60277778,78.11777778,"Masod New","Dug Well",W27248,2014,2.94,8.62,9.15,11.34
+MP,Betul,Athner,Athner,21.63027778,77.94638889,Gujarmaal,"Dug Well",W27267,2014,NA,NA,4.7,NA
+MP,Betul,Betul,Betul,21.85666667,77.80277778,Khedi,"Dug Well",W27381,2014,NA,17.45,NA,17.71
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(S),"Bore Well",W27418,2014,2.52,NA,4.12,4.69
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2014,1.29,5.51,2.87,7.95
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2013,'0.53,5.99,3.12,NA
+MP,Betul,Chicholi,Chicholi,22.06777778,77.53361111,Pathakhera,"Dug Well",W27495,2013,'0.2,NA,2.75,7.9
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2013,NA,11.82,8.68,11.6
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2013,1.75,NA,4.63,20
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2013,'0.3,6.94,2.25,4.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2013,5.44,20,12.85,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2013,'0.6,11.44,6.08,11.6
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2013,'0.21,6.11,3.48,10.66
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2013,'0.16,2.885,'0.52,11.28286
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2013,2.09,12.28,9.11,NA
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2013,1.9,7.52,4.48,8
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2013,1.38,10,4.83,13.48
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2013,1.2,3.45,3.65,5.2
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2013,NA,10.45,7.75,9.63
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2013,1.18,10.07,4.83,14.45
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2013,NA,9.55,5.55,8.8
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2013,NA,6.05,2.85,7.4
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2013,5.1,6.32,5.62,6.4
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2013,'0.7,5.705,3.82,4.5
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2013,1.55,3.62,1.93,4.05
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2013,'0.05,2.15,1.7,4.65
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2013,'0.85,9.48,2.25,9.7
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2013,2.65,NA,12.22,NA
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2013,NA,1.22,NA,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2013,1.05,11.82,6.05,13
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2013,NA,8.9,NA,10
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2013,'0.85,11.38,4.12,6.5
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2013,2.07,6.51,5.47,6.87
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2013,1.05,3.7,2.57,3.9
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2013,'0.45,1.47,1.05,1.55
+MP,Betul,Bhainsdehi,Bhainsdehi,21.51361111,77.69944444,"Sanwal Medha","Dug Well",W27198,2013,'0.45,NA,1.75,3.55
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.60277778,78.11777778,"Masod New","Dug Well",W27248,2013,1.6,NA,6.28,9.7
+MP,Betul,Betul,Betul,21.85666667,77.80277778,Khedi,"Dug Well",W27381,2013,'0.82,NA,13.42,17.3
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2013,30.6,30,29.6,30.77
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2012,NA,22,30,40
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2012,NA,1.25,'0.95,2.2
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2012,NA,11.85,4.65,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2012,NA,4.3,2.16,7.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2012,NA,21.2,13.95,40.53
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2012,NA,11.1,9.75,10.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2012,NA,9.76,3.36,11.5
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2012,NA,2.66,'0.51,13.6
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2012,NA,13.56,8.01,16.4
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2012,NA,NA,4.7,7
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2012,NA,NA,4.98,14.55
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2012,NA,5.4,3.45,9.5
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2012,NA,9.03,8.13,11.2
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2012,NA,NA,5,11
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2012,NA,8.8,7.3,12
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2012,NA,6.9,1.91,7.6
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2012,NA,NA,6,6.9
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2012,NA,NA,2.6,NA
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2012,NA,3.85,2.97,5
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2012,NA,1.75,1.83,2
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2012,NA,9.8,2.55,12.2
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2012,NA,29.1,9.1,7.5
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2012,NA,11.1,5.52,11.4
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2012,NA,13.1,8.1,13.5
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2012,NA,14.1,2.9,7
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2012,NA,7.57,5.17,10.4
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2012,NA,4.35,1.85,8.2
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2012,NA,10.2,5.5,NA
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2011,NA,NA,3.85,8.4
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2011,'0.7,2.3,1.4,2.27
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2011,NA,NA,29.64,29.3
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2011,'0.2,11.2,6.2,10.82
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2011,4.15,13,NA,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2011,3.9,5.3,5.45,6.5
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2011,9.37,16,14.84,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2011,4.52,11.2,7.7,14
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2011,3.46,5.36,5.9,11.16
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2011,'0.31,2.06,1.55,13.56
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2011,5.27,11.16,9.1,15.61
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2011,1.88,5.55,2.85,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2011,2.1,NA,NA,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2011,2.7,4.7,3.1,5.35
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2011,4.65,9.53,8.4,11.11
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2011,1.62,8.15,5.3,9.72
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2011,'0.74,4.7,3.95,8.4
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2011,1.3,5.5,4.8,8.42
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2011,'0.98,NA,5.65,7.12
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2011,1.17,4.6,1.2,5.2
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2011,2.76,3.85,3.85,4.67
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2011,1.5,2.45,1.7,3.4
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2011,5.87,NA,6.4,11.92
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2011,4.14,30.5,19.28,NA
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2011,NA,NA,NA,2.02
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2011,2.78,9.5,6.9,12.75
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2011,2.3,NA,NA,9.4
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2011,1.88,2.2,2.3,14.1
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2011,2.63,6.67,5.8,10.1
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2011,1.43,3.45,3.9,7.05
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2011,3.07,4.65,5.05,6.37
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2010,NA,6.68,NA,8.25
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2010,'0.6,1.55,'0.75,2.35
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2010,NA,29.05,NA,27.45
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2010,2.2,4.1,5.2,9.4
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2010,4.5,7.43,4.35,6.4
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2010,NA,16.15,NA,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2010,1.6,9.62,5.2,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2010,2.2,5.16,4.18,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2010,'0.3,'0.79,'0.86,13.06
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2010,NA,11.11,NA,15.36
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2010,2.95,5.53,4.52,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2010,NA,9.88,5.48,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2010,1.4,5.25,3.25,5.3
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2010,3.7,9.68,7.81,10.83
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2010,1.5,9,5.13,9.55
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2010,'0.7,4.88,4.26,9.2
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2010,'0.7,5.05,2.12,9.9
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2010,6.2,6.15,1.42,6.8
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2010,'0.8,4,3.25,NA
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2010,2.1,3.99,3.57,4.45
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2010,1.4,2.5,3.15,2.55
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2010,1.9,7.85,9.36,11.7
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2010,NA,22.32,NA,NA
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2010,NA,NA,'0.5,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2010,'0.6,7.82,5.9,12.1
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2010,1.2,8.26,NA,9.12
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2010,NA,'0.25,4.5,NA
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2010,4.7,6.92,5.82,9.87
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2010,'0.6,4.4,3.17,7.65
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2010,3,7.52,NA,NA
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2009,4.89,6.24,2.05,NA
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2009,1.32,3.84,1.65,7.15
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2009,2.2,10.81,2.06,13.7
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2009,3.45,3.75,2.85,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2009,6,7.91,4.95,12.4
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2009,3.83,9.49,5.51,11.16
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2009,'0.71,2.78,'0.31,14.05
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2009,NA,13.02,NA,19.46
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2009,3.75,5.89,3.01,7
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2009,11.53,10.64,6.2,13.53
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2009,4.25,5.53,5.45,6.6
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2009,5.28,10.33,8.49,13.63
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2009,4.45,7.57,6.37,14.45
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2009,3.25,5.55,4.55,9.8
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2009,4.55,6.27,2.66,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2009,6.17,7.15,1.33,7.8
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2009,'0.75,9.19,3.51,11.5
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2009,3.8,4.52,3.91,5.15
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2009,2.05,4,2.43,3.15
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2009,3.64,5.65,NA,8.4
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2009,7.25,11.21,7.66,13
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2009,6,9.78,8.75,10.6
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2009,'0.65,5.02,3.33,6.5
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2009,6.27,8,6.47,11.07
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2009,NA,8.21,3.8,8.3
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2009,NA,30.72,NA,31.5
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2008,3.69,8.32,NA,10.65
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2008,1.55,3.18,1.68,2.89
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2008,23.76,9.26,30.36,29.25
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2008,3.98,7.78,2.49,4.64
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2008,NA,NA,11.65,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2008,4.42,5.85,3.35,5.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2008,NA,8.32,16.5,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2008,3.6,8.62,7.42,14
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2008,9.51,5.54,7.34,9.68
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2008,'0.46,3.67,'0.6,12.71
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2008,4.39,12.54,11.71,12.68
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2008,NA,2.42,5.6,5.22
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2008,6.43,10.34,10.48,13.38
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2008,2.9,5.18,2.75,7.46
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2008,6.07,10.43,9.26,11.63
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2008,8.15,10.42,7.1,11.46
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2008,'0.31,6.58,4.65,8.88
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2008,5.1,9.3,6.53,10.75
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2008,5.87,9.22,6.22,6.62
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2008,'0.38,1.63,2.32,6.84
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2008,3.15,3.96,4.05,4.39
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2008,2.15,3.45,2.18,2.08
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2008,2.05,4.83,9.8,13.98
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2008,NA,NA,46.51,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2008,9.8,11.9,8.46,12.81
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2008,NA,NA,8.2,10.44
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2008,'0.2,7.69,4.25,14.1
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2008,5.27,7.07,7.61,10.19
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2008,4.65,5.5,7.91,8.05
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2008,2.98,4.9,6.16,8.77
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2007,6.43,7.91,5.1,7.99
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2007,'0.05,2.7,1.12,2.68
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2007,24.72,25.66,26.6,30.1
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2007,3.8,7.42,5.05,3.82
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2007,1.57,6.25,2.28,6.8
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2007,NA,16.3,10.92,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2007,3.32,10.98,5.6,12.48
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2007,1.86,5.86,3.31,10.98
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2007,'0.1,2.36,'0.51,3.91
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2007,5.61,11.08,9.09,11.26
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2007,2.69,6.1,1.22,4.3
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2007,9.1,8.78,8.23,11.8
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2007,2.3,6.02,3.62,6.95
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2007,4.08,10.45,7.68,11.25
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2007,1.75,5.75,8.3,11.65
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2007,1.87,6.86,4.33,7.56
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2007,'0.92,7.5,2,9.76
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2007,8.7,7.65,7.35,7.7
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2007,'0.52,NA,'0.77,5.62
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2007,2.8,4.21,3.35,4.57
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2007,'0.33,5.2,1.97,2.38
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2007,3.21,11.28,3.37,14.1
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2007,17.56,57.75,7.15,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2007,4.5,8.12,9.35,12.86
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2007,2.7,9.87,3.9,10.57
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2007,'0.62,5.8,1.02,12.54
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2007,8.58,6.37,5.82,9.45
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2007,1.92,4.1,3.75,6.93
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2007,2.99,7.75,4.15,9.19
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2006,5.87,7.1,5.8,13.25
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2006,3.05,2.28,2.05,NA
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2006,32.72,31.06,29.6,32
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2006,4.55,8.6,3.4,11.9
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2006,NA,NA,9.05,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2006,5.32,7.72,4.2,8.4
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2006,5.45,19.7,10.02,29.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2006,'0.63,11.7,4.84,12.1
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2006,'0.92,5.78,3.2,9.86
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2006,'0.65,5.11,'0.36,5.56
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2006,6.09,11.76,8.16,NA
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2006,2.82,3.6,2.81,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2006,8,9.85,6.03,9.28
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2006,1.87,5.7,2.85,8
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2006,4.75,8.35,NA,4.38
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2006,2.69,8.11,4.96,12.15
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2006,'0.53,4.89,NA,11.8
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2006,1.84,8.21,1.9,7.25
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2006,5.88,6.3,1.17,6.25
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2006,'0.21,4.9,3.25,8
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2006,2.31,4.1,2.95,4.55
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2006,1.78,2.87,2.2,6.73
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2006,3.42,6.5,NA,7.85
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2006,25.4,NA,6.25,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2006,1.82,10.03,7.1,8.52
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2006,1.89,9.45,7.9,10.9
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2006,'0.27,4.5,3.06,3.36
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2006,2.95,7.21,5.77,11.07
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2006,3.77,6.02,2.15,8.9
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2006,2.87,6.53,1.87,8.47
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2005,7.28,7.63,7.05,9.57
+MP,Betul,Multai,Multai,21.775,78.25555556,MultaiDW,"Dug Well",W20599,2005,NA,NA,1.85,NA
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2005,29.62,21.16,28.1,25.6
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2005,3.5,11.05,6.5,9.5
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2005,NA,NA,NA,13.25
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2005,7.18,8.22,7.45,9.1
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2005,NA,10.18,14.08,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2005,5.34,11.44,7.6,12.25
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2005,3.22,7.96,4.39,9.86
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2005,'0.22,2.81,'0.41,13.46
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2005,9.96,12.58,9.71,14.86
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2005,NA,4.73,1.9,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2005,7.58,10.8,8.58,13.53
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2005,1.18,5.72,1.95,7.4
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2005,8.45,10.55,8.33,11.13
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2005,6.85,9.01,5.25,14.45
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2005,1.36,4.9,4.5,6.02
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2005,2.63,8.05,4.22,8.64
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2005,4.98,7.42,6.1,8.31
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2005,1.42,NA,1.86,NA
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2005,2.96,4.29,3.05,4.97
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2005,2.82,2.66,2.39,2.54
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2005,8.41,12.37,8.47,15.83
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2005,11.74,57.6,15.25,NA
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2005,12.2,12.2,NA,12.2
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2005,3.24,11.37,9.3,12.18
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2005,3.15,10.65,4.72,12.7
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2005,'0.75,7.85,6.28,11.7
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2005,4.25,7.41,6.17,11.07
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2005,2.17,2.57,4.03,8.83
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2005,3.71,7.44,5.17,9.39
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2004,6.88,8.45,5.95,9.55
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2004,'0.72,5.85,8.13,7.85
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2004,6,11.27,20.55,19.54
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2004,2.98,9.6,5.15,3.1
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2004,10.5,NA,NA,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2004,5.74,7.8,7.95,8.22
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2004,NA,18.6,12.88,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2004,4.1,11.97,10.15,12
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2004,3.26,5.76,5.22,8.75
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2004,'0.66,2.76,1.33,13.06
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2004,7.96,10.21,10.41,15.15
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2004,2.8,NA,5.68,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2004,10.33,9.71,9.62,13.53
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2004,1.71,8.1,5.14,6.55
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2004,8.05,10.02,9.73,11.07
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2004,5.15,14.05,6.85,11.14
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2004,2.3,7.9,4.88,6.36
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2004,1.4,5.84,4.88,10.45
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2004,5.52,7.3,6.55,8.42
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2004,'0.69,3.48,5.68,NA
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2004,2.51,5.65,4.8,4.65
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2004,2.06,1.95,3.92,2.63
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2004,7.66,11.92,10.06,12.91
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2004,16.68,6.5,54.6,69.6
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2004,3.6,6.2,12.2,7.4
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2004,4.69,11.25,11.15,11.97
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2004,3.01,12.04,8.6,10.59
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2004,3.32,9.9,4.87,9.95
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2004,4.15,6.65,6.87,8.42
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2004,3.3,8.11,6.31,8.31
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2003,6.45,6.99,5.92,12.14
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2003,3.45,8.65,3.66,8.84
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2003,19.7,18.91,19.1,20.84
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2003,'0.5,14.1,5.98,15.9
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2003,7.85,NA,10.79,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2003,4.2,7.4,5.3,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2003,12.15,19.79,12.17,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2003,4.1,11.34,7.55,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2003,1.76,6.19,2.94,9.78
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2003,'0.16,3.91,'0.32,13.51
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2003,11.06,12,9.08,15.5
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2003,2.4,5.44,2.62,7.29
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2003,11.83,11.28,8.93,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2003,1.9,3,3.55,4.47
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2003,2.58,10.51,8.16,11.48
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2003,2.85,8.71,5.3,NA
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2003,1.3,4.84,4.53,6.68
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2003,1,8.4,2,10.77
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2003,3.7,6.75,3.66,NA
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2003,2.87,3.64,NA,5.9
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2003,2.85,4.13,3.44,4.73
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2003,1.75,2.72,2.23,4.15
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2003,2.85,12.36,6.48,13.41
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2003,NA,NA,8.33,92.65
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2003,1.7,NA,3.12,NA
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2003,1.3,12.1,5.1,22.1
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2003,3.9,8.7,8.5,NA
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2003,'0.3,12.48,'0.8,NA
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2003,4.17,7.07,5.54,6.19
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2003,3.07,7.36,5.69,10.19
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2002,NA,NA,6.45,NA
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2002,5.69,8.48,7.95,8.5
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2002,20.4,12.37,19.3,20.5
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2002,6.43,9.6,4.77,11.5
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2002,10.25,14.15,NA,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2002,4.33,6.94,4.73,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2002,13.7,NA,12.87,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2002,2,11.72,7.32,12
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2002,'0.96,7.06,3.56,9.06
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2002,'0.16,3.84,'0.61,13.86
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2002,NA,NA,10.26,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2002,NA,11.66,9.53,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2002,2.13,5.2,3.66,6.67
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2002,6.18,10.8,8.5,11.23
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2002,5.89,9.3,5.89,NA
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2002,2.78,4.77,4.6,5.65
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2002,1.54,8.05,1.93,8.88
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2002,NA,3,3.7,5.73
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2002,NA,3.15,2.59,NA
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2002,2.26,4.35,3.58,4.96
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2002,1.85,2.35,2.97,3.25
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2002,7,12.75,8.4,13.46
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2002,3.45,6.4,5.5,7.16
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2002,4.92,9.6,7.45,10.67
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2002,2.47,8.62,8.21,NA
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2002,1.86,5.61,1.62,8.35
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2002,3.31,7.04,6.14,8.5
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2002,3.71,6.37,7.17,10.27
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,2001,9.1,9.45,NA,11.45
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2001,2.76,7.27,4.02,9.13
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2001,19.47,15.16,19.1,18.9
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2001,2.21,11.06,5.01,12.63
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2001,5.31,NA,7.35,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2001,3.75,7.13,4.47,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,2001,8.73,NA,13.87,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2001,2.07,11.97,7.7,12.12
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2001,1.5,6.86,3.8,8.36
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2001,'0.5,3.46,1.83,13.46
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,2001,NA,13.11,NA,NA
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2001,1.02,NA,2.85,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2001,10.8,12.08,10.2,NA
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2001,1.24,5.27,3.78,6.55
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2001,6.94,10.63,9.4,11.43
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2001,8.66,NA,7.13,NA
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2001,'0.52,5.06,3.98,6.91
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2001,2.12,6.54,2.46,9.92
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2001,6.43,5.96,3.76,6.88
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2001,'0.61,3.2,1.52,5
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2001,2.41,4.23,3.87,4.77
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2001,1.79,2.6,2.09,2.29
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2001,5.89,12.55,11.47,13.38
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2001,16.56,NA,12.06,NA
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2001,6.92,6.84,5.53,7.4
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2001,1.97,10.45,5.46,11.53
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2001,4.04,8.81,8.45,NA
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2001,'0.21,5.97,1.54,11.55
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2001,3.51,7.99,6.14,10.05
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2001,'0.12,8.55,5.67,10.45
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,2000,3.96,4.04,5.6,7.64
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,2000,6.23,3.65,7.81,7.9
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,2000,10.64,9.71,9.88,11.2
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,2000,7.82,7.35,NA,14.85
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,2000,4.34,3.2,5.35,8.88
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,2000,8.6,11.49,11.7,11.87
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,2000,4.09,5.26,5.76,9.46
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,2000,'0.24,2.48,2.26,13.66
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,2000,NA,6.25,NA,NA
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,2000,11.36,6.02,10.25,11.92
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,2000,2.13,4.01,4.6,5.7
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,2000,9.63,8.78,10.23,11.03
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,2000,11.05,7.04,11.48,11.25
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,2000,2.15,10.25,4.7,13.8
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,2000,3.7,4.55,8.67,3.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,2000,6.75,6.35,5.34,9
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,2000,3.65,2.7,3.5,2.7
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,2000,3.27,3.15,4.11,4.09
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,2000,1.52,3.94,2.64,2.93
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,2000,7.15,10.47,11.31,12.62
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,2000,42.6,7.1,NA,NA
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,2000,4.17,5.99,6.46,6.92
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,2000,5.72,9.1,8.68,11.4
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,2000,8.07,8.27,8.3,12.3
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,2000,1.94,3.76,5.17,6.01
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,2000,4.78,6.67,7.58,8.54
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,2000,13.6,10.35,15.66,14.3
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,1999,3.65,5.65,4.5,7.1
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,1999,'0.67,1.7,'0.74,4.6
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,1999,2.48,3.97,3.15,4.43
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,1999,'0.95,5.95,1.94,6.37
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,1999,3.52,11.7,5.56,12.55
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,1999,1.96,38.45,1.96,52.28
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,1999,4,5.73,4.93,6.85
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,1999,1.95,7.4,5.35,10.2
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,1999,3.84,8.05,7.5,10.32
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,1999,'0.8,6.05,5.55,10.45
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,1999,3.83,6.72,4.95,8.52
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,1999,4.05,5.68,'0.92,8.95
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,1999,7.33,9.5,5.99,11.45
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,1999,2.37,4.32,3.17,7.75
+MP,Betul,Athner,Athner,21.62222222,77.92361111,Athner,"Bore Well",W00024,1999,11.95,26.76,9.48,29.62
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,1999,2.85,5.82,4.4,10.15
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,1999,1.91,8.53,3.31,8.68
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,1999,'0.75,4.38,2,8.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,1999,6.26,13.07,10.83,20.6
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,1999,5.12,9.32,5.05,11.4
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,1999,2.61,5.51,4.21,7.18
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,1999,'0.61,2.11,'0.89,12.86
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,1999,5.94,10.3,8.18,14.06
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,1999,2.56,5.2,3.1,6.6
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,1999,5.83,8.2,7.03,12.53
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,1999,1.42,4.3,3.42,5.9
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,1999,6.68,10.01,7.58,10.63
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,1999,6.5,10.4,5.5,11.1
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,1999,1.58,4.8,4.5,6.45
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,1999,'0.9,3.9,1.55,9.65
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,1998,1.25,'0.96,1.74,2.59
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,1998,4.6,3.5,3.28,6.35
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,1998,1.95,3.25,1.65,3.6
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,1998,5.45,3.05,4.89,11.2
+MP,Betul,Multai,Multai,21.77916667,78.25722222,Multai,"Bore Well",W00629,1998,NA,NA,1.14,NA
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,1998,3.65,4.7,4.24,6.15
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,1998,2.1,2.2,2.05,8.8
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,1998,5,3.63,3.7,8.83
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,1998,3.05,'0.6,2.18,10.32
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,1998,5.4,4.17,4.87,7.19
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,1998,5.39,3.45,2.81,8.16
+MP,Betul,Amla,Amla,21.92361111,78.12416667,Amla(d),"Bore Well",W00021,1998,NA,NA,8.55,NA
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,1998,4.19,2.9,2.72,6.43
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,1998,3.3,2.4,1.95,4.72
+MP,Betul,Betul,Betul,21.91111111,77.89805556,Betul,"Bore Well",W00026,1998,NA,NA,2.4,NA
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,1998,4.37,3.6,2.25,9.12
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64111111,77.62777778,Bhainsdehi,"Bore Well",W00028,1998,NA,NA,6.92,NA
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,1998,5.6,5,2.81,10.83
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,1998,5.44,2.66,3.05,6.97
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,1998,1.21,'0.72,'0.68,3.84
+MP,Betul,Chicholi,Chicholi,22.01083333,77.67027778,Chincholi,"Bore Well",W00032,1998,NA,NA,7.64,NA
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,1998,3.1,3.84,2.22,5.8
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,1998,10.84,8.88,6.13,12.22
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,1998,2.93,2.65,3.32,5.48
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,1998,7.78,6.53,6.53,10.09
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,1998,4.27,1.85,2.6,11.15
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,1998,2.32,3.03,3.84,5.63
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,1998,3.88,2.1,1.18,8.42
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,1998,3.5,3.15,3.12,4.12
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,1997,'0.67,2.65,1.15,4.7
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,1997,6.05,2.62,3.59,7.2
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,1997,1.99,4.71,3.19,6.85
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,1997,1.19,13.64,4.66,13.05
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,1997,2.17,6.4,4.64,6.82
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,1997,3.2,11.26,5.7,10.35
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,1997,2.47,8.74,7.96,10.5
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,1997,'0.09,7.62,'0.77,8.8
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,1997,4.51,7.05,5.54,10.02
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,1997,2.57,5.85,2.99,7.95
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,1997,2.62,5.19,3.71,9.35
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,1997,5.28,7.42,4.58,9.6
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,1997,3.82,4.08,4.12,11
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,1997,4.24,10.8,5.8,11.4
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,1997,2.18,4.68,3.79,8.55
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,1997,'0.46,2.18,'0.71,13.65
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,1997,1.72,4.56,3.7,7
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,1997,9.88,7.78,7.5,12.9
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,1997,1.38,4.14,3.19,4.75
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,1997,2.47,9.98,6.48,11.2
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,1997,1.89,10.89,5.67,11
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,1997,1.52,4.58,4.54,7.3
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,1997,NA,5.4,2.71,7.3
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,1997,2.72,4.03,3.05,4.35
+MP,Betul,Chicholi,Chicholi,22.20777778,77.41888889,Khokharkheda,"Dug Well",W00625,1996,'0.84,2.16,'0.98,9.05
+MP,Betul,Bhainsdehi,Bhainsdehi,21.46305556,77.65833333,"Kotal kund","Dug Well",W00624,1996,3.23,6.57,3.9,4.9
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.11833333,78.1425,Sarni,"Dug Well",W00627,1996,2.38,5.18,3.3,8.17
+MP,Betul,Multai,Multai,21.83055556,78.41527778,Kapasia,"Dug Well",W00628,1996,1.2,12.15,8.2,13.2
+MP,Betul,Multai,Multai,21.775,78.25611111,Multai1,"Dug Well",W00630,1996,3.6,6.95,4.55,8.2
+MP,Betul,Multai,Multai,21.84666667,78.09194444,Sasundra,"Dug Well",W00631,1996,1.08,9.15,3.6,10.5
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.59944444,78.12833333,Masod,"Dug Well",W00632,1996,3.98,8.9,8.05,9
+MP,Betul,"Prabhat Pattam","Prabhat Pattam",21.65083333,78.26611111,Pattan,"Dug Well",W00633,1996,'0.45,8.9,2.95,11.4
+MP,Betul,Shahpur,Shahpur,22.18944444,77.90416667,Shahpur,"Dug Well",W00634,1996,4.65,8.52,4.87,9.42
+MP,Betul,Shahpur,Shahpur,22.27777778,77.86972222,Suktawa,"Dug Well",W00635,1996,5.28,5.85,3.23,7.2
+MP,Betul,Amla,Amla,21.92416667,78.11805556,Amla1,"Dug Well",W00023,1996,NA,6.05,4.55,8.57
+MP,Betul,Athner,Athner,21.62111111,77.92083333,Athner1,"Dug Well",W00025,1996,2.5,7.43,4.08,12.75
+MP,Betul,Betul,Betul,21.86027778,77.92694444,Betul1,"Dug Well",W00027,1996,2.9,4.3,2.85,8.6
+MP,Betul,Bhainsdehi,Bhainsdehi,21.64444444,77.63666667,Bhainsdehi1,"Dug Well",W00029,1996,1.6,11.37,6.05,12.02
+MP,Betul,Bhainsdehi,Bhainsdehi,21.59166667,77.71027778,Gudagaon,"Dug Well",W00030,1996,1.16,6.78,3.75,9.02
+MP,Betul,Bhainsdehi,Bhainsdehi,21.72555556,77.7425,Jhallar,"Dug Well",W00031,1996,'0.46,3.4,'0.95,12.91
+MP,Betul,Chicholi,Chicholi,22.10611111,77.5,Chirapatala,"Dug Well",W00033,1996,2.35,5.92,4,9.3
+MP,Betul,Chicholi,Chicholi,21.97527778,77.70138889,Jogli,"Dug Well",W00034,1996,8.3,12.36,7.66,13.88
+MP,Betul,"Ghora Dongri","Ghora Dongri",22.12111111,78.00472222,Ghoradongri,"Dug Well",W00035,1996,1.5,4.9,3.85,6.16
+MP,Betul,Multai,Multai,21.88222222,78.51861111,Ghatpiparia,"Dug Well",W00036,1996,4.63,11.3,7.53,10.63
+MP,Betul,Multai,Multai,21.72055556,78.35333333,Junapani,"Dug Well",W00037,1996,3.21,9.8,3.3,11.11
+MP,Betul,Betul,Betul,21.76861111,77.89388889,Kolgaon,"Dug Well",W00622,1996,1.11,4.96,3.95,6.1
+MP,Betul,Betul,Betul,21.85527778,78.00472222,Thapa,"Dug Well",W00623,1996,2.8,4.73,3.8,8
+MP,Betul,Chicholi,Chicholi,22.07166667,77.875,Nimpani,"Dug Well",W00626,1996,2.78,4.21,3.37,4.35

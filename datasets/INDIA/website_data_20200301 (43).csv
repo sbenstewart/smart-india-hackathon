@@ -1,0 +1,500 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2018,NA,4.5,2.71,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Phulaguri,"Dug Well",W29629,2018,NA,3.2,1.3,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2018,NA,4.25,2.98,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Kathiatoli,"Dug Well",W29506,2018,NA,1.9,'0.98,NA
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2018,NA,NA,3.28,NA
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2018,NA,NA,1.23,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2018,NA,3.25,1.21,NA
+AS,Nagaon,Samaguri,Dhing,26.14138889,92.81972222,"Zebra Khua","Dug Well",W22517,2018,NA,4.2,2.7,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2018,NA,3.2,2.46,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2018,NA,2.6,'0.76,NA
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2018,NA,8.12,3.89,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2018,NA,1.78,1.47,NA
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2018,NA,4.2,3.54,NA
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2018,NA,6.15,5.78,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2018,NA,6.1,5.61,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,"Sulung p.o.","Dug Well",W29568,2018,NA,4.2,2.41,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Dhing,"Dug Well",W29588,2018,NA,3.45,3.76,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Borchukhaba,"Dug Well",W29589,2018,NA,2.4,1.65,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2018,NA,3.2,1.9,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2017,4.1,3.65,3,4.1
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Borchukhaba,"Dug Well",W29589,2017,4.5,4.58,2.4,4.5
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2017,11,11,6.8,11
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2017,4.53,4.44,2.5,4.53
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2017,7.45,6.83,5.98,7.45
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2017,7.1,6.79,5.9,7.1
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2017,NA,3.54,NA,NA
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,2017,NA,4.35,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Kathiatoli,"Dug Well",W29506,2017,2.5,2.2,1.52,2.5
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2017,3.2,3.21,1.89,3.2
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2017,5.1,4.47,2.3,5.1
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2017,6.1,6.1,3.23,6.1
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2017,4.65,4.95,2.32,4.65
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2017,5.6,5.25,3.12,5.6
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2017,3.98,NA,2.1,3.98
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2017,3.25,2.36,NA,3.25
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Phulaguri,"Dug Well",W29629,2017,2.4,5.65,2.2,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,"Sulung p.o.","Dug Well",W29568,2017,5.4,5.28,2.45,5.4
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Dhing,"Dug Well",W29588,2017,5.2,3.9,2.7,5.2
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2017,5.8,3.85,2.2,5.82
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2016,1,NA,3,4.2
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Phulaguri,"Dug Well",W29629,2016,2.36,1.49,5.31,4.84
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2016,1.25,NA,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2016,NA,NA,4.3,4.5
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2016,3.25,NA,NA,3.08
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2016,1.73,NA,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2016,6.26,NA,NA,7.89
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2016,1.77,NA,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2016,5.17,NA,3.1,6.87
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2016,6.75,NA,6.67,7.22
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2016,NA,NA,6.71,7.26
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2016,NA,NA,9.89,11
+AS,Nagaon,Nagaon,Dhing,26.30833333,92.64166667,"Toklai bebejia","Dug Well",W12404,2016,NA,NA,NA,6.87
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2016,2.35,NA,3.65,5
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2016,5.59,NA,5.21,6.7
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2016,1.33,NA,1.87,2.89
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2016,3.61,NA,3.65,4.89
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2016,3.05,NA,2.45,4.48
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2016,2.32,NA,3.88,4.5
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Kathiatoli,"Dug Well",W29506,2016,1.1,2.86,1.53,2.44
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,"Sulung p.o.","Dug Well",W29568,2016,NA,3.41,2.9,5.45
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Dhing,"Dug Well",W29588,2016,3.25,3.71,3.1,4.65
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Borchukhaba,"Dug Well",W29589,2016,3.61,3.86,3.98,4.78
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2016,4.17,NA,1.53,5.6
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2015,2.15,2.64,2.21,2.15
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Phulaguri,"Dug Well",W29629,2015,1.58,1.67,6.53,2.49
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2015,NA,NA,NA,2.33
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2015,4.3,4,2.6,3.88
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2015,1.8,1.55,1.69,2.22
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2015,1.31,6.97,NA,4.57
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2015,NA,NA,4.83,5.15
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2015,1.44,3.16,'0.56,6.19
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2015,3.05,5.1,5.91,6.35
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2015,6.91,5.26,6.07,6.36
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2015,6.82,2.55,9.12,8.43
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2015,3.15,3.36,1.82,3.05
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2015,3.89,NA,4.08,3.89
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2015,2.56,4.35,2.68,2.81
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2015,2.12,3.47,2.71,2.79
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2015,3.13,2.87,2.96,3.11
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2015,2.2,3.76,2.65,3.25
+AS,Nagaon,Samaguri,Dhing,26.14138889,92.81972222,"Zebra Khua","Dug Well",W22517,2015,NA,NA,2.7,4.89
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Kathiatoli,"Dug Well",W29506,2015,1.1,'0.45,'0.76,1.95
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,"Sulung p.o.","Dug Well",W29568,2015,3.05,4.02,1.62,4.91
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Dhing,"Dug Well",W29588,2015,2.75,3.53,2.56,4.57
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Borchukhaba,"Dug Well",W29589,2015,NA,5.53,2.55,3.27
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2015,1.86,1.58,2.37,1.86
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2014,2.46,1.61,NA,2.46
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Phulaguri,"Dug Well",W29629,2014,1.65,6.85,4.13,3.63
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2014,NA,2.57,NA,3.13
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2014,'0.8,3.6,NA,3.8
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2014,'0.89,1.84,NA,3.44
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2014,1.4,6.97,NA,5.28
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2014,3.89,5.59,NA,6.34
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2014,5.89,6.01,NA,6.29
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2014,5.12,5.98,NA,6.18
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2014,1.23,3.2,NA,3.4
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2014,2.15,2.43,NA,3.18
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2014,2.45,2.67,NA,3.46
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2014,1.4,2.76,NA,3.06
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2014,4.26,3.9,NA,4.26
+AS,Nagaon,Samaguri,Dhing,26.14138889,92.81972222,"Zebra Khua","Dug Well",W22517,2014,NA,4.7,NA,5.04
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Kathiatoli,"Dug Well",W29506,2014,'0.34,1.16,'0.56,1.23
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,"Sulung p.o.","Dug Well",W29568,2014,2.8,4.26,2.63,5.28
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Dhing,"Dug Well",W29588,2014,3,4.01,2.82,4.6
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2014,'0.98,2.96,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2013,NA,2.76,2.07,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Phulaguri,"Dug Well",W29629,2013,5.13,5.51,6.74,5.56
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2013,'0.27,1.03,NA,1.28
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2013,'0.62,3.43,2.89,3.7
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2013,1.29,1.6,2.27,2.2
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2013,5.4,5.88,6.86,5.98
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2013,1.04,1.65,3.38,2.04
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2013,NA,NA,3.57,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2013,'0.18,1.02,2.14,4.27
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2013,5.59,9.08,2.07,6.32
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2013,NA,NA,5.52,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2013,1.11,1.71,2.02,2.09
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2013,1.45,2.39,2.97,2.6
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2013,2.68,NA,2.07,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2013,NA,NA,'0.56,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2013,2.05,2.41,4.5,3.13
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2013,1.8,2.72,1.17,2.89
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Kathiatoli,"Dug Well",W29506,2013,'0.14,'0.87,1.03,1.26
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,"Sulung p.o.","Dug Well",W29568,2013,1.77,3.91,2.85,4.27
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Dhing,"Dug Well",W29588,2013,1.83,2.54,2.81,2.83
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2013,NA,NA,2.58,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2012,NA,3.41,2.89,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Phulaguri,"Dug Well",W29629,2012,NA,NA,5.51,NA
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2012,NA,4.03,'0.32,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2012,NA,5.1,1.8,NA
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2012,NA,2.63,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2012,NA,NA,5.88,NA
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2012,NA,3,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2012,NA,6.14,'0.49,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2012,NA,6.76,NA,NA
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2012,NA,7.62,NA,NA
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2012,NA,2.23,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2012,NA,3.89,1.46,NA
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2012,NA,4.41,1.7,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2012,NA,2.83,1.43,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2012,NA,3.49,'0.47,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2012,NA,3.84,2.2,NA
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2012,NA,1.5,2.69,NA
+AS,Nagaon,Samaguri,Dhing,26.14138889,92.81972222,"Zebra Khua","Dug Well",W22517,2012,NA,4.53,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Kathiatoli,"Dug Well",W29506,2012,NA,NA,'0.07,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,"Sulung p.o.","Dug Well",W29568,2012,NA,NA,1.36,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Dhing,"Dug Well",W29588,2012,NA,NA,1.91,NA
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2012,NA,4.28,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2011,1.75,NA,1.77,NA
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2011,1.29,NA,1.35,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2011,4.1,4,3,NA
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2011,'0.94,1.99,1.08,NA
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,2011,NA,3.48,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2011,5.86,5.82,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2011,2.03,NA,2.06,NA
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2011,NA,4.1,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2011,1.54,6.14,1.63,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2011,4.05,5.91,5.51,NA
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2011,9.81,7.37,9.86,NA
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2011,1.46,10.8,1.52,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2011,1.82,NA,1.85,NA
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2011,2.43,4.08,2.51,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2011,1.33,3.13,1.46,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2011,1.77,NA,1.83,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2011,2.04,5.26,2.06,NA
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2011,'0.62,2.5,'0.88,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2011,1.34,4.11,1.51,NA
+AS,Nagaon,Samaguri,Dhing,26.14138889,92.81972222,"Zebra Khua","Dug Well",W22517,2011,NA,NA,4.1,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2010,1.16,4.41,NA,NA
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2010,'0.89,3.45,1.19,NA
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2010,'0.39,3.14,2.9,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2010,'0.68,3.76,3.16,NA
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2010,7.64,10.55,6.78,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2010,'0.92,5.5,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2010,2.28,4.37,3.05,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2010,1.1,2.83,2.04,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2010,5.7,5.58,5.76,NA
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2010,2.93,NA,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2010,2.13,4.5,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2010,'0.87,7.34,1.87,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2010,5.26,6.25,4.86,NA
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2010,'0.7,4.38,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2010,1.1,4.14,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2010,'0.9,5.6,3.05,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2010,1.5,5.86,2.51,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2009,1.31,4.3,3.49,NA
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2009,1.01,2.63,2.21,NA
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2009,'0.57,2.73,1.22,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2009,1.46,3.17,3.12,NA
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2009,7.48,10.03,8.02,NA
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2009,NA,NA,3.32,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2009,1.05,NA,2.32,NA
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2009,NA,2.35,2.92,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2009,NA,1.97,1.37,NA
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2009,NA,4.91,3.86,NA
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2009,NA,3.63,2.63,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2009,1.05,5.87,5.63,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2009,4.29,5.96,4.68,NA
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2009,1.72,4.24,1.67,NA
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2009,NA,3.92,2.42,NA
+AS,Nagaon,Samaguri,Dhing,26.13333333,92.75,Nagayapam,"Tube Well",W12418,2009,NA,NA,1.86,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2009,'0.26,4.34,6.33,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2009,1.98,5.63,3.78,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2008,'0.63,3.44,'0.47,NA
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2008,'0.87,2.35,'0.59,NA
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2008,'0.5,2.74,3.39,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2008,1.12,3.01,1.94,NA
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2008,6.75,9.01,6.58,NA
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2008,3.78,3.04,NA,NA
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,2008,1.95,3.76,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2008,NA,1.24,1.96,NA
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2008,'0.83,2.02,2.4,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2008,NA,2.03,1.7,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2008,'0.37,NA,5.42,NA
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2008,3.47,5.02,4.68,NA
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2008,NA,4.03,3.16,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2008,1.95,5.82,2.36,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2008,4.94,5.29,4.89,NA
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2008,'0.28,4.36,1.78,NA
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2008,1.98,4,1.72,NA
+AS,Nagaon,Samaguri,Dhing,26.13333333,92.75,Nagayapam,"Tube Well",W12418,2008,'0.6,3.12,'0.3,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2008,'0.6,5,3.46,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2008,1.67,4.69,4.46,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2007,1.2,4.27,'0.84,1.16
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2007,'0.43,2.44,'0.31,1.38
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2007,'0.49,2.14,1.1,'0.63
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2007,1.3,2.7,2.86,1.96
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2007,5.98,9,9.92,8.33
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2007,5.68,NA,4.26,NA
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,2007,'0.51,NA,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2007,NA,NA,'0.87,NA
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2007,NA,NA,1.26,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2007,NA,1.91,1.41,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2007,'0.22,2.5,5.12,5.81
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2007,4.2,NA,5.27,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2007,'0.36,5.74,3.96,3.4
+AS,Nagaon,Lanka,Dhing,26.01333333,92.99,Bahampur,"Dug Well",W12398,2007,NA,3.53,NA,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2007,4.13,2.03,3.6,5.26
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2007,1.42,4.34,1.76,2.21
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2007,NA,3.92,2.45,1.52
+AS,Nagaon,Samaguri,Dhing,26.13333333,92.75,Nagayapam,"Tube Well",W12418,2007,'0.62,NA,2.02,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2007,'0.12,5.4,3.02,'0.74
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2007,1.86,4.09,2.16,4.88
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2006,2.06,3.83,'0.75,2.41
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,2006,2.21,2.4,NA,2.25
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2006,'0.8,2.1,3.86,1.08
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2006,1.82,2.97,3.31,2.67
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2006,15.42,NA,4.69,NA
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,2006,1.79,2.25,2.29,2.96
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2006,1.04,1.93,'0.35,1.89
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2006,NA,8.69,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2006,5.13,5.25,5.18,3.77
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2006,3.47,NA,4.02,4.11
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2006,2.94,5.44,4.79,5.47
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2006,5.06,5.49,4.67,5.5
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2006,10.45,7.27,9.54,8.9
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2006,1.7,2.28,1.77,1.73
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2006,NA,NA,2.94,NA
+AS,Nagaon,Samaguri,Dhing,26.13333333,92.75,Nagayapam,"Tube Well",W12418,2006,NA,NA,1.1,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2006,2,5.5,4.6,3.24
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2006,1.17,1.59,'0.24,2
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,2006,3.09,3.4,NA,2.33
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2006,4.81,2.78,5.05,5.24
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2005,1.65,3.52,2.13,'0.46
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,2005,'0.82,2.53,1.52,2.32
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2005,'0.74,1,1.15,'0.92
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2005,1.41,2,NA,2.34
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2005,5.72,5.88,6.15,8.8
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,2005,NA,2.11,NA,NA
+AS,Nagaon,Nagaon,Dhing,26.30833333,92.64166667,"Toklai bebejia","Dug Well",W12404,2005,NA,3.34,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2005,NA,1.26,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2005,NA,NA,NA,2.7
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2005,1.13,1.73,1.18,2.03
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2005,6.11,8.94,7.76,8.62
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2005,4.72,5.2,4.77,3.2
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2005,'0.49,4.24,3.24,3.52
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2005,4.23,4.56,4.49,5.21
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2005,6.85,7.8,7.08,9.82
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2005,1.31,1.98,1.81,1.81
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2005,NA,2.9,NA,'0.37
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2005,'0.02,4.8,2.9,3.02
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2005,'0.79,1.49,1.14,1.39
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,2005,2.98,1.72,2.82,2.34
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2005,1.94,3.1,3.56,3.12
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2004,1.35,3,2.97,1.3
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,2004,'0.2,2.12,2.93,NA
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2004,'0.43,1.62,'0.49,1.98
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2004,1.36,2.56,1.82,2.97
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2004,3.63,9.48,2.6,8.5
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,2004,NA,2.06,1.89,2.23
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2004,4.35,3.53,1.76,3.42
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2004,'0.95,3.15,1.82,2.1
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2004,'0.39,8.7,7.79,'0.52
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2004,NA,3.25,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2004,1.48,2.84,1.44,4.98
+AS,Nagaon,Lanka,Dhing,26.01333333,92.99,Bahampur,"Dug Well",W12398,2004,NA,NA,NA,1.66
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2004,4.64,4.69,4.3,5.51
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2004,7.62,8.44,7.1,8.78
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2004,1.54,3.05,1.57,2.55
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2004,'0.25,3.13,2.55,3.34
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2004,'0.94,2.96,3.33,2.96
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2004,'0.93,2,1.16,1.87
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,2004,'0.17,3.6,'0.41,3.32
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2004,1.74,3.14,2.8,3.32
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2003,1.86,3.76,2.48,1.26
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2003,2.17,3.46,2.74,3.19
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2003,'0.42,1.23,'0.52,'0.61
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2003,1.34,2.67,1.9,2.27
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2003,1.36,NA,2.59,2.27
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,2003,NA,1.23,NA,NA
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,2003,'0.79,1.98,1.84,'0.94
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2003,NA,2.53,NA,1.97
+AS,Nagaon,Rupahi,Dhing,26.42777778,92.675,Kawoimari,"Dug Well",W12408,2003,NA,5.93,NA,4.3
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2003,2.43,3.21,1.89,2.5
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2003,1.3,1.87,1.99,1.08
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2003,5.15,8.55,5.82,8.75
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2003,NA,4.22,2.69,3.84
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2003,NA,3.92,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2003,1.54,5.7,3.11,5.03
+AS,Nagaon,Lanka,Dhing,26.01333333,92.99,Bahampur,"Dug Well",W12398,2003,NA,2.63,NA,5.22
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2003,4.13,5.43,4.28,5.22
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2003,9.5,8.32,7.04,8.96
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2003,1.75,2.53,1.23,2.17
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2003,1.29,2.52,2.6,1.29
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2003,1.87,4.08,2.99,2.94
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2003,'0.94,2.28,1.21,1.82
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,2003,NA,3.27,NA,2.47
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,2003,'0.27,NA,2.81,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2002,2.27,3.13,3.19,3.06
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,2002,'0.23,NA,NA,3.93
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2002,1.65,2.53,2.35,2.27
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2002,'0.52,9.01,NA,2.09
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,2002,'0.58,NA,'0.63,NA
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,2002,'0.61,NA,1.13,'0.7
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,2002,1.09,NA,1.77,NA
+AS,Nagaon,Rupahi,Dhing,26.42777778,92.675,Kawoimari,"Dug Well",W12408,2002,3.32,NA,4.21,3.59
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2002,1.78,2.87,2.39,2.99
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2002,'0.1,1.89,'0.98,1.2
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2002,1.84,3.63,3.09,1.47
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2002,5.7,8.2,7.9,8.45
+AS,Nagaon,Kaliabor,Dhing,26.55083333,92.9425,Darigaji,"Dug Well",W12392,2002,NA,3.42,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2002,2.04,NA,3.41,3.12
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2002,1.31,5.66,4.93,6.04
+AS,Nagaon,Lanka,Dhing,26.01333333,92.99,Bahampur,"Dug Well",W12398,2002,'0.7,NA,1.77,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2002,4.97,5.32,4.5,5.8
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2002,8.01,7.98,7.7,8.94
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2002,1.77,2.03,1.96,1.92
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2002,'0.9,3.61,1.87,1.16
+AS,Nagaon,Samaguri,Dhing,26.13333333,92.75,Nagayapam,"Tube Well",W12418,2002,1.15,NA,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2002,1.77,4,3.63,2.76
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2002,'0.77,1.71,1.63,1.57
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,2002,'0.13,2.57,1.87,2.1
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2002,'0.53,1.67,'0.82,'0.55
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2001,2.66,3.16,2.85,3
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,2001,'0.74,NA,2.04,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2001,1.26,2.66,2,2.96
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2001,2.03,NA,4.84,NA
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,2001,NA,2.57,NA,NA
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,2001,NA,1.75,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.42777778,92.675,Kawoimari,"Dug Well",W12408,2001,NA,NA,NA,3.31
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2001,2.32,3.25,2.49,3.81
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2001,1.35,1.93,1.55,2.43
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2001,1.45,NA,2.64,2.24
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2001,6.56,6.65,7.19,8.5
+AS,Nagaon,Kaliabor,Dhing,26.55083333,92.9425,Darigaji,"Dug Well",W12392,2001,NA,NA,1.68,NA
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2001,NA,2.74,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2001,2.68,5.39,3.94,6.02
+AS,Nagaon,Lanka,Dhing,26.01333333,92.99,Bahampur,"Dug Well",W12398,2001,NA,3.39,NA,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2001,5.14,5.07,4.78,2.4
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2001,7.54,7.25,7.27,10.09
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2001,1.79,2.37,1.98,1.98
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2001,'0.85,NA,3.13,3.98
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2001,2.09,3.96,3.12,2.17
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2001,1.2,'0.69,1.33,2.24
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,2001,2.87,NA,1.77,5.06
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2001,'0.54,1.03,'0.72,'0.52
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,2000,1.41,4.86,2.7,3.6
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,2000,3.95,8.25,5.53,5.05
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,2000,NA,2.76,2.11,3
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,2000,1.05,NA,1.74,10.2
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,2000,2.37,1.87,NA,NA
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,2000,'0.5,NA,NA,NA
+AS,Nagaon,Nagaon,Dhing,26.30833333,92.64166667,"Toklai bebejia","Dug Well",W12404,2000,'0.92,2.52,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.42777778,92.675,Kawoimari,"Dug Well",W12408,2000,NA,2.28,1.77,5.23
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,2000,NA,2.42,2.14,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,2000,1.23,1.98,1.74,2.08
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,2000,'0.59,NA,3.39,2.2
+AS,Nagaon,Kaliabor,Dhing,26.55083333,92.9425,Darigaji,"Dug Well",W12392,2000,'0.2,1.41,'0.56,4.95
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,2000,1.1,NA,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,2000,1.75,4.31,NA,5.3
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,2000,1.44,2.89,3.39,5.91
+AS,Nagaon,Kampur,Dhing,26.00833333,92.85833333,Hojai,"Tube Well",W12397,2000,NA,4.27,NA,NA
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,2000,4.81,5.31,4.78,5.74
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,2000,7.23,8.25,6.78,9.88
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,2000,2.06,NA,2.4,3.65
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,2000,1.57,3.33,2.97,4.05
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,2000,'0.8,3.6,2.92,5.4
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,2000,'0.79,1.6,1.2,2.45
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,2000,'0.37,NA,NA,4.4
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,2000,1.07,NA,1.58,NA
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,2000,'0.9,1.33,'0.59,'0.4
+AS,Nagaon,Nagaon,Dhing,26.30833333,92.64166667,"Toklai bebejia","Dug Well",W12404,1999,NA,2.58,NA,NA
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,1999,2.34,1.55,1.39,4.48
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,1999,NA,NA,2.78,4.96
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,1999,NA,1.83,1.44,NA
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,1999,3.26,5.95,4.78,8.89
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,1999,1.41,1.9,1.74,1.88
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,1999,'0.97,2.49,2.02,3.91
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,1999,NA,2.86,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,1999,3.55,3.78,3.56,4.7
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,1999,'0.95,3.93,2.54,8
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,1999,NA,1.63,1.02,2.93
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,1999,'0.29,2.12,1.55,3.85
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,1999,NA,4.84,NA,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,1999,'0.73,8.68,3.03,9.38
+AS,Nagaon,Kaliabor,Dhing,26.55083333,92.9425,Darigaji,"Dug Well",W12392,1999,'0.22,1.36,'0.6,2.75
+AS,Nagaon,Kaliabor,Dhing,26.45,93.06666667,"Langteng te","Dug Well",W12393,1999,2.64,NA,NA,5.44
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,1999,3.36,4.08,2.78,4.29
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,1999,2.33,5.04,3.79,6.44
+AS,Nagaon,Kampur,Dhing,26.00833333,92.85833333,Hojai,"Tube Well",W12397,1999,4.56,4.16,3.97,6.01
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,1999,4.63,4.45,4.65,5.43
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,1999,7.6,7.69,6.9,8.99
+AS,Nagaon,Rupahi,Dhing,26.42777778,92.675,Kawoimari,"Dug Well",W12408,1999,NA,3.04,NA,NA
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,1998,'0.37,NA,NA,NA
+AS,Nagaon,Nagaon,Dhing,26.30833333,92.64166667,"Toklai bebejia","Dug Well",W12404,1998,1.02,2.92,2.11,2.06
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,1998,1.98,NA,NA,NA
+AS,Nagaon,Rupahi,Dhing,26.42777778,92.675,Kawoimari,"Dug Well",W12408,1998,1.43,2.81,2.58,3.15
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,1998,NA,2.72,NA,3.07
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,1998,1.35,1.57,1.77,2.15
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,1998,4.78,5.14,5.09,3.43
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,1998,'0.08,1.29,1.41,'0.47
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,1998,1.66,2.67,2.04,1.38
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,1998,NA,2.65,2.68,2.71
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,1998,NA,3.88,3.69,3.57
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,1998,'0.83,2.34,3.55,3
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,1998,'0.69,2.62,1.03,2.39
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,1998,NA,3.5,3.25,4.52
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,1998,1.38,5.22,4.63,1.54
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,1998,4.15,9.75,6.8,8.21
+AS,Nagaon,Kaliabor,Dhing,26.55083333,92.9425,Darigaji,"Dug Well",W12392,1998,'0.07,1.26,'0.58,NA
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,1998,2.7,NA,2.35,NA
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,1998,1.04,4.84,3.04,5.56
+AS,Nagaon,Kampur,Dhing,26.00833333,92.85833333,Hojai,"Tube Well",W12397,1998,1.98,NA,4.04,NA
+AS,Nagaon,Lanka,Dhing,26.01333333,92.99,Bahampur,"Dug Well",W12398,1998,2.11,5.53,NA,5.07
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,1998,4.53,4.23,4.44,4.38
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,1998,7.82,7.08,6.59,8.1
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,1998,1.67,NA,3.57,NA
+AS,Nagaon,Nagaon,Dhing,26.30833333,92.64166667,"Toklai bebejia","Dug Well",W12404,1997,1.17,2.99,2.08,3.57
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,1997,1.37,1.23,NA,2.39
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,1997,NA,7.77,NA,6.69
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,1997,5.97,6.4,6.58,7.08
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,1997,4.12,3.97,4.06,4.59
+AS,Nagaon,Lanka,Dhing,26.01333333,92.99,Bahampur,"Dug Well",W12398,1997,1.87,3.49,5.27,3.68
+AS,Nagaon,Kampur,Dhing,26.00833333,92.85833333,Hojai,"Tube Well",W12397,1997,1.29,3.3,NA,2.67
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,1997,2.18,4.83,3.2,5.51
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,1997,NA,3.7,NA,2.17
+AS,Nagaon,Kaliabor,Dhing,26.55083333,92.9425,Darigaji,"Dug Well",W12392,1997,'0.08,1.4,NA,1.59
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,1997,7.78,9.91,8.04,9.34
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,1997,1.19,7.74,4.4,5.95
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,1997,'0.59,1.96,3.1,4.14
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,1997,'0.79,1.82,1.59,2.69
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,1997,'0.89,NA,3.26,3.1
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,1997,'0.63,3.96,3.33,4.03
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,1997,'0.97,3.99,2.4,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,1997,1.56,2.58,2.26,3.13
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,1997,'0.07,1.53,1.12,'0.81
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,1997,2.12,4.89,3.18,5.61
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,1997,'0.63,NA,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,1997,1.27,1.91,1.36,2.18
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,1997,1.77,2.96,2.82,3.23
+AS,Nagaon,Rupahi,Dhing,26.42777778,92.675,Kawoimari,"Dug Well",W12408,1997,1.36,3.08,2.5,2.87
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,1997,1.87,NA,NA,4
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,1997,'0.43,1.47,NA,1.97
+AS,Nagaon,Kampur,Dhing,26.00833333,92.85833333,Hojai,"Tube Well",W12397,1996,NA,2.94,3.89,NA
+AS,Nagaon,Nagaon,Dhing,26.30833333,92.64166667,"Toklai bebejia","Dug Well",W12404,1996,1,2.7,1.07,3.42
+AS,Nagaon,Lanka,Dhing,25.91305556,92.96166667,Lanka,"Dug Well",W12400,1996,5.81,5.56,5.58,7.68
+AS,Nagaon,Samaguri,Dhing,26.40833333,92.82916667,Samuguri,"Dug Well",W12419,1996,'0.52,2.6,1.89,2.65
+AS,Nagaon,Kaliabor,Dhing,26.59222222,92.93444444,Silghat,"Dug Well",W12396,1996,1.94,4.94,3.11,5.32
+AS,Nagaon,Samaguri,Dhing,26.0875,92.78333333,Nadeorigaon,"Dug Well",W12417,1996,'0.59,3.47,3.27,3.97
+AS,Nagaon,Nagaon,Dhing,26.29166667,92.69166667,Panikhati,"Dug Well",W12403,1996,'0.55,1.31,'0.42,1.93
+AS,Nagaon,Samaguri,Dhing,26.2625,92.78333333,Kondali,"Dug Well",W12416,1996,'0.79,1.54,1.97,NA
+AS,Nagaon,Kaliabor,Dhing,26.45833333,92.91666667,Miarabari,"Tube Well",W12394,1996,NA,NA,2.8,NA
+AS,Nagaon,Samaguri,Dhing,26.17194444,92.93888889,"Haldiati sub bt","Dug Well",W12414,1996,1.06,2.27,1.75,2.29
+AS,Nagaon,Lanka,Dhing,25.98333333,92.92888889,Jurapukhuri,"Dug Well",W12399,1996,3.96,3.92,3.83,4.46
+AS,Nagaon,Samaguri,Dhing,26.19166667,92.85,Doboka,"Dug Well",W12413,1996,NA,1.41,'0.43,'0.72
+AS,Nagaon,Kaliabor,Dhing,26.55083333,92.9425,Darigaji,"Dug Well",W12392,1996,NA,1.14,'0.48,1.62
+AS,Nagaon,Samaguri,Dhing,26.13861111,92.82222222,"Beldonga mandir","Dug Well",W12412,1996,1.99,3.33,4.32,3.63
+AS,Nagaon,Lanka,Dhing,25.76666667,93.175,Lumding,"Dug Well",W12401,1996,NA,8.68,NA,NA
+AS,Nagaon,Samaguri,Dhing,26.3,92.78333333,"Bamuni tinali","Dug Well",W12411,1996,'0.15,5.19,2.63,NA
+AS,Nagaon,Kaliabor,Dhing,26.57777778,93.18527778,Bagori,"Dug Well",W12391,1996,5.87,5.85,8.01,9.15
+AS,Nagaon,Samaguri,Dhing,26.18694444,92.735,Amsoi,"Dug Well",W12410,1996,1.16,1.87,1.64,1.99
+AS,Nagaon,Lanka,Dhing,26.01333333,92.99,Bahampur,"Dug Well",W12398,1996,NA,5.06,3.17,NA
+AS,Nagaon,Rupahi,Dhing,26.41666667,92.61666667,"Telia bebejia","Dug Well",W12409,1996,1.68,2.75,NA,3.11
+AS,Nagaon,Kaliabor,Dhing,26.45,92.94166667,Amlucky,"Dug Well",W12390,1996,'0.96,6.37,2.32,5.78
+AS,Nagaon,Rupahi,Dhing,26.42777778,92.675,Kawoimari,"Dug Well",W12408,1996,1.25,2.94,1.27,2.7
+AS,Nagaon,Lanka,Dhing,26.03333333,92.91666667,Nilbagan,"Tube Well",W12402,1996,NA,'0.99,1.95,NA
+AS,Nagaon,Rupahi,Dhing,26.48333333,92.49166667,Bichamari,"Dug Well",W12405,1996,1.76,NA,2.14,NA
+AS,Nagaon,Raha,Dhing,26.25055556,92.54916667,"Pub saragaon","Dug Well",W12389,1996,'0.22,3.33,2.14,4.03
+AS,Nagaon,Dhing,Dhing,26.40555556,92.54166667,Bordowa,"Dug Well",W12388,1996,'0.85,1.6,1.33,2.63

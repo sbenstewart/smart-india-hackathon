@@ -1,0 +1,737 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2018,1.95,5.48,NA,NA
+MP,Chhatarpur,Bakswaha,Bakswaha,24.19944444,79.32611111,Amodha,"Dug Well",W28886,2018,2.07,9.72,NA,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2018,2.09,3.23,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2018,2.55,11.05,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2018,'0.72,5.68,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2018,11.45,14.25,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2018,7.46,7.58,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2018,10.88,10.13,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2018,8.06,10.13,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2018,2.15,6.06,NA,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2018,17.91,19.7,NA,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2018,8.62,10.75,NA,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2018,9.24,11,NA,NA
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2018,9.54,13.7,NA,NA
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2018,5.77,6.75,NA,NA
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2018,'0.65,4.15,NA,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2018,10.65,17.48,NA,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2018,1.8,10.9,NA,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2018,7.65,12.07,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2018,9.34,9.58,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2018,7.85,9.56,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2018,1.22,8.1,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2018,5.51,6.4,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2018,2.85,5.92,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2018,2.59,8.49,NA,NA
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2018,9.12,8.73,NA,NA
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2018,6.84,9,NA,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2018,1.26,2.8,NA,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2018,NA,13.1,6.35,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2018,NA,23.15,9.99,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.12777778,80.24388889,Singhpur,"Dug Well",W29139,2018,3.62,4.1,NA,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.61333333,79.66916667,Motigarh,"Dug Well",W29006,2018,7.31,9.48,NA,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(S),"Bore Well",W29015,2018,14.62,23.24,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.85,79.48083333,"Pipora Khurd","Dug Well",W29067,2018,2.6,9.95,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(S),"Bore Well",W29045,2018,9.19,10.72,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(S),"Bore Well",W29073,2018,2.68,6.11,NA,NA
+MP,Chhatarpur,Bakswaha,Bakswaha,24.29472222,79.22722222,Gadhoi,"Dug Well",W28926,2018,'0.67,4.4,NA,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2018,10.87,11.24,NA,NA
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2017,4.23,3.6,4.48,5.83
+MP,Chhatarpur,Bakswaha,Bakswaha,24.19944444,79.32611111,Amodha,"Dug Well",W28886,2017,4.38,9.72,7.05,12.19
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2017,1.12,3.02,3.11,8.79
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2017,9.22,9.25,10.42,10.55
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2017,1.82,5.3,4.35,11.75
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2017,14.1,11.25,13.28,13.6
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2017,7.65,6.17,8.3,7.65
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2017,8.6,8.27,8.98,11
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2017,7.28,8.04,10.1,10.28
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2017,3.62,5.75,4.46,7.8
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2017,5.67,8.58,8.9,12.2
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2017,10.72,15.34,19.7,19
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2017,10.72,8.89,9.87,11.24
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2017,8.27,9.3,10.03,10.71
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2017,3.05,12.52,5.83,12
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2017,4.47,2.05,6.68,10.15
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2017,2.42,4.25,3.6,7
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2017,9.3,14.53,15.84,8.08
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2017,3.56,6.66,9.77,9.52
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2017,9.34,10.2,10.09,9.82
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2017,5.54,8.88,7.1,11.58
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2017,8.45,6.96,8.84,9.01
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2017,5.77,7.15,7.76,9.1
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2017,4.66,4.41,5.8,6.35
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2017,3.27,2.99,4.82,5.72
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2017,3.91,6.79,7.95,8.09
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2017,3.82,5.95,7.75,8.92
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2017,6.22,5.77,7.2,9.1
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2017,2.67,2,2.05,5.68
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2017,9.07,5.03,NA,19.2
+MP,Chhatarpur,Gaurihar,Gaurihar,25.12777778,80.24388889,Singhpur,"Dug Well",W29139,2017,3.17,3.65,3.2,6.3
+MP,Chhatarpur,Bijawar,Bijawar,24.61333333,79.66916667,Motigarh,"Dug Well",W29006,2017,3.42,5.4,7.2,9.56
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(S),"Bore Well",W29015,2017,7.99,4.89,18.17,13.75
+MP,Chhatarpur,Eshanagar,Eshanagar,24.85,79.48083333,"Pipora Khurd","Dug Well",W29067,2017,6.27,8.78,8.55,12.15
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(S),"Bore Well",W29045,2017,8.05,8.86,9.33,10.65
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(S),"Bore Well",W29073,2017,2.6,3.26,5.28,4.43
+MP,Chhatarpur,Bakswaha,Bakswaha,24.29472222,79.22722222,Gadhoi,"Dug Well",W28926,2017,1.22,3.42,4.37,5.7
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2017,11.68,10.42,11.5,14.59
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2016,1.98,9.34,5.53,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.12777778,80.24388889,Singhpur,"Dug Well",W29139,2016,3.18,6.12,2.91,8.88
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2016,1.29,6.95,2.96,NA
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2016,2.82,4.75,10.91,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2016,3.94,11.15,7.6,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2016,7.36,21,3.69,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2016,'0.98,10.63,3.38,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2016,'0.18,8.21,3.2,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2016,4.72,9.71,5.95,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2016,1.5,11.08,6.33,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2016,3.92,10.65,6.51,NA
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2016,1.84,8.95,4.73,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2016,1.36,7.4,3.94,NA
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2016,3.6,5.67,3.9,NA
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2016,'0.08,5.81,3.14,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2016,3.92,15.85,10.26,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2016,'0.41,8.79,1.57,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2016,3.66,11.02,9.74,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2016,6.03,12.89,7.08,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2016,3.48,12.4,4.46,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2016,4.33,10.9,6.95,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2016,1.13,5.54,7.25,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2016,1.29,2.35,2.48,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2016,2.54,11.4,7.33,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2016,2.07,10.61,7.88,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2016,6.78,18.2,11.92,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2016,1.61,7.74,3.52,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2016,1.18,8.04,2.18,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2016,2.57,7.99,4.65,NA
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2016,2.62,NA,4.44,11.54
+MP,Chhatarpur,Bakswaha,Bakswaha,24.19944444,79.32611111,Amodha,"Dug Well",W28886,2016,2.72,9.35,6.06,10.5
+MP,Chhatarpur,Bakswaha,Bakswaha,24.29472222,79.22722222,Gadhoi,"Dug Well",W28926,2016,'0.44,3.28,1.11,5.72
+MP,Chhatarpur,Bijawar,Bijawar,24.61333333,79.66916667,Motigarh,"Dug Well",W29006,2016,4.22,8.78,3.27,9.42
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(S),"Bore Well",W29015,2016,8.69,20.93,4.08,21.47
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(S),"Bore Well",W29045,2016,3.33,11.27,6.29,12.13
+MP,Chhatarpur,Eshanagar,Eshanagar,24.85,79.48083333,"Pipora Khurd","Dug Well",W29067,2016,2.87,12.15,5.57,12.47
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(S),"Bore Well",W29073,2016,NA,7.23,2.52,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2016,3.54,9.75,5.66,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2015,7.55,10.05,7.74,11.06
+MP,Chhatarpur,Gaurihar,Gaurihar,25.12777778,80.24388889,Singhpur,"Dug Well",W29139,2015,5.15,4.96,6.29,5.67
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2015,4.18,6.82,5.67,7.25
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2015,3.99,12.37,4.56,11.52
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2015,8.76,9.91,9.48,10.79
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2015,9.36,11.84,13.22,13.84
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2015,7,9.54,8.91,11.83
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2015,5.98,8.2,NA,8.17
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2015,8.12,8.3,8.61,9.3
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2015,7.03,6.35,7.03,10.48
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2015,'0.28,5.84,7.76,8.57
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2015,7.53,6.91,8.44,9.2
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2015,4.42,7.05,5.31,8.16
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2015,4.06,4.6,4.73,6.16
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2015,2.08,4.07,3.31,5.96
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2015,8.84,14.95,9.67,15.43
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2015,1.95,4.2,2.38,8.79
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2015,10.23,11.72,10.23,9.74
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2015,9.51,12.45,9.52,13.82
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2015,7.46,7.51,7.76,12.4
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2015,10.03,9.85,10.53,10.46
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2015,3.87,4.7,4.7,5.85
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2015,1.36,1.57,1.3,4.03
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2015,10.55,8.66,10.53,10.28
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2015,9.66,9.69,10.08,10.14
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2015,2.8,4.6,4.71,17.95
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2015,5.79,5.1,6.7,5.41
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2015,5.49,5.01,7.2,6.84
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2015,1.93,4.87,4,8.09
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2015,7.34,7,7.5,5.95
+MP,Chhatarpur,Bakswaha,Bakswaha,24.19944444,79.32611111,Amodha,"Dug Well",W28886,2015,3.6,9.69,4.41,10.4
+MP,Chhatarpur,Bakswaha,Bakswaha,24.29472222,79.22722222,Gadhoi,"Dug Well",W28926,2015,NA,2.36,'0.4,2.7
+MP,Chhatarpur,Bijawar,Bijawar,24.61333333,79.66916667,Motigarh,"Dug Well",W29006,2015,4.78,7.36,5.81,9.8
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(S),"Bore Well",W29015,2015,9.69,11.92,13.17,13.82
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(S),"Bore Well",W29045,2015,7.99,10.58,8.81,11.83
+MP,Chhatarpur,Eshanagar,Eshanagar,24.85,79.48083333,"Pipora Khurd","Dug Well",W29067,2015,9.68,8.47,9.97,9.37
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(S),"Bore Well",W29073,2015,5.68,5.23,6.23,7.41
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2015,7.89,10.06,8.18,11.31
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2014,8.3,6.4,8.9,8.3
+MP,Chhatarpur,Gaurihar,Gaurihar,25.12777778,80.24388889,Singhpur,"Dug Well",W29139,2014,NA,NA,3.6,NA
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2014,2.75,3.75,5.6,6.75
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2014,5.1,7,11.6,8.1
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2014,3.9,2.6,7.9,4.2
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2014,6.6,4.3,18.9,8.7
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2014,3.55,4.8,7.8,7.3
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2014,4.1,4.6,6.8,8.2
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2014,6.8,6.06,7.1,7.46
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2014,7.2,4.48,8.4,11.08
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2014,4,4,5.4,4.9
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2014,5.35,2.8,6.3,5.5
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2014,6.4,2.3,7.5,6.1
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2014,4.5,3.28,4.7,4.68
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2014,3.1,2.8,5.4,4.3
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2014,10.6,5.78,14,13.38
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2014,2.8,3.85,9.54,8.79
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2014,7.45,4.32,10.1,3.62
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2014,7.55,4.35,10.25,6.25
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2014,6.1,4.05,5.6,6.3
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2014,7.2,6.65,9.3,6.95
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2014,1.4,3.29,4.5,4
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2014,2.3,3.7,2.9,5
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2014,6.4,4.35,7.8,6.1
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2014,7.85,5.55,8.6,7.25
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2014,10.85,3.9,12.9,10.1
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2014,2.9,3.25,3.2,4.65
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2014,3.6,2.3,5.3,6.2
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2014,5.8,3.39,7.1,4.09
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2014,4.15,3.5,5.9,6.1
+MP,Chhatarpur,Bakswaha,Bakswaha,24.19944444,79.32611111,Amodha,"Dug Well",W28886,2014,3.1,9.5,6.45,8.9
+MP,Chhatarpur,Bakswaha,Bakswaha,24.29472222,79.22722222,Gadhoi,"Dug Well",W28926,2014,NA,NA,1.35,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.61333333,79.66916667,Motigarh,"Dug Well",W29006,2014,4,4.3,4.8,4.3
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(S),"Bore Well",W29015,2014,6.45,7.07,11.14,8.37
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(S),"Bore Well",W29045,2014,8.7,6.74,9.2,8.49
+MP,Chhatarpur,Eshanagar,Eshanagar,24.85,79.48083333,"Pipora Khurd","Dug Well",W29067,2014,NA,NA,7.95,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(S),"Bore Well",W29073,2014,3.8,1.43,5.2,5.23
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2014,8.9,7.43,9.1,8.88
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2013,'0.5,7.8,1.1,10
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(S),"Bore Well",W29073,2013,'0.03,2.73,4.33,5.91
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2013,'0.25,6.9,2.55,10.15
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2013,2.8,5.9,3,16.5
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2013,'0.9,9.1,1.9,9.2
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2013,3.5,NA,7.5,12.75
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2013,'0.1,7.3,1.6,9.7
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2013,NA,6.8,5.5,8.3
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2013,1.36,NA,1.66,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2013,3.38,10.58,3.68,11.08
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2013,2.9,6.9,3.1,9.4
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2013,2.3,9.6,2.6,8.24
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2013,'0.9,5.6,1.8,7
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2013,2.68,NA,3.38,6.38
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2013,'0.1,5.7,2,5.4
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2013,3.58,12.48,4.28,13.78
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2013,2.05,2.95,3.05,8.79
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2013,2.32,10.22,4.02,11.72
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2013,'0.15,7.75,1.55,15.75
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2013,-0.5,7.2,1.7,12.4
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2013,'0.65,8.75,2.55,9.55
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2013,'0.8,4.5,2.2,14
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2013,'0.9,7.9,3.1,5.2
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2013,NA,4.6,NA,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2013,'0.8,8.15,2.5,10.5
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2013,2.35,8.25,3.55,9.15
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2013,3.9,6,4.7,11.53
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2013,'0.15,2.65,1.25,8.55
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2013,'0.3,3.7,5,6.3
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2013,1.59,6.59,2.59,9.29
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2013,2.06,4.25,3.033333,7.171429
+MP,Chhatarpur,Bijawar,Bijawar,24.61333333,79.66916667,Motigarh,"Dug Well",W29006,2013,2.3,NA,3.1,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(S),"Bore Well",W29015,2013,3.17,NA,7.07,12.67
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(S),"Bore Well",W29045,2013,1.09,9.09,4.29,9.04
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2013,2.58,8.28,4.68,13.03
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2012,NA,7.5,5.14,9.78
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(S),"Bore Well",W29073,2012,NA,NA,2.92,NA
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2012,NA,6.05,5.77,10.15
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2012,NA,9.5,5.28,16.5
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2012,NA,3.9,5.84,9.88
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2012,NA,4.8,4.36,11.17
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2012,NA,5.52,3.18,9.67
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2012,NA,5.1,3.64,8.6
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2012,NA,8.36,9.24,10.9
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2012,NA,7.88,6.52,11.08
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2012,NA,2.95,4.47,10.58
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2012,NA,NA,6.69,10.2
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2012,NA,2.6,4.21,8.12
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2012,NA,4.18,5.5,6.76
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2012,NA,5.2,4.47,8.9
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2012,NA,10.58,8.41,14.88
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2012,NA,NA,2.82,8.79
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2012,NA,8.67,7.32,8.49
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2012,NA,9.85,8.38,14.17
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2012,NA,5.5,3.67,9.7
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2012,NA,7.55,5.66,9.77
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2012,NA,7.24,2.94,8.42
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2012,NA,NA,2.26,5.75
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2012,NA,NA,4,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2012,NA,8.4,7.29,10.75
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2012,NA,6.45,6.78,9.5
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2012,NA,8.95,5.35,11.53
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2012,NA,'0.65,3.61,5.49
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2012,NA,3.5,2.56,6.15
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2012,NA,5.19,3.73,7.07
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2012,NA,2.65,3.13,11.5
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(S),"Bore Well",W29015,2012,NA,NA,4.19,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(S),"Bore Well",W29045,2012,NA,NA,5.3,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2012,NA,7.58,5.66,10.76
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2011,4.6,8.45,4.64,10.7
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2011,2.39,11.5,2.7,11.5
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2011,1.95,10.15,3.63,10.15
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2011,2.98,7.6,4.37,16.5
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2011,2.96,9.48,5.3,14.6
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2011,4.53,14.1,4.08,19.88
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2011,1.34,8.44,2.61,11.4
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2011,2.23,8.2,3.48,8.6
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2011,8.68,9.53,8.22,11.9
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2011,5.3,11.08,6.16,11.08
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2011,2.42,7.86,3.61,12.72
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2011,5.43,8.48,5.87,10.2
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2011,2.44,5.5,3.9,10.94
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2011,3.9,5.4,4.42,7.57
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2011,1.26,5.67,3.17,9.28
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2011,7.18,14.24,8.06,15.9
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2011,1.4,4.87,2.53,8.79
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2011,6.09,8.81,7.1,8.61
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2011,10.45,15.35,7.9,15.55
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2011,5.23,12.4,3.27,12.4
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2011,4.79,10.05,5.24,14.45
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2011,1.89,5.23,3.3,8.9
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2011,'0.95,2.94,1.86,5.97
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2011,2.79,9.5,3.1,9.5
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2011,9.49,11.2,7.45,11.05
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2011,6.91,9.35,7.13,10.91
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2011,3.22,6.96,2.87,11.53
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2011,4.2,6.83,3.34,10.25
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2011,1.3,6.16,2.18,8.65
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2011,2.95,4.92,3.53,7.46
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2011,6.17,9.22,5.38,11.42
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2010,9.6,8.58,7.7,10.83
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2010,NA,10.19,3.4,9.9
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2010,7.75,6.49,6.6,NA
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2010,4.25,13.16,7.4,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2010,9.9,9.19,10.35,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2010,NA,NA,NA,13.28
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2010,6.2,6.69,6.7,10.15
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2010,NA,NA,NA,8.55
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2010,5.16,8.33,8.2,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2010,9.78,8.76,11.5,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2010,NA,9.77,5.1,NA
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2010,NA,9.05,10.5,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2010,3.2,5.59,5.55,8.42
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2010,4.48,4.67,5.1,7.12
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2010,3.1,5.49,4.3,7.19
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2010,8.72,13.64,11.35,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2010,NA,6.48,2.8,6.84
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2010,6.52,7.16,8.3,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2010,13.45,13.99,13.1,15.05
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2010,7.9,8.37,8.65,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2010,9.95,9.02,9.1,11.3
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2010,1.3,7.28,2.65,7.6
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2010,NA,3.58,3.3,4.84
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2010,5.4,NA,3.4,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2010,9.6,8.6,10.6,10.48
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2010,8.54,NA,8.8,9.91
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2010,8.7,10.54,4.1,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2010,10.45,9.93,6.85,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2010,5.89,6.66,6.15,9.28
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2010,NA,NA,NA,12.12
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2009,9.53,8.1,8.68,10.2
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2009,7.36,7,6.04,11.5
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2009,6.76,5.23,6.1,8.15
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2009,4.77,9.05,8.75,16.5
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2009,8.92,8.12,7.95,14.6
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2009,NA,6.9,NA,11.91
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2009,7.24,6.2,6.27,9.8
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2009,NA,5.36,NA,8.5
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2009,9.52,7.61,8.36,9.76
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2009,9.48,7.93,8.48,10.08
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2009,2.88,9.28,8.78,12.26
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2009,5.57,7.63,8.86,10.2
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2009,5.64,5.96,5.92,8
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2009,4.38,3.78,4.53,6.08
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2009,2.78,5.78,3.12,8.23
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2009,14.07,13.28,12.88,14.88
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2009,'0.31,2.89,2.72,8.79
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2009,7.09,8.32,7.78,8.32
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2009,13.47,11.11,14.25,13.85
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2009,7.46,7.72,7.25,12.4
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2009,9.45,7.4,8.38,8.71
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2009,3.53,5.55,2.83,8.3
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2009,'0.78,3.02,1.64,5.93
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2009,8.46,6.43,7.75,8.3
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2009,8.09,7.85,7.79,9.09
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2009,8.09,7.96,6.25,11.53
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2009,NA,8.75,NA,9.92
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2009,NA,6.55,NA,9.13
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2009,5.43,4.26,4.76,7.03
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2009,NA,9.03,NA,11.26
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2008,4.7,NA,6.45,12.3
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2008,4.1,11.5,6.09,11.5
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2008,1.4,10.15,5.4,10.15
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2008,3.9,11.2,8.25,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2008,4.85,11.2,5.2,12.55
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2008,2.12,13.16,5.54,16.45
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2008,1.4,9.7,3.55,11.7
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2008,'0.3,9.68,2.41,10.46
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2008,5.7,11.1,NA,14.06
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2008,6.3,11.08,3.65,11.08
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2008,3.35,6.2,8.72,NA
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2008,2.76,10.2,6.4,10.2
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2008,3.4,7.3,4.38,10.7
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2008,2.9,6.1,4.18,7.38
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2008,2.4,6.85,3.16,8.75
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2008,7.8,14.8,10.1,15.28
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2008,'0.8,4.35,2.12,6.05
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2008,4.65,8.3,7.5,8.32
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2008,9.2,15.75,9.05,15.75
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2008,5.9,9.9,10.42,9.9
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2008,3.7,11.4,5.54,14.45
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2008,'0.6,7.9,4.85,14.7
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2008,1.65,4.65,2.49,6.15
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2008,4.7,11.05,5.67,11.05
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2008,6.4,10.45,7.1,NA
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2008,10.7,11.53,6.5,11.53
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2008,NA,NA,6.27,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2008,6.43,11.24,6.5,11.7
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2008,3.85,9.29,4.34,9.29
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2008,6.14,15.64,6.63,13.32
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2007,11.5,11.9,10.5,11.82
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2007,11.5,10.1,12.7,11.5
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2007,10.15,8.87,11,10.15
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2007,7.92,12,8.45,13.2
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2007,8.54,11.4,10.2,14.6
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2007,12,10.6,7.96,12.3
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2007,7.76,9.36,7.45,11.05
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2007,7.9,8.1,8.92,8.7
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2007,11.71,8.73,NA,11.66
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2007,11.08,11.08,11.5,11.08
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2007,NA,10.8,5.35,NA
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2007,9.36,7.6,10.5,10.2
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2007,5.3,5.2,5.05,11
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2007,5.48,4.91,5.4,6.28
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2007,3.93,6.1,5.55,8.4
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2007,12.28,14.88,13.6,15.1
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2007,1.15,3.25,2.95,4.25
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2007,7.52,9.22,7.9,8.72
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2007,14.85,13.9,16.3,15.2
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2007,9.9,9.9,11,9.9
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2007,11.85,12.35,10.4,14.45
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2007,6.3,7.2,5.2,11.92
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2007,2.2,5.8,3.05,5.6
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2007,11.05,8.87,11.65,11.05
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2007,9.2,9.78,9.2,10.21
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2007,11.53,11.53,9.9,11.53
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2007,10.3,8.3,9.57,9.8
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2007,7.69,6.14,5.9,8.49
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2007,13.1,12.28,11.09,12.35
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2006,9.93,7.55,10.05,11.42
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2006,8.2,7.5,5.76,9.85
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2006,3.25,7.14,7.85,9.38
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2006,2.42,9.93,9.52,13.2
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2006,7.4,9,8.94,9.44
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2006,6.8,6.08,7.92,10.05
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2006,4.62,6.06,7.78,9.6
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2006,3.7,5.49,4,8.3
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2006,7.72,NA,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2006,8.6,9.67,10.32,11.08
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2006,7.58,6.16,9.22,4.98
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2006,5.65,5.75,6.72,7.75
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2006,4.78,5.84,6.97,8.15
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2006,2.9,3.43,3.98,6.13
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2006,'0.4,6.54,4.34,8
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2006,9.98,12.98,11.83,14.57
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2006,'0.58,2.2,2.57,4.5
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2006,6.52,8.5,8.57,7.89
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2006,12.15,11.16,12.55,13.25
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2006,5.98,7.45,7.15,6.3
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2006,9.05,8.8,10.35,10.45
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2006,1.63,5.67,5.25,14.7
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2006,1.2,2.04,3.12,4.8
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2006,8.45,9.35,9.1,11.03
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2006,6.85,8.77,8.78,9.65
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2006,7.7,7.64,7.8,11.53
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2006,NA,6.75,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2006,15.9,5.15,7.5,7.3
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2006,3.89,4.34,5.21,6.83
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2006,10.88,7.73,10.42,10.88
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2005,4.15,6.82,3.49,9.59
+MP,Chhatarpur,Laundi,Laundi,25.13888889,80.00555556,LaundiDW,"Dug Well",W20601,2005,NA,NA,5.15,NA
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2005,3.33,5.44,4.91,8.85
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2005,'0.6,11.15,4.86,13.2
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2005,3.12,7.93,5.76,9.06
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2005,2.3,5.45,3.71,8.66
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2005,2.75,5.89,3.84,9.62
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2005,'0.6,5.87,2.81,8.66
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2005,4.36,NA,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2005,NA,7.69,5.47,7.6
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2005,1.7,6.02,4.83,8.61
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2005,2.8,4.05,2.9,8.71
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2005,2.7,7.79,6.06,9.48
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2005,2.85,3.98,3.64,6.05
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2005,2.23,5.17,5.49,11.3
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2005,8.88,11.54,8.97,13.91
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2005,1.4,3.28,2.22,8.24
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2005,5.28,10.82,6.52,9.26
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2005,9.51,8.49,8.52,8.78
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2005,5.7,8.27,6.52,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2005,5.72,8.34,7.09,9.52
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2005,1.3,4.67,3.66,6.41
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2005,1.78,4.67,1.76,7.72
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2005,9.35,6.46,NA,8.36
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2005,7.92,7.15,8.32,9.06
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2005,6.13,8.2,8.1,8.54
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2005,6.34,8.77,6.08,11.53
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2005,5.54,5.6,NA,7.73
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2005,2.6,4.79,4,6.18
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2005,3.23,6.06,3.98,6.95
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2005,7.28,7.77,6.57,10.4
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2004,4.15,6.8,4.76,9.43
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2004,5.33,7.48,5.3,9.75
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2004,2.9,4.68,5.04,7.93
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2004,2.23,9.7,4.61,12
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2004,5.38,5,6.78,7.09
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2004,2.46,3.33,3.74,8.27
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2004,3.29,6,4.21,9.55
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2004,2.37,3.5,2.78,8.35
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2004,NA,11.76,11.76,11.76
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2004,6.8,5.38,7.44,6.87
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2004,4.59,5.7,5.79,9.78
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2004,3.04,3.9,3.14,6.25
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,2004,NA,16.1,NA,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2004,2.75,5.8,4.01,7.73
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2004,3.06,3.08,4.16,5.58
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2004,1.38,5.5,3.42,7.11
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2004,8.84,10.28,8.81,14.06
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2004,NA,2.55,2.21,3.05
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2004,8.14,7.59,6.66,7.92
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2004,3.82,5.25,5.97,9.22
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2004,8.69,4.9,6.99,6.35
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2004,5.37,7.35,5.77,8.52
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2004,3.18,4,3.09,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2004,1.3,1.9,3.66,4.7
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2004,6.51,3.9,5.22,9
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2004,6.64,5.2,6.96,9.67
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2004,6.68,7.28,7.08,8.34
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2004,5.76,4.2,6.94,7.8
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2004,5.12,4.35,4.5,6.75
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2004,3.62,3.3,3.74,5.85
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2004,2.68,5.89,4.18,5.04
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2003,10.26,12.68,9.42,14.58
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2003,1.18,6.4,2.55,7.8
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2003,5.32,7.82,5.44,8.28
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2003,9.05,12.45,2.95,15.25
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2003,2.78,6.66,4.95,5.8
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2003,7.11,8.96,5.1,10.65
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2003,1.1,5.3,2.23,6.8
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2003,'0.96,2.35,'0.72,4.2
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2003,4.84,6.1,3.5,9.6
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2003,7.8,8.4,3.3,10.2
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2003,7.35,8.55,5.65,9.45
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2003,7.03,9.55,2.45,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2003,4.91,5.88,3,8.15
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2003,2.94,5,2.35,9.2
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2003,3.66,7.15,3.79,8.39
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2003,5.3,8.06,4.1,9.95
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2003,6.35,8.58,4.24,11.12
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2003,3.15,8.51,2.35,9.05
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2003,2.36,10.86,6.75,11.1
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2003,7.92,6.5,5.79,7.4
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2003,6.2,7,3.27,8.5
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2003,5.3,7.4,2.84,9.9
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2003,'0.64,6.05,1.67,9.13
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2003,4.86,7.42,4.44,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2003,7.14,10.04,6.01,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2003,8.85,1.48,NA,4.4
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2003,3.44,5.04,2.72,6.95
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,2003,16.1,NA,9.79,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2003,2.2,5.9,3.51,8.1
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2003,3.98,3.89,3.54,6.58
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2003,'0.01,7.7,NA,3.85
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2002,8.08,11.86,9.96,14.83
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2002,NA,8.15,1.85,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2002,4.37,8.37,10.12,8.14
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2002,11.35,8.23,9.15,11.99
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2002,3.85,4.83,5.86,6.68
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2002,8.27,8.27,7.82,9.81
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2002,'0.7,9,2.4,6.88
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2002,1.95,3.41,1.75,7.58
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2002,5.1,5.38,4.7,9.4
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2002,8.62,7.4,7.15,9.08
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2002,7.2,8.21,6.59,9.2
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2002,5.2,5.6,7.5,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2002,7.5,5.52,5.15,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2002,1.6,4.7,2.9,6.75
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2002,4.57,6.7,4.29,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2002,9.42,7.86,6.65,9.98
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2002,11.28,8.62,7.08,10.43
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2002,5.37,6.19,6.22,9.93
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2002,6.35,11.92,8.76,16.2
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2002,6.6,5.82,7.6,7.43
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2002,7.6,5.3,5.33,8.67
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2002,4.62,7.35,4.45,9.66
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2002,NA,5.2,NA,8.72
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2002,NA,7.28,NA,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2002,5.26,9.11,7.45,11.26
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2002,3.66,3.84,5.7,8.72
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2002,2.68,4.08,3.78,6.16
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,2002,NA,11.68,10,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2002,3.05,6.65,3.78,9.22
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2002,8.03,6.34,3.73,6.1
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2002,4.08,5.63,3.7,7.74
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2001,2.89,5.89,5.31,NA
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2001,1.16,9.4,3.84,8.09
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2001,4.08,11.35,6.15,14.45
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2001,2.08,8.42,5.1,7.87
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2001,'0.96,NA,3.48,7.1
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,2001,6.2,NA,10.7,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2001,2.2,7.8,4.2,10.56
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2001,1.9,4.33,3.12,6.58
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2001,3.71,5.65,4.67,NA
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2001,NA,5.56,2.47,8.91
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2001,NA,2.37,7.23,4.26
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2001,5.92,8.75,7.66,9.91
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2001,2.5,5.84,3.55,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2001,3.96,7.66,6.54,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2001,2.75,9.65,6.69,10.73
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2001,1.1,7.6,2.99,8.32
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2001,5.85,8.25,7.99,8.85
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2001,1.05,8.6,4.73,9.88
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2001,4.8,7.32,7.6,8.15
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2001,'0.88,7.6,5.12,9.13
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2001,4.04,6.94,6.38,8.74
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2001,2.5,9.6,4.8,11.45
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2001,2.2,8.35,2.38,5.77
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2001,NA,9.08,10.4,13.55
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2001,3.13,5.98,4.48,8.96
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2001,2.67,7.95,4.82,9.41
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2001,7.94,14.23,9.58,15.98
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2001,3.08,9.18,6.13,11.01
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2001,1.84,2.45,1.8,5.05
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2001,1.75,8.3,6.17,10.38
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2001,3.84,4.68,4.62,6.23
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,2000,2.79,6.47,6.5,9.35
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,2000,5.8,3.36,4.18,4.95
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,2000,3.06,7.65,5.47,10.53
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,2000,6.24,15.3,10.16,NA
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,2000,2.24,4.41,3.35,5.96
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,2000,2.69,5.1,4.16,7.6
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,2000,7.12,7.5,7.68,8.7
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,2000,5.36,NA,6.44,7.46
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,2000,5.48,3.04,5.67,7.1
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,2000,4.2,4.93,6.49,8.2
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,2000,5.87,2.8,4.14,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,2000,4.9,4.73,4.93,7.8
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,2000,3.99,9.68,9.8,10.01
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,2000,3.9,4.82,5.55,8.35
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79166667,79.79527778,Ganj(D),"Bore Well",W00074,2000,7.13,7.27,7.54,9.7
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,2000,3.69,4.51,3.95,6.29
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,2000,1.78,3.37,2.68,5.4
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,2000,3.86,2.95,4.39,6.12
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,2000,3.62,3.97,3.8,7.9
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,2000,6.42,7.46,7.14,8.1
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,2000,5.49,3.4,5.75,6.9
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,2000,3.94,4.32,4.4,8.6
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,2000,'0.82,2.06,2.2,5.1
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,2000,1.25,3.58,3.9,5.1
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,2000,7.86,6.53,8.63,8.55
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,2000,2.54,5.98,2.19,4.67
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,2000,8.83,5.8,6.52,10.85
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,2000,6.62,6.45,7.87,7.79
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,2000,'0.92,1.92,4.45,5.65
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,2000,13.31,9.3,12.78,13.52
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,2000,5.76,6.55,6.38,9.23
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,1999,1.47,7.91,5.9,7.91
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,1999,NA,2.99,1.42,8.72
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,1999,'0.3,4.03,2.77,5.74
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,1999,1.24,7.73,3.9,9.27
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,1999,'0.5,3.64,2.6,5.75
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,1999,NA,2.37,1.82,5.85
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,1999,NA,4.42,3.68,7.39
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,1999,'0.42,5.94,1.86,8.19
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,1999,2.55,7.87,6.5,8.72
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,1999,'0.88,8.41,2.06,11.87
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,1999,1.45,5.95,2.85,7.11
+MP,Chhatarpur,Rajnagar,Rajnagar,24.85583333,79.93833333,Khajuraho(D),"Bore Well",W00670,1999,NA,NA,1.38,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,1999,2.79,4.4,4.52,5.95
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,1999,1.53,8.45,4.35,10.14
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,1999,'0.33,7.04,2.67,9.08
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,1999,'0.5,10.59,7.06,13.57
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,1999,1.2,6.4,3.52,7.17
+MP,Chhatarpur,Bijawar,Bijawar,24.63944444,79.48166667,Bijawar(D),"Bore Well",W00063,1999,NA,NA,2.68,NA
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,1999,'0.3,6.02,2.2,9.3
+MP,Chhatarpur,Eshanagar,Eshanagar,24.93222222,79.58638889,Chhatarpur,"Bore Well",W00066,1999,NA,NA,1.6,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,1999,2.36,6.9,4.72,8.25
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,1999,2.38,7.71,6.21,9.19
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,1999,NA,5.21,3.32,8.53
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,1999,NA,4.78,3.15,6.85
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,1999,3.58,15.21,13.05,13.63
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,1999,1.31,8.09,4.43,7.85
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,1999,1.13,3.86,3.72,6.18
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,1999,'0.65,6.96,2.85,9.34
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,1999,4.73,13.45,7.52,15.13
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,1999,3.75,8.36,3.25,12.08
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,1998,5.78,9.82,7.29,7.78
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,1998,5.53,3.62,7.4,8.17
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,1998,2.43,3,2.71,4.48
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,1998,4.36,5.87,5.57,8.25
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,1998,'0.84,1.5,2.74,4.72
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,1998,'0.68,1.25,1.67,4.22
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,1998,4.8,2.65,3.19,6.04
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,1998,3.97,4.55,4.39,7.28
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,1998,4.71,7.03,6.83,7.85
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,1998,5.22,2.6,5.66,6.35
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,1998,4.21,2.95,4.55,5.23
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,1998,3.59,4.64,4.12,4.93
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,1998,6.68,6,7.19,8.64
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,1998,2.07,4.35,4.38,7.2
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,1998,1.94,7.45,9.2,11.3
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,1998,2.57,5.22,4.07,5.66
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,1998,1.35,2.55,3.34,7.22
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,1998,3.68,4.16,5.98,NA
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,1998,5.14,2.68,6.46,8.09
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,1998,1.63,3.32,3.7,6.47
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,1998,2.75,2.95,3.2,5.61
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,1998,6.1,12.15,15.15,NA
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,1998,3.51,5.6,5,NA
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,1998,3.46,3.98,3.58,5.85
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,1998,'0.74,2.85,3.47,7.96
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,1998,9.26,10.63,10.69,14.35
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,1998,1.34,1.67,2.5,3.7
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,1997,2.5,10.34,7.6,11.83
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,1997,9.9,7.82,9.94,8.12
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,1997,6.1,6.1,2.6,6.48
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,1997,11.53,10.45,8.48,15.32
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,1997,3.37,4.57,4.35,8.57
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,1997,1.07,5.1,2.98,9.8
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,1997,3,3.6,2.92,6.9
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,1997,3.85,3.76,4.1,6.59
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,1997,4.35,4.51,4.03,6.55
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,1997,7.9,7.86,5.56,9.88
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,1997,6.8,7.35,5.31,9.43
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,1997,3.7,7.07,4.13,9.45
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,1997,4.6,3.51,2.9,6.2
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,1997,NA,15,22.8,15.4
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,1997,'0.8,3.76,1.37,4.68
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,1997,3.95,4.48,3.08,6.32
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,1997,4.73,4.66,2.73,8.98
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,1997,NA,5.32,3.5,6.58
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,1997,5.85,5.8,3.51,8.16
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,1997,7.43,4.34,2.82,7.83
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,1997,6.05,7.81,6.55,8.73
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,1997,5.06,4.78,4.48,7.17
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,1997,8,4.43,1.67,8.66
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,1997,4.3,6.58,2.52,9.96
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,1997,8.08,6.28,4.24,8.45
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,1997,7.2,6.88,5.78,7.15
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,1997,'0.81,3.23,1.47,5.15
+MP,Chhatarpur,Bijawar,Bijawar,24.58805556,79.60972222,Tapra,"Dug Well",W00658,1996,3.94,7.66,6.66,7.85
+MP,Chhatarpur,Bijawar,Bijawar,24.48138889,79.72305556,Raipura,"Dug Well",W00657,1996,'0.53,3.65,3.18,9.15
+MP,Chhatarpur,Bijawar,Bijawar,24.56222222,79.53277778,"Khair kalan","Dug Well",W00656,1996,6.86,13.56,8.45,15.93
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.54694444,79.25277778,Sendpa,"Dug Well",W00655,1996,'0.45,10.12,3.36,9.6
+MP,Chhatarpur,"Bada Malhara",Bakswaha,24.4775,79.275,Sadwa,"Dug Well",W00654,1996,3.36,5.43,4.16,7.18
+MP,Chhatarpur,Rajnagar,Rajnagar,24.79194444,79.79527778,Ganj,"Dug Well",W00073,1996,6.1,8.91,6.12,10.42
+MP,Chhatarpur,Rajnagar,Rajnagar,24.75,79.95888889,"Chandra nagar","Dug Well",W00072,1996,2.97,6.81,4.04,6.7
+MP,Chhatarpur,Nowgaon,Nowgaon,25.2825,79.33472222,Harpalpur,"Dug Well",W00071,1996,15,NA,15,15
+MP,Chhatarpur,Laundi,Laundi,25.06722222,80.19444444,Chandla,"Dug Well",W00070,1996,2.08,5.15,3.6,7.5
+MP,Chhatarpur,Gaurihar,Gaurihar,25.26833333,80.19444444,Gaurihar,"Dug Well",W00069,1996,3.08,5.68,4.1,6.42
+MP,Chhatarpur,Eshanagar,Eshanagar,24.86194444,79.38472222,Issanagar,"Dug Well",W00068,1996,1.73,6.06,3.2,6.76
+MP,Chhatarpur,Eshanagar,Eshanagar,24.9,79.59111111,Chhatarpur1,"Dug Well",W00067,1996,3.81,6.61,3.79,8.56
+MP,Chhatarpur,Bijawar,Bijawar,24.6925,79.36888889,Gulganj,"Dug Well",W00065,1996,4.3,8.85,4,9.12
+MP,Chhatarpur,Bakswaha,Bakswaha,24.24861111,79.28722222,Buxwaha,"Dug Well",W00061,1996,8.42,10.48,8.94,11.7
+MP,Chhatarpur,"Bada Malhara","Bada Malhara",24.50888889,79.09111111,Ghuara,"Dug Well",W00060,1996,2,8.1,3.53,9.32
+MP,Chhatarpur,Rajnagar,Rajnagar,24.86805556,79.72,Kurri,"Dug Well",W00672,1996,3.49,9.75,3.94,6.36
+MP,Chhatarpur,Rajnagar,Rajnagar,24.84972222,79.93111111,Khajuraho,"Dug Well",W00669,1996,1.6,4.93,2.97,6.69
+MP,Chhatarpur,Nowgaon,Nowgaon,25.04472222,79.86527778,Tatampur,"Dug Well",W00668,1996,4.28,5.68,2.33,10.08
+MP,Chhatarpur,Nowgaon,Nowgaon,25.115,79.3875,Putaria,"Dug Well",W00667,1996,5.5,8,6.4,8.1
+MP,Chhatarpur,Nowgaon,Nowgaon,25.05416667,79.45,Nowgaon,"Dug Well",W00666,1996,7.45,8.39,4.9,8.58
+MP,Chhatarpur,Laundi,Laundi,25.13916667,80.00472222,Laundi,"Dug Well",W00664,1996,2.56,4.26,3.05,7.37
+MP,Chhatarpur,Gaurihar,Gaurihar,25.18611111,80.28722222,Sarwai,"Dug Well",W00663,1996,1.52,1.95,1.92,4.2
+MP,Chhatarpur,Eshanagar,Eshanagar,24.99638889,79.65138889,Niwari1,"Dug Well",W00662,1996,3.44,6.83,1.95,9.57
+MP,Chhatarpur,Eshanagar,Eshanagar,24.79777778,79.47722222,Matgawan,"Dug Well",W00661,1996,5.45,9.51,4.95,9.8
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02666667,79.79888889,Mankari,"Dug Well",W00660,1996,'0.83,11.94,2.48,6.5
+MP,Chhatarpur,Eshanagar,Eshanagar,25.02083333,79.72555556,Maharajpur,"Dug Well",W00659,1996,8.27,8.31,8.05,10.3
+MP,Chhatarpur,Bijawar,Bijawar,24.65027778,79.49805556,Bijawar,"Dug Well",W00062,1996,3.44,6,3.52,8.75

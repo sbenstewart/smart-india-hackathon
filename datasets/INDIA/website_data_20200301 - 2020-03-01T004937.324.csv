@@ -1,0 +1,629 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2018,5.6,6.25,NA,NA
+GJ,"Panch Mahals",Fatepura,Santrampur,23.22777778,73.97694444,Sarsava,"Dug Well",W31605,2018,NA,9.46,1.6,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2018,1.7,3.27,NA,NA
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2018,1.9,1.7,NA,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2018,5.59,7.29,NA,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2018,3.36,7.01,NA,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2018,'0.35,8.95,NA,NA
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2018,3.1,3.8,NA,NA
+GJ,"Panch Mahals",Ghoghamba,Ghoghamba,22.52277778,73.70083333,"Palla Rajgarh Pz","Bore Well",W22732,2018,8.5,19.3,NA,NA
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2018,3.63,5.9,NA,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2018,6.04,4.15,NA,NA
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",22.85722222,73.82055556,Natapur,"Dug Well",W22736,2018,4.72,6.88,NA,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2018,NA,3.1,NA,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2018,NA,NA,7.01,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2018,NA,2.45,2.4,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2018,NA,17.4,4.15,NA
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",23.06222222,73.85083333,Suliyat,"Dug Well",W22737,2018,NA,19.4,14.2,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.11916667,73.47166667,"Ucharpi Pz","Bore Well",W22734,2018,NA,12.6,12.95,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2018,NA,7.99,6.83,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2018,NA,2.74,2.4,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2018,NA,2.37,2.05,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2018,NA,3.78,3.1,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2018,NA,6.6,5.35,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2018,NA,6.37,3.9,NA
+GJ,"Panch Mahals",Kalol,Kalol,22.60027778,73.44333333,Kalol_UR1,"Dug Well",W31550,2018,9.9,17.2,NA,NA
+GJ,"Panch Mahals",Kalol,Kalol,22.66222222,73.50027778,Khadki_Vadiya,"Dug Well",W31555,2018,11.4,15.79,NA,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.75861111,73.50666667,Dhanol,"Dug Well",W31562,2018,1,2.2,NA,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.78,73.60694444,Godhra_UR3,"Dug Well",W31564,2018,'0.88,1.54,NA,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.79277778,73.60666667,Godhra_UR1,"Dug Well",W31566,2018,2.83,7.46,NA,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.82777778,73.6125,Chhabanpur,"Dug Well",W31570,2018,4.65,8.18,NA,NA
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.80333333,73.79305556,Santroad1,"Dug Well",W31567,2018,6.1,13.5,NA,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.37,73.67722222,Khanpur,"Dug Well",W31620,2018,9.37,11.84,NA,NA
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.91805556,73.84444444,"Morwa (Hadaf) Pz-I","Bore Well",W28058,2018,NA,11.3,NA,NA
+GJ,"Panch Mahals",Kalol,Kalol,22.58972222,73.45138889,Kalol_UR2,"Dug Well",W31549,2018,NA,13.07,NA,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.76916667,73.59111111,Godhra_UR2,"Dug Well",W31563,2018,NA,7.81,NA,NA
+GJ,"Panch Mahals",Jambughoda,Jambughoda,22.40138889,73.685,Javan,"Dug Well",W31515,2018,NA,6,4.85,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.17833333,73.65222222,Kantha,"Dug Well",W31601,2018,NA,2.68,1.9,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.06194444,73.62027778,Jokha,"Dug Well",W31587,2018,NA,7.15,5.63,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2018,9,8.3,NA,NA
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2017,'0.6,1.85,1.72,2.9
+GJ,"Panch Mahals",Fatepura,Santrampur,23.22777778,73.97694444,Sarsava,"Dug Well",W31605,2017,1.7,8.2,4.45,11.55
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2017,6.16,4.36,5.16,15.56
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2017,4.16,5.71,5.31,8.06
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2017,5.66,7.76,5.54,10.36
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2017,6.4,7.7,4.4,13.3
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2017,4.7,4.6,4.7,6.15
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2017,5.9,8.08,5.3,10.9
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2017,6.94,8.74,2.34,4.14
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",22.85722222,73.82055556,Natapur,"Dug Well",W22736,2017,5.5,8.1,6.75,9
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",23.06222222,73.85083333,Suliyat,"Dug Well",W22737,2017,6.4,22.7,14.8,18.35
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2017,5.86,9.01,6.71,11.46
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2017,1.9,3.2,3.45,5.1
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2017,4.2,4.76,4.28,8.8
+GJ,"Panch Mahals",Jambughoda,Jambughoda,22.37277778,73.72277778,Jambughoda-1,"Dug Well",W22733,2017,NA,NA,NA,3.9
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2017,7.05,6.15,5.32,6.75
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2017,3.9,7,7,12.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2017,NA,8.2,NA,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2017,NA,6.32,5.4,9.3
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2017,2.8,4,4.75,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2017,1.2,6.05,2.9,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2017,NA,NA,4.21,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2017,1.9,3.8,NA,4.4
+GJ,"Panch Mahals",Ghoghamba,Ghoghamba,22.52277778,73.70083333,"Palla Rajgarh Pz","Bore Well",W22732,2017,12.5,17.9,NA,34.3
+GJ,"Panch Mahals",Lunawada,Lunawada,23.11916667,73.47166667,"Ucharpi Pz","Bore Well",W22734,2017,8.85,13,NA,19.4
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2017,2.35,3,NA,3.43
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2017,NA,12.7,NA,15.2
+GJ,"Panch Mahals",Kalol,Kalol,22.58972222,73.45138889,Kalol_UR2,"Dug Well",W31549,2017,12.94,14.84,12.21,NA
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.91805556,73.84444444,"Morwa (Hadaf) Pz-I","Bore Well",W28058,2017,7.5,11.4,NA,12.9
+GJ,"Panch Mahals",Jambughoda,Jambughoda,22.40138889,73.685,Javan,"Dug Well",W31515,2017,3.95,6.4,NA,9.1
+GJ,"Panch Mahals",Godhra,Godhra,22.75861111,73.50666667,Dhanol,"Dug Well",W31562,2017,1.3,2.46,NA,4.5
+GJ,"Panch Mahals",Khanpur,Khanpur,23.37,73.67722222,Khanpur,"Dug Well",W31620,2017,5.75,12.2,NA,12.6
+GJ,"Panch Mahals",Kalol,Kalol,22.60027778,73.44333333,Kalol_UR1,"Dug Well",W31550,2017,15.1,12.7,17.33,13.6
+GJ,"Panch Mahals",Kalol,Kalol,22.66222222,73.50027778,Khadki_Vadiya,"Dug Well",W31555,2017,1.6,10.75,15.2,14.3
+GJ,"Panch Mahals",Godhra,Godhra,22.76916667,73.59111111,Godhra_UR2,"Dug Well",W31563,2017,8.05,8.95,2.38,10.25
+GJ,"Panch Mahals",Godhra,Godhra,22.78,73.60694444,Godhra_UR3,"Dug Well",W31564,2017,1.18,2.7,3.38,9.18
+GJ,"Panch Mahals",Godhra,Godhra,22.79277778,73.60666667,Godhra_UR1,"Dug Well",W31566,2017,3.18,4.59,3.78,5.73
+GJ,"Panch Mahals",Godhra,Godhra,22.82777778,73.6125,Chhabanpur,"Dug Well",W31570,2017,5.7,8.55,7.75,10
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.80333333,73.79305556,Santroad1,"Dug Well",W31567,2017,6.4,13.4,9.2,15.55
+GJ,"Panch Mahals",Lunawada,Lunawada,23.17833333,73.65222222,Kantha,"Dug Well",W31601,2017,2.15,3.4,2.73,4.57
+GJ,"Panch Mahals",Lunawada,Lunawada,23.06194444,73.62027778,Jokha,"Dug Well",W31587,2017,4.53,10.03,3.88,8.28
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2017,1.5,8.05,5.35,30.2
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2016,7.5,NA,2.11,5.84
+GJ,"Panch Mahals",Godhra,Godhra,22.82777778,73.6125,Chhabanpur,"Dug Well",W31570,2016,6.5,12.38,8.05,12.95
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2016,3.25,NA,6.09,6.35
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2016,5.45,NA,3.9,15.85
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2016,3.5,NA,4,8.1
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2016,4.75,NA,6.3,10.3
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2016,2.3,NA,3,5.9
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2016,4.86,NA,5.8,10.84
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2016,4.9,NA,7.7,12.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2016,6.9,NA,3.8,13.3
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2016,3.2,NA,NA,8.2
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2016,6.36,NA,4.17,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2016,2.37,NA,1.96,5
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2016,2.3,NA,2.72,6.9
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2016,7.81,NA,7.83,11.81
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2016,'0.9,NA,2.48,5.2
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2016,4.45,NA,3.4,11.3
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2016,2.3,NA,4.6,11.3
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2016,'0.55,NA,'0.97,4.2
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2016,6.7,NA,10.7,12.83
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2016,'0.1,NA,3.77,29.68
+GJ,"Panch Mahals",Ghoghamba,Ghoghamba,22.52277778,73.70083333,"Palla Rajgarh Pz","Bore Well",W22732,2016,NA,NA,13.5,NA
+GJ,"Panch Mahals",Jambughoda,Jambughoda,22.37277778,73.72277778,Jambughoda-1,"Dug Well",W22733,2016,1.2,NA,NA,4
+GJ,"Panch Mahals",Lunawada,Lunawada,23.11916667,73.47166667,"Ucharpi Pz","Bore Well",W22734,2016,14.3,NA,12.99,19.25
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",22.85722222,73.82055556,Natapur,"Dug Well",W22736,2016,6.48,NA,6.75,10.8
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",23.06222222,73.85083333,Suliyat,"Dug Well",W22737,2016,5.85,NA,19.1,24
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.91805556,73.84444444,"Morwa (Hadaf) Pz-I","Bore Well",W28058,2016,9.3,12.99,10.17,13.8
+GJ,"Panch Mahals",Lunawada,Lunawada,23.06194444,73.62027778,Jokha,"Dug Well",W31587,2016,3.83,7.54,4.91,9.38
+GJ,"Panch Mahals",Lunawada,Lunawada,23.17833333,73.65222222,Kantha,"Dug Well",W31601,2016,1.35,3.61,1.9,7.3
+GJ,"Panch Mahals",Fatepura,Santrampur,23.22777778,73.97694444,Sarsava,"Dug Well",W31605,2016,'0.4,9.27,5.42,15.1
+GJ,"Panch Mahals",Khanpur,Khanpur,23.37,73.67722222,Khanpur,"Dug Well",W31620,2016,6,12.76,8.7,10.6
+GJ,"Panch Mahals",Jambughoda,Jambughoda,22.40138889,73.685,Javan,"Dug Well",W31515,2016,2.1,NA,5.1,11
+GJ,"Panch Mahals",Kalol,Kalol,22.58972222,73.45138889,Kalol_UR2,"Dug Well",W31549,2016,15.54,14.32,11.24,27.04
+GJ,"Panch Mahals",Kalol,Kalol,22.60027778,73.44333333,Kalol_UR1,"Dug Well",W31550,2016,15.8,15.23,14.85,17.7
+GJ,"Panch Mahals",Kalol,Kalol,22.66222222,73.50027778,Khadki_Vadiya,"Dug Well",W31555,2016,5.6,15.76,9.15,17.4
+GJ,"Panch Mahals",Godhra,Godhra,22.75861111,73.50666667,Dhanol,"Dug Well",W31562,2016,4.7,5.67,1.58,10.3
+GJ,"Panch Mahals",Godhra,Godhra,22.76916667,73.59111111,Godhra_UR2,"Dug Well",W31563,2016,7.55,6.61,8.28,11.75
+GJ,"Panch Mahals",Godhra,Godhra,22.78,73.60694444,Godhra_UR3,"Dug Well",W31564,2016,'0.98,9.09,3.58,9.48
+GJ,"Panch Mahals",Godhra,Godhra,22.79277778,73.60666667,Godhra_UR1,"Dug Well",W31566,2016,5.03,4.97,6.14,9.93
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.80333333,73.79305556,Santroad1,"Dug Well",W31567,2016,10.1,14.88,12.7,18.2
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2016,NA,NA,3.73,10.46
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2015,'0.05,2.35,1.38,2.55
+GJ,"Panch Mahals",Godhra,Godhra,22.82777778,73.6125,Chhabanpur,"Dug Well",W31570,2015,NA,NA,9.95,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2015,5.86,7.7,6.46,7.7
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2015,5.17,6.15,5.45,6.65
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2015,6.25,8.95,9.65,12.43
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2015,3.74,5.23,5.5,7.2
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2015,5.71,5.47,7.3,5.7
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2015,3.51,3.52,5,6.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2015,7.74,7.46,10.46,7
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2015,7.43,8.04,7.7,12.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2015,3.75,9.8,8.8,13.3
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2015,2.9,4.1,7.6,9.6
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2015,6.66,15.56,5.36,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2015,2.5,2.46,2.9,7.95
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2015,3,2.56,1.9,8.6
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2015,8.81,9.16,9.91,12.55
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2015,3.8,2.17,1.7,8.1
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2015,11,13.13,9.5,14.53
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2015,6.5,6.43,8.2,13.83
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2015,14,7.06,11.9,13.2
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2015,1.4,2.7,2.2,14.13
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2015,NA,10.85,12.7,12
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2015,26.8,21.3,8.25,28.55
+GJ,"Panch Mahals",Ghoghamba,Ghoghamba,22.52277778,73.70083333,"Palla Rajgarh Pz","Bore Well",W22732,2015,17.77,21,24.7,25.6
+GJ,"Panch Mahals",Jambughoda,Jambughoda,22.37277778,73.72277778,Jambughoda-1,"Dug Well",W22733,2015,NA,3.03,NA,3.8
+GJ,"Panch Mahals",Lunawada,Lunawada,23.11916667,73.47166667,"Ucharpi Pz","Bore Well",W22734,2015,NA,14.24,9.3,16
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",22.92555556,73.84722222,"Morwa (Hadaf)","Dug Well",W22735,2015,NA,11.96,NA,NA
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",22.85722222,73.82055556,Natapur,"Dug Well",W22736,2015,6.5,7.38,7.8,11.62
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",23.06222222,73.85083333,Suliyat,"Dug Well",W22737,2015,19.8,20.72,22.1,21.2
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.91805556,73.84444444,"Morwa (Hadaf) Pz-I","Bore Well",W28058,2015,11.1,11.82,12.2,11.8
+GJ,"Panch Mahals",Lunawada,Lunawada,23.06194444,73.62027778,Jokha,"Dug Well",W31587,2015,NA,NA,6.28,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.17833333,73.65222222,Kantha,"Dug Well",W31601,2015,NA,NA,5.7,NA
+GJ,"Panch Mahals",Fatepura,Santrampur,23.22777778,73.97694444,Sarsava,"Dug Well",W31605,2015,NA,NA,8,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.37,73.67722222,Khanpur,"Dug Well",W31620,2015,NA,NA,7.6,NA
+GJ,"Panch Mahals",Jambughoda,Jambughoda,22.40138889,73.685,Javan,"Dug Well",W31515,2015,NA,NA,7.3,NA
+GJ,"Panch Mahals",Kalol,Kalol,22.58972222,73.45138889,Kalol_UR2,"Dug Well",W31549,2015,NA,NA,14.14,NA
+GJ,"Panch Mahals",Kalol,Kalol,22.66222222,73.50027778,Khadki_Vadiya,"Dug Well",W31555,2015,NA,NA,13.6,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.75861111,73.50666667,Dhanol,"Dug Well",W31562,2015,NA,NA,5.2,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.76916667,73.59111111,Godhra_UR2,"Dug Well",W31563,2015,NA,NA,9.05,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.78,73.60694444,Godhra_UR3,"Dug Well",W31564,2015,NA,NA,2.48,NA
+GJ,"Panch Mahals",Godhra,Godhra,22.79277778,73.60666667,Godhra_UR1,"Dug Well",W31566,2015,NA,NA,4.38,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2015,7.19,8.24,8.34,8.55
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2014,'0.3,1.1,1.55,3.08
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.91805556,73.84444444,"Morwa (Hadaf) Pz-I","Bore Well",W28058,2014,9.2,NA,10.43,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2014,8.01,4.95,4.01,8.01
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2014,4.45,NA,5.63,6.28
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2014,8.9,2.29,3.82,8.8
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2014,4.45,NA,3.98,5.37
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2014,4.15,3.36,3.75,5.78
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2014,2.45,4.32,2.52,4.17
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2014,2.16,NA,4.19,9.03
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2014,2.35,NA,4.62,10.12
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2014,'0.05,NA,3.02,7.4
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2014,1.5,NA,1.86,5.01
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2014,2.01,7.97,3.33,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2014,3.75,3.42,2.04,5.2
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2014,2.3,2.15,2.49,3.65
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2014,10.16,NA,6.67,9.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2014,2.05,1.86,1.66,4.85
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2014,29.45,NA,1.15,NA
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2014,4.7,4.38,8.74,12.2
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2014,7.22,4.78,5,5.95
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2014,7.25,4.83,4.3,6.73
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2014,2.15,1.38,1.22,3.31
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2014,12.3,NA,10.2,12.72
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2014,8.9,4.47,NA,21.87
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2014,NA,5.79,6.35,7.97
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2013,'0.37,2.3,'0.98,3.9
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.91805556,73.84444444,"Morwa (Hadaf) Pz-I","Bore Well",W28058,2013,6.4,8.4,10.04,11.89
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2013,1.77,6.5,3.28,7.86
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2013,3.74,6.28,5.65,6.46
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2013,'0.22,4.42,1.35,9.9
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2013,2.91,4.9,2.79,6.05
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2013,1.12,5.9,2.8,8.96
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2013,1.18,3.45,2.38,4.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2013,1.64,8.16,4.37,11.87
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2013,2.03,9.6,4.76,12.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2013,'0.17,9.4,3.02,13.3
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2013,'0.14,7.02,1.7,7.54
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2013,'0.45,15.56,3.16,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2013,'0.86,2.93,3.02,3.64
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2013,1.94,2.4,2.97,5.29
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2013,NA,9.19,4.79,10.25
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2013,1.81,2.08,2,2
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2013,'0.33,NA,NA,NA
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2013,3.08,12.8,7.7,13.85
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2013,3.56,6.15,4.4,9.38
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2013,1.54,11.8,3.84,8.8
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2013,'0.05,2,'0.94,3.6
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2013,11.59,13,NA,13.52
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2013,1.02,12.42,2.83,16.68
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2013,3.37,6.92,4.94,8.98
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2012,NA,2.87,1.42,4.51
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.91805556,73.84444444,"Morwa (Hadaf) Pz-I","Bore Well",W28058,2012,NA,NA,10.16,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2012,NA,5.82,3.95,8.16
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2012,NA,5.95,5.61,6.55
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2012,NA,5.47,1.73,11.98
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2012,NA,5.02,4.27,6.32
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2012,NA,6.06,3.77,9.26
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2012,NA,2.9,2.46,4.6
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2012,NA,6.41,5.08,9.76
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2012,NA,7.47,6,12.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2012,NA,6.42,NA,13.3
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2012,NA,2.75,2.28,5.5
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2012,NA,11.6,2.64,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2012,NA,2.83,2.87,4.68
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2012,NA,2.36,2.11,4.37
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2012,NA,8.42,6.8,11.24
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2012,NA,1.82,1.7,2.07
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2012,NA,3.1,NA,5.75
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2012,NA,13.26,7.64,16.27
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2012,NA,6.78,4.9,9.79
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2012,NA,9.62,4.46,9.08
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2012,NA,1.98,'0.82,3.77
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2012,NA,11.68,12.1,13.35
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2012,NA,9.26,3.37,NA
+GJ,"Panch Mahals",Ghoghamba,Ghoghamba,22.52277778,73.70083333,"Palla Rajgarh Pz","Bore Well",W22732,2012,NA,NA,12.7,22.88
+GJ,"Panch Mahals",Jambughoda,Jambughoda,22.37277778,73.72277778,Jambughoda-1,"Dug Well",W22733,2012,NA,NA,3.1,3.3
+GJ,"Panch Mahals",Lunawada,Lunawada,23.11916667,73.47166667,"Ucharpi Pz","Bore Well",W22734,2012,NA,NA,10.1,16.8
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",22.92555556,73.84722222,"Morwa (Hadaf)","Dug Well",W22735,2012,NA,NA,7.46,11.4
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",22.85722222,73.82055556,Natapur,"Dug Well",W22736,2012,NA,NA,5.62,7.58
+GJ,"Panch Mahals",Morwa(hadaf),"Morwa (hadaf)",23.06222222,73.85083333,Suliyat,"Dug Well",W22737,2012,NA,NA,11.32,15.2
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2012,NA,7.27,4.89,9.62
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2011,'0.46,2.9,2.15,4.72
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2011,1.12,13.46,4.2,14.99
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2011,3.46,7.59,4.16,NA
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2011,NA,5.86,5.59,9.52
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2011,1.09,5.77,2.92,11.84
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2011,1.96,3.8,4.68,5.55
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2011,3.46,6.2,5.69,9.25
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2011,1.07,3.52,2.68,5.18
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2011,2.46,6.47,4.66,10.29
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2011,3.25,7.07,5.47,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2011,'0.16,5.12,3.4,12.96
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2011,'0.32,3,1.84,7.05
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2011,'0.06,11.57,4.46,14.1
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2011,1.25,2.51,2.7,6.38
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2011,4.2,5.09,2.43,7.73
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2011,6.46,10.52,6.19,1.5
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2011,'0.56,1.95,1.92,1.99
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2011,1.03,6.03,2.22,8.33
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2011,13.7,12.07,9.32,13.64
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2011,NA,1.11,NA,2.63
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2011,5.62,7.86,5.06,11.05
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2011,4.11,6.26,5.1,10.2
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2011,'0.22,2.81,1,5.57
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2011,12.87,NA,NA,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2011,6.25,7.61,6.36,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2010,'0.92,4.6,2.35,5.27
+GJ,"Panch Mahals",Khanpur,Khanpur,23.30666667,73.555,Bavaliya_Pz,"Bore Well",W22045,2010,2.81,NA,6.53,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2010,5.83,8.65,4.76,10.46
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2010,4.32,6.23,5.61,8.41
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2010,1.52,12.52,4.06,15.33
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2010,1.95,5.89,3.24,7.9
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2010,3.88,9.46,5.07,12.22
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2010,2.12,4.79,3,6.18
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2010,2.13,10.74,4.76,10.84
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2010,2.23,12.5,5.3,12.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2010,'0.58,12.68,3.23,13.3
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2010,'0.81,7.84,2.06,8.2
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2010,1.2,15.56,5.36,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2010,1.06,3.48,3.04,5.19
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2010,2.82,5.72,4.06,9.85
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2010,9.16,12.27,10,11.72
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2010,1.47,2.29,1.99,2.22
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2010,3.78,7.19,5.08,9.49
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2010,6.72,NA,9.33,13.25
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2010,NA,NA,1.13,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2010,5.92,9.34,7.28,10.63
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2010,3.88,14.45,3.86,9.95
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2010,'0.91,4.35,2.03,5.57
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2010,NA,NA,12.54,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2010,7.14,5.95,7.46,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2009,3.77,2.82,8.08,4.42
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2009,NA,11.32,13.28,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2009,8.19,8.2,5.81,8.85
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2009,6.62,6,6.14,6.87
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2009,13.68,13.05,6.18,15.1
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2009,5.4,4,5.55,5.91
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2009,7.67,6.24,7.55,10
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2009,4.7,3.47,4.17,5.13
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2009,8.53,6.84,8.56,9.91
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2009,8.07,8.18,10,12.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2009,3.74,5.35,7.2,12.7
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2009,6.92,3.85,4.7,6.22
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2009,9.39,15.56,9.25,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2009,4.6,2.58,3.21,4.02
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2009,3.78,2.74,3.14,6.73
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2009,12.71,11.97,11.19,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2009,NA,1.8,'0.42,1.94
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2009,7.69,6.1,5.7,8.44
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2009,11.78,18,13.22,15.66
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2009,NA,4.15,NA,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2009,8.87,8.47,4.5,9.98
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2009,6.95,7.44,4.9,9.46
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2009,3.8,2.58,3.11,3.6
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2009,9.53,4.38,NA,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2008,'0.2,2.15,2.19,4.01
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2008,11.72,NA,NA,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2008,7.46,5.47,7.15,8.11
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2008,4.53,5.9,5.69,6.23
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2008,6.83,3.4,8.28,13.17
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2008,3.95,2.9,4.15,5
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2008,6.9,4.4,7.42,7.65
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2008,2.48,3.22,3.05,5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2008,3.96,6.31,5.36,9.96
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2008,4.9,6.65,5.81,10.6
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2008,'0.35,4.55,3.27,9.3
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2008,2.08,3.35,2.91,5.75
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2008,5.66,2.06,12.03,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2008,1.1,1.73,1.89,3.82
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2008,1.08,1.2,2,2.95
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2008,11.26,'0.56,2.61,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2008,1.8,2.13,2.22,2.12
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2008,4.3,NA,5.16,5.45
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2008,NA,11.83,13.75,NA
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2008,NA,2.7,3.7,4.22
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2008,NA,6.6,7.8,9.59
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2008,4.6,7.3,5.98,8.75
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2008,1.02,'0.75,1.75,2.4
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2008,3.44,9.14,9.35,4.39
+GJ,"Panch Mahals",Godhra,Kalol,22.6,73.45,Gothada,"Dug Well",W08012,2007,NA,11.98,16.9,13.32
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2007,'0.3,2.65,1.3,3.9
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2007,2.77,4.07,3.62,5.4
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2007,3.31,5.86,4.61,8.01
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2007,4.31,6.19,5.35,6.14
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2007,'0.25,6.02,3.2,1.51
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2007,1.15,4.01,2.65,4.8
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2007,1.85,7.48,3,6.85
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2007,1.42,3.44,2.75,4.68
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2007,2.81,6.74,3.63,9.81
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2007,3.35,7.38,4.22,10.8
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2007,'0.2,5.5,2.45,12.38
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2007,NA,3.65,NA,6.81
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2007,'0.51,11.51,15.56,15.56
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2007,'0.55,2.51,1.58,3.95
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2007,'0.48,1.65,2.79,3.52
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2007,5.36,7.91,6.3,11.46
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2007,1.2,2.72,1.58,2.46
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2007,'0.41,2.2,1.17,5.17
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2007,3.54,9.8,6,12.1
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2007,NA,2.15,1.5,3.79
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2007,4.5,6.18,3.18,9.84
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2007,2.05,7.55,5.25,8.35
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2007,NA,1.5,'0.35,NA
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2007,NA,12.1,NA,13.35
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2006,4.48,10.7,7.4,16.17
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2006,'0.95,3.3,2.48,4.21
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2006,3.1,7.4,NA,9.64
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2006,1.7,10.43,8.15,NA
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2006,NA,5.3,1.05,4.6
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2006,12.25,14.7,11.3,15.5
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2006,1.51,5.46,4.11,9.63
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2006,1.25,7.6,4.9,11.77
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2006,'0.35,5.6,2.35,11.69
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2006,'0.78,3.9,1.7,6.71
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2006,'0.43,14.62,2.01,14.82
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2006,'0.75,3.54,1.65,2.01
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2006,'0.35,3.9,'0.95,6.05
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2006,'0.86,8.96,'0.61,'0.37
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2006,'0.7,5.3,2.15,7.1
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2006,'0.4,3.65,1.15,8.03
+GJ,"Panch Mahals",Godhra,Kalol,22.6,73.45,Gothada,"Dug Well",W08012,2006,10.35,12.2,10.9,14.67
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2006,'0.57,3.75,1.77,4.49
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2006,NA,4.55,3.8,5.43
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2006,1.34,7.26,3.48,8.51
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2006,3.59,8.05,5.53,6.34
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2006,'0.4,12.05,3.23,15.85
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2006,1.17,3.8,2.9,6.16
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2006,'0.95,5.4,2.15,8
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2006,'0.45,2.35,'0.8,4.04
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2005,15.71,11.5,10.06,15.92
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2005,2.47,3.1,2.75,5.33
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2005,7.27,6.05,2.98,10.75
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2005,9.6,7.85,3.49,14.62
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2005,3.73,3.1,NA,5.4
+GJ,"Panch Mahals",Kalol,Kalol,22.60555556,73.52222222,Tarvada,"Tube Well",W20368,2005,15.42,NA,15.44,16.88
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2005,3.25,7.76,1.65,10.68
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2005,4.5,9.5,5.71,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2005,2.41,7,3.24,10.37
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2005,2.8,3.85,2.08,7.25
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2005,7.24,NA,11.78,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2005,1.98,3.55,2.77,4.24
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2005,4.5,4.55,2.96,6.88
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2005,2.02,1.36,'0.45,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2005,2.4,2.75,2.09,6.98
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2005,3.56,4.58,4.82,7.7
+GJ,"Panch Mahals",Godhra,Kalol,22.6,73.45,Gothada,"Dug Well",W08012,2005,15.7,15.1,13.04,16.39
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2005,1.72,3.55,2.31,5.06
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2005,1.65,4.15,4.03,5.6
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2005,NA,NA,5.21,7.43
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2005,5.4,6,5.85,6.33
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2005,10.62,7.25,10.6,16.13
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2005,2.26,3,4.06,NA
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2005,5.37,8.3,4.27,6.77
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2005,2.72,2.1,1.64,3.35
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2004,13.95,18.2,7.93,19.76
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2004,'0.69,3.45,3.35,5.43
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2004,NA,6,5.9,8.13
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2004,'0.2,10.4,4.53,9.1
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2004,'0.01,4.55,2.57,7.02
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2004,2.03,6.39,5.51,10
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2004,2.65,8.2,5.97,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2004,'0.24,6.2,3.27,13
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2004,'0.43,5.56,2.05,8.29
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2004,1.77,NA,4.29,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2004,1.44,3.46,3.2,3.7
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2004,2.66,6.17,NA,8.92
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2004,'0.2,1.79,NA,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2004,'0.01,2.6,2.42,1.76
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2004,NA,7.15,3.33,9.33
+GJ,"Panch Mahals",Godhra,Kalol,22.6,73.45,Gothada,"Dug Well",W08012,2004,NA,NA,16,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2004,NA,4.35,2.1,6.15
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.6125,Godhra-1,"Dug Well",W08014,2004,NA,NA,NA,9.76
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2004,1.3,5.05,3.4,6.24
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2004,NA,6.06,5.6,5.58
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2004,1.21,10.45,5.33,16.11
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2004,'0.32,4.22,2.84,11.18
+GJ,"Panch Mahals",Halol,Ghoghamba,22.5625,73.67083333,Rajgadh1,"Dug Well",W08722,2004,NA,10.8,NA,NA
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2004,1.04,6.8,2.55,9.76
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2004,'0.26,2.94,2.18,2.73
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2003,12.5,NA,11.61,NA
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2003,7.5,5.28,2.69,5.07
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2003,8.69,NA,6.28,15.34
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2003,5,13.41,4.27,12.96
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2003,3.05,9.35,3.37,10.67
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2003,5,8.8,6.52,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2003,1.04,7.95,5.1,10.2
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2003,3.65,8.37,2.7,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2003,12.15,NA,13.96,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2003,'0.91,5.98,2.79,7.32
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2003,4.63,10.8,4.18,13.92
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2003,2.06,4.41,NA,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2003,1.23,4.23,2.57,7.45
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2003,3.94,11.32,5.53,12.47
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2003,2.55,NA,3.4,9.74
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.6125,Godhra-1,"Dug Well",W08014,2003,NA,10.4,3.8,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2003,3.75,NA,4.8,NA
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2003,5.17,5.33,5.73,7.4
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2003,4.9,14.76,8.04,17.27
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2003,2.9,NA,3.3,12.73
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2003,3.45,11.25,5.24,11.59
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2003,1.31,6.93,2.82,8.39
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2003,3.16,9.54,4.25,NA
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2002,NA,21.49,19.65,20.2
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2002,6.04,8.1,7.46,11.25
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2002,13.62,NA,NA,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2002,2.4,NA,14.3,14.68
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2002,8.84,9.4,8.5,9.92
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2002,6.02,9.42,8.02,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2002,'0.83,6.5,5.2,8.43
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2002,5.69,7.19,6.35,NA
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,2002,NA,7.62,NA,14.26
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2002,4.95,6.21,4,6.44
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2002,8.99,10.38,9.3,10.76
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2002,5.53,6.72,4.56,6.28
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2002,NA,7.16,7.4,7.08
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2002,10.08,9.66,NA,12.25
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2002,8.19,NA,NA,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.6125,Godhra-1,"Dug Well",W08014,2002,NA,NA,NA,10.35
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2002,7.58,12.67,7.15,9.51
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2002,5.3,6.8,NA,6.62
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2002,13.2,15,12.55,15.55
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2002,4.85,10.05,7.35,11.75
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2002,10.23,12.1,8.45,12.98
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2002,6.3,5.64,6.6,8.22
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2002,NA,6.9,5.5,6.52
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,2001,19.98,NA,20.42,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2001,3.66,11.14,NA,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2001,NA,NA,NA,13.08
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2001,15.19,NA,14.43,15.4
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2001,7.4,7.38,8.99,9.35
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2001,6.72,NA,8.71,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2001,12.32,13.78,5.3,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2001,4.15,NA,6.11,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2001,5.12,3.34,4.8,5.71
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2001,8.53,7.48,9.66,12.43
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2001,4.26,3.04,4.89,5.12
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2001,2.55,NA,6.14,11.05
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2001,7.75,5.78,8.95,7.87
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2001,NA,NA,NA,8.37
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.6125,Godhra-1,"Dug Well",W08014,2001,NA,NA,NA,10.2
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2001,6.82,7.93,11.75,8.65
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2001,5.95,NA,6.6,8
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2001,13.73,11.38,13.71,12.86
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2001,6.75,NA,8.94,NA
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2001,11.25,10.08,9.7,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2001,4.5,5.37,5.87,7.04
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2001,6.49,6.84,6.44,7.95
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,2000,6.1,6.57,6.7,6.55
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,2000,8.67,11.26,10.55,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,2000,11.4,12.9,NA,11.68
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,2000,5.23,7.53,6.8,8.3
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,2000,8.9,NA,11.06,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,2000,2.8,NA,9.82,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,2000,NA,7.05,NA,NA
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,2000,1.07,2.86,4.2,3.72
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,2000,4.7,4.84,4.6,4.06
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,2000,1.86,2.82,2.64,3.02
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,2000,5.45,6.25,NA,7.05
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,2000,8.93,5.13,4.89,5.44
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,2000,NA,6.13,NA,6.63
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,2000,6.45,6.71,7,7.43
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,2000,NA,9.12,NA,9.2
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,2000,6.4,6.9,NA,7.06
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,2000,9.59,11.17,10.58,10.19
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,2000,5.9,10.83,NA,NA
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,2000,9.22,9.4,9.63,10.19
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,2000,3.8,4.27,4.7,4.41
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,2000,NA,NA,NA,10.86
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,1999,2.5,1.92,3.15,3.62
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,1999,2.8,3.43,3.02,9.75
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,1999,2.47,2.98,8.35,2.68
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,1999,1.28,1.45,3.2,3.65
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,1999,14.2,12.53,16,14.8
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,1999,5.3,4.08,5.98,5.45
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,1999,7.87,5.7,9.06,10.13
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,1999,9.07,6.15,8.35,9.3
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,1999,6.03,3.5,5.9,6.01
+GJ,"Panch Mahals",Godhra,Kalol,22.6,73.45,Gothada,"Dug Well",W08012,1999,12.13,13.8,16.6,15.25
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,1999,3.69,2.89,5.25,4.84
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.6125,Godhra-1,"Dug Well",W08014,1999,8.9,NA,NA,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,1999,6.05,4.79,6.45,6.12
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,1999,8.41,5.2,7.81,7.79
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,1999,1.9,6.13,6.31,6.4
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,1999,4.59,1.69,7.41,7.53
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,1999,6.18,4.3,6.73,6
+GJ,"Panch Mahals",Halol,Ghoghamba,22.5625,73.67083333,Rajgadh1,"Dug Well",W08722,1999,16.8,NA,8.88,8.8
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,1999,5.48,5.03,8.9,12.2
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,1999,2.71,2.7,4.6,4.45
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,1999,8.78,6.44,10.36,9.23
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,1999,7.76,6.32,10.05,10.04
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,1999,10.78,4.15,14.48,10.85
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,1999,6.31,NA,7.8,6.03
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,1999,8.8,11.11,14.7,15.06
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,1999,1.41,1.16,6.16,7.07
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,1998,1.06,1,1.08,3.5
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,1998,1.48,1.06,1.09,2.26
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,1998,1.52,3.4,2.88,6.2
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.69166667,"Ram patel na m.","Bore Well",W08734,1998,2.08,NA,1.2,NA
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,1998,15.22,14.3,14.58,14.5
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,1998,5.38,3.35,3.62,5.8
+GJ,"Panch Mahals",Santrampur,Santrampur,23.17083333,73.90833333,Santrampur-2,"Bore Well",W08737,1998,7.22,NA,5,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,1998,3.94,7.67,4.8,10.07
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,1998,4.28,2.8,2.65,6.5
+GJ,"Panch Mahals",Godhra,Kalol,22.6,73.45,Gothada,"Dug Well",W08012,1998,15.4,13.6,13.55,15.1
+GJ,"Panch Mahals",Kalol,Godhra,22.78333333,73.60972222,Godhra-3,"Bore Well",W08013,1998,2.02,NA,2.2,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.6125,Godhra-1,"Dug Well",W08014,1998,10.85,8.6,NA,9.14
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,1998,4.67,4.4,4.35,7.81
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,1998,5.53,5.86,4.35,8.48
+GJ,"Panch Mahals",Lunawada,Jambughoda,22.36944444,73.725,Jambughoda-2,"Bore Well",W08017,1998,5.41,NA,5.93,NA
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,1998,5.6,2.75,2.7,7.23
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,1998,4.98,4,3.99,14
+GJ,"Panch Mahals",Halol,Ghoghamba,22.5625,73.67083333,Rajgadh1,"Dug Well",W08722,1998,NA,13.35,8.25,NA
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,1998,7.12,3.5,4.08,2.08
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,1998,3.22,3.35,2.38,2.88
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,1998,4.61,6.01,5.16,10.78
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,1998,4.42,6.55,5.35,10.53
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,1998,2.25,5.15,3.38,11.38
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,1998,4.2,4.85,NA,7.42
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,1998,4.06,6.66,2.33,14.7
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,1998,1.82,2.8,2.73,3.7
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,1997,'0.6,1.8,1.06,4
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,1997,1.38,11.03,4.15,4.86
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,1997,1.7,4.1,NA,NA
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,1997,'0.8,4.37,3.68,9.8
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,1997,1.9,5.92,4.92,6.15
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,1997,1.69,6.06,4.61,9.61
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,1997,1,2.62,2.1,4.2
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,1997,1.9,5.98,3.39,7.8
+GJ,"Panch Mahals",Halol,Ghoghamba,22.5625,73.67083333,Rajgadh1,"Dug Well",W08722,1997,NA,14.2,11.52,NA
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,1997,1.4,3.95,3.34,16.5
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,1997,'0.35,3.48,1.76,7.15
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,1997,1.81,5.76,4.1,6.38
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,1997,3.13,4.3,3.92,NA
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.6125,Godhra-1,"Dug Well",W08014,1997,6.8,NA,NA,9.3
+GJ,"Panch Mahals",Godhra,Kalol,22.6,73.45,Gothada,"Dug Well",W08012,1997,13.85,15.13,NA,16.2
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,1997,'0.23,3.09,1.87,5.9
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,1997,2.4,6.79,4.38,8.2
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,1997,'0.6,4.58,2.45,6.4
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,1997,3.28,14.47,14.05,13.5
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,1997,3.23,2.67,2.58,4.8
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,1997,'0.78,1.14,1.15,1.86
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,1997,'0.52,2.34,1.19,3.3
+GJ,"Panch Mahals","Kalol Ina",Halol,22.4875,73.55555556,Pavagadh,"Dug Well",W08725,1996,2.6,8.69,5.67,10.8
+GJ,"Panch Mahals",Lunawada,Lunawada,23.20416667,73.6,"Limbadia peti","Dug Well",W08731,1996,'0.9,1.63,1.81,5.59
+GJ,"Panch Mahals",Khanpur,Khanpur,23.375,73.63333333,Pandarvada,"Dug Well",W08729,1996,1.5,12.49,5.89,18.41
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.63333333,Godhra-2,"Dug Well",W08015,1996,3.4,7.25,3.71,6.65
+GJ,"Panch Mahals",Kalol,Godhra,22.80416667,73.47083333,Tuwa,"Dug Well",W08724,1996,1.5,4,2.32,5.58
+GJ,"Panch Mahals",Kalol,Godhra,22.77083333,73.6125,Godhra-1,"Dug Well",W08014,1996,9.9,8.93,NA,9.72
+GJ,"Panch Mahals","Kalol Ina",Halol,22.54583333,73.52916667,Tarkanda,"Dug Well",W08727,1996,1.2,8.2,7.28,13.14
+GJ,"Panch Mahals",Godhra,Kalol,22.6,73.45,Gothada,"Dug Well",W08012,1996,16.4,17.5,15.18,17.5
+GJ,"Panch Mahals",Halol,Ghoghamba,22.725,73.75833333,Ranipura,"Dug Well",W08723,1996,3.5,11.48,6.63,11.84
+GJ,"Panch Mahals",Shehera,Shehera,22.95416667,73.625,Shehra,"Dug Well",W08739,1996,2,6.7,2.46,8.42
+GJ,"Panch Mahals",Lunawada,Lunawada,23.01944444,73.51944444,Kothamba,"Dug Well",W08730,1996,1.3,3.73,1.95,3.77
+GJ,"Panch Mahals",Santrampur,Santrampur,23.19166667,73.90833333,Santrampur-1,"Dug Well",W08738,1996,6.9,8.53,5.99,10.8
+GJ,"Panch Mahals",Halol,Ghoghamba,22.5625,73.67083333,Rajgadh1,"Dug Well",W08722,1996,NA,18.17,13.95,19.71
+GJ,"Panch Mahals",Santrampur,Kadana,23.28888889,73.83333333,Kadana,"Dug Well",W08736,1996,4.3,5.21,4.21,6.28
+GJ,"Panch Mahals","Kalol Ina",Halol,22.425,73.59166667,Shivrajpur,"Dug Well",W08726,1996,4.8,8.5,5.71,10.85
+GJ,"Panch Mahals","Morwa (hadaf)","Morwa (hadaf)",22.8,73.8125,Santroad,"Dug Well",W08735,1996,5.5,11.04,7.16,14.26
+GJ,"Panch Mahals",Godhra,Kalol,22.69583333,73.55833333,Vejalpur,"Dug Well",W08721,1996,2.4,5.13,3.75,6.84
+GJ,"Panch Mahals",Lunawada,Lunawada,23.23055556,73.73611111,Malekpur1,"Dug Well",W08733,1996,5,2.35,2.45,2.63
+GJ,"Panch Mahals","Kalol Ina",Halol,22.50833333,73.50833333,Timbi2,"Dug Well",W08728,1996,2.4,5.84,4.52,8.5
+GJ,"Panch Mahals",Lunawada,Lunawada,23.12916667,73.60833333,Lunawada,"Dug Well",W08732,1996,1.7,1.27,'0.93,2.26
+GJ,"Panch Mahals",Santrampur,Santrampur,23.15,73.775,Gadhar,"Dug Well",W08018,1996,3.2,4.8,2.95,7.89
+GJ,"Panch Mahals",Khanpur,Khanpur,23.325,73.56944444,Bavaliya,"Dug Well",W08016,1996,6,7.58,4.59,8.7

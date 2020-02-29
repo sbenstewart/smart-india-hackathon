@@ -1,0 +1,1199 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,"Koipuram (R1)","Dug Well",W23182,2018,NA,6.9,6.8,NA
+KL,Pathanamthitta,Kanjirappally,Ranni,9.425,76.9125,Edakadathy,"Dug Well",W23187,2018,NA,9.3,9.15,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,"Kaviyur (R1)","Dug Well",W23172,2018,NA,7.53,7.65,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.44055556,76.61277778,Kunnamthanam1,"Dug Well",W23191,2018,NA,9.71,10.6,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.44277778,76.67361111,Murani,"Dug Well",W23193,2018,NA,2.75,2.27,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.44833333,76.69694444,Vaipur,"Dug Well",W23196,2018,NA,1.53,3.02,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,Kottangal,"Dug Well",W23197,2018,NA,1.75,1.41,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,"Kottangal Pz","Bore Well",W23198,2018,NA,2.41,2.12,NA
+KL,Pathanamthitta,Parakkode,Parakode,9.12777778,76.83888889,Kuditha,"Dug Well",W23093,2018,NA,7.05,6.85,NA
+KL,Pathanamthitta,Konni,Konni,9.20111111,76.84805556,"Valiakavu ( Vakayar)","Dug Well",W23107,2018,NA,2.32,2.79,NA
+KL,Pathanamthitta,Elanthoor,Konni,9.20888889,76.87277778,Aruvapulam,"Dug Well",W23111,2018,NA,3.47,2.84,NA
+KL,Pathanamthitta,Parakkode,Pandalam,9.08611111,76.71722222,Mannadi,"Dug Well",W23083,2018,NA,2.21,1.93,NA
+KL,Pathanamthitta,Parakkode,Pandalam,9.0925,76.68611111,Kadambanad,"Dug Well",W23086,2018,NA,6.85,6.15,NA
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.11527778,76.73166667,Churakod,"Dug Well",W23091,2018,NA,5.8,6.08,NA
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15138889,76.77083333,Ezhamkulam,"Dug Well",W23096,2018,NA,7.71,6.51,NA
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.16083333,76.71944444,"Adoor (R2)","Dug Well",W23098,2018,NA,12.17,11.85,NA
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.18472222,76.77138889,Kodumon,"Dug Well",W23103,2018,NA,6.75,6.3,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.19083333,76.70527778,Paranthal,"Dug Well",W23104,2018,NA,4.51,5.14,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,"Thatta (R1)","Dug Well",W23106,2018,NA,'0.86,1.62,NA
+KL,Pathanamthitta,Elanthoor,Pandalam,9.20833333,76.655,"Koipuram Pz","Bore Well",W23109,2018,NA,11.45,11.3,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.21583333,76.68194444,"Pandalam Town","Dug Well",W23112,2018,NA,'0.73,'0.9,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.31416667,76.77444444,Kadammanitta,"Dug Well",W23145,2018,5.02,5.35,NA,NA
+KL,Pathanamthitta,Parakkode,Parakode,9.12333333,76.85138889,Kalanjoor,"Dug Well",W23092,2018,7.05,8.65,NA,NA
+KL,Pathanamthitta,Koipuram,Ranni,9.33333333,76.84444444,"Aranmula (R2)","Dug Well",W30876,2018,3.05,6.15,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.43388889,76.8575,"Vechoochira (R1)","Dug Well",W30883,2018,4.47,4.53,NA,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.41333333,76.64083333,Kallooppara,"Dug Well",W30879,2018,5.57,2.72,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.40138889,76.85111111,"Kadumeenchira Pz","Bore Well",W23174,2018,NA,NA,15.5,16.35
+KL,Pathanamthitta,Konni,Konni,9.20222222,76.88111111,"Kalleli Pz","Bore Well",W23108,2018,NA,NA,4.55,4.9
+KL,Pathanamthitta,Parakkode,Pandalam,9.135,76.82138889,Poothangara,"Dug Well",W23094,2018,NA,NA,5.2,5.5
+KL,Pathanamthitta,Konni,Konni,9.26055556,76.8775,Athumbukulam,"Dug Well",W30873,2018,NA,3.75,3.15,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,"Pathanamthitta (R1)","Dug Well",W30874,2018,NA,3.18,3.26,NA
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,"Nilakkal New","Dug Well",W30878,2018,NA,5.1,5.62,NA
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2018,3.15,3.4,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2018,NA,NA,6,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2018,9.28,NA,NA,NA
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2018,NA,NA,NA,6.7
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2018,NA,6.78,6.64,NA
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2018,NA,5.63,5.41,NA
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2018,NA,6,6.07,NA
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2018,NA,8.43,8.32,NA
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2018,NA,3.45,2.95,NA
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2018,NA,7.22,5.36,NA
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2018,NA,3.9,3.5,NA
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2018,NA,7.13,7.1,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2018,NA,3.4,2.4,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2018,NA,2.1,1.67,NA
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2018,NA,2.95,2.7,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2018,NA,7.6,7.31,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2018,NA,9.05,8.51,NA
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2018,NA,4,4.03,NA
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2018,NA,9.5,9.7,NA
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2018,NA,6.35,6.35,NA
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2018,NA,2.48,2.55,NA
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2018,NA,5.54,6.24,NA
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2018,NA,4.08,1.8,NA
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2018,NA,2.36,2.18,NA
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2018,NA,2.17,2.2,NA
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2018,NA,5.1,5.63,NA
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2018,NA,2.26,1.25,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2018,NA,3.85,3.71,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2018,NA,3.35,2.52,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2018,NA,3.75,3.7,NA
+KL,Pathanamthitta,Konni,Konni,9.21638889,76.81388889,"V Kottayam","Dug Well",W23114,2018,NA,9.87,9.28,NA
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallikod,"Dug Well",W23116,2018,NA,4.5,4.08,NA
+KL,Pathanamthitta,Elanthoor,Konni,9.22944444,76.75388889,Kaipattoor,"Dug Well",W23118,2018,NA,6.5,6.44,NA
+KL,Pathanamthitta,Elanthoor,Konni,9.22944444,76.75388889,"Adoor Bypass","Dug Well",W23119,2018,NA,5.25,3.4,NA
+KL,Pathanamthitta,Konni,Konni,9.27,76.92833333,Thannithodu,"Dug Well",W23130,2018,NA,6.82,6.71,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28611111,76.82166667,"Malayalapuzha Pz","Bore Well",W23135,2018,NA,17.2,14.5,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28722222,76.82194444,Malayalapuzha,"Dug Well",W23136,2018,NA,6.33,6.1,NA
+KL,Pathanamthitta,Elanthoor,Pandalam,9.22083333,76.7025,Thumpaman,"Dug Well",W23117,2018,NA,7.8,7.95,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.24277778,76.6725,Kulanada,"Dug Well",W23121,2018,NA,8.27,9.7,NA
+KL,Pathanamthitta,Elanthoor,Pandalam,9.26305556,76.71305556,Elavumthitta,"Dug Well",W23129,2018,NA,6.57,6.05,NA
+KL,Pathanamthitta,Koipuram,Pandalam,9.30722222,76.685,Kidanganoor,"Dug Well",W23144,2018,NA,4.53,4.5,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.24388889,76.75222222,Omallur(R1),"Dug Well",W23122,2018,NA,8.15,7.95,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.32194444,76.73583333,"Naranganam (R1)","Dug Well",W23149,2018,NA,2.63,2.64,NA
+KL,Pathanamthitta,Koipuram,Elanthoor,9.33333333,76.78333333,Kuttoor,"Dug Well",W23153,2018,NA,1.01,3.9,NA
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.36305556,76.54416667,Podiyadi,"Dug Well",W23160,2018,NA,1.97,1.71,NA
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.37861111,76.56861111,Thiruvalla,"Dug Well",W23163,2018,NA,5.95,6.81,NA
+KL,Pathanamthitta,Ambalapuzha,Pulikeezh,9.38888889,76.51361111,Muttar,"Dug Well",W23169,2018,NA,1.05,'0.92,NA
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,"Peringara (R1)","Dug Well",W23171,2018,NA,1.78,1.81,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.35361111,76.67888889,Pullad,"Dug Well",W23158,2018,NA,5.5,6.4,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.38194444,76.64111111,Eraviperoor,"Dug Well",W23164,2018,NA,2.85,2.15,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Koipuram,9.38194444,76.65777778,Kumbanad,"Dug Well",W23165,2018,NA,6.98,5.98,NA
+KL,Pathanamthitta,Elanthoor,Koipuram,9.38194444,76.70777778,Thadiyur,"Dug Well",W23166,2018,NA,7.7,7.3,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.38472222,76.62416667,Vallamkulam,"Dug Well",W23168,2018,NA,4.35,4.35,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.40472222,76.66972222,Vennikulam,"Dug Well",W23175,2018,NA,3.25,2.97,NA
+KL,Pathanamthitta,Mallappally,Koipuram,9.41638889,76.73055556,Chalapally,"Dug Well",W23178,2018,NA,2,1.8,NA
+KL,Pathanamthitta,Konni,Koipuram,9.41638889,76.73055556,"Athiringal (R1)","Dug Well",W23179,2018,NA,7.4,7.4,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.41722222,76.66944444,"Cherukolpuzha (Airoor)","Dug Well",W23183,2018,NA,5.56,5.37,NA
+KL,Pathanamthitta,Mallappally,Koipuram,9.42444444,76.70305556,Ezhumattoor,"Dug Well",W23186,2018,NA,4.6,3.93,NA
+KL,Pathanamthitta,Ranni,Ranni,9.33722222,76.91777778,"Chittar (R1)","Dug Well",W23156,2018,NA,9.01,8.65,NA
+KL,Pathanamthitta,Ranni,Ranni,9.35361111,76.8025,Edakkulam,"Dug Well",W23159,2018,NA,5.15,5.71,NA
+KL,Pathanamthitta,Ranni,Ranni,9.39777778,76.85277778,Kadumeenchira,"Dug Well",W23170,2018,NA,8.7,6.72,NA
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,"Karikulam  (R1)","Dug Well",W23173,2018,NA,2.43,2.21,NA
+KL,Pathanamthitta,Ranni,Ranni,9.41638889,76.83055556,Chethekkal,"Dug Well",W23180,2018,NA,3.26,2.11,NA
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,Kozhenchery,"Dug Well",W23181,2018,NA,1.7,1.55,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.44277778,76.67361111,Murani,"Dug Well",W23193,2017,5.1,2.8,'0.8,3
+KL,Pathanamthitta,Mallappally,Malapally,9.44833333,76.69694444,Vaipur,"Dug Well",W23196,2017,1.13,1.9,1.05,1.9
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,Kottangal,"Dug Well",W23197,2017,1.1,1.9,1,2.9
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,"Kottangal Pz","Bore Well",W23198,2017,1.75,2.6,1.7,2.8
+KL,Pathanamthitta,Parakkode,Parakode,9.12333333,76.85138889,Kalanjoor,"Dug Well",W23092,2017,5.5,8.25,3.8,5.46
+KL,Pathanamthitta,Parakkode,Parakode,9.12777778,76.83888889,Kuditha,"Dug Well",W23093,2017,6.54,8.25,4.95,8.43
+KL,Pathanamthitta,Konni,Konni,9.20111111,76.84805556,"Valiakavu ( Vakayar)","Dug Well",W23107,2017,1.8,3.2,2,2.24
+KL,Pathanamthitta,Elanthoor,Konni,9.20888889,76.87277778,Aruvapulam,"Dug Well",W23111,2017,2.45,4.4,2.4,4.58
+KL,Pathanamthitta,Parakkode,Pandalam,9.08611111,76.71722222,Mannadi,"Dug Well",W23083,2017,1.3,3.5,1.24,3.5
+KL,Pathanamthitta,Parakkode,Pandalam,9.0925,76.68611111,Kadambanad,"Dug Well",W23086,2017,4.1,7.55,4.65,4.14
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.11527778,76.73166667,Churakod,"Dug Well",W23091,2017,5.75,8.02,4.67,8
+KL,Pathanamthitta,Parakkode,Pandalam,9.135,76.82138889,Poothangara,"Dug Well",W23094,2017,4.56,5.6,2.1,6.6
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15138889,76.77083333,Ezhamkulam,"Dug Well",W23096,2017,5.89,7,4.7,7.1
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.16083333,76.71944444,"Adoor (R2)","Dug Well",W23098,2017,8.67,9.2,8.85,12
+KL,Pathanamthitta,Elanthoor,Pandalam,9.20833333,76.655,"Koipuram Pz","Bore Well",W23109,2017,10.85,11.8,11.2,12.9
+KL,Pathanamthitta,Pandalam,Pandalam,9.21583333,76.68194444,"Pandalam Town","Dug Well",W23112,2017,'0.75,1.4,'0.85,1.28
+KL,Pathanamthitta,Pandalam,Pandalam,9.19083333,76.70527778,Paranthal,"Dug Well",W23104,2017,NA,5.3,4.75,5.55
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,"Thatta (R1)","Dug Well",W23106,2017,NA,1.4,'0.7,2.33
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.24388889,76.75222222,Omallur(R1),"Dug Well",W23122,2017,5.72,9.05,NA,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.44055556,76.61277778,Kunnamthanam1,"Dug Well",W23191,2017,7.75,13.65,NA,NA
+KL,Pathanamthitta,Konni,Konni,9.20222222,76.88111111,"Kalleli Pz","Bore Well",W23108,2017,NA,4.6,NA,NA
+KL,Pathanamthitta,Konni,Konni,9.26055556,76.8775,Athumbukulam,"Dug Well",W30873,2017,2.02,4.1,1.45,4.03
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,"Pathanamthitta (R1)","Dug Well",W30874,2017,2.36,4.33,3.33,3.23
+KL,Pathanamthitta,Koipuram,Ranni,9.33333333,76.84444444,"Aranmula (R2)","Dug Well",W30876,2017,1.59,6.3,5.15,6.7
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,"Nilakkal New","Dug Well",W30878,2017,2.6,5.3,3.85,5.6
+KL,Pathanamthitta,Ranni,Ranni,9.43388889,76.8575,"Vechoochira (R1)","Dug Well",W30883,2017,3.43,4.53,2.05,4.51
+KL,Pathanamthitta,Mallappally,Malapally,9.41333333,76.64083333,Kallooppara,"Dug Well",W30879,2017,2.27,4.67,1.4,5.12
+KL,Pathanamthitta,Konni,Konni,9.21638889,76.81388889,"V Kottayam","Dug Well",W23114,2017,5.88,9.6,NA,8.68
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallikod,"Dug Well",W23116,2017,2.87,6,NA,4.84
+KL,Pathanamthitta,Konni,Koipuram,9.41638889,76.73055556,"Athiringal (R1)","Dug Well",W23179,2017,6.6,8.35,NA,9.44
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.18472222,76.77138889,Kodumon,"Dug Well",W23103,2017,5.24,7.5,NA,6.87
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2017,5.9,6.95,7.02,NA
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2017,NA,NA,4.3,NA
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2017,2.4,3.85,NA,3.77
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2017,6.34,6.97,6.87,5.52
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2017,3.78,6.28,3.13,6.02
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2017,7.33,8.6,8,9.1
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2017,3.78,8.5,4.35,7.85
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2017,1.42,4.25,3.4,4.25
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2017,5.45,7.75,6.88,7.44
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2017,'0.9,3.8,'0.5,4.05
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2017,1.4,2.5,1.3,3.05
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2017,1.9,3.2,2.58,3.8
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2017,2.35,3.9,2.92,4.3
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2017,6.15,8.06,6.5,8.6
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2017,8.05,11.25,8.94,9.95
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2017,2.58,4.1,'0.4,3.77
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2017,9.5,9.8,9.4,9.77
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2017,1.7,2.75,1.42,2.64
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2017,5.04,5.69,4.99,5.74
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2017,1.4,4.5,1.37,4.34
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2017,'0.91,2.71,'0.78,2.49
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2017,4.65,5.8,3.67,6.21
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2017,1.2,2.95,1,2.74
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2017,2.85,4.2,1.68,5.83
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2017,1.55,3.25,'0.9,3.9
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2017,3.4,4.4,3.4,4.9
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2017,3,NA,3.05,6.43
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2017,2.59,NA,4.15,6.45
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2017,1.95,NA,1.4,2.45
+KL,Pathanamthitta,Elanthoor,Konni,9.22944444,76.75388889,"Adoor Bypass","Dug Well",W23119,2017,4.05,NA,3.75,4
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,Kozhenchery,"Dug Well",W23181,2017,1.1,2.28,'0.82,NA
+KL,Pathanamthitta,Konni,Konni,9.27,76.92833333,Thannithodu,"Dug Well",W23130,2017,NA,7.4,3.45,NA
+KL,Pathanamthitta,Ranni,Ranni,9.41638889,76.83055556,Chethekkal,"Dug Well",W23180,2017,4.05,NA,2.3,NA
+KL,Pathanamthitta,Elanthoor,Konni,9.22944444,76.75388889,Kaipattoor,"Dug Well",W23118,2017,5.25,7,5.1,7.21
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28611111,76.82166667,"Malayalapuzha Pz","Bore Well",W23135,2017,13.5,18.5,12.4,17.85
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28722222,76.82194444,Malayalapuzha,"Dug Well",W23136,2017,4.9,6.8,2.78,6.96
+KL,Pathanamthitta,Elanthoor,Pandalam,9.22083333,76.7025,Thumpaman,"Dug Well",W23117,2017,5.5,8.65,5.7,8.73
+KL,Pathanamthitta,Pandalam,Pandalam,9.24277778,76.6725,Kulanada,"Dug Well",W23121,2017,4.19,9.55,5,9.63
+KL,Pathanamthitta,Elanthoor,Pandalam,9.26305556,76.71305556,Elavumthitta,"Dug Well",W23129,2017,6.47,8.2,4.62,9.1
+KL,Pathanamthitta,Koipuram,Pandalam,9.30722222,76.685,Kidanganoor,"Dug Well",W23144,2017,'0.9,4.9,1,5.65
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.31416667,76.77444444,Kadammanitta,"Dug Well",W23145,2017,4.45,6.9,2.45,7.1
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.32194444,76.73583333,"Naranganam (R1)","Dug Well",W23149,2017,1.9,2.94,1.6,3.2
+KL,Pathanamthitta,Koipuram,Elanthoor,9.33333333,76.78333333,Kuttoor,"Dug Well",W23153,2017,1.9,3.65,1.15,4.65
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.36305556,76.54416667,Podiyadi,"Dug Well",W23160,2017,1,2.65,1.66,2.98
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.37861111,76.56861111,Thiruvalla,"Dug Well",W23163,2017,4.95,10.3,6.35,10.65
+KL,Pathanamthitta,Ambalapuzha,Pulikeezh,9.38888889,76.51361111,Muttar,"Dug Well",W23169,2017,'0.5,1.4,'0.43,1.8
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,"Peringara (R1)","Dug Well",W23171,2017,'0.95,2.2,1.57,2.45
+KL,Pathanamthitta,Koipuram,Koipuram,9.35361111,76.67888889,Pullad,"Dug Well",W23158,2017,4.71,6.5,4.91,6.71
+KL,Pathanamthitta,Koipuram,Koipuram,9.38194444,76.64111111,Eraviperoor,"Dug Well",W23164,2017,1.95,3.65,1.91,4.38
+KL,Pathanamthitta,"Pathanamthitta Municipality",Koipuram,9.38194444,76.65777778,Kumbanad,"Dug Well",W23165,2017,4.28,6.78,3.93,7.28
+KL,Pathanamthitta,Elanthoor,Koipuram,9.38194444,76.70777778,Thadiyur,"Dug Well",W23166,2017,5.05,7.9,5.9,6.3
+KL,Pathanamthitta,Koipuram,Koipuram,9.38472222,76.62416667,Vallamkulam,"Dug Well",W23168,2017,2.65,5,3.6,5.25
+KL,Pathanamthitta,Koipuram,Koipuram,9.40472222,76.66972222,Vennikulam,"Dug Well",W23175,2017,3.05,3.4,2.99,3.85
+KL,Pathanamthitta,Mallappally,Koipuram,9.41638889,76.73055556,Chalapally,"Dug Well",W23178,2017,1.6,2.15,1.7,2.45
+KL,Pathanamthitta,Koipuram,Koipuram,9.41722222,76.66944444,"Cherukolpuzha (Airoor)","Dug Well",W23183,2017,3.97,6.8,3.88,6.25
+KL,Pathanamthitta,Mallappally,Koipuram,9.42444444,76.70305556,Ezhumattoor,"Dug Well",W23186,2017,3.8,4.65,2.3,5
+KL,Pathanamthitta,Ranni,Ranni,9.33722222,76.91777778,"Chittar (R1)","Dug Well",W23156,2017,7.15,9.7,5.65,8.38
+KL,Pathanamthitta,Ranni,Ranni,9.35361111,76.8025,Edakkulam,"Dug Well",W23159,2017,4.55,5.55,1.47,5.52
+KL,Pathanamthitta,Ranni,Ranni,9.39777778,76.85277778,Kadumeenchira,"Dug Well",W23170,2017,4.85,9.9,4,10
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,"Karikulam  (R1)","Dug Well",W23173,2017,6.45,2.95,1.82,2.53
+KL,Pathanamthitta,Ranni,Ranni,9.40138889,76.85111111,"Kadumeenchira Pz","Bore Well",W23174,2017,12.6,16.9,14.96,15.7
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,"Koipuram (R1)","Dug Well",W23182,2017,4.73,7.45,4.8,9
+KL,Pathanamthitta,Kanjirappally,Ranni,9.425,76.9125,Edakadathy,"Dug Well",W23187,2017,10.5,12,8.9,9.1
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,"Kaviyur (R1)","Dug Well",W23172,2017,6.7,8.95,6.2,7.95
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.36305556,76.54416667,Podiyadi,"Dug Well",W23160,2016,1.6,1.9,1.76,2.43
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.37861111,76.56861111,Thiruvalla,"Dug Well",W23163,2016,7.62,8.01,7.02,8.8
+KL,Pathanamthitta,Koipuram,Koipuram,9.38194444,76.64111111,Eraviperoor,"Dug Well",W23164,2016,2.15,2.65,2.71,2.25
+KL,Pathanamthitta,"Pathanamthitta Municipality",Koipuram,9.38194444,76.65777778,Kumbanad,"Dug Well",W23165,2016,6.11,6.62,6.37,6.73
+KL,Pathanamthitta,Elanthoor,Koipuram,9.38194444,76.70777778,Thadiyur,"Dug Well",W23166,2016,6.88,7.78,6.77,7.65
+KL,Pathanamthitta,Koipuram,Koipuram,9.38472222,76.62416667,Vallamkulam,"Dug Well",W23168,2016,3.7,4.18,4.49,5.05
+KL,Pathanamthitta,Ambalapuzha,Pulikeezh,9.38888889,76.51361111,Muttar,"Dug Well",W23169,2016,'0.7,1.4,'0.85,1.37
+KL,Pathanamthitta,Ranni,Ranni,9.39777778,76.85277778,Kadumeenchira,"Dug Well",W23170,2016,6.7,8.78,7.16,9.4
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,"Peringara (R1)","Dug Well",W23171,2016,2.85,1.72,1.53,2.28
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,"Kaviyur (R1)","Dug Well",W23172,2016,7.92,8.6,8.12,6.15
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,"Karikulam  (R1)","Dug Well",W23173,2016,3.57,2.26,2.14,7.45
+KL,Pathanamthitta,Ranni,Ranni,9.40138889,76.85111111,"Kadumeenchira Pz","Bore Well",W23174,2016,15.05,15.8,15,16.5
+KL,Pathanamthitta,Koipuram,Koipuram,9.40472222,76.66972222,Vennikulam,"Dug Well",W23175,2016,4.51,3.15,3.1,5.7
+KL,Pathanamthitta,Mallappally,Koipuram,9.41638889,76.73055556,Chalapally,"Dug Well",W23178,2016,3.17,1.92,1.65,2.1
+KL,Pathanamthitta,Konni,Koipuram,9.41638889,76.73055556,"Athiringal (R1)","Dug Well",W23179,2016,8.51,7.53,6.32,8.7
+KL,Pathanamthitta,Ranni,Ranni,9.41638889,76.83055556,Chethekkal,"Dug Well",W23180,2016,4.45,2.81,5.12,5.55
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,Kozhenchery,"Dug Well",W23181,2016,2.92,1.93,1.22,2.5
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,"Koipuram (R1)","Dug Well",W23182,2016,7.84,6.65,6.9,8.1
+KL,Pathanamthitta,Koipuram,Koipuram,9.41722222,76.66944444,"Cherukolpuzha (Airoor)","Dug Well",W23183,2016,7.02,6.1,5.63,6.1
+KL,Pathanamthitta,Mallappally,Koipuram,9.42444444,76.70305556,Ezhumattoor,"Dug Well",W23186,2016,5.41,4.5,3.83,6.6
+KL,Pathanamthitta,Kanjirappally,Ranni,9.425,76.9125,Edakadathy,"Dug Well",W23187,2016,9.5,9,9.1,9.1
+KL,Pathanamthitta,Mallappally,Malapally,9.44055556,76.61277778,Kunnamthanam1,"Dug Well",W23191,2016,8.96,12.6,9.8,11.9
+KL,Pathanamthitta,Mallappally,Malapally,9.44277778,76.67361111,Murani,"Dug Well",W23193,2016,3.76,2.78,2.25,7.1
+KL,Pathanamthitta,Mallappally,Malapally,9.44833333,76.69694444,Vaipur,"Dug Well",W23196,2016,2.54,3.2,1.23,1.92
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,Kottangal,"Dug Well",W23197,2016,2.92,1.69,1.57,1.9
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,"Kottangal Pz","Bore Well",W23198,2016,NA,2.4,2.29,2.66
+KL,Pathanamthitta,Konni,Konni,9.26055556,76.8775,Athumbukulam,"Dug Well",W30873,2016,2.36,3.61,2.7,4.35
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,"Pathanamthitta (R1)","Dug Well",W30874,2016,2.87,3.1,3.01,3.48
+KL,Pathanamthitta,Koipuram,Ranni,9.33333333,76.84444444,"Aranmula (R2)","Dug Well",W30876,2016,6.87,3.51,6.09,6.25
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,"Nilakkal New","Dug Well",W30878,2016,4.05,5.25,5.23,5.3
+KL,Pathanamthitta,Mallappally,Malapally,9.41333333,76.64083333,Kallooppara,"Dug Well",W30879,2016,NA,2.47,2.21,5.37
+KL,Pathanamthitta,Ranni,Ranni,9.43388889,76.8575,"Vechoochira (R1)","Dug Well",W30883,2016,3.73,4.55,4.39,4.53
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2016,3.27,NA,1.56,2.5
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2016,3.6,NA,2.07,3.8
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2016,5.32,NA,5.45,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2016,9.41,NA,8.79,9.45
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2016,8.42,NA,7.28,8.4
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2016,10.29,NA,7.76,9
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2016,5.68,NA,4.13,6.23
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2016,7.79,NA,6.55,5.27
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2016,5.45,NA,4.19,7.35
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2016,NA,NA,NA,5.5
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2016,4.68,NA,3.2,3.25
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2016,4.47,NA,3.6,4.25
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2016,6.92,NA,7.22,6.65
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2016,5.07,NA,3.54,4.1
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2016,3.51,NA,2.8,3.55
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2016,5.22,NA,4.02,4.2
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2016,6.98,NA,5.15,9.2
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2016,7.67,NA,NA,6.75
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2016,2.8,NA,3.35,4.07
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2016,2.4,NA,3.02,3.31
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2016,5.34,NA,5.66,5.54
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2016,1.18,NA,1.19,2.95
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2016,1.55,NA,1.68,2.25
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2016,2.15,NA,1.75,2.7
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2016,9.55,NA,9.58,10.25
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2016,2.45,NA,4.62,5.3
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2016,1.41,NA,2.01,2.66
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2016,1.37,NA,1.39,4.6
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2016,5.7,NA,6.23,NA
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2016,2.8,NA,2.06,4.51
+KL,Pathanamthitta,Parakkode,Pandalam,9.08611111,76.71722222,Mannadi,"Dug Well",W23083,2016,2.46,1.96,NA,3.9
+KL,Pathanamthitta,Parakkode,Pandalam,9.0925,76.68611111,Kadambanad,"Dug Well",W23086,2016,6.37,6.78,6.96,3.55
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.11527778,76.73166667,Churakod,"Dug Well",W23091,2016,5.91,5.87,6.28,6.55
+KL,Pathanamthitta,Parakkode,Parakode,9.12333333,76.85138889,Kalanjoor,"Dug Well",W23092,2016,6.51,9.25,5.71,4.5
+KL,Pathanamthitta,Parakkode,Parakode,9.12777778,76.83888889,Kuditha,"Dug Well",W23093,2016,5.49,7.25,6.97,7.85
+KL,Pathanamthitta,Parakkode,Pandalam,9.135,76.82138889,Poothangara,"Dug Well",W23094,2016,5.9,5.3,5.25,5.6
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15138889,76.77083333,Ezhamkulam,"Dug Well",W23096,2016,7.88,6,7.2,7
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.16083333,76.71944444,"Adoor (R2)","Dug Well",W23098,2016,9.51,9.38,12.11,9.25
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.18472222,76.77138889,Kodumon,"Dug Well",W23103,2016,6.22,6.3,6.68,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.19083333,76.70527778,Paranthal,"Dug Well",W23104,2016,5.42,5.07,5.15,5.1
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,"Thatta (R1)","Dug Well",W23106,2016,1.91,1.24,1.23,1.7
+KL,Pathanamthitta,Konni,Konni,9.20111111,76.84805556,"Valiakavu ( Vakayar)","Dug Well",W23107,2016,3.62,2.33,1.97,2.2
+KL,Pathanamthitta,Konni,Konni,9.20222222,76.88111111,"Kalleli Pz","Bore Well",W23108,2016,9.8,4.5,'0.57,4.7
+KL,Pathanamthitta,Elanthoor,Pandalam,9.20833333,76.655,"Koipuram Pz","Bore Well",W23109,2016,10.98,11.55,11.5,10.4
+KL,Pathanamthitta,Elanthoor,Konni,9.20888889,76.87277778,Aruvapulam,"Dug Well",W23111,2016,2.57,3.24,2.77,5.6
+KL,Pathanamthitta,Pandalam,Pandalam,9.21583333,76.68194444,"Pandalam Town","Dug Well",W23112,2016,1.41,'0.66,'0.83,1.1
+KL,Pathanamthitta,Konni,Konni,9.21638889,76.81388889,"V Kottayam","Dug Well",W23114,2016,9.89,9.62,7.27,8.7
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallikod,"Dug Well",W23116,2016,5,4.43,4.2,4.25
+KL,Pathanamthitta,Elanthoor,Pandalam,9.22083333,76.7025,Thumpaman,"Dug Well",W23117,2016,7.92,7.82,7.65,8.45
+KL,Pathanamthitta,Elanthoor,Konni,9.22944444,76.75388889,Kaipattoor,"Dug Well",W23118,2016,7.57,6.86,6.35,6.9
+KL,Pathanamthitta,Elanthoor,Konni,9.22944444,76.75388889,"Adoor Bypass","Dug Well",W23119,2016,2.52,3.85,5.2,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.24277778,76.6725,Kulanada,"Dug Well",W23121,2016,7.86,7.07,8.27,5.6
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.24388889,76.75222222,Omallur(R1),"Dug Well",W23122,2016,8.27,8.21,8.01,8.4
+KL,Pathanamthitta,Elanthoor,Pandalam,9.26305556,76.71305556,Elavumthitta,"Dug Well",W23129,2016,7.43,6.66,NA,8.15
+KL,Pathanamthitta,Konni,Konni,9.27,76.92833333,Thannithodu,"Dug Well",W23130,2016,5.7,7.1,6.12,6.5
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28611111,76.82166667,"Malayalapuzha Pz","Bore Well",W23135,2016,15.3,17.13,15.56,18.5
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28722222,76.82194444,Malayalapuzha,"Dug Well",W23136,2016,5.55,5.8,4.72,6.65
+KL,Pathanamthitta,Koipuram,Pandalam,9.30722222,76.685,Kidanganoor,"Dug Well",W23144,2016,NA,8.7,7.64,5
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.31416667,76.77444444,Kadammanitta,"Dug Well",W23145,2016,6.04,6.86,5.99,6.55
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.32194444,76.73583333,"Naranganam (R1)","Dug Well",W23149,2016,1.52,2.9,2.65,2.85
+KL,Pathanamthitta,Koipuram,Elanthoor,9.33333333,76.78333333,Kuttoor,"Dug Well",W23153,2016,3.5,4.16,3.46,3.4
+KL,Pathanamthitta,Ranni,Ranni,9.33722222,76.91777778,"Chittar (R1)","Dug Well",W23156,2016,8.45,8.48,8.43,9
+KL,Pathanamthitta,Koipuram,Koipuram,9.35361111,76.67888889,Pullad,"Dug Well",W23158,2016,4.55,5.57,5.39,6
+KL,Pathanamthitta,Ranni,Ranni,9.35361111,76.8025,Edakkulam,"Dug Well",W23159,2016,3.6,4.41,5.05,5.55
+KL,Pathanamthitta,Ranni,Ranni,9.33722222,76.91777778,"Chittar (R1)","Dug Well",W23156,2015,7.7,9.3,8.44,9.1
+KL,Pathanamthitta,Koipuram,Koipuram,9.35361111,76.67888889,Pullad,"Dug Well",W23158,2015,6.2,7.32,5.14,7.8
+KL,Pathanamthitta,Ranni,Ranni,9.35361111,76.8025,Edakkulam,"Dug Well",W23159,2015,5.55,6.15,5.45,5.95
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.36305556,76.54416667,Podiyadi,"Dug Well",W23160,2015,1.3,2.1,1.4,2.5
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.37861111,76.56861111,Thiruvalla,"Dug Well",W23163,2015,6.1,10.5,6.62,5.1
+KL,Pathanamthitta,Koipuram,Koipuram,9.38194444,76.64111111,Eraviperoor,"Dug Well",W23164,2015,7.55,6.1,2.03,7.41
+KL,Pathanamthitta,"Pathanamthitta Municipality",Koipuram,9.38194444,76.65777778,Kumbanad,"Dug Well",W23165,2015,5.33,6.43,5.18,7.03
+KL,Pathanamthitta,Elanthoor,Koipuram,9.38194444,76.70777778,Thadiyur,"Dug Well",W23166,2015,7.2,7.65,7.02,7.4
+KL,Pathanamthitta,Koipuram,Koipuram,9.38472222,76.62416667,Vallamkulam,"Dug Well",W23168,2015,6.47,5.35,3.47,8.25
+KL,Pathanamthitta,Ambalapuzha,Pulikeezh,9.38888889,76.51361111,Muttar,"Dug Well",W23169,2015,'0.7,1.4,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.39777778,76.85277778,Kadumeenchira,"Dug Well",W23170,2015,6.6,7.5,7.14,8.2
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,"Peringara (R1)","Dug Well",W23171,2015,1.35,1.85,1.4,3.2
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,"Kaviyur (R1)","Dug Well",W23172,2015,6.2,9.2,6.91,7.9
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,"Karikulam  (R1)","Dug Well",W23173,2015,2.45,3.6,2.09,4.45
+KL,Pathanamthitta,Ranni,Ranni,9.40138889,76.85111111,"Kadumeenchira Pz","Bore Well",W23174,2015,14.5,16.4,15.5,16
+KL,Pathanamthitta,Koipuram,Koipuram,9.40472222,76.66972222,Vennikulam,"Dug Well",W23175,2015,3.15,3.55,3.06,3.55
+KL,Pathanamthitta,Mallappally,Koipuram,9.41638889,76.73055556,Chalapally,"Dug Well",W23178,2015,1.75,2.1,1.79,2.15
+KL,Pathanamthitta,Konni,Koipuram,9.41638889,76.73055556,"Athiringal (R1)","Dug Well",W23179,2015,5.2,5.3,7,6.48
+KL,Pathanamthitta,Ranni,Ranni,9.41638889,76.83055556,Chethekkal,"Dug Well",W23180,2015,1.85,2.5,1.49,2.7
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,Kozhenchery,"Dug Well",W23181,2015,2.05,3.1,NA,NA
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,"Koipuram (R1)","Dug Well",W23182,2015,6.3,8.47,6.18,7.86
+KL,Pathanamthitta,Koipuram,Koipuram,9.41722222,76.66944444,"Cherukolpuzha (Airoor)","Dug Well",W23183,2015,4.6,4.8,5,5.4
+KL,Pathanamthitta,Mallappally,Koipuram,9.42444444,76.70305556,Ezhumattoor,"Dug Well",W23186,2015,4.3,4.7,2.11,4.3
+KL,Pathanamthitta,Kanjirappally,Ranni,9.425,76.9125,Edakadathy,"Dug Well",W23187,2015,9,9.2,8.4,9.05
+KL,Pathanamthitta,Ranni,Ranni,9.43388889,76.8575,Vechoochira,"Dug Well",W23190,2015,NA,4.55,NA,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.44055556,76.61277778,Kunnamthanam1,"Dug Well",W23191,2015,9.6,13.4,12.17,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.44277778,76.67361111,Murani,"Dug Well",W23193,2015,1.8,2.3,2.38,2.65
+KL,Pathanamthitta,Mallappally,Malapally,9.44833333,76.69694444,Vaipur,"Dug Well",W23196,2015,1.4,1.3,1.95,1.1
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,Kottangal,"Dug Well",W23197,2015,1.3,1.9,'0.65,1.6
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,"Kottangal Pz","Bore Well",W23198,2015,1,2.6,'0.9,2.3
+KL,Pathanamthitta,Konni,Konni,9.26055556,76.8775,Athumbukulam,"Dug Well",W30873,2015,NA,NA,3.05,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,"Pathanamthitta (R1)","Dug Well",W30874,2015,NA,NA,2.98,NA
+KL,Pathanamthitta,Koipuram,Ranni,9.33333333,76.84444444,"Aranmula (R2)","Dug Well",W30876,2015,NA,NA,2.52,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.41333333,76.64083333,Kallooppara,"Dug Well",W30879,2015,NA,NA,1.97,NA
+KL,Pathanamthitta,Ranni,Ranni,9.43388889,76.8575,"Vechoochira (R1)","Dug Well",W30883,2015,NA,NA,4.42,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2015,1.3,3.9,1.6,1.7
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2015,2.4,2,'0.77,3.5
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2015,6.2,6.2,NA,6.1
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2015,8.25,9.35,9.05,9.25
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2015,6.9,7.55,6.9,8.4
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2015,8.6,9,7.68,10.6
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2015,2.55,5.25,5.93,4.95
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2015,6.72,6.92,6.37,5.57
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2015,2.3,6.6,5.5,6.04
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2015,5.05,5.25,4.33,6.35
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2015,2.95,2.75,2.65,4.55
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2015,3.55,4.15,3.41,7.95
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2015,7,7,6.42,7
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2015,3.75,3.65,3.75,3.95
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2015,1.65,3.45,3.13,2.25
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2015,3.8,4.65,3.2,4
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2015,7.4,7.35,4.73,9.25
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2015,6.45,7.05,5.73,6.95
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2015,3.15,4.75,NA,2.57
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2015,2.1,3.7,2.82,4.05
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2015,3.75,1.55,2.65,3.45
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2015,5.54,5.94,5.84,5.89
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2015,1.75,2.45,1.28,1.85
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2015,2.1,2.45,2.25,2.4
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2015,2.1,2.9,2.45,2.4
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2015,9.7,9.9,9.44,10.1
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2015,5.3,4.7,5.07,5
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2015,4.92,5.47,6,5.7
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2015,1.36,2.46,1.26,2.46
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2015,1.4,3.15,1.74,1.7
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2015,5.75,6.25,5.83,4.91
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2015,3.15,3.9,3.75,2.55
+KL,Pathanamthitta,Parakkode,Pandalam,9.08611111,76.71722222,Mannadi,"Dug Well",W23083,2015,1.95,2.3,1.35,3.6
+KL,Pathanamthitta,Parakkode,Pandalam,9.0925,76.68611111,Kadambanad,"Dug Well",W23086,2015,5.75,6.95,5.55,3.75
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.11527778,76.73166667,Churakod,"Dug Well",W23091,2015,6.2,6.2,5.28,6.8
+KL,Pathanamthitta,Parakkode,Parakode,9.12333333,76.85138889,Kalanjoor,"Dug Well",W23092,2015,NA,7.65,6.22,6.95
+KL,Pathanamthitta,Parakkode,Parakode,9.12777778,76.83888889,Kuditha,"Dug Well",W23093,2015,7.25,NA,6.41,7.25
+KL,Pathanamthitta,Parakkode,Pandalam,9.135,76.82138889,Poothangara,"Dug Well",W23094,2015,3.7,NA,3.62,5.8
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15138889,76.77083333,Ezhamkulam,"Dug Well",W23096,2015,6.8,6.5,5.5,6.71
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.16083333,76.71944444,"Adoor (R2)","Dug Well",W23098,2015,8.95,8.8,8.27,8.65
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.18472222,76.77138889,Kodumon,"Dug Well",W23103,2015,6.85,6.3,6.1,7.5
+KL,Pathanamthitta,Pandalam,Pandalam,9.19083333,76.70527778,Paranthal,"Dug Well",W23104,2015,4.95,NA,5.24,6.5
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,"Thatta (R1)","Dug Well",W23106,2015,1.1,2.06,'0.87,1.6
+KL,Pathanamthitta,Konni,Konni,9.20111111,76.84805556,"Valiakavu ( Vakayar)","Dug Well",W23107,2015,1.05,NA,2,2.4
+KL,Pathanamthitta,Konni,Konni,9.20222222,76.88111111,"Kalleli Pz","Bore Well",W23108,2015,1.25,4.75,1.19,4.45
+KL,Pathanamthitta,Elanthoor,Pandalam,9.20833333,76.655,"Koipuram Pz","Bore Well",W23109,2015,11.7,11.9,11.5,12.5
+KL,Pathanamthitta,Elanthoor,Konni,9.20888889,76.87277778,Aruvapulam,"Dug Well",W23111,2015,2.7,4.2,2.8,4.1
+KL,Pathanamthitta,Pandalam,Pandalam,9.21583333,76.68194444,"Pandalam Town","Dug Well",W23112,2015,'0.6,2.22,'0.62,2.35
+KL,Pathanamthitta,Konni,Konni,9.21638889,76.81388889,"V Kottayam","Dug Well",W23114,2015,7.3,9.3,8.36,9
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallikod,"Dug Well",W23116,2015,3.8,4.9,3.84,5.8
+KL,Pathanamthitta,Elanthoor,Pandalam,9.22083333,76.7025,Thumpaman,"Dug Well",W23117,2015,7.3,8.45,10.51,8.3
+KL,Pathanamthitta,Elanthoor,Konni,9.22944444,76.75388889,Kaipattoor,"Dug Well",W23118,2015,6.4,6.8,5.7,7.96
+KL,Pathanamthitta,Elanthoor,Konni,9.22944444,76.75388889,"Adoor Bypass","Dug Well",W23119,2015,3.4,3.7,3.1,2.6
+KL,Pathanamthitta,Pandalam,Pandalam,9.24277778,76.6725,Kulanada,"Dug Well",W23121,2015,6.05,4.65,5.7,7.35
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.24388889,76.75222222,Omallur(R1),"Dug Well",W23122,2015,7.85,8.25,7.19,8.7
+KL,Pathanamthitta,Elanthoor,Pandalam,9.26305556,76.71305556,Elavumthitta,"Dug Well",W23129,2015,6.4,7,5,8.4
+KL,Pathanamthitta,Konni,Konni,9.27,76.92833333,Thannithodu,"Dug Well",W23130,2015,6.5,7.1,6.42,6.32
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28611111,76.82166667,"Malayalapuzha Pz","Bore Well",W23135,2015,13.5,18.4,14.35,18.85
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28722222,76.82194444,Malayalapuzha,"Dug Well",W23136,2015,5.7,6.6,5.1,5.5
+KL,Pathanamthitta,Koipuram,Pandalam,9.30722222,76.685,Kidanganoor,"Dug Well",W23144,2015,3.3,4.8,2.15,5.2
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.31416667,76.77444444,Kadammanitta,"Dug Well",W23145,2015,7.71,6.7,2.92,8.5
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.32194444,76.73583333,"Naranganam (R1)","Dug Well",W23149,2015,1.9,1.51,2.05,2.1
+KL,Pathanamthitta,Koipuram,Elanthoor,9.33333333,76.78333333,Kuttoor,"Dug Well",W23153,2015,2.7,3.92,NA,4.2
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,"Aranmula (R1)","Dug Well",W23154,2015,4.92,NA,NA,8
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.37861111,76.56861111,Thiruvalla,"Dug Well",W23163,2014,3.35,NA,8.1,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.38194444,76.64111111,Eraviperoor,"Dug Well",W23164,2014,1.25,3.3,5.25,2.85
+KL,Pathanamthitta,"Pathanamthitta Municipality",Koipuram,9.38194444,76.65777778,Kumbanad,"Dug Well",W23165,2014,3.23,7.08,6.48,6.13
+KL,Pathanamthitta,Elanthoor,Koipuram,9.38194444,76.70777778,Thadiyur,"Dug Well",W23166,2014,2.6,7.8,7.3,7.33
+KL,Pathanamthitta,Koipuram,Koipuram,9.38472222,76.62416667,Vallamkulam,"Dug Well",W23168,2014,2.45,4.7,4.05,5.06
+KL,Pathanamthitta,Ambalapuzha,Pulikeezh,9.38888889,76.51361111,Muttar,"Dug Well",W23169,2014,NA,1.5,NA,1.32
+KL,Pathanamthitta,Ranni,Ranni,9.39777778,76.85277778,Kadumeenchira,"Dug Well",W23170,2014,4.6,8.3,5.8,9.22
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,"Peringara (R1)","Dug Well",W23171,2014,'0.5,1.8,1.6,2.22
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,"Kaviyur (R1)","Dug Well",W23172,2014,NA,NA,9.2,NA
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,"Karikulam  (R1)","Dug Well",W23173,2014,1.6,NA,3.8,2.34
+KL,Pathanamthitta,Ranni,Ranni,9.40138889,76.85111111,"Kadumeenchira Pz","Bore Well",W23174,2014,12.9,16.4,14.8,15.5
+KL,Pathanamthitta,Koipuram,Koipuram,9.40472222,76.66972222,Vennikulam,"Dug Well",W23175,2014,2.85,3.4,3.55,3.34
+KL,Pathanamthitta,Mallappally,Koipuram,9.41638889,76.73055556,Chalapally,"Dug Well",W23178,2014,NA,2.2,3.05,1.82
+KL,Pathanamthitta,Konni,Koipuram,9.41638889,76.73055556,"Athiringal (R1)","Dug Well",W23179,2014,3.51,8.2,6.6,7.79
+KL,Pathanamthitta,Ranni,Ranni,9.41638889,76.83055556,Chethekkal,"Dug Well",W23180,2014,1.75,3.4,2,1.88
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,Kozhenchery,"Dug Well",W23181,2014,1,2.2,1.6,1.84
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,"Koipuram (R1)","Dug Well",W23182,2014,2.97,7.1,7.3,6.92
+KL,Pathanamthitta,Koipuram,Koipuram,9.41722222,76.66944444,"Cherukolpuzha (Airoor)","Dug Well",W23183,2014,NA,6.35,4,6
+KL,Pathanamthitta,Mallappally,Koipuram,9.42444444,76.70305556,Ezhumattoor,"Dug Well",W23186,2014,3.85,4.95,3.8,3.83
+KL,Pathanamthitta,Ranni,Ranni,9.43388889,76.8575,Vechoochira,"Dug Well",W23190,2014,3.4,4.6,5.7,3.58
+KL,Pathanamthitta,Mallappally,Malapally,9.44055556,76.61277778,Kunnamthanam1,"Dug Well",W23191,2014,6.2,13.8,9.7,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.44277778,76.67361111,Murani,"Dug Well",W23193,2014,NA,3,2.8,2.87
+KL,Pathanamthitta,Mallappally,Malapally,9.44833333,76.69694444,Vaipur,"Dug Well",W23196,2014,1.87,3.5,1.4,1.28
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,Kottangal,"Dug Well",W23197,2014,1.77,1.87,3.05,1.47
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,"Kottangal Pz","Bore Well",W23198,2014,NA,2.6,9.2,2.24
+KL,Pathanamthitta,Konni,Konni,9.19583333,76.82916667,Chandanapally,"Bore Well",W30869,2014,NA,2.6,'0.29,1.43
+KL,Pathanamthitta,"Adoor Municipality",Elanthoor,9.25388889,76.77027778,Pattazhi,"Dug Well",W30872,2014,NA,8.3,NA,6.75
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2014,1.8,2.4,1.9,1.75
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2014,2.08,3.55,2.1,2.44
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2014,2.95,7.14,8.2,5.66
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2014,6.45,12.45,8.65,9.34
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2014,5,7.9,7.3,8.3
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2014,7.2,NA,8.2,NA
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2014,3.15,5.85,4.05,5.2
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2014,6.27,6.87,6.72,6.69
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2014,1.8,6.15,NA,5.08
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2014,'0.9,5.25,4.15,5.34
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2014,2.55,3.85,3.25,3.37
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2014,3.05,4.3,3.85,NA
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2014,4.3,7.13,7.1,6.67
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2014,6.25,9.7,NA,10.58
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2014,2.25,4,5.25,3.7
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2014,'0.2,3.25,1.85,3.75
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2014,3,4.05,4.15,4
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2014,3.4,7.9,4.55,8.65
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2014,5.25,8.05,5.85,6.54
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2014,1.45,4.55,3.75,1.53
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2014,1.5,3.87,2.75,4.17
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2014,1.42,NA,3.55,3.39
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2014,2.51,5.84,5.79,5.76
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2014,NA,6.6,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2014,1.05,2.77,NA,1.13
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2014,NA,2.57,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2014,2,2.5,2,2.24
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2014,2.4,2.65,2.4,2.3
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2014,9.4,10.3,9.7,9.9
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2014,2.4,6.1,5.2,4.91
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2014,4.47,5.2,5.47,5.75
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2014,'0.91,2.46,1.66,2.4
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2014,2.3,4.85,1.5,5.74
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2014,NA,6.45,5.85,6.73
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2014,3.05,3.8,2.95,3.45
+KL,Pathanamthitta,Parakkode,Pandalam,9.08611111,76.71722222,Mannadi,"Dug Well",W23083,2014,'0.85,2.77,1.4,3.16
+KL,Pathanamthitta,Parakkode,Pandalam,9.0925,76.68611111,Kadambanad,"Dug Well",W23086,2014,2.6,7.3,4.45,3.71
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.11527778,76.73166667,Churakod,"Dug Well",W23091,2014,3.7,6.43,5.4,7.08
+KL,Pathanamthitta,Parakkode,Parakode,9.12333333,76.85138889,Kalanjoor,"Dug Well",W23092,2014,2.65,NA,3.45,5.69
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15138889,76.77083333,Ezhamkulam,"Dug Well",W23096,2014,4.8,7,5.6,6.86
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.16083333,76.71944444,"Adoor (R2)","Dug Well",W23098,2014,2.32,11.05,9.05,9.26
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.18472222,76.77138889,Kodumon,"Dug Well",W23103,2014,4.2,6.45,NA,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.19083333,76.70527778,Paranthal,"Dug Well",W23104,2014,1.3,5.2,NA,8.3
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,"Thatta (R1)","Dug Well",W23106,2014,'0.2,1.3,1.2,1.24
+KL,Pathanamthitta,Konni,Konni,9.20222222,76.88111111,"Kalleli Pz","Bore Well",W23108,2014,NA,4.8,2.65,4.21
+KL,Pathanamthitta,Elanthoor,Pandalam,9.20833333,76.655,"Koipuram Pz","Bore Well",W23109,2014,NA,11.8,12.1,11.83
+KL,Pathanamthitta,Pandalam,Pandalam,9.21583333,76.68194444,"Pandalam Town","Dug Well",W23112,2014,1.1,NA,'0.7,'0.78
+KL,Pathanamthitta,Konni,Konni,9.21638889,76.81388889,"V Kottayam","Dug Well",W23114,2014,4.7,NA,6.7,8.53
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallikod,"Dug Well",W23116,2014,2.6,4.9,4.1,4.4
+KL,Pathanamthitta,Elanthoor,Pandalam,9.22083333,76.7025,Thumpaman,"Dug Well",W23117,2014,4.15,8.3,7.6,8.04
+KL,Pathanamthitta,Pandalam,Pandalam,9.24277778,76.6725,Kulanada,"Dug Well",W23121,2014,NA,NA,7.8,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.24388889,76.75222222,Omallur(R1),"Dug Well",W23122,2014,4.75,8.35,7.85,8.28
+KL,Pathanamthitta,Elanthoor,Pandalam,9.26305556,76.71305556,Elavumthitta,"Dug Well",W23129,2014,3.5,6.8,6.4,7.06
+KL,Pathanamthitta,Konni,Konni,9.27,76.92833333,Thannithodu,"Dug Well",W23130,2014,3.2,NA,6.2,6.04
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28611111,76.82166667,"Malayalapuzha Pz","Bore Well",W23135,2014,NA,20,6.6,18.25
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28722222,76.82194444,Malayalapuzha,"Dug Well",W23136,2014,3.7,6.3,5.65,5.28
+KL,Pathanamthitta,Koipuram,Pandalam,9.30722222,76.685,Kidanganoor,"Dug Well",W23144,2014,'0.75,4.85,3.9,4.6
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.31416667,76.77444444,Kadammanitta,"Dug Well",W23145,2014,3.36,5.9,6.75,5.55
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.32194444,76.73583333,"Naranganam (R1)","Dug Well",W23149,2014,1.9,2.8,1.9,3.4
+KL,Pathanamthitta,Koipuram,Elanthoor,9.33333333,76.78333333,Kuttoor,"Dug Well",W23153,2014,1.47,3.54,3.3,3.22
+KL,Pathanamthitta,Ranni,Ranni,9.33722222,76.91777778,"Chittar (R1)","Dug Well",W23156,2014,3.22,9.1,8.4,9.36
+KL,Pathanamthitta,Koipuram,Koipuram,9.35361111,76.67888889,Pullad,"Dug Well",W23158,2014,3.1,6.18,7.1,6.02
+KL,Pathanamthitta,Ranni,Ranni,9.35361111,76.8025,Edakkulam,"Dug Well",W23159,2014,2.89,4.25,7.37,5.97
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.36305556,76.54416667,Podiyadi,"Dug Well",W23160,2014,'0.5,2.55,3.65,3.1
+KL,Pathanamthitta,Elanthoor,Koipuram,9.38194444,76.70777778,Thadiyur,"Dug Well",W23166,2013,7.35,NA,7,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.38472222,76.62416667,Vallamkulam,"Dug Well",W23168,2013,3.71,NA,5.7,5.3
+KL,Pathanamthitta,Ambalapuzha,Pulikeezh,9.38888889,76.51361111,Muttar,"Dug Well",W23169,2013,1.4,NA,1.3,1.55
+KL,Pathanamthitta,Ranni,Ranni,9.39777778,76.85277778,Kadumeenchira,"Dug Well",W23170,2013,8.8,NA,5.3,9.8
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,"Peringara (R1)","Dug Well",W23171,2013,1.7,1.95,1.35,2.35
+KL,Pathanamthitta,Ranni,Ranni,9.40138889,76.85111111,"Kadumeenchira Pz","Bore Well",W23174,2013,NA,NA,NA,17.3
+KL,Pathanamthitta,Koipuram,Koipuram,9.40472222,76.66972222,Vennikulam,"Dug Well",W23175,2013,3.15,NA,3.05,4.45
+KL,Pathanamthitta,Mallappally,Koipuram,9.41638889,76.73055556,Chalapally,"Dug Well",W23178,2013,1.85,NA,1.8,2.6
+KL,Pathanamthitta,Konni,Koipuram,9.41638889,76.73055556,"Athiringal (R1)","Dug Well",W23179,2013,7.2,NA,6.4,8.2
+KL,Pathanamthitta,Ranni,Ranni,9.41638889,76.83055556,Chethekkal,"Dug Well",W23180,2013,2.1,NA,'0.9,4
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,Kozhenchery,"Dug Well",W23181,2013,1.8,NA,1.5,2.56
+KL,Pathanamthitta,Koipuram,Ranni,9.41638889,76.83055556,"Koipuram (R1)","Dug Well",W23182,2013,8.8,NA,6.7,9.3
+KL,Pathanamthitta,Koipuram,Koipuram,9.41722222,76.66944444,"Cherukolpuzha (Airoor)","Dug Well",W23183,2013,5.22,NA,4.5,5.92
+KL,Pathanamthitta,Mallappally,Koipuram,9.42444444,76.70305556,Ezhumattoor,"Dug Well",W23186,2013,4.63,NA,3.85,5.36
+KL,Pathanamthitta,Ranni,Ranni,9.43388889,76.8575,Vechoochira,"Dug Well",W23190,2013,3.82,NA,2.62,6.2
+KL,Pathanamthitta,Mallappally,Malapally,9.44055556,76.61277778,Kunnamthanam1,"Dug Well",W23191,2013,13.45,NA,10.75,14.25
+KL,Pathanamthitta,Mallappally,Malapally,9.44277778,76.67361111,Murani,"Dug Well",W23193,2013,2.45,NA,2.5,3.1
+KL,Pathanamthitta,Mallappally,Malapally,9.44833333,76.69694444,Vaipur,"Dug Well",W23196,2013,NA,NA,3.08,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,Kottangal,"Dug Well",W23197,2013,1.4,NA,1.12,1.75
+KL,Pathanamthitta,Mallappally,Malapally,9.45083333,76.74666667,"Kottangal Pz","Bore Well",W23198,2013,NA,NA,NA,2.4
+KL,Pathanamthitta,Konni,Konni,9.19583333,76.82916667,Chandanapally,"Bore Well",W30869,2013,NA,NA,NA,2.3
+KL,Pathanamthitta,"Adoor Municipality",Elanthoor,9.25388889,76.77027778,Pattazhi,"Dug Well",W30872,2013,NA,NA,6.15,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2013,2.4,2.52,1.75,2.85
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2013,2.4,3.5,'0.96,3.9
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.73333333,Naranganam1,"Dug Well",W03585,2013,NA,NA,2,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2013,5.6,6.05,5.6,6.95
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2013,11.25,9.45,10.65,12.05
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2013,7.25,8.1,7.2,8.72
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2013,8.4,9.15,8,9.6
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2013,4.25,4.9,4.95,5.45
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2013,6.72,6.92,6.72,4.87
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2013,5.75,6.2,5,6.85
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2013,5.35,7.75,4.35,6.35
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2013,2.85,4.25,2.35,3.25
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2013,3.05,3.95,3.7,NA
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2013,7.25,7.12,6.3,7.05
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2013,9.12,9.5,9,10.7
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2013,3.6,4.15,3.5,4.4
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2013,3.25,3.35,2.75,3.8
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2013,3.9,4.4,3.7,4.25
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,Tatta,"Dug Well",W03605,2013,NA,1.3,NA,NA
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2013,5.5,7.9,4.55,9.6
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2013,6.25,7.75,5.75,7.25
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2013,3.92,4.51,2.55,4.75
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2013,3.1,3.95,2.97,4.55
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2013,2.81,3.25,2.3,3.3
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2013,5.24,5.745,5.24,6.04
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2013,6.2,6.35,NA,6.28
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2013,1.35,2.8,'0.75,3.5
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2013,2.09,2.55,1.95,3.35
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2013,2.2,2.52,1.95,2.75
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2013,2,2.7,1.55,2.85
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2013,10.1,9.85,10.1,10.5
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2013,5.4,6.65,4.1,6
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2013,4.97,5.77,4.15,5.97
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2013,1.41,2.56,'0.86,2.91
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2013,1.6,4.7,1.3,5.25
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2013,6.1,6.57,5.05,6.55
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2013,3.31,3.95,2.85,4.05
+KL,Pathanamthitta,Parakkode,Pandalam,9.08611111,76.71722222,Mannadi,"Dug Well",W23083,2013,NA,NA,1.5,NA
+KL,Pathanamthitta,Parakkode,Pandalam,9.0925,76.68611111,Kadambanad,"Dug Well",W23086,2013,NA,NA,4.25,NA
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.11527778,76.73166667,Churakod,"Dug Well",W23091,2013,NA,NA,5.9,NA
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15138889,76.77083333,Ezhamkulam,"Dug Well",W23096,2013,5.4,NA,5.65,7.6
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.16083333,76.71944444,"Adoor (R2)","Dug Well",W23098,2013,10.55,NA,11.55,9.55
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.18472222,76.77138889,Kodumon,"Dug Well",W23103,2013,NA,NA,5.3,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.19083333,76.70527778,Paranthal,"Dug Well",W23104,2013,NA,NA,4.85,NA
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,"Thatta (R1)","Dug Well",W23106,2013,1.14,1.3,1.2,2
+KL,Pathanamthitta,Konni,Konni,9.20222222,76.88111111,"Kalleli Pz","Bore Well",W23108,2013,NA,NA,NA,4.95
+KL,Pathanamthitta,Elanthoor,Pandalam,9.20833333,76.655,"Koipuram Pz","Bore Well",W23109,2013,NA,NA,NA,12.5
+KL,Pathanamthitta,Konni,Konni,9.21638889,76.81388889,"V Kottayam","Dug Well",W23114,2013,9,NA,3.6,10
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallikod,"Dug Well",W23116,2013,NA,NA,3.2,NA
+KL,Pathanamthitta,Elanthoor,Pandalam,9.22083333,76.7025,Thumpaman,"Dug Well",W23117,2013,NA,NA,6.12,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.24388889,76.75222222,Omallur(R1),"Dug Well",W23122,2013,NA,NA,7.65,NA
+KL,Pathanamthitta,Elanthoor,Pandalam,9.26305556,76.71305556,Elavumthitta,"Dug Well",W23129,2013,NA,NA,5.3,NA
+KL,Pathanamthitta,Konni,Konni,9.27,76.92833333,Thannithodu,"Dug Well",W23130,2013,5.35,NA,4.5,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28611111,76.82166667,"Malayalapuzha Pz","Bore Well",W23135,2013,NA,NA,NA,19.4
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.28722222,76.82194444,Malayalapuzha,"Dug Well",W23136,2013,5.3,NA,5.9,5.7
+KL,Pathanamthitta,Koipuram,Pandalam,9.30722222,76.685,Kidanganoor,"Dug Well",W23144,2013,NA,NA,2.8,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.31416667,76.77444444,Kadammanitta,"Dug Well",W23145,2013,NA,NA,3.75,NA
+KL,Pathanamthitta,Koipuram,Elanthoor,9.33333333,76.78333333,Kuttoor,"Dug Well",W23153,2013,3.34,NA,1.7,4
+KL,Pathanamthitta,Ranni,Ranni,9.33722222,76.91777778,"Chittar (R1)","Dug Well",W23156,2013,8,NA,6.4,10.45
+KL,Pathanamthitta,Koipuram,Koipuram,9.35361111,76.67888889,Pullad,"Dug Well",W23158,2013,5.2,NA,5.85,5.5
+KL,Pathanamthitta,Ranni,Ranni,9.35361111,76.8025,Edakkulam,"Dug Well",W23159,2013,NA,NA,3.57,NA
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.36305556,76.54416667,Podiyadi,"Dug Well",W23160,2013,NA,NA,1.72,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.38194444,76.64111111,Eraviperoor,"Dug Well",W23164,2013,2.5,NA,2.1,3.15
+KL,Pathanamthitta,"Pathanamthitta Municipality",Koipuram,9.38194444,76.65777778,Kumbanad,"Dug Well",W23165,2013,6.03,NA,5.78,7.33
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2012,NA,2.1,'0.7,2.55
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,"Peringara (R1)","Dug Well",W23171,2012,NA,NA,1.45,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2012,NA,5.8,5.6,7.2
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2012,NA,9.35,7.75,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2012,NA,7.2,7.1,9.44
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2012,NA,8.2,9.2,8.23
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2012,NA,6.55,5.25,5.15
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2012,NA,6.82,6.77,6.87
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2012,NA,6.1,6,3.85
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2012,NA,5.05,5.35,5.05
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2012,NA,3.45,3.15,2.45
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2012,NA,3.85,3.85,4.25
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2012,NA,7,7.55,7.7
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2012,NA,9.15,9,13.18
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2012,NA,3.95,3.65,3.97
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2012,NA,3.05,'0.5,3.55
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2012,NA,3.85,3.8,4.16
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2012,NA,6.8,6.08,9.08
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2012,NA,6.45,NA,6.55
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2012,NA,5.75,3.8,3.7
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2012,NA,3.75,3.1,4.35
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2012,NA,2.8,2.75,3.8
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2012,NA,5.34,5.34,5.79
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2012,NA,6,6.5,7.1
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2012,NA,1.65,'0.15,'0.75
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2012,NA,1.05,1.65,2.15
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2012,NA,2.5,2.3,2.2
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2012,NA,2.75,2.4,2.8
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2012,NA,4.7,9.8,9.92
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2012,NA,5.2,5.3,4.85
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2012,NA,5.47,3.87,5.87
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2012,NA,2.36,1.66,2.66
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2012,NA,2.6,NA,6.64
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2012,NA,6.1,5.45,NA
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2012,NA,3.8,3.45,4.1
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,"Thatta (R1)","Dug Well",W23106,2012,NA,NA,1.1,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2012,NA,3.4,1.4,2.9
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2011,1.34,1.9,1.55,2
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2011,'0.8,3.3,2.4,4.5
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2011,4.9,5.6,5.5,6.1
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2011,8.45,9.65,9.05,9.95
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2011,6.75,7.4,6.8,8.8
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2011,7.75,8.3,8,8.75
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2011,5.37,5.85,5.35,6.4
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2011,6.58,6.77,6.72,5.97
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2011,2.11,6,4.1,6
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2011,4.62,4.95,4.25,6.2
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2011,2.55,3.25,3.45,3.85
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2011,NA,3.95,NA,4.15
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2011,5.72,7,6.7,6.95
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2011,7.77,9.25,8.65,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2011,2.35,3.85,3.45,4.25
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2011,2.3,3.05,3.25,3.25
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2011,3.72,4.05,3.7,4.3
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2011,4.23,6.1,5.05,9.1
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2011,3.77,6.25,6.55,6.75
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2011,2.91,3.65,3.95,3.75
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2011,2.55,3.05,3.35,NA
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2011,2.06,3.14,2.45,3.3
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2011,5.12,5.74,5.24,5.94
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2011,5.32,6,NA,6.25
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2011,'0.91,1.45,'0.7,1.55
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2011,'0.65,1.05,'0.45,1
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2011,1.92,2.55,2.1,2.35
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2011,1.83,2.8,1.4,2.4
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2011,7.75,9.95,3.25,NA
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2011,4.71,5.2,4,5
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2011,4.29,5.47,4.57,5.92
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2011,'0.83,2.21,1.26,2.56
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2011,1.45,3.17,1.5,4.1
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2011,5.75,6.35,NA,6.25
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2011,2.05,4,2.75,3.55
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2010,1.35,2.2,1.45,3.18
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2010,8.05,9.75,7.95,9.5
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2010,1.25,3.95,2.75,3.85
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2010,1.8,2.5,1.7,2.3
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2010,1.4,2.7,2.55,2.55
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2010,8.35,NA,NA,10.25
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2010,4.4,4.2,4.3,5.8
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2010,3.52,5.77,4.87,5.97
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2010,'0.66,2.46,1.51,2.89
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2010,1.72,3.2,2.45,3.35
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2010,4.74,5.74,5.34,5.81
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2010,4.7,5.9,5.4,5.9
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2010,'0.9,1.95,1.05,2.08
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2010,'0.8,'0.95,'0.75,'0.95
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2010,1.25,3.15,2.35,3.35
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2010,3.6,4,3.7,4
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2010,3.4,6.15,3.4,8.12
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2010,4.85,6.85,4.55,6.95
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2010,2.15,4.55,1.95,4.45
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2010,3,3.55,2.15,3.87
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2010,NA,NA,2.95,5.72
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2010,2.45,4.05,2.75,5.4
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2010,3.15,4.25,3,NA
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2010,5.9,6.8,4.75,7.7
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2010,8.1,9.75,8.65,11.95
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2010,2.05,3.95,3.45,3.95
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2010,6.3,7.82,6.4,7.4
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2010,7.5,8.4,7.2,8.67
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2010,3.8,6.75,3.9,5.6
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2010,6.27,6.37,5.97,5.34
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2010,2.2,6.2,4.2,6.5
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2010,1.45,NA,1,1.7
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2010,'0.34,2.8,'0.45,2.1
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2010,4.55,5.7,4.2,5.9
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2010,5.35,6.35,5.75,6.55
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2009,1.45,NA,2.5,4.7
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2009,8.75,9.35,9.05,10.09
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2009,3,3.75,3.65,3.38
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2009,2,2.55,2.3,2.24
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2009,2.15,2.55,2.65,2.68
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2009,8.25,10.05,NA,10.21
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2009,3.9,5.75,4.05,NA
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2009,4.47,5.57,5.47,5.34
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2009,1.71,2.51,2.26,2.79
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2009,2.65,3.15,2.75,5.25
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2009,5.64,5.84,5.64,5.86
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2009,5.7,6,5.7,6.27
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2009,'0.7,2.65,1.7,2.41
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2009,'0.75,1.05,1,1.3
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2009,2.85,3.15,2.85,6.39
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2009,4.8,4.06,3.6,6.7
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2009,7.15,8.1,5.8,8.49
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2009,6.15,NA,6.25,7.13
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2009,3.25,4.47,2.95,2.15
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2009,3.05,3.6,3.15,4.1
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2009,NA,5.15,NA,5.75
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2009,2.85,3.85,3.25,4.27
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2009,3.75,4.05,3.85,5
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2009,7.2,7,7,7.26
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2009,9.05,10.1,9.05,13.35
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2009,3.75,4.05,3.75,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2009,7.05,7.55,7.3,8.4
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2009,8.45,NA,8.2,9
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2009,5.8,7.05,4.6,NA
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2009,7.02,7.07,5.88,5.17
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2009,5.65,6.35,4.24,5.28
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2009,1.6,2.1,NA,2.39
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2009,1.55,3.2,2.9,3.8
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2009,NA,1.15,NA,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2009,5.4,5.8,5.7,5.88
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2009,5.1,5.85,6.6,7.92
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2008,NA,4.9,2.2,1.55
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2008,9.27,9.75,9.15,8.75
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2008,3.63,3.85,3.75,3.15
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2008,2.3,2.64,2.32,2.1
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2008,2.27,4.4,3.9,2
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2008,NA,10.15,9.95,9.86
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2008,4.9,5.25,5.1,NA
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2008,4.9,5.52,5.12,4.92
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2008,1.73,2.59,1.86,2.36
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2008,2.67,3.17,2.79,3.25
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2008,5.54,5.83,5.64,5.66
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2008,5.62,6.11,5.8,5.8
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2008,1.52,2.9,1.55,'0.55
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2008,'0.79,1.25,'0.75,'0.95
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2008,2.82,3.15,2.85,2.85
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2008,3.87,4.1,4,4
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2008,3.12,8.98,5.3,7.4
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2008,5.33,6.7,NA,6.65
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2008,3.86,4.45,3.8,3.85
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2008,2.97,3.72,3.1,3.85
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2008,NA,5.27,NA,6.05
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2008,2.69,4.1,2.75,4.35
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2008,3.57,4.07,NA,3.75
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2008,6.4,5.84,6.7,6.81
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2008,9.55,10.07,8.95,11.85
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2008,2.75,6.55,3.85,4.07
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2008,7.2,7.82,7.3,8.4
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2008,8.64,8.84,NA,9.66
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2008,5.68,7.35,5.45,7.45
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2008,6.74,7.07,6.87,8.86
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2008,5.49,7.04,5.7,6.1
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2008,NA,12.9,NA,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2008,12.32,2.7,1.8,1.8
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2008,1.67,3.38,1.91,2.4
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2008,NA,1.38,'0.45,1.95
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2008,5.32,6,5.4,5.66
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2008,NA,6.05,5.55,5
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2007,1.68,4.16,1.87,4.6
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2007,8.95,9.44,6.95,10.05
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2007,3.65,4.01,3.15,4.05
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2007,2.3,2.9,2.09,3.22
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2007,3.65,4.24,3.03,5
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2007,9.75,9.95,8.93,10.35
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2007,4.9,5.04,3.83,5.17
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2007,4.47,5.55,4.09,5.97
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2007,1.36,2.58,1.36,3.15
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2007,2.05,3.11,2.15,3.48
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2007,5.44,5.72,5.42,7.04
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2007,5.8,6.03,5.88,6.2
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2007,1.6,2.74,'0.82,3.38
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2007,'0.85,1,1.18,2.15
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2007,1.77,3.09,'0.65,3.35
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2007,3.8,4.12,3.81,4.56
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2007,2.29,7.87,4.8,9.24
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2007,5.55,7.09,5.55,8.25
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2007,3.65,4.47,2.99,5.85
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2007,2.21,3.63,1.33,NA
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2007,4.25,5.24,NA,6.1
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2007,2.95,3.87,3.41,4.75
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2007,3.21,3.91,3.17,4.35
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2007,4.26,6.88,2.62,6.9
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2007,8.2,9.47,7.8,11.69
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2007,3.65,3.91,3.42,6
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2007,6.9,8.28,6.96,8.8
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2007,8.3,9.06,8.12,9.22
+KL,Pathanamthitta,Konni,Konni,9.16111111,76.87083333,Athiringal,"Bore Well",W03591,2007,NA,1.61,NA,5.35
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2007,5.45,6.15,4.26,7.75
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2007,6.77,7.37,6.67,5.32
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2007,3.8,5.7,3.65,7.22
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2007,NA,13.6,NA,12.9
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2007,1.7,2.18,1.56,2.7
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2007,1.65,3.12,'0.5,3.9
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2007,NA,1.09,NA,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2007,5.1,5.66,2.46,6.15
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2007,5.03,4.1,5.18,5.95
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2006,1.99,3.54,1.38,4.87
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2006,9.17,9.37,8.02,9.55
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2006,3.57,3.85,1.49,3.9
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2006,2.81,2.36,2.01,2.43
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2006,4.08,4.16,2.28,4
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2006,9.67,10.05,9.54,9.85
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2006,4.93,5.23,2.71,5.2
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2006,4.76,5.27,3.91,5.57
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2006,1.89,2.46,'0.68,2.62
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2006,2.47,3.05,1.22,3.35
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2006,5.63,5.76,4.96,5.84
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2006,5.58,6.03,5.24,6.2
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2006,'0.35,2.37,'0.51,3.73
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2006,'0.83,'0.9,'0.65,1.55
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2006,NA,NA,'0.96,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2006,3.98,4.06,3.04,4.25
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2006,5.26,7.15,2.39,9.6
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2006,5.63,5.92,3.73,6.95
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2006,3.95,4.55,1.72,6.15
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2006,3.07,3.45,1.29,3.95
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2006,4.49,NA,1.58,NA
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2006,2.73,3.5,2.27,4.35
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2006,3.54,3.8,3,5.1
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2006,6.64,7.05,2.9,6.9
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2006,9.39,9.77,7.6,11.43
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2006,3.46,3.88,2.86,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2006,7.18,7.8,6.13,8.1
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2006,8.42,8.99,7.44,9.02
+KL,Pathanamthitta,Konni,Konni,9.16111111,76.87083333,Athiringal,"Bore Well",W03591,2006,1.13,NA,1.01,5.65
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2006,5.59,6.45,2.46,6.6
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2006,6.95,6.92,5.54,5.07
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2006,5.74,6.3,2.41,5.3
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2006,9.36,10.55,6.34,11.3
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2006,1.59,1.9,1.38,2.1
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2006,1.38,3.1,'0.32,3.4
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2006,NA,NA,'0.03,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2006,5.13,5.75,3.4,6.25
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2006,5.23,5.35,3.65,NA
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2005,2.2,4.78,1.35,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2005,9.3,9.85,8.37,10.6
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2005,3.8,3.95,1.8,3.75
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,2005,4.7,7.66,4.2,5.5
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2005,2.32,2.43,1.7,2.4
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2005,4.1,4.45,3.2,4.4
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2005,9.95,9.95,NA,10.65
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2005,5.34,6.4,2.5,5.2
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2005,5.17,5.77,3.87,5.77
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2005,2.16,2.84,1.86,2.79
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2005,3,3.15,2.37,NA
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2005,5.68,5.87,5.19,5.87
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2005,5.8,6.15,5.46,6.6
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2005,1.81,2.75,'0.38,2.81
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2005,'0.8,'0.98,'0.75,2.32
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2005,2.94,2.64,NA,4.13
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2005,4.22,4.23,3.66,4.02
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2005,6.5,8.17,4.04,8.7
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2005,6.03,6.73,6.2,7.78
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2005,4.85,4.98,2.4,6.22
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2005,3.21,3.84,2.95,3.53
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2005,NA,6.68,NA,6.11
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2005,3.13,3.92,2.65,4.65
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2005,3.77,3.91,3.93,4.44
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2005,6.92,7.23,6.6,6.94
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2005,9.25,11.2,9.35,13.19
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2005,3.75,6.5,2.75,4.25
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2005,7.25,8.24,6.7,8.8
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2005,9.13,9.4,8.15,8.92
+KL,Pathanamthitta,Konni,Konni,9.16111111,76.87083333,Athiringal,"Bore Well",W03591,2005,NA,5.47,NA,6.76
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2005,5.93,6.85,3.8,7.45
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2005,7.01,6.95,6.27,5.33
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2005,5.83,6.9,4.2,5.25
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2005,9.77,10.7,8.7,11.65
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2005,1.66,1.71,1.43,1.55
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2005,2.4,2.73,'0.5,2.9
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2005,'0.7,NA,NA,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2005,5.4,5.75,5.05,6.1
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2005,NA,5.95,4.35,5.8
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2004,2.2,5.05,1.4,4.04
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2004,9.53,9.8,9.04,8.89
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2004,3.7,4.05,3.42,3.59
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,2004,NA,5.35,1.96,6.08
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2004,2.35,2.55,2.18,3.3
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2004,4.05,4,3.81,4.39
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2004,9.7,10.15,9.77,10.51
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2004,5.27,5.45,4.56,5.42
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2004,5.17,5.67,4.99,5.82
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2004,2.16,2.86,2.07,2.91
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,2004,1.8,2,NA,2.46
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2004,2.9,3.3,2.25,3.43
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2004,5.72,6.14,5.55,6.72
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2004,5.8,6.35,5.6,6.54
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2004,1.87,3.15,NA,1.79
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2004,'0.85,1.05,'0.77,1.11
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2004,2.75,NA,2.03,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2004,3.95,6.3,3.81,5.29
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2004,5.96,8.75,5.35,6.82
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2004,5.94,6.85,5.85,7.47
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2004,NA,5,3.03,5.84
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2004,3.05,3.85,2.75,3.4
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2004,4.91,6.7,4.45,5.76
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2004,2.95,4.1,2.55,4.39
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2004,3.48,3.85,NA,4.49
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2004,6.5,7.15,6.23,7.48
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2004,9.11,10.55,9.27,13.3
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2004,3.8,4.3,5.84,4.56
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2004,7.12,8,6.71,8.68
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2004,9.17,9.45,8.5,9.4
+KL,Pathanamthitta,Konni,Konni,9.16111111,76.87083333,Athiringal,"Bore Well",W03591,2004,3.05,4.4,5.01,6.54
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2004,6.15,7.4,5.65,7.15
+KL,Pathanamthitta,Konni,Konni,9.23194444,76.85694444,Konni1,"Bore Well",W03593,2004,4.6,6.1,3.59,6.06
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2004,6.82,7.27,7.42,5.88
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2004,5.82,6.45,5.74,6.37
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2004,9.4,11.25,8.81,11.89
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2004,1.72,1.8,1.48,2.08
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2004,2.1,3.5,'0.45,3.98
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2004,NA,1.75,NA,2.53
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2004,5.38,5.8,4.82,6.48
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2004,5.55,6.05,5.26,6.31
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2003,1.76,5.67,1.65,3.35
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2003,5.15,6.99,5.35,6.76
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2003,3.04,5.07,4.15,3.53
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,2003,4.4,6.3,3.95,4.42
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2003,3.61,5.69,4,4.51
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2003,3.2,10.13,9.85,10.33
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2003,4.16,7.68,4.5,5.91
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2003,4.32,7.27,5.07,5.84
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2003,1.25,3.64,1.56,2.58
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,2003,'0.38,2.22,NA,2.44
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2003,2.15,4.41,2.15,2.74
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2003,5.07,7.15,5.59,5.57
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2003,5.6,7.84,5.35,6.33
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2003,1.09,3.97,1.15,NA
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2003,'0.88,2.07,'0.8,NA
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2003,3.05,3.61,2.1,4.48
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2003,1.65,NA,NA,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2003,3.97,5.26,4.4,4.25
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2003,4.07,8.48,NA,5.93
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2003,4.12,NA,5.6,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2003,4.63,7.79,2.75,4.82
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2003,2.68,3.5,1.7,4.1
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2003,NA,5.55,1.35,5.21
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2003,2.84,2.69,2.55,5.03
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2003,3.41,6.45,NA,7.47
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2003,6.8,8.33,5.15,6.97
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2003,8.9,11.73,9.05,12.8
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2003,5.95,5.28,3.4,5.78
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2003,4.32,8.8,7.7,6.36
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2003,8.38,10.14,8.2,8.9
+KL,Pathanamthitta,Konni,Konni,9.16111111,76.87083333,Athiringal,"Bore Well",W03591,2003,2.49,7.63,2.5,8.29
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2003,5.57,8.1,5.05,4.9
+KL,Pathanamthitta,Konni,Konni,9.23194444,76.85694444,Konni1,"Bore Well",W03593,2003,3.3,NA,2.7,NA
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2003,6.64,8.67,6.82,6.82
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2003,5.57,7.28,6.1,NA
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2003,9.83,12.12,9.95,12.11
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2003,1.7,NA,1.45,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2003,'0.9,4.67,'0.5,3.67
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2003,'0.75,NA,'0.65,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2003,5,11.32,4.5,10.57
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2003,8.77,9.87,8.5,11.03
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2002,'0.98,4.8,NA,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2002,5.77,5.7,3.6,8.12
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2002,1.58,3.95,2.65,4.07
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,2002,2.5,5.7,NA,6.88
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2002,2.32,4.1,3.6,4.78
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2002,4.1,7.95,9.95,5.29
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2002,4.06,NA,1.85,NA
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2002,3.59,4.67,3.87,5.69
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2002,1.18,2.99,1.2,3.41
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,2002,1.07,1.15,'0.1,3.83
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2002,'0.69,3.05,1.75,3.98
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2002,3.67,8.99,5.09,5.67
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2002,4.04,6.12,4.7,6.28
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.93333333,Chittar,"Dug Well",W03617,2002,2.38,4.25,4.35,6.09
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2002,1.37,1.06,'0.85,2.83
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2002,'0.34,2.45,1.9,3.2
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2002,2.12,4.25,3.04,6.23
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2002,1.32,NA,2.8,8.55
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2002,4.87,NA,2.01,7.12
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2002,'0.79,3.65,2.2,5.77
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2002,5.25,7.3,NA,7.52
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2002,7.4,10.65,8.05,13.52
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2002,1.05,4.2,2.37,4.74
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2002,5.13,7.36,6.2,8.62
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2002,3.95,6.1,7.55,9.14
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2002,5.77,6.65,3.7,5.87
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2002,5.69,6.87,4.61,9.99
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2002,4.68,6.24,3,5.14
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2002,4.44,NA,9.34,11.72
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2002,'0.82,2.51,'0.34,3.67
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.73333333,Naranganam1,"Dug Well",W03585,2002,NA,3.67,NA,5.42
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2002,3.17,5.75,4.8,8.79
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2001,5.35,5.86,5.39,6.17
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2001,7.05,NA,6.45,8.67
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,2001,4.33,5.82,4.48,6.45
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2001,3.9,3.92,2.2,4.45
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2001,9.85,9.65,'0.73,10.37
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2001,5.17,5.2,2.2,5.29
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2001,5.12,5.74,4.32,5.07
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2001,1.36,2.93,'0.96,2.76
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2001,1.66,3.84,1.61,5.35
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2001,2.42,3.07,2.15,3.42
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2001,5.74,6.02,4.94,5.83
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2001,5.75,6.18,5.5,6.6
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2001,'0.83,NA,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.93333333,Chittar,"Dug Well",W03617,2001,4.35,4.64,4.4,4.12
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2001,'0.98,1.22,1.15,NA
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2001,2.37,2.53,1.89,2.87
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2001,3.9,4.24,5.53,4.95
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2001,5.45,7.5,4.78,8.67
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2001,6.03,NA,NA,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2001,4.01,5.1,2.53,5.27
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2001,2.96,3.62,2.68,4.15
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,2001,NA,1.32,1.1,NA
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2001,3.9,5.38,NA,5.85
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2001,2.9,4,NA,4.39
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2001,3.64,3.76,1.47,NA
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2001,6.57,7.43,5.58,7.15
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2001,9.26,1.19,12.03,13.01
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2001,3.6,4.22,2.85,NA
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2001,1.98,3.14,NA,3.51
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2001,8.2,8.53,7.7,8.75
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2001,5.57,6.29,3.53,7.25
+KL,Pathanamthitta,Konni,Konni,9.23194444,76.85694444,Konni1,"Bore Well",W03593,2001,4.6,5.27,NA,6.54
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2001,6.81,6.98,6.6,6.11
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2001,5.5,6.9,2.21,6.38
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2001,9.94,11.22,8.9,12.27
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2001,1.48,NA,NA,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2001,1.67,3.22,1.12,4.17
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2001,'0.76,1.3,NA,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2001,5.29,5.82,5.7,6.25
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2001,10.96,NA,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2001,3.6,3.65,2.51,4.36
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,2000,4.93,5.9,5.7,6.32
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,2000,4.43,8.15,7.43,8.27
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,2000,1.1,5.25,5.5,4.77
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,2000,'0.7,4.4,4.26,4.27
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,2000,11.15,11.37,10.1,10.62
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,2000,2.03,6.5,5.15,6.47
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,2000,2.82,6.07,5.42,5.04
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,2000,'0.46,3.76,1.9,1.54
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,2000,'0.87,5.8,2.93,5.82
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,2000,-0.75,3.1,2.78,3.12
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,2000,4.31,6,5.61,5.96
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,2000,-1,6.4,6.11,6.67
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,2000,NA,2.78,1.98,'0.9
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.93333333,Chittar,"Dug Well",W03617,2000,4.11,4.9,4.43,4.43
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,2000,'0.38,3.57,1.08,2.92
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,2000,1.79,3.45,3.23,2.58
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,2000,1.3,4.35,4.28,4.52
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,2000,1.58,7.95,6.77,8.57
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,2000,NA,6.9,6.08,6.93
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,2000,2.09,5.55,4.73,5.07
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,2000,1.27,3.6,3.3,4.82
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,2000,-0.85,1.15,'0.93,'0.67
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,2000,2.56,4.05,3.21,4.12
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,2000,NA,4.25,3.8,3.8
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,2000,NA,7.4,6.75,7.02
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,2000,6.79,11.65,9.92,11.62
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,2000,'0.65,4.15,NA,4.02
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,2000,NA,4,2.65,3.3
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,2000,7.6,8.25,8.38,8.37
+KL,Pathanamthitta,Konni,Konni,9.16111111,76.87083333,Athiringal,"Bore Well",W03591,2000,5.7,7.2,5.08,7.7
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,2000,4.45,6.45,6.3,8.82
+KL,Pathanamthitta,Konni,Konni,9.23194444,76.85694444,Konni1,"Bore Well",W03593,2000,NA,6.15,NA,5.98
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,2000,6.27,7.07,6.8,6.24
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,2000,4.6,6.3,5.95,6.29
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,2000,NA,5.4,5,5.44
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,2000,7.78,11.15,9.93,12.07
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,2000,1.49,2,1.69,1.47
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,2000,'0.38,3.35,2.93,2.72
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.73333333,Naranganam1,"Dug Well",W03585,2000,1.4,6.15,3.48,6.29
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,2000,NA,'0.1,'0.91,1.4
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,2000,3.76,5.95,5.65,6.27
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,2000,NA,11.7,11.23,27.3
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,2000,'0.95,4.15,3.73,3.76
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,1999,1.95,3.85,5.15,6
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,1999,3.99,4.22,4.12,6.3
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,1999,3.52,3.95,3.63,4.99
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,1999,4.78,7.68,4.71,5.81
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,1999,6.24,7.48,5.7,8.92
+KL,Pathanamthitta,Parakkode,Pandalam,9.15277778,76.77222222,Ezhamkulam,"Bore Well",W03608,1999,NA,NA,5.7,NA
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,1999,4.57,4.75,4.98,4.91
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,1999,2.49,3.3,2.4,4.56
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,1999,'0.55,1.15,'0.48,1.87
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,1999,2.24,3.01,1.96,3.37
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,1999,5.49,5.74,5.54,7.02
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,1999,5.48,6.2,5.33,6.64
+KL,Pathanamthitta,Ranni,Ranni,9.43055556,76.8125,Chetheckal,"Bore Well",W03616,1999,NA,NA,1.15,NA
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.93333333,Chittar,"Dug Well",W03617,1999,4.39,4.45,4.44,6.04
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,1999,1.3,2.3,1.2,3.58
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,1999,2.32,2.43,2.37,3.69
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,1999,3.85,4.45,4.25,5.37
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,1999,9.74,10.01,4.5,11.55
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,1999,4.87,5.59,5.05,7.13
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,1999,5.25,5.47,5.42,7
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,1999,1.68,2.28,2.06,3.81
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,1999,9.27,10.54,8.61,12.3
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.29861111,76.73472222,Elanthoor,"Bore Well",W03583,1999,NA,NA,1.85,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,1999,1.33,2.95,1.32,3.68
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.73333333,Naranganam1,"Dug Well",W03585,1999,5.88,'0.9,5.85,3.81
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.23388889,76.75722222,Omallur,"Bore Well",W03586,1999,NA,NA,'0.81,NA
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,1999,5.25,5.82,5.47,6.21
+KL,Pathanamthitta,Koipuram,Koipuram,9.40972222,76.67222222,Thayattumala,"Bore Well",W03588,1999,NA,NA,10.09,NA
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,1999,7.06,6.62,6.95,10.1
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,1999,8.27,8.32,8.1,8.66
+KL,Pathanamthitta,Konni,Konni,9.16111111,76.87083333,Athiringal,"Bore Well",W03591,1999,NA,NA,4.4,NA
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,1999,5.64,5.78,5.7,6.26
+KL,Pathanamthitta,Konni,Konni,9.23194444,76.85694444,Konni1,"Bore Well",W03593,1999,NA,NA,10.67,NA
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,1999,6.7,7.13,6.82,6.6
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,1999,5.61,6.2,5.78,5.87
+KL,Pathanamthitta,Konni,Konni,9.18333333,76.80277778,Ottathekku,"Bore Well",W03596,1999,NA,NA,5,NA
+KL,Pathanamthitta,Konni,Konni,9.21944444,76.77444444,Vallicode,"Bore Well",W03597,1999,NA,NA,4.47,NA
+KL,Pathanamthitta,Kulanada,Pandalam,9.2375,76.70722222,Kunnamthanam-1,"Bore Well",W03598,1999,NA,NA,3.99,NA
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,1999,6.61,8.1,6.6,6.83
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,1999,8.58,10.3,8.46,12.32
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,1999,3.65,3.97,3.73,7.2
+KL,Pathanamthitta,Mallappally,Malapally,9.43333333,76.61111111,Kunnamthanam-2,"Bore Well",W03602,1999,NA,NA,2.22,NA
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,1999,5.23,5.87,5.6,7.28
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,1998,1.92,3.4,1.15,5.11
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,1998,5.28,6.85,5.47,6.19
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,1998,1.6,4.02,2.43,4.59
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,1998,2.88,5.44,3.92,5.59
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,1998,3.22,9.05,5.9,9.69
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,1998,2.15,6.7,3.95,6.15
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,1998,1.95,3.69,2.65,4.29
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,1998,'0.7,1.34,'0.25,1.53
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,1998,1.65,3.25,1.95,3.4
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,1998,4.74,5.86,5.24,6.07
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,1998,4.8,6.36,5.75,6.61
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.93333333,Chittar,"Dug Well",W03617,1998,4.64,4.67,4.78,4.64
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,1998,1.35,3.45,1.07,3.5
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,1998,2.5,3.62,2.1,2.87
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,1998,2.6,4.4,3.05,4.84
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,1998,10.17,9.95,8.75,10.09
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,1998,2.87,5.8,2.9,6.79
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,1998,3.92,6.7,4.55,6.17
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,1998,'0.57,2.46,1.08,2.88
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,1998,8.74,10.52,9.32,11.46
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,1998,'0.9,3.23,'0.68,3.87
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.73333333,Naranganam1,"Dug Well",W03585,1998,3.32,4.32,3.45,4.34
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,1998,3.8,5.89,4.6,6.28
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,1998,4.57,7.59,6.55,8.69
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,1998,5.8,9.8,7.92,9.02
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,1998,3.22,5.99,5.15,6.71
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,1998,4.8,8.17,6.86,7.05
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,1998,2.98,7.3,6.08,6.07
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,1998,3.6,7.47,6,6.95
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,1998,8.02,10.75,8.74,14.28
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,1998,1.32,3.84,2.65,5.96
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,1998,3.1,4.19,4.12,4.88
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,Tatta,"Dug Well",W03605,1998,NA,1.09,NA,NA
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,1997,5.5,5.74,5.55,6.16
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,Tatta,"Dug Well",W03605,1997,'0.24,1.16,'0.95,1.26
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,1997,2.45,4.91,3.85,5.07
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,1997,5.76,4.77,5.85,9.7
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,1997,3.18,4.94,2.58,5.23
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,1997,2.4,1.88,2.49,4.35
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,1997,'0.46,1.22,'0.7,1.42
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,1997,2.42,3.79,2,3.5
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,1997,5.24,5.72,5.04,5.9
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,1997,4.05,6.06,5.79,6.4
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.93333333,Chittar,"Dug Well",W03617,1997,4.16,4.57,4.55,4.55
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,1997,1.06,1.81,1.2,3.55
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,1997,2.07,4.24,2.5,2.6
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,1997,1.25,4.14,2.9,4.31
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,1997,10.7,9.99,10.95,10.2
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,1997,2.37,5.22,3.04,6.68
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,1997,4.42,6.01,4.97,6.1
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,1997,1.21,2.35,'0.66,2.62
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,1997,1.75,3.24,1.95,4.56
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,1997,8.95,10.24,8.9,11.75
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,1997,'0.58,2.84,1.08,3.47
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.73333333,Naranganam1,"Dug Well",W03585,1997,2.25,5.99,2.37,2.07
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,1997,5.4,5.64,3.59,6.08
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,1997,6.95,7.39,6.85,8.8
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,1997,8.57,8.2,8.2,8.21
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,1997,4.83,6.11,4.35,6.6
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,1997,6.74,7.28,5.27,5.92
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,1997,3.87,5.94,2.78,6.95
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,1997,6.3,6.44,4.2,6.8
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,1997,8.8,10.81,8.85,13.75
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,1997,3.4,3.84,3.25,5.9
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,1997,3.85,4.04,4,4.76
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,1997,2,3.89,2.25,3.65
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.85555556,"Ranni perunad","Dug Well",W03626,1996,5.33,6.68,5.75,7.66
+KL,Pathanamthitta,Pandalam,Pandalam,9.2,76.73333333,Tatta,"Dug Well",W03605,1996,'0.93,1.48,'0.49,1.35
+KL,Pathanamthitta,"Thiruvalla Municipality",Pulikeezh,9.37027778,76.57083333,Thirumoolapuram,"Dug Well",W03629,1996,4.54,5.86,5.24,6.23
+KL,Pathanamthitta,Parakkode,Pandalam,9.08833333,76.75722222,Enathu,"Dug Well",W03607,1996,4.78,8.69,7,9.77
+KL,Pathanamthitta,"Pathanamthitta Municipality",Konni,9.26388889,76.78888889,Pathanamthitta,"Dug Well",W03609,1996,4.57,5.54,5.71,6.57
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.40833333,76.55194444,Muthoor,"Dug Well",W03610,1996,3.04,3.91,3.09,4.45
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.4,76.53333333,Peringara,"Dug Well",W03611,1996,'0.74,1.34,'0.84,1.8
+KL,Pathanamthitta,Pulikeezhu,Pulikeezh,9.35138889,76.54583333,Pulikeezh,"Dug Well",W03613,1996,2.43,3.17,2.79,3.63
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,77,Ankamuzhi,"Dug Well",W03614,1996,5.06,5.9,5.72,5.77
+KL,Pathanamthitta,Ranni,Ranni,9.33333333,76.84444444,Aranmula,"Dug Well",W03615,1996,5.49,6.29,7.36,6.74
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.93333333,Chittar,"Dug Well",W03617,1996,4.34,4.74,4.53,4.36
+KL,Pathanamthitta,Ranni,Ranni,9.4,76.81666667,Karikulam,"Dug Well",W03618,1996,1.26,2.81,1.77,2.31
+KL,Pathanamthitta,Ranni,Ranni,9.31944444,76.8125,Kumplampoika,"Dug Well",W03619,1996,2.06,2.61,2.4,2.56
+KL,Pathanamthitta,Ranni,Ranni,9.36666667,76.91805556,"Laha balawadi","Dug Well",W03620,1996,3.2,4.31,2.09,4.06
+KL,Pathanamthitta,Ranni,Ranni,9.36388889,76.88888889,"Laha peruman","Dug Well",W03621,1996,9.85,10.03,9.29,10.68
+KL,Pathanamthitta,Ranni,Ranni,9.325,76.87916667,Maniyar,"Dug Well",W03622,1996,4.05,6.72,5.16,4.57
+KL,Pathanamthitta,Ranni,Ranni,9.38833333,77.01333333,Nilakkal,"Dug Well",W03623,1996,3.07,5.73,5.51,5.83
+KL,Pathanamthitta,Ranni,Ranni,9.39166667,76.96666667,Plappally,"Dug Well",W03624,1996,1.1,2.72,2.1,2.09
+KL,Pathanamthitta,Ranni,Ranni,9.37027778,76.78333333,"Ranni i","Dug Well",W03625,1996,1.8,4.76,2.89,3.6
+KL,Pathanamthitta,"Adoor Municipality",Pandalam,9.15416667,76.73472222,Adoor1,"Dug Well",W03582,1996,9.19,10.86,9.59,12.06
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.78333333,Ilanthur,"Dug Well",W03584,1996,1.04,3.49,2.39,3.63
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.33333333,76.73333333,Naranganam1,"Dug Well",W03585,1996,3.16,5.36,5.94,5.86
+KL,Pathanamthitta,Elanthoor,Elanthoor,9.26111111,76.75833333,Prakkanam,"Dug Well",W03587,1996,5.2,5.96,5.34,6.01
+KL,Pathanamthitta,Koipuram,Koipuram,9.39444444,76.69027778,Thelliyur,"Dug Well",W03589,1996,6.97,8.68,7.24,8.77
+KL,Pathanamthitta,Konni,Konni,9.21666667,76.8,Angadikkal,"Dug Well",W03590,1996,8.13,9.26,8.24,9.29
+KL,Pathanamthitta,Konni,Konni,9.23333333,76.85,Konni,"Dug Well",W03592,1996,5.86,6.07,5.64,6.54
+KL,Pathanamthitta,Konni,Konni,9.15333333,76.85611111,Koodal,"Dug Well",W03594,1996,6.83,6.13,3.13,6.94
+KL,Pathanamthitta,Konni,Konni,9.2,76.91666667,Naduvathumuzhi,"Dug Well",W03595,1996,5.48,6.06,5.94,6.25
+KL,Pathanamthitta,Kulanada,Pandalam,9.275,76.6875,Ullannur,"Dug Well",W03599,1996,6.46,7.64,7.6,6.96
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.6,Kaviyur,"Dug Well",W03600,1996,9.58,12.11,9.79,15
+KL,Pathanamthitta,Mallappally,Malapally,9.4,76.73333333,Kottanadu,"Dug Well",W03601,1996,3.61,5.66,3.79,4.07
+KL,Pathanamthitta,Mallappally,Malapally,9.45277778,76.64722222,Mallapally,"Dug Well",W03603,1996,4.08,4.26,3.84,4.75
+KL,Pathanamthitta,Ranni,Ranni,9.34166667,76.83611111,Vadasserikara,"Dug Well",W03628,1996,3.09,4.25,3.91,3.31

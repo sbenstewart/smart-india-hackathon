@@ -1,0 +1,798 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2018,2.93,4.55,NA,NA
+MP,Dhar,Badnawar,Badnawar,22.76666667,75.21944444,"Karod Kalan Npz","Bore Well",W27984,2018,18.6,NA,NA,NA
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2018,4.52,7.03,NA,NA
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2018,3.6,6.25,NA,NA
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2018,7.71,9.35,NA,NA
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2018,3.9,4.8,NA,NA
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2018,4.07,5.64,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2018,3,7.9,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2018,16.93,15.95,NA,NA
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2018,'0.8,1.75,NA,NA
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2018,2.69,5.1,NA,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2018,9.14,13.57,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2018,4.85,6.95,NA,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2018,12.03,10.13,NA,NA
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2018,4.6,6.3,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2018,1.33,2.6,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2018,16.67,16.27,NA,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2018,10.35,21.75,NA,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2018,3.81,11.15,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2018,12.79,18.11,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2018,3.66,6.9,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2018,9.1,9.5,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2018,4.55,6.33,NA,NA
+MP,Dhar,Nisarpur,Nisarpur,22.13388889,74.87527778,Pipalya,"Dug Well",W27533,2018,5.14,10.2,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.15416667,75.33333333,"Dharampuri Npz","Bore Well",W27550,2018,6.8,6.4,NA,NA
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2018,'0.66,NA,NA,6.7
+MP,Dhar,Kukshi,Kukshi,22.2275,74.66111111,Palasi,"Dug Well",W27603,2018,1.9,2.53,NA,NA
+MP,Dhar,Kukshi,Kukshi,22.28805556,74.91638889,Dehari,"Dug Well",W27690,2018,5.4,10.25,NA,NA
+MP,Dhar,Nalchha,Dharampuri,22.2175,75.48333333,"Dhamnod Npz","Bore Well",W27591,2018,3.2,4.82,NA,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar1,"Dug Well",W27617,2018,11.1,12.18,NA,NA
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(D),"Bore Well",W27741,2018,5,5.2,NA,NA
+MP,Dhar,Bagh,Bagh,22.3625,74.79611111,"Bagh New","Dug Well",W27744,2018,4.31,4.9,NA,NA
+MP,Dhar,Nalchha,Nalchha,22.48888889,75.46666667,"Bagri Npz","Bore Well",W27831,2018,13.2,15.1,NA,NA
+MP,Dhar,Nalchha,Nalchha,22.6125,75.69722222,"Pithampur Nagarpalika Npz","Bore Well",W27900,2018,2.1,3.5,NA,NA
+MP,Dhar,Nalchha,Nalchha,22.61666667,75.68055556,"Pithampur Ramky Npz","Bore Well",W27901,2018,1,7.4,NA,NA
+MP,Dhar,Nalchha,Tirla,22.45555556,75.39444444,"Nalchha Npz","Bore Well",W27810,2018,10.8,16.65,NA,NA
+MP,Dhar,Dhar,Tirla,22.62416667,75.43194444,"Gunawad Npz","Bore Well",W27906,2018,9.31,19.52,NA,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (S)","Bore Well",W27873,2018,12.27,13.57,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.58611111,75.13333333,"Bandheri Npz","Bore Well",W27883,2018,7.3,10.8,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(S),"Bore Well",W27924,2018,13.86,13.76,NA,NA
+MP,Dhar,Badnawar,Badnawar,22.88055556,75.24916667,"Kanwan Npz","Bore Well",W28036,2018,10.4,8.84,NA,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(S),"Bore Well",W28124,2018,12.91,9.61,NA,NA
+MP,Dhar,Badnawar,Badnawar,23.01888889,75.24583333,"Badnawar New","Dug Well",W28129,2018,9.05,8.02,NA,NA
+MP,Dhar,Badnawar,Badnawar,22.87,75.25805556,"Kanwan New","Dug Well",W28033,2018,6.65,11.65,NA,NA
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(S),"Bore Well",W27742,2018,NA,5.75,NA,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2018,11.74,17.24,NA,NA
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2017,1.79,NA,1.85,3.13
+MP,Dhar,Badnawar,Badnawar,22.76666667,75.21944444,"Karod Kalan Npz","Bore Well",W27984,2017,12.05,NA,NA,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2017,13.26,12.14,11.64,12.34
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2017,4.22,7.16,4.6,6.72
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2017,3.6,5.76,2.81,7.3
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2017,8.09,8.87,8.54,10.95
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2017,4,4.03,5.4,5.92
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2017,4.5,6.85,4.6,8.94
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2017,2.92,8.77,7.62,11.22
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2017,16.15,15.78,16.15,17.4
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2017,2.12,3.77,3.46,5.07
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2017,1.87,8.12,5.35,8.35
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2017,9.68,9.46,8.83,11.56
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2017,3.72,7.03,6.7,7.9
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2017,1.14,3.27,2.18,4.1
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2017,15.49,16.53,15.55,34.67
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2017,'0.34,4.07,6.8,6.4
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2017,13.45,11.35,8.4,15.65
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2017,14.29,17.29,14.13,25.23
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2017,4.36,7.02,5.7,8
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2017,9.7,6.15,8.49,11.5
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2017,3.67,8.52,6.63,9.13
+MP,Dhar,Nisarpur,Nisarpur,22.13388889,74.87527778,Pipalya,"Dug Well",W27533,2017,6.76,6.13,9.35,13.9
+MP,Dhar,Dharampuri,Dharampuri,22.15416667,75.33333333,"Dharampuri Npz","Bore Well",W27550,2017,6.3,5.71,19.24,12.78
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2017,9.3,NA,8.07,16.37
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2017,9.85,13.59,NA,13.67
+MP,Dhar,Nalchha,Nalchha,22.61666667,75.68055556,"Pithampur Ramky Npz","Bore Well",W27901,2017,7.1,NA,2.72,7.1
+MP,Dhar,Kukshi,Kukshi,22.2275,74.66111111,Palasi,"Dug Well",W27603,2017,2.09,1.6,2.1,4.18
+MP,Dhar,Kukshi,Kukshi,22.28805556,74.91638889,Dehari,"Dug Well",W27690,2017,6.9,8.95,7.16,12.64
+MP,Dhar,Nalchha,Dharampuri,22.2175,75.48333333,"Dhamnod Npz","Bore Well",W27591,2017,3.5,4.28,4.37,6.56
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar1,"Dug Well",W27617,2017,10.09,12.94,12.25,13.94
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(D),"Bore Well",W27741,2017,4.52,5.27,4.9,6.22
+MP,Dhar,Bagh,Bagh,22.3625,74.79611111,"Bagh New","Dug Well",W27744,2017,4.02,4.66,4.65,5.68
+MP,Dhar,Nalchha,Nalchha,22.48888889,75.46666667,"Bagri Npz","Bore Well",W27831,2017,13.38,9.56,13.23,14.97
+MP,Dhar,Nalchha,Nalchha,22.6125,75.69722222,"Pithampur Nagarpalika Npz","Bore Well",W27900,2017,1.6,4.57,2.86,7.52
+MP,Dhar,Nalchha,Tirla,22.45555556,75.39444444,"Nalchha Npz","Bore Well",W27810,2017,11.3,15.44,13.5,15.41
+MP,Dhar,Dhar,Tirla,22.62416667,75.43194444,"Gunawad Npz","Bore Well",W27906,2017,28.3,6.78,14.55,29.5
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (S)","Bore Well",W27873,2017,8.25,9.77,7.8,23.47
+MP,Dhar,Sardarpur,Sardarpur,22.58611111,75.13333333,"Bandheri Npz","Bore Well",W27883,2017,5.9,10.82,7.98,11.6
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(S),"Bore Well",W27924,2017,13.81,14.06,13.53,13.86
+MP,Dhar,Badnawar,Badnawar,22.88055556,75.24916667,"Kanwan Npz","Bore Well",W28036,2017,2.5,7.67,6.5,11.9
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(S),"Bore Well",W28124,2017,3.91,7.25,6.2,10.21
+MP,Dhar,Badnawar,Badnawar,23.01888889,75.24583333,"Badnawar New","Dug Well",W28129,2017,4.1,4.3,5.67,8
+MP,Dhar,Badnawar,Badnawar,22.87,75.25805556,"Kanwan New","Dug Well",W28033,2017,2.3,8.6,10.05,12.4
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2017,4.11,4.51,3.93,5.67
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2016,8.03,13.19,7.65,NA
+MP,Dhar,Bagh,Bagh,22.3625,74.79611111,"Bagh New","Dug Well",W27744,2016,4.08,4.87,4.5,6.86
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2016,1.4,11.11,7.62,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2016,3.42,18.73,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2016,4.5,6.12,3.63,NA
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2016,15.63,16.13,16.02,NA
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2016,2.6,11.87,7.6,NA
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2016,3.34,6.81,4.28,NA
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2016,4.6,9.78,5.7,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2016,12.77,12.63,11.71,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2016,1.33,3.22,2.52,NA
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2016,2.93,10.98,5.27,NA
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2016,6.58,10.1,5.76,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2016,9.57,14.43,11.89,NA
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2016,3.5,10.39,5.15,NA
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2016,3.2,5.95,3.47,NA
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2016,2.71,5.36,2,NA
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2016,5.33,9.02,7.72,NA
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2016,2.73,6.4,3.78,NA
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2016,3.08,7.56,5.48,NA
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2016,13.79,23.26,14.53,NA
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2016,2.36,7.54,2.24,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2016,11.04,10.92,11.5,NA
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2016,2.6,2.58,2.82,NA
+MP,Dhar,Nalchha,Tirla,22.45555556,75.39444444,"Nalchha Npz","Bore Well",W27810,2016,5.25,15.67,14.5,13.56
+MP,Dhar,Nalchha,Nalchha,22.48888889,75.46666667,"Bagri Npz","Bore Well",W27831,2016,6.78,15.07,11.35,14.52
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (S)","Bore Well",W27873,2016,2.59,5.15,7.64,31.47
+MP,Dhar,Sardarpur,Sardarpur,22.58611111,75.13333333,"Bandheri Npz","Bore Well",W27883,2016,3.02,11.76,6.82,10.77
+MP,Dhar,Nalchha,Nalchha,22.6125,75.69722222,"Pithampur Nagarpalika Npz","Bore Well",W27900,2016,1.95,4.09,3.47,7.68
+MP,Dhar,Nalchha,Nalchha,22.61666667,75.68055556,"Pithampur Ramky Npz","Bore Well",W27901,2016,NA,4.84,1.46,NA
+MP,Dhar,Dhar,Tirla,22.62416667,75.43194444,"Gunawad Npz","Bore Well",W27906,2016,3.85,20.77,8.56,20.88
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(S),"Bore Well",W27924,2016,10.16,14.9,10.82,13.99
+MP,Dhar,Badnawar,Badnawar,22.76666667,75.21944444,"Karod Kalan Npz","Bore Well",W27984,2016,8.26,NA,6.78,10.88
+MP,Dhar,Badnawar,Badnawar,22.87,75.25805556,"Kanwan New","Dug Well",W28033,2016,1.3,11.58,7.73,12.67
+MP,Dhar,Badnawar,Badnawar,22.88055556,75.24916667,"Kanwan Npz","Bore Well",W28036,2016,1.14,10.16,4.97,9.93
+MP,Dhar,Nisarpur,Nisarpur,22.13388889,74.87527778,Pipalya,"Dug Well",W27533,2016,9.45,11.06,5.17,NA
+MP,Dhar,Dharampuri,Dharampuri,22.15416667,75.33333333,"Dharampuri Npz","Bore Well",W27550,2016,5.7,6.59,6.02,11.77
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(S),"Bore Well",W28124,2016,6.66,10.47,4.77,13.41
+MP,Dhar,Badnawar,Badnawar,23.01888889,75.24583333,"Badnawar New","Dug Well",W28129,2016,2.84,5.34,5.85,9.58
+MP,Dhar,Nalchha,Dharampuri,22.2175,75.48333333,"Dhamnod Npz","Bore Well",W27591,2016,3.74,4.87,3.63,3.48
+MP,Dhar,Kukshi,Kukshi,22.2275,74.66111111,Palasi,"Dug Well",W27603,2016,1.62,2.85,2.2,3.56
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar1,"Dug Well",W27617,2016,10.93,13.37,11.85,13.69
+MP,Dhar,Kukshi,Kukshi,22.28805556,74.91638889,Dehari,"Dug Well",W27690,2016,5.67,11.97,8.82,9.22
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(D),"Bore Well",W27741,2016,5.3,16.14,5.47,21.97
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(S),"Bore Well",W27742,2016,NA,5.23,NA,NA
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2016,1.3,7.23,6.62,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2015,8.63,9.19,9.29,11.78
+MP,Dhar,Bagh,Bagh,22.3625,74.79611111,"Bagh New","Dug Well",W27744,2015,4.62,4.39,4.84,4.91
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2015,6.19,11.57,11.17,11.96
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2015,NA,12.54,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2015,2.84,4.82,3.63,5.59
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2015,15.83,15.26,15.18,16.81
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2015,5.04,17.75,8.11,29.95
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2015,4.06,12.84,5.09,11.59
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2015,4.97,7.93,5.6,10.23
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2015,11.77,13.86,12.24,34.76
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2015,1.94,2.98,2.75,3.56
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2015,4.92,10.75,9.91,11.54
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2015,5.42,15.28,5.86,16.16
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2015,10.98,5.08,13.72,12.79
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2015,4.72,6.69,4.54,7.57
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2015,4.54,4.93,3.96,6.74
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2015,2.54,4.13,3.24,5.27
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2015,7.55,8.98,8.85,10.48
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2015,2.97,6.68,6.58,8.24
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2015,4.83,5.54,5,6.43
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2015,14.09,16.65,18.44,16.58
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2015,1.12,7.32,5.97,7.72
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2015,10.34,11.92,11.75,15.47
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2015,1.22,1.79,1.57,1.22
+MP,Dhar,Nalchha,Tirla,22.45555556,75.39444444,"Nalchha Npz","Bore Well",W27810,2015,12.35,16.64,15.1,13.98
+MP,Dhar,Nalchha,Nalchha,22.48888889,75.46666667,"Bagri Npz","Bore Well",W27831,2015,7.5,15.18,13.9,14.38
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (S)","Bore Well",W27873,2015,5.57,NA,9.53,24.78
+MP,Dhar,Sardarpur,Sardarpur,22.58611111,75.13333333,"Bandheri Npz","Bore Well",W27883,2015,NA,10.97,NA,NA
+MP,Dhar,Nalchha,Nalchha,22.6125,75.69722222,"Pithampur Nagarpalika Npz","Bore Well",W27900,2015,1.6,5.57,3.92,6.79
+MP,Dhar,Nalchha,Nalchha,22.61666667,75.68055556,"Pithampur Ramky Npz","Bore Well",W27901,2015,1.22,5.57,5.74,7.76
+MP,Dhar,Dhar,Tirla,22.62416667,75.43194444,"Gunawad Npz","Bore Well",W27906,2015,3.52,21.98,15.15,28.71
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(S),"Bore Well",W27924,2015,9.36,15.37,14.56,23.7
+MP,Dhar,Badnawar,Badnawar,22.76666667,75.21944444,"Karod Kalan Npz","Bore Well",W27984,2015,5.82,NA,11,11.83
+MP,Dhar,Badnawar,Badnawar,22.87,75.25805556,"Kanwan New","Dug Well",W28033,2015,4.78,9.36,12.39,11.15
+MP,Dhar,Badnawar,Badnawar,22.88055556,75.24916667,"Kanwan Npz","Bore Well",W28036,2015,3.85,NA,7.94,11.48
+MP,Dhar,Nisarpur,Nisarpur,22.13388889,74.87527778,Pipalya,"Dug Well",W27533,2015,11.09,10.1,10.74,10.56
+MP,Dhar,Dharampuri,Dharampuri,22.15416667,75.33333333,"Dharampuri Npz","Bore Well",W27550,2015,7.2,NA,5.46,12.52
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(S),"Bore Well",W28124,2015,4.52,NA,9.17,15.31
+MP,Dhar,Badnawar,Badnawar,23.01888889,75.24583333,"Badnawar New","Dug Well",W28129,2015,4.82,6.95,4.61,9.11
+MP,Dhar,Nalchha,Dharampuri,22.2175,75.48333333,"Dhamnod Npz","Bore Well",W27591,2015,1.45,NA,3.38,5.84
+MP,Dhar,Kukshi,Kukshi,22.2275,74.66111111,Palasi,"Dug Well",W27603,2015,1.92,NA,1.75,2.26
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar1,"Dug Well",W27617,2015,11.53,11.38,12.36,14.34
+MP,Dhar,Kukshi,Kukshi,22.28805556,74.91638889,Dehari,"Dug Well",W27690,2015,8.38,10.36,10.53,12.84
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(D),"Bore Well",W27741,2015,NA,17.75,5.31,4.95
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(S),"Bore Well",W27742,2015,4.1,2.02,4.85,5.5
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2015,4.48,7.26,7,8.22
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2014,8.87,8.62,6.61,9.43
+MP,Dhar,Bagh,Bagh,22.3625,74.79611111,"Bagh New","Dug Well",W27744,2014,3.79,4.6,4.57,6.9
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2014,8.39,11.55,9.17,14.03
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2014,8.21,7.7,7.17,17.37
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2014,'0.55,3.96,3.76,4.95
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2014,16.38,15.94,15.8,16.05
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2014,2,8.8,7.99,11.1
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2014,4.32,4.9,4.72,10.22
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2014,4.91,7.21,4.91,7.27
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2014,12.81,12.92,12.69,14.01
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2014,1.12,3.52,2.3,8.9
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2014,7.49,8.4,7.81,9.6
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2014,4.15,5.86,6.35,15.83
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2014,NA,3.68,NA,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2014,9.35,11.95,4.03,17.35
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2014,3.27,6.55,5.26,8.15
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2014,3.37,3.2,3.71,3.7
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2014,3.17,3.1,3.07,6.9
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2014,8.03,8.6,8.19,9.55
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2014,3.04,6.39,5.62,8.25
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2014,4.07,5.6,4.82,7.5
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2014,17.09,17.48,11.99,21.99
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2014,'0.39,3.92,6.81,9.47
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2014,11.68,11.81,16.41,12.24
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2014,8.35,6,1.68,6.55
+MP,Dhar,Nalchha,Tirla,22.45555556,75.39444444,"Nalchha Npz","Bore Well",W27810,2014,10.78,15.16,14.4,15.3
+MP,Dhar,Nalchha,Nalchha,22.48888889,75.46666667,"Bagri Npz","Bore Well",W27831,2014,9.15,14.42,14.33,15.6
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (S)","Bore Well",W27873,2014,7.73,7.94,NA,20.47
+MP,Dhar,Sardarpur,Sardarpur,22.58611111,75.13333333,"Bandheri Npz","Bore Well",W27883,2014,3.29,7.01,6.4,13.8
+MP,Dhar,Nalchha,Nalchha,22.6125,75.69722222,"Pithampur Nagarpalika Npz","Bore Well",W27900,2014,2.03,3.75,3,6.05
+MP,Dhar,Nalchha,Nalchha,22.61666667,75.68055556,"Pithampur Ramky Npz","Bore Well",W27901,2014,'0.38,5.02,3.04,NA
+MP,Dhar,Dhar,Tirla,22.62416667,75.43194444,"Gunawad Npz","Bore Well",W27906,2014,7.37,14.53,8.7,14.2
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(S),"Bore Well",W27924,2014,9.82,11.59,16.3,17.36
+MP,Dhar,Badnawar,Badnawar,22.76666667,75.21944444,"Karod Kalan Npz","Bore Well",W27984,2014,5.81,11.81,4,18.75
+MP,Dhar,Badnawar,Badnawar,22.87,75.25805556,"Kanwan New","Dug Well",W28033,2014,3.64,NA,8.14,NA
+MP,Dhar,Badnawar,Badnawar,22.88055556,75.24916667,"Kanwan Npz","Bore Well",W28036,2014,4.78,6.34,6.83,9.43
+MP,Dhar,Nisarpur,Nisarpur,22.13388889,74.87527778,Pipalya,"Dug Well",W27533,2014,6.2,11,10.1,7.6
+MP,Dhar,Dharampuri,Dharampuri,22.15416667,75.33333333,"Dharampuri Npz","Bore Well",W27550,2014,3.23,16.21,5.6,6.3
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(S),"Bore Well",W28124,2014,6.64,6.19,NA,9.36
+MP,Dhar,Badnawar,Badnawar,23.01888889,75.24583333,"Badnawar New","Dug Well",W28129,2014,4.41,3.65,4.47,6.8
+MP,Dhar,Nalchha,Dharampuri,22.2175,75.48333333,"Dhamnod Npz","Bore Well",W27591,2014,'0.7,2.58,2.85,4.1
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar1,"Dug Well",W27617,2014,11.65,13.71,11.2,13.51
+MP,Dhar,Kukshi,Kukshi,22.28805556,74.91638889,Dehari,"Dug Well",W27690,2014,4.91,5.63,10.56,11.1
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(D),"Bore Well",W27741,2014,4.4,5.05,4.7,7.3
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(S),"Bore Well",W27742,2014,NA,5.25,5.35,6.85
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2014,5.16,7.39,6.73,10.97
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2013,9.48,NA,8.25,11.01
+MP,Dhar,Bagh,Bagh,22.3625,74.79611111,"Bagh New","Dug Well",W27744,2013,4.2,5.7,5.36,9
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2013,NA,4.55,NA,10.15
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2013,NA,12.15,6.74,14.03
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2013,NA,12.39,4.26,23.07
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2013,'0.15,4.95,3.07,6.73
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2013,21.35,16.95,10.98,18.05
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2013,3.6,8.945,7.63,9.665
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2013,4.95,NA,4.14,NA
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2013,2.1,7.2,4.3,9.6
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2013,NA,8.87,12.95,36.57
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2013,1,4.5,2.2,5.43
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2013,1,10.6,3.12,11.03
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2013,3.23,13.23,5.35,15.83
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2013,NA,5.65,NA,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2013,7.85,12.95,12.21,14.22
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2013,1.65,7,5.22,8.4
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2013,3.7,4.3,2.5,6.59
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2013,1.4,5.7,1.7,6.7
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2013,7.15,9.05,8.95,10.85
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2013,1.75,5.75,4.16,8.55
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2013,2.9,5.9,5.24,7.95
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2013,NA,17.88,17.57,24.29
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2013,NA,3.3,9.48,9.48
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2013,NA,12.24,11.34,12.47
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2013,'0.05,3.05,5,4.97
+MP,Dhar,Nalchha,Tirla,22.45555556,75.39444444,"Nalchha Npz","Bore Well",W27810,2013,9.1,15.1,12.84,15.42
+MP,Dhar,Nalchha,Nalchha,22.48888889,75.46666667,"Bagri Npz","Bore Well",W27831,2013,5.6,15.1,8.54,14.95
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (S)","Bore Well",W27873,2013,2.67,11.57,3.95,NA
+MP,Dhar,Sardarpur,Sardarpur,22.58611111,75.13333333,"Bandheri Npz","Bore Well",W27883,2013,NA,9.44,5.8,11.37
+MP,Dhar,Nalchha,Nalchha,22.6125,75.69722222,"Pithampur Nagarpalika Npz","Bore Well",W27900,2013,2.4,NA,2.6,9.85
+MP,Dhar,Nalchha,Nalchha,22.61666667,75.68055556,"Pithampur Ramky Npz","Bore Well",W27901,2013,NA,NA,2.28,6.22
+MP,Dhar,Dhar,Tirla,22.62416667,75.43194444,"Gunawad Npz","Bore Well",W27906,2013,2.8,18.4,5.13,16.3
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(S),"Bore Well",W27924,2013,NA,NA,9.28,NA
+MP,Dhar,Badnawar,Badnawar,22.76666667,75.21944444,"Karod Kalan Npz","Bore Well",W27984,2013,NA,20.9,3.78,NA
+MP,Dhar,Badnawar,Badnawar,22.88055556,75.24916667,"Kanwan Npz","Bore Well",W28036,2013,1.5,8.05,3.98,10.69
+MP,Dhar,Dharampuri,Dharampuri,22.15416667,75.33333333,"Dharampuri Npz","Bore Well",W27550,2013,6.2,8.5,11.15,17.85
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(S),"Bore Well",W28124,2013,3.51,NA,4.06,NA
+MP,Dhar,Badnawar,Badnawar,23.01888889,75.24583333,"Badnawar New","Dug Well",W28129,2013,NA,4.4,3.01,NA
+MP,Dhar,Nalchha,Dharampuri,22.2175,75.48333333,"Dhamnod Npz","Bore Well",W27591,2013,'0.5,4.75,2.1,11.5
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar1,"Dug Well",W27617,2013,16.25,12.85,11.33,13.25
+MP,Dhar,Kukshi,Kukshi,22.28805556,74.91638889,Dehari,"Dug Well",W27690,2013,NA,8.5,4.62,NA
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(D),"Bore Well",W27741,2013,2.9,5.2,4.07,8.6
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(S),"Bore Well",W27742,2013,3.35,5.45,5.05,9.75
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2013,'0.5,7.2,6.71,8.2
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2012,NA,12.43,9.6,NA
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(S),"Bore Well",W27742,2012,NA,NA,5.25,NA
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2012,NA,4.28,4.25,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2012,NA,12.85,NA,14.03
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2012,NA,26.37,8,24.72
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2012,NA,5.05,3,6.6
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2012,NA,18.05,12.8,21.35
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2012,NA,NA,50,NA
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2012,NA,8.58,7.83,9.82
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2012,NA,5.4,NA,7
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2012,NA,4.72,8.9,9.75
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2012,NA,9.12,8,33.02
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2012,NA,3.8,3,5.04
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2012,NA,9.53,6.5,6.52
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2012,NA,15.73,6.6,15.83
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2012,NA,5.9,4.7,NA
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2012,NA,6.37,3,7.87
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2012,NA,12.75,10.6,14.5
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2012,NA,9.17,5.85,8.45
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2012,NA,5.85,7.8,NA
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2012,NA,4.85,4.5,7.32
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2012,NA,8.85,8.2,11.25
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2012,NA,7.67,4.7,8
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2012,NA,5.9,5.2,7.82
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2012,NA,NA,11.2,25.31
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2012,NA,3.55,6,9.48
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2012,NA,NA,12.6,12.64
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2012,NA,1.95,3,4.65
+MP,Dhar,Nalchha,Tirla,22.45555556,75.39444444,"Nalchha Npz","Bore Well",W27810,2012,NA,NA,16.8,NA
+MP,Dhar,Nalchha,Nalchha,22.48888889,75.46666667,"Bagri Npz","Bore Well",W27831,2012,NA,NA,9.8,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (S)","Bore Well",W27873,2012,NA,NA,8,NA
+MP,Dhar,Sardarpur,Sardarpur,22.58611111,75.13333333,"Bandheri Npz","Bore Well",W27883,2012,NA,NA,10.6,NA
+MP,Dhar,Dhar,Tirla,22.62416667,75.43194444,"Gunawad Npz","Bore Well",W27906,2012,NA,NA,12.25,NA
+MP,Dhar,Badnawar,Badnawar,22.76666667,75.21944444,"Karod Kalan Npz","Bore Well",W27984,2012,NA,NA,10.1,NA
+MP,Dhar,Badnawar,Badnawar,22.88055556,75.24916667,"Kanwan Npz","Bore Well",W28036,2012,NA,NA,4.55,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(S),"Bore Well",W28124,2012,NA,NA,5.5,NA
+MP,Dhar,Nalchha,Dharampuri,22.2175,75.48333333,"Dhamnod Npz","Bore Well",W27591,2012,NA,NA,3.3,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar1,"Dug Well",W27617,2012,NA,NA,12.75,NA
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh(D),"Bore Well",W27741,2012,NA,NA,4.6,NA
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2012,NA,7.28,NA,7.9
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2011,9.63,13.47,10.93,14.43
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2011,5.75,2.6,2.14,8.55
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2011,2.65,2.95,2.85,6.77
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2011,5.75,11.45,9.18,14.68
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2011,NA,8.96,NA,29.57
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2011,3.55,6.65,4.6,4.65
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2011,17.85,17.65,18.55,NA
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2011,NA,NA,NA,42
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2011,6.7,9.15,6.26,9.2
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2011,3.1,5.4,3.92,NA
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2011,4.73,9.6,3.85,7.2
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2011,10.67,8.09,7.85,30.77
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2011,4.8,7.4,3.16,9.8
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2011,9.3,9.65,7.8,7
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2011,4.43,9.53,12.66,13.23
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2011,4.85,13.65,5.65,8.07
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2011,9.84,NA,NA,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2011,10.15,12.75,12.13,15.65
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2011,3.05,7.15,7.8,13.45
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2011,7.7,3.65,4.3,5.9
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2011,3.3,6.1,3.2,4.8
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2011,7.95,8.8,7.67,10.35
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2011,11.62,NA,NA,31.02
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2011,'0.85,6.85,5.94,NA
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2011,8.8,5.8,5.4,6.6
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2011,3.69,16.06,13.22,26.89
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2011,'0.2,2.5,3.55,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2011,8.44,NA,21.06,17.04
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2011,1.15,7.9,6,8.5
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2010,NA,14.98,NA,NA
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2010,NA,2,1.87,NA
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2010,2.8,3.3,2.8,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2010,4.45,12.3,9.32,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2010,NA,14.34,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2010,6.4,7.08,6.19,8.25
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2010,16.14,17,16.74,16.62
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2010,NA,43.8,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2010,4.65,8.6,7.14,9.95
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2010,5.8,5.36,4.83,NA
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2010,6.07,6.92,6.95,7.32
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2010,NA,8.37,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2010,1.3,6.98,7.85,7.55
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2010,9.05,10.65,6.95,10.61
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2010,13.32,8.13,NA,14.32
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2010,NA,2.05,NA,NA
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2010,3.4,6.4,3.83,NA
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2010,NA,13.04,NA,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2010,10.85,13.43,11.95,14.35
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2010,3.55,7.05,6.25,9.57
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2010,4.55,3.3,3.57,5
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2010,4.45,5.35,5.17,6.75
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2010,8.1,8.91,8.15,10.83
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2010,NA,9.27,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2010,6.76,6.55,NA,8.17
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2010,4.59,5.95,5.65,7.3
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2010,NA,19.29,NA,NA
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2010,'0.3,1.83,1.42,NA
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2010,6.35,7.94,7.37,8.2
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,2009,5,NA,NA,NA
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2009,1.95,3.77,1.65,3.94
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2009,7,7.96,7.25,7.86
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2009,NA,5.05,3.05,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2009,6.35,11.63,9.15,14.03
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2009,NA,17.5,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2009,5.95,7.6,6.35,11.26
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2009,16.55,16.45,17.25,21.35
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2009,NA,47.91,NA,47.5
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2009,6.68,14.15,7.15,10.5
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2009,6.82,8.38,4.7,7.59
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2009,6.6,7.2,7.1,7.7
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2009,NA,10.66,NA,37.67
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2009,5.98,7.54,5.45,8.59
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2009,9.83,10.79,10.7,12.8
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2009,14,14.51,7.18,15.83
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2009,2.85,3.95,NA,12.31
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2009,12.85,13.03,13.05,14.52
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2009,4.45,7.41,5.85,8.82
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2009,4.14,4.25,5.5,6.5
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2009,5.45,4.92,4.6,6.9
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2009,6.55,9,8.85,10.81
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2009,NA,11.12,NA,6.32
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2009,4.95,7,6.05,9.7
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2009,5.12,5.6,5.6,7.87
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2009,NA,19.62,NA,24.79
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2009,1.6,NA,1.5,9.48
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2009,NA,18.74,NA,34.62
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2009,NA,13.65,NA,14.99
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2008,10.23,12.07,9.59,16.27
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2008,4.55,1.72,1.2,5.55
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2008,3.55,2.95,3.15,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2008,6.95,12.06,NA,14.03
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2008,29.77,8.85,9.92,21.1
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2008,6.45,5.5,6.75,8.33
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2008,16.85,15.15,12.85,16.4
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2008,NA,45.23,45.9,NA
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2008,5.75,6.82,10.16,8.85
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2008,5.65,6.38,4.4,9.8
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2008,7,6.21,7,7.25
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2008,8.67,10.29,7.46,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2008,5.5,8.75,5.68,8.9
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2008,NA,10.45,NA,10.9
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2008,6.03,8.8,7.78,14.63
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2008,2.1,4.57,3.2,5.35
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2008,6.95,4.9,7.86,8.4
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2008,NA,NA,NA,16.66
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2008,11.45,13.24,12.35,14.35
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2008,4.35,6.9,7.15,6.9
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2008,3.65,3.39,3.55,4.72
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2008,4.3,4.19,3.35,6.2
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2008,8.35,8.68,8.6,12.49
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2008,4.6,6.42,6.01,7.37
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2008,5.4,5.46,5.15,7.13
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2008,19.59,19.83,19.51,21.19
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2008,2.02,2.65,3.8,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2008,12.04,12.26,11.89,12.34
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2008,6.04,7.89,NA,8.05
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2007,7.4,8.3,6.97,13.4
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2007,1.1,1.66,1.98,3.18
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2007,2.48,2.98,2.74,6.77
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2007,3.03,11.31,9.75,12.86
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2007,4.16,9.31,4.97,22.96
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2007,3.79,5.41,4.54,6.76
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2007,16.07,15.48,15.55,15.9
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2007,41.49,49.14,41.62,44.31
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2007,2.95,7.88,7.24,11.2
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2007,2.56,5.49,4.22,9.38
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2007,3.65,6.99,4.51,7.59
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2007,6.13,9.86,7.15,22.16
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2007,2.29,6.76,7.66,7.95
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2007,2.65,3.81,6.98,11.59
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2007,4.7,8.05,6.75,15.38
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2007,1.89,4.66,4.27,5.24
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2007,1.06,3.22,3.54,8.4
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2007,6.86,8.19,NA,12.03
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2007,9.91,13.14,12.33,17.83
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2007,3.46,6.62,5.05,9.47
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2007,2.89,3.63,2.9,4.85
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2007,1.26,3.23,2.36,5.62
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2007,NA,7.81,7.91,10.53
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2007,NA,12.63,NA,15.61
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2007,3.48,6.64,6.37,7.43
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2007,4.03,5.34,5.08,7.07
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2007,20.58,21.3,20.72,21.49
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2007,'0.53,1.39,1.82,9.48
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2007,11.06,12.65,12.15,12.82
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2007,4.23,7.63,7.28,8.28
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2006,9.02,14.53,7.43,16.23
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2006,'0.96,4.55,'0.99,6.56
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2006,2.63,6.77,2.77,6.77
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2006,1.72,12.15,6.17,12.95
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2006,3.97,14.67,4.41,23.52
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2006,3.38,7.15,4.48,6.06
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2006,16.81,17.35,16.92,16.92
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2006,42.7,46.9,NA,45.64
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2006,2.47,9.2,6.88,14.1
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2006,2.91,9.3,3.79,12.84
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2006,2.06,6,8.4,8.35
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2006,7.19,13.12,7.54,26.52
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2006,1.08,8.43,6.94,9.9
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2006,NA,10.82,2.64,9.3
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2006,3.27,10.23,6.15,15.33
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2006,2.11,4.9,3.52,5.5
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2006,'0.75,8.4,1.47,NA
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2006,9.33,NA,14.52,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2006,9.45,13.05,11.55,14.12
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2006,3.41,9.17,5.35,9.89
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2006,3.71,3.1,2.91,8.49
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2006,'0.83,6.7,1.68,9.98
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2006,6.09,8.75,6.97,11
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2006,8.31,NA,9.21,21.72
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2006,1.27,5.85,5.32,8
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2006,3.26,5.9,5.12,7.92
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2006,21.89,17.59,21.48,23.69
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2006,'0.54,6,1.62,9.48
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2006,12.66,12.84,11.88,13.04
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2006,2.09,7.2,6.49,8.94
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,2005,11.8,7.63,11.8,11.8
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2005,13.3,12.73,13.16,13.67
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2005,5.58,7.75,5.47,10.97
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2005,3.4,3.03,2.55,6
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2005,9.5,11.98,10.47,14.03
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2005,15.17,11.03,10.6,31.57
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,2005,6.2,8.5,8.5,8.5
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2005,3.35,5.87,6.15,8.43
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2005,10.81,16.29,16.95,17.65
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2005,43.5,44.76,44.54,59.5
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2005,6,8.27,4.6,11.98
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2005,3.05,5.55,5.2,8.45
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2005,6.35,7.2,5.6,9.8
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2005,3.97,5.58,10.02,10.07
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2005,3.7,7.84,7.56,9.5
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2005,6.45,10.58,4.16,10.95
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2005,5.43,9.05,7.41,5.83
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2005,2.6,4.8,3.18,5.05
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2005,4.55,5.98,5.83,8.4
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2005,NA,16.52,NA,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2005,6.3,13.05,15.35,21.75
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2005,5.01,8.76,7.88,15.07
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2005,5.55,5.25,6.9,8.8
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2005,6.6,5.36,6.65,8.62
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2005,8.7,8.78,8,10.35
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2005,NA,9.99,10.08,18.02
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2005,3.91,6.44,6.97,8.5
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2005,2.88,5.98,5.4,6.58
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2005,12.79,15.94,14.87,21.25
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2005,3.45,2.8,5.25,9.48
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2005,12.94,12.52,12.52,24.59
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2005,NA,NA,4.15,NA
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2004,7.58,8.2,8.05,10.45
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2004,4.65,5.93,7.1,9.6
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2004,1.65,5.54,4.85,9.15
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2004,2.77,5.62,5.13,8
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2004,8.79,15.81,15.19,20.64
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2004,'0.33,2.66,4.41,9.48
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2004,11.6,12.58,13.7,13.06
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2004,1.67,2.32,1.6,9.26
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2004,13.27,15.67,12.67,29.57
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2004,1.23,8.1,6.95,10.2
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2004,NA,9.75,7.42,8.65
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2004,3.15,8.33,6.53,15.63
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,2004,NA,3.5,NA,30
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2004,2.23,4.6,3.91,8.4
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2004,2.61,4.05,5.65,8.25
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2004,NA,NA,9.34,65.74
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2004,8.71,12.75,12.6,17.35
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2004,3.2,10.3,6,8.9
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2004,3.1,6,3,7.7
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2004,2.5,6.1,3.85,7.25
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,2004,5.6,7.65,4.6,11.8
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2004,11.78,14.73,9.83,15.18
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2004,1.7,7.2,6.4,8.2
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2004,2.61,3.03,2.88,6.77
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2004,1.4,12.02,7.8,14.03
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2004,6.9,11.44,5.97,22.39
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,2004,3.7,NA,NA,8.1
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2004,3.92,13.95,4.88,7.6
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2004,17.8,18.35,17.25,17.85
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2004,41.61,44.7,44.5,45.6
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2004,2.1,8.22,6.15,9.6
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2004,2.75,5.37,4.43,7
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2004,11.3,NA,8.42,NA
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2003,9.62,13.05,NA,NA
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2003,3.25,7.06,4.58,12.51
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2003,4.1,6.95,5.07,8.33
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2003,10.31,19.2,NA,15.9
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2003,'0.67,2.39,4.11,7.56
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2003,93.84,13.12,12.33,14
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2003,4.85,NA,6.91,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2003,12.27,24.44,NA,31.32
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2003,1.42,8.46,6.98,10.5
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2003,NA,10.78,NA,11.6
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2003,2.33,9.2,6.37,NA
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,2003,'0.2,NA,4.26,NA
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2003,2.1,4.87,3.62,8.1
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2003,NA,NA,2.55,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2003,8.65,13.22,11.56,14.45
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2003,2.58,8.85,5.96,13.55
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2003,5.5,6.43,5.83,7.9
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2003,5.87,6.88,4.7,10.15
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2003,7.85,9.45,7.41,12.25
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,2003,6.7,16.2,4.89,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2003,14.73,16.03,12.03,NA
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2003,2.5,NA,6.56,NA
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2003,2.6,3.16,2.49,9.75
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2003,6.78,12.45,8.07,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2003,11.25,21.22,NA,25.59
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,2003,4.05,NA,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2003,13.95,NA,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2003,19.75,NA,17.73,NA
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2003,45.2,NA,42.39,32.6
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2003,2.65,9.74,5.64,9.7
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2003,5.07,6.11,4.57,6.8
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2003,5.3,6.72,6.62,9.7
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2002,12.5,16.65,11.07,6.32
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2002,6.3,7.8,7.05,7.7
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2002,4.9,7.55,5.15,12.5
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2002,NA,25.81,14.13,30.85
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2002,NA,NA,3.2,10
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2002,12.44,13.08,12.6,10.34
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2002,9.35,9.8,6.9,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2002,11.61,25.33,15.89,31.57
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2002,5.58,8.55,8.3,NA
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2002,9.3,13.05,11.35,NA
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2002,5.3,7.55,6.3,NA
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,2002,4.85,NA,6.1,NA
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2002,2.3,3.95,3.7,8.9
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2002,6.6,NA,NA,NA
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2002,NA,26.22,43.61,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2002,10.4,13.2,11.85,16.55
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2002,3.65,6.9,5.6,10.19
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2002,7.1,9.1,7.2,8.3
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2002,6.7,7.05,6.1,9
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2002,8.9,11.45,8.95,10.95
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,2002,NA,12,NA,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2002,15.47,11.99,14.75,22.03
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2002,7.6,8.65,7.45,9.4
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2002,3.55,8.63,3.1,5.45
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2002,8.85,12.65,8.3,8.75
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2002,18.23,21.27,12.95,32.47
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2002,NA,NA,NA,11.55
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2002,21.65,21.1,21.1,NA
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2002,44.78,45.06,43.72,47.1
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2002,8,10.15,6.9,15
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2002,5.9,6.35,5.15,8.3
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2002,5.65,7.8,6.7,NA
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2001,13.78,21.52,13.98,NA
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2001,7.15,7.55,7.45,9.6
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2001,11.85,8.1,7.7,14.43
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2001,28.79,NA,25.74,21.26
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2001,NA,NA,10.68,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2001,12.39,NA,12.62,23.34
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2001,10.8,NA,10.15,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2001,18.22,29.77,16.77,32.87
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2001,8.8,9.9,7.86,8.75
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2001,6.3,8.08,11.8,10.95
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2001,5.65,NA,6.45,NA
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,2001,5.2,NA,4.3,5.5
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2001,2.65,4.95,2.8,NA
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2001,6.55,NA,6.3,9.25
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2001,19.9,30.94,20.04,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2001,12.3,15.05,12.35,14.55
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2001,4.7,5.5,6.3,8.97
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2001,8.4,6.2,9.6,6.38
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2001,4.55,7.6,6.2,10.26
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2001,9.35,11.75,10.3,NA
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,2001,NA,15.2,11.23,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2001,11.48,15.03,11.23,11.32
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2001,6.95,8.8,7.45,8.8
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2001,4.1,NA,5.1,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2001,9.7,14.45,11.9,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2001,17.51,NA,16.42,16.22
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,2001,NA,NA,8.95,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2001,NA,NA,6.5,NA
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2001,20.4,18.95,21.4,20.95
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2001,43.8,46,43.78,NA
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2001,8.85,11.5,8.65,11.63
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2001,5.7,7.3,5.35,7.96
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2001,4.05,7.7,6.9,13.05
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,2000,NA,NA,19.02,19.65
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,2000,6.65,6.94,7.7,6.9
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,2000,3.85,5.93,7,NA
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,2000,NA,21.21,NA,28.79
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,2000,4.61,7.55,NA,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,2000,NA,12.6,NA,11.75
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,2000,7.95,8.18,8.1,NA
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,2000,17.25,26.49,24.42,28.12
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,2000,7.3,8.22,9.3,NA
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,2000,9.82,10.8,7.42,NA
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,2000,6.36,7,7.53,NA
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,2000,1.33,23.45,3.3,NA
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,2000,2.78,4.65,4.59,4.73
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,2000,6.25,5.3,NA,NA
+MP,Dhar,Badnawar,Badnawar,22.77805556,75.31555556,"Manasa (d)","Bore Well",W00738,2000,NA,16.99,22.54,26.14
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,2000,11.4,14.23,14.3,14.25
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,2000,5.05,8.48,4.75,NA
+MP,Dhar,Kukshi,Kukshi,22.20555556,74.75333333,Kukshi,"Bore Well",W00742,2000,NA,15.39,NA,18.82
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,2000,6.03,7.8,6.95,6.65
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,2000,6.45,6.23,7.85,7.65
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,2000,8.98,9.27,10.85,12.6
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,2000,NA,7.39,NA,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,2000,12.56,9.29,14.23,15.63
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,2000,8,7.82,8.3,8.37
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,2000,6.19,4.05,NA,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,2000,9.1,12.63,12.8,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,2000,NA,19.74,NA,23.52
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,2000,NA,7.38,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,2000,8.45,7.67,NA,9.75
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,2000,17.85,19.36,18.65,18.25
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,2000,40.84,NA,NA,42.02
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,2000,6.76,8.73,9.9,12.15
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,2000,5.85,6.29,6.5,11.05
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,2000,6.15,7.25,6.55,NA
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,1999,2.44,4.5,2.51,7.5
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,1999,NA,19.9,NA,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,1999,8.95,13.35,7.75,12.15
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,1999,3.65,6.7,4.5,NA
+MP,Dhar,Kukshi,Kukshi,22.20555556,74.75333333,Kukshi,"Bore Well",W00742,1999,17.74,NA,16.34,23.84
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,1999,5.26,7.46,7,8.5
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,1999,NA,5.67,3.75,8.76
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,1999,7.15,7.9,9.15,10.15
+MP,Dhar,Nisarpur,Nisarpur,22.10916667,74.81333333,Nisarpur,"Bore Well",W00746,1999,NA,6.4,7.92,21.82
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,1999,2.5,9.05,4.5,9.75
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,1999,4.25,5.78,3.85,4.25
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,1999,22.19,15.6,7.24,20.15
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,1999,2.8,NA,NA,NA
+MP,Dhar,Umarban,Umarban,22.23555556,75.09333333,Manawar,"Bore Well",W00752,1999,12.24,20.6,NA,12.35
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,1999,2.4,2.92,3.8,5.45
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,1999,7.35,6.04,7.8,NA
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,1999,8.13,7.24,6.93,12.33
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,1999,6.06,6.11,6.4,6.06
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,1999,5,3.47,4.15,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,1999,NA,11.69,NA,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,1999,16.47,9.79,12.07,27.37
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,1999,3.4,NA,4,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,1999,7.25,4.75,4.6,9.45
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,1999,4.7,15.49,6.5,11.45
+MP,Dhar,Dharampuri,Dharampuri,22.31388889,75.50833333,Gujri,"Bore Well",W00141,1999,NA,12.1,NA,NA
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,1999,5.6,8.2,6.6,9.9
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,1999,3.95,5.87,4.36,9.25
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,1999,5.6,6.8,5.95,8.48
+MP,Dhar,Sardarpur,Sardarpur,22.55611111,75.12222222,Amjhera,"Bore Well",W00145,1999,10.57,12.3,5.77,24.67
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,1999,5.2,7.1,6.4,10.2
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,1999,NA,8.88,3.9,NA
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,1999,NA,6.21,4.7,NA
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,1999,NA,3.92,1.1,NA
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,1998,2.15,3.73,3.58,5.1
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,1998,2.86,2.84,1.82,NA
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,1998,12.78,13.11,13,14.57
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,1998,4.07,5.92,5.33,8.15
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,1998,6.45,4.39,6.8,6
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,1998,6.12,5.03,3.65,7.22
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,1998,7.67,7.52,7.21,9.45
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,1998,2.56,5.12,6.91,6.25
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,1998,4.8,5.31,4.6,7.64
+MP,Dhar,Sardarpur,Sardarpur,22.66166667,74.97888889,Sardarpur(D),"Bore Well",W00749,1998,8.32,NA,NA,NA
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,1998,4.4,6.84,2.44,NA
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,1998,2.65,3.37,1.54,7.95
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,1998,5.8,4.56,3.55,10.75
+MP,Dhar,Badnawar,Badnawar,23.0125,75.25194444,Badnawar(d),"Bore Well",W00129,1998,26.1,NA,NA,NA
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,1998,4.68,7.61,5.95,8.3
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,1998,3.2,3.12,3.42,NA
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,1998,10.25,12.31,8.67,NA
+MP,Dhar,Dhar,Dhar,22.56444444,75.29166667,"Dhar (D)","Bore Well",W00136,1998,13,NA,NA,NA
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,1998,7.05,NA,5.96,NA
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,1998,6.55,5.67,4.15,7.45
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,1998,17.05,16.33,14,18.05
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,1998,4.38,8.11,6.9,9.91
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,1998,7.3,5.5,4.45,11.4
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,1998,6.44,6.51,6.53,6.95
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,1998,6.75,6.82,6.54,9
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,1998,6.33,8.76,5.2,10.8
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,1998,4.73,6.57,6.2,13.23
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,1998,6.66,12.23,7.4,16.5
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,1997,1.78,7.8,7.06,8.33
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,1997,2.21,4.7,3.87,8.23
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,1997,6.3,8,7.09,9.87
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,1997,2.38,7.23,6.25,15.33
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,1997,4.76,7.1,4.84,11
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,1997,4.55,9.5,6.39,10.95
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,1997,2.13,6.55,4.85,5.38
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,1997,'0.79,7.65,6.9,10.25
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,1997,1.57,3.85,1.82,8.48
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,1997,4.98,6.8,6.94,8.36
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,1997,1.4,4.25,3.66,6.7
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,1997,2.7,5.4,4.55,6.64
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,1997,'0.2,9.8,2.41,9.4
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,1997,1.76,8.4,7.67,9.68
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,1997,2.36,3.55,3.35,8.85
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,1997,17.88,16.35,17.15,17.25
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,1997,2.59,6.1,5.16,8.15
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,1997,5.85,7.55,3.21,6.45
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,1997,4.56,3.9,3.75,5.06
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,1997,5.71,6.8,6.38,8.1
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,1997,1.53,6.35,4.41,9.71
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,1997,2.25,11.85,9.65,13.35
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,1997,8.45,13.55,12.63,14.85
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,1997,2.49,3.3,3.17,5.02
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,1997,'0.85,8.9,5.51,25.5
+MP,Dhar,Maheshwar,Nalchha,22.37333333,75.52444444,Bakaner,"Dug Well",W00583,1996,2.23,5.14,3.7,6.05
+MP,Dhar,Tirla,Tirla,22.66666667,75.51388889,"Ghata bilod","Dug Well",W00149,1996,2.25,9.75,5.2,26.55
+MP,Dhar,Sardarpur,Sardarpur,22.78138889,74.98916667,Julana,"Dug Well",W00148,1996,3.98,6.73,7.43,15.45
+MP,Dhar,Sardarpur,Sardarpur,22.72194444,75.13222222,Dasai,"Dug Well",W00147,1996,3.31,10.55,5,11.25
+MP,Dhar,Sardarpur,Sardarpur,22.55583333,75.12277778,Amjhira,"Dug Well",W00146,1996,1.94,8.45,6.65,10.47
+MP,Dhar,Manawar,Manawar,22.33555556,75.00527778,Gandhwani,"Dug Well",W00144,1996,5.75,8.25,6.35,7.3
+MP,Dhar,Kukshi,Kukshi,22.20527778,74.86944444,Dhulsar,"Dug Well",W00143,1996,3.2,6.3,4.17,7.1
+MP,Dhar,Dharampuri,Dharampuri,22.32083333,75.5,Gujri1,"Dug Well",W00142,1996,5.5,8.98,8.2,13.5
+MP,Dhar,Dharampuri,Dharampuri,22.1525,75.34722222,Dharampuri1,"Dug Well",W00140,1996,19.05,18.4,17.65,19.15
+MP,Dhar,Dharampuri,Dharampuri,22.21444444,75.47277778,Dhamnod,"Dug Well",W00139,1996,8.48,8.35,7.15,9.45
+MP,Dhar,Dhar,Dhar,22.59277778,75.16888889,Hajratpur,"Dug Well",W00138,1996,NA,NA,4.57,8.15
+MP,Dhar,Dhar,Dhar,22.59138889,75.31777778,Dhar,"Dug Well",W00135,1996,2.9,12.93,12.7,13.4
+MP,Dhar,Badnawar,Badnawar,23.02472222,75.13666667,Chayan,"Dug Well",W00131,1996,1.77,7.85,7,8.45
+MP,Dhar,Badnawar,Badnawar,23.02361111,75.22916667,Badnawar,"Dug Well",W00128,1996,5,8.4,3.7,11.2
+MP,Dhar,Umarban,Umarban,22.16111111,75.24166667,Tawlai,"Dug Well",W00754,1996,2.3,7.45,2.5,11.5
+MP,Dhar,Tirla,Tirla,22.46027778,75.42,Lunera,"Dug Well",W00751,1996,'0.58,7.77,2.9,9.4
+MP,Dhar,Sardarpur,Sardarpur,22.66777778,74.97444444,Sardarpur,"Dug Well",W00748,1996,3.26,6.23,4.25,8.47
+MP,Dhar,Sardarpur,Sardarpur,22.95444444,75.06694444,Rajod,"Dug Well",W00747,1996,1.35,6.45,4.25,9.5
+MP,Dhar,Nalchha,Nalchha,22.34666667,75.39833333,Mandu,"Dug Well",W00745,1996,7.65,8.8,7.3,9.9
+MP,Dhar,Manawar,Manawar,22.1875,74.96861111,Singhana,"Dug Well",W00744,1996,2,6.65,2.32,7.7
+MP,Dhar,Kukshi,Kukshi,22.20388889,74.75527778,Kukshi1,"Dug Well",W00743,1996,5.35,9.95,3.4,10.1
+MP,Dhar,Gandhwani,Gandhwani,22.3975,75.06972222,Zeerabad,"Dug Well",W00741,1996,3.45,3.95,4.89,9.9
+MP,Dhar,Bagh,Bagh,22.50527778,74.855,Tanda,"Dug Well",W00740,1996,9.67,14.12,11.95,14.52
+MP,Dhar,Badnawar,Badnawar,22.87277778,75.24861111,Kanun,"Dug Well",W00737,1996,1,4.15,2.15,6.4
+MP,Dhar,Bagh,Bagh,22.36194444,74.7975,Bagh,"Dug Well",W00132,1996,2.96,6.45,3.15,8.25

@@ -1,0 +1,777 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2018,NA,5.8,3.5,NA
+MS,Sangli,Khanapur,Khanapur,17.32777778,74.52638889,Ghanwad_Anandpur,"Dug Well",W25506,2018,NA,12.1,3.5,NA
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2018,NA,4.3,2.75,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2018,NA,11,17.25,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2018,NA,6.4,10,NA
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2018,NA,1.1,'0.9,NA
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2018,NA,6.7,3.6,NA
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2018,NA,4.5,3.85,NA
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2018,NA,4.6,5.3,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2018,NA,9.7,8.2,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2018,NA,2.3,5.2,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2018,NA,7.1,9.2,NA
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2018,NA,5.2,2.3,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2018,NA,1.5,3.7,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2018,NA,5.3,5.6,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2018,NA,1.43,3.8,NA
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2018,NA,2.4,9.2,NA
+MS,Sangli,Miraj,Miraj,16.80111111,74.73805556,Bedag,"Dug Well",W25276,2018,NA,4.5,11,NA
+MS,Sangli,Miraj,Miraj,16.81083333,74.64472222,Miraj-1,"Dug Well",W25284,2018,NA,10.7,3.15,NA
+MS,Sangli,Kavathe-mahankal,Miraj,16.83333333,74.64027778,Nimaj-1,"Dug Well",W25292,2018,NA,2.8,3.2,NA
+MS,Sangli,Miraj,Miraj,16.83833333,74.58777778,Sangli_Inamdhamni,"Dug Well",W25294,2018,NA,2,2.1,NA
+MS,Sangli,Miraj,Miraj,16.86777778,74.58277778,Sangli_city,"Dug Well",W25301,2018,NA,3.8,1.4,NA
+MS,Sangli,Miraj,Miraj,16.88305556,74.55361111,Sangli_Sangalwadi,"Dug Well",W25312,2018,NA,14.2,7.9,NA
+MS,Sangli,Miraj,Miraj,16.91694444,74.56694444,Karnal-1,"Dug Well",W25321,2018,NA,2.7,2.2,NA
+MS,Sangli,Miraj,Miraj,16.92194444,74.49305556,Tung,"Dug Well",W25323,2018,NA,4.9,3.9,NA
+MS,Sangli,Miraj,Miraj,16.95833333,74.74277778,Bhose,"Dug Well",W25342,2018,NA,3.7,5.8,NA
+MS,Sangli,Shirala,Shirala,16.98083333,74.11972222,Shirala,"Dug Well",W25351,2018,NA,4.1,1.9,NA
+MS,Sangli,Atpadi,Atpadi,17.41611111,74.92944444,Atpadi-1,"Dug Well",W25536,2018,NA,6.1,2.1,NA
+MS,Sangli,Atpadi,Atpadi,17.48194444,74.71833333,Vibhutwadi-1,"Dug Well",W25562,2018,NA,14.1,16,NA
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,16.92305556,74.89861111,Sarati,"Dug Well",W25325,2018,NA,3.1,2.9,NA
+MS,Sangli,Walwa,Walwa,17.11222222,74.18611111,Shene,"Dug Well",W25399,2018,NA,7.3,7.1,NA
+MS,Sangli,Tasgaon,Tasgaon,17.11555556,74.5875,Visapur,"Dug Well",W25402,2018,NA,7.3,1.1,NA
+MS,Sangli,Atpadi,Atpadi,17.30916667,74.87861111,Kargani,"Dug Well",W33385,2018,NA,2.9,3,NA
+MS,Sangli,TASGAON,Atpadi,17.42361111,74.90055556,"Tasgaon 1","Dug Well",W33121,2018,NA,4.3,4.6,NA
+MS,Sangli,Khanapur,Khanapur,17.26472222,74.71861111,Khanapur,"Dug Well",W33384,2018,NA,4.2,8.59,NA
+MS,Sangli,Khanapur,Tasgaon,17.195,74.67333333,Ped,"Dug Well",W25440,2018,NA,5.9,NA,NA
+MS,Sangli,Khanapur,Kadegaon,17.23944444,74.39444444,Wangi-1,"Dug Well",W25466,2018,NA,6.9,2.5,NA
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,17.05722222,74.86444444,Kuchi,"Dug Well",W25378,2018,NA,13.8,13.2,NA
+MS,Sangli,Khanapur,Khanapur,17.21805556,74.81805556,Palashi-1,"Dug Well",W25454,2018,NA,6,9.2,NA
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2018,NA,2.9,5.6,NA
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2017,7.1,6.9,2,10.1
+MS,Sangli,Khanapur,Khanapur,17.21805556,74.81805556,Palashi-1,"Dug Well",W25454,2017,16,7,4.2,16
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2017,18.3,13,9.8,16.25
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2017,9.1,9.3,5.4,10
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2017,2.2,1.7,1.1,'0.01
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2017,6.7,9.1,4.8,14.25
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2017,5.8,3.1,3.6,8.5
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2017,7.6,5.5,4,9.16
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2017,7.6,7.5,5.8,9.8
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2017,4.8,2.9,2.6,3.3
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2017,6.8,7.8,4.15,8.7
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2017,4.1,8.1,2.7,3.07
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2017,3.4,3.7,2.8,3.2
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2017,3.5,1.2,1,5.77
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2017,4.8,7.21,3.25,5.2
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2017,5.4,6.9,'0.95,5.8
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2017,1.7,6.1,'0.9,12
+MS,Sangli,Miraj,Miraj,16.80111111,74.73805556,Bedag,"Dug Well",W25276,2017,10.5,7.4,1,9.85
+MS,Sangli,Miraj,Miraj,16.81083333,74.64472222,Miraj-1,"Dug Well",W25284,2017,7.4,4,3,4.6
+MS,Sangli,Kavathe-mahankal,Miraj,16.83333333,74.64027778,Nimaj-1,"Dug Well",W25292,2017,15.2,2.9,3,15.2
+MS,Sangli,Miraj,Miraj,16.83833333,74.58777778,Sangli_Inamdhamni,"Dug Well",W25294,2017,4.7,7.1,'0.85,5.1
+MS,Sangli,Miraj,Miraj,16.86777778,74.58277778,Sangli_city,"Dug Well",W25301,2017,2.3,7.6,2,2.11
+MS,Sangli,Miraj,Miraj,16.88305556,74.55361111,Sangli_Sangalwadi,"Dug Well",W25312,2017,9.7,7.7,6,4.2
+MS,Sangli,Miraj,Miraj,16.91694444,74.56694444,Karnal-1,"Dug Well",W25321,2017,3.5,2.9,4.3,2.86
+MS,Sangli,Miraj,Miraj,16.92194444,74.49305556,Tung,"Dug Well",W25323,2017,4.2,8.1,3.1,5.2
+MS,Sangli,Miraj,Miraj,16.95833333,74.74277778,Bhose,"Dug Well",W25342,2017,4.9,2.9,3.7,5.65
+MS,Sangli,Shirala,Shirala,16.98083333,74.11972222,Shirala,"Dug Well",W25351,2017,'0.8,1.5,1.1,1.15
+MS,Sangli,Atpadi,Atpadi,17.41611111,74.92944444,Atpadi-1,"Dug Well",W25536,2017,17.4,1.6,'0.9,6.2
+MS,Sangli,Atpadi,Atpadi,17.48194444,74.71833333,Vibhutwadi-1,"Dug Well",W25562,2017,14.7,15.9,10.1,16.2
+MS,Sangli,Walwa,Walwa,17.11222222,74.18611111,Shene,"Dug Well",W25399,2017,19.5,9.3,7,14.5
+MS,Sangli,Tasgaon,Tasgaon,17.11555556,74.5875,Visapur,"Dug Well",W25402,2017,1.3,4.5,1.9,2.1
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,16.92305556,74.89861111,Sarati,"Dug Well",W25325,2017,NA,3.5,2,3.85
+MS,Sangli,TASGAON,Atpadi,17.42361111,74.90055556,"Tasgaon 1","Dug Well",W33121,2017,4.5,4.7,3.7,4.6
+MS,Sangli,Khanapur,Khanapur,17.32777778,74.52638889,Ghanwad_Anandpur,"Dug Well",W25506,2017,NA,4.2,3.65,11.8
+MS,Sangli,Khanapur,Khanapur,17.26472222,74.71861111,Khanapur,"Dug Well",W33384,2017,NA,5.9,4.7,8.59
+MS,Sangli,Atpadi,Atpadi,17.30916667,74.87861111,Kargani,"Dug Well",W33385,2017,2.6,3,2.4,NA
+MS,Sangli,Khanapur,Tasgaon,17.195,74.67333333,Ped,"Dug Well",W25440,2017,6.4,3.5,2,5.7
+MS,Sangli,Khanapur,Kadegaon,17.23944444,74.39444444,Wangi-1,"Dug Well",W25466,2017,5.3,1.9,2.2,2.2
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,17.05722222,74.86444444,Kuchi,"Dug Well",W25378,2017,15,7.5,5.4,11.2
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2017,5.5,3.4,1.4,8.2
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2016,2.55,NA,2.8,8
+MS,Sangli,Atpadi,Atpadi,17.30916667,74.87861111,Kargani,"Dug Well",W33385,2016,NA,NA,2.6,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2016,2.6,NA,1.3,4
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2016,NA,NA,NA,48
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2016,5.95,NA,6.3,9.9
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2016,NA,NA,NA,36
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2016,3.6,NA,2.4,4.2
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2016,2.2,NA,3,4.75
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2016,8.1,NA,2.6,12
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2016,1,NA,1.7,10.4
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2016,11.1,NA,11.9,18.8
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2016,6.6,NA,6.1,8.7
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2016,3.95,NA,4,7.55
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2016,3.45,NA,5.3,9
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2016,3,NA,3.8,3.8
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2016,1.35,NA,'0.6,6
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2016,'0.7,NA,'0.8,1
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2016,2.5,NA,3.3,11.9
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2016,2.3,NA,3,2.38
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,17.05722222,74.86444444,Kuchi,"Dug Well",W25378,2016,5.55,12.3,5.8,11
+MS,Sangli,Walwa,Walwa,17.11222222,74.18611111,Shene,"Dug Well",W25399,2016,8.4,NA,8.3,17.5
+MS,Sangli,Tasgaon,Tasgaon,17.11555556,74.5875,Visapur,"Dug Well",W25402,2016,1.3,1.9,1.3,1.55
+MS,Sangli,Khanapur,Tasgaon,17.195,74.67333333,Ped,"Dug Well",W25440,2016,4.7,3.7,2.25,2.6
+MS,Sangli,Khanapur,Khanapur,17.21805556,74.81805556,Palashi-1,"Dug Well",W25454,2016,6.7,4.28,5.7,7
+MS,Sangli,Khanapur,Kadegaon,17.23944444,74.39444444,Wangi-1,"Dug Well",W25466,2016,2.3,3,3.7,2.5
+MS,Sangli,Khanapur,Khanapur,17.32777778,74.52638889,Ghanwad_Anandpur,"Dug Well",W25506,2016,2.1,13.1,NA,9
+MS,Sangli,Atpadi,Atpadi,17.41611111,74.92944444,Atpadi-1,"Dug Well",W25536,2016,13.4,10,'0.7,12.1
+MS,Sangli,Atpadi,Atpadi,17.48194444,74.71833333,Vibhutwadi-1,"Dug Well",W25562,2016,13.8,10.3,11.6,14.5
+MS,Sangli,Miraj,Miraj,16.80111111,74.73805556,Bedag,"Dug Well",W25276,2016,'0.3,7.7,1.5,9
+MS,Sangli,Miraj,Miraj,16.81083333,74.64472222,Miraj-1,"Dug Well",W25284,2016,1.9,2.9,2.8,4
+MS,Sangli,Kavathe-mahankal,Miraj,16.83333333,74.64027778,Nimaj-1,"Dug Well",W25292,2016,3,13.85,1.3,12.75
+MS,Sangli,Miraj,Miraj,16.83833333,74.58777778,Sangli_Inamdhamni,"Dug Well",W25294,2016,1,4.1,'0.6,7
+MS,Sangli,Miraj,Miraj,16.86777778,74.58277778,Sangli_city,"Dug Well",W25301,2016,2.1,2.7,NA,3.7
+MS,Sangli,Miraj,Miraj,16.88305556,74.55361111,Sangli_Sangalwadi,"Dug Well",W25312,2016,7.6,9.3,6.3,12.6
+MS,Sangli,Miraj,Miraj,16.91694444,74.56694444,Karnal-1,"Dug Well",W25321,2016,3.3,3.55,3,3.5
+MS,Sangli,Miraj,Miraj,16.92194444,74.49305556,Tung,"Dug Well",W25323,2016,6.35,5.9,3.7,5.7
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,16.92305556,74.89861111,Sarati,"Dug Well",W25325,2016,1.9,4.35,2.7,4.2
+MS,Sangli,Miraj,Miraj,16.95833333,74.74277778,Bhose,"Dug Well",W25342,2016,2.7,5,2.3,6.3
+MS,Sangli,Shirala,Shirala,16.98083333,74.11972222,Shirala,"Dug Well",W25351,2016,1,1.5,1.1,5.7
+MS,Sangli,TASGAON,Atpadi,17.42361111,74.90055556,"Tasgaon 1","Dug Well",W33121,2016,3.7,NA,3.7,NA
+MS,Sangli,Khanapur,Khanapur,17.26472222,74.71861111,Khanapur,"Dug Well",W33384,2016,NA,NA,5.1,NA
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2016,'0.8,NA,1.3,11
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2015,7.1,3.6,4.1,5.8
+MS,Sangli,Shirala,Shirala,16.98083333,74.11972222,Shirala,"Dug Well",W25351,2015,1.94,2.3,3,2.4
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2015,NA,5.42,NA,NA
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2015,7.1,1.58,3.15,6.1
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2015,2.7,2.3,3.5,2.5
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2015,NA,5.5,NA,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2015,8.1,5.7,4.1,8.55
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2015,NA,5.7,NA,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2015,NA,11.52,NA,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2015,NA,4.4,NA,NA
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2015,4.6,7.81,4,4.5
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2015,3.2,2.75,2.8,3.9
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2015,12.7,1.25,3.1,8.5
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2015,3.9,2.46,2.7,6.1
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2015,17.85,10.75,14,17.5
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2015,NA,3.75,NA,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2015,7.7,5.6,7.25,8.25
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2015,7.4,2.9,4.5,6.2
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2015,8.7,7.4,4.2,8.4
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2015,4.9,3.05,2.9,3.25
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2015,5.5,4.9,3.5,6
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2015,1.4,'0.95,1,'0.8
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2015,5.8,3.45,2.7,7.2
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2015,6.8,2,2.9,2.7
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.31666667,74.73333333,Menganwadi,"Dug Well",W22532,2015,NA,3.24,NA,NA
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,17.05722222,74.86444444,Kuchi,"Dug Well",W25378,2015,12.7,4.6,10.1,13.5
+MS,Sangli,Walwa,Walwa,17.11222222,74.18611111,Shene,"Dug Well",W25399,2015,15,NA,3.55,NA
+MS,Sangli,Tasgaon,Tasgaon,17.11555556,74.5875,Visapur,"Dug Well",W25402,2015,4.3,10.78,3.7,1.5
+MS,Sangli,Khanapur,Tasgaon,17.195,74.67333333,Ped,"Dug Well",W25440,2015,5.6,3.25,3.15,4.65
+MS,Sangli,Khanapur,Khanapur,17.21805556,74.81805556,Palashi-1,"Dug Well",W25454,2015,7.45,5.9,13.3,NA
+MS,Sangli,Khanapur,Kadegaon,17.23944444,74.39444444,Wangi-1,"Dug Well",W25466,2015,2.2,NA,3.4,NA
+MS,Sangli,Khanapur,Khanapur,17.32777778,74.52638889,Ghanwad_Anandpur,"Dug Well",W25506,2015,10.4,NA,3,10.3
+MS,Sangli,Atpadi,Atpadi,17.41611111,74.92944444,Atpadi-1,"Dug Well",W25536,2015,NA,NA,3.1,10
+MS,Sangli,Atpadi,Atpadi,17.48194444,74.71833333,Vibhutwadi-1,"Dug Well",W25562,2015,6.5,3.45,2.8,6
+MS,Sangli,Miraj,Miraj,16.80111111,74.73805556,Bedag,"Dug Well",W25276,2015,8.5,9,2.6,7.7
+MS,Sangli,Miraj,Miraj,16.81083333,74.64472222,Miraj-1,"Dug Well",W25284,2015,NA,3.5,2.65,4.4
+MS,Sangli,Kavathe-mahankal,Miraj,16.83333333,74.64027778,Nimaj-1,"Dug Well",W25292,2015,3.15,2.6,2.8,8.6
+MS,Sangli,Miraj,Miraj,16.83833333,74.58777778,Sangli_Inamdhamni,"Dug Well",W25294,2015,3.5,1.95,3.25,5.3
+MS,Sangli,Miraj,Miraj,16.86777778,74.58277778,Sangli_city,"Dug Well",W25301,2015,2.5,1.25,2.9,2.5
+MS,Sangli,Miraj,Miraj,16.88305556,74.55361111,Sangli_Sangalwadi,"Dug Well",W25312,2015,14,7.5,7.4,8.8
+MS,Sangli,Miraj,Miraj,16.91694444,74.56694444,Karnal-1,"Dug Well",W25321,2015,2.9,3.55,2.9,5.8
+MS,Sangli,Miraj,Miraj,16.92194444,74.49305556,Tung,"Dug Well",W25323,2015,6.3,8.55,3.5,8.85
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,16.92305556,74.89861111,Sarati,"Dug Well",W25325,2015,NA,NA,3.5,5.6
+MS,Sangli,Miraj,Miraj,16.95833333,74.74277778,Bhose,"Dug Well",W25342,2015,5.9,2.7,4.5,6
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2015,NA,1.35,NA,NA
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2014,3.5,5.7,3.25,6.95
+MS,Sangli,Miraj,Miraj,16.95833333,74.74277778,Bhose,"Dug Well",W25342,2014,4.1,NA,2.5,4.9
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2014,4.22,8,5,NA
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2014,2,2.35,1.25,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2014,8.7,4,1.3,3.95
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2014,5.5,5.5,5.5,NA
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2014,12.05,9.25,7.9,10
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2014,5.95,8,5,7.85
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2014,5.45,6.45,5.2,24.5
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2014,9.45,14,14,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2014,3,4.95,NA,4.7
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2014,3,4.05,3.3,2.8
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2014,2.5,4.4,2.5,4
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2014,5.45,8.75,'0.5,6.25
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2014,1.2,4,1.8,8.16
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2014,14.2,12.7,9.2,16.55
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2014,9.3,6.2,3.3,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2014,8.2,8.6,5.6,8.5
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2014,3.95,6.2,3.2,5.6
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2014,3.8,6.6,3.7,4.8
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2014,2,5.1,2.5,5.6
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2014,2.1,4.8,1.7,6.1
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2014,'0.5,1.2,'0.9,NA
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2014,1.15,7.4,3,7.8
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2014,2.4,2.75,1.7,1.93
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.31666667,74.73333333,Menganwadi,"Dug Well",W22532,2014,1,5.2,3.8,4.24
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,17.05722222,74.86444444,Kuchi,"Dug Well",W25378,2014,9,8.65,4.6,8.8
+MS,Sangli,Khanapur,Tasgaon,17.195,74.67333333,Ped,"Dug Well",W25440,2014,5.3,9.65,4.1,6.5
+MS,Sangli,Khanapur,Khanapur,17.21805556,74.81805556,Palashi-1,"Dug Well",W25454,2014,15.2,5.9,6.9,15.8
+MS,Sangli,Atpadi,Atpadi,17.48194444,74.71833333,Vibhutwadi-1,"Dug Well",W25562,2014,11,4.7,2.4,10.7
+MS,Sangli,Miraj,Miraj,16.80111111,74.73805556,Bedag,"Dug Well",W25276,2014,1.3,NA,'0.7,5.1
+MS,Sangli,Miraj,Miraj,16.81083333,74.64472222,Miraj-1,"Dug Well",W25284,2014,2,3.2,2.8,5.8
+MS,Sangli,Kavathe-mahankal,Miraj,16.83333333,74.64027778,Nimaj-1,"Dug Well",W25292,2014,2.4,3.25,2.3,7.85
+MS,Sangli,Miraj,Miraj,16.83833333,74.58777778,Sangli_Inamdhamni,"Dug Well",W25294,2014,4.4,2.95,'0.8,5.8
+MS,Sangli,Miraj,Miraj,16.86777778,74.58277778,Sangli_city,"Dug Well",W25301,2014,1.9,2.25,2.4,3.4
+MS,Sangli,Miraj,Miraj,16.88305556,74.55361111,Sangli_Sangalwadi,"Dug Well",W25312,2014,8,8.85,8,12.3
+MS,Sangli,Miraj,Miraj,16.91694444,74.56694444,Karnal-1,"Dug Well",W25321,2014,2.3,4,3,3.4
+MS,Sangli,Miraj,Miraj,16.92194444,74.49305556,Tung,"Dug Well",W25323,2014,3.2,6.35,3.7,4.1
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2014,'0.8,1.95,NA,NA
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2013,4.5,6.1,5,7.5
+MS,Sangli,Miraj,Miraj,16.92194444,74.49305556,Tung,"Dug Well",W25323,2013,4.4,NA,5.8,8
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2013,8.3,NA,6.9,NA
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2013,9.2,NA,1.3,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2013,3.3,NA,2.9,3.8
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2013,NA,NA,2.4,NA
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2013,12.75,12.11,8.7,12.5
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2013,9,NA,5.7,9.5
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2013,8.85,NA,3.5,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2013,NA,14.11,4.3,26.4
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2013,NA,NA,10.75,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2013,NA,4.9,4.7,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2013,NA,6.1,3.7,4
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2013,3.9,3.9,3.5,7.3
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2013,4,6.8,3.45,8.4
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2013,11.85,6.05,3,12.4
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2013,4.7,6.1,1.7,11.5
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2013,16,13.42,10,18.1
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2013,9.1,NA,7.7,7.7
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2013,9.5,8.9,6.65,9.7
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2013,5,6.12,4,7.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2013,4.4,NA,4,9.4
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2013,3.8,6.25,2.65,4
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2013,3.65,4.9,2.5,6
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2013,'0.8,4.9,'0.9,'0.6
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2013,4,4.4,3.35,5.8
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2013,3.15,NA,2,4.6
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.31666667,74.73333333,Menganwadi,"Dug Well",W22532,2013,4.2,4.1,4.5,5
+MS,Sangli,Kavathe-mahankal,Kavathe-mahankal,17.05722222,74.86444444,Kuchi,"Dug Well",W25378,2013,11.4,NA,6.9,13.6
+MS,Sangli,Khanapur,Tasgaon,17.195,74.67333333,Ped,"Dug Well",W25440,2013,5.2,NA,2.5,4
+MS,Sangli,Khanapur,Khanapur,17.21805556,74.81805556,Palashi-1,"Dug Well",W25454,2013,NA,NA,4.5,15
+MS,Sangli,Atpadi,Atpadi,17.48194444,74.71833333,Vibhutwadi-1,"Dug Well",W25562,2013,NA,NA,8,NA
+MS,Sangli,Miraj,Miraj,16.81083333,74.64472222,Miraj-1,"Dug Well",W25284,2013,4,NA,NA,4.8
+MS,Sangli,Kavathe-mahankal,Miraj,16.83333333,74.64027778,Nimaj-1,"Dug Well",W25292,2013,NA,NA,2.5,12
+MS,Sangli,Miraj,Miraj,16.83833333,74.58777778,Sangli_Inamdhamni,"Dug Well",W25294,2013,5.7,NA,3.2,6.3
+MS,Sangli,Miraj,Miraj,16.86777778,74.58277778,Sangli_city,"Dug Well",W25301,2013,2.2,NA,1.5,3
+MS,Sangli,Miraj,Miraj,16.88305556,74.55361111,Sangli_Sangalwadi,"Dug Well",W25312,2013,NA,NA,9,12.9
+MS,Sangli,Miraj,Miraj,16.91694444,74.56694444,Karnal-1,"Dug Well",W25321,2013,5.5,10.11,2.9,5.88
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2013,'0.9,NA,3,6.4
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2012,NA,3.77,5.12,6.55
+MS,Sangli,Miraj,Miraj,16.91694444,74.56694444,Karnal-1,"Dug Well",W25321,2012,NA,NA,3.51,NA
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2012,NA,8.5,12.82,NA
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2012,NA,6,6.55,NA
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2012,NA,11.65,NA,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2012,NA,3.13,3.42,4.25
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2012,NA,3.6,NA,NA
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2012,NA,13.8,NA,16.3
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2012,NA,7.7,6.72,9.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2012,NA,4.5,NA,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2012,NA,6.5,12.78,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2012,NA,14,5.13,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2012,NA,5.75,NA,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2012,NA,4.58,4.95,4.7
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2012,NA,3.83,2.2,6.35
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2012,NA,5.23,5.22,8.4
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2012,NA,7,8.62,7.95
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2012,NA,3.8,4,7.36
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2012,NA,3,NA,NA
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2012,NA,9.2,NA,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2012,NA,11,13.12,NA
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2012,NA,7.85,9.82,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2012,NA,8,8.75,9.45
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2012,NA,7.5,7.77,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2012,NA,9.67,6.16,9.85
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2012,NA,3.1,3.95,2.95
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2012,NA,5.9,5.82,9.3
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2012,NA,'0.8,1.1,'0.45
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2012,NA,6.2,7.15,13.3
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.31666667,74.73333333,Menganwadi,"Dug Well",W22532,2012,NA,4.2,NA,NA
+MS,Sangli,Khanapur,Khanapur,17.21805556,74.81805556,Palashi-1,"Dug Well",W25454,2012,NA,NA,15.85,NA
+MS,Sangli,Kavathe-mahankal,Miraj,16.83333333,74.64027778,Nimaj-1,"Dug Well",W25292,2012,NA,NA,3.12,NA
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2012,NA,1.8,1.47,1.1
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2011,3.85,3.05,2.95,6.25
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.31666667,74.73333333,Menganwadi,"Dug Well",W22532,2011,NA,NA,4.37,NA
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2011,8.82,6.47,5.72,14.42
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2011,NA,2.09,3.4,5.13
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2011,NA,5.78,9.5,8.15
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2011,1.37,'0.32,1.48,2.1
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2011,NA,1.41,1.52,NA
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2011,NA,NA,13.2,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2011,7.9,5.85,5.7,8.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2011,6.7,3.82,3.2,5.4
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2011,NA,5.87,7.9,15.65
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2011,NA,11.35,NA,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2011,6.42,4.97,4.9,6.57
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2011,4.8,5.09,6.6,7.35
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2011,4.6,6.65,3.9,3.4
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2011,2.81,3.26,5.37,4.75
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2011,5.05,2.85,6,5.55
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2011,2.71,2.21,1.62,8.66
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2011,NA,2.82,1,3.08
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2011,NA,3.9,NA,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2011,15.3,9.8,11,16.45
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2011,7.3,7.13,4.56,7.25
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2011,7.7,6.45,7.29,7.65
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2011,6.7,4.68,5.8,6.33
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2011,8.15,6.33,9.21,10.05
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2011,4.25,2.65,4.35,4
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2011,5.15,3.7,4.23,6.15
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2011,NA,'0.48,'0.2,'0.35
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2011,4.3,4.6,4.4,10.5
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2011,1.7,1.05,1.82,2.3
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2010,3.45,3.3,3.75,6.7
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2010,NA,NA,NA,8.28
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2010,5.6,6.55,NA,16.2
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2010,1.18,2.18,1.71,5.73
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2010,6.9,6.25,11.65,7.5
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2010,NA,5.7,NA,8.8
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2010,1.18,1.93,5,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2010,1.8,5.75,4.42,8
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2010,4.7,3.3,3.8,5.1
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2010,11.45,9.37,11.5,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2010,4.97,5.32,2.39,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2010,'0.95,1.8,NA,3.25
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2010,3.3,4.55,3.5,5
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2010,2.2,4.08,4.75,6
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2010,2.35,4.85,4.38,5.6
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2010,3.25,2.35,1,5.87
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2010,1.5,2.3,2.46,9.16
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2010,1.35,2.48,1.61,3.23
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2010,4.8,3,NA,5.85
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2010,13.4,10.25,9,16.25
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2010,2.37,3.08,NA,NA
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2010,4.05,9.75,1.5,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2010,5,6.45,6.02,8.5
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2010,4.5,4.4,4.6,6.85
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2010,3,5.5,4.4,8.9
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2010,3.1,2.9,3.53,4.1
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2010,1.2,3.3,'0.5,5.45
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2010,'0.11,'0.48,1,'0.1
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2010,2.4,4.4,6.07,11.4
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2010,1.39,2.3,2.5,2.7
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2009,2.9,3.6,2.55,6.45
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2009,2.5,3.55,2,3.4
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2009,7.25,10.55,5.42,NA
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2009,'0.78,1.78,1.08,1.68
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2009,NA,7.3,6.6,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2009,NA,8.8,4.2,NA
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2009,NA,3.93,1.43,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2009,4.6,6.72,3.1,7
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2009,7,4.9,2.8,7
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2009,11.62,12.05,8.77,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2009,5.82,5.92,4.22,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2009,1.2,4.85,1.1,3.2
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2009,3.2,5.3,1.8,3.35
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2009,2.5,3.5,2.4,5.5
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2009,4,4,3.4,3.7
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2009,6.55,4.75,3.25,6.75
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2009,2,2.51,'0.56,9.98
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2009,'0.78,3.43,1.78,NA
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2009,4.2,4.6,2.1,6.1
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2009,13.55,10.75,9.35,14.4
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2009,NA,7.3,2.8,NA
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2009,7.4,7.04,3.4,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2009,7.6,7.9,5.6,7.8
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2009,6.44,5.5,3,6.5
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2009,4.27,9.3,2.45,4.5
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2009,2.4,4.8,1.9,3.6
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2009,1.7,3.8,'0.4,3.7
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2009,NA,'0.4,'0.15,'0.35
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2009,1.22,2.95,1.2,2.5
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2008,4.85,5.1,3.85,8.55
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2008,'0.6,2.8,NA,2.85
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2008,9.65,6.8,8.12,16
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2008,'0.9,3.5,1.48,7.1
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2008,6.3,8.2,7.1,11.2
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2008,'0.01,4.5,7.2,4.95
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2008,NA,5.5,3.03,5.5
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2008,20.4,48,NA,16.1
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2008,3.55,6.9,5.7,9.85
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2008,NA,5.5,4.2,9.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2008,12.2,11.1,NA,11.1
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2008,8.5,12.1,10.57,14
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2008,5.1,6.3,5.32,4.1
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2008,5.2,3.55,4.35,6.3
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2008,3.85,6.2,'0.2,6.3
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2008,5.85,9.8,4.2,9.8
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2008,2.3,5.15,3.2,5.1
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2008,6.15,4.2,4.15,7.2
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2008,2.95,4.4,1.36,9.9
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2008,3.7,3.1,2.68,3.2
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2008,NA,9.2,3.5,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2008,18.5,9.7,9.65,17.55
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2008,6.5,7.3,7.3,7.3
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2008,6.3,8.8,6.75,11
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2008,7.35,8.45,6.9,8.7
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2008,5.75,6.95,4.6,7.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2008,2.45,6.5,6.05,9.9
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2008,4.7,7.2,3.4,6.8
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2008,3.75,7.6,4.2,6.4
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2008,1.25,1.2,'0.15,1.2
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2008,2.95,7.2,3.1,10.1
+MS,Sangli,Vita,Palus,17.07916667,74.5,Bambwade-2,"Bore Well",W17640,2008,2.95,NA,NA,10.2
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2008,'0.9,3.2,1.2,3.55
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2007,2.45,4.15,4.39,6.5
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2007,2.19,1.13,2,3.8
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2007,3.65,5.55,6,12.8
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2007,1.18,2.13,2.3,7.2
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2007,7.35,7.05,7.5,10.1
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2007,'0.11,3.53,2.05,4.7
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2007,5.5,5.5,5.5,5.5
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2007,9.52,15.1,16.1,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2007,3.67,6.35,7.3,9.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2007,4.82,4.91,9.1,9.1
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2007,7.45,10.64,8.12,14
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2007,4.41,3.7,2.3,4.2
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2007,1.1,2.22,1.95,5.4
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2007,4.21,5.9,5.03,9.4
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2007,2.3,4.9,4.45,9.8
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2007,2.12,3.37,2.72,7.9
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2007,'0.78,1.62,1.42,7.9
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2007,1.34,2.67,3.35,7.4
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2007,'0.93,2.3,1.8,5.6
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2007,2,4.68,3.62,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2007,8.67,10.68,9.4,3.45
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2007,5.92,7.3,7.3,7.3
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2007,6.67,7.05,6.37,10.9
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2007,6.44,7.4,6.5,10.05
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2007,3.82,5.79,4.17,9.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2007,3.2,7.1,4.65,5.4
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2007,2.3,4.66,3.62,2.7
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2007,'0.01,4.3,NA,'0.01
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2007,1.22,'0.61,'0.72,NA
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2007,2.4,5.1,4.1,6.5
+MS,Sangli,Vita,Palus,17.07916667,74.5,Bambwade-2,"Bore Well",W17640,2007,NA,NA,NA,15.5
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2007,'0.97,2.08,1.7,'0.9
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2006,3.55,4.85,2.27,9.99
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2006,2.28,3.1,1.6,10.05
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2006,9.62,7.05,3.98,14.2
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2006,1.8,3.7,1.22,12.05
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2006,8.9,10.05,7.2,11.65
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2006,4.45,3.1,2.55,4.9
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2006,5.5,4.5,5.5,5.5
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2006,NA,NA,NA,20.5
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2006,6,11.15,5.16,8.7
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2006,7.8,8.15,4.57,9.1
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2006,8.17,NA,8.35,14
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2006,NA,7.05,4.32,8.5
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2006,1.45,4.8,1.6,8.2
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2006,4.55,6,5.55,4.3
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2006,2.87,6.3,4.32,9.8
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2006,3.35,3.6,2.65,4.8
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2006,2.2,2.95,'0.42,14.5
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2006,1.1,4.8,1.15,9.2
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2006,2.35,3.6,1.8,8.5
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2006,9.2,9.2,3.8,9.2
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2006,14.3,13.45,9,18.5
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2006,7.3,7.3,7.3,7.3
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2006,6.7,13.6,6.27,12.45
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2006,8.72,9.85,6.4,12.2
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2006,9,8.05,4.47,9
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2006,11,7.7,3.41,11
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2006,2.42,NA,2.67,7.26
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2006,7.54,5.9,'0.62,7.54
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2006,4.25,3.1,'0.42,4.25
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2006,2.5,7.1,3.16,13.2
+MS,Sangli,Vita,Palus,17.07916667,74.5,Bambwade-2,"Bore Well",W17640,2006,NA,6.9,NA,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.00833333,74.86944444,"Kawathe Mahankal","Dug Well",W21162,2006,NA,NA,2.02,NA
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2005,4.7,7.3,7.3,7.3
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2005,36,36,5.4,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2005,9.5,7.84,6.39,10.5
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2005,9,7.14,6.23,9
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2005,11,9.35,3.84,11
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2005,2.85,4.38,2.54,7.26
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2005,3.5,5.67,3.49,7.54
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2005,1.5,'0.85,'0.33,4.25
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2005,7.45,7.34,4.1,16.84
+MS,Sangli,Vita,Palus,17.07916667,74.5,Bambwade-2,"Bore Well",W17640,2005,NA,NA,6.6,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2005,9.8,11.8,10.23,14
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2005,6.8,6.3,5.1,10.8
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2005,3.2,2.4,1.5,8.2
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2005,2.4,5.74,4.93,9.4
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2005,4.3,5.77,4.4,9.8
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2005,2.65,3.52,1.74,6.8
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2005,2.45,6.6,1.32,14.5
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2005,1.2,2.55,2.39,6.4
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2005,2.55,2.6,2.21,4.2
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2005,NA,9.2,9.2,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2005,9.6,11.77,12.08,18.8
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2005,4.2,3.14,2.36,8.2
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2005,2,3.54,2.1,10.05
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2005,9.45,9.02,4.9,14.8
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2005,2.5,2.8,1.4,12.05
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2005,9.6,11.15,8.5,10.8
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2005,2.35,3.43,1.81,4.4
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2005,4.8,5.5,3.02,5.5
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2005,NA,NA,NA,18
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2005,7,6.78,7.29,8.8
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2005,9.1,7.6,6.91,9.1
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2005,12.45,9.83,10.92,12.45
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2004,NA,7.3,NA,7.3
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2004,NA,36,NA,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2004,NA,12.1,NA,12.2
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2004,NA,9,NA,9
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2004,NA,11,NA,11
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2004,NA,7.26,NA,7.26
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2004,NA,7.54,NA,7.54
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2004,NA,4.25,NA,4.25
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2004,NA,16.84,NA,16.84
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2004,NA,14,NA,14
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2004,NA,10.8,NA,8.2
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2004,NA,6.1,NA,8.2
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2004,NA,6.6,NA,10.8
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2004,NA,9.8,NA,9.8
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2004,NA,11.94,NA,11.94
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2004,NA,9.3,NA,14.5
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2004,NA,3.6,NA,8.1
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2004,NA,8.8,NA,8
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2004,NA,9.2,NA,9.2
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2004,NA,18,NA,18
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2004,NA,6.2,NA,8.2
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2004,NA,2.3,NA,10.05
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2004,NA,13.7,NA,15.1
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2004,NA,8.75,NA,9.5
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2004,NA,11.65,NA,11.65
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2004,NA,3.6,NA,8.8
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2004,NA,5.5,NA,5.5
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2004,NA,NA,NA,18.2
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2004,NA,8,NA,8
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2004,NA,9.1,NA,9.1
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2004,NA,12.45,NA,12.45
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2003,NA,NA,7.3,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2003,NA,NA,20.22,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2003,12.29,10.2,8.93,NA
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2003,NA,8.27,9,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2003,9.07,9.32,4.27,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2003,NA,11.6,11.8,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2003,NA,NA,7.54,NA
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2003,3.23,2.85,1.53,NA
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2003,13.53,8.05,5.39,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2003,NA,NA,14,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2003,NA,NA,10.8,6.87
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2003,4.32,4.58,4.32,6.15
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2003,6.22,11.42,6.02,NA
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2003,5.97,2.68,3.74,NA
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2003,4.26,5.4,5.12,NA
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2003,8.42,5.55,6.56,NA
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2003,4.4,1.67,2.23,5.88
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2003,9.05,3.52,4.87,6
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2003,NA,NA,9.2,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2003,17.92,14.67,15.53,NA
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2003,5.2,4.7,4.87,5.61
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2003,1.02,1.58,1.64,NA
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2003,12.22,10.3,9.6,8.25
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2003,3.13,2.3,3.2,8.38
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2003,NA,NA,11.65,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2003,3.66,3.68,3.3,NA
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2003,NA,NA,5.5,NA
+MS,Sangli,Madhavnagar,Jat,17.2,75.5,Utgi,"Bore Well",W07434,2003,16.03,NA,8.24,15.6
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2003,8.82,6.88,6.83,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2003,NA,8.23,9.1,NA
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2003,NA,NA,12.45,NA
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2002,6.45,3.8,NA,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.1375,74.85833333,Tisangi,"Bore Well",W07437,2002,16.2,NA,NA,NA
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2002,8.2,6.6,8.98,9.14
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2002,7.1,5.8,6.6,7
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2002,9.55,7,4.53,9.71
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2002,NA,NA,NA,9.58
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2002,6.05,5.4,6.32,NA
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2002,1.5,'0.7,1.68,4.6
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2002,4.8,4.7,5.23,7.92
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2002,11.67,10.7,12.57,12.95
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2002,NA,7.1,NA,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2002,2.75,2.1,3.14,4
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2002,6.2,5.5,11.37,10
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2002,2.35,NA,5.36,NA
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2002,2.65,3,4.53,6.24
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2002,5.85,2,4.91,6.04
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2002,1.96,1.8,1.35,4.18
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2002,4.48,3.4,2.24,5.27
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2002,16.15,11.1,13.26,13.42
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2002,3.15,2.7,4.24,5.2
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2002,1.1,1.4,1.17,3.82
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2002,9.42,2,8.41,13.03
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2002,1.98,2,1.2,2.9
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2002,9,6,9.73,8.15
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2002,3.7,1.7,3.36,4.45
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2002,NA,3.4,NA,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2002,6.4,5.7,5.78,7.63
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2002,8,5.8,7.96,7.32
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2002,10.65,7.5,9.82,9.15
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2001,NA,4,3.4,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2001,8.24,5.3,5.26,7.8
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2001,10.37,7.6,6.9,9.9
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2001,9.4,6,4.71,6.05
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2001,9.02,7,2.15,9.8
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2001,6.27,NA,5.35,7.9
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2001,2.55,'0.8,1.93,NA
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2001,7.96,5.6,3.41,8.45
+MS,Sangli,Vita,Palus,17.07916667,74.5,Bambwade-2,"Bore Well",W17640,2001,NA,NA,NA,13.4
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2001,13.46,NA,7.65,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2001,NA,6.7,3.22,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2001,3.65,3.3,2.75,4.7
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2001,6.3,6,4.65,8.6
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2001,NA,4.6,NA,NA
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2001,3.25,7,3.92,11.4
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2001,5.1,NA,1.89,9.8
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2001,1.9,2,2.2,6
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2001,6.29,NA,3.77,5.8
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2001,NA,NA,6.16,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2001,17.6,11.8,10.7,17.4
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2001,2.7,2.5,2.88,5.1
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2001,1.5,2,1.85,3.1
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2001,10.22,11,6.59,13.4
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2001,6.29,3,2.63,NA
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2001,NA,7.9,6.85,NA
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.41666667,Madagyal,"Dug Well",W07431,2001,NA,NA,9.16,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2001,3.35,NA,2.5,3.7
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2001,NA,2.2,3.1,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2001,6.09,6.7,4.2,8.35
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2001,NA,6.7,6.7,8
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,2000,2.81,3.25,NA,NA
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,2000,6.45,6.4,6.6,7.3
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,2000,6.3,6.88,6.1,5.8
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,2000,4.92,3.34,4.2,7.56
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,2000,5,6.5,3.9,10.51
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,2000,9.5,5.8,NA,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,2000,6,4.08,3.49,4.62
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,2000,'0.93,'0.98,NA,2.73
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,2000,4.55,3.25,2.8,4.08
+MS,Sangli,Vita,Tasgaon,16.98333333,74.61666667,Kawath-e-kand,"Dug Well",W17641,2000,NA,NA,NA,5.8
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,2000,5,4.8,4.75,4.08
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,2000,2.5,2.4,1.4,5.14
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,2000,5.75,6,5.3,8.15
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,2000,4.62,4.2,NA,10.12
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,2000,4.9,3.25,3.95,6.36
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,2000,4.3,2.25,2.3,5.64
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,2000,1.22,1.31,'0.9,3.02
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,2000,2.2,2.8,2.52,2.36
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,2000,6.8,4.62,7.85,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,2000,12.5,10.68,10,16.15
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,2000,3.12,2.6,1.8,5.18
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,2000,1.1,1.26,1.6,2.88
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,2000,10.25,6.02,7.8,10.27
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,2000,1.34,3.85,1.1,5.56
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,2000,10.05,7.63,8.5,9.56
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.41666667,Madagyal,"Dug Well",W07431,2000,3.4,4.08,4.7,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,2000,1.12,'0.65,1.45,3.71
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,2000,1.82,1.7,1.7,4.59
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,2000,4.52,6.4,5.45,8.28
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,2000,6.7,3.8,5.35,5.27
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,2000,12.15,11.7,11.8,13.43
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,1999,5.08,4.6,5.1,4.7
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,1999,4.85,4.24,2.6,5.2
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,1999,6.45,6.4,5.6,7.2
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,1999,2.96,2.1,3.5,3.3
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,1999,2.45,'0.6,NA,2.55
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,1999,5.6,4.98,4.37,4.85
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,1999,7.28,1.85,3.28,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,1999,12.75,9.75,10.22,12.8
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,1999,3.68,2.52,NA,6.3
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,1999,7.28,4.1,2.95,6.1
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,1999,2.8,2.56,3.91,3.05
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,1999,7.28,5.2,4.6,6.8
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,1999,3.37,5.85,NA,NA
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,1999,NA,1.7,1.45,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,1999,8.6,10.43,5.65,14.9
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,1999,2.8,1.48,1.15,8.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,1999,5.83,6.28,NA,9
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.41666667,Madagyal,"Dug Well",W07431,1999,4.74,3.38,4.2,4.2
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,1999,1.68,1.8,1.29,3.85
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,1999,7.45,6.35,7.7,NA
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,1999,6.55,3.9,2.2,6.75
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,1999,2.18,1.9,4.4,2.5
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,1999,NA,4.48,4.38,NA
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,1999,4.17,6.8,10.02,12.2
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,1999,7.37,6.56,6.17,8.1
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,1999,1.15,1.65,1.2,2.25
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,1999,4.4,2.13,3.15,3.05
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,1999,2.35,2.55,2.05,3.2
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,1999,1.75,2.6,3.38,2.45
+MS,Sangli,Vita,Tasgaon,16.98333333,74.61666667,Kawath-e-kand,"Dug Well",W17641,1999,NA,NA,NA,3.5
+MS,Sangli,Vita,Palus,17.07916667,74.5,Bambwade-2,"Bore Well",W17640,1999,NA,NA,3.9,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,1999,5.54,6.1,3.3,7.7
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,1998,2.8,3.85,2.15,11
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,1998,3.6,5.45,4.7,10.8
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,1998,3.35,3.05,1.15,5.6
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,1998,4.62,6.65,3.3,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,1998,11.94,11.75,6.45,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,1998,6.1,6.05,2.75,6.1
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,1998,2.37,7.36,2.4,7.5
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,1998,2.5,2.85,1.2,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,1998,2.75,3.3,1.1,3.3
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.41666667,Madagyal,"Dug Well",W07431,1998,4.22,4.75,1.55,NA
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,1998,9.07,8.2,5.8,9.6
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,1998,5.67,1.3,1.1,8.1
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,1998,10.24,5.3,5.2,11.9
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,1998,1.2,1.8,1,2.75
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,1998,2,2.25,2,4.4
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,1998,2.7,6.1,2.45,6.3
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,1998,NA,1.85,'0.4,2.6
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,1998,NA,5.7,2.9,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,1998,NA,6.15,2.95,NA
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,1998,NA,5.65,3.75,5.7
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,1998,5.87,7.15,2.15,6.4
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,1998,7.7,6.9,5.55,9.6
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,1998,5.83,7.3,5.8,10.2
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,1998,3.3,5.15,NA,7.6
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,1998,6.3,10.45,9.05,15.45
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,1998,4.38,NA,2.2,NA
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,1998,4.51,2.4,1.55,3.6
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,1998,1.69,1.65,'0.95,3.75
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,1998,4.03,6.35,'0.5,6.25
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,1998,3.5,2.8,1.6,4
+MS,Sangli,Vita,Tasgaon,16.98333333,74.61666667,Kawath-e-kand,"Dug Well",W17641,1998,4.45,4.4,2.1,4.1
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,1997,4.1,2.8,2.97,4.4
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,1997,'0.78,1.6,1.09,3.8
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,1997,2.65,2.9,1.1,3.8
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,1997,NA,5.7,NA,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,1997,14.91,10.4,9.87,15.45
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,1997,4.44,2.3,4.19,6.45
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,1997,2.59,6.75,6.85,9.3
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,1997,7.57,3.25,6.37,8.55
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,1997,4.55,4.05,3.74,6.2
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,1997,5.85,6.1,2.69,9.65
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,1997,5.82,5.2,NA,8.7
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,1997,5.53,5.3,3.94,7.2
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,1997,2.67,2.15,2.46,3
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,1997,5.02,4.1,4.72,7.3
+MS,Sangli,Vita,Tasgaon,16.98333333,74.61666667,Kawath-e-kand,"Dug Well",W17641,1997,3.45,4,3.89,4.4
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,1997,1.85,2.4,2.38,4.2
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,1997,1.02,1.7,1.78,1.65
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,1997,3.46,5.45,4.92,3.8
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,1997,1.42,1.75,1.02,8.35
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,1997,8.39,7,7.85,7.95
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.41666667,Madagyal,"Dug Well",W07431,1997,4.6,3.75,4.18,4.55
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,1997,2.79,1.45,2.25,3.4
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,1997,NA,2.1,2.23,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,1997,7.36,5.15,5.22,6.85
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,1997,4.74,4,3.32,5.55
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,1997,10.49,10.5,10.95,12.75
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,1997,6.56,4.65,5.2,7.4
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,1997,3.13,2.7,3.04,4.7
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,1997,4.36,6.1,5.17,8.8
+MS,Sangli,Tasgaon,Miraj,16.83333333,74.63333333,Miraj,"Dug Well",W07442,1997,NA,5.7,NA,NA
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,1997,4.48,4.7,6.65,NA
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,1997,4.37,2.05,3.36,5.2
+MS,Sangli,Vita,Tasgaon,17.05,74.61666667,Tasgaon,"Dug Well",W07445,1996,13.1,13.7,11.1,12.6
+MS,Sangli,Vita,Walwa,17.13055556,74.36333333,Takari,"Dug Well",W07444,1996,5.47,5.24,4,6.6
+MS,Sangli,Ashta,Walwa,16.95361111,74.40944444,Ashta,"Dug Well",W17627,1996,2.1,3,'0.5,3.1
+MS,Sangli,Budhgaon,Atpadi,17.41666667,74.93333333,Atpadi,"Dug Well",W17628,1996,3.77,4.05,1,2.7
+MS,Sangli,Budhgaon,Atpadi,17.29083333,74.84916667,Gomewadi,"Dug Well",W17629,1996,NA,NA,4.4,NA
+MS,Sangli,Madhavnagar,Jat,16.94583333,75.18333333,Bilur,"Dug Well",W17630,1996,12.3,12.38,9,15.85
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.58333333,Borgi,"Dug Well",W17631,1996,3.97,7.85,1.2,NA
+MS,Sangli,Madhavnagar,Jat,17,75.07361111,Daphlapur,"Dug Well",W17632,1996,7.16,8.6,5.3,9.1
+MS,Sangli,Madhavnagar,Jat,17.05,75.21666667,Jath,"Dug Well",W17633,1996,4.7,5.7,3.3,8.95
+MS,Sangli,Madhavnagar,Jat,17.10833333,75.11805556,Kumbhari,"Dug Well",W17634,1996,6.95,6.75,2.65,7.1
+MS,Sangli,Manadur,Kavathe-mahankal,17.01666667,74.775,Alkud,"Dug Well",W17635,1996,4.1,11.25,2.05,9.85
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.36666667,74.36666667,Belavade,"Dug Well",W17636,1996,6.8,7.19,3.7,NA
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.3,74.36666667,Kadepur,"Dug Well",W17637,1996,5.77,6.8,2.5,NA
+MS,Sangli,Tasgaon,Miraj,16.7875,74.81666667,Arag,"Dug Well",W17638,1996,3.7,2.13,1.2,1.25
+MS,Sangli,Vita,Palus,17.08611111,74.49583333,Bambwade-1,"Dug Well",W17639,1996,4.6,4.86,1.7,5.65
+MS,Sangli,Vita,Tasgaon,16.98333333,74.61666667,Kawath-e-kand,"Dug Well",W17641,1996,4.9,5.4,2.8,4.4
+MS,Sangli,Ashta,Walwa,17.05083333,74.23333333,Peth,"Dug Well",W07426,1996,2.8,3.32,1.85,3.35
+MS,Sangli,Ashta,Walwa,17.10194444,74.15138889,Wategaon,"Dug Well",W07427,1996,2.07,2.2,1.15,3.3
+MS,Sangli,Ashta,Walwa,16.97083333,74.28777778,Yednipani,"Dug Well",W07428,1996,5.5,7.95,2.9,16.9
+MS,Sangli,Budhgaon,Atpadi,17.54166667,74.95833333,Umbargaon,"Dug Well",W07429,1996,3,3.85,1.1,9.75
+MS,Sangli,Budhgaon,Atpadi,17.48055556,74.72222222,Vibhutwadi,"Dug Well",W07430,1996,3,9.57,6.7,8.95
+MS,Sangli,Madhavnagar,Jat,17.13333333,75.41666667,Madagyal,"Dug Well",W07431,1996,4.01,5.73,2.2,NA
+MS,Sangli,Madhavnagar,Jat,17.16388889,75.17916667,Shegaon,"Dug Well",W07432,1996,3.3,4.15,2.6,3.3
+MS,Sangli,Madhavnagar,Jat,17.225,75.15833333,Singanhalli,"Dug Well",W07433,1996,3.3,5.8,2.4,NA
+MS,Sangli,Madhavnagar,Jat,17.05833333,75.31666667,Valsang,"Dug Well",W07435,1996,5.1,7.08,2.8,8
+MS,Sangli,Manadur,Kavathe-mahankal,17.15,74.97361111,Nimaj,"Dug Well",W07436,1996,10.73,6.96,2.6,7.05
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.4,74.53333333,Mahuli,"Dug Well",W07438,1996,12.1,13.5,6.5,13.5
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.21666667,74.81666667,Palashi,"Dug Well",W07439,1996,5.2,6.15,4.1,6.05
+MS,Sangli,"Sangli-miraj And Kupwad",Khanapur,17.28333333,74.53333333,Vita,"Dug Well",W07440,1996,3.3,3.7,1,4.95
+MS,Sangli,"Sangli-miraj And Kupwad",Kadegaon,17.23333333,74.38333333,Wangi,"Dug Well",W07441,1996,5.7,7.4,4.4,11.78
+MS,Sangli,Tasgaon,Miraj,16.83333333,74.63333333,Miraj,"Dug Well",W07442,1996,6.1,NA,NA,6.65
+MS,Sangli,Vita,Palus,17.13333333,74.46666667,Panmalewadi,"Dug Well",W07443,1996,4.5,4.9,'0.75,5.55
+MS,Sangli,Vita,Palus,17.06666667,74.51666667,Yevali,"Dug Well",W07446,1996,5.37,4.2,1.35,11.8

@@ -1,0 +1,1254 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+OD,Puri,SADAR,Sadar,19.79833333,85.81361111,"P-07 Gauda Bada Sahi","Dug Well",W33149,2018,2.39,4.69,NA,NA
+OD,Puri,SADAR,Sadar,19.81305556,85.81472222,"P-46 Behrasahi","Dug Well",W33151,2018,'0.74,'0.14,NA,NA
+OD,Puri,"KAKAT PUR","Kakat Pur",19.99944444,86.19444444,"Kakatpur Ii","Dug Well",W33152,2018,3.15,4.25,NA,NA
+OD,Puri,Nimapada,Nimapada,20.05444444,86.00333333,Nimapara,"Dug Well",W26300,2018,NA,NA,1.82,3.6
+OD,Puri,Sadar,Sadar,19.80416667,85.80638889,"P-06 Chhapana Chhak","Dug Well",W26197,2018,1.3,NA,NA,1.25
+OD,Puri,Sadar,Sadar,19.82416667,85.85416667,"P-21 Sriram Talkies Chhak","Dug Well",W26224,2018,'0.3,NA,NA,NA
+OD,Puri,Nimapada,Gop,20.04166667,86.075,Chhanijanga,"Dug Well",W26290,2018,'0.65,NA,NA,3.85
+OD,Puri,Pipil,Pipil,20.11555556,85.83388889,Pipli,"Dug Well",W26324,2018,1.63,NA,NA,1.38
+OD,Puri,Sadar,Sadar,19.81027778,85.83888889,"P-45 Balipur","Dug Well",W31233,2018,NA,1.72,NA,NA
+OD,Puri,SADAR,Sadar,19.80305556,85.82583333,"P-47 Ramchandisahi","Dug Well",W33150,2018,NA,5,NA,NA
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2018,'0.94,1.77,NA,NA
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2018,'0.79,1.68,NA,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2018,'0.3,1.8,NA,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2018,'0.86,2,NA,NA
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2018,'0.45,1,NA,NA
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2018,1.17,3.62,NA,NA
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2018,1.08,1.58,NA,NA
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2018,'0.65,'0.2,NA,NA
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2018,'0.66,1.81,NA,NA
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2018,1.62,2.48,NA,NA
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2018,'0.85,2.2,NA,NA
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2018,5.48,6.08,NA,NA
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2018,'0.78,1.88,NA,NA
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2018,1.62,2.93,NA,NA
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2018,'0.33,1.78,NA,NA
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2018,1.4,1.9,NA,NA
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2018,1.06,2.6,NA,NA
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2018,'0.29,'0.81,NA,NA
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2018,6.19,8.89,NA,NA
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2018,NA,1.68,NA,NA
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2018,NA,1.7,NA,NA
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2018,2.35,NA,NA,6.88
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2018,'0.3,NA,NA,1.8
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2018,'0.18,NA,NA,1.19
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2018,'0.54,NA,NA,1.69
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2018,NA,NA,NA,'0.48
+OD,Puri,Sadar,Sadar,19.81222222,85.81333333,"P-38 Gosala","Dug Well",W26211,2018,NA,7.37,7.47,NA
+OD,Puri,Sadar,Sadar,19.81416667,85.82694444,"P-16 Narendra Kona","Dug Well",W26217,2018,NA,1.5,1.4,NA
+OD,Puri,Sadar,Sadar,19.81805556,85.83055556,"P-35 Indira Mark Colony","Dug Well",W26221,2018,NA,4.1,3.75,NA
+OD,Puri,Sadar,Brahmagiri,19.79527778,85.78333333,"P-32 Gobardhan Matha","Dug Well",W26191,2018,2.48,4.42,NA,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.79861111,85.66527778,Brahmagiri,"Dug Well",W26193,2018,'0.04,1.19,NA,NA
+OD,Puri,Sadar,Sadar,19.80111111,85.81861111,"P-31 Sweta Ganga","Dug Well",W26194,2018,3.05,4.9,NA,NA
+OD,Puri,Sadar,Sadar,19.80388889,85.81111111,"P-05 Kusuni Khuntia","Dug Well",W26196,2018,'0.95,1.75,NA,NA
+OD,Puri,Sadar,Sadar,19.80555556,85.85083333,"P-12 ITI Chhak","Dug Well",W26200,2018,1.45,4.25,NA,NA
+OD,Puri,Sadar,Sadar,19.80583333,85.84222222,"P-11 Sadar Block Colony","Dug Well",W26201,2018,1.3,3.65,NA,NA
+OD,Puri,Sadar,Sadar,19.80694444,85.85666667,"P-13 Shree Vihar Mangal Patna","Dug Well",W26202,2018,3.38,5.3,NA,NA
+OD,Puri,Sadar,Sadar,19.81,85.83055556,"P-03 Police Lane","Dug Well",W26204,2018,'0.35,1.7,NA,NA
+OD,Puri,Sadar,Sadar,19.81055556,85.82472222,"P-37 Jagannatha Ballava Matha","Dug Well",W26205,2018,1,1.2,NA,NA
+OD,Puri,Sadar,Sadar,19.81055556,85.82972222,"P-23 Hara Gouri Sahi","Dug Well",W26206,2018,'0.65,2.05,NA,NA
+OD,Puri,Brahmagiri,Sadar,19.81111111,85.77083333,Girala,"Dug Well",W26207,2018,'0.35,1.75,NA,NA
+OD,Puri,Sadar,Sadar,19.81194444,85.82805556,"P-41 Grand Road","Dug Well",W26210,2018,2.84,4.24,NA,NA
+OD,Puri,Brahmagiri,Sadar,19.8125,85.76222222,Alipada,"Dug Well",W26212,2018,1.21,2.65,NA,NA
+OD,Puri,Sadar,Sadar,19.8125,85.83222222,"P-24 Balagandi","Dug Well",W26213,2018,3.5,4.95,NA,NA
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,Totasahi,"Dug Well",W26215,2018,1.3,2.3,NA,NA
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,"P-18 Tota Sahi","Dug Well",W26216,2018,1.3,2.3,NA,NA
+OD,Puri,Sadar,Sadar,19.81555556,85.83194444,"P-36 Kumbharapada","Dug Well",W26218,2018,2,3.05,NA,NA
+OD,Puri,Sadar,Sadar,19.81916667,85.84694444,"P-34 Sidha Mahavir","Dug Well",W26222,2018,'0.98,1.4,NA,NA
+OD,Puri,Sadar,Sadar,19.82305556,85.87083333,"P-33 Sorbodaya Nagar","Dug Well",W26223,2018,1.35,2.24,NA,NA
+OD,Puri,Sadar,Sadar,19.83361111,85.83611111,"P-01 Krupa Sindura Patna","Dug Well",W26230,2018,2.6,3.2,NA,NA
+OD,Puri,Sadar,Sadar,19.87666667,85.8175,Tulasichoura-Malatipatapur,"Dug Well",W26247,2018,'0.93,1.6,NA,NA
+OD,Puri,Satyabadi,Sadar,19.94138889,85.83222222,Sakhigopal,"Dug Well",W26265,2018,'0.2,'0.85,NA,NA
+OD,Puri,Satyabadi,Satyabadi,19.94916667,85.82277778,Uansdiha,"Dug Well",W26266,2018,'0.68,1.15,NA,NA
+OD,Puri,Pipil,Satyabadi,19.99416667,85.8,Maunimatha,"Dug Well",W26278,2018,'0.77,'0.85,NA,NA
+OD,Puri,"Kakat Pur",Gop,19.88638889,86.09666667,"Konark 1","Dug Well",W26250,2018,'0.75,1.85,NA,NA
+OD,Puri,Nimapada,Nimapada,20.09166667,85.91972222,Garapada,"Dug Well",W26313,2018,1.47,1.97,NA,NA
+OD,Puri,Pipil,Pipil,20.08083333,85.83222222,Dandamukundpur,"Dug Well",W26311,2018,'0.84,3.15,NA,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.78,85.60555556,Gokhara,"Dug Well",W26186,2018,'0.46,1.1,NA,NA
+OD,Puri,Sadar,Sadar,19.80416667,85.8225,"P-43 Dola Mandap Sahi","Dug Well",W32735,2018,5.74,7.94,NA,NA
+OD,Puri,Sadar,Sadar,19.82361111,85.84833333,"P-42 Balighat","Dug Well",W32736,2018,1.07,2.1,NA,NA
+OD,Puri,Nimapada,Nimapada,20.07,86.07166667,Bisimatri,"Dug Well",W32739,2018,1.75,3.3,NA,NA
+OD,Puri,Nimapada,Nimapada,20.11027778,85.87305556,Haripur,"Dug Well",W32742,2018,'0.87,1.9,NA,NA
+OD,Puri,Sadar,Sadar,19.80638889,85.81888889,"P-44 Jagannath Ttemple","Dug Well",W31231,2018,4.81,6.21,NA,NA
+OD,Puri,Sadar,Sadar,19.81666667,85.80638889,"P-19 Kashi Jagannathpur","Dug Well",W31235,2018,'0.76,1.35,NA,NA
+OD,Puri,Sadar,Sadar,19.80555556,85.83972222,"P-10 Rly Station Bazar","Dug Well",W26199,2018,NA,2.1,NA,NA
+OD,Puri,Sadar,Sadar,19.82305556,85.87083333,"P-33 Sorbodaya Nagar","Dug Well",W26223,2017,1.59,2.56,NA,2.7
+OD,Puri,Sadar,Sadar,19.80111111,85.81861111,"P-31 Sweta Ganga","Dug Well",W26194,2017,NA,5.77,NA,5.8
+OD,Puri,Sadar,Sadar,19.80527778,85.83194444,"P-09 VIP Colony","Dug Well",W26198,2017,NA,3.45,NA,4.3
+OD,Puri,Sadar,Sadar,19.81805556,85.83055556,"P-35 Indira Mark Colony","Dug Well",W26221,2017,3.61,4.41,NA,NA
+OD,Puri,Satyabadi,Satyabadi,19.95888889,85.82527778,Kadua,"Dug Well",W26269,2017,NA,3.25,NA,NA
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang-PZ,"Tube Well",W26287,2017,NA,2.18,NA,NA
+OD,Puri,Pipil,Pipil,20.11555556,85.83388889,Pipli,"Dug Well",W26324,2017,NA,3.4,NA,NA
+OD,Puri,Pipil,Pipil,20.08861111,85.80277778,Bantalsingh,"Dug Well",W26312,2017,NA,4.03,NA,NA
+OD,Puri,SADAR,Sadar,19.80305556,85.82583333,"P-47 Ramchandisahi","Dug Well",W33150,2017,5.78,4.85,NA,7
+OD,Puri,Sadar,Sadar,19.80416667,85.8225,"P-43 Dola Mandap Sahi","Dug Well",W32735,2017,NA,8.03,NA,NA
+OD,Puri,Sadar,Sadar,19.81027778,85.83888889,"P-45 Balipur","Dug Well",W31233,2017,NA,1.44,NA,NA
+OD,Puri,Nimapada,Nimapada,20.07,86.07166667,Bisimatri,"Dug Well",W32739,2017,1.57,3.2,1.85,4.8
+OD,Puri,Sadar,Sadar,19.80638889,85.81888889,"P-44 Jagannath Ttemple","Dug Well",W31231,2017,5.76,7.55,5.93,6.51
+OD,Puri,Sadar,Sadar,19.81666667,85.80638889,"P-19 Kashi Jagannathpur","Dug Well",W31235,2017,'0.62,1.55,1.08,2.95
+OD,Puri,Sadar,Sadar,19.82416667,85.85416667,"P-21 Sriram Talkies Chhak","Dug Well",W26224,2017,NA,NA,'0.11,NA
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2017,'0.38,NA,1.4,NA
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2017,'0.18,3.12,NA,2.02
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2017,NA,3.38,NA,2.03
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2017,NA,'0.86,NA,1.6
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2017,NA,3.76,'0.76,2.51
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2017,NA,2.62,'0.26,2.16
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2017,'0.68,4.38,1.6,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2017,NA,2.6,NA,3.12
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2017,NA,3.42,NA,2.4
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2017,NA,2.65,NA,1.08
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2017,1.16,NA,NA,3.81
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2017,NA,1.15,NA,NA
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2017,NA,2.23,NA,NA
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2017,3.09,4.9,3.65,6.88
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2017,'0.5,2.32,1.15,2.45
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2017,'0.53,2.65,1.26,1.96
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2017,'0.35,4.74,1.33,1.73
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2017,'0.42,1.22,'0.7,2
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2017,2.74,5,3.04,2.87
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2017,'0.51,4.39,2.03,3.28
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2017,'0.4,3.25,1.73,2.6
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2017,'0.16,1.25,'0.29,1.94
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2017,5.4,6.32,5.24,5.83
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2017,1.03,2.06,1.4,2.43
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2017,2.64,2.73,2.03,3.78
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2017,1.04,2.87,'0.98,4.88
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2017,'0.45,3.55,'0.9,3.25
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2017,3.94,9.5,7.86,10.89
+OD,Puri,Sadar,Sadar,19.80555556,85.83972222,"P-10 Rly Station Bazar","Dug Well",W26199,2017,1.86,NA,1.8,3.2
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,"P-18 Tota Sahi","Dug Well",W26216,2017,1.67,2.68,2.08,NA
+OD,Puri,Nimapada,Gop,20.04166667,86.075,Chhanijanga,"Dug Well",W26290,2017,'0.2,3.1,'0.93,NA
+OD,Puri,Sadar,Sadar,19.81555556,85.83194444,"P-36 Kumbharapada","Dug Well",W26218,2017,NA,4.19,2.72,NA
+OD,Puri,Sadar,Brahmagiri,19.79527778,85.78333333,"P-32 Gobardhan Matha","Dug Well",W26191,2017,3.57,4.38,3.83,4.62
+OD,Puri,Brahmagiri,Brahmagiri,19.79861111,85.66527778,Brahmagiri,"Dug Well",W26193,2017,'0.54,2.83,'0.83,3.44
+OD,Puri,Sadar,Sadar,19.80388889,85.81111111,"P-05 Kusuni Khuntia","Dug Well",W26196,2017,1.17,2.26,1.63,2.3
+OD,Puri,Sadar,Sadar,19.80416667,85.80638889,"P-06 Chhapana Chhak","Dug Well",W26197,2017,'0.9,2.83,1.6,1.75
+OD,Puri,Sadar,Sadar,19.80555556,85.85083333,"P-12 ITI Chhak","Dug Well",W26200,2017,3.91,4,3.75,4.85
+OD,Puri,Sadar,Sadar,19.80583333,85.84222222,"P-11 Sadar Block Colony","Dug Well",W26201,2017,3.42,3.81,3.15,4.15
+OD,Puri,Sadar,Sadar,19.80694444,85.85666667,"P-13 Shree Vihar Mangal Patna","Dug Well",W26202,2017,5.42,5.62,5.4,6.6
+OD,Puri,Sadar,Sadar,19.81,85.83055556,"P-03 Police Lane","Dug Well",W26204,2017,1.12,2.05,1.3,2.1
+OD,Puri,Sadar,Sadar,19.81055556,85.82472222,"P-37 Jagannatha Ballava Matha","Dug Well",W26205,2017,1.55,'0.71,2.35,2.8
+OD,Puri,Sadar,Sadar,19.81055556,85.82972222,"P-23 Hara Gouri Sahi","Dug Well",W26206,2017,1.17,2.48,1.63,1.85
+OD,Puri,Brahmagiri,Sadar,19.81111111,85.77083333,Girala,"Dug Well",W26207,2017,'0.37,2.48,1,2.65
+OD,Puri,Sadar,Sadar,19.81194444,85.82805556,"P-41 Grand Road","Dug Well",W26210,2017,3.56,4.88,3.79,4.94
+OD,Puri,Sadar,Sadar,19.81222222,85.81333333,"P-38 Gosala","Dug Well",W26211,2017,6.29,7.65,7.17,7.27
+OD,Puri,Brahmagiri,Sadar,19.8125,85.76222222,Alipada,"Dug Well",W26212,2017,'0.95,2.8,1.67,3.05
+OD,Puri,Sadar,Sadar,19.8125,85.83222222,"P-24 Balagandi","Dug Well",W26213,2017,4.7,5.07,4.45,5.7
+OD,Puri,Sadar,Sadar,19.81916667,85.84694444,"P-34 Sidha Mahavir","Dug Well",W26222,2017,'0.88,1.72,1.2,2.7
+OD,Puri,Sadar,Sadar,19.83361111,85.83611111,"P-01 Krupa Sindura Patna","Dug Well",W26230,2017,1.88,3.46,2.92,3.5
+OD,Puri,Sadar,Sadar,19.87666667,85.8175,Tulasichoura-Malatipatapur,"Dug Well",W26247,2017,'0.92,1.7,1.52,2.2
+OD,Puri,Satyabadi,Sadar,19.94138889,85.83222222,Sakhigopal,"Dug Well",W26265,2017,'0.03,3.38,'0.72,2.45
+OD,Puri,"Kakat Pur",Gop,19.88638889,86.09666667,"Konark 1","Dug Well",W26250,2017,1.56,4.15,1.35,3.25
+OD,Puri,Nimapada,Nimapada,20.09166667,85.91972222,Garapada,"Dug Well",W26313,2017,1,4.28,1.62,3.87
+OD,Puri,Pipil,Pipil,20.08083333,85.83222222,Dandamukundpur,"Dug Well",W26311,2017,'0.33,4.36,1.1,3.9
+OD,Puri,Brahmagiri,Brahmagiri,19.78,85.60555556,Gokhara,"Dug Well",W26186,2017,'0.56,2,'0.75,2.3
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,Totasahi,"Dug Well",W26215,2017,NA,2.68,2.08,3.7
+OD,Puri,Sadar,Sadar,19.81416667,85.82694444,"P-16 Narendra Kona","Dug Well",W26217,2017,NA,1.45,'0.92,2.2
+OD,Puri,Satyabadi,Satyabadi,19.94916667,85.82277778,Uansdiha,"Dug Well",W26266,2017,NA,3.15,1.06,1.7
+OD,Puri,Pipil,Satyabadi,19.99416667,85.8,Maunimatha,"Dug Well",W26278,2017,NA,1.14,'0.3,2.1
+OD,Puri,SADAR,Sadar,19.79833333,85.81361111,"P-07 Gauda Bada Sahi","Dug Well",W33149,2017,4.88,5.7,4.54,4.89
+OD,Puri,SADAR,Sadar,19.81305556,85.81472222,"P-46 Behrasahi","Dug Well",W33151,2017,'0.09,'0.45,1.14,1.54
+OD,Puri,"KAKAT PUR","Kakat Pur",19.99944444,86.19444444,"Kakatpur Ii","Dug Well",W33152,2017,2.73,3.1,3.58,4.9
+OD,Puri,Sadar,Sadar,19.82361111,85.84833333,"P-42 Balighat","Dug Well",W32736,2017,NA,1.1,1.3,2.55
+OD,Puri,Nimapada,Nimapada,20.11027778,85.87305556,Haripur,"Dug Well",W32742,2017,NA,2.45,1.03,4.15
+OD,Puri,Satyabadi,Satyabadi,19.94916667,85.82277778,Uansdiha,"Dug Well",W26266,2016,1.05,2.8,'0.8,2.4
+OD,Puri,Satyabadi,Satyabadi,19.95888889,85.82527778,Kadua,"Dug Well",W26269,2016,NA,3,NA,NA
+OD,Puri,Gop,Gop,19.98194444,86.01805556,Gop,"Dug Well",W26274,2016,NA,5.05,NA,NA
+OD,Puri,Pipil,Satyabadi,19.99416667,85.8,Maunimatha,"Dug Well",W26278,2016,'0.6,3.25,2.8,2.2
+OD,Puri,Nimapada,Gop,20.04166667,86.075,Chhanijanga,"Dug Well",W26290,2016,2.75,5.2,4.25,4
+OD,Puri,Nimapada,Nimapada,20.05444444,86.00333333,Nimapara,"Dug Well",W26300,2016,2.45,5.9,NA,NA
+OD,Puri,Pipil,Pipil,20.08083333,85.83222222,Dandamukundpur,"Dug Well",W26311,2016,1.4,4,3.7,5.95
+OD,Puri,Pipil,Pipil,20.08861111,85.80277778,Bantalsingh,"Dug Well",W26312,2016,1.4,4.04,4,NA
+OD,Puri,Nimapada,Nimapada,20.09166667,85.91972222,Garapada,"Dug Well",W26313,2016,1.55,4,3.15,5.3
+OD,Puri,Pipil,Pipil,20.11555556,85.83388889,Pipli,"Dug Well",W26324,2016,1.35,5.15,3.6,5.15
+OD,Puri,Jatani,Pipil,20.14527778,85.74861111,Budhapada,"Dug Well",W26342,2016,NA,3.25,NA,NA
+OD,Puri,Sadar,Sadar,19.79888889,85.82583333,"P-28 Gopal Ballava","Dug Well",W31227,2016,NA,NA,2.1,NA
+OD,Puri,Sadar,Sadar,19.805,85.83277778,"P-26 VIP Road","Dug Well",W31229,2016,NA,NA,3,NA
+OD,Puri,Sadar,Sadar,19.80638889,85.81888889,"P-44 Jagannath Ttemple","Dug Well",W31231,2016,8.18,6.4,5.9,NA
+OD,Puri,Sadar,Sadar,19.81027778,85.83888889,"P-45 Balipur","Dug Well",W31233,2016,1.31,2.43,2.95,NA
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Sakhigopal,"Dug Well",W31238,2016,'0.85,NA,NA,NA
+OD,Puri,Sadar,Sadar,19.80416667,85.8225,"P-43 Dola Mandap Sahi","Dug Well",W32735,2016,7.75,NA,2.35,8.65
+OD,Puri,Sadar,Sadar,19.82361111,85.84833333,"P-42 Balighat","Dug Well",W32736,2016,'0.72,NA,1.65,1.8
+OD,Puri,Nimapada,Nimapada,20.07,86.07166667,Bisimatri,"Dug Well",W32739,2016,1.5,NA,2.7,5.1
+OD,Puri,Nimapada,Nimapada,20.11027778,85.87305556,Haripur,"Dug Well",W32742,2016,'0.9,NA,2.1,4.15
+OD,Puri,SADAR,Sadar,19.79833333,85.81361111,"P-07 Gauda Bada Sahi","Dug Well",W33149,2016,5.53,NA,NA,NA
+OD,Puri,SADAR,Sadar,19.80305556,85.82583333,"P-47 Ramchandisahi","Dug Well",W33150,2016,4.45,NA,5.95,NA
+OD,Puri,SADAR,Sadar,19.81305556,85.81472222,"P-46 Behrasahi","Dug Well",W33151,2016,'0.23,NA,1.6,NA
+OD,Puri,"KAKAT PUR","Kakat Pur",19.99944444,86.19444444,"Kakatpur Ii","Dug Well",W33152,2016,1.5,NA,2.8,NA
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2016,1.2,NA,1.6,4.4
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2016,2.2,NA,3,4.35
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2016,1.3,NA,2.2,3.1
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2016,'0.95,NA,2.8,2.7
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2016,1.1,NA,2.1,3.4
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2016,'0.8,NA,1.95,2.85
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2016,2.1,NA,4.7,NA
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2016,'0.45,NA,1.75,2.1
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2016,'0.75,NA,1.1,1.8
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2016,'0.85,NA,1.7,2.6
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2016,1.45,NA,2.7,4
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2016,'0.7,NA,2,3.7
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2016,NA,NA,2.75,3.4
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2016,1,NA,2,2.4
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2016,3.25,NA,5.3,7
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2016,1.15,NA,2,3.6
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2016,1,NA,2.5,4.45
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2016,1.7,NA,3.15,4.8
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2016,'0.3,NA,1.7,2.1
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2016,'0.4,NA,1.05,1.7
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2016,2.25,NA,3.85,5.6
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2016,1.05,NA,2.8,3.35
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2016,1.2,NA,1.6,2.3
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2016,'0.9,NA,2.4,3.9
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2016,1.2,NA,3,NA
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2016,'0.95,NA,2.75,3.35
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2016,'0.8,NA,1.8,1.85
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2016,'0.5,NA,1.45,1.85
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2016,6,NA,7.4,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.78,85.60555556,Gokhara,"Dug Well",W26186,2016,1,1.9,1.7,2.35
+OD,Puri,Sadar,Brahmagiri,19.79527778,85.78333333,"P-32 Gobardhan Matha","Dug Well",W26191,2016,4.1,4.65,3.8,4.97
+OD,Puri,Sadar,Sadar,19.79527778,85.8125,"P-39 Athara Nala","Dug Well",W26192,2016,'0.51,'0.91,3.55,1.31
+OD,Puri,Brahmagiri,Brahmagiri,19.79861111,85.66527778,Brahmagiri,"Dug Well",W26193,2016,'0.9,2.7,2.15,3.4
+OD,Puri,Sadar,Sadar,19.80111111,85.81861111,"P-31 Sweta Ganga","Dug Well",W26194,2016,5.48,NA,2.1,NA
+OD,Puri,Sadar,Sadar,19.80388889,85.81111111,"P-05 Kusuni Khuntia","Dug Well",W26196,2016,1.81,2.15,2.1,3.26
+OD,Puri,Sadar,Sadar,19.80416667,85.80638889,"P-06 Chhapana Chhak","Dug Well",W26197,2016,2.41,1.73,1.8,2.52
+OD,Puri,Sadar,Sadar,19.80527778,85.83194444,"P-09 VIP Colony","Dug Well",W26198,2016,2.83,2.8,2.15,NA
+OD,Puri,Sadar,Sadar,19.80555556,85.83972222,"P-10 Rly Station Bazar","Dug Well",W26199,2016,NA,1.88,1.8,NA
+OD,Puri,Sadar,Sadar,19.80555556,85.85083333,"P-12 ITI Chhak","Dug Well",W26200,2016,3.5,4.26,2.3,5.03
+OD,Puri,Sadar,Sadar,19.80583333,85.84222222,"P-11 Sadar Block Colony","Dug Well",W26201,2016,3.16,3.25,1.5,4.22
+OD,Puri,Sadar,Sadar,19.80694444,85.85666667,"P-13 Shree Vihar Mangal Patna","Dug Well",W26202,2016,4.85,6.46,3.9,6.95
+OD,Puri,Sadar,Sadar,19.81,85.83055556,"P-03 Police Lane","Dug Well",W26204,2016,1.68,1.38,1.8,2.13
+OD,Puri,Sadar,Sadar,19.81055556,85.82472222,"P-37 Jagannatha Ballava Matha","Dug Well",W26205,2016,'0.66,'0.56,2,1.73
+OD,Puri,Sadar,Sadar,19.81055556,85.82972222,"P-23 Hara Gouri Sahi","Dug Well",W26206,2016,2.48,'0.02,2.3,2.94
+OD,Puri,Brahmagiri,Sadar,19.81111111,85.77083333,Girala,"Dug Well",W26207,2016,'0.9,2.3,2.15,2.8
+OD,Puri,Sadar,Sadar,19.81194444,85.82805556,"P-41 Grand Road","Dug Well",W26210,2016,4.63,3.17,4.8,4.78
+OD,Puri,Sadar,Sadar,19.81222222,85.81333333,"P-38 Gosala","Dug Well",W26211,2016,7.48,7.35,8.3,8.1
+OD,Puri,Brahmagiri,Sadar,19.8125,85.76222222,Alipada,"Dug Well",W26212,2016,1.1,2.7,2.1,3.3
+OD,Puri,Sadar,Sadar,19.8125,85.83222222,"P-24 Balagandi","Dug Well",W26213,2016,5.07,4.12,5.6,5.1
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,Totasahi,"Dug Well",W26215,2016,1.2,2.7,2.2,5.4
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,"P-18 Tota Sahi","Dug Well",W26216,2016,'0.57,3.12,1.3,4.46
+OD,Puri,Sadar,Sadar,19.81416667,85.82694444,"P-16 Narendra Kona","Dug Well",W26217,2016,1.12,NA,1.3,2.26
+OD,Puri,Sadar,Sadar,19.81555556,85.83194444,"P-36 Kumbharapada","Dug Well",W26218,2016,3.64,2.7,3.2,3.73
+OD,Puri,Sadar,Sadar,19.81722222,85.83944444,"P-02 Matiapada","Dug Well",W26219,2016,NA,3.08,2.45,2.4
+OD,Puri,Sadar,Sadar,19.81777778,85.85361111,"P-22 Talabania","Dug Well",W26220,2016,NA,'0.22,NA,2.12
+OD,Puri,Sadar,Sadar,19.81805556,85.83055556,"P-35 Indira Mark Colony","Dug Well",W26221,2016,4.06,3.51,4.7,5.11
+OD,Puri,Sadar,Sadar,19.81916667,85.84694444,"P-34 Sidha Mahavir","Dug Well",W26222,2016,1.54,1.46,2.7,2.64
+OD,Puri,Sadar,Sadar,19.82305556,85.87083333,"P-33 Sorbodaya Nagar","Dug Well",W26223,2016,2.33,1.86,2.1,2.9
+OD,Puri,Sadar,Sadar,19.82416667,85.85416667,"P-21 Sriram Talkies Chhak","Dug Well",W26224,2016,NA,'0.36,1.25,NA
+OD,Puri,Sadar,Sadar,19.83361111,85.83611111,"P-01 Krupa Sindura Patna","Dug Well",W26230,2016,2.9,3.09,2.5,3.8
+OD,Puri,Sadar,Sadar,19.87666667,85.8175,Tulasichoura-Malatipatapur,"Dug Well",W26247,2016,1,2.8,2.3,2.2
+OD,Puri,"Kakat Pur",Gop,19.88638889,86.09666667,"Konark 1","Dug Well",W26250,2016,1.2,3.9,2.8,4.1
+OD,Puri,Sadar,Sadar,19.90222222,85.81166667,Birapratappur,"Dug Well",W26256,2016,NA,2.9,NA,NA
+OD,Puri,Satyabadi,Sadar,19.94138889,85.83222222,Sakhigopal,"Dug Well",W26265,2016,NA,3.25,2.2,2.9
+OD,Puri,Sadar,Sadar,19.82416667,85.85416667,"P-21 Sriram Talkies Chhak","Dug Well",W26224,2015,'0.21,'0.45,'0.19,NA
+OD,Puri,Sadar,Sadar,19.83361111,85.83611111,"P-01 Krupa Sindura Patna","Dug Well",W26230,2015,2.84,2.65,2.76,3.74
+OD,Puri,Sadar,Sadar,19.85527778,85.83416667,Batagaon,"Dug Well",W26238,2015,NA,2.8,NA,NA
+OD,Puri,Sadar,Sadar,19.87666667,85.8175,Tulasichoura-Malatipatapur,"Dug Well",W26247,2015,'0.9,2.05,2.4,2.1
+OD,Puri,"Kakat Pur",Gop,19.88638889,86.09666667,"Konark 1","Dug Well",W26250,2015,1.35,2.8,3.1,3.7
+OD,Puri,Sadar,Sadar,19.90222222,85.81166667,Birapratappur,"Dug Well",W26256,2015,1.7,3.05,2.5,2.8
+OD,Puri,Satyabadi,Sadar,19.92027778,85.81805556,Biragobind,"Dug Well",W26261,2015,NA,2.5,NA,NA
+OD,Puri,Satyabadi,Sadar,19.94138889,85.83222222,Sakhigopal,"Dug Well",W26265,2015,'0.85,2.4,3,2
+OD,Puri,Satyabadi,Satyabadi,19.94916667,85.82277778,Uansdiha,"Dug Well",W26266,2015,1,1.9,2.35,2.9
+OD,Puri,Satyabadi,Satyabadi,19.95888889,85.82527778,Kadua,"Dug Well",W26269,2015,NA,2.45,2.85,NA
+OD,Puri,Gop,Gop,19.98194444,86.01805556,Gop,"Dug Well",W26274,2015,2.9,4.8,5.05,5.9
+OD,Puri,Pipil,Satyabadi,19.99416667,85.8,Maunimatha,"Dug Well",W26278,2015,NA,1.55,3.1,2
+OD,Puri,Delanga,Delanga,20.03555556,85.77111111,Beraboi,"Dug Well",W26286,2015,NA,1.75,NA,NA
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang-PZ,"Tube Well",W26287,2015,NA,2.05,NA,2.45
+OD,Puri,Nimapada,Gop,20.04166667,86.075,Chhanijanga,"Dug Well",W26290,2015,2.6,4.1,4.95,NA
+OD,Puri,Nimapada,Nimapada,20.05444444,86.00333333,Nimapara,"Dug Well",W26300,2015,2.6,4.15,5.3,NA
+OD,Puri,Pipil,Pipil,20.08083333,85.83222222,Dandamukundpur,"Dug Well",W26311,2015,1.35,2.6,3.95,4.9
+OD,Puri,Pipil,Pipil,20.08861111,85.80277778,Bantalsingh,"Dug Well",W26312,2015,1.4,2.45,4.04,NA
+OD,Puri,Nimapada,Nimapada,20.09166667,85.91972222,Garapada,"Dug Well",W26313,2015,1.65,3.1,3.9,5
+OD,Puri,Pipil,Pipil,20.11555556,85.83388889,Pipli,"Dug Well",W26324,2015,1.3,3.7,4,4.1
+OD,Puri,Jatani,Pipil,20.14527778,85.74861111,Budhapada,"Dug Well",W26342,2015,'0.95,2.7,2.3,2.8
+OD,Puri,Pipil,Pipil,20.16027778,85.84833333,Siula,"Dug Well",W26348,2015,NA,2.9,NA,NA
+OD,Puri,Sadar,Sadar,19.80638889,85.81888889,"P-44 Jagannath Ttemple","Dug Well",W31231,2015,NA,NA,6.41,NA
+OD,Puri,Sadar,Sadar,19.81027778,85.83888889,"P-45 Balipur","Dug Well",W31233,2015,NA,NA,2.16,NA
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2015,NA,2.4,3.15,4.1
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2015,2.15,3.3,3.8,4.2
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2015,1.4,2.35,2.8,3.1
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2015,NA,2.6,NA,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2015,'0.8,2.1,2,2.4
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2015,1.15,2.3,2.15,3.1
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2015,'0.75,1.9,1.85,2.8
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2015,2.25,3.15,4.15,2.25
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2015,'0.25,1.9,1.7,1.9
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2015,'0.65,1.6,1.25,1.8
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2015,'0.9,1.85,1.95,2.8
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2015,NA,2.8,3.15,NA
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2015,'0.8,2.15,2.15,3.9
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2015,NA,2.1,2.1,NA
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2015,1.05,2.35,2,1.5
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2015,3.5,5.7,5.7,6.2
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2015,1.2,2.6,3,3.5
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2015,1,2.6,2.95,3.5
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2015,1.85,3.15,4,4.7
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2015,'0.35,1.15,2.2,'0.35
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2015,'0.45,1.4,1,1.2
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2015,2.35,4.9,4,5.4
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2015,1.6,2.65,NA,1.6
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2015,1.15,2.5,2.9,1.15
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2015,1.15,2.4,2.15,2.1
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2015,1,2.1,2.45,3.7
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2015,1.25,2.75,3.15,3.5
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2015,1.4,2.6,2.9,3.2
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2015,'0.8,1.5,2,1.7
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,2015,NA,2.3,NA,NA
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2015,'0.4,1.35,1.9,'0.4
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2015,5.7,8.15,7.15,5.7
+OD,Puri,Brahmagiri,Brahmagiri,19.78,85.60555556,Gokhara,"Dug Well",W26186,2015,1.05,2,1.4,1.9
+OD,Puri,Sadar,Brahmagiri,19.78944444,85.80555556,"P-04 Marine Parade Lane","Dug Well",W26190,2015,NA,3.03,NA,3.57
+OD,Puri,Sadar,Brahmagiri,19.79527778,85.78333333,"P-32 Gobardhan Matha","Dug Well",W26191,2015,4.39,3.6,3.95,4.6
+OD,Puri,Sadar,Sadar,19.79527778,85.8125,"P-39 Athara Nala","Dug Well",W26192,2015,'0.72,'0.79,'0.75,1.42
+OD,Puri,Brahmagiri,Brahmagiri,19.79861111,85.66527778,Brahmagiri,"Dug Well",W26193,2015,'0.8,2.15,2,3.15
+OD,Puri,Sadar,Sadar,19.80111111,85.81861111,"P-31 Sweta Ganga","Dug Well",W26194,2015,5.39,3.31,4.71,4.69
+OD,Puri,Sadar,Sadar,19.80388889,85.81111111,"P-05 Kusuni Khuntia","Dug Well",W26196,2015,1.38,2.02,1.67,2.39
+OD,Puri,Sadar,Sadar,19.80416667,85.80638889,"P-06 Chhapana Chhak","Dug Well",W26197,2015,1.3,1.63,1.5,1.95
+OD,Puri,Sadar,Sadar,19.80527778,85.83194444,"P-09 VIP Colony","Dug Well",W26198,2015,2.92,1.95,2.19,3.15
+OD,Puri,Sadar,Sadar,19.80555556,85.83972222,"P-10 Rly Station Bazar","Dug Well",W26199,2015,2.13,1.17,1.31,NA
+OD,Puri,Sadar,Sadar,19.80555556,85.85083333,"P-12 ITI Chhak","Dug Well",W26200,2015,3.66,3.27,3.41,3.26
+OD,Puri,Sadar,Sadar,19.80583333,85.84222222,"P-11 Sadar Block Colony","Dug Well",W26201,2015,3.47,1.98,2.68,3.66
+OD,Puri,Sadar,Sadar,19.80694444,85.85666667,"P-13 Shree Vihar Mangal Patna","Dug Well",W26202,2015,5.76,5.75,5.45,6.36
+OD,Puri,Sadar,Sadar,19.81,85.83055556,"P-03 Police Lane","Dug Well",W26204,2015,1.12,1.05,'0.83,1.49
+OD,Puri,Sadar,Sadar,19.81055556,85.82472222,"P-37 Jagannatha Ballava Matha","Dug Well",W26205,2015,1.06,1.94,2.01,2.01
+OD,Puri,Sadar,Sadar,19.81055556,85.82972222,"P-23 Hara Gouri Sahi","Dug Well",W26206,2015,'0.84,'0.93,2.46,1.49
+OD,Puri,Brahmagiri,Sadar,19.81111111,85.77083333,Girala,"Dug Well",W26207,2015,1,2.2,1.9,2.8
+OD,Puri,Sadar,Sadar,19.81111111,85.82583333,Puri-I,"Tube Well",W26208,2015,NA,4,NA,NA
+OD,Puri,Sadar,Sadar,19.81111111,85.82583333,Puri-II,"Tube Well",W26209,2015,NA,3.95,NA,NA
+OD,Puri,Sadar,Sadar,19.81194444,85.82805556,"P-41 Grand Road","Dug Well",W26210,2015,3.43,'0.72,3.15,3.8
+OD,Puri,Sadar,Sadar,19.81222222,85.81333333,"P-38 Gosala","Dug Well",W26211,2015,7.75,7.73,6.2,7.13
+OD,Puri,Brahmagiri,Sadar,19.8125,85.76222222,Alipada,"Dug Well",W26212,2015,1.05,2.4,2.3,3.1
+OD,Puri,Sadar,Sadar,19.8125,85.83222222,"P-24 Balagandi","Dug Well",W26213,2015,4.08,3.68,3.69,4.2
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,Totasahi,"Dug Well",W26215,2015,1.35,2.3,2.3,3.8
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,"P-18 Tota Sahi","Dug Well",W26216,2015,3.56,2.38,2.51,3.97
+OD,Puri,Sadar,Sadar,19.81416667,85.82694444,"P-16 Narendra Kona","Dug Well",W26217,2015,'0.95,1.3,NA,1.81
+OD,Puri,Sadar,Sadar,19.81555556,85.83194444,"P-36 Kumbharapada","Dug Well",W26218,2015,2.66,2.65,2.3,3.01
+OD,Puri,Sadar,Sadar,19.81722222,85.83944444,"P-02 Matiapada","Dug Well",W26219,2015,3.04,2.59,2.6,3.29
+OD,Puri,Sadar,Sadar,19.81777778,85.85361111,"P-22 Talabania","Dug Well",W26220,2015,2.55,1.2,'0.76,1.98
+OD,Puri,Sadar,Sadar,19.81805556,85.83055556,"P-35 Indira Mark Colony","Dug Well",W26221,2015,4.46,3.75,3.43,4.78
+OD,Puri,Sadar,Sadar,19.81916667,85.84694444,"P-34 Sidha Mahavir","Dug Well",W26222,2015,1.14,1.28,1.22,2.09
+OD,Puri,Sadar,Sadar,19.82305556,85.87083333,"P-33 Sorbodaya Nagar","Dug Well",W26223,2015,2.09,NA,1.84,2.93
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2014,1.45,1.95,1.85,3.5
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2014,2.1,2.2,2.9,4.25
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2014,1.3,1.7,1.85,3.1
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2014,1,2,1.65,4.44
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2014,'0.9,1.75,1.35,2.5
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2014,1.1,1.95,1.65,3.2
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2014,1,1.4,1.55,2.9
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2014,2,2.4,2.6,NA
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2014,'0.4,1.7,1.25,2
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2014,'0.6,1.1,'0.95,2.1
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2014,'0.95,NA,1.1,2.45
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2014,NA,2.33,2,3.8
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2014,'0.95,1.95,1.2,3.55
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2014,'0.5,1.9,'0.95,NA
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2014,1.15,1.88,1.6,3.2
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2014,3.55,4.1,5,6.3
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2014,1.3,2.42,1.7,3.6
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2014,1.05,2.35,1.55,4.35
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2014,1.9,2.4,2.4,5
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2014,'0.3,1,'0.9,2.4
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2014,'0.55,1,'0.8,1.85
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2014,2.2,4.12,3,5.4
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2014,1.85,1.78,2.2,4.2
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2014,1.3,1.6,1.9,3.4
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2014,1.3,1.85,1.85,2.6
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2014,1.15,1.75,1.6,3.1
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2014,1.3,2.6,'0.9,3.3
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2014,1.7,1.65,2.05,3.3
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2014,'0.9,'0.85,1.45,1.95
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,2014,1.4,2.15,1.6,3.3
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2014,'0.45,1.05,1.05,2
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2014,5.45,7.78,5.6,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.78,85.60555556,Gokhara,"Dug Well",W26186,2014,1,1.6,1.6,2.35
+OD,Puri,Sadar,Brahmagiri,19.78944444,85.80555556,"P-04 Marine Parade Lane","Dug Well",W26190,2014,2.34,3.2,2.54,3.57
+OD,Puri,Sadar,Brahmagiri,19.79527778,85.78333333,"P-32 Gobardhan Matha","Dug Well",W26191,2014,2.91,3.18,3.04,4.59
+OD,Puri,Sadar,Sadar,19.79527778,85.8125,"P-39 Athara Nala","Dug Well",W26192,2014,'0.21,2.88,'0.63,1.33
+OD,Puri,Brahmagiri,Brahmagiri,19.79861111,85.66527778,Brahmagiri,"Dug Well",W26193,2014,'0.85,1.85,1.3,2.8
+OD,Puri,Sadar,Sadar,19.80111111,85.81861111,"P-31 Sweta Ganga","Dug Well",W26194,2014,2.94,3.28,2.45,4.46
+OD,Puri,Sadar,Sadar,19.80388889,85.81111111,"P-05 Kusuni Khuntia","Dug Well",W26196,2014,1.42,2.1,1.82,2.65
+OD,Puri,Sadar,Sadar,19.80416667,85.80638889,"P-06 Chhapana Chhak","Dug Well",W26197,2014,3.01,2.65,'0.78,1.82
+OD,Puri,Sadar,Sadar,19.80527778,85.83194444,"P-09 VIP Colony","Dug Well",W26198,2014,'0.23,2.4,'0.89,3.22
+OD,Puri,Sadar,Sadar,19.80555556,85.83972222,"P-10 Rly Station Bazar","Dug Well",W26199,2014,NA,1.77,'0.39,2.17
+OD,Puri,Sadar,Sadar,19.80555556,85.85083333,"P-12 ITI Chhak","Dug Well",W26200,2014,1.74,2.9,2.34,4.58
+OD,Puri,Sadar,Sadar,19.80583333,85.84222222,"P-11 Sadar Block Colony","Dug Well",W26201,2014,'0.91,2.35,1.45,3.38
+OD,Puri,Sadar,Sadar,19.80694444,85.85666667,"P-13 Shree Vihar Mangal Patna","Dug Well",W26202,2014,3.23,3.6,4.95,6.35
+OD,Puri,Sadar,Sadar,19.81,85.83055556,"P-03 Police Lane","Dug Well",W26204,2014,'0.43,3,'0.71,1.65
+OD,Puri,Sadar,Sadar,19.81055556,85.82472222,"P-37 Jagannatha Ballava Matha","Dug Well",W26205,2014,'0.44,2.43,'0.67,1.91
+OD,Puri,Sadar,Sadar,19.81055556,85.82972222,"P-23 Hara Gouri Sahi","Dug Well",W26206,2014,'0.6,2.19,2.51,1.38
+OD,Puri,Brahmagiri,Sadar,19.81111111,85.77083333,Girala,"Dug Well",W26207,2014,1.15,1.7,1.6,3.15
+OD,Puri,Sadar,Sadar,19.81111111,85.82583333,Puri-I,"Tube Well",W26208,2014,1.5,3.45,1.9,4.4
+OD,Puri,Sadar,Sadar,19.81111111,85.82583333,Puri-II,"Tube Well",W26209,2014,1.4,3.6,2,4.15
+OD,Puri,Sadar,Sadar,19.81194444,85.82805556,"P-41 Grand Road","Dug Well",W26210,2014,3.07,2.4,3.51,2.4
+OD,Puri,Sadar,Sadar,19.81222222,85.81333333,"P-38 Gosala","Dug Well",W26211,2014,6.82,5.95,6.83,7.52
+OD,Puri,Brahmagiri,Sadar,19.8125,85.76222222,Alipada,"Dug Well",W26212,2014,1.2,2,1.7,3.25
+OD,Puri,Sadar,Sadar,19.8125,85.83222222,"P-24 Balagandi","Dug Well",W26213,2014,4.01,3.5,3.44,1.61
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,Totasahi,"Dug Well",W26215,2014,1.5,1.7,1.95,3.25
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,"P-18 Tota Sahi","Dug Well",W26216,2014,1.46,2.6,1.91,3.42
+OD,Puri,Sadar,Sadar,19.81416667,85.82694444,"P-16 Narendra Kona","Dug Well",W26217,2014,'0.42,2.4,1.04,3.1
+OD,Puri,Sadar,Sadar,19.81555556,85.83194444,"P-36 Kumbharapada","Dug Well",W26218,2014,1.78,2.6,2.31,2.94
+OD,Puri,Sadar,Sadar,19.81722222,85.83944444,"P-02 Matiapada","Dug Well",W26219,2014,1.6,2.65,2.07,3.22
+OD,Puri,Sadar,Sadar,19.81777778,85.85361111,"P-22 Talabania","Dug Well",W26220,2014,'0.91,2,'0.91,2.03
+OD,Puri,Sadar,Sadar,19.81805556,85.83055556,"P-35 Indira Mark Colony","Dug Well",W26221,2014,2.61,3.09,4.67,5.08
+OD,Puri,Sadar,Sadar,19.81916667,85.84694444,"P-34 Sidha Mahavir","Dug Well",W26222,2014,1.31,1.8,1.47,2.97
+OD,Puri,Sadar,Sadar,19.82305556,85.87083333,"P-33 Sorbodaya Nagar","Dug Well",W26223,2014,1.04,2,1.49,1.44
+OD,Puri,Sadar,Sadar,19.82416667,85.85416667,"P-21 Sriram Talkies Chhak","Dug Well",W26224,2014,'0.46,2.3,'0.82,NA
+OD,Puri,Sadar,Sadar,19.83361111,85.83611111,"P-01 Krupa Sindura Patna","Dug Well",W26230,2014,2.24,2.8,2.82,3.29
+OD,Puri,Sadar,Sadar,19.85527778,85.83416667,Batagaon,"Dug Well",W26238,2014,1.85,2.45,2.3,4.15
+OD,Puri,Sadar,Sadar,19.87666667,85.8175,Tulasichoura-Malatipatapur,"Dug Well",W26247,2014,1,1.78,1.6,2.85
+OD,Puri,"Kakat Pur",Gop,19.88638889,86.09666667,"Konark 1","Dug Well",W26250,2014,1.5,2,2.15,3.55
+OD,Puri,Sadar,Sadar,19.90222222,85.81166667,Birapratappur,"Dug Well",W26256,2014,1.78,2.4,2.35,4.15
+OD,Puri,Satyabadi,Sadar,19.92027778,85.81805556,Biragobind,"Dug Well",W26261,2014,1.28,NA,1.75,3
+OD,Puri,Satyabadi,Sadar,19.94138889,85.83222222,Sakhigopal,"Dug Well",W26265,2014,'0.9,NA,1.4,2.45
+OD,Puri,Satyabadi,Satyabadi,19.94916667,85.82277778,Uansdiha,"Dug Well",W26266,2014,1.15,1.2,1.7,3
+OD,Puri,Satyabadi,Satyabadi,19.95888889,85.82527778,Kadua,"Dug Well",W26269,2014,1.35,1.9,2,3.6
+OD,Puri,Gop,Gop,19.98194444,86.01805556,Gop,"Dug Well",W26274,2014,3,3.92,4.05,6.05
+OD,Puri,Pipil,Satyabadi,19.99416667,85.8,Maunimatha,"Dug Well",W26278,2014,'0.55,'0.9,1.3,2.15
+OD,Puri,Delanga,Delanga,20.03555556,85.77111111,Beraboi,"Dug Well",W26286,2014,1,1.05,1.6,3.6
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang-PZ,"Tube Well",W26287,2014,1.3,2.17,1.5,3.15
+OD,Puri,Nimapada,Gop,20.04166667,86.075,Chhanijanga,"Dug Well",W26290,2014,2.45,NA,3,5.15
+OD,Puri,Nimapada,Nimapada,20.05444444,86.00333333,Nimapara,"Dug Well",W26300,2014,2.8,3.15,3.3,4.35
+OD,Puri,Pipil,Pipil,20.08083333,85.83222222,Dandamukundpur,"Dug Well",W26311,2014,1.54,2.1,2.15,3.4
+OD,Puri,Pipil,Pipil,20.08861111,85.80277778,Bantalsingh,"Dug Well",W26312,2014,1.25,2,1.9,3.2
+OD,Puri,Nimapada,Nimapada,20.09166667,85.91972222,Garapada,"Dug Well",W26313,2014,1.9,2.3,2.4,4.35
+OD,Puri,Pipil,Pipil,20.11555556,85.83388889,Pipli,"Dug Well",W26324,2014,1.4,3.1,2.3,4.05
+OD,Puri,Jatani,Pipil,20.14527778,85.74861111,Budhapada,"Dug Well",W26342,2014,'0.85,2.15,1.6,2.2
+OD,Puri,Pipil,Pipil,20.16027778,85.84833333,Siula,"Dug Well",W26348,2014,1.2,2,2,3.35
+OD,Puri,Sadar,Sadar,19.79888889,85.82583333,"P-28 Gopal Ballava","Dug Well",W31227,2014,3.1,1.85,NA,6.32
+OD,Puri,Sadar,Sadar,19.80388889,85.84666667,"P-14 C. T. Road","Dug Well",W31228,2014,NA,2.35,NA,NA
+OD,Puri,Sadar,Sadar,19.805,85.83277778,"P-26 VIP Road","Dug Well",W31229,2014,NA,2.7,NA,NA
+OD,Puri,Sadar,Sadar,19.80555556,85.81777778,"P-30 Jagannath Temple","Dug Well",W31230,2014,NA,5,NA,11.09
+OD,Puri,Sadar,Sadar,19.80638889,85.8375,"P-15 Railway Station","Dug Well",W31232,2014,NA,1.65,NA,2.29
+OD,Puri,Sadar,Sadar,19.81277778,85.81055556,"P-17 Masania Chhak","Dug Well",W31234,2014,NA,1.24,NA,1.91
+OD,Puri,Sadar,Sadar,19.81666667,85.80638889,"P-19 Kashi Jagannathpur","Dug Well",W31235,2014,NA,2.22,3.11,3.07
+OD,Puri,Sadar,Sadar,19.81722222,85.83944444,"P-40 Nabakarabela Road","Dug Well",W31236,2014,NA,1.15,NA,NA
+OD,Puri,Sadar,Sadar,19.82166667,85.84583333,"P-20 Bada Jaga","Dug Well",W31237,2014,NA,1.85,NA,1.13
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2013,1.22,1.32,'0.73,3
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2013,1.73,1.85,'0.95,3.17
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2013,1,1.12,'0.4,1.78
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2013,'0.92,1.9,'0.4,1.9
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2013,3.1,5.27,1.38,5.05
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2013,NA,3.25,1.02,4.27
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2013,1.28,1.98,1,3
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2013,NA,1.14,NA,NA
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2013,1,1,'0.25,2.55
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2013,NA,6.5,3,6.1
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2013,2.25,3.1,1.65,3.75
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2013,1.6,1.9,'0.7,4
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2013,2.85,2.9,1.65,5.2
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2013,2.2,2.9,1.55,3.9
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2013,1.6,3,'0.92,3.4
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2013,1.85,3.6,1,3.47
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2013,1.85,3.28,1.02,3.1
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2013,NA,5.43,1.85,NA
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2013,1.15,1.82,'0.45,2.3
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2013,'0.96,1.55,'0.55,2
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2013,NA,1.25,NA,NA
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2013,NA,2.25,NA,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2013,1.7,2.52,1,2.58
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2013,1.65,3.14,'0.95,3.33
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2013,NA,2.03,'0.8,3.03
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2013,2.22,2.55,1.32,3.2
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2013,2.45,3.1,1.5,4.1
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2013,NA,2.12,NA,NA
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2013,1.72,2.2,1,3.33
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2013,1.42,2.35,NA,4.38
+OD,Puri,Sadar,Sadar,19.81916667,85.84694444,"P-34 Sidha Mahavir","Dug Well",W26222,2013,1.88,NA,'0.99,3.25
+OD,Puri,Sadar,Sadar,19.82305556,85.87083333,"P-33 Sorbodaya Nagar","Dug Well",W26223,2013,2.6,NA,1.1,2.98
+OD,Puri,Sadar,Sadar,19.82416667,85.85416667,"P-21 Sriram Talkies Chhak","Dug Well",W26224,2013,2.3,NA,1.65,2.42
+OD,Puri,Sadar,Sadar,19.83361111,85.83611111,"P-01 Krupa Sindura Patna","Dug Well",W26230,2013,3,NA,1.85,3.43
+OD,Puri,Sadar,Sadar,19.85527778,85.83416667,Batagaon,"Dug Well",W26238,2013,1.35,3,'0.83,3.92
+OD,Puri,Sadar,Sadar,19.87666667,85.8175,Tulasichoura-Malatipatapur,"Dug Well",W26247,2013,1.02,1.8,'0.88,2.98
+OD,Puri,"Kakat Pur",Gop,19.88638889,86.09666667,"Konark 1","Dug Well",W26250,2013,2,2.9,1.15,4.03
+OD,Puri,Sadar,Sadar,19.90222222,85.81166667,Birapratappur,"Dug Well",W26256,2013,1.33,3,1,4
+OD,Puri,Satyabadi,Satyabadi,19.94916667,85.82277778,Uansdiha,"Dug Well",W26266,2013,1.13,1.6,'0.8,2.85
+OD,Puri,Satyabadi,Satyabadi,19.95888889,85.82527778,Kadua,"Dug Well",W26269,2013,1.82,NA,1,3.2
+OD,Puri,Gop,Gop,19.98194444,86.01805556,Gop,"Dug Well",W26274,2013,4.15,NA,2.82,5.95
+OD,Puri,Pipil,Satyabadi,19.99416667,85.8,Maunimatha,"Dug Well",W26278,2013,'0.85,1,'0.35,1.9
+OD,Puri,Delanga,Delanga,20.03555556,85.77111111,Beraboi,"Dug Well",W26286,2013,1.05,1.4,'0.5,2.38
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang-PZ,"Tube Well",W26287,2013,NA,3,NA,3.11
+OD,Puri,Nimapada,Nimapada,20.05444444,86.00333333,Nimapara,"Dug Well",W26300,2013,3.2,3.62,2.15,4.1
+OD,Puri,Pipil,Pipil,20.08861111,85.80277778,Bantalsingh,"Dug Well",W26312,2013,1.5,2.4,'0.8,3.25
+OD,Puri,Nimapada,Nimapada,20.09166667,85.91972222,Garapada,"Dug Well",W26313,2013,2.35,NA,1.4,4.27
+OD,Puri,Pipil,Pipil,20.11555556,85.83388889,Pipli,"Dug Well",W26324,2013,3,NA,1.38,4.2
+OD,Puri,Jatani,Pipil,20.14527778,85.74861111,Budhapada,"Dug Well",W26342,2013,1.05,2.91,'0.8,3.82
+OD,Puri,Sadar,Sadar,19.79888889,85.82583333,"P-28 Gopal Ballava","Dug Well",W31227,2013,3,NA,1.05,3.1
+OD,Puri,Sadar,Sadar,19.80388889,85.84666667,"P-14 C. T. Road","Dug Well",W31228,2013,2.3,NA,1.4,2.9
+OD,Puri,Sadar,Sadar,19.805,85.83277778,"P-26 VIP Road","Dug Well",W31229,2013,2.9,NA,1.55,NA
+OD,Puri,Sadar,Sadar,19.80555556,85.81777778,"P-30 Jagannath Temple","Dug Well",W31230,2013,5.2,NA,3.7,NA
+OD,Puri,Sadar,Sadar,19.80638889,85.8375,"P-15 Railway Station","Dug Well",W31232,2013,1.95,NA,1,3.15
+OD,Puri,Sadar,Sadar,19.81277778,85.81055556,"P-17 Masania Chhak","Dug Well",W31234,2013,1.4,NA,'0.65,1.78
+OD,Puri,Sadar,Sadar,19.81666667,85.80638889,"P-19 Kashi Jagannathpur","Dug Well",W31235,2013,2.05,NA,1.48,2.9
+OD,Puri,Sadar,Sadar,19.81722222,85.83944444,"P-40 Nabakarabela Road","Dug Well",W31236,2013,1.05,NA,'0.4,3
+OD,Puri,Sadar,Sadar,19.82166667,85.84583333,"P-20 Bada Jaga","Dug Well",W31237,2013,1.9,NA,1,NA
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Sakhigopal,"Dug Well",W31238,2013,NA,1.36,NA,NA
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,2013,2.2,NA,NA,3.28
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2013,1.02,1.85,'0.35,2.05
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2013,7.6,9.39,5.2,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.78,85.60555556,Gokhara,"Dug Well",W26186,2013,1.1,NA,1,2.19
+OD,Puri,Sadar,Brahmagiri,19.78944444,85.80555556,"P-04 Marine Parade Lane","Dug Well",W26190,2013,3.6,NA,1.95,NA
+OD,Puri,Sadar,Brahmagiri,19.79527778,85.78333333,"P-32 Gobardhan Matha","Dug Well",W26191,2013,4,NA,2.1,4
+OD,Puri,Sadar,Sadar,19.79527778,85.8125,"P-39 Athara Nala","Dug Well",W26192,2013,3.12,NA,1.68,3.9
+OD,Puri,Brahmagiri,Brahmagiri,19.79861111,85.66527778,Brahmagiri,"Dug Well",W26193,2013,1.15,2,'0.85,2.82
+OD,Puri,Sadar,Sadar,19.80111111,85.81861111,"P-31 Sweta Ganga","Dug Well",W26194,2013,3.8,NA,2.35,4.15
+OD,Puri,Sadar,Sadar,19.80388889,85.81111111,"P-05 Kusuni Khuntia","Dug Well",W26196,2013,2.8,NA,1.22,2.9
+OD,Puri,Sadar,Sadar,19.80416667,85.80638889,"P-06 Chhapana Chhak","Dug Well",W26197,2013,2.13,NA,1.5,2.92
+OD,Puri,Sadar,Sadar,19.80527778,85.83194444,"P-09 VIP Colony","Dug Well",W26198,2013,3,NA,1.33,3.8
+OD,Puri,Sadar,Sadar,19.80555556,85.83972222,"P-10 Rly Station Bazar","Dug Well",W26199,2013,2.89,NA,1,3.25
+OD,Puri,Sadar,Sadar,19.80555556,85.85083333,"P-12 ITI Chhak","Dug Well",W26200,2013,3.44,NA,2,3.95
+OD,Puri,Sadar,Sadar,19.80583333,85.84222222,"P-11 Sadar Block Colony","Dug Well",W26201,2013,3.1,NA,1.6,3.79
+OD,Puri,Sadar,Sadar,19.80694444,85.85666667,"P-13 Shree Vihar Mangal Patna","Dug Well",W26202,2013,4.17,NA,2.45,6.78
+OD,Puri,Sadar,Sadar,19.81,85.83055556,"P-03 Police Lane","Dug Well",W26204,2013,3.05,NA,2,NA
+OD,Puri,Sadar,Sadar,19.81055556,85.82472222,"P-37 Jagannatha Ballava Matha","Dug Well",W26205,2013,2.6,NA,1.8,2.92
+OD,Puri,Sadar,Sadar,19.81055556,85.82972222,"P-23 Hara Gouri Sahi","Dug Well",W26206,2013,2.6,NA,1.35,3.02
+OD,Puri,Brahmagiri,Sadar,19.81111111,85.77083333,Girala,"Dug Well",W26207,2013,1.15,2,'0.75,2.92
+OD,Puri,Sadar,Sadar,19.81111111,85.82583333,Puri-I,"Tube Well",W26208,2013,3.4,NA,2,5
+OD,Puri,Sadar,Sadar,19.81111111,85.82583333,Puri-II,"Tube Well",W26209,2013,3.42,NA,1.85,4.82
+OD,Puri,Sadar,Sadar,19.81194444,85.82805556,"P-41 Grand Road","Dug Well",W26210,2013,2.9,NA,1.33,3.85
+OD,Puri,Sadar,Sadar,19.81222222,85.81333333,"P-38 Gosala","Dug Well",W26211,2013,5.9,NA,4.88,6.65
+OD,Puri,Brahmagiri,Sadar,19.8125,85.76222222,Alipada,"Dug Well",W26212,2013,1.22,2.4,'0.7,3.38
+OD,Puri,Sadar,Sadar,19.8125,85.83222222,"P-24 Balagandi","Dug Well",W26213,2013,4,NA,2.12,4.51
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,Totasahi,"Dug Well",W26215,2013,2,2.08,'0.9,4.1
+OD,Puri,Sadar,Sadar,19.81416667,85.80638889,"P-18 Tota Sahi","Dug Well",W26216,2013,3,NA,1.42,4.1
+OD,Puri,Sadar,Sadar,19.81416667,85.82694444,"P-16 Narendra Kona","Dug Well",W26217,2013,2.93,NA,1.45,3.2
+OD,Puri,Sadar,Sadar,19.81555556,85.83194444,"P-36 Kumbharapada","Dug Well",W26218,2013,3.4,NA,1.95,4.1
+OD,Puri,Sadar,Sadar,19.81722222,85.83944444,"P-02 Matiapada","Dug Well",W26219,2013,3.38,NA,1.79,NA
+OD,Puri,Sadar,Sadar,19.81777778,85.85361111,"P-22 Talabania","Dug Well",W26220,2013,2,NA,1.1,2.4
+OD,Puri,Sadar,Sadar,19.81805556,85.83055556,"P-35 Indira Mark Colony","Dug Well",W26221,2013,3.95,NA,2.16,5
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2013,4.05,2,1.05,3.15
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2013,1.6,2.21,'0.85,3.2
+OD,Puri,"Kakat Pur",Gop,19.88638889,86.09666667,"Konark 1","Dug Well",W26250,2012,NA,NA,1.8,NA
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2012,NA,NA,NA,4.03
+OD,Puri,Nimapada,Nimapada,20.05444444,86.00333333,Nimapara,"Dug Well",W26300,2012,NA,NA,2.32,NA
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,2012,NA,NA,NA,2.32
+OD,Puri,Gop,Gop,19.89305556,86.0875,Konark-1,"Tube Well",W20858,2012,NA,3.65,NA,NA
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2012,NA,1.6,1.43,2.05
+OD,Puri,Pipil,Pipil,20.07388889,85.79611111,Sardeipur,"Dug Well",W21506,2012,NA,2.18,NA,NA
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2012,NA,8.49,NA,8.92
+OD,Puri,Brahmagiri,Brahmagiri,19.79861111,85.66527778,Brahmagiri,"Dug Well",W26193,2012,NA,NA,1.12,NA
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2012,NA,2.17,1.79,2.19
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2012,NA,1.74,1.98,3.09
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2012,NA,1.76,1.12,2.45
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2012,NA,2.03,1.4,2.93
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2012,NA,'0.4,1.09,1.2
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2012,NA,1.7,1.18,2
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2012,NA,5.07,4.88,4.87
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2012,NA,3.17,1.75,4.09
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2012,NA,1.33,1.65,1.03
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2012,NA,1.2,NA,NA
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2012,NA,2.32,NA,NA
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2012,NA,1.36,'0.97,2.48
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2012,NA,6.23,5.91,6.3
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2012,NA,2.54,NA,NA
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2012,NA,3.01,2.3,3.66
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2012,NA,2.85,1.55,NA
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2012,NA,3.09,2,4.3
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2012,NA,2.26,2.11,NA
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2012,NA,2.68,2.39,3.48
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2012,NA,3.4,3.22,3.38
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2012,NA,2.38,2.3,3.13
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2012,NA,5.25,4,NA
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2012,NA,1.24,1.5,2.04
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2012,NA,1.74,'0.94,1.83
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2012,NA,2.03,NA,2.2
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2012,NA,2.71,NA,NA
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2012,NA,2.12,NA,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2012,NA,1.86,1.73,1.95
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2012,NA,2.6,2.48,3.11
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2012,NA,2.2,1.35,2.57
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2012,NA,2.25,1.3,3.22
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2012,NA,2.97,2.05,4.05
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2012,NA,2.79,1.28,3.59
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2012,NA,1.95,1.47,2.73
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang-PZ,"Tube Well",W26287,2012,NA,NA,2.3,NA
+OD,Puri,Gop,Gop,19.98194444,86.02222222,Konark-3,"Dug Well",W19991,2011,4.73,4.1,2.31,5.64
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2011,1.38,2.13,1.37,2.72
+OD,Puri,Pipil,Pipil,20.07388889,85.79611111,Sardeipur,"Dug Well",W21506,2011,NA,1.96,2.63,NA
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2011,6.09,9.3,2.25,7.88
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2011,1.43,1.92,1.94,2.1
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2011,'0.9,2.69,1.97,2.62
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2011,'0.91,2.86,'0.78,1.28
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2011,NA,1.95,1.23,2.33
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2011,-0.05,'0.86,'0.53,1
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2011,'0.95,1.38,1.22,2.1
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2011,3.57,5.15,5.06,4.72
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2011,1.76,2.47,1.67,NA
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2011,1.28,1.93,1.53,2.71
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,2011,'0.08,'0.59,'0.13,1.53
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2011,'0.85,'0.87,'0.74,1.2
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2011,1.53,3.13,1.85,3.41
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2011,'0.16,1.44,'0.84,2.36
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2011,5.18,6.71,6.11,6.23
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2011,'0.85,2.83,1.92,2.97
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2011,2.3,2.96,2.31,2.74
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2011,1.27,2.75,1.55,2.65
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2011,3.12,3.3,1.7,3.8
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2011,NA,2.44,1.83,2.63
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2011,1.58,2.58,2.5,3.39
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2011,NA,3.28,3.31,3.37
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2011,2.18,NA,2.2,3.02
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2011,2.84,5.25,4.9,5.54
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2011,'0.79,1.53,1.34,1.45
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2011,'0.63,'0.89,'0.74,2.12
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2011,1.03,1.53,1.13,2.28
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2011,1.42,3.72,2.59,2.91
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2011,'0.09,2.11,1.54,3.04
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2011,1.26,1.94,1.52,2.03
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2011,1.92,3.21,2.35,2.71
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2011,'0.85,2.12,1.2,2.42
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2011,1.61,2.3,1,3.02
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2011,1.88,2.58,1.98,2.58
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2011,1.14,1.89,'0.99,2.79
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2011,'0.8,1.68,1.5,2
+OD,Puri,Gop,Gop,19.98194444,86.02222222,Konark-3,"Dug Well",W19991,2010,1.8,2.76,1.66,5.7
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2010,1.32,2.2,1.13,2.8
+OD,Puri,Gop,Gop,19.89305556,86.0875,Konark-1,"Tube Well",W20858,2010,NA,3.5,NA,NA
+OD,Puri,Pipil,Pipil,20.07388889,85.79611111,Sardeipur,"Dug Well",W21506,2010,NA,2.02,1.47,1.37
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2010,2.1,9.11,1.79,8.34
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2010,1.39,2.08,1.12,2.35
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2010,'0.97,2.72,1.49,2.68
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2010,'0.86,2.76,'0.31,1.26
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2010,1.3,2.13,1.27,2.91
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2010,NA,'0.95,-0.1,1.33
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2010,1.01,1.49,'0.75,2
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2010,4.07,5.17,4.13,5.32
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2010,2.21,2.67,1.69,3.23
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2010,1.59,2.28,1.06,2.81
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,2010,-0.42,'0.74,-0.14,1.66
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2010,'0.7,'0.92,'0.34,1.28
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2010,1.98,3.08,1.12,3.48
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2010,1.01,1.54,'0.11,3.18
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2010,5.96,6.88,5.53,6.33
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2010,1.02,2.93,1.99,2.97
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2010,NA,2.83,1.86,3.01
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2010,1.54,3.62,1.02,2.69
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2010,2.37,3.05,1.46,3.8
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2010,1.42,2.42,1.64,2.86
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2010,NA,2.91,2.16,3.48
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2010,2.78,3.4,2.8,3.25
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2010,NA,2.76,1.94,3.4
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2010,3,5.4,4.55,5.84
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2010,1.31,1.9,'0.62,1.47
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2010,'0.99,'0.99,'0.34,2.04
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2010,1.66,1.58,'0.68,2.31
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2010,1.74,3.79,2.41,2.98
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2010,'0.16,2.14,1.14,3.04
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2010,1.4,2.01,1.11,2.11
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2010,1.95,3.37,2.11,2.86
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2010,1.1,2,'0.8,2.74
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2010,1.41,2.27,'0.99,3.12
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2010,1.97,2.38,1.75,2.58
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2010,'0.67,1.79,'0.7,2.82
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2010,1.01,1.72,'0.8,2
+OD,Puri,Gop,Gop,19.98194444,86.02222222,Konark-3,"Dug Well",W19991,2009,1.41,4.92,2.09,5.83
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2009,'0.77,1.97,1.64,2.75
+OD,Puri,Pipil,Pipil,20.07388889,85.79611111,Sardeipur,"Dug Well",W21506,2009,'0.44,NA,2.22,1.32
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2009,6.49,5.74,8.14,NA
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2009,'0.99,2.13,1.38,2.78
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2009,'0.65,2.32,1.94,2.32
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2009,'0.14,2.58,'0.76,'0.56
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2009,'0.77,2.09,1.62,2.53
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2009,-0.1,'0.57,'0.2,'0.55
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2009,2.97,4.04,4.52,5.17
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2009,1.29,NA,2.18,2.85
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2009,'0.72,1.33,1.81,2.03
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,2009,-0.33,1.03,'0.47,1.38
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2009,'0.31,2.45,'0.85,1.05
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2009,1.23,2.39,1.82,2.91
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2009,-0.04,2.45,'0.66,NA
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2009,'0.72,1.41,1.02,2.2
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2009,'0.72,2.02,2.33,2.98
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2009,1.91,2.96,2.3,2.63
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2009,'0.2,3.07,'0.45,2.45
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2009,1.55,3.1,2.02,3.8
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2009,1.24,4.34,1.86,2.62
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2009,1.13,1.93,2.49,3.55
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2009,2.28,1.34,3.26,3.8
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2009,'0.85,1.47,2.26,3.26
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2009,5.71,6.18,5.93,6.25
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2009,'0.56,2.9,1.34,1.04
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2009,'0.33,1.11,'0.61,2.06
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2009,'0.7,1.44,'0.97,2.58
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2009,1.52,1.87,2.73,2.84
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2009,'0.22,1.99,1.45,3.04
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2009,1.06,NA,1.36,2.38
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2009,1.27,1.92,2.61,2.95
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2009,'0.55,2.16,1.2,2.85
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2009,2.6,5.41,5,6.14
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2009,1.09,1.98,1.41,2.88
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2009,1.73,2.58,2.08,2.61
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2009,'0.12,1.89,1.07,2.69
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2009,'0.35,2,1.24,1.98
+OD,Puri,Gop,Gop,19.98194444,86.02222222,Konark-3,"Dug Well",W19991,2008,3.25,5.35,1.92,3.51
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2008,'0.94,2.65,1.5,NA
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2008,7.01,8.93,8.22,NA
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2008,1.53,3.98,1.24,NA
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2008,1.07,2.8,1.97,NA
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2008,1.48,2.86,'0.68,NA
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2008,'0.63,1.83,1.58,NA
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2008,'0.35,1.03,'0.71,NA
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2008,'0.28,2.22,3.35,NA
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2008,1.28,2.5,2.24,NA
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2008,'0.93,1.68,'0.76,NA
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,2008,1.01,NA,NA,NA
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2008,'0.39,1.56,'0.76,1.3
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2008,1.95,2.56,1.88,NA
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2008,'0.36,2.47,'0.76,NA
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2008,2.2,1.52,'0.97,NA
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2008,1.77,2.62,2.23,NA
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2008,1.6,2.78,1.59,NA
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2008,'0.45,3.4,'0.9,1.9
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2008,1.21,3.09,1.81,NA
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2008,1.36,1.64,NA,NA
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2008,1.43,2.83,2.41,NA
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2008,'0.97,3.28,NA,NA
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2008,1.73,2.43,NA,NA
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2008,5.73,6.27,5.99,NA
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2008,2.19,1.72,NA,NA
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2008,1.56,1.23,'0.45,NA
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2008,1.1,1.53,'0.85,NA
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2008,1.71,3.65,2.7,NA
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2008,1.44,2.04,1.35,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2008,1.11,1.86,1.53,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2008,1.07,2.72,2.65,NA
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2008,'0.32,1.91,1.17,NA
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2008,3.93,5.14,4.89,NA
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2008,1.21,2.14,1.44,NA
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2008,'0.68,2.58,2.02,NA
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2008,1.88,1.6,'0.39,NA
+OD,Puri,Gop,Gop,19.98194444,86.02222222,Konark-3,"Dug Well",W19991,2007,NA,NA,3.53,NA
+OD,Puri,Pipil,Pipil,20.14194444,85.755,Burhapara,"Dug Well",W21480,2007,1.8,NA,2,NA
+OD,Puri,Gop,Gop,19.89305556,86.0875,Konark-1,"Tube Well",W20858,2007,1.1,NA,1.3,NA
+OD,Puri,Pipil,Pipil,20.07388889,85.79611111,Sardeipur,"Dug Well",W21506,2007,NA,NA,5.44,NA
+OD,Puri,Pipil,Pipil,20.13416667,85.81388889,Dhauli,"Dug Well",W21264,2007,7.39,8.7,7.7,7.56
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2007,1.43,2.84,3.93,1.63
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2007,'0.92,2.3,1.62,2.45
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2007,1.06,1.97,'0.59,'0.83
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2007,'0.38,2.09,1.4,2.44
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2007,'0.1,'0.49,'0.5,1.08
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2007,'0.17,'0.98,3.38,4.96
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2007,NA,2.88,NA,3.3
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2007,1.08,1.36,'0.03,'0.52
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2007,'0.3,1.38,'0.65,1.31
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2007,1.43,NA,2.01,1.49
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2007,'0.26,1.39,'0.63,3.34
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2007,2,1.57,NA,2.01
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2007,1.51,3.02,2.19,2.16
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2007,'0.75,2.46,1.18,2.59
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2007,1.3,3.08,1.62,1.8
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2007,1.63,2.79,2.78,2.55
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2007,'0.88,3.49,1.36,NA
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2007,1.48,2.34,1.1,3.18
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2007,5.93,6.48,5.94,6.18
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2007,NA,'0.41,-0.06,'0.79
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2007,NA,1.1,NA,1.99
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2007,'0.98,2.35,1.18,NA
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2007,1.62,3.78,2.33,NA
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2007,'0.69,2.05,1.14,1.28
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2007,1.06,1.88,1.31,2.13
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2007,'0.92,2.08,1.69,2.95
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2007,'0.8,2.26,1.15,2.58
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2007,4.55,4.82,4.25,5.72
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2007,1.45,2.39,1.53,2.65
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2007,'0.78,2.58,2.58,NA
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2007,NA,2.4,NA,NA
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2007,'0.85,2.77,1.6,2.45
+OD,Puri,Gop,Gop,19.89305556,86.0875,Konark-1,"Tube Well",W20858,2006,NA,NA,NA,5.09
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2006,'0.55,2.68,1.71,2.48
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2006,'0.85,2.64,1.55,2.39
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2006,'0.49,1.37,'0.66,'0.87
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2006,'0.84,2.34,1.33,2.76
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2006,-0.27,1.03,NA,1.3
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2006,'0.03,1.1,1.17,4.68
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2006,1.44,3.1,2.37,3.45
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2006,-0.55,'0.97,'0.08,'0.16
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2006,'0.4,1.49,'0.6,1.41
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2006,'0.68,2.7,1.43,2.28
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2006,'0.01,1.53,1.3,1.77
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2006,'0.78,1.83,1,2.11
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2006,1.06,3.06,2.31,2.14
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2006,'0.31,2.32,1.1,2.62
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2006,1.19,3.24,1.6,1.97
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2006,'0.67,2.62,1.53,2.37
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2006,NA,3.62,NA,3.68
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2006,'0.8,2.56,1.12,3.32
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2006,5.48,5.73,6.13,5.41
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2006,-0.24,NA,-0.03,'0.96
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2006,'0.29,1.72,'0.59,2.2
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2006,'0.32,1.78,'0.78,2.35
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2006,NA,3.88,2.07,2.43
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2006,NA,NA,1.29,NA
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2006,'0.94,2.08,1.19,1.38
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2006,'0.79,2.13,1.06,2.27
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2006,1.26,1.91,1.42,2.2
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2006,'0.23,2.44,'0.75,2.75
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2006,2.45,5.21,3.88,5.96
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2006,'0.88,2.31,1.55,2.58
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2006,1.63,3.16,2.08,2.18
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2006,'0.69,NA,NA,NA
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2006,'0.58,2.17,1.08,1.56
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,2005,NA,4.85,NA,NA
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2005,NA,2.23,NA,NA
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2005,1.36,NA,1.71,2.26
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2005,'0.7,1.87,'0.8,1.61
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2005,1.42,'0.99,1.4,2.57
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2005,NA,'0.51,'0.11,1.38
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2005,NA,NA,1.16,2.22
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2005,4.09,NA,4.2,4.69
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,2005,NA,2.13,NA,NA
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2005,2.15,2.86,2.35,3.39
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2005,-0.07,1.11,'0.17,'0.31
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2005,1.96,2,1.23,2.29
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2005,'0.65,3.1,'0.41,1.26
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2005,'0.88,2.31,1.13,1.77
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,2005,NA,3.19,NA,3.86
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2005,'0.16,'0.66,'0.11,'0.79
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2005,2.01,3.04,2.36,2.29
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,2005,NA,1.88,NA,NA
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2005,'0.56,1.99,'0.69,2.37
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2005,1.33,2.87,1.8,1.64
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,2005,NA,1.4,NA,NA
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2005,1.7,2.57,1.2,2.2
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2005,NA,3.06,1.3,3.98
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2005,1.04,1.93,NA,2.72
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2005,6.03,6.28,5.82,6.22
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2005,NA,1.19,'0.56,1.04
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2005,NA,1.14,'0.62,2.38
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2005,NA,1.43,1.03,2.3
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2005,2.05,3.42,2.19,3.27
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2005,NA,1.87,1.38,1.54
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2005,1.61,1.88,1.47,2.38
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2005,1.47,1.85,'0.98,3.07
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2005,1.43,2.16,1.12,2.76
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2005,5.56,5.23,3.98,6.02
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2005,1.5,2.13,1.46,2.7
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2005,2.02,2.73,2.22,2.94
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2005,1.47,2.72,NA,2.15
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2005,NA,2.38,1.6,2.35
+OD,Puri,Gop,Gop,19.98194444,86.02222222,Konark-3,"Dug Well",W19991,2005,NA,5.25,NA,5.8
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2004,1.15,2.5,1.69,3.04
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2004,'0.5,NA,NA,NA
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2004,1.12,2.2,1.52,2.77
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2004,-0.02,'0.84,'0.1,3.52
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2004,1.3,1.58,1.16,2.12
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2004,3.34,1.04,4.65,4.9
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,2004,NA,NA,3.03,NA
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2004,2.07,3.01,2.31,2.61
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2004,-0.3,'0.85,'0.11,'0.53
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2004,1.42,1.77,1.43,NA
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2004,'0.8,1.46,'0.9,1.4
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2004,1.23,2.71,1.38,NA
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,2004,2.23,3.41,2.53,3.67
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2004,'0.46,1.31,'0.56,2.17
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2004,NA,NA,NA,2.88
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2004,1.11,3.41,2.31,3.38
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2004,'0.52,2.6,1.03,2.72
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2004,1.17,2.62,1.6,1.92
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,2004,3.98,3.76,4.11,5.38
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2004,1.32,2.2,1.34,2.16
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2004,NA,NA,2.53,4.08
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2004,1.1,2.15,1.08,2.8
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2004,2,6.34,6.08,5.93
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2004,-0.05,'0.46,'0.1,1.18
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2004,NA,1.37,NA,1.94
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2004,1.1,1.75,1.01,2.17
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2004,1.8,'0.81,2.12,2.96
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2004,NA,NA,NA,4.34
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2004,1.1,NA,1.06,3.42
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2004,1.46,2.09,1.56,3
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2004,1.52,2.1,1.39,3.54
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2004,1.22,2.28,1.23,3.93
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2004,4.65,4.96,4.4,6.34
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2004,1.68,2.22,1.64,2.77
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2004,2.19,2.01,2.18,2.78
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2004,1.91,NA,2.49,2.75
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2004,1.35,2.46,1.72,2.54
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2004,'0.84,2.26,'0.81,1.98
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2003,1.52,2.42,1.27,3.23
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2003,NA,NA,1.6,NA
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2003,'0.83,2.35,1.05,2.85
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2003,-0.2,'0.65,-0.09,3.22
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2003,'0.83,2.21,'0.83,1.24
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2003,'0.58,5.27,-0.19,1.65
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,2003,NA,3.23,NA,NA
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2003,1.59,3.28,NA,3.85
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2003,'0.76,'0.66,-0.12,1.24
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2003,1.28,2.28,1.11,2.48
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,2003,-0.66,NA,NA,NA
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2003,'0.63,1.42,'0.73,2.44
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2003,NA,3.03,NA,NA
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,2003,1.59,3.52,1.96,4.33
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2003,'0.04,1.46,-0.02,3.23
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,2003,NA,NA,2.78,NA
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2003,NA,2.06,NA,2.7
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2003,NA,3.31,2.29,3.46
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2003,1.54,2.12,'0.49,3.38
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2003,'0.96,3.26,1.05,3.81
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,2003,1.76,4.73,2.63,5.93
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2003,1.11,3.01,1.01,3.33
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2003,NA,2.59,1.78,3.36
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2003,'0.52,2.4,'0.68,2.98
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2003,5.65,6.38,5.94,6.4
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2003,-0.13,1.27,-0.02,1.34
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2003,'0.55,1.45,'0.46,2.22
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2003,1,1.89,'0.62,3.04
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2003,'0.84,2.53,'0.83,3.48
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2003,NA,NA,NA,4.32
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2003,NA,1.98,1.24,3.7
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2003,1.26,2.26,1.14,2.88
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2003,1.52,2.43,'0.41,3.29
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2003,'0.82,2.31,'0.85,3.27
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2003,4.61,5.58,2.83,6.11
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2003,NA,2.11,1.21,2.53
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2003,NA,1.6,2.03,3.88
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2003,NA,2.99,NA,3.16
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2003,'0.57,2.65,'0.28,2.76
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2003,'0.38,2.16,'0.55,2.06
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2002,'0.35,2.22,1.74,3.63
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2002,'0.02,2.4,1.63,2.73
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2002,'0.06,2.01,1.26,2.99
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2002,'0.06,'0.5,-0.28,'0.88
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2002,'0.62,1.3,1.31,2.12
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2002,2.37,4.87,4.55,5.29
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,2002,2.7,3.07,NA,NA
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2002,'0.41,2.9,2.32,3.65
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2002,'0.36,'0.76,-0.07,3.85
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2002,1.24,1.57,1.63,NA
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,2002,'0.06,NA,NA,1.81
+OD,Puri,Nimapada,Nimapada,20.06111111,86.02888889,Nimapara,"Tube Well",W09881,2002,1.66,3.34,2.01,NA
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2002,'0.1,1.4,'0.45,1.72
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2002,'0.33,2.35,2.05,2.24
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,2002,1.39,3.33,NA,4.19
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2002,'0.18,1.16,'0.44,2.81
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,2002,'0.97,2.05,NA,3.4
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2002,'0.83,1.91,2.39,4.13
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2002,1.91,3.32,2.26,3.52
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,2002,2.27,3.62,2.36,5.06
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2002,'0.37,2,'0.65,3.77
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2002,1.48,3.07,1.61,4.72
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,2002,3.21,5.33,3.19,5.23
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2002,'0.03,2.55,1.39,4
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2002,'0.88,2.5,NA,4.26
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2002,'0.76,1.55,'0.53,2.86
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2002,6.01,6.28,6.21,6.21
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2002,1.5,'0.39,2.67,4.55
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2002,'0.06,1.09,1.45,2.25
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2002,'0.41,1.84,1.33,4.57
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2002,1.34,1.84,2.47,3.7
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2002,1.54,NA,3.33,4.66
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2002,'0.7,1.99,'0.4,2.4
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2002,4.04,2.06,1.57,4.18
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2002,3.22,2.06,1.83,4.13
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2002,'0.02,2.03,'0.78,3.82
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2002,4.63,4.93,4.3,NA
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2002,1.18,1.94,1.41,2.72
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2002,-0.11,1.56,1.25,2.76
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2002,5.36,3.06,2.1,3.6
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2002,'0.01,2.03,'0.69,2.92
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2001,1.12,2.44,1.58,3.42
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2001,-0.15,NA,-0.24,NA
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2001,'0.89,1.95,1.14,2.88
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2001,'0.58,'0.59,-0.07,1.82
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2001,'0.5,1.52,'0.76,2
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2001,'0.22,6.79,4.51,5.92
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,2001,'0.03,NA,2.67,NA
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2001,'0.03,2.82,2.34,3.55
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2001,-0.19,NA,'0.37,3.73
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2001,'0.95,2.07,1.21,2.38
+OD,Puri,Nimapada,Nimapada,20.06111111,86.02888889,Nimapara,"Tube Well",W09881,2001,NA,3.08,NA,NA
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2001,-0.24,1.3,1.58,1.63
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2001,'0.66,1.57,1.37,NA
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,2001,NA,3.33,2.52,4.73
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2001,'0.01,1.43,'0.3,4.06
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,2001,1.16,2.61,NA,NA
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2001,1.23,NA,1.21,NA
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2001,'0.85,2.69,2.62,3.49
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,2001,NA,3.43,2.85,4.95
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2001,'0.72,1.92,1.04,NA
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2001,'0.85,2.82,1.5,4.62
+OD,Puri,Nimapada,Nimapada,20.075,85.9675,Dahijanga-1,"Tube Well",W09879,2001,NA,NA,'0.66,NA
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,2001,1.03,NA,NA,1.73
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,2001,2.05,5.11,3.75,5.95
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2001,'0.93,2.52,1.5,3.6
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2001,'0.46,3.09,1.34,4.11
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2001,'0.84,NA,1.29,3.17
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2001,5.75,6.21,5.93,6.13
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2001,'0.14,1.49,NA,4.19
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2001,'0.28,1.33,'0.6,2.2
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2001,'0.54,1.81,'0.98,3.91
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2001,1.34,3.11,2.02,3.54
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,2001,'0.65,NA,NA,NA
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2001,'0.76,1.54,'0.81,2.27
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2001,1.47,2.48,1.75,3.84
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2001,'0.51,2.25,1.04,3.7
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2001,4.08,5.72,4.52,NA
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2001,'0.93,2.23,1.4,2.77
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2001,'0.37,1.43,'0.9,2.64
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2001,1.49,2.51,2.19,2.99
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2001,1.16,2.02,1.44,3.58
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2001,'0.42,2.33,1.61,2.5
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2001,'0.56,1.9,'0.81,2.69
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,2000,NA,1.38,NA,NA
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,2000,NA,NA,'0.35,NA
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,2000,'0.58,2.26,'0.98,1.13
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,2000,'0.9,1.55,1.46,2.15
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,2000,'0.18,'0.3,'0.12,'0.83
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,2000,'0.56,1.2,1.07,1.69
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,2000,3.86,5.3,4.67,4.67
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,2000,NA,3.06,NA,1.85
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,2000,1.87,3.46,2.45,2.48
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,2000,NA,'0.45,'0.24,NA
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,2000,1.25,1.76,1.73,NA
+OD,Puri,Nimapada,Nimapada,20.06111111,86.02888889,Nimapara,"Tube Well",W09881,2000,NA,1.57,NA,NA
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,2000,'0.47,1.13,'0.75,1.2
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,2000,'0.87,2.26,1.76,NA
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,2000,2.11,2.96,2.67,3.23
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,2000,'0.04,1.09,'0.64,'0.81
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,2000,'0.74,2.43,1.63,NA
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,2000,NA,2.43,NA,NA
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,2000,1.94,3.3,1.83,2.16
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,2000,NA,3.33,2.75,3.76
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,2000,'0.49,2.44,1.07,2.42
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,2000,1.36,2.76,1.58,1.62
+OD,Puri,Nimapada,Nimapada,20.075,85.9675,Dahijanga-1,"Tube Well",W09879,2000,NA,'0.68,NA,NA
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,2000,NA,1.3,'0.93,NA
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,2000,NA,4.45,4.23,4.86
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,2000,NA,2.57,1.38,2.1
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,2000,NA,3.09,2.54,NA
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,2000,NA,2.45,NA,3.44
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,2000,NA,6.21,5.93,6
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,2000,'0.29,NA,'0.84,'0.85
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,2000,'0.34,1.47,'0.87,1.56
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,2000,NA,2.22,1.41,2.1
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,2000,NA,2.53,NA,2.05
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,2000,NA,1.94,'0.77,1.09
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,2000,1.57,1.85,2.18,2.12
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,2000,'0.84,1.6,1.97,NA
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,2000,4.42,4.95,5.55,NA
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,2000,1.57,2.13,1.83,2.41
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,2000,'0.57,1.89,'0.85,1.73
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,2000,NA,2.89,1.69,2.89
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,2000,1.51,1.86,1.82,2.74
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,2000,NA,2.01,1.72,1.15
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,2000,1.44,2.06,1.97,2.32
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,1999,2.95,1.54,NA,2.23
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,1999,2.95,1.53,NA,5.22
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,1999,1.68,1.62,NA,3.14
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,1999,4.13,2.7,NA,3.83
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,1999,2.2,'0.74,NA,2.4
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,1999,1.4,1.44,NA,2.12
+OD,Puri,Nimapada,Nimapada,20.075,85.9675,Dahijanga-1,"Tube Well",W09879,1999,2.4,'0.89,NA,1.9
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,1999,'0.65,1.58,NA,'0.91
+OD,Puri,Nimapada,Nimapada,20.06111111,86.02888889,Nimapara,"Tube Well",W09881,1999,2.08,2.92,NA,4.38
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,1999,2,1.14,NA,1.6
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,1999,2.12,2,NA,5.63
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,1999,3.66,4.97,NA,5.23
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,1999,1.58,1.99,NA,5.67
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,1999,1.48,2.37,NA,4.3
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,1999,2.4,1.12,NA,2.98
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,1999,3.39,5.42,NA,4.37
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,1999,3.12,2.32,NA,3.19
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,1999,3.38,2.29,NA,3.97
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,1999,'0.6,'0.99,NA,2.28
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,1999,1.63,3.62,NA,5.59
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,1999,NA,1.54,NA,NA
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,1999,3.23,4.79,NA,7.43
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,1999,1.69,2.01,NA,2.09
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,1999,2.29,2.21,NA,4.37
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,1999,1.91,2.38,NA,3.75
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,1999,6.88,5.84,NA,7.13
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,1999,1.69,1.57,NA,2.63
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,1999,3.24,3.01,NA,4.01
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,1999,2.88,2.81,NA,3.93
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,1999,1.48,NA,NA,4.29
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,1999,2.86,3.06,NA,4.8
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,1999,3,1.82,NA,3.9
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,1999,1.78,1.35,NA,2.88
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,1999,2.65,3.82,NA,3.92
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,1999,2.91,NA,NA,3.6
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,1999,2.45,2.28,NA,3.45
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,1999,1.56,1.73,NA,3.24
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,1999,2.5,2.01,NA,3.82
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,1999,2.4,2.08,NA,3.5
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,1999,7.16,4.83,NA,7.35
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,1999,1.6,'0.86,NA,4.14
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,1999,2.02,1.16,NA,2.99
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,1999,3.85,3.13,NA,4.42
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,1998,1.63,1.6,1.23,2.38
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,1998,2.38,1.64,'0.91,2.58
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,1998,1.01,1.58,'0.53,2.63
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,1998,1.67,2.06,'0.98,2.49
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,1998,1.5,1.33,'0.01,1.7
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,1998,3.22,'0.79,'0.09,NA
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,1998,'0.23,1.74,1.3,2.12
+OD,Puri,Nimapada,Nimapada,20.06111111,86.02888889,Nimapara,"Tube Well",W09881,1998,NA,2.89,1.6,6.23
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,1998,1.5,1.34,'0.72,2.28
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,1998,3.38,2.86,1.11,4.7
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,1998,1.13,3.23,3.15,3.95
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,1998,1.66,1.4,'0.18,2.36
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,1998,2.18,2.56,1.09,4.79
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,1998,2.8,1.07,'0.7,1.54
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,1998,4.92,1.96,2,5.62
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,1998,2.53,3.01,2.14,2.93
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,1998,2.67,2.57,2.3,3.14
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,1998,'0.83,1.24,'0.56,1.65
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,1998,2.62,3.17,2.01,2.9
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,1998,'0.64,1.5,NA,1.54
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,1998,2.77,1.09,1.24,5.71
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,1998,1.98,1.29,'0.71,2.3
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,1998,NA,1.83,1.38,4.13
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,1998,NA,2.23,1.51,2.48
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,1998,5.88,5.97,5.87,5.91
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,1998,2.42,1.53,'0.83,2.12
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,1998,2.59,2.62,2.38,3.39
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,1998,2.75,3.46,2.15,4.31
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,1998,1.43,2.58,'0.92,3.3
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,1998,2,3.09,7.73,4.83
+OD,Puri,Nimapada,Nimapada,20.075,85.9675,Dahijanga-1,"Tube Well",W09879,1998,1.15,'0.78,'0.73,5.05
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,1998,1.5,2.1,1.12,2.62
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,1998,'0.75,1.76,'0.76,2.77
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,1998,1.99,2.91,2.37,3.25
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,1998,'0.86,2.27,1.3,2.97
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,1998,1.49,2.51,1.14,2.7
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,1998,1.8,'0.67,'0.19,NA
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,1998,'0.99,1.7,'0.64,1.97
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,1998,2.07,2.01,2.12,2.49
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,1998,1.9,NA,'0.65,2.83
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,1998,5.1,5.61,3.99,5.8
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,1998,NA,1.17,'0.59,2.2
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,1998,1.54,1.12,'0.47,1.73
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,1998,2.22,2.67,1.53,3.23
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,1997,'0.91,2.13,1.59,2.27
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,1997,1.1,2.52,2.04,2.55
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,1997,'0.82,2.6,'0.83,'0.92
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,1997,'0.71,2.58,1.43,2.47
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,1997,-0.13,'0.48,'0.5,'0.9
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,1997,'0.62,'0.72,'0.65,1.82
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,1997,-0.52,'0.68,'0.01,'0.96
+OD,Puri,Nimapada,Nimapada,20.06111111,86.02888889,Nimapara,"Tube Well",W09881,1997,1.62,2.52,2.4,3.73
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,1997,'0.62,1.5,'0.92,1.64
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,1997,'0.63,1.53,'0.81,3.38
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,1997,1.61,3.33,2.52,3.45
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,1997,'0.06,1.21,1.11,'0.84
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,1997,1.13,1.98,1.69,2.48
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,1997,'0.57,1.67,1.09,1.9
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,1997,-0.29,5.78,1.09,5.3
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,1997,1.98,2.69,NA,3.07
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,1997,1.81,3.64,2.43,2.97
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,1997,-0.47,1.48,'0.6,'0.23
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,1997,'0.67,3.42,2.12,2.88
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,1997,'0.42,2.65,'0.49,'0.84
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,1997,2.45,5.7,4.31,5.93
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,1997,1.14,2.58,1.59,2.18
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,1997,NA,1.78,1.28,4.05
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,1997,1.25,2.72,1.68,2.62
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,1997,5.81,6.53,6.13,6.3
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,1997,NA,NA,1.2,2.76
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,1997,1.61,2.97,2.39,2.11
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,1997,1.64,3.37,NA,3.63
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,1997,'0.52,2.71,1.47,2.75
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,1997,1.32,3.1,1.54,3
+OD,Puri,Nimapada,Nimapada,20.075,85.9675,Dahijanga-1,"Tube Well",W09879,1997,'0.7,1.2,'0.35,1.9
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,1997,1.18,2.3,1.8,2.9
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,1997,'0.67,1.53,'0.97,1.96
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,1997,1.29,2.49,2.29,2.29
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,1997,1.4,2.6,1.96,2.66
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,1997,1.18,2.46,2.23,2.5
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,1997,NA,2.14,NA,NA
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,1997,'0.76,1.78,'0.34,1.24
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,1997,1.17,2.42,1.65,3.95
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,1997,'0.5,2.4,1.35,2.9
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,1997,4.02,3.75,4.81,5.64
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,1997,'0.36,1.44,'0.8,1.64
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,1997,'0.37,1.64,'0.87,2.14
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,1997,1.15,1.88,1.32,4.28
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,1996,1.29,1.73,1.73,2.25
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,1996,1.57,1.28,1.62,1.86
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,1996,'0.73,1.6,1,1.17
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,1996,1.13,2.55,1.7,2.4
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,1996,'0.07,'0.34,'0.07,1.19
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,1996,1.12,'0.59,1.01,1.92
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,1996,1,'0.35,-0.09,1.05
+OD,Puri,Nimapada,Nimapada,20.06111111,86.02888889,Nimapara,"Tube Well",W09881,1996,2.3,1.55,2.31,3.36
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,1996,'0.92,1.22,1.05,1.7
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,1996,1.37,1.94,2.08,2.83
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,1996,2.4,2.93,2.67,3.62
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,1996,'0.46,1.01,'0.63,3.38
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,1996,1.46,1.59,1.69,2.5
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,1996,'0.68,1.2,1.19,1.99
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,1996,'0.46,5.04,'0.81,1.11
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,1996,2.63,2.18,3.28,2.85
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,1996,2.34,2.73,2.54,2.89
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,1996,'0.09,1.57,'0.32,'0.68
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,1996,1.34,2.41,2.49,2.52
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,1996,1.01,2.07,'0.96,2.89
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,1996,4.62,4.83,4.97,5.31
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,1996,'0.97,2.3,1.72,2.37
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,1996,NA,2.32,1.76,3.46
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,1996,1.49,2.11,1.9,3.46
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,1996,5.8,6.23,6.02,6.32
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,1996,1.3,1.79,1.5,2.61
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,1996,2.11,3.01,2.43,2.59
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,1996,2.1,2.75,2.73,3.57
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,1996,'0.62,2.01,1.01,2.63
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,1996,1.74,2.8,1.95,3.45
+OD,Puri,Nimapada,Nimapada,20.075,85.9675,Dahijanga-1,"Tube Well",W09879,1996,'0.83,'0.88,'0.63,5.45
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,1996,1.67,1.45,1.86,2.85
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,1996,'0.89,1.38,'0.97,2.17
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,1996,1.71,2.91,2.03,2.48
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,1996,2.23,1.36,2.16,3.63
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,1996,1.51,2.12,2,2.58
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,1996,-0.5,-0.2,-0.36,1.4
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,1996,1.11,1.84,1.01,1.44
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,1996,2.42,1.32,2.76,2.76
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,1996,'0.87,1.52,1.32,2.31
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,1996,2.18,4.05,3.22,3.49
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,1996,'0.93,1.44,'0.87,2.82
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,1996,'0.49,1.34,'0.94,1.85
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,1996,1.79,1.14,2.14,3.06
+OD,Puri,Satyabadi,Satyabadi,19.94944444,85.74777778,Algum,"Dug Well",W09896,1995,1.17,2.42,1.37,2.68
+OD,Puri,Gop,Gop,19.85777778,85.9425,Balighai,"Dug Well",W09865,1995,1.06,1.58,'0.85,4
+OD,Puri,Satyabadi,Satyabadi,19.95416667,85.77916667,Nuasamsarpur,"Dug Well",W09898,1995,'0.2,1.92,'0.83,2.33
+OD,Puri,Satyabadi,Satyabadi,19.97222222,85.82222222,Sadanandapur,"Dug Well",W09899,1995,'0.05,'0.5,NA,'0.45
+OD,Puri,Satyabadi,Satyabadi,19.94777778,85.80944444,Sakhigopal-I,"Tube Well",W09900,1995,'0.9,1.33,'0.74,1.96
+OD,Puri,Nimapada,Nimapada,20.07222222,85.96555556,Dahijanga-2,"Dug Well",W09880,1995,-0.27,'0.51,-0.37,1.43
+OD,Puri,Nimapada,Nimapada,20.06111111,86.02888889,Nimapara,"Tube Well",W09881,1995,3.6,2.71,'0.8,3.77
+OD,Puri,Nimapada,Nimapada,20.09388889,85.90416667,Renchsasan,"Dug Well",W09882,1995,'0.68,1.33,'0.82,1.65
+OD,Puri,Pipil,Pipil,20.09527778,85.80805556,Hatasahi,"Dug Well",W09883,1995,1.01,2.18,1.14,1.79
+OD,Puri,Pipil,Pipil,20.11527778,85.83888889,Kapilaprasad,"Dug Well",W09884,1995,1.94,3.13,2.13,3.65
+OD,Puri,Pipil,Pipil,20.04861111,85.82916667,Mangalpur,"Dug Well",W09885,1995,'0.07,1.26,'0.28,1.16
+OD,Puri,Pipil,Pipil,20.11055556,85.83472222,Pipli1,"Tube Well",W09886,1995,1.28,2.37,1.18,NA
+OD,Puri,Sadar,Sadar,19.83222222,85.87277778,Baliguari,"Dug Well",W09887,1995,'0.53,1.41,'0.65,3.25
+OD,Puri,Sadar,Sadar,19.88472222,85.85388889,Chalisbatia-1,"Tube Well",W09888,1995,NA,NA,NA,NA
+OD,Puri,Sadar,Sadar,19.88333333,85.86111111,Chalisbatia-2,"Tube Well",W09889,1995,NA,NA,NA,NA
+OD,Puri,Sadar,Sadar,19.89083333,85.815,Chandanpur,"Dug Well",W09890,1995,2.36,5.15,1.01,5.3
+OD,Puri,Sadar,Sadar,19.82361111,85.865,Madrang-1,"Tube Well",W09891,1995,2.51,3.24,2.55,3.12
+OD,Puri,Sadar,Sadar,19.90888889,85.88111111,Moradpada,"Dug Well",W09892,1995,2.29,2.84,2.17,3.25
+OD,Puri,Sadar,Sadar,19.89888889,85.77972222,Pratapramchandr,"Dug Well",W09893,1995,-0.33,'0.88,-0.54,'0.4
+OD,Puri,Sadar,Sadar,19.80694444,85.82333333,"Puri Town","Dug Well",W09894,1995,'0.93,1.71,1.21,2.48
+OD,Puri,Gop,Gop,19.94833333,86.03472222,Bedpursasan,"Dug Well",W09866,1995,1.49,3.04,2.12,1.92
+OD,Puri,Gop,Gop,20.02166667,85.98333333,Bhanti,"Dug Well",W09867,1995,'0.97,2.42,'0.46,2.26
+OD,Puri,Gop,Gop,19.88333333,86.08527778,Konark-2,"Tube Well",W09868,1995,'0.55,NA,'0.27,NA
+OD,Puri,Gop,Gop,19.925,85.99166667,Madrang-2,"Dug Well",W09869,1995,'0.84,3.33,'0.5,2.04
+OD,Puri,Gop,Gop,19.90472222,85.96444444,Mahapur,"Dug Well",W09870,1995,1.7,3.11,'0.6,4.45
+OD,Puri,Gop,Gop,19.97222222,86.07916667,Marad,"Dug Well",W09871,1995,1.56,2.41,1.39,3.09
+OD,Puri,Gop,Gop,19.85416667,86.06111111,Ramchandi,"Dug Well",W09872,1995,5.79,6.29,5.73,6.29
+OD,Puri,"Kakat Pur","Kakat Pur",19.94583333,86.12222222,Jaganathpara,"Dug Well",W09873,1995,1.45,2.2,'0.85,2.6
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.1925,Kakatpur,"Dug Well",W09874,1995,2.23,3.19,1.46,2.41
+OD,Puri,"Kakat Pur","Kakat Pur",20.00611111,86.19222222,Kakatpur1,"Tube Well",W09875,1995,2.3,3.42,2.35,3.57
+OD,Puri,Nimapada,Nimapada,20.03666667,85.88611111,Balanga,"Dug Well",W09877,1995,'0.29,2.01,1,1.71
+OD,Puri,Nimapada,Nimapada,20.05944444,86.08583333,Charichhak,"Dug Well",W09878,1995,1.61,2.91,1.34,2.11
+OD,Puri,Nimapada,Nimapada,20.075,85.9675,Dahijanga-1,"Tube Well",W09879,1995,'0.62,'0.56,'0.2,3.92
+OD,Puri,Astaranga,Astaranga,19.98055556,86.275,Astarang,"Dug Well",W09855,1995,1.65,2.05,'0.37,2.86
+OD,Puri,Astaranga,Astaranga,19.98555556,86.23944444,Juinti,"Dug Well",W09856,1995,'0.73,1.46,1.48,2.78
+OD,Puri,Astaranga,Astaranga,19.97777778,86.19583333,Kundheihat,"Dug Well",W09857,1995,1.71,3.09,1.35,2.55
+OD,Puri,Brahmagiri,Brahmagiri,19.80888889,85.74027778,Budhiabar,"Dug Well",W09859,1995,1.21,2.46,1.21,3.24
+OD,Puri,Astaranga,Astaranga,19.94,86.1825,Tikarpara1,"Dug Well",W10089,1995,1.25,2.12,'0.72,1.65
+OD,Puri,Gop,Gop,20.02055556,86.05833333,Tampalo,"Tube Well",W10090,1995,NA,'0.01,NA,1.56
+OD,Puri,Gop,Gop,20.02166667,86.05888889,Tampalo1,"Dug Well",W10091,1995,'0.9,1.87,'0.38,1.84
+OD,Puri,Brahmagiri,Brahmagiri,19.73944444,85.57305556,Gopinathpur1,"Dug Well",W09860,1995,1.78,2.24,1.42,2.74
+OD,Puri,Brahmagiri,Brahmagiri,19.79972222,85.70305556,"Rebana Nuagaon","Dug Well",W09861,1995,'0.65,2,'0.95,2.68
+OD,Puri,"Chilika Lake","Chilika Lake",19.67222222,85.45666667,Satpada,"Dug Well",W09862,1995,4.61,5.3,3,6.3
+OD,Puri,Delanga,Delanga,20.03611111,85.76944444,Delang,"Dug Well",W09863,1995,'0.94,1.49,'0.86,1.7
+OD,Puri,Gop,Gop,19.84444444,85.91138889,Baleshwarpatna,"Dug Well",W09864,1995,'0.26,1.34,'0.44,2.1
+OD,Puri,Satyabadi,Satyabadi,20.00138889,85.84027778,Kumareswar,"Dug Well",W09897,1995,'0.54,1.83,'0.37,'0.91

@@ -1,0 +1,546 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2018,NA,2.35,2.75,NA
+GJ,Anand,Anand,Anand,22.54444444,73.07083333,Sarsa_Pz_I,"Tube Well",W27859,2018,NA,NA,18.64,NA
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2018,27.66,22.38,NA,NA
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2018,1.14,'0.77,NA,NA
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2018,16.38,15.2,NA,NA
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2018,14.88,18.55,NA,NA
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2018,2.66,11.4,NA,NA
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2018,1.41,'0.55,NA,NA
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2018,28.56,23.71,NA,NA
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2018,NA,26.79,25.74,NA
+GJ,Anand,Anklav,Anklav,22.37638889,72.99722222,Anklav_Pz_II,"Tube Well",W27762,2018,NA,25.75,25.8,NA
+GJ,Anand,Tarapur,Tarapur,22.48611111,72.66111111,"Tarapur Pz-II","Tube Well",W27830,2018,NA,2.75,2.93,NA
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2018,9.47,8.44,NA,NA
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2018,13.24,22.86,NA,NA
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2018,4.38,3.75,NA,NA
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2018,21.75,21.72,NA,NA
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2018,22.09,22.5,NA,NA
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2018,NA,NA,4.18,NA
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2018,NA,NA,3.09,4.77
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2018,7.05,NA,NA,14.21
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2018,18,NA,NA,NA
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2018,'0.05,NA,NA,NA
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,Borsad_Pz_II,"Tube Well",W27783,2018,14.39,16,NA,NA
+GJ,Anand,Petlad,Petlad,22.475,72.8,Petlad_Pz_I,"Tube Well",W27821,2018,12.07,13.4,NA,NA
+GJ,Anand,Tarapur,Tarapur,22.51083333,72.56666667,Tol,"Dug Well",W31541,2018,'0.44,7.7,NA,NA
+GJ,Anand,Anand,Anand,22.63222222,73.00416667,Boriyani,"Dug Well",W31552,2018,6.15,6,NA,NA
+GJ,Anand,Anand,Anand,22.47861111,73.03027778,Adas_DW,"Dug Well",W31534,2018,28.62,19.7,NA,NA
+GJ,Anand,Umreth,Umreth,22.71361111,73.12666667,Parvata,"Dug Well",W31560,2018,2.55,13.8,NA,NA
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2018,NA,2.46,3.74,NA
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2017,2.65,3.15,3.1,4.03
+GJ,Anand,Anand,Anand,22.54444444,73.07083333,Sarsa_Pz_I,"Tube Well",W27859,2017,NA,21.32,NA,19.47
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2017,4.15,5.48,5.09,6.25
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2017,20.32,21.34,22.02,22.52
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2017,19.74,21.42,22,23.13
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2017,3.77,1.5,1.49,2.37
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2017,14.2,16.62,16.68,18.29
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2017,16.35,17.45,17.4,19.31
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2017,3.92,26.56,4.61,26.56
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2017,NA,1.35,1.38,3.15
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2017,NA,15.06,13.97,14.85
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2017,NA,3.6,2.5,4.28
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2017,12.7,NA,11.07,13.89
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2017,3.3,NA,2.26,6.65
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2017,'0.68,NA,1.87,4.99
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2017,24.43,25.93,NA,27.88
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2017,9.63,10.92,NA,15.79
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2017,5.81,3.89,NA,7.11
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2017,NA,21.85,NA,27.09
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2017,NA,NA,NA,18.1
+GJ,Anand,Anand,Anand,22.47861111,73.03027778,Adas_DW,"Dug Well",W31534,2017,22.05,22.28,22.65,NA
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,Borsad_Pz_II,"Tube Well",W27783,2017,14.35,15.46,14.52,16.93
+GJ,Anand,Tarapur,Tarapur,22.48611111,72.66111111,"Tarapur Pz-II","Tube Well",W27830,2017,3,3.15,2.57,4.14
+GJ,Anand,Petlad,Petlad,22.475,72.8,Petlad_Pz_I,"Tube Well",W27821,2017,10.4,13.1,13,14.44
+GJ,Anand,Anand,Anand,22.63222222,73.00416667,Boriyani,"Dug Well",W31552,2017,2.5,5.75,2.85,8.85
+GJ,Anand,Tarapur,Tarapur,22.51083333,72.56666667,Tol,"Dug Well",W31541,2017,1.9,9.26,NA,4.98
+GJ,Anand,Umreth,Umreth,22.71361111,73.12666667,Parvata,"Dug Well",W31560,2017,4.8,17.95,NA,7.38
+GJ,Anand,Anklav,Anklav,22.37638889,72.99722222,Anklav_Pz_II,"Tube Well",W27762,2017,NA,25.88,NA,27.7
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2017,9.41,13.8,12.16,15.19
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2016,10.18,NA,10.04,10.53
+GJ,Anand,Umreth,Umreth,22.71361111,73.12666667,Parvata,"Dug Well",W31560,2016,3.7,5.25,8.13,7.88
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2016,NA,NA,27.48,26.94
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2016,4.77,NA,2.1,2.33
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2016,17.05,NA,17.04,17.75
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2016,3.93,NA,3.3,4.69
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2016,1.85,NA,4.63,4.52
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2016,5.35,NA,5.19,5.69
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2016,'0.82,NA,1.49,1.08
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2016,13.35,NA,13.38,14.2
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2016,3.41,NA,3.81,7.41
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2016,NA,NA,NA,17.55
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2016,4.92,NA,NA,26.56
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2016,13.52,NA,NA,13.9
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2016,NA,NA,'0.98,2.97
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2016,3.54,NA,12.58,10.27
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2016,2.77,NA,2.6,3.32
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2016,15.2,NA,15.64,17.65
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2016,13.93,NA,21.15,19.65
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2016,9.46,NA,20.85,19.69
+GJ,Anand,Anklav,Anklav,22.37638889,72.99722222,Anklav_Pz_II,"Tube Well",W27762,2016,NA,23.9,24.97,24.45
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,Borsad_Pz_II,"Tube Well",W27783,2016,14.76,13.94,14.8,14.22
+GJ,Anand,Petlad,Petlad,22.475,72.8,Petlad_Pz_I,"Tube Well",W27821,2016,4.63,11.57,13.08,11.8
+GJ,Anand,Tarapur,Tarapur,22.48611111,72.66111111,"Tarapur Pz-II","Tube Well",W27830,2016,1.81,2.81,2.23,3.05
+GJ,Anand,Anand,Anand,22.54444444,73.07083333,Sarsa_Pz_I,"Tube Well",W27859,2016,NA,16.13,15.74,16.5
+GJ,Anand,Anand,Anand,22.47861111,73.03027778,Adas_DW,"Dug Well",W31534,2016,4.42,20.6,NA,NA
+GJ,Anand,Tarapur,Tarapur,22.51083333,72.56666667,Tol,"Dug Well",W31541,2016,'0.4,1.02,8.74,1.18
+GJ,Anand,Anand,Anand,22.63222222,73.00416667,Boriyani,"Dug Well",W31552,2016,2.6,7.4,5.16,8.14
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2016,NA,NA,25.53,24.31
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2015,8.79,8.19,8.45,2.58
+GJ,Anand,Anand,Anand,22.63222222,73.00416667,Boriyani,"Dug Well",W31552,2015,NA,NA,4.15,NA
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2015,24.6,23.03,26.81,4.25
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2015,2.27,1.77,1.24,4.97
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2015,15.22,14.33,14.87,14.77
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2015,3.23,2.99,3.34,2.72
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2015,3.14,4,3.12,4.32
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2015,4.02,3.69,3.9,6
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2015,'0.38,1.57,'0.93,1.65
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2015,12.14,11.62,11.82,6.09
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2015,3.76,3.22,3.4,6.34
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2015,NA,12.72,NA,13.3
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2015,23.96,NA,26.56,5.79
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2015,NA,NA,10.08,4.17
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2015,2.17,1.97,2.47,6.65
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2015,8.6,10.56,11.47,10.86
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2015,NA,4.16,NA,4.32
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2015,'0.79,2.91,2.23,3.25
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2015,NA,NA,12.57,5.2
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2015,17.84,17.7,19.28,18.22
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2015,18.29,18.62,21.54,19.03
+GJ,Anand,Anklav,Anklav,22.37638889,72.99722222,Anklav_Pz_II,"Tube Well",W27762,2015,NA,21.15,NA,21.51
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,Borsad_Pz_II,"Tube Well",W27783,2015,12,11.4,11.51,11.61
+GJ,Anand,Petlad,Petlad,22.475,72.8,Petlad_Pz_I,"Tube Well",W27821,2015,10.84,12.05,12.13,12.43
+GJ,Anand,Tarapur,Tarapur,22.48611111,72.66111111,"Tarapur Pz-II","Tube Well",W27830,2015,'0.73,2.8,2.63,3.04
+GJ,Anand,Anand,Anand,22.54444444,73.07083333,Sarsa_Pz_I,"Tube Well",W27859,2015,15.65,NA,14.52,NA
+GJ,Anand,Anand,Anand,22.47861111,73.03027778,Adas_DW,"Dug Well",W31534,2015,NA,NA,19.17,NA
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2015,NA,20.79,NA,21.02
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2014,7.67,7.3,6.58,9.19
+GJ,Anand,Anand,Anand,22.54444444,73.07083333,Sarsa_Pz_I,"Tube Well",W27859,2014,NA,NA,13.5,NA
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2014,20.51,22.48,23.1,23.38
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2014,'0.79,2.27,1.49,2.37
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2014,12.34,14.26,13.37,15.53
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2014,1.21,NA,2.1,4.06
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2014,NA,NA,2.5,5.8
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2014,2.31,3.45,2.6,3.45
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2014,NA,1.87,1.07,4.38
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2014,9.63,NA,9.34,11.68
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2014,'0.16,2.56,2.53,6.16
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2014,12.24,11.51,11.92,13.57
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2014,22.32,22.26,NA,23.92
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2014,8.71,9.55,NA,11
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2014,NA,NA,1.17,3.95
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2014,8.96,10.8,9.82,11.28
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2014,NA,3.55,2.88,3.55
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2014,2.07,3.25,2.31,4.22
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2014,10.18,12.91,NA,12.91
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2014,18.41,17.16,17.4,19.2
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2014,18.15,17.77,17.88,19.72
+GJ,Anand,Anklav,Anklav,22.37638889,72.99722222,Anklav_Pz_II,"Tube Well",W27762,2014,NA,20.29,21.55,22.62
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,Borsad_Pz_II,"Tube Well",W27783,2014,9.73,11.64,10.1,16.04
+GJ,Anand,Petlad,Petlad,22.475,72.8,Petlad_Pz_I,"Tube Well",W27821,2014,10.2,11.04,10.06,10.67
+GJ,Anand,Tarapur,Tarapur,22.48611111,72.66111111,"Tarapur Pz-II","Tube Well",W27830,2014,2.08,2.45,2.27,4.6
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2014,NA,20.46,20.69,22.53
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2013,9.14,9.12,6.79,11.19
+GJ,Anand,Anand,Anand,22.54444444,73.07083333,Sarsa_Pz_I,"Tube Well",W27859,2013,2.7,NA,NA,NA
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2013,18.71,25.76,21.48,25.18
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2013,'0.69,NA,2.77,3.37
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2013,14.65,16.68,14.35,18.26
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2013,'0.8,4.6,1.99,NA
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2013,'0.98,4.17,3.25,6.48
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2013,3.65,6.11,NA,6.7
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2013,6.13,8.5,1.25,6.45
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2013,10.55,13.32,9.2,NA
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2013,1.91,4.72,1.95,7.46
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2013,11.72,15.1,11.79,17.02
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2013,24.01,26.56,22.61,26.56
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2013,8.8,14.61,8.95,16.1
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2013,NA,1.68,NA,3.9
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2013,NA,NA,11.31,NA
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2013,NA,NA,NA,6.63
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2013,1.25,2.03,2.12,3.91
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2013,13.2,NA,NA,18.62
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2013,19.75,20.65,17.4,20.16
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2013,19.32,20.98,17.86,20.98
+GJ,Anand,Anklav,Anklav,22.37638889,72.99722222,Anklav_Pz_II,"Tube Well",W27762,2013,22.12,23.74,21.25,26.26
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,Borsad_Pz_II,"Tube Well",W27783,2013,12.85,13.38,11.7,16.24
+GJ,Anand,Petlad,Petlad,22.475,72.8,Petlad_Pz_I,"Tube Well",W27821,2013,10.98,12.83,10.8,13.3
+GJ,Anand,Tarapur,Tarapur,22.48611111,72.66111111,"Tarapur Pz-II","Tube Well",W27830,2013,'0.95,2.43,2.45,4.16
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2013,22.09,23.37,20.39,25.07
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2012,NA,8.08,8.21,9.49
+GJ,Anand,Tarapur,Tarapur,22.48611111,72.66111111,"Tarapur Pz-II","Tube Well",W27830,2012,NA,NA,2.17,NA
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2012,NA,23.46,23.28,24.98
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2012,NA,14.25,14.98,15.5
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2012,NA,3.5,2.87,4.54
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2012,NA,NA,2.9,6.15
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2012,NA,3.67,4.53,4.95
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2012,NA,1.06,NA,3.97
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2012,NA,11.19,11.61,12.75
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2012,NA,3.8,2.88,6.42
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2012,NA,12.71,14.2,16.32
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2012,NA,25.88,26.56,26.56
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2012,NA,11.29,11.87,13.8
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2012,NA,1.61,1.05,3.15
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2012,NA,NA,NA,12.38
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2012,NA,4.25,NA,5.4
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2012,NA,2.52,1.66,4.02
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2012,NA,15.68,NA,16.7
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2012,NA,18.39,18.57,20.25
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2012,NA,17.91,19,19.6
+GJ,Anand,Anklav,Anklav,22.37638889,72.99722222,Anklav_Pz_II,"Tube Well",W27762,2012,NA,NA,22.96,NA
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,Borsad_Pz_II,"Tube Well",W27783,2012,NA,NA,11.81,NA
+GJ,Anand,Petlad,Petlad,22.475,72.8,Petlad_Pz_I,"Tube Well",W27821,2012,NA,NA,11.57,NA
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2012,NA,22.26,22.88,23.29
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2011,7.83,7.24,7.73,8.99
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2011,17.98,16.72,18.16,22.44
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2011,1.93,20.77,23.31,23.11
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2011,NA,6.97,NA,NA
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2011,12.5,11.67,14.29,15.11
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2011,1.75,4.24,2.86,5.23
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2011,NA,3.88,3.21,7.43
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2011,NA,NA,3.11,NA
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2011,NA,1.98,2.63,5.73
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2011,10.21,10.38,10.53,12.18
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2011,2.41,2.96,3.14,5.55
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2011,13.82,13.54,13.78,15.95
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2011,23.31,23.67,24.11,25.99
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2011,10.05,11.26,11.19,13.55
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2011,NA,1.29,1.6,2.54
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2011,10.42,10.62,NA,12.44
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2011,NA,3.19,4.52,5.61
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2011,1.7,2.2,2.33,3.61
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2011,NA,15.22,15.57,17.51
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2011,18.11,17.14,18.41,19.12
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2011,21.18,22.14,22.35,14.68
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2010,13.4,NA,12.62,NA
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2010,6.81,7,6.81,8.1
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2010,21.83,25.95,21.89,23.47
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2010,20.15,20.98,21.28,19.58
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2010,10.61,13.58,11.24,16.3
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2010,4.11,4.42,4.58,5.27
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2010,NA,4.02,NA,4.55
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2010,NA,NA,2.7,4.37
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2010,NA,1.7,1.95,NA
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2010,NA,12.65,9.45,12.17
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2010,1.37,3.69,2.16,5.03
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2010,24.16,24.56,23.61,26.21
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2010,10.11,12.83,9.95,14.35
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2010,NA,1.11,'0.48,2.5
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2010,8.94,NA,7.56,13
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2010,3.9,NA,3.41,5.02
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2010,1.15,2.4,1.5,3.57
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2010,14.92,NA,15.42,15.7
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2010,16.8,17.18,6.23,17.68
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2010,17.08,16.48,6.89,18.58
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2009,3.5,2.55,2.22,4.02
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2009,NA,7.2,NA,NA
+GJ,Anand,Borsad,Cambay,22.46027778,72.42305556,Golana-2,"Tube Well",W19008,2009,NA,1.21,NA,1.72
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2009,16.36,14.44,15.95,16.27
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2009,15.74,14.01,15.23,15.8
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2009,3,2.92,9.71,5.25
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2009,23.78,22.11,NA,23.12
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2009,13.6,9.78,11.92,10.65
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2009,'0.77,'0.49,'0.95,3.2
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2009,11.21,9.58,10.11,9.6
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2009,4.71,5.58,4.27,5.72
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2009,14.1,11.65,10.84,13.3
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2009,4.82,3.65,5.02,4.47
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2009,4.84,3.17,3.76,5.11
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2009,2.98,1.71,3.05,3.21
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2009,NA,2.09,NA,4.58
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2009,11.09,8.22,10.3,10.12
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2009,16.55,12.79,13.98,12.68
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2009,6.61,5.1,6.24,6.97
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2009,22.59,19.07,21.59,21.03
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2009,19.88,17.72,20.62,19.58
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2009,NA,12.76,NA,13.82
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2008,NA,NA,12.44,12.91
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2008,NA,7.2,NA,NA
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2008,14.35,13.8,NA,15.05
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2008,14.2,14.37,NA,14.82
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2008,1.25,2.58,2.47,4.28
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2008,21.38,21.42,23.54,21.63
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2008,9.25,9.05,8.88,9.4
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2008,NA,'0.05,'0.18,1.3
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2008,NA,9.81,7.7,7.51
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2008,NA,4.1,3.82,4.8
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2008,1.68,2.7,2.09,4.01
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2008,9.57,10.75,10.15,11.1
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2008,1.4,4.22,3.19,4.55
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2008,NA,NA,1.98,3.85
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2008,'0.7,2.33,1.07,NA
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2008,NA,1.9,1.43,2.16
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2008,7.8,8.95,7.71,9.83
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2008,11.42,8.52,12.05,21.23
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,2008,NA,NA,7.54,NA
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2008,4.58,6.99,4.4,6.55
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2008,18.04,17.59,19.12,18.38
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2008,16.83,14.31,7.26,17.33
+GJ,Anand,Borsad,Cambay,22.46027778,72.42305556,Golana-2,"Tube Well",W19008,2008,NA,4.04,'0.83,4.46
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2007,12.47,13.35,NA,14.7
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2007,17.16,16.73,15.58,NA
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2007,14.6,NA,13.9,NA
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2007,14.92,16.37,13.54,16.05
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2007,'0.42,2.58,1.58,1.9
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2007,20.86,21.71,10.78,22.71
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2007,8.4,9,7.83,11.4
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2007,NA,NA,NA,1.6
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2007,NA,9.85,NA,9.9
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2007,3.1,3.48,3.01,3.8
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2007,1.37,2.75,NA,3.12
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2007,7.56,8.3,6.45,12.3
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2007,4.1,4.85,5.35,3.7
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2007,1.25,2.2,1.18,3.65
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2007,'0.71,1.63,1.87,3.29
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2007,7.6,9.7,7.8,10.25
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2007,13.79,NA,10.37,9.02
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,2007,NA,NA,41.2,NA
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2007,5.18,6.33,4.53,7.78
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2007,NA,18,NA,19.15
+GJ,Anand,Borsad,Cambay,22.46027778,72.42305556,Golana-2,"Tube Well",W19008,2007,-0.49,NA,NA,NA
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2006,13.28,16,12.75,15.85
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2006,1.38,NA,1.4,NA
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2006,NA,18.2,NA,18.98
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2006,16.17,18.12,NA,18.63
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2006,'0.4,2.38,2,3.5
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2006,21.61,22.76,21.71,24.16
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2006,7.05,9.61,7.88,10.57
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2006,NA,'0.33,NA,1.57
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2006,6.15,11.4,NA,10.55
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2006,3.68,4.1,3.4,4.67
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2006,'0.83,2.05,2.05,3.55
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2006,6.05,12.35,9.94,11.65
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2006,5.05,7.48,5.05,8.01
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2006,'0.15,1.95,NA,5.41
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,2006,10.43,NA,10.45,14.53
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2006,'0.37,1.9,1.15,3.97
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2006,1.3,2.05,1.7,4.35
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2006,7.3,11.4,7.8,12.48
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2006,14.65,15.15,13.13,15.42
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,2006,4,10.6,NA,10.5
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2006,5.23,8.68,5.48,9.64
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2006,18.1,20.75,17.8,22.05
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2006,11.88,NA,15.76,21.21
+GJ,Anand,Borsad,Cambay,22.46027778,72.42305556,Golana-2,"Tube Well",W19008,2006,'0.15,2.29,NA,2.38
+GJ,Anand,Borsad,Borsad,22.35555556,72.89722222,Bhadran-2,"Dug Well",W19006,2005,16.53,19.2,15.87,17.85
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2005,NA,19.2,NA,3.59
+GJ,Anand,Anand,Anand,22.51111111,72.98194444,"Walmi_ I","Tube Well",W19003,2005,20.32,21.82,18.53,23.01
+GJ,Anand,Anand,Anand,22.50833333,72.98222222,"Walmi_ II","Tube Well",W19004,2005,20.37,21.65,18.61,22.7
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2005,'0.59,3.6,2.17,5.32
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2005,23.91,23.91,23.72,23.91
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2005,11.1,15.2,9.96,17.38
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2005,'0.01,'0.65,'0.09,2.73
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2005,10.6,14.08,NA,14.35
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2005,NA,5.7,4.96,5.75
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2005,1.26,-0.85,2.2,4
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2005,14.13,16.5,12.58,18.29
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2005,7.58,9.5,6.39,9.99
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2005,5.3,6.6,3.62,7.68
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,2005,16.05,17.58,13.6,18.31
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2005,1.62,NA,1.47,6.18
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2005,'0.01,3.05,1.44,6.06
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2005,13.15,15.25,10.92,16.17
+GJ,Anand,Anklav,Anand,22.45,73.075,Vasad,"Dug Well",W08277,2005,NA,NA,NA,9.65
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2005,17.26,13.87,15.72,18.64
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,2005,NA,NA,11.14,NA
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2005,10.3,12.08,8.58,12.88
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2005,22.99,25.55,21.24,26.9
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2005,20.71,NA,19.6,26.8
+GJ,Anand,Borsad,Cambay,22.46027778,72.42305556,Golana-2,"Tube Well",W19008,2005,1.95,3.45,2.95,3.3
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2004,NA,6.09,5.91,5.22
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2004,NA,3.47,19.18,3.43
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2004,NA,1.47,'0.27,2.75
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2004,NA,15.73,15.51,15.62
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2004,NA,8.85,NA,7.54
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2004,NA,3.66,2.82,4.72
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2004,NA,19.18,16.16,21.02
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2004,NA,10.26,9.62,10.3
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2004,NA,9,6.01,9.4
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,2004,NA,24.95,18.35,19.8
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2004,NA,6.17,NA,NA
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2004,NA,5.05,3.47,6.1
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2004,NA,17.33,14.88,17.35
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,2004,NA,NA,NA,19.83
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2004,NA,18.45,18.67,18.52
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,2004,NA,4.2,18.65,NA
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2004,NA,13.28,12.12,13.6
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2004,NA,28.86,25,27.35
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2004,NA,26.06,25.06,27.43
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2004,NA,16.12,14.84,16.6
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2003,NA,10.27,6.02,NA
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2003,21.68,22.23,1.85,NA
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2003,NA,3.72,'0.63,4.4
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2003,NA,NA,15.59,NA
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2003,8.19,11.36,6.41,12.74
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2003,3.59,6.91,2.84,8.09
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2003,19.86,19.05,19.16,NA
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2003,11.33,14.48,11.29,14.07
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2003,NA,11.52,8.68,NA
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,2003,20.15,20.1,19.89,NA
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2003,1.64,7.43,5.77,NA
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2003,5.99,7.6,3.95,NA
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2003,18.54,19.15,16.95,20.51
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,2003,22.23,21.57,NA,NA
+GJ,Anand,Anklav,Anand,22.45,73.075,Vasad,"Dug Well",W08277,2003,NA,8.86,NA,NA
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2003,18.29,19.87,18.35,NA
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,2003,NA,18.78,NA,NA
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2003,13.88,13.54,14.08,14.44
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2003,27.69,28.8,28.95,NA
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2003,NA,28.97,28.38,NA
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2003,16.29,NA,17.61,NA
+GJ,Anand,Umreth,Umreth,22.69583333,73.02916667,Pansora,"Tube Well",W08292,2002,11.95,NA,NA,NA
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2002,13.15,10.2,NA,12.1
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2002,NA,24.86,NA,NA
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2002,NA,16,NA,NA
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2002,4.45,3.91,3.8,4.4
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,2002,NA,NA,16.74,NA
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2002,NA,11.6,12.46,NA
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2002,8.3,7.25,7.04,8.13
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2002,18.95,16.65,NA,18.4
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2002,12.8,9.1,14.24,10.95
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2002,11.05,9.91,11.16,11.2
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,2002,21.05,17.45,20.45,19.45
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2002,10.73,7.85,7.71,10.57
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2002,18.95,18.55,23.69,18.35
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,2002,23.6,19.45,NA,23.7
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2002,19.19,17.2,NA,19.1
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2002,13.23,11.58,12.43,12.48
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2002,25.95,27.35,28.58,28.55
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2002,26.78,27.88,NA,NA
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2002,22.05,20.3,21.68,7.3
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,2001,16.2,15.11,NA,18.05
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2001,18.16,NA,19.2,16.2
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2001,24.93,26.76,26.18,NA
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2001,25.02,23.13,NA,24
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2001,9.63,9.86,11.13,10.78
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,2001,17.41,14.99,NA,15.65
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,2001,19.24,16.36,18.3,NA
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2001,16.15,15.23,16.85,14.15
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2001,4.84,6.77,NA,NA
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2001,NA,6.88,NA,8.11
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2001,7.81,6.74,8.5,NA
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2001,15.41,14.28,NA,15.8
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2001,6.27,3.65,NA,8.05
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2001,NA,8.98,NA,10.8
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2001,2.87,3.43,3.6,3.45
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2001,14.83,12.98,15.5,14
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2001,24.62,24.84,24.06,NA
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2001,9.34,7.78,9.45,8.9
+GJ,Anand,Umreth,Umreth,22.69583333,73.02916667,Pansora,"Tube Well",W08292,2001,NA,7.07,NA,NA
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,2000,12.95,NA,14.25,NA
+GJ,Anand,Petlad,Tarapur,22.49583333,72.65416667,Tarapur-2,"Dug Well",W08291,2000,NA,-1.7,2.9,NA
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,2000,5.21,4.55,NA,6.11
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,2000,NA,NA,12.9,NA
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,2000,5.53,3.72,6.52,4.82
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,2000,3,2.95,3.7,3.6
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,2000,6.2,5.45,6.64,7.7
+GJ,Anand,Anklav,Anand,22.45,73.075,Vasad,"Dug Well",W08277,2000,5.46,5.81,5.07,NA
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,2000,21.34,19.65,22.85,20.75
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,2000,4.59,3.66,5.95,4.7
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,2000,13.1,-1.7,15.15,NA
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,2000,6.7,6.97,7.95,6.93
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,2000,5.2,4,7.05,5.4
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,2000,NA,1.58,3.57,2.95
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,2000,22.38,19.31,23.58,23.58
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,2000,12,10.2,3.82,10.8
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,2000,11.85,13.1,24.05,11.35
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,2000,23.56,23.38,24.36,24.36
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,2000,8.68,7,9.13,8.38
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,2000,5.12,NA,6.15,5.5
+GJ,Anand,Umreth,Umreth,22.69583333,73.02916667,Pansora,"Tube Well",W08292,2000,3.77,3.26,6,4.17
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,2000,9.48,10.04,12.91,10.9
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,1999,21.54,22.24,22.5,21.69
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,1999,2.4,2.3,2.36,2.1
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,1999,'0.5,1.4,1.9,2
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,1999,NA,6.45,7.52,NA
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,1999,2.83,3.35,3.53,3.6
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,1999,1.65,2.52,2.61,2.83
+GJ,Anand,Petlad,Tarapur,22.49583333,72.65416667,Tarapur-2,"Dug Well",W08291,1999,'0.86,1.2,NA,1.65
+GJ,Anand,Umreth,Umreth,22.69583333,73.02916667,Pansora,"Tube Well",W08292,1999,NA,1.42,1.35,NA
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,1999,11.39,10.2,11.43,11.42
+GJ,Anand,Anklav,Anand,22.45,73.075,Vasad,"Dug Well",W08277,1999,NA,NA,NA,5.01
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,1999,NA,8.15,11.5,9.35
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,1999,5.19,5.75,6.16,5.75
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,1999,4.87,4.87,5.54,5.68
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,1999,16.84,14.21,17.89,16.75
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,1999,18.46,16.36,16.58,18.48
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,1999,10.55,9.4,2.26,2.6
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,1999,8.61,6.7,8.86,8.43
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,1999,4.29,2.82,4.92,5.02
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,1999,'0.83,1.54,1.89,2.5
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,1999,8.31,7.8,9.47,9.1
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,1999,1.92,3.45,3.09,3.72
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,1999,'0.95,1.4,2.5,2.18
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,1999,7.05,7.47,10.26,8.45
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,1999,9.25,8.45,16.4,8.25
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,1998,20.66,21.39,24,22.32
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,1998,8.4,9.4,7.75,9.7
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,1998,1.35,1.3,'0.4,2.43
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,1998,6.7,8.14,7.12,6.65
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,1998,1.98,4.9,3.1,3.96
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,1998,1.05,3.11,3,3.65
+GJ,Anand,Petlad,Tarapur,22.49583333,72.65416667,Tarapur-2,"Dug Well",W08291,1998,1.1,1.63,1.5,2.2
+GJ,Anand,Umreth,Umreth,22.69583333,73.02916667,Pansora,"Tube Well",W08292,1998,NA,2.69,1.95,'0.91
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,1998,10.1,11.3,10.06,7.88
+GJ,Anand,Anklav,Anand,22.45,73.075,Vasad,"Dug Well",W08277,1998,4.88,5.16,4.76,5.56
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,1998,9.25,10.68,9.2,10.05
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,1998,5.3,4.52,5.75,4.18
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,1998,4.46,5.33,3.3,3.96
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,1998,16.15,17.72,15.4,18.25
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,1998,17.23,18.23,15.76,17.03
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,1998,10.15,2.47,9.22,1.5
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,1998,5.47,8.58,6.1,8.25
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,1998,1.8,4.2,2.7,4.12
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,1998,NA,3.02,1.6,NA
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,1998,NA,8.77,NA,NA
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,1998,'0.75,2.82,1.8,4.25
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,1998,1.55,3.3,2.38,NA
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,1998,6.95,9.63,7.75,8.4
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,1998,'0.33,2.47,2,1.43
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,1997,NA,22.36,21.66,22.27
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,1997,5.77,10.15,9.05,8.96
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,1997,NA,1.56,1.7,1.57
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,1997,NA,2.66,1.75,4.47
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,1997,NA,8.81,9.6,10.59
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,1997,NA,2.01,1.25,2.85
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,1997,'0.51,2.08,2.7,3.06
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,1997,6.11,6.09,4.7,7.85
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,1997,3.5,1.83,1.65,5.28
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,1997,11.46,18.8,17.68,17.66
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,1997,NA,18.67,15.78,18.59
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,1997,4.07,5.35,NA,5.78
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,1997,NA,3.95,NA,8.01
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,1997,NA,10.51,9.3,10.81
+GJ,Anand,Anklav,Anand,22.45,73.075,Vasad,"Dug Well",W08277,1997,3.53,5.64,4.54,6.14
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,1997,12.32,12.92,10.6,12.92
+GJ,Anand,Umreth,Umreth,22.69583333,73.02916667,Pansora,"Tube Well",W08292,1997,NA,1.47,NA,1.62
+GJ,Anand,Petlad,Tarapur,22.49583333,72.65416667,Tarapur-2,"Dug Well",W08291,1997,'0.38,1.75,1,1.22
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,1997,'0.48,1.6,2.5,2.84
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,1997,1.87,3.51,3.1,2.91
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,1997,8.52,7.73,5.6,9.68
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,1997,NA,1.1,'0.45,2.09
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,1997,10.41,10.05,8,10.31
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,1997,'0.27,2.03,1.92,2.26
+GJ,Anand,Khambhat,Petlad,22.42083333,72.79444444,Dharmaj,"Dug Cum Bore Well",W07746,1996,8.2,10.35,8.5,10.75
+GJ,Anand,Borsad,Borsad,22.3125,72.9625,Navapura,"Dug Well",W08280,1996,19.6,22.26,24.1,26.76
+GJ,Anand,Karamsad,Cambay,22.275,72.76666667,Dali,"Dug Cum Bore Well",W07741,1996,1.4,2.74,2.8,2.75
+GJ,Anand,Borsad,Borsad,22.29444444,72.79027778,Kathana,"Tube Well",W08278,1996,10.7,11.58,10.5,11.57
+GJ,Anand,Khambhat,Petlad,22.54166667,72.81666667,Bandhani-1,"Dug Well",W07744,1996,2.6,3.07,2.3,NA
+GJ,Anand,Anklav,Anand,22.45,73.075,Vasad,"Dug Well",W08277,1996,6,6.16,5.9,6.87
+GJ,Anand,Borsad,Borsad,22.40972222,72.90138889,"Borsad I","Tube Well",W07738,1996,5.45,9.1,6.54,NA
+GJ,Anand,Anklav,Anand,22.54722222,73.06388889,Sarsa2,"Dug Well",W08276,1996,13.1,12.57,11.7,12.9
+GJ,Anand,Umreth,Umreth,22.69166667,73.05416667,Ghora,"Dug Well",W07747,1996,'0.9,2.07,2,2.88
+GJ,Anand,Umreth,Umreth,22.69583333,73.02916667,Pansora,"Tube Well",W08292,1996,'0.5,1.61,1,1.92
+GJ,Anand,Borsad,Borsad,22.34583333,72.83333333,Bhadran-1,"Dug Well",W07737,1996,'0.7,1.8,1.8,2.15
+GJ,Anand,Petlad,Tarapur,22.49583333,72.65416667,Tarapur-2,"Dug Well",W08291,1996,'0.84,5,1.5,7.1
+GJ,Anand,Khambhat,Petlad,22.47083333,72.86666667,Ashi,"Tube Well",W07743,1996,NA,NA,8.4,10.38
+GJ,Anand,Petlad,Tarapur,22.48611111,72.66111111,Tarapur-1,"Tube Well",W08289,1996,1,NA,1.58,2.74
+GJ,Anand,Boriavi,Anklav,22.38333333,73.00833333,Anklav-2,"Dug Well",W07736,1996,12.5,18.82,20,20.78
+GJ,Anand,Ode,Sojitra,22.53888889,72.71944444,Sojitra,"Tube Well",W08287,1996,1.45,3.95,3.69,3.66
+GJ,Anand,Khambhat,Petlad,22.45833333,72.80277778,Davalpura,"Tube Well",W07745,1996,'0.54,NA,1.62,1.88
+GJ,Anand,Khambhat,Petlad,22.475,72.8,Petalad,"Tube Well",W08285,1996,5.7,8.88,7.3,8.88
+GJ,Anand,Boriavi,Anklav,22.37638889,72.99722222,Anklav-1,"Tube Well",W07734,1996,17.3,17.64,22.4,19.09
+GJ,Anand,Karamsad,Cambay,22.41666667,72.60833333,Laxmipura,"Dug Well",W08284,1996,-0.08,1.67,'0.8,1.74
+GJ,Anand,Karamsad,Cambay,22.40416667,72.67222222,Hariyan,"Tube Well",W07742,1996,NA,NA,1.4,NA
+GJ,Anand,Karamsad,Cambay,22.34166667,72.65,Kansari1,"Dug Well",W08283,1996,12.3,16.35,9.8,11.36
+GJ,Anand,Anklav,Anand,22.575,72.97222222,Bandhani-2,"Dug Well",W07733,1996,3.7,5.73,4.7,7.24
+GJ,Anand,Anklav,Anand,22.48055556,73.02916667,Adas,"Tube Well",W07730,1996,6.2,NA,5.13,6.77

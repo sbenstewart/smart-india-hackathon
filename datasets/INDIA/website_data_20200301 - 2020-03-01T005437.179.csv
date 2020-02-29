@@ -1,0 +1,511 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2018,NA,4.54,4.1,NA
+UP,Banda,MAHUVA,Mahuva,25.19444444,80.48166667,"Naraini New","Dug Well",W33234,2018,NA,3,1.3,NA
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2018,NA,13.16,9.85,NA
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2018,NA,2.42,1.15,NA
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2018,NA,1.53,1.15,NA
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2018,NA,2.03,1.16,NA
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2018,NA,4.03,2.76,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2018,5.04,5.48,NA,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2018,NA,5.23,NA,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2018,NA,8.43,13.8,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2018,NA,NA,9,NA
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2018,NA,NA,3.1,7.29
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,2018,22.43,NA,NA,NA
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2018,3.01,NA,NA,NA
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2018,14.14,NA,NA,NA
+UP,Banda,NARAINI,Naraini,25.12694444,80.39777778,Mukera,"Dug Well",W33232,2018,NA,6.96,3.55,NA
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2018,NA,10.8,6.3,NA
+UP,Banda,MAHUVA,Mahuva,25.19444444,80.48166667,"Naraini New","Dug Well",W33234,2017,1,2.74,1.27,6.16
+UP,Banda,NARAINI,Naraini,25.12694444,80.39777778,Mukera,"Dug Well",W33232,2017,2.52,5.64,2.87,8.4
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2017,6.59,NA,NA,NA
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2017,2.7,4.2,3.25,6.35
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2017,4.85,8.87,5.76,11.94
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2017,3.64,3.78,4.5,5.93
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2017,'0.03,1.09,1,1.7
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2017,'0.84,1.46,1.24,2.97
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2017,3,2.97,3.5,4.61
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2017,4.13,3.77,4.26,7.52
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2017,11.39,11.68,11.66,NA
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2017,'0.56,2.01,1.1,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2017,3.49,NA,4.6,NA
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2017,14.91,NA,17.07,NA
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,2017,23.49,22.49,NA,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2017,7.02,9.08,NA,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2017,7.58,5.85,7.95,7.41
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2016,'0.63,NA,1.45,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2016,5.11,NA,6.6,9.4
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2016,2.44,NA,NA,NA
+UP,Banda,NARAINI,Naraini,25.12694444,80.39777778,Mukera,"Dug Well",W33232,2016,2.32,NA,7.1,NA
+UP,Banda,MAHUVA,Mahuva,25.19444444,80.48166667,"Naraini New","Dug Well",W33234,2016,'0.62,NA,1.9,NA
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2016,NA,NA,'0.95,2.55
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2016,4.58,NA,3.8,NA
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2016,5.05,NA,8.36,13.4
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2016,NA,NA,10,12.7
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2016,10.94,NA,NA,NA
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,2016,18.84,NA,NA,NA
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2016,2.08,NA,3.7,7
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2016,'0.51,NA,1.55,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2016,1.25,NA,8.3,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2016,2.28,NA,6.5,NA
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2016,1.64,NA,2.7,NA
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2016,6.41,NA,NA,NA
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2016,8.85,NA,10.7,NA
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2015,11.7,NA,12.3,9.5
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2015,7.7,NA,7.43,9.5
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2015,8.6,NA,3.5,8.3
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2015,22.1,NA,22.7,21.8
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2015,2.15,NA,2.85,2.25
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2015,'0.35,NA,1.3,1.55
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2015,8.5,NA,9.83,9.8
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2015,11.6,NA,12.2,13.2
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2015,2.43,NA,3.92,5.8
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2015,2.3,NA,2.8,2.55
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2015,2.8,NA,3.1,3.7
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2015,4.54,NA,5.62,6.1
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2015,3.65,NA,3.9,4.1
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2015,5.28,NA,5.49,5.63
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2015,3.55,NA,4.45,4.45
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2015,2.3,NA,3.2,3.8
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2014,10.23,8.3,NA,9.88
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2014,7.19,5.02,NA,6.67
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2014,20.92,20.1,NA,20.73
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2014,2.54,2.69,NA,5.76
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2014,'0.86,1.46,NA,2.92
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2014,'0.4,'0.25,NA,1.46
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2014,7.89,6.88,NA,8.81
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2014,4.87,9.72,NA,10.85
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2014,1.25,1.51,NA,2.48
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2014,14.63,15.11,NA,16.49
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2014,1.5,3.6,NA,4.6
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2014,'0.47,'0.99,NA,2.35
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2014,5.66,4.74,NA,5.45
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2014,3.38,2.14,NA,3.87
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2014,2.23,1.6,NA,2.95
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2014,7.01,6.18,NA,6.82
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2014,3.64,1.85,NA,3.37
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2014,NA,5.59,NA,6.94
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2013,4.26,4.66,6.88,11.6
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2013,'0.58,10.06,3.09,NA
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2013,21.42,18.92,19.98,20.5
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2013,'0.49,2.81,1.72,NA
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2013,'0.81,3.4,1.6,NA
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2013,'0.08,1.22,'0.81,2.2
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2013,4.65,10.88,6.31,8.6
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2013,NA,7.77,6.68,13.2
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2013,'0.49,2.6,1.83,4.1
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2013,4.91,NA,14.57,17.21
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2013,1.55,1.55,3.2,6.7
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2013,'0.45,1.64,1.3,3.05
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2013,'0.79,4.62,2.07,6.8
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2013,1.19,2.86,2.05,2.2
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2013,NA,18.92,NA,NA
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2013,3.93,10.26,6.11,NA
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2013,3.24,3.35,2.84,6.75
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2013,NA,11.3,5.54,6.9
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2013,1.58,3.02,2.87,NA
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2012,NA,9.33,7.03,12.35
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2012,NA,NA,7.65,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2012,NA,7.96,NA,NA
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2012,NA,21.09,19.9,23.6
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2012,NA,NA,'0.81,NA
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2012,NA,2.45,1.36,4.9
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2012,NA,1.15,1.15,7
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2012,NA,9.55,7.9,13.25
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2012,NA,9.9,NA,12.45
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2012,NA,2.6,NA,3.75
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2012,NA,16.24,16.44,20.14
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2012,NA,3.6,2.7,5.75
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2012,NA,2.05,'0.75,3.78
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2012,NA,3.12,3.27,6.05
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2012,NA,NA,2.81,NA
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2012,NA,21.76,20.83,26.95
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2012,NA,8.13,8.02,10.26
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2012,NA,3.52,3.65,6.6
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2012,NA,11.32,13.35,7.3
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2012,NA,7.77,9.2,9.35
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2011,9.07,13.05,7.3,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2011,1.82,9.9,5.1,NA
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2011,1.73,NA,4.05,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2011,7.16,8.6,7.25,NA
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2011,22.62,NA,20.82,NA
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2011,'0.77,2.25,1.05,NA
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2011,NA,1.25,'0.95,2.15
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2011,8,11.55,8.8,12.2
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2011,3.79,10,NA,11.3
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2011,2.35,2.4,2.55,6.45
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2011,11.99,16.51,15.06,17.71
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2011,1.39,3.5,2.55,5.71
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2011,'0.15,1.98,'0.75,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2011,4.12,4.45,2.8,7.4
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2011,NA,21.68,20.15,22.25
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2011,6.05,NA,NA,NA
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2011,4.15,5.2,2.75,6.65
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2011,4.85,8.05,5.42,9.8
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2011,NA,NA,'0.62,NA
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2010,13.35,12.65,NA,21.9
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2010,7.35,8.28,NA,9.3
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2010,NA,NA,NA,12.05
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2010,8.65,9.15,8.4,9.2
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2010,NA,22.95,NA,23.6
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2010,NA,2.85,NA,NA
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2010,4.36,1.9,NA,4.65
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2010,1.15,2.1,1.41,2.4
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2010,10.25,NA,11.15,12
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2010,10.2,8.5,10.56,11.5
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2010,1.7,2.7,2.15,6
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2010,15.16,17.58,16.26,17.66
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2010,NA,11.05,NA,17.92
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2010,2.75,3.5,2.7,5.75
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2010,1.55,1.2,'0.45,3.55
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2010,4.85,3,3.6,6
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2010,NA,NA,NA,24.3
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2010,NA,NA,21.55,26.95
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2010,NA,8.33,NA,10.26
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2010,6.85,5.93,5.25,7.55
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2010,6.7,6.95,8,9.3
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2010,NA,NA,NA,21.6
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2009,13.05,11.3,12.3,12.3
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2009,7.72,NA,6.88,8.6
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2009,12.05,12.05,NA,12.05
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2009,8.6,3.9,8,8.6
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2009,NA,NA,22.5,22.4
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2009,4.6,3.1,2,10.02
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2009,1.6,1.69,1.65,3.55
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2009,2.01,2.2,1.4,2.75
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2009,9.35,10.3,10.4,12.6
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2009,11.71,NA,7.4,12.3
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2009,'0.9,3.5,2.6,5.5
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2009,14.6,NA,17.16,20.14
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,2009,25,25,NA,25
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2009,17.92,NA,17.92,17.92
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2009,2.9,3.5,3.03,5.5
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2009,'0.85,1.24,'0.95,3
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2009,6,4,3.15,7.1
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2009,NA,3.8,NA,NA
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2009,24.3,24.3,NA,24.3
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2009,26.95,NA,NA,26.95
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2009,7.88,NA,8.03,10.26
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2009,5.05,4.85,5.5,6.75
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2009,6.85,6.85,8.2,7.9
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2009,21.6,NA,NA,21.6
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2008,21.9,12.6,NA,21.9
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2008,7.1,6.31,5.59,8.72
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2008,7.91,12.05,8.08,12.05
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2008,6.9,8.36,5.97,9.66
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2008,19.9,22.4,21.74,23.6
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2008,9.16,4.3,NA,10.02
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2008,5.17,2.05,3.63,5.75
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2008,'0.55,3.63,3.24,4.55
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2008,7.2,12.85,12.28,16.75
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2008,5.08,5.48,8.17,6.09
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2008,1.67,5.5,1.98,9.45
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2008,16.3,15.66,15.24,20.14
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,2008,25,NA,NA,25
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2008,16.13,17.92,NA,17.92
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2008,2,5.1,3.48,6.6
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2008,4.89,1.95,1.7,5.3
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2008,7.9,7.66,4.46,9.25
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2008,24.3,24.3,NA,24.3
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2008,10.1,26.95,NA,11.8
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2008,6.61,10.26,6.09,7.91
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2008,6.98,5.11,6.37,7.1
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2008,6.26,11.5,8.72,14.1
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2008,21.6,21.6,NA,21.6
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2007,11.8,11,NA,11.94
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2007,3.21,4.12,NA,5.27
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2007,2.16,NA,NA,12.05
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2007,6.3,5.9,NA,6.58
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2007,18.81,21.68,NA,22.07
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2007,2.28,3.3,NA,10.02
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2007,2.91,3.47,NA,13.25
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2007,'0.53,3.78,NA,5.54
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2007,11.4,12.4,NA,13.3
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2007,3.08,3.48,NA,3.72
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2007,2,2.95,NA,3.66
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,2007,NA,NA,NA,13.01
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2007,17.92,17.92,NA,17.92
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2007,2.7,4.4,NA,5.75
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2007,3.14,2,NA,2.52
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2007,5.3,4.73,NA,7.26
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2007,3.76,24.3,NA,5.98
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2007,NA,26.95,NA,26.95
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2007,12.02,15.33,NA,15.72
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2007,6.92,NA,NA,8.23
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2007,5.14,3.77,NA,5.58
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2007,7.9,7.8,NA,9.1
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2007,2.97,21.6,NA,21.6
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2006,9.26,9.7,9.66,11.65
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2006,2.26,3.11,4.75,4.35
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2006,NA,NA,6.72,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2006,4.92,4.11,5.25,5.63
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2006,19.96,20.2,21.35,22.51
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2006,NA,2.67,2.4,10.02
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2006,1.92,2.85,3.25,2.85
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2006,9.37,1.65,2.96,9.37
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2006,10.83,11.35,11.83,13.18
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2006,2.88,2.66,7.87,3.66
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2006,2.41,2.5,2.64,2.8
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2006,17.92,17.92,NA,17.92
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2006,1.39,3.75,3.3,5.3
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2006,4.04,1.95,1.57,2.11
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2006,3.67,3.17,4.08,5.36
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2006,5.98,6.12,8.78,7.42
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2006,5.71,5.45,NA,7.55
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2006,NA,19.32,15.95,NA
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2006,4.56,NA,5.91,7.5
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2006,4.03,3.19,5.62,5.29
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2006,7.32,12.25,7.96,12.9
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2006,2,21.6,21.6,2.2
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2005,9.4,10.1,7.84,13.77
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2005,2.4,3.6,2.2,6.27
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2005,NA,4.65,5.83,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2005,3.1,3.95,3.19,5.75
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2005,22,21.97,21.69,23.6
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2005,2.23,3.05,1.75,6.17
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2005,1.35,1.85,1.81,3.98
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2005,'0.41,1.88,1.01,3.44
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2005,9.83,11.9,10.4,13.2
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2005,3.07,8.37,1.96,5.77
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2005,1.28,2.26,2.2,3.7
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2005,10.06,6.55,5.77,NA
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2005,1.4,3.65,1.5,5.2
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2005,'0.58,1.35,'0.87,3.03
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2005,2.2,2.7,2.58,5.42
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2005,5.1,NA,5.12,19.76
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2005,NA,22.65,4.36,NA
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2005,NA,NA,17.56,NA
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2005,NA,6.13,NA,6.96
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2005,3.11,2.58,3.46,3.95
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2005,9.66,NA,7.6,10.32
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2005,7.38,9.4,6.75,NA
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2004,8.57,8.35,8.8,10.67
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2004,1.62,3.05,2.3,5.45
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2004,'0.86,3,2.55,6.8
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2004,4.2,3.3,3.7,5.7
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2004,21.94,NA,NA,21.8
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2004,'0.88,2.5,1.45,6.1
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2004,1,1.53,1.55,2.69
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2004,9.36,9.5,11.7,12.23
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2004,15.3,4.55,4.85,10.11
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2004,1.4,2.5,2.75,4
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2004,NA,15.25,NA,10.45
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2004,1.14,3.35,2.85,4.97
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2004,'0.1,1.15,'0.75,2.34
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2004,'0.07,1.2,1.95,2.19
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2004,2.56,2.3,2.4,5.23
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2004,3.5,2.15,2.15,3.04
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2004,'0.75,17.9,18.95,20.25
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2004,26.95,NA,NA,22.4
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2004,20.14,NA,NA,20.14
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2004,4.93,2.03,5.23,6.81
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2004,2.05,1.65,1.95,4.61
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2004,8.14,7.75,9.8,9
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2004,8.11,5.35,7.25,9.75
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2003,7.8,8.2,6.3,10.5
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2003,2.5,4.55,1.45,6.2
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2003,4.25,4.7,'0.85,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2003,5.7,4.6,3.15,5.8
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2003,22.2,22.6,NA,22.1
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2003,2.4,2.9,1.6,6.45
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2003,1.15,2.15,1.3,4.15
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2003,8.5,9.8,7.2,11.6
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2003,5.4,9.6,4.4,10.5
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2003,1.7,6.4,2.45,10.5
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2003,NA,NA,14.6,NA
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2003,1.7,3.2,2.72,5
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2003,'0.15,1.5,'0.5,2
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2003,'0.45,1.3,'0.87,2.35
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2003,2.4,1.8,1.1,3.8
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2003,2.5,3.3,2,4.1
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2003,19.3,19,17.15,19.6
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2003,26.95,25,NA,NA
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2003,14.16,NA,NA,NA
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2003,6.33,6.73,1.83,7.33
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2003,3.15,3.1,1.45,6.65
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2003,10.6,NA,7.5,9.1
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2003,NA,10,5.3,NA
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2002,9.5,20.9,6.3,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2002,NA,4.07,2.2,NA
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2002,3.05,3.85,2.05,7.22
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2002,5.2,4.6,3.6,5.87
+UP,Banda,Bisanda,Bisanda,25.36388889,80.74388889,Oran,"Dug Well",W15536,2002,NA,14.15,NA,NA
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2002,21.65,21,21.3,21.7
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2002,3.75,5.2,1.7,6.17
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2002,NA,2.25,12.25,NA
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2002,10.5,11.15,8.5,12.37
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2002,7.6,4.7,4.3,5.74
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2002,NA,6.4,6.6,8.05
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,2002,21.6,9.6,23.1,NA
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2002,NA,5.3,8.5,NA
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2002,2.4,3.7,2.24,4.87
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2002,'0.55,1.65,'0.25,2.82
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2002,'0.5,1.25,'0.75,2.5
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2002,1.67,3.06,1.6,5.37
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2002,3.4,7.05,3,7.4
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2002,19,3,18.5,10.4
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2002,24.65,6.6,24.25,22.55
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2002,15.36,9.1,NA,10.81
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2002,6.58,6.13,5.73,5.43
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2002,3.22,4.5,1.85,4.05
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2002,10.9,6.2,7.7,8.37
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2002,9.9,8.74,7.6,10.17
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2001,5.22,NA,6.98,11.2
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2001,'0.8,NA,2.28,6
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2001,'0.3,NA,2.41,4.15
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2001,1.92,NA,3.4,5.3
+UP,Banda,Bisanda,Bisanda,25.36388889,80.74388889,Oran,"Dug Well",W15536,2001,11.5,NA,12.6,NA
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2001,16.5,NA,17.3,21.36
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2001,1.16,NA,1.43,NA
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2001,1.13,NA,1.15,4.15
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2001,7.48,NA,9.26,10.3
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2001,1.55,NA,2.35,5.74
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2001,2.77,NA,6.8,8.9
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,2001,6.85,NA,7.75,NA
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2001,2.15,NA,3.1,NA
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2001,1.4,NA,2.34,5.6
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2001,'0.45,NA,'0.6,3.45
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2001,'0.4,NA,'0.55,2.52
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2001,2.16,NA,2.2,5.86
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2001,3.4,NA,4.3,7.8
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2001,'0.5,NA,1.6,NA
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2001,1.3,NA,2.4,NA
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2001,5.41,NA,6.31,10.66
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2001,3.13,NA,4.08,7.43
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2001,1.95,NA,2.65,5.65
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2001,5.26,NA,6.3,6.4
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2001,2.62,NA,4.6,9.3
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,2000,NA,8.8,7.25,11.14
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,2000,NA,4.53,2.07,NA
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,2000,NA,5,2.12,4.28
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,2000,NA,2.84,2.15,4.12
+UP,Banda,Bisanda,Bisanda,25.36388889,80.74388889,Oran,"Dug Well",W15536,2000,NA,2.22,1.45,NA
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,2000,NA,20.35,20.61,21
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,2000,NA,6.57,1.27,6
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,2000,NA,2.87,1.4,3.55
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,2000,NA,10.04,8.57,11.9
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,2000,NA,9.05,5.27,11
+UP,Banda,Naraini,Naraini,25.19944444,80.62777778,Bindaghat,"Dug Well",W14748,2000,NA,22.85,23.13,22.17
+UP,Banda,Naraini,Naraini,25.115,80.485,Ganeshaupura,"Dug Well",W14749,2000,NA,6.67,5.93,7.07
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,2000,NA,4.77,3.77,6.35
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,2000,NA,7.38,7.33,10.8
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,2000,NA,3.4,2.1,4.8
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,2000,NA,1.59,1.87,3.45
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,2000,NA,1.62,1.16,1.56
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,2000,NA,2.68,2.7,4.8
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,2000,NA,2.1,1.96,3.2
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,2000,NA,18.8,15.87,17.41
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,2000,NA,20.61,NA,21.09
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,2000,NA,14.06,15.71,NA
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,2000,NA,6.23,5.97,6.72
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,2000,NA,2.33,2.89,3.95
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,2000,NA,4.57,4.9,5.96
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,2000,NA,6.95,5.56,9.05
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,1999,2.95,5.61,5.33,9.26
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,1999,1.98,2.4,2.15,4.82
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,1999,2.32,4.4,4.33,5.83
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,1999,NA,4.62,1.88,7.23
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,1999,1.22,2.2,1.68,5.9
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,1999,1.14,2.74,1.6,3.54
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,1999,16.68,17.25,13.78,22.5
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,1999,NA,21.49,21.68,22.25
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,1999,NA,16.39,14.74,15.16
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,1999,NA,19.7,20.2,NA
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,1999,4.26,11.9,3.4,11.74
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,1999,1,3.7,2.86,5.22
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,1999,'0.11,2.04,1.25,4.08
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,1999,NA,4.17,1.31,3.04
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,1999,7.94,10,8.73,14.1
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,1999,4.61,10.87,6.18,12.3
+UP,Banda,Naraini,Naraini,25.19944444,80.62777778,Bindaghat,"Dug Well",W14748,1999,21.52,22.7,21.9,24.5
+UP,Banda,Naraini,Naraini,25.115,80.485,Ganeshaupura,"Dug Well",W14749,1999,'0.8,7.23,NA,8.23
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,1999,'0.67,5.16,4.12,6.77
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,1999,'0.22,3.65,2.06,4.97
+UP,Banda,Bisanda,Bisanda,25.36388889,80.74388889,Oran,"Dug Well",W15536,1999,NA,3.76,3.1,3.1
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,1999,21.81,22.22,20.2,22.53
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,1999,'0.35,3.38,1.78,8.71
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,1999,'0.81,2.32,1.23,4.8
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,1999,6.4,10.1,7.03,13.47
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,1999,1.56,5.9,3.93,8.7
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,1999,'0.01,1.69,'0.55,6.69
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,1998,4.07,5.33,5.28,6.03
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,1998,'0.03,1.35,1.01,6.45
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,1998,3.07,4.6,3.77,5.87
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,1998,NA,2.2,NA,4.35
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,1998,1.6,2.5,2.27,5.5
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,1998,1,1.45,1.47,3.1
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,1998,16.8,10.8,16.03,19.25
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,1998,18.75,NA,19.65,21.1
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,1998,11.41,14.36,13.26,17.11
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,1998,NA,22.4,NA,19.85
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,1998,4.4,7.6,4.23,17.92
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,1998,1.2,2.6,2.37,4.55
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,1998,'0.25,1.1,'0.72,2.77
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,1998,'0.85,1.45,1.3,5.95
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,1998,8.7,9.6,8.9,12.1
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,1998,4.5,6.7,4.6,12.4
+UP,Banda,Naraini,Naraini,25.19944444,80.62777778,Bindaghat,"Dug Well",W14748,1998,22.5,22.8,22.2,26.6
+UP,Banda,Naraini,Naraini,25.115,80.485,Ganeshaupura,"Dug Well",W14749,1998,4.12,3.42,6.07,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,1998,1.3,3.6,2.7,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,1998,'0.5,1.8,2.47,4.85
+UP,Banda,Bisanda,Bisanda,25.36388889,80.74388889,Oran,"Dug Well",W15536,1998,1.1,3,1,5.4
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,1998,21.2,20.5,21.4,21.35
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,1998,'0.8,2.5,1.59,6
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,1998,1.05,1.75,1.45,3.5
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,1998,6.95,7.5,6.85,11
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,1998,1.25,20.6,2.94,8.6
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,1998,2.25,1.85,2.05,2.75
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,1997,3.85,NA,5.1,NA
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,1997,'0.57,6.4,'0.58,8.63
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,1997,4.18,6.28,4.52,6.92
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,1997,'0.61,3.5,'0.96,11.25
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,1997,2.5,3.3,2.36,4.42
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,1997,1.13,2.06,1.3,3.25
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,1997,18.63,18.46,18.24,18.7
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,1997,19.55,21.6,NA,19.05
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,1997,13.28,15.01,19.14,11.87
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,1997,19.41,NA,19.83,NA
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,1997,NA,9.88,4.91,15.6
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,1997,2.22,3.18,2.5,5.1
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,1997,1.97,1.51,1,3.75
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,1997,1.03,3.3,1.7,5.07
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,1997,9.41,11.2,9.8,9.9
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,1997,6.21,9.89,6.51,12.1
+UP,Banda,Naraini,Naraini,25.19944444,80.62777778,Bindaghat,"Dug Well",W14748,1997,22.31,23.08,22.7,26.6
+UP,Banda,Naraini,Naraini,25.115,80.485,Ganeshaupura,"Dug Well",W14749,1997,2.67,8.72,3.32,8.37
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,1997,1.76,8.86,5.63,13.4
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,1997,1,4.41,2,4.3
+UP,Banda,Bisanda,Bisanda,25.36388889,80.74388889,Oran,"Dug Well",W15536,1997,1.23,3.97,3.1,6.1
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,1997,21.01,20.33,19.61,16.55
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,1997,1.74,3.13,1.4,7.1
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,1997,1.36,2.13,1.53,4.95
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,1997,5.57,10.4,7.6,10.7
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,1997,1.94,8.28,2.75,9.25
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,1997,2.5,2.45,2.26,4.86
+UP,Banda,Baberu,Baberu,25.495,80.525,Aliha,"Dug Well",W14732,1996,6.33,6.73,5.09,7.93
+UP,Banda,Tindwari,Tindwari,25.62083333,80.51944444,Tindwari,"Dug Well",W15542,1996,1.55,7.45,4.65,8.63
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.48333333,80.32083333,Banda,"Dug Well",W14734,1996,5.52,6.6,6.02,8.3
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.54166667,80.425,Bargaini,"Dug Well",W14735,1996,5.31,3.8,2.18,6.5
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.42916667,80.38333333,Jamnipurwa,"Dug Well",W14736,1996,2.23,3.09,2.72,4.1
+UP,Banda,Bisanda,Bisanda,25.39305556,80.62222222,Bisanda,"Dug Well",W14737,1996,'0.96,2,1.54,4.5
+UP,Banda,Bisanda,Bisanda,25.48333333,80.72083333,"Kazi ka tola","Dug Well",W14738,1996,NA,19.65,17.34,23.3
+UP,Banda,Jaspura,Jaspura,25.83194444,80.34861111,"Bhitari ka dera","Dug Well",W14739,1996,NA,22.65,20.68,25.95
+UP,Banda,Jaspura,Jaspura,25.755,80.52166667,Chilla,"Dug Well",W14740,1996,17.11,16.26,14.38,17.11
+UP,Banda,Kamasin,Kamasin,25.61055556,81.01833333,Dadoghat,"Dug Well",W14741,1996,NA,21.45,19.95,15.4
+UP,Banda,Kamasin,Kamasin,25.515,80.90666667,Kamasin,"Dug Well",W14742,1996,8.15,14.38,4.08,17.92
+UP,Banda,Mahuva,Mahuva,25.27694444,80.55666667,Atarra,"Dug Well",W14743,1996,1.55,3.45,3.16,6.4
+UP,Banda,Mahuva,Mahuva,25.31472222,80.39166667,Girwan,"Dug Well",W14744,1996,'0.53,1.75,1.4,4.15
+UP,Banda,Mahuva,Mahuva,25.37222222,80.475,Khhurand,"Dug Well",W14745,1996,1.7,3.35,2.48,8.2
+UP,Banda,Naraini,Naraini,25.24166667,80.65,Badausa,"Dug Well",W14746,1996,8.5,12.17,9.7,14.6
+UP,Banda,Naraini,Naraini,25.135,80.39333333,Badehan,"Dug Well",W14747,1996,3.83,7.3,6.97,14.3
+UP,Banda,Naraini,Naraini,25.19944444,80.62777778,Bindaghat,"Dug Well",W14748,1996,22,24.5,22.35,25.3
+UP,Banda,Naraini,Naraini,25.115,80.485,Ganeshaupura,"Dug Well",W14749,1996,4,2.95,5.28,9.72
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.44166667,80.15166667,Mataundh,"Dug Well",W15534,1996,2.13,9.95,5.18,NA
+UP,Banda,"Badokhar Khurd","Badokhar Khurd",25.51388889,80.35416667,Sukulkuan,"Dug Well",W15535,1996,1.2,4.7,2.8,6.5
+UP,Banda,Bisanda,Bisanda,25.36388889,80.74388889,Oran,"Dug Well",W15536,1996,3.25,2.6,3.25,6.9
+UP,Banda,Jaspura,Jaspura,25.76166667,80.42833333,Pailani,"Dug Well",W15537,1996,21.26,21.3,20.2,22.1
+UP,Banda,Mahuva,Mahuva,25.1875,80.46666667,Naraini,"Dug Well",W15538,1996,1.36,1.86,1.92,10.02
+UP,Banda,Mahuva,Mahuva,25.19833333,80.49583333,Pangara,"Dug Well",W15539,1996,1.15,3.05,1.75,4.57
+UP,Banda,Naraini,Naraini,25.22,80.745,"Roli kalyanpur","Dug Well",W15540,1996,7.86,10.9,8.4,13.75
+UP,Banda,Tindwari,Tindwari,25.64333333,80.39166667,Paprenda,"Dug Well",W15541,1996,3.3,8.17,4.85,10.5
+UP,Banda,Baberu,Baberu,25.54666667,80.71,Baberu1,"Dug Well",W14733,1996,2.51,3.25,1.95,6.15

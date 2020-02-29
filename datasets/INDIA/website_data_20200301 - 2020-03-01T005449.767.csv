@@ -1,0 +1,214 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2018,14.61,15.87,NA,NA
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2018,NA,9.82,NA,NA
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2018,9.87,9.7,NA,NA
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz I","Tube Well",W22065,2018,5.81,6.42,NA,NA
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2018,3.89,3.58,NA,NA
+UP,Ghaziabad,Rajapur,Muradnagar,28.725,77.48333333,"Morta Pz GWD","Tube Well",W29897,2018,19.32,20.29,NA,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2018,14.36,13.63,NA,NA
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2018,9.35,9.92,NA,NA
+UP,Ghaziabad,Hapur,Dhaulana,28.61111111,77.79166667,"Abdullahpur mandi-II-Pz","Tube Well",W22058,2018,NA,7.8,NA,NA
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2018,18.64,18.07,NA,NA
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz II","Tube Well",W29905,2018,5.89,6.69,NA,NA
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2017,13.57,15.02,16,NA
+UP,Ghaziabad,Loni,Loni,28.77,77.325,Charauri-Pz,"Tube Well",W22064,2017,NA,11.63,NA,NA
+UP,Ghaziabad,Rajapur,Muradnagar,28.725,77.48333333,"Morta Pz GWD","Tube Well",W29897,2017,17.63,NA,20.53,18.83
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz II","Tube Well",W29905,2017,6.52,6.61,6.24,6.75
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2017,8.48,9.02,8.54,10.17
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz I","Tube Well",W22065,2017,6.29,6.19,5.99,6.86
+UP,Ghaziabad,Hapur,Dhaulana,28.61111111,77.79166667,"Abdullahpur mandi-II-Pz","Tube Well",W22058,2017,6.45,NA,7.47,7.88
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2017,9.62,10.85,9.86,11.2
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2017,14.04,13.47,13.81,14.59
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2017,8.75,NA,NA,4.47
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2017,3.32,4.22,3.01,4.65
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2017,9.51,8.65,8.91,10.17
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2017,17.13,17.3,17.75,18.47
+UP,Ghaziabad,Rajapur,Muradnagar,28.725,77.48333333,"Morta Pz GWD","Tube Well",W29897,2016,NA,19.1,19.16,19.15
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2016,NA,NA,8.91,11.6
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2016,NA,NA,17.19,16.9
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2016,NA,NA,14.86,15.34
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2016,NA,NA,10.9,11.45
+UP,Ghaziabad,Hapur,Dhaulana,28.61111111,77.79166667,"Abdullahpur mandi-II-Pz","Tube Well",W22058,2016,NA,NA,11.45,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2016,NA,NA,13.18,14.05
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2016,NA,NA,3.53,5.34
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2016,NA,NA,8.97,8.9
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz I","Tube Well",W22065,2016,NA,NA,5.88,6.21
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz II","Tube Well",W29905,2016,NA,6.3,6.29,6.37
+UP,Ghaziabad,Rajapur,Muradnagar,28.725,77.48333333,"Morta Pz GWD","Tube Well",W29897,2015,17.6,NA,18.05,18.32
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2015,4.4,NA,4,4.82
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2015,13.29,NA,15.02,14.33
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2015,8.25,NA,8.25,8.45
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2015,9.1,NA,8.6,9.66
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2015,8.52,NA,10.5,10.67
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2015,16.43,NA,16.65,16.28
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2015,13.6,NA,13.25,13.71
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz II","Tube Well",W29905,2015,NA,NA,5.5,6.12
+UP,Ghaziabad,Hapur,Bhojpur,28.70833333,77.62777778,Pilkuha-Pz,"Tube Well",W22062,2015,7.53,NA,5.6,8.01
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2015,3.84,NA,NA,4.77
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2014,NA,6.85,NA,7.39
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2014,NA,3.85,NA,4.43
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2014,NA,3.1,NA,3.42
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2014,NA,NA,NA,13.41
+UP,Ghaziabad,Hapur,Dhaulana,28.61111111,77.79166667,"Abdullahpur mandi-II-Pz","Tube Well",W22058,2014,NA,9.38,NA,9.51
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2014,NA,6.9,NA,8.11
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz II","Tube Well",W29905,2014,NA,5.75,6.28,5.9
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2014,NA,14.9,NA,14.82
+UP,Ghaziabad,Hapur,Bhojpur,28.70833333,77.62777778,Pilkuha-Pz,"Tube Well",W22062,2014,NA,5.75,NA,6.76
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2014,NA,7.55,NA,7.62
+UP,Ghaziabad,Loni,Loni,28.77,77.325,Charauri-Pz,"Tube Well",W22064,2014,NA,NA,NA,16.16
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz I","Tube Well",W22065,2014,NA,5.04,NA,6.13
+UP,Ghaziabad,Rajapur,Muradnagar,28.725,77.48333333,"Morta Pz GWD","Tube Well",W29897,2014,NA,17.15,NA,NA
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2014,NA,12.22,NA,12.73
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2013,NA,3.95,NA,4.5
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2013,6.95,6.95,7.05,7.49
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2013,1.59,2.55,1.65,3.73
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2013,13.1,12.75,12.45,13.53
+UP,Ghaziabad,Hapur,Dhaulana,28.61111111,77.79166667,"Abdullahpur mandi-II-Pz","Tube Well",W22058,2013,9.25,8.9,9.45,9.86
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2013,7.22,6.85,7.05,9.09
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2013,12.74,12.42,12.42,13.49
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2013,15.25,14.7,14.95,15.41
+UP,Ghaziabad,Hapur,Bhojpur,28.70833333,77.62777778,Pilkuha-Pz,"Tube Well",W22062,2013,4.7,6.15,5.5,7.01
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2013,7.22,7.35,7.05,7.73
+UP,Ghaziabad,Loni,Loni,28.77,77.325,Charauri-Pz,"Tube Well",W22064,2013,17.01,16.08,16.85,17.15
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz I","Tube Well",W22065,2013,5.44,5.64,5.44,6.62
+UP,Ghaziabad,Rajapur,Muradnagar,28.725,77.48333333,"Morta Pz GWD","Tube Well",W29897,2013,16.73,16.1,15.8,NA
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz II","Tube Well",W29905,2013,5.5,5.47,5.43,6.5
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2012,NA,6.25,7.16,6.91
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2012,NA,1.5,2.75,2.84
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2012,NA,12.29,12.8,13.03
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.685,78.085,"Neknampur Nanai -Pz","Tube Well",W22057,2012,NA,8.55,NA,NA
+UP,Ghaziabad,Hapur,Dhaulana,28.61111111,77.79166667,"Abdullahpur mandi-II-Pz","Tube Well",W22058,2012,NA,7.85,9.08,NA
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2012,NA,NA,8.82,7.62
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2012,NA,2.75,3.5,3.62
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2012,NA,13.65,14.96,14.49
+UP,Ghaziabad,Hapur,Bhojpur,28.70833333,77.62777778,Pilkuha-Pz,"Tube Well",W22062,2012,NA,5.08,6.43,6.24
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2012,NA,6.41,7.12,7.17
+UP,Ghaziabad,Loni,Loni,28.77,77.325,Charauri-Pz,"Tube Well",W22064,2012,NA,15.15,16.36,15.83
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz I","Tube Well",W22065,2012,NA,4.79,5.51,5.62
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz II","Tube Well",W29905,2012,NA,NA,7.17,NA
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2012,NA,11.37,12.71,NA
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2011,NA,NA,NA,6.32
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2011,NA,NA,NA,4.23
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2011,NA,1.82,1.15,2.95
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2011,12.46,NA,12.31,13.15
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.685,78.085,"Neknampur Nanai -Pz","Tube Well",W22057,2011,8.04,7.82,NA,8.55
+UP,Ghaziabad,Hapur,Dhaulana,28.61111111,77.79166667,"Abdullahpur mandi-II-Pz","Tube Well",W22058,2011,8.12,5.57,8,NA
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2011,6.38,3.93,6.31,7.85
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2011,13.88,11.08,11.51,NA
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2011,13.83,10.5,13.82,14.12
+UP,Ghaziabad,Hapur,Bhojpur,28.70833333,77.62777778,Pilkuha-Pz,"Tube Well",W22062,2011,4.39,2.29,4.96,6.34
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2011,7.49,6.46,6.41,7.25
+UP,Ghaziabad,Loni,Loni,28.77,77.325,Charauri-Pz,"Tube Well",W22064,2011,15.12,12.26,15.15,15.53
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz I","Tube Well",W22065,2011,3.89,1.67,5.26,5.72
+UP,Ghaziabad,Hapur,Muradnagar,28.85833333,77.58472222,"Hafizpur-Hapur Pz","Tube Well",W22089,2011,8.87,5.65,9.26,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2011,NA,NA,NA,12.54
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2011,6.21,3.11,6.32,6.79
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2010,5.6,NA,3.83,5.43
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2010,3.66,4.9,3.13,5
+UP,Ghaziabad,Dhaulana,Dhaulana,28.63555556,77.6475,Dhaulana-Pz,"Tube Well",W22055,2010,4.01,NA,2.94,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.78583333,78.07916667,Garhmukteshwar-Pz,"Tube Well",W22056,2010,13.57,NA,11.16,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.685,78.085,"Neknampur Nanai -Pz","Tube Well",W22057,2010,8.46,NA,7.61,NA
+UP,Ghaziabad,Hapur,Dhaulana,28.61111111,77.79166667,"Abdullahpur mandi-II-Pz","Tube Well",W22058,2010,9.75,NA,8.48,NA
+UP,Ghaziabad,Hapur,Hapur,28.64166667,77.82333333,"Azad Nagar-Pz","Tube Well",W22059,2010,6.95,NA,6.45,NA
+UP,Ghaziabad,Hapur,Hapur,28.71833333,77.80166667,Badauli-Hapur-Pz,"Tube Well",W22060,2010,13.38,NA,11.11,NA
+UP,Ghaziabad,Hapur,Hapur,28.72333333,77.80583333,Hapur-Pz,"Tube Well",W22061,2010,15.45,NA,13.58,NA
+UP,Ghaziabad,Hapur,Bhojpur,28.70833333,77.62777778,Pilkuha-Pz,"Tube Well",W22062,2010,5.1,NA,6.33,NA
+UP,Ghaziabad,Hapur,Hapur,28.73333333,77.9,Upheda-Pz,"Tube Well",W22063,2010,8.06,NA,6.47,NA
+UP,Ghaziabad,Loni,Loni,28.77,77.325,Charauri-Pz,"Tube Well",W22064,2010,16.41,NA,15.71,NA
+UP,Ghaziabad,Muradnagar,Muradnagar,28.84722222,77.575,"Modi Nagar-Pz I","Tube Well",W22065,2010,5.49,NA,4.09,NA
+UP,Ghaziabad,Hapur,Muradnagar,28.85833333,77.58472222,"Hafizpur-Hapur Pz","Tube Well",W22089,2010,NA,NA,8.57,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2010,NA,NA,NA,16.32
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2010,NA,7.89,NA,7.89
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2010,4.4,4.8,NA,7.52
+UP,Ghaziabad,Bhojpur,Bhojpur,28.80138889,77.62333333,Bhojpur-Pz,"Tube Well",W22054,2010,7.58,NA,6.04,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2009,12.2,11.38,11.67,12.02
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2009,6.29,4.71,4.85,4.8
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2009,5.8,4.05,4.6,5.2
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2009,6.1,6.52,6.51,7.8
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2008,4.13,5.04,4.4,5.92
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2008,16.32,11.69,16.32,12.47
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2008,4.3,4.95,4.7,5.4
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2008,4,4.61,3.5,5.34
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2008,6.1,5.7,5.4,7.89
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2007,5.22,5.56,4.8,5.98
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,2007,2,2.68,NA,1.9
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2007,5.13,5.33,6.16,5.22
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2007,NA,5.32,5.55,5.48
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2007,4.2,4.27,4.42,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2007,11.95,11.97,11.69,12.37
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2006,4.86,5.62,5.08,6.23
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,2006,'0.98,2.1,2.08,3.95
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2006,NA,16.32,NA,NA
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2006,4.4,4.95,5,5.25
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2006,4.28,3.65,4.14,5.05
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,2006,NA,15,15,15
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2006,4.9,4.5,5.22,NA
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2005,5.7,6.34,5.19,7.45
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,2005,1.65,2.35,'0.43,3.36
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2005,11.57,10.8,11.4,11.66
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2005,4.75,NA,4.73,NA
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2005,4,3.68,2.51,4.51
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,2005,12.38,11.19,13.51,NA
+UP,Ghaziabad,Loni,Loni,28.73111111,77.32944444,"Tila shabazpur","Dug Well",W15673,2005,15.05,NA,NA,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2005,4.55,4.22,3.84,5.01
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2004,6.88,5.73,6.55,6.72
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,2004,1.85,2.2,1.91,3.92
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,2004,11.23,9.22,11.28,10.72
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2004,3.89,3.69,3.89,4.53
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2004,3.86,2.49,3.38,4.75
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2004,11.39,9.95,10.97,11.15
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2003,5.46,7.52,5.49,7.94
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,2003,'0.94,NA,1.96,3.54
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2003,10.8,NA,9.95,11.63
+UP,Ghaziabad,Muradnagar,Muradnagar,28.76666667,77.50972222,Muradnagar,"Dug Well",W15674,2003,3.45,NA,NA,NA
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2003,1.96,3.32,2.22,3.76
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,2003,9.08,10.15,8.85,10.75
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2003,2.7,3.74,3.39,4.5
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,2002,NA,2.36,NA,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2002,NA,11.02,NA,NA
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2002,4.41,6.06,3.35,5.03
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2002,4.9,4.45,3.05,5.23
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,2002,10.21,9.03,9.99,9.65
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2002,7.52,5.77,7.8,7.08
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2001,3.73,NA,3.99,4
+UP,Ghaziabad,Loni,Loni,28.73111111,77.32944444,"Tila shabazpur","Dug Well",W15673,2001,12.93,NA,12.88,12.92
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,2001,1.07,NA,1.02,NA
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,2001,7.8,NA,8.57,8.81
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2001,10.82,NA,10.92,10.9
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2001,3.87,NA,4.28,4.74
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2001,6.29,NA,6.52,6.72
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,2000,5.92,6.37,5.99,6.98
+UP,Ghaziabad,Loni,Loni,28.73111111,77.32944444,"Tila shabazpur","Dug Well",W15673,2000,12.31,12.3,12.43,12.54
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,2000,7.69,7.75,8.29,8.29
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,2000,1.31,3.41,2.52,3.96
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,2000,9.43,9.94,9.27,10.73
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,2000,'0.61,2.21,1.92,NA
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,2000,'0.03,'0.7,2.45,NA
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,1999,7.12,6.8,7.52,7.27
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,1999,2.22,1.88,2.95,3.36
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,1999,'0.01,2.54,'0.4,4.63
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,1999,5.9,5.06,6.24,6.12
+UP,Ghaziabad,Loni,Loni,28.73111111,77.32944444,"Tila shabazpur","Dug Well",W15673,1999,12.06,12.27,12.1,11.97
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,1999,10.22,9.15,9.69,10.27
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,1999,'0.81,1.2,1.74,3.11
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,1998,1.15,3.37,'0.77,4.14
+UP,Ghaziabad,Loni,Loni,28.73111111,77.32944444,"Tila shabazpur","Dug Well",W15673,1998,12.45,12.78,12.15,10.73
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,1998,'0.56,1.21,1.17,2.45
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,1998,5.63,5.67,5.08,6.72
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,1998,1.14,3.04,1.47,4.68
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,1998,6.02,6.37,6.49,6.93
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,1998,10.47,10.32,8.94,11.14
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,1997,6.3,6.55,6.55,6.55
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,1997,NA,3.2,2.5,4.8
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,1997,2.78,3.7,3.18,4.7
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,1997,NA,10.25,10.37,10.97
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,1997,'0.84,2,1.18,3.3
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,1997,5.85,5.7,5.9,6.4
+UP,Ghaziabad,Loni,Loni,28.73111111,77.32944444,"Tila shabazpur","Dug Well",W15673,1997,NA,12.9,12.92,13.07
+UP,Ghaziabad,Dhaulana,Dhaulana,28.61666667,77.65416667,Dhaulana,"Dug Well",W14931,1996,'0.6,2.1,1.82,3.38
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.84166667,77.98333333,Nanpur,"Dug Well",W15670,1996,2.53,4.55,3.29,4.96
+UP,Ghaziabad,"Garh Mukteshwar","Garh Mukteshwar",28.7875,78.09333333,Garhmukteshwar,"Dug Well",W14932,1996,10.15,10.75,9.75,10.97
+UP,Ghaziabad,Muradnagar,Muradnagar,28.83666667,77.44861111,Raoli,"Dug Well",W15675,1996,4.6,NA,5.5,6.47
+UP,Ghaziabad,Loni,Loni,28.73111111,77.32944444,"Tila shabazpur","Dug Well",W15673,1996,12.63,13.75,12.52,13.26
+UP,Ghaziabad,Hapur,Hapur,28.74444444,77.92916667,Simbhawali,"Dug Well",W15671,1996,1.29,4,2.64,7.52
+UP,Ghaziabad,Loni,Loni,28.7,77.36666667,Sahibabad,"Dug Well",W15672,1996,5.26,6.35,5.63,7.76

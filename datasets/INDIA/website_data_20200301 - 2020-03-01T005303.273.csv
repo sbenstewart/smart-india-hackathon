@@ -1,0 +1,1046 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2018,'0.1,1.6,NA,NA
+OD,Kalahandi,Narala,Narala,19.96888889,83.32111111,Santapur,"Dug Well",W26270,2018,1.77,NA,NA,4.23
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2018,1,7.4,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2018,1.4,2.4,NA,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2018,3.4,5.9,NA,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2018,'0.36,3.26,NA,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2018,NA,2.08,2.98,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2018,NA,2.1,2.9,NA
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2018,NA,1.08,2.58,NA
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2018,NA,1.1,1.9,NA
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2018,NA,2.63,1.53,NA
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2018,NA,1.8,2.55,NA
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2018,NA,'0.87,2.07,NA
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2018,NA,2.2,4,NA
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2018,NA,1.1,1.2,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2018,NA,6.32,3.22,NA
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2018,NA,5.64,4.44,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2018,NA,7.2,5.6,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2018,NA,3.62,4.12,NA
+OD,Kalahandi,Kesinga,Narala,20.29944444,83.35611111,Tundala,"Dug Well",W26446,2018,1.4,4.8,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.865,82.93861111,"Junagarh 1","Dug Well",W26240,2018,'0.4,3.8,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.89472222,83.02083333,"Tal Jaring","Dug Well",W26254,2018,'0.6,3.7,NA,NA
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87,82.77972222,Dharamgarh,"Dug Well",W26244,2018,'0.74,3.24,NA,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.86583333,83.15888889,Attanguda,"Dug Well",W26241,2018,1.5,1.9,NA,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.9275,83.11388889,Malgaon,"Dug Well",W26262,2018,'0.7,3.4,NA,NA
+OD,Kalahandi,Narala,"Madanpur    Rampur",20.1275,83.41777778,Tulapada,"Dug Well",W26334,2018,1.92,3.22,NA,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.47055556,82.81083333,Jaipatna,"Dug Well",W26122,2018,1.22,2.92,NA,NA
+OD,Kalahandi,Junagarh,Kalampur,19.74083333,82.81138889,Charbahal,"Dug Well",W26178,2018,'0.7,1.8,NA,NA
+OD,Kalahandi,Kokasara,Kokasara,19.61944444,82.68944444,Sunamala,"Dug Well",W26155,2018,'0.9,1.55,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda1,"Dug Well",W26174,2018,'0.6,1.4,NA,NA
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golamunda,"Bore Well",W26301,2018,NA,4.6,4.8,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bhawanipatna,"Bore Well",W26259,2018,NA,4.4,4.4,NA
+OD,Kalahandi,"Madanpur    Rampur","Madanpur    Rampur",20.30777778,83.5325,Madanpur1,"Dug Well",W26454,2018,NA,3.5,4.2,NA
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon,"Bore Well",W26153,2018,NA,7.6,6.9,NA
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2018,NA,NA,3.16,6.66
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2018,NA,3.97,2.87,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2018,1.46,1.86,NA,NA
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2017,2.15,4.6,2.37,7.4
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi,"Bore Well",W26283,2017,NA,5.5,NA,6.8
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2017,4.25,NA,3.89,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2017,2.15,5.35,1.48,4.9
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2017,1.54,4.1,'0.78,4.8
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2017,2.5,NA,1.9,7.6
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2017,6.3,NA,5.88,10.35
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2017,NA,5.9,NA,8.5
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2017,NA,5.85,NA,7.5
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2017,1.6,4.55,1.2,7.36
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2017,'0.85,4.95,'0.68,4.1
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2017,1.3,3.3,'0.8,2.9
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2017,1.8,4.15,1.93,1.8
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2017,1.3,3.15,1.66,7.26
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2017,1.3,2.6,1.2,3.9
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2017,'0.7,2.3,'0.57,2.8
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2017,2.4,4.7,1.75,5.8
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2017,1.2,2.85,'0.9,3.5
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2017,2.1,4.1,1.22,6.4
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2017,2.5,3.5,2.81,5.3
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2017,5.2,6.5,4.94,6.8
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2017,7.5,5.3,6.85,8.1
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2017,5,8.2,5.3,10.6
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2017,2.4,4.5,2.06,7.4
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2017,3.2,5.2,2.62,5.9
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2017,NA,NA,NA,7.79
+OD,Kalahandi,Kesinga,Narala,20.29944444,83.35611111,Tundala,"Dug Well",W26446,2017,3.7,2.8,3.3,6.3
+OD,Kalahandi,Junagarh,Junagarh,19.865,82.93861111,"Junagarh 1","Dug Well",W26240,2017,'0.7,4.1,'0.8,6.2
+OD,Kalahandi,Junagarh,Junagarh,19.89472222,83.02083333,"Tal Jaring","Dug Well",W26254,2017,4.2,2.6,3.5,1.3
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87,82.77972222,Dharamgarh,"Dug Well",W26244,2017,3,5,2.44,7.6
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golamunda,"Bore Well",W26301,2017,4.3,6.9,3.9,7.5
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.86583333,83.15888889,Attanguda,"Dug Well",W26241,2017,1.5,3,1.5,5.4
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bhawanipatna,"Bore Well",W26259,2017,4.2,6.8,3.9,8.8
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.9275,83.11388889,Malgaon,"Dug Well",W26262,2017,3.5,2.9,3,4.1
+OD,Kalahandi,"Madanpur    Rampur","Madanpur    Rampur",20.30777778,83.5325,Madanpur1,"Dug Well",W26454,2017,3.5,6,2.9,6.5
+OD,Kalahandi,Narala,"Madanpur    Rampur",20.1275,83.41777778,Tulapada,"Dug Well",W26334,2017,4.2,2.2,2.52,4.4
+OD,Kalahandi,Jayapatna,Jayapatna,19.47055556,82.81083333,Jaipatna,"Dug Well",W26122,2017,1.65,4.7,1.22,6.2
+OD,Kalahandi,Junagarh,Kalampur,19.74083333,82.81138889,Charbahal,"Dug Well",W26178,2017,1.6,3.9,1.5,4.3
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon,"Bore Well",W26153,2017,6.3,4.85,6.7,6.7
+OD,Kalahandi,Kokasara,Kokasara,19.61944444,82.68944444,Sunamala,"Dug Well",W26155,2017,1.3,3.1,'0.9,4.7
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda1,"Dug Well",W26174,2017,1,5.25,'0.9,4.1
+OD,Kalahandi,Narala,Narala,19.96888889,83.32111111,Santapur,"Dug Well",W26270,2017,4.2,NA,2.43,6.01
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2017,1.4,5.2,1.45,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2016,8,NA,2.7,8
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga,"Bore Well",W31248,2016,6.2,NA,5,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2016,4,NA,4,4
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2016,3.2,NA,3,3.2
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2016,8,NA,7.8,8
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2016,4,NA,4,5
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2016,2.5,NA,2.3,5
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2016,5,NA,5.2,7
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2016,2,NA,2.3,6
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2016,1.5,NA,3,5.5
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2016,NA,NA,2,4.5
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2016,4,NA,3,7
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2016,1.5,NA,NA,4.3
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2016,4.5,NA,4.5,6.85
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2016,'0.5,NA,1.3,8
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2016,1.1,NA,1.6,3.3
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2016,1.8,NA,2,7.3
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2016,2.3,NA,2.5,7.6
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2016,3,NA,3,6
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2016,1.5,NA,2,5
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2016,4.5,NA,4.5,8.45
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2016,2.5,NA,2.75,7
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2016,2.4,NA,2,4.5
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2016,7.5,NA,7.5,9.2
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2016,4,NA,NA,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2016,3.5,NA,4.5,6.2
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2016,NA,NA,1.7,3.5
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2016,1.7,NA,3.2,5.2
+OD,Kalahandi,Jayapatna,Jayapatna,19.47055556,82.81083333,Jaipatna,"Dug Well",W26122,2016,1.5,3.46,2.5,5.2
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon,"Bore Well",W26153,2016,7,4.7,7.5,NA
+OD,Kalahandi,Kokasara,Kokasara,19.61944444,82.68944444,Sunamala,"Dug Well",W26155,2016,1.5,2.92,2.3,4.5
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda1,"Dug Well",W26174,2016,2,4.59,3.5,6.5
+OD,Kalahandi,Junagarh,Kalampur,19.74083333,82.81138889,Charbahal,"Dug Well",W26178,2016,1.5,4.05,2.5,6.15
+OD,Kalahandi,Junagarh,Junagarh,19.865,82.93861111,"Junagarh 1","Dug Well",W26240,2016,'0.5,4.13,1,7.2
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.86583333,83.15888889,Attanguda,"Dug Well",W26241,2016,1.5,3.34,2.1,6
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87,82.77972222,Dharamgarh,"Dug Well",W26244,2016,4.7,5.78,5,8.3
+OD,Kalahandi,Junagarh,Junagarh,19.89472222,83.02083333,"Tal Jaring","Dug Well",W26254,2016,2.5,2.67,2.5,6.5
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bhawanipatna,"Bore Well",W26259,2016,6,9.1,6.5,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.9275,83.11388889,Malgaon,"Dug Well",W26262,2016,4,2.62,4.2,6
+OD,Kalahandi,Narala,Narala,19.96888889,83.32111111,Santapur,"Dug Well",W26270,2016,4.5,NA,5,6
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi,"Bore Well",W26283,2016,NA,4.72,3.5,NA
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golamunda,"Bore Well",W26301,2016,4,6.43,5,3.7
+OD,Kalahandi,Narala,"Madanpur    Rampur",20.1275,83.41777778,Tulapada,"Dug Well",W26334,2016,1,1.75,1,4.6
+OD,Kalahandi,Kesinga,Narala,20.29944444,83.35611111,Tundala,"Dug Well",W26446,2016,4,4.05,4.2,6
+OD,Kalahandi,"Madanpur    Rampur","Madanpur    Rampur",20.30777778,83.5325,Madanpur1,"Dug Well",W26454,2016,NA,6.62,4,8.6
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2016,2.3,NA,2.7,10.3
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2015,NA,4.85,4.95,NA
+OD,Kalahandi,"Madanpur    Rampur","Madanpur    Rampur",20.30777778,83.5325,Madanpur1,"Dug Well",W26454,2015,6.78,5.85,4.8,7.85
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2015,2.45,3.9,NA,5.9
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2015,4.88,4.25,3.65,6.35
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2015,7.28,NA,6.61,8.12
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2015,2.3,3.6,3.2,5.2
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2015,'0.85,3.22,2.55,4.7
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2015,1.55,4.35,4.32,5.9
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2015,'0.25,4.65,2.92,3.35
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2015,1.62,3.7,2.62,5.25
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2015,'0.22,3.3,2.2,4.1
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2015,2.8,3.95,3.5,4.4
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2015,'0.52,2.6,1.62,1.8
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2015,2.12,2.9,2.5,2.12
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2015,'0.8,3.1,1,1.4
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2015,'0.46,2.8,2.1,2.3
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2015,1.1,4.15,1.95,2
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2015,'0.86,3.85,2.05,6.92
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2015,'0.82,3.68,1.85,4.95
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2015,'0.5,2.82,2.05,3.5
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2015,3.3,5.65,4.25,6.95
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2015,4.98,3.85,5.32,5.35
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2015,1.35,1.68,1.35,3.89
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2015,7.4,3.8,5.75,6.8
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2015,4.72,4.45,4.25,5.12
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2015,'0.3,2,'0.96,2.9
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2015,1.2,3.3,2.35,4.15
+OD,Kalahandi,Jayapatna,Jayapatna,19.47055556,82.81083333,Jaipatna,"Dug Well",W26122,2015,'0.81,2.6,1.75,2.5
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon,"Bore Well",W26153,2015,2.72,4.3,3.3,6.38
+OD,Kalahandi,Kokasara,Kokasara,19.61944444,82.68944444,Sunamala,"Dug Well",W26155,2015,1.35,3.18,2.6,3.2
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda1,"Dug Well",W26174,2015,1.1,4.25,3.25,4.05
+OD,Kalahandi,Junagarh,Kalampur,19.74083333,82.81138889,Charbahal,"Dug Well",W26178,2015,1.65,3.8,2.65,4.65
+OD,Kalahandi,Junagarh,Junagarh,19.865,82.93861111,"Junagarh 1","Dug Well",W26240,2015,'0.52,3.5,2.4,4.95
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.86583333,83.15888889,Attanguda,"Dug Well",W26241,2015,1.25,2.85,1.74,3.92
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87,82.77972222,Dharamgarh,"Dug Well",W26244,2015,3.9,5.35,3.95,7.65
+OD,Kalahandi,Junagarh,Junagarh,19.89472222,83.02083333,"Tal Jaring","Dug Well",W26254,2015,1.18,2.35,1.55,1.46
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bhawanipatna,"Bore Well",W26259,2015,8.22,8.1,8.08,8.17
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.9275,83.11388889,Malgaon,"Dug Well",W26262,2015,1.1,2.1,1.78,3.8
+OD,Kalahandi,Narala,Narala,19.96888889,83.32111111,Santapur,"Dug Well",W26270,2015,4.6,4.7,5.55,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi,"Bore Well",W26283,2015,3.2,4.8,4.7,6.6
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golamunda,"Bore Well",W26301,2015,3.8,6.38,5.9,6.7
+OD,Kalahandi,Narala,"Madanpur    Rampur",20.1275,83.41777778,Tulapada,"Dug Well",W26334,2015,'0.68,1.8,'0.86,2.42
+OD,Kalahandi,Kesinga,Narala,20.29944444,83.35611111,Tundala,"Dug Well",W26446,2015,2.15,3.82,2.85,5.1
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2015,2.85,7.9,6.2,2.85
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2014,2.4,NA,2.8,4.7
+OD,Kalahandi,Junagarh,Junagarh,19.85833333,82.93027778,Junagarh,"Dug Well",W31240,2014,NA,3.5,NA,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2014,1.2,3.9,2.92,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2014,'0.8,3.8,3.1,6.1
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2014,4.68,7.25,5.58,8.01
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2014,2.9,3.2,3.62,4.8
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2014,1.7,3.1,NA,4.4
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2014,2.15,4.65,3.9,5.7
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2014,1.55,5.15,2.35,5.1
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2014,1.7,4.6,2.8,4.7
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2014,'0.3,3.2,2.2,3.8
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2014,2.7,4.7,3.25,4.9
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2014,2.7,2.95,1.52,2.1
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2014,NA,NA,2.1,NA
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2014,4.2,3.2,1.48,NA
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2014,'0.5,1.8,1.8,1.8
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2014,'0.8,2.85,2.25,2.62
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2014,1.8,3.3,1.6,1.42
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2014,1.18,4.35,2.2,7.1
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2014,NA,5.95,NA,7
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2014,1.85,4.2,1.7,5.5
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2014,'0.55,2.3,1.93,3.7
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2014,2.7,4.7,3.8,8.45
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2014,2.16,3.65,3.15,5.15
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2014,1.15,2.5,1.65,4.6
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2014,'0.7,4,1.9,7.12
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2014,3.8,4.4,4.45,6.3
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2014,'0.55,1.8,'0.8,2.92
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2014,1.1,2.5,2.8,3.75
+OD,Kalahandi,Jayapatna,Jayapatna,19.47055556,82.81083333,Jaipatna,"Dug Well",W26122,2014,NA,2.65,1.6,3.8
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon,"Bore Well",W26153,2014,1.45,3.8,3.55,5.8
+OD,Kalahandi,Kokasara,Kokasara,19.61944444,82.68944444,Sunamala,"Dug Well",W26155,2014,1.3,3.2,2.65,4.7
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda1,"Dug Well",W26174,2014,'0.65,3.8,NA,4.5
+OD,Kalahandi,Junagarh,Kalampur,19.74083333,82.81138889,Charbahal,"Dug Well",W26178,2014,'0.45,NA,2.7,4.8
+OD,Kalahandi,Junagarh,Junagarh,19.865,82.93861111,"Junagarh 1","Dug Well",W26240,2014,'0.5,NA,2.74,5.3
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.86583333,83.15888889,Attanguda,"Dug Well",W26241,2014,1.24,2.85,2.1,4.6
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87,82.77972222,Dharamgarh,"Dug Well",W26244,2014,2.7,4.95,3.81,7.5
+OD,Kalahandi,Junagarh,Junagarh,19.89472222,83.02083333,"Tal Jaring","Dug Well",W26254,2014,1.7,2.2,1.85,1.5
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bhawanipatna,"Bore Well",W26259,2014,6.2,8.1,7.8,8.88
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.9275,83.11388889,Malgaon,"Dug Well",W26262,2014,'0.52,2.2,1.3,3.8
+OD,Kalahandi,Narala,Narala,19.96888889,83.32111111,Santapur,"Dug Well",W26270,2014,2.23,3.9,4.2,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi,"Bore Well",W26283,2014,1.7,5.8,4.7,6.8
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golamunda,"Bore Well",W26301,2014,4.8,5.2,3.9,6.8
+OD,Kalahandi,Narala,"Madanpur    Rampur",20.1275,83.41777778,Tulapada,"Dug Well",W26334,2014,'0.68,2.1,'0.85,3.2
+OD,Kalahandi,Kesinga,Narala,20.29944444,83.35611111,Tundala,"Dug Well",W26446,2014,1.45,3.25,2.7,5.9
+OD,Kalahandi,"Madanpur    Rampur","Madanpur    Rampur",20.30777778,83.5325,Madanpur1,"Dug Well",W26454,2014,2.1,5.4,4.95,7.55
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2014,3.4,6.75,5.2,9.8
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2013,2.2,3.9,2.6,6.8
+OD,Kalahandi,"Madanpur    Rampur","Madanpur    Rampur",20.19722222,83.525,M.Rampur,"Bore Well",W31250,2013,NA,5.85,NA,5.85
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2013,1.7,4.5,2.52,6.25
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2013,1.6,4.7,2.15,6.3
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2013,1.7,5.8,5.1,5.9
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2013,2.8,3.9,3.1,4.9
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2013,1.75,3.8,1.9,5.55
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2013,2.4,4.9,3.35,6.1
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2013,1.35,5.3,1.95,4.8
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2013,'0.2,5.3,3.52,5.2
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2013,'0.2,3.8,1.1,3.6
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2013,3.15,4.8,3.35,4.7
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2013,'0.8,3.2,1.6,2.35
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2013,NA,3.12,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2013,'0.7,2.5,1.2,6.7
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2013,'0.5,2.8,1.05,1.7
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2013,'0.2,3.6,1.9,3.1
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2013,1.3,4.2,1.95,1.25
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2013,1.3,4.1,2.7,6.6
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2013,6.95,6.6,5.85,8.5
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2013,2.2,4,1.8,6
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2013,1.1,3,1.38,4.2
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2013,2.1,1.95,4.1,6.7
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2013,NA,3.98,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2013,1.9,4.5,2.4,5.5
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2013,2.5,2.2,NA,3.9
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2013,1.3,4.2,2.1,7.1
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2013,1.7,6.3,NA,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2013,NA,4.9,3.5,5.85
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2013,'0.85,1.6,'0.7,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2013,NA,3.78,NA,NA
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2013,1.1,3.5,2.2,3.6
+OD,Kalahandi,Jayapatna,Jayapatna,19.47055556,82.81083333,Jaipatna,"Dug Well",W26122,2013,1.1,3.3,1.4,3.1
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon,"Bore Well",W26153,2013,3.28,5.2,2.2,7
+OD,Kalahandi,Kokasara,Kokasara,19.61944444,82.68944444,Sunamala,"Dug Well",W26155,2013,1.85,3.4,1.9,4.7
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda1,"Dug Well",W26174,2013,'0.3,3.9,2.3,3.9
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.86583333,83.15888889,Attanguda,"Dug Well",W26241,2013,1.3,2.9,1.5,5.1
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87,82.77972222,Dharamgarh,"Dug Well",W26244,2013,2.55,5.8,3.85,8.1
+OD,Kalahandi,Junagarh,Junagarh,19.89472222,83.02083333,"Tal Jaring","Dug Well",W26254,2013,1.8,3.3,1.65,1.6
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bhawanipatna,"Bore Well",W26259,2013,7.5,8.1,9.1,8.3
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.9275,83.11388889,Malgaon,"Dug Well",W26262,2013,'0.2,2.2,'0.85,4.2
+OD,Kalahandi,Narala,Narala,19.96888889,83.32111111,Santapur,"Dug Well",W26270,2013,2.9,4.4,2.8,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi,"Bore Well",W26283,2013,1.8,5,3.15,6.4
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golamunda,"Bore Well",W26301,2013,6.1,8.8,6.2,8.4
+OD,Kalahandi,Narala,"Madanpur    Rampur",20.1275,83.41777778,Tulapada,"Dug Well",W26334,2013,'0.3,'0.89,NA,4.5
+OD,Kalahandi,Kesinga,Narala,20.29944444,83.35611111,Tundala,"Dug Well",W26446,2013,'0.8,3.2,1.65,5.1
+OD,Kalahandi,"Madanpur    Rampur","Madanpur    Rampur",20.30777778,83.5325,Madanpur1,"Dug Well",W26454,2013,NA,6.3,NA,7.1
+OD,Kalahandi,Junagarh,Junagarh,19.85833333,82.93027778,Junagarh,"Dug Well",W31240,2013,1.2,3.2,1.9,5.5
+OD,Kalahandi,Narala,"Madanpur    Rampur",20.1275,83.41777778,Tulapada1,"Dug Well",W31246,2013,NA,1.6,NA,NA
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga,"Bore Well",W31248,2013,NA,7.65,NA,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2013,4.1,8.4,6.8,10.5
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2012,NA,5.06,2.8,5.76
+OD,Kalahandi,"Madanpur    Rampur","Madanpur    Rampur",20.19722222,83.525,M.Rampur,"Bore Well",W31250,2012,NA,NA,4.6,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2012,NA,4.14,3,6.34
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2012,NA,6.1,3.1,7.05
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2012,NA,6.9,5.8,5.3
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2012,NA,3.5,NA,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2012,NA,4.94,3.8,6.34
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2012,NA,5.36,2.7,6.46
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2012,NA,4.64,4.2,5.74
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2012,NA,3.66,2.9,5.18
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2012,NA,4.9,3.2,5.2
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2012,NA,3.71,NA,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2012,NA,3.63,2.8,3.73
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2012,NA,4.4,3.8,6.7
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2012,NA,2.8,1.5,4.6
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2012,NA,1.8,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2012,NA,NA,2.9,6.44
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2012,NA,1.56,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2012,NA,2.54,1.8,3.54
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2012,NA,2.67,1.2,3.57
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2012,NA,3.6,NA,NA
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2012,NA,3,2.1,2.2
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2012,NA,3.23,1.5,5.63
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2012,NA,3.41,NA,NA
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2012,NA,4.19,2.1,6.97
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2012,NA,7.74,6.8,NA
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2012,NA,4.38,2.1,5.78
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2012,NA,3.7,2.1,4.4
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2012,NA,1.9,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2012,NA,4.36,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2012,NA,4.02,2.8,5.42
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2012,NA,1.8,1.8,4.2
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2012,NA,3.59,1.7,8.28
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2012,NA,3.59,4.8,7.69
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2012,NA,4.52,4.2,5.62
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2012,NA,3.47,NA,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2012,NA,1.96,'0.8,3.26
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2012,NA,3.33,NA,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2012,NA,7.46,NA,NA
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2012,NA,4.3,NA,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2012,NA,3.65,NA,NA
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2012,NA,3.1,3.1,4.7
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87694444,82.75194444,Chilpa,"Dug Well",W20837,2012,NA,3.5,NA,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.47055556,82.81083333,Jaipatna,"Dug Well",W26122,2012,NA,NA,1.8,NA
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon,"Bore Well",W26153,2012,NA,NA,4.2,NA
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87,82.77972222,Dharamgarh,"Dug Well",W26244,2012,NA,NA,4.1,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bhawanipatna,"Bore Well",W26259,2012,NA,NA,7.7,NA
+OD,Kalahandi,Narala,Narala,19.96888889,83.32111111,Santapur,"Dug Well",W26270,2012,NA,NA,4.6,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi,"Bore Well",W26283,2012,NA,NA,3.3,NA
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golamunda,"Bore Well",W26301,2012,NA,NA,4.6,NA
+OD,Kalahandi,Narala,"Madanpur    Rampur",20.1275,83.41777778,Tulapada,"Dug Well",W26334,2012,NA,NA,'0.5,NA
+OD,Kalahandi,Junagarh,Junagarh,19.85833333,82.93027778,Junagarh,"Dug Well",W31240,2012,NA,NA,2.1,NA
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga,"Bore Well",W31248,2012,NA,NA,7.55,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2012,NA,3.8,7.1,10.3
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2011,'0.98,3.94,3.39,7.78
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87694444,82.75194444,Chilpa,"Dug Well",W20837,2011,NA,3.49,NA,4.29
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2011,1.02,4.03,3.07,5.64
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2011,1.21,4.32,3.83,5.87
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2011,2.46,4.77,1.15,5.93
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2011,'0.99,3.65,3.62,4.2
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2011,2.02,5.53,2.75,4.57
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2011,4.58,4.26,2.11,5.56
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2011,NA,3.4,NA,4.91
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2011,'0.88,3.14,1.03,1.29
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2011,1.82,4.61,2.15,1.14
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2011,1.44,2.51,2.91,2.86
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2011,'0.42,3.42,2.05,2.36
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2011,1.19,4.95,3.52,3.39
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2011,'0.82,2.59,1.85,1.63
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2011,2.32,3.18,1.63,3.41
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2011,'0.94,3.25,1.43,'0.76
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2011,1.21,3.15,3.36,'0.63
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2011,1.25,1.38,2.35,2.57
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2011,'0.75,3.53,3.03,4.66
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2011,NA,1.69,NA,'0.54
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2011,1.29,3.92,2.38,'0.69
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2011,1.15,2.28,2.88,'0.69
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2011,1.92,NA,1.53,4.97
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2011,3.52,4.5,4.76,5.98
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2011,1.9,3.67,2.53,3.79
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2011,'0.6,2.32,1.35,2.45
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2011,1.68,2.87,'0.72,4.2
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2011,NA,4.51,4.02,5.65
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2011,'0.41,4.23,2.46,3.74
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2011,1.78,3.57,1.39,3.28
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2011,'0.83,5.17,1.57,5.55
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2011,1.41,5.26,2.97,5.61
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2011,'0.97,4.38,4.24,3.74
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2011,1.89,2.82,2.65,5.19
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2011,'0.74,1.92,3.44,4.62
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2011,1.64,3.76,1.5,5.47
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2011,NA,1.34,NA,7.63
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2011,1.08,3.7,3.54,6.54
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2011,2.31,4.08,3.55,8.19
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2011,'0.78,3.26,3.05,1.54
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2011,2.9,5.97,3.35,9.9
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2010,'0.64,5.76,3.16,5.28
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87694444,82.75194444,Chilpa,"Dug Well",W20837,2010,NA,3.28,NA,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2010,'0.89,3.44,2.83,6.96
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2010,1.2,3.5,NA,6.97
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2010,2.31,4.35,1.1,7.2
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2010,'0.93,3.37,3.37,4.7
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2010,2.09,5.75,2.54,6.09
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2010,1.51,4.46,1.86,6.01
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2010,NA,3.96,NA,6.39
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2010,'0.93,3.2,'0.98,3.34
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2010,'0.62,4.95,1.97,2.86
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2010,1.29,2.62,NA,4.91
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2010,'0.42,4.82,1.84,NA
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2010,1.38,5.35,3.49,2.52
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2010,'0.95,3.06,1.73,3.15
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2010,2.41,3.58,1.49,5.6
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2010,NA,NA,NA,2.13
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2010,'0.8,4.35,1.11,2.57
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2010,1.33,2.76,3.33,2.32
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2010,1.52,5.59,2.28,3.82
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2010,'0.7,2.71,3.64,5.52
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2010,NA,3.63,NA,2.25
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2010,1.17,4.04,2.26,2.56
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2010,1.05,2.88,2.64,3.76
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2010,1.8,1.62,2,6.22
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2010,3.56,4.96,NA,7.09
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2010,2.03,4.13,2.24,5.73
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2010,'0.65,2.72,'0.61,4.45
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2010,1.49,NA,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2010,1.52,4.34,2.12,6.25
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2010,2.78,6.69,NA,7.31
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2010,'0.38,5.01,2.19,5.6
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2010,1.62,3.32,1.28,5.75
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2010,'0.53,5.67,1.61,6.73
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2010,1.2,6.74,2.82,7.52
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2010,1.04,6.31,3.44,5.84
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2010,1.82,8.92,2.61,6.62
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2010,'0.71,2.18,3.37,5.92
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2010,1.5,3.03,1.63,6.6
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2010,NA,4.24,NA,8.18
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2010,1.13,5.28,1.37,7.33
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2010,2.25,8.78,3.54,9.28
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2010,'0.61,4.82,2.89,3.33
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2010,2.75,7.79,3.16,10.8
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2009,'0.88,4.24,'0.89,6.38
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87694444,82.75194444,Chilpa,"Dug Well",W20837,2009,'0.89,3.26,1.72,5.11
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2009,'0.55,3.58,2.86,6.82
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2009,'0.56,4.03,3.75,7.24
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2009,2.12,4.76,'0.95,7.23
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2009,'0.82,3.59,3.25,4.6
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2009,1.52,5.52,1.7,5.75
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2009,'0.92,4.16,1.92,5.99
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2009,'0.46,3.16,3.21,6.29
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2009,'0.34,3,1.13,3.13
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2009,1.16,4.47,'0.88,2.66
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2009,'0.95,2.32,3.11,4.62
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2009,'0.35,3.23,1.68,3.75
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2009,1.28,4.81,3.66,4.21
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2009,'0.88,2.65,1.6,2.85
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2009,1.15,3.62,1.45,NA
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2009,'0.79,4.56,NA,7.69
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2009,'0.5,3.11,1.06,2
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2009,1.19,2.33,3.45,2.11
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2009,'0.82,1.67,1.22,3.82
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2009,'0.39,3.22,3.52,5.29
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2009,'0.58,1.41,1.38,2.06
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2009,'0.93,3.82,'0.21,2.58
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2009,1.08,2.2,2.82,3.75
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2009,1.48,2.88,1.87,6.42
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2009,3.35,4.79,'0.99,7.66
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2009,'0.51,5.33,1.09,5.73
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2009,-0.01,2.35,'0.3,4.47
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2009,NA,NA,NA,5.73
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2009,'0.97,3.42,2.05,6.12
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2009,NA,4.48,1.61,7.11
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2009,'0.18,4.05,2.24,5.54
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2009,1.42,NA,1.02,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2009,'0.38,5.08,1.63,6.79
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2009,1.09,5.94,2.94,7.34
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2009,'0.89,4.17,3.37,5.44
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2009,1.66,NA,1.67,6.34
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2009,'0.52,1.74,3.21,5.88
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2009,1.08,3.04,1.67,6.66
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2009,'0.42,1.06,1.6,8.38
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2009,NA,3.3,1.29,7.71
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2009,1.85,3.96,3.63,9.38
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2009,'0.12,3.19,'0.73,3.78
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2009,2.35,6.33,2,10.92
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2008,'0.39,6.99,'0.89,5.77
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87694444,82.75194444,Chilpa,"Dug Well",W20837,2008,1,NA,1.9,4.25
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2008,'0.78,NA,2.64,6.39
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2008,'0.97,NA,3.95,6.73
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2008,2.28,3.95,1.13,6.35
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2008,'0.98,NA,3.45,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2008,1.95,5.26,1.82,5.56
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2008,1.26,3.71,1.41,6.05
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2008,1.15,3.03,3.26,5.94
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2008,'0.25,2.9,1.96,2.44
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2008,1.02,4.87,1.12,2.21
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2008,'0.4,2.35,3.23,3.44
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2008,'0.35,NA,2.23,3.42
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2008,1.67,5.11,3.72,3.52
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2008,'0.91,3.51,1.6,2.61
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2008,NA,3.37,2.16,3.55
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2008,'0.74,NA,NA,4.26
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2008,'0.44,4.18,1.5,'0.87
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2008,1.42,2.56,4.16,1.79
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2008,1.3,2.58,1.49,2.38
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2008,NA,2.55,3.87,4.95
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2008,'0.54,3.45,1.59,1.42
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2008,1.05,3.88,'0.93,1.91
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2008,1,2.71,3.22,1.88
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2008,2.35,2.28,2.32,5.87
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2008,5.75,NA,1.29,6.32
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2008,1.23,NA,1.33,5.6
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2008,'0.34,2.65,'0.68,3.48
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2008,'0.91,NA,NA,2.32
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2008,1.35,3.93,2.1,5.78
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2008,1.92,6.45,2.08,6.61
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2008,'0.25,4.25,2.42,5.31
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2008,1.45,2.68,1.1,5.93
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2008,'0.28,5.68,'0.8,7.69
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2008,1.28,6.63,3.21,7.08
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2008,1.15,4.45,3.77,5.62
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2008,1.95,8.41,2.09,6.17
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2008,1.16,1.9,3.44,5.55
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2008,1.17,NA,3.77,6.1
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2008,'0.12,3.96,1.72,5.77
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2008,NA,5.46,1.09,4.28
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2008,2.11,8.97,3.74,9.21
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2008,'0.63,3.73,1.4,3.69
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2008,2.6,NA,2.35,8.69
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2007,'0.99,5.76,1.93,7.6
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87694444,82.75194444,Chilpa,"Dug Well",W20837,2007,'0.62,3.05,1.94,4.25
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2007,'0.96,3.21,2.66,6.3
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2007,2.27,4.36,4,6.59
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2007,1.87,4.42,1.01,6.11
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2007,'0.58,3.47,3.57,4.61
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2007,1.75,NA,1.63,5.47
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2007,NA,3.03,1.98,4.79
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2007,1.29,2.89,3.42,5.69
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2007,'0.87,2.85,2.2,3.05
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2007,'0.88,4.74,1.25,5.01
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2007,1.01,2.09,3.28,3.68
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2007,'0.48,2.98,2.32,2.6
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2007,'0.73,5.02,3.8,5.57
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2007,1.02,3.1,1.72,2.28
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2007,1.38,3.22,2.32,3.31
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2007,NA,4.29,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2007,'0.91,NA,1.43,'0.76
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2007,'0.25,2.31,4.33,3.64
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2007,'0.4,NA,1.42,NA
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2007,'0.65,NA,3.93,4.59
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2007,'0.74,NA,1.62,1.68
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2007,'0.9,3.8,1.03,1.74
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2007,'0.45,2.5,3.49,1.9
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2007,'0.42,2.15,2.28,5.75
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2007,'0.93,4.67,1.31,6.21
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2007,'0.94,3.53,1.18,5.2
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2007,'0.39,2.5,'0.72,3.86
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2007,'0.42,3.86,2.05,4.78
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2007,1.34,NA,2.21,6.55
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2007,1.92,4,2.38,6.04
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2007,1.31,2.4,1.25,7
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2007,5,4.58,1.75,7.81
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2007,'0.15,6.24,3.01,6.91
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2007,2.89,4.37,3.88,5.58
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2007,1.86,NA,2.22,5.89
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2007,1.29,NA,3.58,3.82
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2007,1.04,2.78,3.6,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2007,'0.93,NA,1.8,8.38
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2007,NA,NA,1.06,7.71
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2007,3.85,NA,3.88,8.95
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2007,'0.26,3.62,2.13,3.78
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2007,1.53,7.12,2.42,8.59
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2006,'0.11,6.07,2.88,8.11
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2006,1.85,8.22,4.73,9.4
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2006,'0.68,4.5,3,5.67
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2006,NA,5.97,2.57,6.85
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2006,'0.72,7.1,3.9,7
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2006,'0.73,5,1.82,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2006,NA,5.04,2.62,5.44
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2006,'0.67,4.21,2.41,5.16
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2006,NA,4.29,1.91,5.84
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2006,NA,2.66,1.33,2.98
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2006,1.27,5.38,2.84,5.3
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2006,1.12,3.49,1.24,4.16
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2006,'0.74,3.43,'0.93,3.08
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2006,'0.93,5.93,4.3,5.7
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2006,'0.6,3.78,1.62,1.5
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2006,'0.93,3.98,1.7,2.8
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2006,1.05,4.66,2.79,NA
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2006,1.01,4.03,1.2,'0.83
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2006,'0.56,3.39,1.67,3.34
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2006,NA,2.59,NA,3.97
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2006,'0.94,2.57,NA,NA
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2006,'0.97,3.18,'0.75,NA
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2006,1.04,4.83,1.81,2.03
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2006,'0.65,1.23,'0.84,1.3
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2006,'0.51,4.9,2.02,5.72
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2006,5.34,9.86,4.47,8.74
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2006,1.34,3.9,1.59,4.68
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2006,'0.73,3.38,1.55,6
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2006,1.18,3.59,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2006,'0.7,4.05,3,5.1
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2006,NA,NA,NA,7.46
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2006,'0.44,4.82,2.72,5.87
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2006,1.38,2.96,1.7,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2006,'0.35,6.72,1.68,7.68
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2006,'0.39,6.59,4.1,7.59
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2006,'0.83,5.07,3.82,5.8
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2006,NA,8.17,NA,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2006,NA,1.66,NA,NA
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2006,1.28,5.65,3.04,7.85
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2006,NA,3.75,NA,NA
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2006,NA,5.68,NA,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2006,NA,8.79,NA,NA
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2006,'0.48,3.98,2.73,3.35
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.87694444,82.75194444,Chilpa,"Dug Well",W20837,2006,'0.63,NA,1.59,4.8
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.67888889,83.14916667,Karlapat,"Dug Well",W21033,2006,'0.9,NA,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2005,1.91,4.52,2.9,2.58
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2005,'0.75,2.79,NA,1.98
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2005,2.34,6.21,4.36,5.19
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2005,1.33,5.24,3.54,4.31
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2005,2.38,5.84,NA,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2005,1.43,1.06,NA,1.77
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2005,4.86,5.76,5.8,6.36
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2005,NA,1.57,3.85,NA
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2005,NA,NA,4.84,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2005,3.69,8.56,NA,6.33
+OD,Kalahandi,Kalampur,Jayapatna,19.71527778,82.79583333,Moter,"Dug Well",W19987,2005,'0.7,3.92,'0.58,4.13
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2005,NA,3.12,2.63,NA
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2005,1.64,2.15,2.6,3.13
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2005,3.07,1.88,1.59,NA
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2005,4.68,4.09,3.19,NA
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2005,6.22,6.39,6.54,7.41
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2005,NA,4.9,2.22,5.98
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2005,4.01,6.92,2.69,6.9
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2005,NA,4.46,3.78,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2005,NA,3.72,5.6,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2005,4.97,6.27,NA,7.66
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2005,3.1,4.84,3.98,3.92
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2005,2.42,6.41,2.46,3.15
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2005,4.87,4.18,2.6,6.24
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2005,-0.17,2.75,1.41,3.39
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2005,5.65,5.62,3.86,8.31
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2005,2.3,5.42,1.28,4.58
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2005,3.16,4.07,2.86,5.23
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2005,NA,NA,3.5,NA
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2005,'0.08,3.9,1.32,3.08
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2005,4.06,4.7,2.29,6.54
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2005,NA,NA,'0.98,NA
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2005,1.33,3.09,1.45,3.5
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2005,2.41,7.56,1.5,8.26
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2005,3.61,9.06,7.15,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2005,4.11,5.83,3.82,6.65
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2005,4.29,7.57,4.2,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2005,4.01,6.91,4.4,NA
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2005,4.11,NA,NA,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2005,3.05,4.89,4.28,5.43
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2005,3.53,3.58,3.04,5.87
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2005,NA,4.96,4.64,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2005,5.27,8.9,1.41,7.59
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2004,1.39,NA,3.02,4.02
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2004,'0.28,NA,'0.96,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2004,1.97,NA,4.19,8.19
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2004,2.07,NA,3.83,6.62
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2004,NA,NA,3.88,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2004,NA,NA,'0.59,2.71
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2004,1.71,NA,2.99,6.56
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2004,NA,NA,NA,3.85
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2004,NA,NA,4.38,7.48
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2004,'0.6,NA,1.32,2.76
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2004,'0.71,NA,'0.12,2.73
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2004,'0.7,NA,'0.4,1.28
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2004,3.72,NA,4.08,NA
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2004,2.5,NA,3.34,7.12
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2004,NA,NA,1.28,NA
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2004,1.17,NA,'0.61,3.08
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2004,NA,NA,1.27,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2004,NA,NA,4.52,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2004,'0.99,NA,2.29,6.44
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2004,1.93,NA,'0.77,3.72
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2004,1.17,NA,4.14,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2004,'0.28,NA,2.04,3.75
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2004,2.95,NA,3.8,NA
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2004,1.29,NA,2.68,4.02
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2004,'0.75,NA,'0.92,3.5
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2004,1.1,NA,3.23,NA
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2004,'0.48,NA,'0.62,2.78
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2004,1.99,NA,3.55,NA
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2004,NA,NA,1.55,3.68
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2004,3.08,NA,4.65,7.64
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2004,2.03,NA,4.7,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2004,2.89,NA,4.69,6.34
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2004,1.7,NA,4.57,8.02
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2004,2.64,NA,3.91,6.66
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2004,2.66,NA,3.31,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2004,2.69,NA,3.9,6.15
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2004,1.87,NA,2.33,5.55
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2004,NA,NA,2.54,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2004,2.83,NA,1.2,7.02
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2003,'0.02,5.25,2.29,2.8
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2003,'0.51,6.11,1.67,3.13
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2003,4.47,7.29,5.5,7.11
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2003,1.5,5.5,3.9,6.43
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2003,4.74,NA,5.82,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2003,'0.47,1.24,1.71,2.29
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2003,'0.85,6.27,3.53,7.13
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2003,NA,4.73,4.32,NA
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2003,NA,5.87,NA,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2003,3.91,9.16,4.94,7.29
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2003,NA,2.74,NA,NA
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2003,'0.2,3.73,1.16,4.73
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2003,1.92,1.77,1.3,NA
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2003,3.74,4.85,4.65,NA
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2003,8.36,7.74,2.53,8.96
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2003,3.06,5.98,2.59,6.09
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2003,3.19,7.57,1.34,8.71
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2003,NA,4.96,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2003,NA,4.79,NA,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2003,4.17,NA,4.54,8.57
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2003,2.74,5.58,3.23,NA
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2003,1.64,5.66,2.23,6.45
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2003,'0.55,NA,1.33,NA
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2003,3.19,5.55,3.91,9.01
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2003,1.41,5.12,2.19,5.62
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2003,'0.8,4.07,1.81,5.32
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2003,4.1,5.09,4.95,NA
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2003,'0.96,4.14,1.39,4.99
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2003,3.55,4.36,4.71,8.65
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2003,NA,2.62,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2003,NA,3.02,NA,3.84
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2003,4.43,7.22,5.18,7.68
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2003,3.71,9.12,4.11,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2003,1.27,5.83,1.76,6.84
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2003,1.95,7.37,2.33,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2003,2.86,6.33,3.37,NA
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2003,2.51,5.77,2.89,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2003,1.71,5.24,3.91,6.63
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2003,2.57,3.52,3.28,5.97
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2003,4.95,4.71,6.15,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2003,-0.04,2.76,'0.75,2.28
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2003,8.93,9.4,1.69,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2002,NA,NA,NA,5.5
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2002,4.42,3.42,4.92,5.42
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2002,4.41,6.24,5.69,7.89
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2002,4.8,5.05,4.7,6.18
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2002,5.05,7.95,8.28,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2002,NA,1.89,1.46,2.41
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2002,7.47,5.65,5.63,7.17
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2002,NA,NA,4.41,4.79
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2002,5.5,6.28,4.31,6.93
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2002,3.89,8.39,8.35,9.33
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2002,4.14,3.28,1.93,2.28
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2002,1.31,1.1,NA,1.23
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2002,5.55,4.93,1.87,6.42
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2002,11.24,6.76,6.99,6.09
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2002,3.31,4.28,4.18,5.48
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2002,'0.65,NA,5.63,5.25
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2002,NA,4.59,4.27,4.61
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2002,3.72,4.45,2.9,5.68
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2002,NA,NA,4.54,6.41
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2002,5.12,4.22,3.95,6.82
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2002,NA,3.92,4.07,5.06
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2002,2.25,2.03,NA,2.96
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2002,NA,5.36,5.27,7.5
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2002,1.58,3.84,3.68,4.85
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2002,4.28,4.1,2.58,3.4
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2002,5.26,4.74,4.15,5.64
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2002,5.39,4.16,1.48,1.53
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2002,'0.86,3.35,3.42,4.44
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2002,1.25,2.22,1.85,2.82
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2002,3.59,2.11,1.4,3.82
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2002,2.58,3.06,2.3,2.5
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2002,5.69,5.03,5.3,NA
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2002,9.01,8.05,8,9.1
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2002,2.74,4.94,4.94,6.74
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2002,7.85,6,6.13,7.15
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2002,4.8,5.55,4.83,7.06
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2002,3.51,NA,-0.4,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2002,6.36,4.84,4.49,6.12
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2002,6.23,4.06,3.49,5.46
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2002,5.56,5.74,3.74,5.74
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2002,NA,NA,1.53,3.38
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2002,8.94,5.44,7.58,7.83
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2001,1.76,6.72,2.71,8.7
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2001,1.91,6.59,5.09,7.71
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2001,1.55,5.07,4.85,6.98
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2001,3.98,8.17,7.33,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2001,'0.19,1.66,NA,3.2
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2001,1.84,5.65,4.9,8.85
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2001,1.06,3.75,NA,7.81
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2001,1.32,5.68,3.94,9.06
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2001,1.65,8.79,7.38,NA
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2001,1.14,4.83,2.2,6.95
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2001,'0.36,1.23,1.43,1
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2001,2.4,4.9,2.3,9.18
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2001,11.44,9.86,2.76,11.11
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2001,1.31,3.9,1.95,4.78
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2001,'0.03,3.38,2.29,5.04
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2001,1.77,3.59,3.38,4.81
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2001,2.61,4.05,5.6,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2001,1.07,NA,NA,7.37
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2001,'0.45,4.82,3.08,6.87
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2001,1.63,2.96,2,4.74
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2001,'0.5,3.49,2.2,4.71
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2001,'0.63,3.43,1.01,3.94
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2001,2.61,5.93,3.7,5.29
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2001,1.2,3.78,'0.88,5.01
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2001,'0.81,3.98,2.45,5.45
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2001,'0.92,4.66,3.1,6.1
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2001,'0.81,4.03,2.24,5.85
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2001,'0.72,3.39,2.17,4.81
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2001,NA,2.59,'0.82,2.67
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2001,'0.64,2.57,1.05,3.72
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2001,'0.41,3.18,2.23,3.06
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2001,'0.73,4.49,3.99,7.07
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2001,2.93,8.22,7,9.47
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2001,'0.89,5.76,3.66,7.04
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2001,3.45,5.97,4.05,7.25
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2001,2.52,7.1,4.25,NA
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2001,'0.77,5.85,NA,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2001,2.91,5.04,4.12,6.29
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2001,1.02,4.21,2.88,5.63
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2001,1.46,4.29,4.49,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2001,NA,2.66,NA,6.13
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2001,'0.48,5.38,2.3,3.88
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,2000,5.03,6.55,5.2,8.27
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,2000,'0.32,3.83,4.17,5.08
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,2000,2.64,4.82,4.67,5.9
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,2000,6.45,8.02,7.41,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,2000,'0.64,1.66,1.26,2.8
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,2000,5.27,4.83,4.99,6.27
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,2000,3.19,4.7,4.55,5.33
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,2000,2.49,4.68,3.23,6.64
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,2000,5.38,8.58,7.78,9.9
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,2000,1.21,4.13,2.2,6.71
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,2000,'0.57,2.81,1.87,3.75
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,2000,1.58,4.83,1.94,7.03
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,2000,10.33,9.19,9.66,13.52
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,2000,1.56,3.28,2.92,5.4
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,2000,'0.84,3.9,3.86,7.48
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,2000,2.22,5.21,2.84,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,2000,4.07,6.7,2.79,8.73
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,2000,'0.86,2.73,2.34,8.01
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,2000,1.95,3.82,3.66,5.38
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,2000,1.69,2.55,2.19,4.26
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,2000,4.14,NA,2.66,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,2000,'0.88,NA,2.05,1.6
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,2000,3.66,5.4,4.16,6.43
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,2000,1.34,3.9,2.32,5.26
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,2000,'0.61,3.95,2.75,5.22
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,2000,1.34,4.34,3.7,5.72
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,2000,'0.75,4.13,2.23,4.22
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,2000,1.38,3.1,2.76,6.12
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,2000,1.18,2.94,2.19,5.89
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,2000,'0.54,2.19,1.49,3.64
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,2000,'0.73,2.93,2.95,3.78
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,2000,1.04,4.99,3.72,5.61
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,2000,5.66,7.95,7.14,9.18
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,2000,3.43,4.74,5.16,6.6
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,2000,1.94,4.97,5.32,6.83
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,2000,5.36,5.2,6.28,7.02
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,2000,'0.89,4.12,2.42,NA
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,2000,1.8,4.82,4.62,5.92
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,2000,2.4,3.38,3.33,4.73
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,2000,1.6,3.96,4.14,6.31
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,2000,'0.26,3.51,1.74,NA
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,2000,1.95,5.79,4.96,7.55
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,1999,4.08,4.87,NA,6.6
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,1999,5.36,3.33,NA,6.15
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,1999,2.13,4.86,NA,6.58
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,1999,7.33,8.85,NA,NA
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,1999,10.46,9.63,NA,NA
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,1999,'0.33,2.68,NA,5.55
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,1999,2.87,3.91,NA,8.76
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,1999,2.34,2.91,NA,4.4
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,1999,1.63,3.35,NA,5.9
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,1999,1.51,4.45,NA,4.78
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,1999,2.06,4.37,NA,6.53
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,1999,'0.55,2.85,NA,4.93
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,1999,6.77,7.47,NA,9.19
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,1999,2.39,6.3,NA,7.82
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,1999,3.82,5.33,NA,6.53
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,1999,6.9,8.54,NA,NA
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,1999,'0.73,1.61,NA,2.27
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,1999,'0.47,NA,NA,NA
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,1999,6.05,4.73,NA,7.07
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,1999,1.57,4.47,NA,6.19
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,1999,'0.75,3.81,NA,5.9
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,1999,1.9,5.41,NA,6.52
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,1999,'0.76,4.51,NA,6.06
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,1999,1.24,3.19,NA,4.79
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,1999,1.17,3.48,NA,5.17
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,1999,'0.62,NA,NA,3.85
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,1999,'0.53,3.37,NA,5.38
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,1999,1.1,3.93,NA,7.73
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,1999,'0.6,2.72,NA,4.88
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,1999,1.82,4.81,NA,7.27
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,1999,1.11,4.43,NA,5.29
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,1999,5.04,8.12,NA,9.39
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,1999,2.2,4.15,NA,6.71
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,1999,'0.58,5.65,NA,7.18
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,1999,2.4,4.87,NA,7.1
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,1999,1.1,3.53,NA,4.65
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,1999,3.99,4.05,NA,6.2
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,1999,2.03,3.21,NA,4.79
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,1999,1.69,3.86,NA,4.84
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,1999,'0.7,3.65,NA,6.14
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,1999,'0.4,6.43,NA,7.87
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,1999,3.65,5.41,NA,3.97
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,1998,3.73,4.4,4.36,5.55
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,1998,-0.02,NA,'0.51,2.87
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,1998,4.05,4.65,3.59,6.31
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,1998,7.89,7.83,8.43,9
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,1998,9.27,7.74,9.14,9.04
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,1998,2.43,2.55,1.55,4.9
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,1998,3.53,2.25,2.97,5.74
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,1998,2.94,3.55,2.61,4.01
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,1998,1.93,3.3,2.16,4.76
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,1998,3.25,4.07,NA,6.5
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,1998,3.12,2.8,2.82,4.89
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,1998,1.83,2.15,2.01,1.79
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,1998,6.68,3.33,6.44,5.95
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,1998,4.33,5.7,4,7.63
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,1998,4.58,4.21,4.71,5.4
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,1998,7.71,7.64,8.09,9.61
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,1998,'0.82,'0.89,1.15,1.72
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,1998,'0.67,4.03,1.69,6.03
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,1998,2.84,2.86,2.72,5.1
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,1998,1.33,3.81,2.26,5.07
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,1998,3,4.7,3.22,5.66
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,1998,1.6,3.65,2.91,5.25
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,1998,1.51,3.43,2.36,4.36
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,1998,1.47,2.75,2.1,4.59
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,1998,NA,NA,NA,4.85
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,1998,1.7,3.1,1.53,4.85
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,1998,1.11,3.2,1.83,6.28
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,1998,1.33,1.49,1.63,4.02
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,1998,1.13,3.55,2.14,6.18
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,1998,1.73,3.74,3.4,4.92
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,1998,7.52,7.78,7.04,8.14
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,1998,2.43,3.6,2.68,5.98
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,1998,3.5,2.85,4.95,6.22
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,1998,3.17,4.75,3.76,4.9
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,1998,1.56,2.62,2.46,5.14
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,1998,3.56,3.81,3.73,4.93
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,1998,2.16,2.55,2.5,3.81
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,1998,1.01,3.03,2.63,4.91
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,1998,'0.53,4.66,1.44,4.2
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,1998,3.88,5.5,5.77,8.62
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,1998,1.82,2.85,1.52,5.93
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,1998,3.92,4.75,4.25,5.15
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,1997,3.73,5.57,3.95,6.55
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,1997,1.16,5.58,3.54,NA
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,1997,3.38,5.68,5.15,7.63
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,1997,1.53,8.31,6.78,9.22
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,1997,9.14,8.87,7.44,9.69
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,1997,3.28,3.44,2.38,4.94
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,1997,3.45,4.3,2.49,7.68
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,1997,3.97,4.5,3.41,NA
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,1997,1.95,4.04,2.12,5.4
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,1997,'0.46,4.11,2.01,6.86
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,1997,1.02,4.88,2.95,6.82
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,1997,1.35,3.16,1.8,4.35
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,1997,1.38,6.35,1.73,7.96
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,1997,'0.67,6.86,3.79,7.79
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,1997,1.67,5.75,3.92,6.47
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,1997,2.72,8.1,7.07,9.77
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,1997,'0.82,1.66,'0.9,1.58
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,1997,2.16,4.88,3.75,6.35
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,1997,'0.95,4.12,2.28,5.55
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,1997,'0.5,3.7,2.08,5.65
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,1997,'0.86,6.74,4.56,6.24
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,1997,'0.5,4.8,2.28,5.65
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,1997,1.06,3.26,2.24,4.34
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,1997,1.37,4.32,2.03,5.93
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,1997,'0.9,7.4,3.92,NA
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,1997,'0.72,3.84,1.98,5.02
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,1997,'0.83,4.71,1.27,7.23
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,1997,'0.89,3.01,1.75,4.47
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,1997,NA,4.62,1.62,7.12
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,1997,'0.71,4.39,2.9,5.69
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,1997,NA,8.1,6.45,8.86
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,1997,1.54,5.02,2.94,6.44
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,1997,3.3,6.2,3.25,7.43
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,1997,2.3,6.13,4.02,7.12
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,1997,1.25,4.61,2.48,5.26
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,1997,2.53,3.85,3.32,4.65
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,1997,1.51,3.36,2.43,4.54
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,1997,'0.29,3.98,2.14,5.64
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,1997,-0.3,4.21,1.31,NA
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,1997,4.4,6.63,4.86,7.8
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,1997,'0.86,3.53,1.89,5.86
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,1997,2.8,5.15,4.05,6.03
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,1996,4.05,4.48,4.95,6.45
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,1996,3.56,4.93,4.35,5.36
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,1996,3.95,4.6,4.83,6.73
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,1996,5.75,7.43,7.43,9.15
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,1996,1.83,2.83,2.05,4.9
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,1996,1.74,3.26,3.56,6.4
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,1996,3.11,3.89,3.44,6.09
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,1996,1.15,3.16,2.62,6.37
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,1996,'0.73,2.73,2.43,6.48
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,1996,2.99,4.81,4.02,6.22
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,1996,1.67,1.93,2.32,'0.07
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,1996,3.05,2.98,4.64,6.73
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,1996,3.08,5.67,5.56,7.71
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,1996,3.69,4.32,4.96,6.24
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,1996,5.94,7.72,7.25,10.04
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,1996,'0.97,1.43,1.13,2.39
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,1996,4.43,3.97,3.9,6.67
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,1996,1.37,2.9,3.03,5.56
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,1996,'0.92,2.94,2.68,5.02
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,1996,'0.99,5.61,3.47,5.95
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,1996,'0.7,3.63,3.34,5.44
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,1996,1.39,2.49,2.46,4.32
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,1996,1.39,2.29,2.77,5.1
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,1996,'0.99,6.17,4.81,8.47
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,1996,1.11,3.08,2.46,5.18
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,1996,1.14,3.46,2.71,6.88
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,1996,1.21,2.19,2.1,4.43
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,1996,1.56,3.79,1.92,6.72
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,1996,7.97,5.5,8.16,8.04
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,1996,'0.83,4.11,3.76,7.14
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,1996,5.87,7,6.98,8.84
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,1996,2.41,3.53,3.74,6.09
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,1996,2.64,4.32,5.1,6.95
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,1996,3.52,4.8,4.52,7.25
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,1996,1.29,3.21,3.36,4.79
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,1996,3.33,3.7,3.28,6
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,1996,1.12,2.66,2.3,4.52
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,1996,1.45,3.44,1.94,5.36
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,1996,'0.04,3.23,1.92,5.57
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,1996,5.87,5.55,5.7,7.82
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,1996,1.55,2.9,1.96,5.67
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,1996,2.32,4.45,4.23,6.22
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.24944444,83.46944444,Turchi,"Dug Well",W10064,1995,3.73,4.87,3.93,4.54
+OD,Kalahandi,Jayapatna,Jayapatna,19.43305556,82.85527778,Mukhiguda,"Dug Well",W09513,1995,1.28,4.59,3,6.18
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.545,82.93472222,Thuamalrampur,"Dug Well",W10067,1995,3.81,8.04,6.01,8.67
+OD,Kalahandi,Kokasara,Jayapatna,19.58222222,82.62444444,Ampani,"Dug Well",W09530,1995,1.13,2.96,1.64,4.43
+OD,Kalahandi,Kokasara,Kokasara,19.67555556,82.695,Koksara,"Dug Well",W09531,1995,'0.78,3.3,2.2,5.8
+OD,Kalahandi,Kokasara,Jayapatna,19.60555556,82.66055556,Mahajanguda,"Dug Well",W09532,1995,2.23,3.89,2.9,4.16
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.81722222,83.43194444,Biswanathppur,"Dug Well",W09533,1995,2.34,3.75,4.32,5.37
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.70444444,83.3,Langigarh,"Dug Well",W09534,1995,1.33,2.63,2.08,6.64
+OD,Kalahandi,Lanjigarh,Lanjigarh,20.0625,83.38305556,Narla,"Dug Well",W09535,1995,1.75,3.52,1.92,5.02
+OD,Kalahandi,Lanjigarh,Lanjigarh,19.85277778,83.42083333,Pokaribandh,"Dug Well",W09536,1995,1.75,2.18,1.81,3.78
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.16444444,83.61388889,Jurakhaman,"Dug Well",W09537,1995,1.23,3.87,1.29,5.83
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.30833333,83.53333333,Madanpur,"Dug Well",W09538,1995,2.62,6.06,4.42,7.3
+OD,Kalahandi,"Madanpur Rampur","Madanpur    Rampur",20.19722222,83.525,M-Rampur,"Dug Well",W09539,1995,3.48,4.98,4.24,6.76
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.5725,82.98055556,Gopalpur1,"Dug Well",W09541,1995,5.87,7.64,7.02,9.19
+OD,Kalahandi,"Thuamul Ram Pur","Thuamul Ram Pur",19.60833333,83.11666667,Gunupur,"Dug Well",W09542,1995,'0.96,1.04,'0.92,1.93
+OD,Kalahandi,Kesinga,Kesinga,20.10027778,83.16972222,Utkela,"Dug Well",W10063,1995,3.64,4.85,3.98,5.69
+OD,Kalahandi,Junagarh,Junagarh,19.83555556,82.8375,Badbasul,"Dug Well",W09515,1995,4.22,3.75,3.37,5.93
+OD,Kalahandi,Junagarh,Junagarh,19.84388889,82.90694444,Baldiamal,"Dug Well",W09516,1995,1.81,3.7,1.63,5.32
+OD,Kalahandi,Junagarh,Junagarh,19.77833333,82.92083333,Banijarachak,"Dug Well",W09517,1995,'0.92,3.55,1.28,5.04
+OD,Kalahandi,Junagarh,Junagarh,19.7325,82.91055556,Chiliguda,"Dug Well",W09518,1995,1.64,4.74,2.08,8.04
+OD,Kalahandi,Junagarh,Junagarh,19.69722222,82.90416667,Dasigaon,"Dug Well",W09519,1995,'0.86,4.5,1.58,5.57
+OD,Kalahandi,Junagarh,Junagarh,19.89361111,83.02166667,Jaring,"Dug Well",W09520,1995,1.52,2.59,1.84,3.61
+OD,Kalahandi,Junagarh,Junagarh,19.77777778,82.84583333,Mahichala,"Dug Well",W09522,1995,1.55,3.58,2.01,5.37
+OD,Kalahandi,Junagarh,Junagarh,19.81944444,82.93055556,Matigaon,"Dug Well",W09523,1995,1.03,7.87,2.31,8.1
+OD,Kalahandi,Kalampur,Kalampur,19.60694444,82.81388889,Bandigaon,"Dug Well",W09524,1995,'0.88,2.79,1.65,4.64
+OD,Kalahandi,Kalampur,Kalampur,19.66333333,82.89666667,Depur,"Dug Well",W09525,1995,'0.24,1.77,NA,3.55
+OD,Kalahandi,Kalampur,Kalampur,19.62222222,82.88333333,Kalampur,"Dug Well",W09526,1995,'0.93,3.28,1.61,5.31
+OD,Kalahandi,Kalampur,Jayapatna,19.65555556,82.805,Ranmalchak,"Dug Well",W09527,1995,'0.39,1.78,1.4,3.9
+OD,Kalahandi,Karlamunda,"Madanpur    Rampur",20.40138889,83.47277778,Risida,"Dug Well",W09528,1995,1.03,3.85,1.55,5.8
+OD,Kalahandi,Kesinga,Kesinga,20.1875,83.22333333,Kesinga1,"Dug Well",W09529,1995,5.41,3.95,5.04,5.63
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.90805556,83.15916667,Bawanipatna,"Dug Well",W09499,1995,'0.34,4.11,2.02,5.3
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,19.81666667,83.12083333,Dalguma,"Dug Well",W09500,1995,3.65,7.3,5.61,8.26
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.06277778,83.10666667,Karlapada,"Dug Well",W09501,1995,2.48,4.47,2.65,5.83
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.01777778,83.165,Pastikudi1,"Dug Well",W09502,1995,2.5,5.12,2.05,6.42
+OD,Kalahandi,Bhawanipatna,Bhawanipatna,20.17083333,82.99,Sargigora,"Dug Well",W09503,1995,4.63,4.85,5.76,6.25
+OD,Kalahandi,Dharamagarh,Dharamagarh,19.80555556,82.70555556,Parla,"Dug Well",W09505,1995,1.1,3.28,2.15,4.75
+OD,Kalahandi,Golamunda,Golamunda,19.965,82.86666667,Daspur,"Dug Well",W09506,1995,1.12,3.9,3.01,4.82
+OD,Kalahandi,Golamunda,Golamunda,20.05555556,82.78833333,Golmunda,"Dug Well",W09507,1995,1.35,2.95,1.66,3.88
+OD,Kalahandi,Golamunda,Golamunda,20.10416667,82.89583333,Kegaon,"Dug Well",W09508,1995,1.2,3.04,1.87,4.93
+OD,Kalahandi,Jayapatna,Jayapatna,19.53111111,82.81388889,Baner,"Dug Well",W09509,1995,-0.41,3.23,1.55,4.96
+OD,Kalahandi,Jayapatna,Jayapatna,19.55833333,82.82,Bijamara,"Dug Well",W09510,1995,2.98,5.86,3.93,7.75
+OD,Kalahandi,Jayapatna,Kokasara,19.61166667,82.70555556,Ladugaon1,"Dug Well",W09512,1995,'0.77,2.59,1.42,4.42
+OD,Kalahandi,Narala,Narala,20.29944444,83.35611111,Tundla,"Dug Well",W10066,1995,2.32,4.65,3.56,5.88

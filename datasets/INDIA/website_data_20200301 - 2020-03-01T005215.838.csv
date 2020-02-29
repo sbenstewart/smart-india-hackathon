@@ -1,0 +1,826 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2018,'0.6,1.4,NA,NA
+MS,Kolhapur,Hatkanangale,Hatkanangale,16.86222222,74.22694444,"Pargaon -1","Dug Well",W25299,2018,2,NA,NA,1.9
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2018,NA,NA,3.9,'0.6
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2018,NA,5.2,3.7,NA
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2018,NA,7.6,7.15,NA
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2018,NA,8.59,1.7,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2018,NA,'0.3,'0.3,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2018,NA,1.8,'0.7,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2018,NA,7.2,6.1,NA
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2018,NA,2.4,'0.7,NA
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2018,NA,2,1.5,NA
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2018,NA,9.3,8.8,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2018,NA,5,4.7,NA
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2018,NA,7.1,6.7,NA
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2018,NA,7.5,6,NA
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2018,NA,2.1,1,NA
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2018,NA,8.6,7.8,NA
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2018,NA,9.7,9.35,NA
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2018,NA,1.5,'0.6,NA
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2018,NA,1.8,1.8,NA
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2018,NA,6.1,5.1,NA
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2018,NA,11.8,8.9,NA
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2018,NA,6.4,3.7,NA
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2018,NA,1.4,1,NA
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2018,NA,'0.4,'0.4,NA
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2018,NA,5.8,7,NA
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2018,NA,5.2,5.15,NA
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2018,NA,9.9,7.1,NA
+MS,Kolhapur,Chandgad,Chandgad,15.96527778,74.11083333,"Kanura Khurd","Dug Well",W24984,2018,NA,4.6,4.4,NA
+MS,Kolhapur,Bavda,Bavda,16.68833333,73.9975,Kirve,"Dug Well",W25230,2018,NA,2.3,'0.6,NA
+MS,Kolhapur,Karvir,Karvir,16.54416667,74.16861111,Cheye,"Dug Well",W25176,2018,NA,3.7,4.1,NA
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.87972222,74.0425,Wadicharan-1,"Dug Well",W25308,2018,NA,1.1,1.1,NA
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.90472222,73.94833333,Shahuwadi-1,"Dug Well",W25319,2018,NA,3.2,3.9,NA
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.93416667,73.91444444,Shelarwadi,"Dug Well",W25333,2018,NA,'0.5,2,NA
+MS,Kolhapur,Radhanagari,Radhanagari,16.45166667,74.05333333,Khindivarvade-1,"Dug Well",W25142,2018,NA,2.4,1.7,NA
+MS,Kolhapur,Kagal,Kagal,16.58055556,74.31194444,Kagal,"Dug Well",W33380,2018,NA,4.1,3.1,NA
+MS,Kolhapur,Shirol,Shirol,16.73805556,74.60416667,Shirol,"Dug Well",W33381,2018,NA,4.6,10.7,NA
+MS,Kolhapur,Radhanagari,Radhanagari,16.43333333,74.08333333,Solankur1,"Dug Well",W25132,2018,NA,NA,'0.6,'0.7
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2018,NA,NA,3.5,3.8
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2017,NA,NA,1.9,NA
+MS,Kolhapur,Shirol,Shirol,16.73805556,74.60416667,Shirol,"Dug Well",W33381,2017,NA,2.8,3.75,11.2
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2017,4.3,6.7,6.8,5.2
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2017,2.1,'0.3,3.1,'0.01
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2017,1,2.1,4.7,2.52
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2017,6.9,7.18,5.8,8.4
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2017,'0.5,3.1,1.6,4.1
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2017,'0.9,1.9,1.8,3.6
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2017,8.4,9.8,1,9.25
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2017,4,4.6,2.3,5.9
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2017,6.1,6.9,2.9,8.3
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2017,5.9,7.1,5.5,11.1
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2017,1.2,'0.5,1.8,'0.7
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2017,5.3,5.4,6,6.7
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2017,9.3,7.9,1.25,3.25
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2017,'0.6,1.2,'0.9,'0.6
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2017,1.7,2.15,2.7,1.65
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2017,4.1,4.8,5.8,4.5
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2017,10.6,3.9,5,'0.01
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2017,6.3,6.6,1.2,6.5
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2017,'0.3,'0.9,'0.95,'0.7
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2017,9.6,6.5,2.9,11.05
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2017,9.1,11.7,4.1,1.1
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2017,8.5,9.1,1.15,6.2
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2017,'0.3,4.4,4.1,11.2
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2017,NA,'0.9,1.8,9.1
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2017,NA,2.3,2.1,2.1
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2017,NA,3.9,4.15,4.3
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2017,3.5,NA,2.3,7.9
+MS,Kolhapur,Bavda,Bavda,16.68833333,73.9975,Kirve,"Dug Well",W25230,2017,1.5,'0.9,2.8,8.3
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.87972222,74.0425,Wadicharan-1,"Dug Well",W25308,2017,1,1.3,'0.95,'0.5
+MS,Kolhapur,Radhanagari,Radhanagari,16.45166667,74.05333333,Khindivarvade-1,"Dug Well",W25142,2017,1.5,2.5,1.9,'0.5
+MS,Kolhapur,Chandgad,Chandgad,15.96527778,74.11083333,"Kanura Khurd","Dug Well",W24984,2017,NA,4.65,1.55,4.37
+MS,Kolhapur,Karvir,Karvir,16.54416667,74.16861111,Cheye,"Dug Well",W25176,2017,NA,1.8,3.8,5.2
+MS,Kolhapur,Hatkanangale,Hatkanangale,16.86222222,74.22694444,"Pargaon -1","Dug Well",W25299,2017,NA,2.6,2.8,4.2
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.90472222,73.94833333,Shahuwadi-1,"Dug Well",W25319,2017,NA,3.8,1.2,3.8
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.93416667,73.91444444,Shelarwadi,"Dug Well",W25333,2017,NA,3.6,5.6,1.5
+MS,Kolhapur,Radhanagari,Radhanagari,16.43333333,74.08333333,Solankur1,"Dug Well",W25132,2017,NA,4.3,1.1,'0.01
+MS,Kolhapur,Kagal,Kagal,16.58055556,74.31194444,Kagal,"Dug Well",W33380,2017,NA,1.2,2,2.45
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2017,2.1,5.3,5.8,6.05
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2016,1.3,NA,'0.01,1.95
+MS,Kolhapur,Shirol,Shirol,16.73805556,74.60416667,Shirol,"Dug Well",W33381,2016,NA,NA,2.9,NA
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2016,5.8,NA,1.2,9.95
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2016,'0.9,NA,5.2,2.6
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2016,2.1,NA,1.9,6.9
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2016,6,NA,2.5,7
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2016,4,NA,6.4,17.5
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2016,'0.4,NA,'0.01,'0.55
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2016,3.6,NA,3.2,12
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2016,1.65,NA,2.4,9.6
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2016,1.3,NA,2.35,3
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2016,2.1,NA,1.85,3.45
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2016,'0.5,NA,4.8,5.7
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2016,9.75,NA,1.65,10.2
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2016,1.4,NA,4.3,6.6
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2016,2.8,NA,6,7.7
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2016,4.6,NA,2.2,7.5
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2016,9,NA,1.1,9.25
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2016,3.3,NA,3.49,7.8
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2016,6.9,NA,4.9,9.95
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2016,'0.4,NA,1.9,7
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2016,5.9,NA,3.4,8.3
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2016,NA,NA,4.3,2.3
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2016,3.5,NA,5.2,8.4
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2016,3.3,NA,4.85,13.5
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2016,'0.4,NA,1.85,3.6
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2016,'0.5,NA,2.8,1
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2016,4,NA,2.55,6.1
+MS,Kolhapur,Chandgad,Chandgad,15.96527778,74.11083333,"Kanura Khurd","Dug Well",W24984,2016,3.2,4.6,1.2,4.8
+MS,Kolhapur,Radhanagari,Radhanagari,16.43333333,74.08333333,Solankur1,"Dug Well",W25132,2016,NA,'0.7,2.1,3.4
+MS,Kolhapur,Radhanagari,Radhanagari,16.45166667,74.05333333,Khindivarvade-1,"Dug Well",W25142,2016,1.6,1.5,2.6,2.4
+MS,Kolhapur,Karvir,Karvir,16.54416667,74.16861111,Cheye,"Dug Well",W25176,2016,'0.5,'0.3,2.9,4.1
+MS,Kolhapur,Bavda,Bavda,16.68833333,73.9975,Kirve,"Dug Well",W25230,2016,'0.9,1.65,2.3,1.5
+MS,Kolhapur,Hatkanangale,Hatkanangale,16.86222222,74.22694444,"Pargaon -1","Dug Well",W25299,2016,1.7,2.7,3.2,6.1
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.87972222,74.0425,Wadicharan-1,"Dug Well",W25308,2016,'0.8,1.7,1.1,1
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.90472222,73.94833333,Shahuwadi-1,"Dug Well",W25319,2016,2.13,5.6,1.8,5.5
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.93416667,73.91444444,Shelarwadi,"Dug Well",W25333,2016,1.2,3.7,5.4,3.6
+MS,Kolhapur,Kagal,Kagal,16.58055556,74.31194444,Kagal,"Dug Well",W33380,2016,NA,NA,1.4,NA
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2016,'0.4,NA,1.9,1.5
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2015,1.2,1.17,2.6,1.75
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.93416667,73.91444444,Shelarwadi,"Dug Well",W25333,2015,1.5,1.2,2,5.1
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2015,7.6,10.5,NA,10
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2015,1.4,2.6,2.3,1.5
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2015,2.1,4.22,3.6,6.6
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2015,6.3,7.05,3.85,7.7
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2015,5.6,7.08,7.1,13.8
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2015,NA,2.4,2.9,3
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2015,9.45,5.3,8.5,10.3
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2015,5.36,6.23,3.11,5.9
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2015,1.7,1.35,2.15,2.8
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2015,3.2,6.65,3.1,6.7
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2015,'0.4,2,1.5,3.9
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2015,1.05,1.1,2.05,2.3
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2015,NA,1.1,NA,NA
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2015,NA,3.25,4.05,5
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2015,2.2,5,3.8,6.8
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2015,5.2,8.55,2.05,11.3
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2015,NA,2.45,NA,NA
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2015,7.5,9.05,NA,9.9
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2015,3.8,6.55,8,7.3
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2015,4.6,10.7,9,9.8
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2015,'0.6,2.4,2,3.25
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2015,6.2,6,3.8,7.5
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2015,1.16,1.42,2,1.5
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2015,7.23,3.85,7.5,7
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2015,4.7,5.25,5,10.3
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2015,'0.9,1.1,2,1.25
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2015,NA,1.05,1.5,1
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2015,4.58,4.04,3.75,5.75
+MS,Kolhapur,Chandgad,Chandgad,15.96527778,74.11083333,"Kanura Khurd","Dug Well",W24984,2015,4.65,5.3,2,4.4
+MS,Kolhapur,Bhudargad,Bhudargad,16.3325,74.14972222,Khanapur,"Dug Well",W25091,2015,NA,1.5,NA,NA
+MS,Kolhapur,Radhanagari,Radhanagari,16.43333333,74.08333333,Solankur1,"Dug Well",W25132,2015,NA,'0.15,1.5,1
+MS,Kolhapur,Radhanagari,Radhanagari,16.45166667,74.05333333,Khindivarvade-1,"Dug Well",W25142,2015,2.75,1.2,1.95,3.2
+MS,Kolhapur,Karvir,Karvir,16.54416667,74.16861111,Cheye,"Dug Well",W25176,2015,NA,6.45,2.6,6.3
+MS,Kolhapur,Bavda,Bavda,16.68833333,73.9975,Kirve,"Dug Well",W25230,2015,2.1,1.5,3.1,1.5
+MS,Kolhapur,Hatkanangale,Hatkanangale,16.86222222,74.22694444,"Pargaon -1","Dug Well",W25299,2015,6.58,2.5,3,6
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.87972222,74.0425,Wadicharan-1,"Dug Well",W25308,2015,'0.9,2,2.65,1.9
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.90472222,73.94833333,Shahuwadi-1,"Dug Well",W25319,2015,NA,6.1,4,5.8
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2015,1.3,1,1,'0.8
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2014,NA,2.5,1.2,1.62
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.93416667,73.91444444,Shelarwadi,"Dug Well",W25333,2014,1.1,1.5,3.8,3.1
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2014,6.5,11.15,9,NA
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2014,'0.8,3.2,1,2.45
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2014,1.22,6.3,2.1,6.42
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2014,6,7.9,6.1,1.85
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2014,5,9.5,5.2,15.78
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2014,'0.01,3.8,2.1,'0.3
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2014,4.9,6.3,NA,9.3
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2014,2.2,6.7,3.2,8.68
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2014,1.2,3.2,1.8,2.6
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2014,3,4.3,3.5,4.4
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2014,2.1,2.8,2.9,NA
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2014,8.9,2.05,9.9,6.6
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2014,NA,'0.9,NA,2.2
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2014,NA,6.3,3.2,NA
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2014,2.55,6.3,3.8,5.2
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2014,'0.5,2.9,8,2.4
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2014,'0.6,5.4,NA,NA
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2014,10,9.85,8.4,9.4
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2014,4.25,7.5,6.6,1.75
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2014,5.7,10.6,7.6,9.5
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2014,'0.01,4.4,'0.2,5.1
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2014,3,7.5,3.8,7.1
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2014,'0.01,1.95,1.1,2.17
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2014,6.7,7.4,3.6,8.65
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2014,2.15,5.8,3.8,12.55
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2014,'0.4,1.3,'0.6,1.6
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2014,NA,1.5,2,1.25
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2014,4.55,5.3,4.4,4.24
+MS,Kolhapur,Chandgad,Chandgad,15.96527778,74.11083333,"Kanura Khurd","Dug Well",W24984,2014,4,4.7,3.9,5.8
+MS,Kolhapur,Bhudargad,Bhudargad,16.3325,74.14972222,Khanapur,"Dug Well",W25091,2014,1.5,2.15,NA,1.35
+MS,Kolhapur,Radhanagari,Radhanagari,16.43333333,74.08333333,Solankur1,"Dug Well",W25132,2014,NA,'0.95,'0.2,1.75
+MS,Kolhapur,Radhanagari,Radhanagari,16.45166667,74.05333333,Khindivarvade-1,"Dug Well",W25142,2014,'0.01,2.48,NA,1.8
+MS,Kolhapur,Karvir,Karvir,16.54416667,74.16861111,Cheye,"Dug Well",W25176,2014,1.2,2.9,1.9,4
+MS,Kolhapur,Bavda,Bavda,16.68833333,73.9975,Kirve,"Dug Well",W25230,2014,'0.6,1.7,'0.7,1.7
+MS,Kolhapur,Hatkanangale,Hatkanangale,16.86222222,74.22694444,"Pargaon -1","Dug Well",W25299,2014,NA,2.9,1.8,3.7
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.87972222,74.0425,Wadicharan-1,"Dug Well",W25308,2014,'0.7,2,1,2.6
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.90472222,73.94833333,Shahuwadi-1,"Dug Well",W25319,2014,3.7,NA,4.4,6.8
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2014,'0.2,1.4,'0.7,1.25
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2013,2.4,2.27,1.1,1.2
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.93416667,73.91444444,Shelarwadi,"Dug Well",W25333,2013,1.2,4.12,3,NA
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2013,6.65,10.12,9.4,10.6
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2013,1.75,NA,2.5,3.3
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2013,1.9,6.1,2.4,6.7
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2013,6.3,7.05,6.7,7.1
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2013,5.6,7.55,5.5,15.6
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2013,NA,3.12,2.1,2.9
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2013,5.9,8.62,4.8,9.9
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2013,2.4,5.32,3.4,9.4
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2013,2.45,NA,1.6,2.7
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2013,2.8,3.74,3.8,4.7
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2013,'0.5,6.32,'0.9,8.5
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2013,2,10.12,1,10.1
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2013,NA,1.71,'0.7,1.5
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2013,3.7,NA,4,5.5
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2013,3.7,6.33,4.8,6.2
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2013,'0.6,2.96,2,2.3
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2013,NA,NA,1.5,NA
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2013,8.5,5.05,8.65,9.4
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2013,5,NA,5.8,6.4
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2013,9.3,NA,9.6,10.1
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2013,'0.35,5.42,1.5,6.8
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2013,5.7,7.15,6.3,8
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2013,1.4,1.72,1,1.5
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2013,7.2,4.13,5.4,8.6
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2013,4.5,12.1,3.5,12.8
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2013,1.6,1.1,'0.8,1.8
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2013,1.9,3.55,'0.8,'0.45
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2013,NA,5.12,NA,5.9
+MS,Kolhapur,Chandgad,Chandgad,15.96527778,74.11083333,"Kanura Khurd","Dug Well",W24984,2013,4,4.82,1.4,NA
+MS,Kolhapur,Bhudargad,Bhudargad,16.3325,74.14972222,Khanapur,"Dug Well",W25091,2013,NA,3.1,NA,NA
+MS,Kolhapur,Radhanagari,Radhanagari,16.43333333,74.08333333,Solankur1,"Dug Well",W25132,2013,NA,2.92,'0.6,'0.7
+MS,Kolhapur,Radhanagari,Radhanagari,16.45166667,74.05333333,Khindivarvade-1,"Dug Well",W25142,2013,1.2,3.07,2,NA
+MS,Kolhapur,Karvir,Karvir,16.54416667,74.16861111,Cheye,"Dug Well",W25176,2013,NA,1.2,1.4,NA
+MS,Kolhapur,Bavda,Bavda,16.68833333,73.9975,Kirve,"Dug Well",W25230,2013,1.8,1.05,1.5,NA
+MS,Kolhapur,Hatkanangale,Hatkanangale,16.86222222,74.22694444,"Pargaon -1","Dug Well",W25299,2013,NA,5.18,2,5
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.87972222,74.0425,Wadicharan-1,"Dug Well",W25308,2013,1.7,1.22,1.2,NA
+MS,Kolhapur,Shahuwadi,Shahuwadi,16.90472222,73.94833333,Shahuwadi-1,"Dug Well",W25319,2013,4.1,NA,5.8,5.2
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2013,'0.5,NA,'0.5,1.1
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2012,NA,1.65,1.1,3.38
+MS,Kolhapur,Hatkanangale,Hatkanangale,16.86222222,74.22694444,"Pargaon -1","Dug Well",W25299,2012,NA,NA,2.95,NA
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2012,NA,9.24,6.35,11.4
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2012,NA,3.45,3.1,3.3
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2012,NA,5.23,3.2,5.82
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2012,NA,6.98,6.8,8.65
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2012,NA,5.92,6.95,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2012,NA,2.53,NA,'0.2
+MS,Kolhapur,Kabnur,Hatkanangale,16.87888889,74.22861111,"Pargaon (Old)","Dug Well",W07160,2012,NA,NA,NA,5.1
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2012,NA,7.26,NA,8.3
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2012,NA,7.8,2.9,9.28
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2012,NA,2.57,1.35,1.6
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2012,NA,3.3,5.9,3.4
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2012,NA,7.85,NA,6.65
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2012,NA,10.2,3.4,9
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2012,NA,'0.6,'0.8,3.9
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2012,NA,4.25,2.3,3.9
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2012,NA,5,6.35,5.9
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2012,NA,2.4,3.9,4.7
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2012,NA,5,NA,5.6
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2012,NA,2,NA,1.3
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2012,NA,9,1.95,8.65
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2012,NA,6.9,3.4,6.65
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2012,NA,10.1,6.9,10.2
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2012,NA,2.95,4.35,6.9
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2012,NA,5.3,NA,7.4
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2012,NA,1.65,'0.9,1.87
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2012,NA,3.2,4.15,NA
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2012,NA,6.4,2.45,14.75
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2012,NA,1.2,7.45,NA
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2012,NA,4,3.3,NA
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2012,NA,NA,NA,4.6
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2012,NA,4.8,4.21,4.94
+MS,Kolhapur,Radhanagari,Radhanagari,16.43333333,74.08333333,Solankur1,"Dug Well",W25132,2012,NA,NA,3.1,NA
+MS,Kolhapur,Radhanagari,Radhanagari,16.45166667,74.05333333,Khindivarvade-1,"Dug Well",W25142,2012,NA,NA,3.45,NA
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2012,NA,1,4.2,'0.55
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2011,'0.92,1.71,1.7,'0.97
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2011,NA,4.59,4.54,5.39
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2011,6.29,10.84,9,10.45
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2011,'0.8,3.89,1.2,3.95
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2011,'0.72,4.05,2.5,6.42
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2011,NA,6.7,4.32,7.42
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2011,3.78,6.13,5.4,16.28
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2011,NA,2.2,2.42,2.34
+MS,Kolhapur,Kabnur,Hatkanangale,16.87888889,74.22861111,"Pargaon (Old)","Dug Well",W07160,2011,10.3,NA,NA,NA
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2011,5.6,5.35,5.5,9.1
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2011,2.88,6.03,3.5,7.88
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2011,'0.7,2.05,3.6,2.4
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2011,3,5.4,3.6,5.05
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2011,'0.4,'0.77,NA,4.87
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2011,1.1,1.05,'0.91,1.3
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2011,'0.4,1.49,'0.28,1.1
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2011,2.3,4.33,3.8,5.8
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2011,1.75,4.75,4.47,5.83
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2011,'0.9,1.06,1.9,2.27
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2011,NA,NA,4.5,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2011,'0.4,1.4,1.3,1.4
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2011,7.15,9.3,9,8.85
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2011,2.15,5.85,7.1,6.05
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2011,1.18,3.7,9.6,11.7
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2011,'0.8,2.81,1.05,7.85
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2011,4.1,6.55,6.2,6.9
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2011,'0.17,'0.62,1.2,1.97
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2011,2.81,3.48,1.12,7.85
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2011,4.5,4.63,3.83,10.75
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2011,'0.46,'0.85,'0.64,NA
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2011,1.43,'0.2,1.37,NA
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2011,'0.41,'0.87,1.2,1.61
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2010,1.05,1.32,2.03,1.62
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2010,4.19,4.54,5.21,5.74
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2010,8.05,11,10.46,10.55
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2010,1,4,2.05,4.8
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2010,2.3,3.67,2.04,5.87
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2010,5.25,6.45,6.7,6.07
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2010,4.9,5.93,5.65,13.93
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2010,NA,2.7,'0.5,2.2
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2010,3.65,4.35,4.05,9.46
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2010,2.5,5.08,3.98,9.68
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2010,NA,3.1,2.16,3.05
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2010,2,3.2,2.64,6.6
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2010,'0.4,'0.5,NA,4.15
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2010,'0.97,1.1,1.92,1.4
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2010,'0.25,'0.3,1.52,'0.35
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2010,3.1,4.25,4.44,8
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2010,3.5,4.7,4.52,5.9
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2010,1.5,1.95,6.2,6.2
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2010,1.1,1.4,1.47,1.8
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2010,7.75,8.35,6.25,8.75
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2010,2.8,6.05,7.13,6.3
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2010,NA,8.5,NA,8.3
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2010,'0.8,3.3,2,8.55
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2010,4.5,1.9,NA,7.7
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2010,'0.6,1.42,1.15,2.02
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2010,2.5,3.65,2.4,7.7
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2010,3.95,4.45,1.92,11.35
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2010,'0.58,NA,NA,NA
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2010,'0.7,1.1,1.13,1.1
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2010,'0.75,'0.4,1.57,3.15
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2010,NA,1.65,NA,2.6
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2010,'0.4,'0.6,'0.15,1.05
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2009,1.17,1.47,2.7,1.5
+MS,Kolhapur,Malkapur,Shirol,16.67944444,74.54416667,Shridhon,"Bore Well",W21466,2009,NA,NA,NA,13.8
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2009,7,10.33,9.4,13.7
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2009,1.2,4.95,1,3.85
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2009,1.71,NA,2.3,6.9
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2009,5.65,7.45,6.6,8.1
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2009,5.68,8.48,4.9,14.9
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2009,2.15,3.03,'0.6,2.7
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2009,3.45,6.4,3.9,10.8
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2009,2.58,6.36,2.7,8.75
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2009,1.25,2.74,2.7,3.7
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2009,5.5,2.85,3.4,5.6
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2009,2.1,2.6,1.8,9.5
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2009,9.8,1.1,10.05,1.65
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2009,'0.8,'0.34,NA,NA
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2009,3.3,4.3,1.2,8.1
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2009,2.4,4.88,4.7,6.75
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2009,1.5,2.8,NA,11.95
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2009,2.1,3.9,NA,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2009,1.3,1.5,1.1,1.45
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2009,7.7,8.55,8.8,9.35
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2009,2.15,6.05,6.6,7
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2009,4.3,NA,7.5,9.9
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2009,1.4,2.8,NA,7.9
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2009,5.6,7.2,5.8,8.25
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2009,'0.87,1.77,'0.2,2.3
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2009,2.85,4.85,2.95,7.1
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2009,3.45,4.75,4,13.1
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2009,NA,NA,'0.7,4.65
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2009,NA,1.85,'0.7,3.6
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2009,'0.65,'0.15,'0.9,'0.7
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2009,1.17,1.75,NA,2.35
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2009,3,4.66,4.45,5.65
+MS,Kolhapur,Kabnur,Hatkanangale,16.88638889,74.28805556,Ghunaki,"Bore Well",W21465,2009,NA,NA,NA,17.95
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2009,'0.95,'0.73,'0.7,1.1
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2008,1.82,1.82,2.32,1.9
+MS,Kolhapur,Malkapur,Shirol,16.67944444,74.54416667,Shridhon,"Bore Well",W21466,2008,3.78,5.68,4.9,NA
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2008,4.18,11.92,5.3,11.45
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2008,'0.9,4.42,3.9,4.15
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2008,1.88,5.22,3.38,7.25
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2008,5.92,6.32,NA,8.9
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2008,1.95,1.64,2.4,'0.7
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2008,8,11.65,5.2,9.25
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2008,2.28,7.5,4.18,9.1
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2008,'0.01,3.32,2.84,2.07
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2008,3.75,3.85,4.12,2.9
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2008,1.45,7.08,3.2,12.85
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2008,10.05,10.18,10.1,10
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2008,1.14,'0.65,1.28,6.8
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2008,5.38,1.62,4.32,7.9
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2008,4.08,5.28,5.35,9
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2008,2.1,2.62,4.95,5.25
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,2008,1.32,NA,NA,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2008,NA,NA,NA,1.2
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,2008,NA,NA,NA,10.3
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2008,8.45,11.35,9,7.85
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2008,5.22,8.15,6.92,7.1
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2008,NA,NA,NA,8
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2008,'0.01,3.18,3.95,16.65
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2008,5.9,7.45,6.4,11.26
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2008,'0.95,2.32,1.65,2
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2008,1.85,4.18,5.32,6.9
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2008,4.1,9.12,4.62,12.9
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2008,1.12,1.05,1.56,5.1
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2008,'0.01,'0.85,'0.25,1.25
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2008,'0.01,'0.01,'0.22,'0.45
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2008,NA,1.9,1.4,4.5
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2008,4.72,5.02,4.68,6
+MS,Kolhapur,Gadhinglaj,Ajra,16.06944444,74.09166667,"Suleran (Dhangar Mohalla)","Bore Well",W19231,2008,NA,9.32,9.6,NA
+MS,Kolhapur,Kabnur,Hatkanangale,16.88638889,74.28805556,Ghunaki,"Bore Well",W21465,2008,'0.54,1.58,1.7,NA
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2008,NA,1.15,NA,7.1
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2007,'0.22,1.58,2.72,'0.74
+MS,Kolhapur,Malkapur,Shirol,16.67944444,74.54416667,Shridhon,"Bore Well",W21466,2007,4.17,NA,4.88,NA
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2007,5.42,10.95,11.54,11.95
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2007,1.02,5.22,1.65,5.12
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2007,2.3,5.2,2.42,9.48
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2007,5.84,7.05,6.72,7.77
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2007,1.12,2.6,1.45,'0.42
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2007,4.32,5.9,5.1,10.83
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2007,1.78,6.6,3.14,7.83
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2007,1.82,4.02,2.14,2.83
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2007,2.15,6.15,3.23,8.25
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2007,2.14,6.18,2.7,10.68
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2007,6.48,9.55,9.13,10.28
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2007,'0.01,1.32,1.05,'0.01
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2007,1.86,2.18,2.05,7.8
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2007,2.56,5.22,4.64,7.52
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2007,5.82,5.25,6.62,8.22
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2007,NA,NA,NA,5.89
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2007,7.75,9.87,8.63,9.11
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2007,3.65,6.22,6.92,7.1
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2007,'0.01,5.5,2.82,16.48
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2007,5.12,7.78,1.45,7.15
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2007,'0.01,1.37,1.72,1.52
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2007,2.4,6.82,3.78,7.37
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2007,3.26,5.6,4.82,12.31
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2007,'0.01,3.22,'0.58,NA
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2007,'0.54,'0.82,'0.52,2.32
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2007,'0.01,1.38,'0.01,'0.01
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2007,1.25,2,1.8,2.12
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2007,3.32,5.21,4.95,7.56
+MS,Kolhapur,Gadhinglaj,Ajra,16.06944444,74.09166667,"Suleran (Dhangar Mohalla)","Bore Well",W19231,2007,7.92,NA,8.68,NA
+MS,Kolhapur,Kabnur,Hatkanangale,16.88638889,74.28805556,Ghunaki,"Bore Well",W21465,2007,1.15,NA,1.35,NA
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2007,NA,NA,'0.42,'0.01
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2006,2.15,1.3,1.52,1.21
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2006,1.23,1.2,1.68,NA
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2006,4.62,10.5,5.18,NA
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2006,'0.82,5.5,3.45,1.4
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2006,1.68,5.5,3.12,5.68
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2006,6.97,6,7.28,NA
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2006,9.82,9.8,NA,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2006,2.06,1.6,2.68,'0.7
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2006,3.94,5.3,4.58,9.05
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2006,3.08,6.85,2.65,10.58
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2006,3.94,3,4.22,2.97
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2006,4.8,7.5,4.96,'0.7
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2006,2.8,6.3,3.28,11.9
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2006,9.3,10.7,9.82,9.98
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2006,1.4,'0.9,1.78,4
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2006,5.95,2,6.35,7.6
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2006,4.02,4.5,4.95,7.14
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2006,3.38,5.8,3.84,NA
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,2006,1.63,NA,1.98,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2006,NA,NA,NA,12.7
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2006,NA,1.32,NA,4.17
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,2006,NA,5,NA,NA
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2006,8.4,9.15,9.25,7.85
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2006,6.32,5.5,6.96,6.55
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2006,'0.01,9,'0.01,11.49
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2006,5.92,7.5,6.52,6.1
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2006,'0.01,2,1.45,'0.65
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2006,2.12,4.8,2.65,7.5
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2006,4.1,8.7,5.02,11.7
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2006,1.28,3.2,1.42,4.99
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2006,'0.01,4,'0.01,'0.84
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2006,'0.01,'0.5,'0.01,'0.28
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2006,1.5,3,'0.6,1.05
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2006,5.63,5.3,4.98,5.68
+MS,Kolhapur,Gadhinglaj,Ajra,16.06944444,74.09166667,"Suleran (Dhangar Mohalla)","Bore Well",W19231,2006,11.18,NA,12.58,3.69
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2005,'0.1,'0.62,'0.45,'0.59
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2005,'0.92,5.18,3.48,11.7
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2005,'0.75,5.2,4.43,9.94
+MS,Kolhapur,Gadhinglaj,Ajra,16.06944444,74.09166667,"Suleran (Dhangar Mohalla)","Bore Well",W19231,2005,4.15,9.58,NA,13.1
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2005,6.2,11.25,7.67,10.42
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2005,2.25,6.95,7.12,5.73
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2005,'0.85,8.2,'0.25,11.3
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2005,5.1,8.3,5.7,8.66
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2005,'0.2,3,1.35,2.32
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2005,6.12,6.8,2.32,8.42
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2005,1.82,9.4,4.62,13.46
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2005,'0.01,5.09,'0.99,8.7
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2005,'0.01,1.9,'0.01,3.72
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2005,NA,3.7,3.82,2.81
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2005,1.89,2.9,3.8,4.8
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2005,'0.95,6.4,2.2,7.23
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2005,5.4,9.25,9.35,10.21
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2005,'0.45,1.82,1.32,NA
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2005,1.07,6.1,5.74,2.74
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2005,1.1,6.15,5.05,8.62
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2005,2.76,3.25,3.3,6.62
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,2005,NA,1.83,1.52,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2005,1.48,5.4,NA,5.43
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2005,'0.73,2.35,1.32,1.3
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2005,1.47,2.74,2.38,'0.93
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2005,'0.32,1.65,25.5,'0.87
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2005,3.1,10.3,9.42,10.41
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2005,1.21,6.2,1.8,4.87
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2005,'0.7,6.23,2.58,6.92
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2005,4.45,8.52,6.65,7.25
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2005,2.56,10.83,9.28,12.6
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2005,'0.01,1.3,'0.65,1.22
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2005,2.31,7.4,3.65,10
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2005,'0.6,1.85,1.9,2.14
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2004,NA,3.02,NA,1.1
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2004,NA,4.87,NA,7.13
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,2004,NA,5.3,NA,6.45
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2004,NA,9.12,NA,9.85
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2004,NA,6.77,NA,6
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2004,NA,NA,NA,9.8
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2004,NA,9.8,NA,15.2
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2004,NA,1.05,NA,7.65
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2004,NA,3.28,NA,3.15
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2004,NA,7.87,NA,7.75
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2004,NA,13.43,NA,16.35
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2004,NA,5.92,NA,6.89
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2004,NA,4.1,NA,2.35
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2004,NA,1.99,NA,1.2
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2004,NA,1.22,NA,'0.86
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2004,NA,6.95,NA,1.4
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2004,NA,5.92,NA,13.15
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2004,NA,10.16,NA,10.4
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2004,NA,'0.61,NA,3.55
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2004,NA,7.05,NA,6.4
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2004,NA,5.64,NA,7.45
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2004,NA,3.25,NA,4.25
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,2004,NA,NA,NA,1.45
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2004,NA,5.74,NA,5.91
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2004,NA,'0.76,NA,16.5
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2004,NA,1.46,NA,2.38
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2004,NA,'0.83,NA,1.2
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2004,NA,10.4,NA,10.4
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2004,NA,3.06,NA,5.1
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2004,NA,5.58,NA,7.48
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2004,NA,4.47,NA,7.35
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2004,NA,7.98,NA,12.6
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2004,NA,1.4,NA,1.05
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2004,NA,9.27,NA,10
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2004,NA,11.32,NA,10.38
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2003,'0.9,2.9,1.41,2.25
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2003,'0.55,3.26,3.67,3.5
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2003,8.4,9.8,8.81,10.15
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2003,3.87,6.15,6.65,8.6
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2003,5.5,7.86,7.44,NA
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2003,'0.85,6.5,3.08,14.55
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2003,5.1,7.7,5.36,10.85
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2003,1.05,3.2,2.41,4.05
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2003,7.45,7.7,7.81,NA
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2003,6.15,9.62,15.5,16.55
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2003,6.84,7.57,4.77,7.95
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2003,1.9,3.38,1.09,4.75
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2003,2.25,'0.63,'0.46,'0.4
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2003,3.65,5.4,4.6,NA
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2003,2.25,6,3.7,NA
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2003,11.53,10.2,7.14,NA
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2003,3.5,'0.4,'0.87,'0.65
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2003,2.85,3.66,4.92,7.35
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2003,3.2,4.65,4.08,8
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2003,4.1,3.82,NA,6.75
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2003,2.5,4.5,5.33,4.75
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2003,1.82,2.21,1.3,'0.95
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,2003,8.85,NA,NA,6.95
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2003,2.94,2,2.97,1.7
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2003,NA,'0.81,'0.65,1.2
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2003,6.45,10.15,12.2,10.95
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2003,'0.95,5.4,5.53,6.3
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2003,1.9,5.3,2.85,7.8
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2003,5.1,7,6.35,8.4
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2003,4.43,8.65,4.96,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2003,'0.95,1.25,1.08,NA
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2003,8.95,6.79,8.12,10.6
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2003,7.73,7.35,7.48,12.45
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2003,4.91,4.68,5.04,6.9
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2002,1.05,2.74,1.25,5.17
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2002,'0.9,NA,2.52,3.07
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2002,7.58,8.73,8.21,9.26
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2002,3.71,6.61,7.3,7.22
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2002,5.87,NA,NA,9.96
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2002,2.15,5.33,'0.87,11
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2002,5.02,6.69,5.56,8.04
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2002,1.76,2.71,1.32,4.6
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2002,1.64,8.02,6.37,7.37
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2002,3.5,7.89,6.99,14.04
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2002,3.43,4.46,5.91,NA
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2002,'0.7,1.47,'0.61,8.42
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2002,1.75,'0.59,1.49,'0.85
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2002,1.5,2.74,4.87,4.06
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2002,3.06,4.96,2.24,12.88
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2002,9.61,10.04,9.96,10.19
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2002,1.45,'0.69,'0.61,'0.57
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2002,2.3,3.89,3.48,6.08
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2002,1.42,4.24,3.99,5.7
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2002,2.1,2.72,7.42,2.94
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2002,1.52,4.17,3.34,7.18
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2002,1.44,1.18,NA,1.34
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,2002,6.74,10.98,9.24,NA
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2002,2.41,2.17,2.36,2.11
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2002,1.5,'0.84,'0.69,5.98
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2002,4.56,10.77,8.91,11.08
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2002,3.05,4.72,2.01,6.42
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2002,1.56,5.36,2.17,8.44
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2002,4.6,7.54,6.21,8.11
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2002,3.76,8.21,4.86,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2002,2.7,1.21,1.08,1.26
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2002,7.14,6.12,5.78,10.01
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2002,4.1,NA,NA,11.98
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2002,4.57,4.79,4.46,11.92
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2001,'0.67,2.31,'0.97,3.77
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2001,'0.45,NA,3.01,3.8
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2001,7.08,7.78,13.3,10.13
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2001,2.52,5.94,7.23,6.2
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,2001,NA,NA,7.34,NA
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2001,'0.45,3.51,10.2,10.67
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2001,5.01,6.96,6.28,9.1
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2001,'0.34,2.76,1.58,4.28
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2001,7.04,5.4,7.08,NA
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2001,5.8,7.98,4,13.5
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2001,1.9,3.52,1.43,7
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2001,'0.53,'0.56,1.48,1.6
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2001,'0.25,'0.36,'0.58,'0.5
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2001,1.46,7.26,4.85,4.82
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2001,1.4,5.56,2.74,12.75
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2001,9,9.84,9.85,10
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2001,'0.45,2.46,'0.83,4
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2001,1.65,3.81,3.6,5.16
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2001,2,4.31,4.33,5.89
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2001,4.55,3.92,2.54,3.72
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,2001,'0.2,NA,NA,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2001,2.01,4.74,3.61,8.7
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2001,'0.93,1.43,1.35,1.52
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,2001,8.47,7.69,8.85,6.97
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2001,1.24,2.1,2.47,1.8
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2001,'0.44,'0.94,'0.9,1
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2001,4.58,9.76,9.81,12.04
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2001,'0.45,4.97,3.79,6.27
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2001,1.2,4.99,2.83,7.4
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2001,3.95,7.52,6.5,9.23
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2001,3.88,6.64,5.13,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2001,'0.8,2.58,2.25,3.24
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2001,6.32,6.54,3.82,9.8
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2001,5.48,NA,6.58,11.89
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2001,2.04,4.57,4.45,NA
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,2000,'0.96,1.34,1.2,1.6
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,2000,NA,2.96,NA,3.6
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,2000,7.83,8.87,8.3,NA
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,2000,2.25,7.06,7.75,7.3
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,2000,'0.65,3.36,1,12.6
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,2000,5.1,6.96,6,NA
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,2000,'0.71,2.79,1.2,4.1
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,2000,6.49,4.07,4,8
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,2000,8.36,7.54,4.5,13.5
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,2000,1.96,3.71,1.2,10
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,2000,'0.71,1.41,'0.5,3.7
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,2000,'0.37,'0.36,'0.8,1.2
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,2000,1.06,4.64,2.7,3.4
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,2000,2.02,4.22,4,NA
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,2000,9.78,9.83,9.8,10.1
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,2000,2.83,1.3,2.5,2.2
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,2000,3.1,3.85,3.6,4.7
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,2000,1.34,4.31,4.7,5.7
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,2000,3.45,3.87,5.3,8.1
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,2000,NA,NA,'0.4,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,2000,2.33,4.79,4,9
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,2000,1.08,1.53,1.4,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,2000,7.41,4.85,NA,8.6
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,2000,1.45,2.19,2,5.3
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,2000,'0.54,4.96,'0.7,NA
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,2000,4.66,9.73,9.25,13.4
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,2000,'0.54,5.41,3.2,5.1
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,2000,'0.82,4.62,2.2,7
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,2000,3.23,7.34,6.5,8.7
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,2000,3.99,6.18,5.2,12.4
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,2000,2.44,1.22,1,1
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,2000,7.08,5.46,5.2,10.3
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,2000,NA,NA,2.8,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,2000,2.84,4.72,4.7,4.7
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,1999,'0.7,1.32,'0.54,3.3
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,1999,3.29,2.1,4.15,4.84
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,1999,1.14,1.3,1.39,1.34
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,1999,4.19,4.6,4.43,5.19
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,1999,2.3,1.75,3.61,4.95
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,1999,2.87,4.6,4.17,4.88
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,1999,3.88,2.6,7.41,5.48
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,1999,'0.96,1,'0.4,'0.84
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,1999,2.92,5.05,3.96,8.49
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,1999,1.13,1.2,1.44,1.4
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,1999,4.67,3.5,6.29,8.74
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,1999,8.01,8.7,8.28,9.52
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,1999,5.63,4.55,7.08,6.38
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,1999,'0.74,8.4,1.9,7.86
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,1999,3.43,6.75,5.68,7.6
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,1999,1.15,2.6,1.71,4.39
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,1999,3.95,6.48,2.33,8.13
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,1999,4.02,6.75,4.49,13.83
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,1999,1.14,2.7,1.47,7.45
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,1999,1.73,2.1,2.7,2.61
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,1999,'0.9,1.3,1.24,1.39
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,1999,7.29,9.4,9.49,11.7
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,1999,'0.93,5.74,3.9,5.46
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,1999,1.81,4.24,2.22,5.06
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,1999,5.57,7.1,5.68,8.31
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,1999,4.43,5.8,5.02,11.03
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,1999,1.1,1.3,2.46,1.18
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,1999,3.81,5.6,3.74,9.36
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,1999,NA,NA,NA,11.05
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,1999,NA,NA,NA,3.5
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,1999,1.28,5.6,5.45,3.56
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,1999,2.44,3.35,4.29,NA
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,1999,9.52,10.02,9.87,9.96
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,1999,'0.64,'0.42,'0.55,'0.47
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,1998,'0.6,3.2,'0.98,3.7
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,1998,'0.95,5.4,1.3,'0.65
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,1998,1.05,3.1,1,1.4
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,1998,4.3,5.1,4.8,5.3
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,1998,2.1,2.2,3.2,4.8
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,1998,3.35,5.65,4.94,5.5
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,1998,2.7,4.8,3.57,3.2
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,1998,'0.85,1.6,'0.9,1
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,1998,2.7,6.05,4.06,7.7
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,1998,1.15,8.7,1.47,1.7
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,1998,4.75,3.4,NA,NA
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,1998,7.85,9.25,8.45,9.3
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,1998,5.9,3.8,7.35,6.6
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,1998,NA,3.6,NA,NA
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,1998,'0.95,3.55,1,8.1
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,1998,5.35,5.8,6,9.1
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,1998,'0.25,3.2,1.4,5.2
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,1998,5.85,4.1,5.5,8.1
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,1998,4.25,6.6,4.25,13.4
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,1998,1.75,2.2,1.1,8.3
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,1998,1.4,2.95,2.27,4.9
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,1998,'0.9,'0.95,'0.83,1.4
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,1998,5.3,5.25,9.05,14.5
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,1998,'0.65,6.35,2,5.5
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,1998,1.6,5.25,2.43,7
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,1998,5.25,5.85,6.3,9.5
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,1998,2.4,4.7,5.1,11.85
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,1998,'0.5,9.55,1.2,1.3
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,1998,7.55,5.25,3.76,11.5
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,1998,4.15,6.5,3,NA
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,1998,2,1.45,NA,5.3
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,1998,1.65,3.3,2.2,3
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,1998,2,6.2,3.88,12.7
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,1998,9.8,10.2,10.05,10.2
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,1998,'0.35,2.8,2.07,1.3
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,1997,'0.15,1.32,2.3,2.5
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,1997,'0.3,1.9,1.7,4.9
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,1997,'0.5,4.9,1.9,5.7
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,1997,1.3,4.88,1.9,6.1
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,1997,3.75,4.37,3.9,4.1
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,1997,'0.3,1.2,1.7,'0.85
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,1997,'0.9,4.88,1.9,6.2
+MS,Kolhapur,Kurundvad,Shahuwadi,16.89388889,73.76222222,Vanewadi,"Dug Well",W07173,1997,NA,'0.01,NA,NA
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,1997,'0.8,1.42,2.1,2
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,1997,2.4,9.25,2.7,9
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,1997,6.2,8.84,6.9,14
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,1997,2.1,6.7,2.7,6.7
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,1997,NA,7.65,NA,8.7
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,1997,'0.4,3.43,2.4,7.4
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,1997,4.95,7,5.2,10.65
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,1997,'0.35,3.3,1.8,4.7
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,1997,2.1,3.79,3,7.4
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,1997,1.4,7.4,2.4,12.6
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,1997,'0.1,2.05,'0.8,6
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,1997,1.3,1.58,2.7,3.8
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,1997,'0.25,2,1.9,1.8
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,1997,'0.3,1,'0.9,1.1
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,1997,3.3,9.5,4.1,13.5
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,1997,'0.45,5.9,2.7,6.1
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,1997,'0.9,4.45,1.8,7.2
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,1997,4.05,7.33,4.9,10.3
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,1997,2.55,5.54,3.9,11
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,1997,'0.7,1.15,2.3,1.4
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,1997,5.2,6.9,6.3,11.1
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,1997,1.65,7,2.9,14.1
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,1997,'0.05,2.74,1.3,5.3
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,1997,1.1,5.42,2.6,1.45
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,1997,2,5.1,3.2,12.7
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,1997,5.4,10.25,6.7,10.3
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,1997,'0.35,'0.54,1.9,1.7
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,1997,'0.95,1.3,2.3,2.1
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.70944444,74.16805556,Khupire,"Dug Well",W17396,1996,'0.7,1.1,'0.82,1.23
+MS,Kolhapur,Kolhapur,Panhala,16.78111111,73.98611111,Undri,"Dug Well",W07168,1996,3.2,3.74,3.25,2.72
+MS,Kolhapur,Kurundvad,Shahuwadi,16.96777778,73.80694444,Amba,"Dug Well",W17398,1996,4.8,4.63,4.5,6.55
+MS,Kolhapur,Korochi,Radhanagari,16.40833333,73.99583333,Radhanagari,"Dug Well",W07169,1996,3.4,4.77,3.6,6.05
+MS,Kolhapur,Korochi,Radhanagari,16.49444444,74.13055556,Shelewadi,"Dug Well",W07170,1996,'0.6,2.33,3.04,6
+MS,Kolhapur,Korochi,Radhanagari,16.43333333,74.08333333,Solankur,"Dug Well",W07171,1996,'0.8,1.02,'0.9,1
+MS,Kolhapur,Kurundvad,Shahuwadi,16.90277778,73.95,Shahuwadi,"Dug Well",W07172,1996,3.8,4.66,3.18,8.87
+MS,Kolhapur,Kurundvad,Shahuwadi,16.88333333,74.04472222,Wadicharan,"Dug Well",W07174,1996,1.4,1.61,1.34,2.22
+MS,Kolhapur,Kurundvad,Shahuwadi,16.91666667,73.93333333,Yelane,"Dug Well",W07175,1996,7.7,8.89,9.41,10.34
+MS,Kolhapur,Gadhinglaj,Ajra,16.11666667,74.2,Ajra,"Dug Well",W17386,1996,8.3,8.96,8.2,10.95
+MS,Kolhapur,Gandhinagar,Bavda,16.60416667,73.89166667,Aslaj,"Dug Well",W17387,1996,5.8,7.3,7.11,6.9
+MS,Kolhapur,Gandhinagar,Bavda,16.54166667,73.82944444,"Gagan bauda","Dug Well",W17388,1996,6.8,7.22,7.25,8.3
+MS,Kolhapur,Hupari,Ajra,16.25833333,74.25416667,Authur,"Dug Well",W17389,1996,'0.9,8.54,'0.81,11.5
+MS,Kolhapur,Ichalkaranji,Chandgad,15.89722222,74.34027778,Karve,"Dug Well",W17390,1996,5.5,7,5.54,10.77
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.24083333,74.35166667,Gadinglaj,"Dug Well",W17391,1996,1,3.67,1.18,5.05
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.16944444,74.46944444,Halkarne,"Dug Well",W17392,1996,5.5,7.31,2.6,8
+MS,Kolhapur,Kabnur,Hatkanangale,16.87027778,74.2975,"Kini wathar","Dug Well",W17393,1996,3.8,6.43,3.26,13.37
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.45,Korochi,"Dug Well",W17394,1996,1.8,4.62,'0.87,5.65
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64166667,74.275,"Gokul shirgaon","Dug Well",W17395,1996,'0.9,1.04,'0.57,6.05
+MS,Kolhapur,Gandhinagar,Bavda,16.7,74.01666667,Partangale,"Dug Well",W07151,1996,2.2,2,2.08,4.16
+MS,Kolhapur,Hupari,Bhudargad,16.36666667,74.15,"Madlgi Budrukh","Dug Well",W07152,1996,NA,2.21,1.34,NA
+MS,Kolhapur,Hupari,Kagal,16.38333333,74.18333333,Murgud,"Dug Well",W07153,1996,'0.7,'0.82,'0.61,1.15
+MS,Kolhapur,Hupari,Bhudargad,16.23333333,74.05,Nitawade,"Dug Well",W07154,1996,7.7,9.84,8.38,14.2
+MS,Kolhapur,Hupari,Bhudargad,16.29722222,74.21666667,Pimpalgaon,"Dug Well",W07155,1996,1.6,5.71,1.54,6.09
+MS,Kolhapur,Ichalkaranji,Chandgad,15.93333333,74.25,Naganwadi,"Dug Well",W07156,1996,2.4,4.13,2.21,7.53
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8675,74.23333333,Patne,"Dug Well",W07157,1996,5.6,7.41,6.01,10.05
+MS,Kolhapur,Ichalkaranji,Chandgad,15.8375,74.375,Surute,"Dug Well",W07158,1996,4.7,5.81,4.69,11.72
+MS,Kolhapur,Jaysingpur,Gadhinglaj,16.05666667,74.33055556,Nesari,"Dug Well",W07159,1996,1.7,1.18,1.2,1.73
+MS,Kolhapur,Kabnur,Hatkanangale,16.87888889,74.22861111,"Pargaon (Old)","Dug Well",W07160,1996,NA,2.31,NA,NA
+MS,Kolhapur,Kabnur,Shirol,16.66666667,74.48333333,Shiradwad,"Dug Well",W07161,1996,8,7.82,4.6,12.6
+MS,Kolhapur,Kabnur,Hatkanangale,16.73333333,74.28333333,Shiroli,"Dug Well",W07162,1996,4.4,7.62,2.74,13.65
+MS,Kolhapur,Kagal,Kagal,16.41388889,74.23888889,Surupali,"Dug Well",W07163,1996,2.7,2.09,2.42,3.4
+MS,Kolhapur,"Kalambe Turf Thane",Karvir,16.64027778,74.17916667,Washi,"Dug Well",W07164,1996,3.5,1.7,1.57,7.4
+MS,Kolhapur,Kolhapur,Panhala,16.84166667,74.08333333,Paijarwadi,"Dug Well",W07165,1996,3.2,3.9,1.92,NA
+MS,Kolhapur,Kolhapur,Panhala,16.81666667,74.1,Panhala,"Dug Well",W07166,1996,10,9.96,9.77,10
+MS,Kolhapur,Kolhapur,Panhala,16.78194444,74.07944444,"Pimpli Tarf Thane","Dug Well",W07167,1996,'0.7,'0.56,'0.68,'0.62
+MS,Kolhapur,Korochi,Radhanagari,16.44861111,74.06527778,"Khindi Varvade","Dug Well",W17397,1996,1.4,1.33,1.24,1.9

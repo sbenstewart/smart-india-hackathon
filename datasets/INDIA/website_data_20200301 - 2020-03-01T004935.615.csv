@@ -1,0 +1,857 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2018,NA,5.38,9.13,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_III,"Tube Well",W31632,2018,75.9,NA,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2018,54.7,53.58,NA,NA
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz -V","Tube Well",W22725,2018,109.43,109.5,NA,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2018,NA,NA,74.53,61
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2018,NA,NA,3.55,3.8
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2018,NA,NA,10,10.41
+GJ,Mahesana,Kadi,Kadi,23.29722222,72.37611111,"Thol Pz-I","Tube Well",W22726,2018,NA,NA,NA,69.16
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2018,NA,28.01,27,NA
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2018,NA,2.34,3.05,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2018,NA,7.3,7.65,NA
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2018,NA,7.02,6.7,NA
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2018,NA,12.05,15.55,NA
+GJ,Mahesana,Mahesana,Mahesana,23.46666667,72.29722222,"Jotana Pziii","Tube Well",W22730,2018,NA,15.84,16.54,NA
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2018,NA,8.33,9.14,NA
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2018,NA,5.62,7.95,NA
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2018,NA,46.34,44.91,NA
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2018,NA,6.04,9.3,NA
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2018,NA,14.56,15.15,NA
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2018,NA,8.42,12.23,NA
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2018,NA,131.4,132.47,NA
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2018,NA,6.18,10.33,NA
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2018,NA,1.3,2.65,NA
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2018,NA,3,4.24,NA
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2018,NA,101.8,103.55,NA
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzii","Tube Well",W31627,2018,NA,NA,NA,14.3
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-III,"Tube Well",W28286,2018,2.85,2.3,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera iii","Tube Well",W28643,2018,6.88,6.89,NA,NA
+GJ,Mahesana,Kheralu,Kheralu,23.89777778,72.61055556,Kheralu(shallow,"Tube Well",W28745,2018,4,3.27,NA,NA
+GJ,Mahesana,Satlasana,Satlasana,23.98722222,72.75888889,Timba_1,"Dug Well",W31680,2018,13.8,11.31,NA,NA
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-IV","Tube Well",W28208,2018,NA,26.8,NA,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5225,72.53333333,Padhadya,"Tube Well",W28517,2018,NA,12.3,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera i","Tube Well",W31658,2018,NA,6.71,NA,NA
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-II,"Tube Well",W28285,2018,NA,45.05,44.01,NA
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzi","Tube Well",W28491,2018,NA,142.17,141.46,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana I","Tube Well",W28562,2018,NA,149.09,153.85,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana II","Tube Well",W28563,2018,NA,149.7,153.4,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana III","Tube Well",W28564,2018,NA,101.63,109.57,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  v","Tube Well",W28565,2018,NA,29.43,29.96,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_I,"Tube Well",W28528,2018,NA,54.92,166.13,NA
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  iv","Tube Well",W28632,2018,NA,2.01,2.81,NA
+GJ,Mahesana,Unjha,Unjha,23.79777778,72.39444444,Unjha,"Dug Well",W28692,2018,NA,4.38,5.31,NA
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli II","Tube Well",W28696,2018,NA,42.31,32.9,NA
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli (iii)","Tube Well",W28697,2018,NA,9.47,10.09,NA
+GJ,Mahesana,Kheralu,Kheralu,23.84583333,72.71666667,Unad1,"Dug Well",W28712,2018,NA,13.06,22.72,NA
+GJ,Mahesana,Mahesana,Mahesana,23.51027778,72.51916667,Mau,"Tube Well",W31630,2018,NA,NA,8.37,10.37
+GJ,Mahesana,Kheralu,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_8"""")Pz_I""","Tube Well",W28707,2018,46.78,NA,NA,14.96
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2018,3.8,2.76,NA,NA
+GJ,Mahesana,Kadi,Kadi,23.29722222,72.37611111,"Thol Pz-I","Tube Well",W22726,2017,66.62,69.31,64.45,69.31
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzii","Tube Well",W31627,2017,NA,14.9,NA,NA
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2017,3.17,4.26,3.02,4.54
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2017,4.67,7.35,5.3,7.51
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2017,4.2,7.36,4.08,7.71
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2017,11.27,8.03,11.05,12.03
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2017,2.2,3.53,2.4,6.99
+GJ,Mahesana,Mahesana,Mahesana,23.46666667,72.29722222,"Jotana Pziii","Tube Well",W22730,2017,15.14,110.09,14.5,16.73
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2017,3.38,3.51,3.3,4.03
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2017,6.85,8.94,9.1,11.92
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2017,5,8.29,5.5,8.12
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2017,43.95,43.64,43.37,48.07
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2017,52.4,54.98,51.71,87.53
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2017,7.05,8.46,6.85,9.61
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2017,7,8.66,7.18,8.73
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2017,14.45,13.16,14.72,15.9
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2017,5.89,11.87,5.72,8.4
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2017,126.1,133.41,123.17,133.21
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2017,4.27,9.77,3.82,5.79
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2017,5.24,4.24,3.66,4.62
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2017,4.59,4.87,4.52,5.76
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2017,96.51,100.08,94.33,101.45
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2017,6.36,6.89,6.47,9.24
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz -V","Tube Well",W22725,2017,109.89,NA,14.82,112.82
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2017,NA,NA,NA,79
+GJ,Mahesana,Mahesana,Mahesana,23.5225,72.53333333,Padhadya,"Tube Well",W28517,2017,10.63,NA,10.38,12.78
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera i","Tube Well",W31658,2017,NA,NA,5.69,NA
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-II,"Tube Well",W28285,2017,41.87,45.87,40.49,44.75
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-III,"Tube Well",W28286,2017,2.06,1.88,2.05,2.62
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzi","Tube Well",W28491,2017,125.4,115.11,122.54,132.35
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana I","Tube Well",W28562,2017,149.43,142.41,144.44,155.29
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana II","Tube Well",W28563,2017,149.85,142.44,144.97,155.55
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana III","Tube Well",W28564,2017,99.36,101.63,96.82,102.76
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  v","Tube Well",W28565,2017,28.08,31.38,27.83,29.7
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_I,"Tube Well",W28528,2017,72.19,172.94,71.15,162.51
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  iv","Tube Well",W28632,2017,2.78,1.69,2.73,3
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera iii","Tube Well",W28643,2017,5.95,7.77,50.07,8.81
+GJ,Mahesana,Kheralu,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_8"""")Pz_I""","Tube Well",W28707,2017,54.3,54.09,54.9,56.97
+GJ,Mahesana,Unjha,Unjha,23.79777778,72.39444444,Unjha,"Dug Well",W28692,2017,4.5,5.56,4.37,7.3
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli II","Tube Well",W28696,2017,43.24,44.09,41.1,45.34
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli (iii)","Tube Well",W28697,2017,9.65,10.96,9.43,10.95
+GJ,Mahesana,Kheralu,Kheralu,23.89777778,72.61055556,Kheralu(shallow,"Tube Well",W28745,2017,1.72,3.43,1.7,5.95
+GJ,Mahesana,Kheralu,Kheralu,23.84583333,72.71666667,Unad1,"Dug Well",W28712,2017,12.57,12.48,11.32,16.02
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_III,"Tube Well",W31632,2017,77.03,47.69,76.81,74.14
+GJ,Mahesana,Satlasana,Satlasana,23.98722222,72.75888889,Timba_1,"Dug Well",W31680,2017,NA,9.46,NA,16.7
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-IV","Tube Well",W28208,2017,15.1,NA,NA,16.03
+GJ,Mahesana,Mahesana,Mahesana,23.51027778,72.51916667,Mau,"Tube Well",W31630,2017,NA,NA,NA,9.09
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-III","Tube Well",W28207,2017,NA,102.72,NA,NA
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2017,29.14,30.21,28.37,30.75
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2016,5.57,NA,6.94,7.91
+GJ,Mahesana,Satlasana,Satlasana,23.98722222,72.75888889,Timba_1,"Dug Well",W31680,2016,16.7,9.88,9.05,15.36
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2016,3.38,NA,3.98,4.37
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2016,15.24,NA,15.31,15.12
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2016,4.96,NA,9.61,11.86
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2016,8.67,NA,8.37,8.58
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2016,4.92,NA,5.18,5.26
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2016,29.66,NA,30.02,35.86
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2016,2.98,NA,2.4,4.33
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2016,43.43,NA,43.34,48.22
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2016,8.43,NA,8.7,12.35
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2016,8.07,NA,8.18,8.76
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2016,6.56,NA,6.67,6.55
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2016,7.69,NA,7.75,7.84
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2016,3.95,NA,3.41,7.04
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2016,133.12,NA,132.96,139.46
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2016,10.24,NA,11.66,12.8
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2016,3.2,NA,3.4,4.25
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2016,54.36,NA,54.53,56.37
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2016,8.77,NA,5.18,9.09
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2016,NA,NA,70.43,NA
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz -V","Tube Well",W22725,2016,103.29,NA,NA,111.02
+GJ,Mahesana,Kadi,Kadi,23.29722222,72.37611111,"Thol Pz-I","Tube Well",W22726,2016,68.62,NA,69.53,67.69
+GJ,Mahesana,Mahesana,Mahesana,23.46666667,72.29722222,"Jotana Pziii","Tube Well",W22730,2016,14.61,NA,15.13,14.7
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2016,100.24,NA,101.44,102.42
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-II,"Tube Well",W28285,2016,45.21,44.87,46.18,46.39
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-III,"Tube Well",W28286,2016,1.75,2.57,2.05,2.76
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzi","Tube Well",W28491,2016,115.37,NA,115.67,117.26
+GJ,Mahesana,Mahesana,Mahesana,23.5225,72.53333333,Padhadya,"Tube Well",W28517,2016,12.43,11.23,12.56,10.83
+GJ,Mahesana,Visnagar,Visnagar,23.53333333,72.48472222,Dharusana,"Tube Well",W28527,2016,33.24,NA,NA,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_I,"Tube Well",W28528,2016,66.31,46.53,50.41,52.12
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana I","Tube Well",W28562,2016,140.17,141.43,141.25,151.97
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana II","Tube Well",W28563,2016,139.78,141.78,141.41,151.71
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana III","Tube Well",W28564,2016,99.25,98.87,101.34,101.81
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  v","Tube Well",W28565,2016,29.39,25.1,31.41,29.36
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  iv","Tube Well",W28632,2016,NA,2.38,3.57,2.56
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera iii","Tube Well",W28643,2016,7.66,6.21,NA,7.39
+GJ,Mahesana,Unjha,Unjha,23.79777778,72.39444444,Unjha,"Dug Well",W28692,2016,3.16,3.76,4.41,6.19
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli II","Tube Well",W28696,2016,40.5,39.38,43.46,40.82
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli (iii)","Tube Well",W28697,2016,10.26,12.09,10.31,10.81
+GJ,Mahesana,Kheralu,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_8"""")Pz_I""","Tube Well",W28707,2016,56.8,53.91,57.42,57.21
+GJ,Mahesana,Kheralu,Kheralu,23.84583333,72.71666667,Unad1,"Dug Well",W28712,2016,12.3,9.64,12.9,13.68
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-III","Tube Well",W28207,2016,NA,NA,102.71,NA
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-IV","Tube Well",W28208,2016,NA,NA,NA,17.3
+GJ,Mahesana,Kheralu,Kheralu,23.89777778,72.61055556,Kheralu(shallow,"Tube Well",W28745,2016,3.47,4.6,3.49,6.32
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.38055556,"Thol Pz- II","Tube Well",W31594,2016,NA,17.18,NA,NA
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzii","Tube Well",W31627,2016,10.51,NA,NA,NA
+GJ,Mahesana,Mahesana,Mahesana,23.51027778,72.51916667,Mau,"Tube Well",W31630,2016,8.07,6.82,NA,9.08
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_III,"Tube Well",W31632,2016,NA,67.5,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera i","Tube Well",W31658,2016,NA,NA,7.83,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2016,6.48,NA,7.11,6.44
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2015,4.35,3.85,4.98,10.12
+GJ,Mahesana,Satlasana,Satlasana,23.98722222,72.75888889,Timba_1,"Dug Well",W31680,2015,NA,NA,8.85,NA
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2015,'0.68,1.5,3.16,17.67
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2015,15.55,14.47,13.64,14.58
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2015,10.18,6.43,6.16,5.3
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2015,5.45,6.77,7.8,5.2
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2015,4.2,4.08,4.7,4.96
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2015,NA,31.79,35.35,NA
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2015,1.15,3.44,2.34,15.6
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2015,44.8,46.77,43.99,48.06
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2015,4.15,8.28,3.83,13.97
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2015,6.76,7.2,7.06,10.69
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2015,1.5,5.66,2.83,19.37
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2015,3.28,6.99,7.73,7.85
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2015,2.5,4.24,3.15,16.1
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2015,132.1,132.09,131.08,140
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2015,9.55,10.28,11.62,6.75
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2015,3.15,3.55,3.66,4.05
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2015,57.95,56.19,56.37,56.23
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2015,15.78,5.03,5.19,23.44
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz -V","Tube Well",W22725,2015,NA,109.4,107.33,NA
+GJ,Mahesana,Kadi,Kadi,23.29722222,72.37611111,"Thol Pz-I","Tube Well",W22726,2015,NA,66.92,66.3,66.64
+GJ,Mahesana,Mahesana,Mahesana,23.46666667,72.29722222,"Jotana Pziii","Tube Well",W22730,2015,3.53,13.48,14.32,14.6
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2015,99.3,104.39,101.73,101.02
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-II,"Tube Well",W28285,2015,44.35,44.99,45.18,45.11
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-III,"Tube Well",W28286,2015,1.65,2.27,2.67,2.64
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzi","Tube Well",W28491,2015,NA,134.54,NA,117.23
+GJ,Mahesana,Mahesana,Mahesana,23.5225,72.53333333,Padhadya,"Tube Well",W28517,2015,NA,9.8,10.36,10.52
+GJ,Mahesana,Visnagar,Visnagar,23.53333333,72.48472222,Dharusana,"Tube Well",W28527,2015,NA,54,NA,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_I,"Tube Well",W28528,2015,49.8,49.7,46.49,51.62
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana I","Tube Well",W28562,2015,143.13,149.19,143.69,151.6
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana II","Tube Well",W28563,2015,NA,149.33,142.79,150.71
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana III","Tube Well",W28564,2015,100.82,102.82,96.88,101.56
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  v","Tube Well",W28565,2015,NA,28.86,25.22,28.32
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  iv","Tube Well",W28632,2015,NA,1.81,2.4,2.55
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera iii","Tube Well",W28643,2015,5.93,6.4,6.33,6.97
+GJ,Mahesana,Unjha,Unjha,23.79777778,72.39444444,Unjha,"Dug Well",W28692,2015,3.52,NA,NA,NA
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli II","Tube Well",W28696,2015,39.45,42.88,40,40.76
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli (iii)","Tube Well",W28697,2015,9.1,10.01,12.34,10.69
+GJ,Mahesana,Kheralu,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_8"""")Pz_I""","Tube Well",W28707,2015,NA,57.09,53.37,56.92
+GJ,Mahesana,Kheralu,Kheralu,23.84583333,72.71666667,Unad1,"Dug Well",W28712,2015,8.52,9.92,8.61,13.65
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-III","Tube Well",W28207,2015,116.9,NA,NA,109.47
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-IV","Tube Well",W28208,2015,NA,16.7,17.92,17.3
+GJ,Mahesana,Kheralu,Kheralu,23.89777778,72.61055556,Kheralu(shallow,"Tube Well",W28745,2015,1.95,4.7,5.26,5.69
+GJ,Mahesana,Mahesana,Mahesana,23.51027778,72.51916667,Mau,"Tube Well",W31630,2015,NA,NA,7.09,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2015,4.88,5.46,4.9,13.65
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2014,-0.1,3.56,'0.6,6.84
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera i","Tube Well",W31658,2014,8.31,8.05,NA,8.5
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2014,3.51,2.21,2.1,3.92
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2014,13.75,15.22,12.45,15.17
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2014,6.82,5.42,3.96,7.16
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2014,240.95,240.95,NA,240.95
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2014,7.6,7.7,7.7,8.81
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2014,191.28,191.28,NA,191.28
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2014,4.32,4.48,4.55,4.92
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2014,34.05,34.84,31.9,35
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2014,2.81,2.12,2,4.12
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2014,47.6,47.6,46.7,48.88
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2014,10,11.19,8.9,12.5
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2014,6.77,9.64,6.7,8.8
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2014,6.8,8.65,5.95,9.54
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2014,9.49,9.98,7.05,9.885
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2014,4.63,3.24,3.1,5.41
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2014,210,135.11,NA,139.2
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2014,11.52,13.99,9.08,13.21
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2014,6.65,4.46,4.55,8.1
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2014,57.55,58.37,56.75,57.615
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2014,5.65,5.99,4.45,6.25
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2014,176.1,176.1,NA,176.1
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2014,144,NA,NA,144
+GJ,Mahesana,Vijapur,Vijapur,23.72916667,72.80194444,"Rampura Kot Juna Pz-I","Tube Well",W22731,2014,33.49,33.62,NA,33.55
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2014,102.38,104.52,104.15,104.87
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-II,"Tube Well",W28285,2014,43.5,46.38,45.45,44.47
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-III,"Tube Well",W28286,2014,2.74,1.94,1.65,30.8
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzi","Tube Well",W28491,2014,115.14,124.1,127.43,124.1
+GJ,Mahesana,Visnagar,Visnagar,23.53333333,72.48472222,Dharusana,"Tube Well",W28527,2014,NA,NA,33.45,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_I,"Tube Well",W28528,2014,51.48,91.63,49.1,51.09
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana I","Tube Well",W28562,2014,156.61,150.56,157.63,153.47
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana II","Tube Well",W28563,2014,152.99,145.69,152.11,150.55
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana III","Tube Well",W28564,2014,100.72,107.33,101.67,107.33
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  v","Tube Well",W28565,2014,29.54,29.78,29.18,29.37
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  iv","Tube Well",W28632,2014,2.29,1.66,1.46,2.38
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera iii","Tube Well",W28643,2014,8.33,8.07,6.03,8.52
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli II","Tube Well",W28696,2014,39.63,44.4,40.65,44.4
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli (iii)","Tube Well",W28697,2014,10.43,11.19,10.65,10.95
+GJ,Mahesana,Kheralu,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_8"""")Pz_I""","Tube Well",W28707,2014,54.12,58.12,53.1,56.86
+GJ,Mahesana,Kheralu,Kheralu,23.84583333,72.71666667,Unad1,"Dug Well",W28712,2014,9.64,NA,8.27,9.43
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-IV","Tube Well",W28208,2014,NA,18.39,16.8,18.25
+GJ,Mahesana,Kheralu,Kheralu,23.89777778,72.61055556,Kheralu(shallow,"Tube Well",W28745,2014,6,5.02,4.35,6.63
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzii","Tube Well",W31627,2014,31.3,NA,NA,NA
+GJ,Mahesana,Mahesana,Mahesana,23.51027778,72.51916667,Mau,"Tube Well",W31630,2014,NA,NA,7.1,NA
+GJ,Mahesana,Vijapur,Vijapur,23.55694444,72.75972222,"Vijapur Pz-II","Tube Well",W31633,2014,96.29,81.64,NA,81.64
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  IV","Tube Well",W31637,2014,115.25,115.25,NA,115.25
+GJ,Mahesana,Vijapur,Visnagar,23.62222222,72.61805556,"Kelisana Pz","Tube Well",W31643,2014,167.3,167.3,NA,167.3
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu III","Tube Well",W31653,2014,17.72,20.7,6,19.43
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu V","Tube Well",W31655,2014,58.14,60.45,52.9,60.45
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  ii","Tube Well",W31656,2014,121.36,121.36,NA,121.36
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  iii","Tube Well",W31657,2014,59.53,59.53,NA,59.53
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2014,6.96,8.05,6.15,7.79
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2013,2.8,7.06,2.94,8.87
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera i","Tube Well",W31658,2013,57.91,NA,7.62,NA
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2013,1.9,5.37,1.95,7.22
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2013,14.99,15.06,14.43,15.7
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2013,8.91,9.07,4.59,15.79
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2013,163.4,NA,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2013,4.1,10.12,7.12,10.6
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2013,191.28,NA,NA,NA
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2013,4.9,5.6,4.28,5.96
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2013,35.68,35.42,33.36,34.46
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2013,2.47,4.34,1.8,5.81
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2013,47.42,49.14,47.07,49.42
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2013,8.19,10.18,10.1,16.05
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2013,7.58,7.6,7.39,8.52
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2013,8.7,5.75,7.78,11
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2013,11.86,15.32,9.55,15.97
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2013,2.62,7.26,2.92,7.05
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2013,130.99,130.06,133.48,128.74
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2013,13.1,10.62,13.1,14.41
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2013,3.29,4.02,3.37,4.65
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.55416667,Maguna-2,"Dug Well",W08679,2013,NA,NA,NA,5.48
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2013,57.95,64.77,58.08,63.17
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2013,4.7,7.67,4.63,11.87
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2013,NA,83.63,NA,86.21
+GJ,Mahesana,Vijapur,Vijapur,23.72916667,72.80194444,"Rampura Kot Juna Pz-I","Tube Well",W22731,2013,34.2,33.69,33.55,34.2
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2013,103.89,106.08,103.33,103.55
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-II,"Tube Well",W28285,2013,44.32,44.44,44.5,46.45
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-III,"Tube Well",W28286,2013,1.68,3.37,1.88,3.97
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzi","Tube Well",W28491,2013,116.2,130.56,123.02,131.92
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_I,"Tube Well",W28528,2013,158.57,159.22,158.7,161.18
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana I","Tube Well",W28562,2013,143.59,158.93,146.71,162.58
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana II","Tube Well",W28563,2013,146.83,154.45,145.35,157.95
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana III","Tube Well",W28564,2013,101.6,NA,103.95,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  v","Tube Well",W28565,2013,29.2,28.55,29.3,30.56
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  iv","Tube Well",W28632,2013,1.14,NA,1.33,3.62
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera iii","Tube Well",W28643,2013,8.11,9.55,7.64,10.76
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli II","Tube Well",W28696,2013,41.79,44.91,43.48,46.18
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli (iii)","Tube Well",W28697,2013,11.07,11.91,11.05,12.56
+GJ,Mahesana,Kheralu,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_8"""")Pz_I""","Tube Well",W28707,2013,NA,57.09,56.99,58.17
+GJ,Mahesana,Kheralu,Kheralu,23.84583333,72.71666667,Unad1,"Dug Well",W28712,2013,NA,NA,NA,13.02
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-III","Tube Well",W28207,2013,NA,NA,99.62,NA
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-IV","Tube Well",W28208,2013,19.7,NA,18.07,20.7
+GJ,Mahesana,Kheralu,Kheralu,23.89777778,72.61055556,Kheralu(shallow,"Tube Well",W28745,2013,5.07,7.78,4.74,9
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.38055556,"Thol Pz- II","Tube Well",W31594,2013,19.7,20.23,NA,20.7
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzii","Tube Well",W31627,2013,NA,17.02,15.08,17.2
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_III,"Tube Well",W31632,2013,67.07,71.12,NA,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  IV","Tube Well",W31637,2013,NA,NA,NA,59.67
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu IV","Tube Well",W31654,2013,59.6,NA,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu V","Tube Well",W31655,2013,59.6,NA,NA,9.6
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2013,7.54,8.27,6.51,9.07
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2012,NA,6.25,6.88,8
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu IV","Tube Well",W31654,2012,NA,NA,59.6,NA
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2012,NA,2.15,5.05,NA
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2012,NA,11.08,14.92,14.44
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2012,NA,5.93,7.91,10.41
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2012,NA,160.7,163.4,164.13
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2012,NA,8.32,10.88,9.7
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2012,NA,4.51,5.38,4.6
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2012,NA,34.93,34.22,40.7
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2012,NA,NA,4.1,5.8
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2012,NA,45.63,48.35,47.91
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2012,NA,12.72,NA,20.6
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2012,NA,7.6,8.22,9.1
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2012,NA,6.5,5.54,12.45
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2012,NA,14.08,15.5,17.21
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2012,NA,4.59,7,NA
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2012,NA,137.2,129.86,129.88
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2012,NA,11.51,12.96,14.38
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2012,NA,3.41,3.85,3.55
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2012,NA,72.49,59.83,48.36
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2012,NA,5.45,11.69,6.85
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2012,NA,166.02,NA,157.17
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2012,NA,79.19,82.95,50.13
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz -V","Tube Well",W22725,2012,NA,NA,NA,108.49
+GJ,Mahesana,Kadi,Kadi,23.29722222,72.37611111,"Thol Pz-I","Tube Well",W22726,2012,NA,NA,64.57,63.75
+GJ,Mahesana,Kheralu,Kheralu,23.94972222,72.69555556,"Dabhoda Pz-I","Tube Well",W22729,2012,NA,NA,NA,30.49
+GJ,Mahesana,Mahesana,Mahesana,23.46666667,72.29722222,"Jotana Pziii","Tube Well",W22730,2012,NA,NA,16.15,13.55
+GJ,Mahesana,Vijapur,Vijapur,23.72916667,72.80194444,"Rampura Kot Juna Pz-I","Tube Well",W22731,2012,NA,NA,33.77,34.35
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2012,NA,114.41,107.49,107.25
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-II,"Tube Well",W28285,2012,NA,NA,44.52,NA
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-III,"Tube Well",W28286,2012,NA,NA,2.8,NA
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzi","Tube Well",W28491,2012,NA,NA,131.48,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_I,"Tube Well",W28528,2012,NA,NA,158.87,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana I","Tube Well",W28562,2012,NA,NA,153.65,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana II","Tube Well",W28563,2012,NA,NA,152.59,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana III","Tube Well",W28564,2012,NA,NA,104.49,NA
+GJ,Mahesana,Mahesana,Mahesana,23.5975,72.39861111,"Mehsana  v","Tube Well",W28565,2012,NA,NA,39.36,NA
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  iv","Tube Well",W28632,2012,NA,NA,2.18,NA
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera iii","Tube Well",W28643,2012,NA,NA,9.57,NA
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli II","Tube Well",W28696,2012,NA,NA,44.59,NA
+GJ,Mahesana,Unjha,Unjha,23.80416667,72.48611111,"Karalli (iii)","Tube Well",W28697,2012,NA,NA,11.84,NA
+GJ,Mahesana,Kheralu,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_8"""")Pz_I""","Tube Well",W28707,2012,NA,NA,57.04,NA
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-III","Tube Well",W28207,2012,NA,NA,109.27,NA
+GJ,Mahesana,Kadi,Kadi,23.13055556,72.37611111,"Thol Pz-IV","Tube Well",W28208,2012,NA,NA,20.16,NA
+GJ,Mahesana,Kheralu,Kheralu,23.89777778,72.61055556,Kheralu(shallow,"Tube Well",W28745,2012,NA,NA,8.45,NA
+GJ,Mahesana,Mahesana,Mahesana,23.47388889,72.28777778,"Jotana Pzii","Tube Well",W31627,2012,NA,NA,16.15,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_III,"Tube Well",W31632,2012,NA,NA,70.35,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2012,NA,8.5,8.57,9.15
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2011,1.88,4.68,3.9,8.93
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2011,110.38,111.97,106.36,NA
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2011,'0.23,1.11,'0.12,3.82
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2011,12.16,NA,12.36,NA
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2011,12.02,16.76,12.71,10.73
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2011,161.48,164.4,162.45,NA
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2011,8.6,9.25,8.5,10.22
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2011,3.98,6.78,4.06,NA
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2011,38.48,40.28,39.52,NA
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2011,1.58,4.37,3.8,6.33
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2011,46.41,54.1,47.15,NA
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2011,8.88,10.96,12.5,13.3
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2011,7.61,10.88,8.35,12.85
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2011,4.09,6.98,4.25,9.03
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2011,15.67,19.75,15.84,NA
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2011,1.52,5.23,5.57,7.77
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2011,133.12,134.9,129.45,NA
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2011,13.38,12.8,9.78,15.45
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2011,2.5,4.1,4.15,4.55
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2011,67.62,71.06,47.67,NA
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2011,2.93,6.37,4.85,9.1
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2011,142.58,150.26,NA,NA
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2011,83.2,86.8,NA,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2011,7.27,10.13,7.55,10.42
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2010,NA,8.46,4.11,10.75
+GJ,Mahesana,Kadi,Kadi,23.20638889,72.27972222,Daran_Pz-I,"Tube Well",W21917,2010,106.38,105.42,111.27,112.58
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2010,'0.55,3.95,'0.8,6.45
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2010,14.32,14.04,14.35,15.43
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2010,14.86,5.31,16.39,12.36
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2010,160.18,156.35,NA,183.42
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2010,8.9,10.78,9.1,11.15
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2010,5.93,7.3,6.36,7.03
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2010,40.58,33.25,41.1,34.92
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2010,2.03,3.4,3.68,8.45
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2010,47.57,46.55,47.35,49.2
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2010,11.43,15.21,10.42,15.07
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2010,11,9.48,10.87,10.7
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2010,8.1,12.96,6.09,9.15
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2010,18.18,20.03,17.88,22.49
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2010,3.8,6.3,4.85,9.26
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2010,NA,131.08,135.88,138.25
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2010,11.58,15.25,12.54,16.28
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2010,2.55,6.3,3.67,6.55
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2010,68.73,72.65,68.95,68.43
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2010,6.05,27.6,6.16,29.55
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2010,148.61,134.17,147.18,148.17
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2010,77.15,82.46,86.45,79.25
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2010,9.65,10.75,9.39,10.88
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2009,10.42,6.3,NA,9.5
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2009,85.82,79.6,77.06,83.16
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2009,2.11,3.1,3.15,4.52
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2009,NA,12,13.51,11.02
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2009,4.23,10.97,4.71,10.59
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2009,156.2,155.8,157.7,156.76
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2009,10.47,9.4,10.65,8.7
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2009,90.31,79.58,78.94,86.99
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2009,6.03,NA,6.08,6.35
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2009,32.26,31.2,32.85,36.69
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2009,4.23,5.7,4.55,7.28
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2009,46.13,46.3,41.63,47.52
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2009,16.02,12.15,13.15,12.78
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2009,10.37,8.6,10.7,10.15
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2009,10.62,5,6.75,6.65
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2009,14.58,16.3,17.9,17.49
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2009,5.2,6.9,7.8,8.1
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2009,127.42,118.07,118.91,124.78
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2009,14.09,2.98,14.05,12.16
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2009,3.66,3.85,4.3,5.16
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2009,73.33,66.91,63.89,71.88
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2009,NA,6.25,8.98,6.24
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2009,132.58,129.03,133.2,134.52
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2009,10.45,10.75,10.4,11.04
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2008,2.93,6.3,7.71,8.79
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2008,80.36,81.34,82.03,81.62
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2008,1.6,3.08,3.38,6.48
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2008,9.4,10.55,11.49,10.24
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2008,'0.51,9.81,11.32,5.57
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2008,138.45,159.48,144.48,155.44
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2008,8.96,6.92,9.39,4.52
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2008,NA,93.89,83.18,87.82
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2008,90.25,106.36,94.95,104.57
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2008,5.78,6.15,6.28,6.59
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2008,35,NA,34.42,NA
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2008,5.3,3.6,6.15,5.93
+GJ,Mahesana,Mahesana,Kheralu,23.89583333,72.51388889,Khali,"Dug Well",W08645,2008,NA,20.58,NA,NA
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2008,46,47.89,45.1,49.85
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2008,12.43,11.25,12.1,13.24
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2008,8.75,9.1,8.71,8.79
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2008,3.65,2.62,7.58,NA
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2008,12.7,11.22,12.77,13.82
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2008,4.3,4.2,6.13,7.47
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2008,119.2,120.55,119.43,119.83
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2008,9.48,9.03,10.16,11.12
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2008,3.03,3.25,3.5,4.3
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2008,68.95,71.64,70.43,70.61
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2008,4.62,5.3,5.18,6.11
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2008,129.68,131.83,129.05,129.59
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2008,10.79,10.93,10.4,11.35
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2007,'0.85,6.32,6.75,8.5
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2007,80.86,80.62,83.4,80.6
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2007,'0.9,2.97,2.68,4.38
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2007,10.15,NA,NA,12.94
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2007,'0.8,1.67,14.91,3.41
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2007,135.75,156.01,153.09,154.26
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2007,4.52,7.73,6,9.1
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2007,93.42,119.48,88.35,117.33
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2007,97.73,111.39,105.53,107.51
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2007,5.64,NA,5.85,6.85
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2007,31.5,NA,37,39.8
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2007,2.1,NA,2.95,6.73
+GJ,Mahesana,Mahesana,Kheralu,23.89583333,72.51388889,Khali,"Dug Well",W08645,2007,NA,NA,18.26,NA
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2007,45.19,50.28,47.71,49.93
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2007,11.5,13.28,10.4,13.4
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,2007,NA,NA,NA,24.78
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2007,9.48,10.44,20.48,11
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2007,2.85,4.53,2.35,5.6
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2007,10.85,11.8,10.65,13.57
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2007,1.68,6.02,4.1,7.8
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2007,118.43,119.54,121,NA
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2007,6.58,11.65,9.38,12.78
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2007,2.67,3.33,3.2,4
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2007,67.65,73.04,77.37,73.99
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,2007,NA,NA,NA,32.25
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2007,3.95,4.35,5,6.75
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2007,128.55,129.57,120.65,130.57
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2007,11.41,12.19,11.35,12.5
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2006,'0.2,4.47,3.01,8.15
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2006,11.95,15.65,10.99,14.85
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2006,1.4,2.6,1.8,4.8
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2006,14.25,16.5,13.06,16.55
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2006,1.06,6.03,1.55,9.43
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2006,131.2,155.2,149.94,150.76
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2006,5.27,9.35,5.52,10.8
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2006,101.15,129.38,127.66,126.68
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2006,86.71,109.51,104.53,110.15
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2006,NA,6.99,NA,7.35
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2006,39.7,33.1,NA,37.05
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2006,1.75,6.15,2.28,8.25
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2006,51.6,55.23,51.1,55.42
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2006,11.5,14.65,NA,16.6
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,2006,NA,24.78,NA,NA
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2006,9.9,14.5,10.95,14
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2006,'0.25,2.85,3.18,6.75
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2006,NA,13.94,10.53,18.73
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2006,1.2,6.9,4.02,8.4
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2006,117.9,119.51,119.81,119.39
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2006,8.03,11.78,9.24,13.53
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2006,2.75,4.15,3.43,4.75
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2006,72.05,73.45,75.19,73.3
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,2006,NA,32.25,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2006,2.15,5.25,4.37,6.55
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2006,125.87,129.71,129.5,128.44
+GJ,Mahesana,Kadi,Kadi,23.34555556,72.45222222,Ghumasan_Pz-III,"Tube Well",W20968,2006,NA,NA,NA,45.86
+GJ,Mahesana,Vijapur,Vijapur,23.53388889,72.60416667,Motipura_Pz_II,"Tube Well",W20969,2006,NA,NA,82.01,82.43
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2005,NA,117.05,117.31,119.55
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2005,137.03,NA,137.33,NA
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2005,3.35,5.22,3.6,8.21
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2005,73.14,78.11,73.6,NA
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,2005,32.25,32.25,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2005,5.65,6.93,4.55,8.97
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2005,126.54,128.66,129.32,114.46
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2005,98.14,109.96,105.33,111.76
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2005,8.8,9.03,6.9,9.43
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2005,35.96,36.3,33.5,36.53
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2005,3.5,7.76,4.2,9.17
+GJ,Mahesana,Mahesana,Kheralu,23.89583333,72.51388889,Khali,"Dug Well",W08645,2005,18.26,NA,NA,18.26
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2005,55.23,57.5,54.58,57.27
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2005,NA,14.3,16.65,18.7
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,2005,24.78,24.78,NA,24.78
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2005,15.25,16.14,14.55,16.33
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2005,'0.3,4.38,2.25,6.5
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2005,NA,18.95,13.52,18.73
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2005,NA,9.8,6.2,10.13
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2005,2.1,6.87,3.8,9.9
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2005,16.45,17.6,15.65,18.09
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2005,1.6,5.83,2.2,7.98
+GJ,Mahesana,Mahesana,Vadnagar,23.82361111,72.53472222,"""Jaska(Sy_4"""")Pz_II""","Tube Well",W07984,2005,NA,18.52,16.5,18.63
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2005,3.13,7.28,4.91,7.87
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2005,136.75,155.14,151.03,NA
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2005,8.6,9.4,8.9,13.18
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2005,10.78,14.58,13.48,16.28
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2004,NA,115,120.85,116.27
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2004,NA,NA,126.98,91.02
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2004,4.12,5.3,4.25,10.86
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2004,NA,73.04,73.71,73.54
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,2004,NA,NA,32.25,NA
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2004,7.25,9.71,6.4,10.25
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2004,NA,145.99,126.8,126.2
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2004,NA,106.1,106.6,106.47
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2004,NA,NA,9,10.03
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2004,NA,36.95,36.63,38.94
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2004,NA,6.65,5.38,9.55
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2004,NA,57.22,55.9,57.12
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2004,13.96,13.47,14.18,14.14
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,2004,NA,NA,24.78,NA
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2004,15.28,15.6,15.85,15.92
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2004,1.31,4.05,3.55,6.97
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2004,NA,19.61,NA,NA
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2004,9.32,10.9,9.48,11.7
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,2004,NA,8.98,NA,10.75
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2004,1.6,5.2,4.4,9.8
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2004,NA,18.08,16.93,NA
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2004,2.2,7.1,4.4,9.15
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2004,6.68,7.28,6.93,6.88
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2004,NA,152.55,145.12,147.94
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2004,11.9,12.93,11.75,14
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2004,14.58,16.56,12.84,18.29
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2003,NA,NA,113.07,114.76
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2003,121.93,138.08,137.13,139.18
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2003,6.95,5.98,5.68,8.5
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2003,71.58,73.75,70.3,72.45
+GJ,Mahesana,Visnagar,Visnagar,23.70833333,72.5125,Pamol-1,"Dug Well",W08684,2003,1.45,NA,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2003,12.95,13.65,9.12,19.06
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2003,121.8,134.1,125.13,124.4
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2003,NA,114.74,NA,109.42
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2003,9.21,9.63,9.1,NA
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2003,4.27,36.05,NA,NA
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2003,5.8,8.53,6.72,10.9
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2003,52.67,57,54.88,56.62
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2003,12.6,16.78,12.9,13.57
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2003,15.2,16.43,15.05,15.95
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2003,2.68,8.03,3.4,9.55
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2003,22.42,24.97,19.25,20.75
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2003,10.25,13.18,10.56,12.07
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,2003,10,NA,9.4,11.87
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2003,'0.74,9.82,3.95,12.06
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2003,16.62,18.6,17.58,18.3
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2003,3.5,12.05,4.91,NA
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2003,5.13,NA,7.05,7.8
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2003,124.84,NA,141.35,148.71
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2003,12.1,14.36,12.6,15.35
+GJ,Mahesana,Aambaliyasan,Vijapur,23.575,72.675,Kolwada,"Dug Well",W08628,2003,NA,NA,31.88,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.68333333,72.76666667,"Sundarpura i","Tube Well",W08633,2003,48.2,47.78,48.5,48.27
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2003,15.08,17.18,17.21,16.43
+GJ,Mahesana,Vijapur,Unjha,23.80416667,72.48611111,"Karalli ( i)","Tube Well",W08669,2002,NA,NA,107.27,NA
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2002,17.08,NA,16.84,16.48
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2002,4.75,4.99,4.9,5.46
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.55416667,Maguna-2,"Dug Well",W08679,2002,NA,3.43,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2002,71.94,74.25,73.45,72.73
+GJ,Mahesana,Visnagar,Visnagar,23.70833333,72.5125,Pamol-1,"Dug Well",W08684,2002,5.65,3.9,NA,NA
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,2002,NA,NA,NA,24
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2002,12.55,NA,13.26,11.95
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2002,118.53,NA,124.4,119.77
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2002,9.2,NA,9.39,NA
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2002,36.7,NA,36.78,38.99
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2002,7.5,6.35,7.5,8.11
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2002,53.55,NA,45.38,54.55
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2002,13.75,11.96,15.64,13.73
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2002,15.25,NA,15.29,15.48
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2002,7.35,NA,7.89,7.08
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2002,20.35,NA,20.49,20.06
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2002,11.05,10.47,11.58,11.32
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,2002,NA,NA,NA,9.03
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2002,5.35,NA,7.86,8.78
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2002,17.12,16.51,18.07,17.15
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2002,11.25,NA,11.27,11.22
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2002,6.03,NA,NA,8.29
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2002,126.41,NA,142.35,137.43
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2002,15.5,14.18,13.68,17.45
+GJ,Mahesana,Aambaliyasan,Vijapur,23.59583333,72.66666667,Pamol-2,"Dug Well",W08629,2002,NA,17.78,NA,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.68333333,72.76666667,"Sundarpura i","Tube Well",W08633,2002,43.87,42.31,44.53,43.97
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2002,114.08,NA,132.24,132.19
+GJ,Mahesana,Kadi,Becharaji,23.56194444,72.09861111,Piora,"Dug Well",W08638,2002,NA,7.49,NA,NA
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2002,98.81,NA,105.77,105.92
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2001,13.36,15.33,14.08,15.88
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2001,NA,104.06,104.6,95.75
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2001,70.88,73.1,NA,72.6
+GJ,Mahesana,Visnagar,Visnagar,23.70833333,72.5125,Pamol-1,"Dug Well",W08684,2001,2.63,4,7.78,NA
+GJ,Mahesana,Visnagar,Visnagar,23.66666667,72.51666667,"Saola iii","Tube Well",W08685,2001,22.1,NA,NA,21.66
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,2001,33.55,28.75,NA,33.75
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2001,9.99,11.3,NA,15.15
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2001,117.64,118.02,120.6,115.85
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2001,NA,NA,NA,9.6
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2001,36.82,NA,36.42,36.65
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2001,5.52,7.5,6,7.7
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2001,NA,51.21,NA,52.89
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2001,15.28,16.5,14.74,15.65
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,2001,NA,25.71,NA,NA
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2001,15.57,15.45,NA,16.2
+GJ,Mahesana,Mahesana,Kheralu,23.88333333,72.61666667,Unawa-2,"Dug Well",W08653,2001,14.79,NA,NA,NA
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2001,9.76,8.5,NA,NA
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2001,17.83,19.25,NA,20.15
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2001,9.09,11.95,11.3,11.5
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,2001,NA,7.7,NA,NA
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2001,11.5,NA,NA,NA
+GJ,Mahesana,Kadi,Becharaji,23.51666667,72.13333333,"Charasan i","Tube Well",W07979,2001,NA,12.93,NA,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2001,15.73,19.05,16.4,17.6
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2001,7.96,10,9.3,11.4
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2001,6.05,5.93,6.03,8.33
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2001,NA,145.87,NA,132.85
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2001,14.56,14.1,14.18,14.52
+GJ,Mahesana,Aambaliyasan,Vijapur,23.575,72.675,Kolwada,"Dug Well",W08628,2001,NA,NA,32.16,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.68333333,72.76666667,"Sundarpura i","Tube Well",W08633,2001,41.28,39.4,NA,41.1
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2001,114.48,117.52,114.43,114.88
+GJ,Mahesana,Kadi,Becharaji,23.56194444,72.09861111,Piora,"Dug Well",W08638,2001,4.86,NA,6.4,NA
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2001,4.83,5.48,4.75,6.95
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,2000,15.76,16.72,14.58,15.15
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,2000,101.7,101,103.46,99.94
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.55416667,Maguna-2,"Dug Well",W08679,2000,2.87,NA,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,2000,NA,71.81,72.59,69.98
+GJ,Mahesana,Visnagar,Visnagar,23.66666667,72.51666667,"Saola iii","Tube Well",W08685,2000,18.91,NA,NA,NA
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,2000,31.44,30.9,31.62,31.44
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,2000,11.05,10.78,11.1,13.55
+GJ,Mahesana,Visnagar,Vadnagar,23.78333333,72.63333333,Vadnagar,"Dug Well",W08688,2000,NA,6.36,NA,NA
+GJ,Mahesana,Visnagar,Vadnagar,23.82916667,72.77916667,Valasana,"Dug Well",W08689,2000,29.93,NA,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,2000,117.8,116.27,118.93,114.52
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,2000,NA,NA,8.61,NA
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,2000,35.14,34.82,35.72,35.11
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,2000,6.54,5.75,6.94,7.65
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,2000,NA,54.39,NA,55
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,2000,NA,19.1,15.08,18.7
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,2000,22.83,21.76,23.14,22.6
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,2000,16.2,14.6,15.22,15.05
+GJ,Mahesana,Mahesana,Kheralu,23.88333333,72.61666667,Unawa-2,"Dug Well",W08653,2000,20.61,NA,NA,NA
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,2000,11.25,6.6,13.18,NA
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,2000,21.07,17.03,18.73,17.41
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,2000,NA,10.09,10.75,10.82
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,2000,7.53,9.45,NA,NA
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,2000,6.11,8.98,NA,NA
+GJ,Mahesana,Kadi,Becharaji,23.51666667,72.13333333,"Charasan i","Tube Well",W07979,2000,10.12,NA,NA,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,2000,14.6,16.38,17.43,17.19
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,2000,NA,8,NA,9.35
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,2000,6.33,6.26,10.58,6.78
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,2000,134.34,146.82,142.51,143.51
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,2000,14.13,13.39,14.33,15.05
+GJ,Mahesana,Aambaliyasan,Vijapur,23.575,72.675,Kolwada,"Dug Well",W08628,2000,30.62,NA,NA,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.68333333,72.76666667,"Sundarpura i","Tube Well",W08633,2000,38.26,36.43,38.88,38.37
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,2000,103.75,104.71,109.99,115.5
+GJ,Mahesana,Kadi,Becharaji,23.56194444,72.09861111,Piora,"Dug Well",W08638,2000,8.2,10.4,NA,NA
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,2000,4.62,5.78,5.42,7.03
+GJ,Mahesana,Vadnagar,Satlasana,24.025,72.79166667,Satlasna,"Bore Well",W08668,1999,14.92,10.2,17.15,18.19
+GJ,Mahesana,Vijapur,Unjha,23.825,72.375,Maktupur-2,"Dug Well",W08673,1999,NA,16.95,NA,16.95
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,1999,14.27,10.27,14.8,14.48
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,1999,4.48,4.25,5.4,5.22
+GJ,Mahesana,Visnagar,Vadnagar,23.76666667,72.725,Karbatiya,"Dug Cum Bore Well",W08678,1999,30.9,30.9,NA,30.9
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.55416667,Maguna-2,"Dug Well",W08679,1999,NA,NA,NA,2.73
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,1999,68.74,71.07,NA,68.44
+GJ,Mahesana,Visnagar,Visnagar,23.70833333,72.5125,Pamol-1,"Dug Well",W08684,1999,1.92,1.31,NA,2.86
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,1999,29.28,28.44,29.67,29.12
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,1999,9.31,8.59,10.15,10.59
+GJ,Mahesana,Visnagar,Vadnagar,23.78333333,72.63333333,Vadnagar,"Dug Well",W08688,1999,4.35,3.38,5.6,4.47
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,1999,108.25,111.38,113.42,110.82
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,1999,85.42,93.47,99.27,103.09
+GJ,Mahesana,Kadi,Becharaji,23.56194444,72.09861111,Piora,"Dug Well",W08638,1999,NA,7.32,10.1,9.4
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,1999,NA,NA,99.51,94.09
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,1999,7.3,NA,-0.6,7.59
+GJ,Mahesana,Kheralu,Kadi,23.38333333,72.4,Nandasan,"Dug Well",W08642,1999,14.05,14.05,NA,14.05
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,1999,34.02,33.25,34.53,32.58
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,1999,4.34,3.91,5.32,5.73
+GJ,Mahesana,Mahesana,Kheralu,23.89583333,72.51388889,Khali,"Dug Well",W08645,1999,18.98,15.38,NA,18.98
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,1999,49.86,59.21,52.9,52.76
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,1999,18.65,18.32,18.93,18.64
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,1999,21.27,20.5,21.55,23.33
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,1999,14.35,13.59,14.5,14.21
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,1999,5.85,4.7,6.3,8.89
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,1999,16.93,14.7,16.74,22.57
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,1999,NA,8.13,9.67,9.58
+GJ,Mahesana,Vadnagar,Satlasana,24.01666667,72.775,"Nawa vas rajpur","Dug Well",W08667,1999,NA,NA,NA,11.2
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,1999,7.78,4.78,8.85,6.89
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,1999,7.14,4.87,9.37,12.97
+GJ,Mahesana,Kadi,Becharaji,23.51666667,72.13333333,"Charasan i","Tube Well",W07979,1999,9.5,NA,NA,9.77
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,1999,14.75,13.62,15.13,14.68
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,1999,3.94,6.95,7.13,8.29
+GJ,Mahesana,Mahesana,Kheralu,23.94583333,72.675,Ayeti,"Dug Well",W07982,1999,7.64,7.64,NA,7.64
+GJ,Mahesana,Mahesana,Kheralu,23.95,72.69166667,Dabhora,"Dug Cum Bore Well",W07983,1999,NA,8.55,NA,8.55
+GJ,Mahesana,Unjha,Mahesana,23.62083333,72.3875,Dhinoj2,"Dug Well",W07985,1999,NA,10.93,NA,NA
+GJ,Mahesana,Unjha,Mahesana,23.60416667,72.31666667,Gilosan,"Dug Well",W07986,1999,NA,16.32,NA,16.32
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,1999,5.88,6.34,5.83,5.26
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,1999,117.67,NA,143.98,123.86
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,1999,13.36,12.22,13.43,14.44
+GJ,Mahesana,Aambaliyasan,Vijapur,23.575,72.675,Kolwada,"Dug Well",W08628,1999,NA,33.99,NA,29.4
+GJ,Mahesana,Aambaliyasan,Vijapur,23.68333333,72.76666667,"Sundarpura i","Tube Well",W08633,1999,35.08,35.85,35.61,35.82
+GJ,Mahesana,Vadnagar,Satlasana,24.025,72.79166667,Satlasna,"Bore Well",W08668,1998,11.95,NA,10,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.68333333,72.76666667,"Sundarpura i","Tube Well",W08633,1998,34.27,34.86,34.2,34.44
+GJ,Mahesana,Vijapur,Unjha,23.825,72.375,Maktupur-2,"Dug Well",W08673,1998,16.95,NA,NA,NA
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,1998,14.1,12.57,10.9,15.98
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,1998,4.71,4.44,4.54,6.39
+GJ,Mahesana,Visnagar,Vadnagar,23.76666667,72.725,Karbatiya,"Dug Cum Bore Well",W08678,1998,30.9,NA,NA,30.9
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.55416667,Maguna-2,"Dug Well",W08679,1998,NA,2.05,NA,2.64
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,1998,65.02,70.9,66.81,69.96
+GJ,Mahesana,Visnagar,Visnagar,23.70833333,72.5125,Pamol-1,"Dug Well",W08684,1998,2.3,1.4,'0.5,3.1
+GJ,Mahesana,Visnagar,Visnagar,23.66666667,72.51666667,"Saola iii","Tube Well",W08685,1998,NA,NA,NA,452.8
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,1998,27.22,27.45,28.18,NA
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,1998,9.05,8.06,7.9,9.17
+GJ,Mahesana,Visnagar,Vadnagar,23.78333333,72.63333333,Vadnagar,"Dug Well",W08688,1998,'0.95,3.29,3.08,4.4
+GJ,Mahesana,Visnagar,Vadnagar,23.82916667,72.77916667,Valasana,"Dug Well",W08689,1998,21.83,21.33,NA,NA
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,1998,106.02,107.41,108.9,108.37
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,1998,85.15,104.79,95.35,108.75
+GJ,Mahesana,Kadi,Becharaji,23.56194444,72.09861111,Piora,"Dug Well",W08638,1998,6.14,7.01,NA,9.02
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,1998,84.2,94.01,87.3,92.2
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,1998,6.88,4.77,NA,6.87
+GJ,Mahesana,Kheralu,Kadi,23.38333333,72.4,Nandasan,"Dug Well",W08642,1998,NA,NA,NA,14.05
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,1998,33.4,33.21,NA,33.35
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,1998,4.85,4.33,4.53,5.43
+GJ,Mahesana,Mahesana,Kheralu,23.89583333,72.51388889,Khali,"Dug Well",W08645,1998,14.28,15.58,NA,16.76
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,1998,48.75,54.72,49.03,51.58
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,1998,18.25,17.9,NA,17.24
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,1998,20.25,19.59,20.41,NA
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,1998,14.36,14.38,13.67,14.77
+GJ,Mahesana,Mahesana,Kheralu,23.84583333,72.71666667,Unad,"Dug Well",W08651,1998,16.83,NA,NA,NA
+GJ,Mahesana,Mahesana,Kheralu,23.88333333,72.61666667,Unawa-2,"Dug Well",W08653,1998,9.1,NA,NA,NA
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,1998,4.22,1.86,4.65,5.18
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,1998,15.6,16.5,14.53,14.79
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,1998,8.17,7.56,7.48,8.98
+GJ,Mahesana,Vadnagar,Satlasana,24.01666667,72.775,"Nawa vas rajpur","Dug Well",W08667,1998,NA,NA,NA,11.2
+GJ,Mahesana,Aambaliyasan,Vijapur,23.7,72.71666667,"Anandpura i","Tube Well",W07972,1998,NA,NA,NA,66.5
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,1998,12.06,5.17,4.4,4.12
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,1998,3.95,4.8,3.55,11.48
+GJ,Mahesana,Kadi,Becharaji,23.51666667,72.13333333,"Charasan i","Tube Well",W07979,1998,NA,7.06,NA,9.87
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,1998,13.35,13.32,13.06,15.84
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,1998,6.4,4.45,5.62,7.23
+GJ,Mahesana,Mahesana,Kheralu,23.94583333,72.675,Ayeti,"Dug Well",W07982,1998,7.64,8.06,7.64,8.85
+GJ,Mahesana,Mahesana,Kheralu,23.95,72.69166667,Dabhora,"Dug Cum Bore Well",W07983,1998,8.55,8.55,8.55,8.55
+GJ,Mahesana,Unjha,Mahesana,23.62083333,72.3875,Dhinoj2,"Dug Well",W07985,1998,10.93,10.93,NA,10.93
+GJ,Mahesana,Unjha,Mahesana,23.60416667,72.31666667,Gilosan,"Dug Well",W07986,1998,16.32,NA,NA,16.32
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,1998,3.08,3.54,2.81,5.46
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,1998,115.95,134.11,119.53,130.57
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,1998,14.09,13.03,11.84,14.9
+GJ,Mahesana,Aambaliyasan,Vijapur,23.575,72.675,Kolwada,"Dug Well",W08628,1998,31.9,31.7,30.7,33.99
+GJ,Mahesana,Vijapur,Unjha,23.83333333,72.36666667,Maktupur-1,"Tube Well",W08672,1998,NA,NA,NA,301
+GJ,Mahesana,Vijapur,Unjha,23.83333333,72.36666667,Maktupur-1,"Tube Well",W08672,1997,NA,53.02,NA,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,1997,86.15,109.23,91.21,113.44
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,1997,9.2,NA,13.65,15.55
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,1997,5.18,7.37,4.57,7.34
+GJ,Mahesana,Visnagar,Vadnagar,23.76666667,72.6,"Karbatia i","Tube Well",W08676,1997,NA,76,NA,NA
+GJ,Mahesana,Visnagar,Vadnagar,23.76666667,72.725,Karbatiya,"Dug Cum Bore Well",W08678,1997,NA,30.9,30.9,30.9
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.55416667,Maguna-2,"Dug Well",W08679,1997,'0.57,3.49,1.54,NA
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,1997,63.95,NA,67.82,69.45
+GJ,Mahesana,Visnagar,Visnagar,23.70833333,72.5125,Pamol-1,"Dug Well",W08684,1997,'0.7,5.78,1.07,6.82
+GJ,Mahesana,Visnagar,Vadnagar,23.80138889,72.7625,"Sobhasan (ow 3)","Tube Well",W08686,1997,26.6,NA,27.05,28.35
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,1997,9.35,9.91,8.43,12.33
+GJ,Mahesana,Visnagar,Vadnagar,23.78333333,72.63333333,Vadnagar,"Dug Well",W08688,1997,1.9,4.55,2.88,6.18
+GJ,Mahesana,Visnagar,Vadnagar,23.82916667,72.77916667,Valasana,"Dug Well",W08689,1997,NA,25.8,20.8,25.8
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,1997,101.6,106.4,104.45,105.15
+GJ,Mahesana,Kadi,Becharaji,23.56194444,72.09861111,Piora,"Dug Well",W08638,1997,2.9,11.2,8.48,11.2
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,1997,82.8,91.47,85.43,85.89
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,1997,8.5,6.77,4.99,NA
+GJ,Mahesana,Kheralu,Kadi,23.38333333,72.4,Nandasan,"Dug Well",W08642,1997,14.05,14.05,14.05,NA
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,1997,34.3,34.3,32.26,34.9
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,1997,2.66,6.96,3.79,7.86
+GJ,Mahesana,Mahesana,Kheralu,23.89583333,72.51388889,Khali,"Dug Well",W08645,1997,13.38,17.23,13.73,18.98
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,1997,47.2,53.61,48.93,51.78
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,1997,18.2,18.76,18.11,20.25
+GJ,Mahesana,Mahesana,Kheralu,23.85,72.75833333,"Madasana (ow 2)","Tube Well",W08649,1997,22.65,NA,22.53,19.49
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,1997,13.6,14.57,13.89,15.55
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,1997,6.45,12.43,1.07,9.55
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,1997,45,19.88,14.08,21.16
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,1997,4.63,10.98,6.56,11.34
+GJ,Mahesana,Vadnagar,Satlasana,24.01666667,72.775,"Nawa vas rajpur","Dug Well",W08667,1997,NA,8.92,NA,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.7,72.71666667,"Anandpura i","Tube Well",W07972,1997,NA,66.5,NA,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,1997,5.4,12.06,5.82,11.94
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,1997,1.2,13.1,3.6,13.1
+GJ,Mahesana,Kadi,Becharaji,23.51666667,72.13333333,"Charasan i","Tube Well",W07979,1997,10.26,13.51,6,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,1997,12.7,15.64,12.84,16.99
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,1997,2.1,8.16,3.12,9.54
+GJ,Mahesana,Mahesana,Kheralu,23.94583333,72.675,Ayeti,"Dug Well",W07982,1997,7.66,8.64,7.68,9.15
+GJ,Mahesana,Mahesana,Kheralu,23.95,72.69166667,Dabhora,"Dug Cum Bore Well",W07983,1997,8.55,8.55,8.55,8.55
+GJ,Mahesana,Unjha,Mahesana,23.62083333,72.3875,Dhinoj2,"Dug Well",W07985,1997,NA,10.93,NA,NA
+GJ,Mahesana,Unjha,Mahesana,23.60416667,72.31666667,Gilosan,"Dug Well",W07986,1997,NA,16.32,NA,NA
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,1997,2.83,6.02,3.53,6.78
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,1997,103.7,132.47,113.8,123.31
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,1997,14,15.59,13.01,16.53
+GJ,Mahesana,Aambaliyasan,Vijapur,23.575,72.675,Kolwada,"Dug Well",W08628,1997,31.5,NA,32,34.15
+GJ,Mahesana,Aambaliyasan,Vijapur,23.59583333,72.66666667,Pamol-2,"Dug Well",W08629,1997,NA,26,NA,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.53333333,72.71666667,"Pilwai i","Tube Well",W08631,1997,NA,NA,106.67,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.68333333,72.76666667,"Sundarpura i","Tube Well",W08633,1997,35.8,37.51,34.9,37.89
+GJ,Mahesana,Vijapur,Unjha,23.825,72.375,Maktupur-2,"Dug Well",W08673,1997,16.95,16.95,16.95,16.95
+GJ,Mahesana,Vijapur,Unjha,23.825,72.375,Maktupur-2,"Dug Well",W08673,1996,16.95,16.95,16.95,16.95
+GJ,Mahesana,Aambaliyasan,Vijapur,23.55694444,72.75972222,"Vijapur I","Tube Well",W08636,1996,89.88,NA,92.15,106.62
+GJ,Mahesana,Vijapur,Unjha,23.76666667,72.3625,Unawa-1,"Dug Well",W08675,1996,5.53,5.71,5.41,7.02
+GJ,Mahesana,Visnagar,Vadnagar,23.76666667,72.6,"Karbatia i","Tube Well",W08676,1996,NA,NA,76,NA
+GJ,Mahesana,Visnagar,Vadnagar,23.76666667,72.725,Karbatiya,"Dug Cum Bore Well",W08678,1996,NA,30.9,30.9,30.9
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.55416667,Maguna-2,"Dug Well",W08679,1996,3.27,4.02,2.97,3.93
+GJ,Mahesana,Visnagar,Visnagar,23.71666667,72.46666667,"Modhera  II","Tube Well",W08681,1996,NA,NA,78.81,NA
+GJ,Mahesana,Visnagar,Visnagar,23.70833333,72.5125,Pamol-1,"Dug Well",W08684,1996,4.5,5.03,4.56,6.38
+GJ,Mahesana,Visnagar,Visnagar,23.75833333,72.45833333,Tarabh,"Dug Well",W08687,1996,11.76,9.83,11.02,10.97
+GJ,Mahesana,Visnagar,Vadnagar,23.78333333,72.63333333,Vadnagar,"Dug Well",W08688,1996,4.05,3.71,3.71,4.98
+GJ,Mahesana,Visnagar,Vadnagar,23.82916667,72.77916667,Valasana,"Dug Well",W08689,1996,21.03,20.02,21.11,20.68
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.53333333,"Visnagar  i","Tube Well",W08690,1996,99.28,NA,103.08,102.84
+GJ,Mahesana,Kadi,Becharaji,23.56194444,72.09861111,Piora,"Dug Well",W08638,1996,10.64,8.88,11.2,10.27
+GJ,Mahesana,Kheralu,Kadi,23.30833333,72.32916667,Kadi,"Tube Well",W08639,1996,75.14,NA,86.34,86.68
+GJ,Mahesana,Kheralu,Kadi,23.12694444,72.19305556,Kalyanpur,"Tube Well",W08641,1996,6.8,NA,7.09,6.7
+GJ,Mahesana,Kheralu,Kadi,23.38333333,72.4,Nandasan,"Dug Well",W08642,1996,NA,NA,14.05,14.05
+GJ,Mahesana,Kheralu,Kadi,23.38972222,72.30666667,Suraj,"Tube Well",W08643,1996,34.1,NA,38.7,33.24
+GJ,Mahesana,Kheralu,Kadi,23.24722222,72.3,Vidaj,"Dug Cum Bore Well",W08644,1996,7.72,5.9,6.26,6.57
+GJ,Mahesana,Mahesana,Kheralu,23.89583333,72.51388889,Khali,"Dug Well",W08645,1996,14.48,15,15.99,16.64
+GJ,Mahesana,Mahesana,Kheralu,23.89777778,72.61055556,"Kheralu (deep)","Tube Well",W08646,1996,47.76,NA,49,50.85
+GJ,Mahesana,Mahesana,Kheralu,23.8875,72.6125,Kheralu1,"Dug Well",W08648,1996,17.59,20.64,17.12,19.77
+GJ,Mahesana,Mahesana,Kheralu,23.89166667,72.51666667,Rampura1,"Dug Well",W08650,1996,15.23,15,15.35,15.07
+GJ,Mahesana,Unjha,Mahesana,23.5975,72.39861111,"Kaipur i","Tube Well",W08654,1996,NA,38.68,NA,NA
+GJ,Mahesana,Unjha,Mahesana,23.57777778,72.28888889,Maguna-1,"Dug Well",W08658,1996,6.8,2.8,9.04,6.99
+GJ,Mahesana,Unjha,Mahesana,23.53333333,72.38333333,Mewad,"Tube Well",W08665,1996,NA,17.1,19.82,18.88
+GJ,Mahesana,Unjha,Mahesana,23.62916667,72.34166667,Panchot,"Dug Well",W08666,1996,10.4,9.41,10.56,11.06
+GJ,Mahesana,Vadnagar,Satlasana,24.01666667,72.775,"Nawa vas rajpur","Dug Well",W08667,1996,NA,6.64,NA,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.7,72.71666667,"Anandpura i","Tube Well",W07972,1996,NA,NA,66.5,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.57916667,72.675,Gerita,"Dug Well",W07974,1996,7.7,12.06,8.63,9.16
+GJ,Mahesana,Kadi,Becharaji,23.50833333,72.18333333,Asjol,"Dug Well",W07978,1996,13.18,13.5,14.28,13.9
+GJ,Mahesana,Kadi,Becharaji,23.51666667,72.13333333,"Charasan i","Tube Well",W07979,1996,NA,11.98,11.99,NA
+GJ,Mahesana,Kadi,Becharaji,23.54583333,72.1125,Dharpura,"Dug Well",W07980,1996,14.82,14.43,15.23,15.04
+GJ,Mahesana,Kheralu,Kadi,23.2875,72.375,Budasan,"Dug Well",W07981,1996,7.98,7.88,7.62,8.9
+GJ,Mahesana,Mahesana,Kheralu,23.94583333,72.675,Ayeti,"Dug Well",W07982,1996,8.26,7.81,8.23,8.16
+GJ,Mahesana,Mahesana,Kheralu,23.95,72.69166667,Dabhora,"Dug Cum Bore Well",W07983,1996,8.55,NA,8.55,NA
+GJ,Mahesana,Unjha,Mahesana,23.62083333,72.3875,Dhinoj2,"Dug Well",W07985,1996,NA,NA,NA,10.93
+GJ,Mahesana,Unjha,Mahesana,23.60416667,72.31666667,Gilosan,"Dug Well",W07986,1996,NA,16.32,16.32,16.32
+GJ,Mahesana,Vijapur,Unjha,23.84166667,72.45,Dosaj,"Dug Well",W07987,1996,4.76,4.35,5.58,5.4
+GJ,Mahesana,Visnagar,Visnagar,23.7,72.36666667,"Bhandu i","Tube Well",W07988,1996,106.82,128.8,116.66,126.03
+GJ,Mahesana,Visnagar,Visnagar,23.725,72.38333333,Bhandupara,"Dug Well",W07993,1996,16.87,13.2,15.55,14.9
+GJ,Mahesana,Aambaliyasan,Vijapur,23.575,72.675,Kolwada,"Dug Well",W08628,1996,NA,28.4,34.15,NA
+GJ,Mahesana,Aambaliyasan,Vijapur,23.53333333,72.71666667,"Pilwai i","Tube Well",W08631,1996,NA,NA,NA,107.13
+GJ,Mahesana,Aambaliyasan,Vijapur,23.68333333,72.76666667,"Sundarpura i","Tube Well",W08633,1996,36.67,35.25,35.85,36.53
+GJ,Mahesana,Vijapur,Unjha,23.8,72.35,Sihi,"Dug Well",W08674,1996,14.55,13.27,14.58,15.72

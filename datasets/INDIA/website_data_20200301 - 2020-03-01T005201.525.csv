@@ -1,0 +1,801 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2018,NA,3.66,2.95,NA
+MP,Ujjain,Tarana,Tarana,23.34083333,76.03888889,"Tarana Npz","Bore Well",W28391,2018,4.24,NA,NA,12.3
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2018,'0.22,5.76,NA,NA
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2018,5.82,6.79,NA,NA
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2018,6.69,11.95,NA,NA
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2018,4.17,10.43,NA,NA
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2018,5.2,12.1,NA,NA
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2018,8.7,9.24,NA,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2018,3.42,5.27,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2018,8.45,7.47,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2018,1.76,3.09,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2018,5.77,13.25,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2018,1.28,3.14,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2018,6.58,7.63,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2018,4.35,5.6,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2018,2.92,4.68,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2018,2.85,7.74,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2018,10.94,38.06,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2018,3.81,6.83,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2018,2.88,7.81,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2018,NA,6.06,NA,NA
+MP,Ujjain,Ghatiya,Ghatiya,23.34472222,75.84916667,Nazarpur,"Dug Well",W28393,2018,3.81,6.4,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.33527778,75.55444444,"Unhel Npz","Bore Well",W28388,2018,11.6,12.63,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.08,75.90194444,Narwar,"Dug Well",W28175,2018,8.33,14.1,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,"Hasmpura Npz","Bore Well",W28187,2018,13.64,46.92,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(shallow),"Bore Well",W28239,2018,2.1,4.81,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.18583333,75.78222222,"Ujjain Nagar Palika","Dug Well",W28260,2018,4.18,6.01,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.20361111,75.64777778,"Ambodia Npz","Bore Well",W28282,2018,1.61,6.26,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.20416667,75.67527778,Naikhedi,"Dug Well",W28283,2018,4.65,10.09,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.22166667,75.95138889,"Vijayganj Mandi","Dug Well",W28301,2018,4.93,9.74,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.25444444,75.81555556,"Dabla Rehwari","Dug Well",W28322,2018,2.51,7.15,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.25638889,75.71111111,"Chakrawada Grid","Dug Well",W28323,2018,5.54,12.5,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.04472222,75.37888889,"Badnagar Npz","Bore Well",W28150,2018,11.46,11.47,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.10833333,75.45277778,"Chhoti Ghadsod","Dug Well",W28194,2018,3.31,16.19,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.14416667,75.55416667,"Ingoria Npz","Bore Well",W28215,2018,9.38,16.22,NA,NA
+MP,Ujjain,Ghatiya,Ghatiya,23.28611111,75.65194444,Ruie,"Dug Well",W28350,2018,3.82,14.78,NA,NA
+MP,Ujjain,Tarana,Tarana,23.39861111,76.01333333,"Khakri Sultan","Dug Well",W28435,2018,5.99,5.87,NA,NA
+MP,Ujjain,Tarana,Tarana,23.50416667,76.155,"Makdon Npz","Bore Well",W28509,2018,1.8,4.11,NA,NA
+MP,Ujjain,Tarana,Tarana,23.54888889,75.9025,"Pat Npz","Bore Well",W28538,2018,1.21,2.06,NA,NA
+MP,Ujjain,Tarana,Tarana,23.23305556,76.01833333,Kaiytha,"Dug Well",W28306,2018,6.63,8.73,NA,NA
+MP,Ujjain,Tarana,Tarana,23.23361111,76.01805556,"Kaitha Npz","Bore Well",W28307,2018,9.93,9.52,NA,NA
+MP,Ujjain,Tarana,Tarana,23.26666667,76.06166667,"Sumra Kheda","Dug Well",W28331,2018,5.03,12.85,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.42611111,75.2825,"Khachrod Npz","Bore Well",W28465,2018,2.8,10.7,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.44777778,75.41027778,"Nagda Npz","Bore Well",W28476,2018,2.75,4.06,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.43916667,75.87611111,Ghosla,"Dug Well",W28472,2018,4.22,5.63,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.55666667,75.51611111,"Gogapur Npz","Bore Well",W28542,2018,2.86,6.25,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi(deep),"Bore Well",W28475,2018,NA,6.39,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(shallow),"Bore Well",W28238,2018,NA,8.05,7.5,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49111111,75.66666667,"Mahidpur Town Npz","Bore Well",W28505,2018,NA,3.48,3,NA
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2018,NA,15.51,24.33,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2017,'0.46,5.28,'0.8,7.97
+MP,Ujjain,Mahidpur,Mahidpur,23.55666667,75.51611111,"Gogapur Npz","Bore Well",W28542,2017,'0.7,NA,4.8,8.2
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2017,5.65,13.2,11.68,13.06
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2017,8.56,9.78,6.45,10.4
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2017,7.25,10.13,6.53,9.4
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2017,1.56,6.12,3.17,5.78
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2017,2.62,7.1,4.85,10.53
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2017,'0.8,3.75,1.23,8.08
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2017,4.77,10.1,4.6,18.2
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2017,2.6,6.7,6.7,8.45
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2017,1.3,4.7,4.75,6.5
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2017,2.47,4.24,4.27,6.06
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2017,'0.95,5.55,4,10.9
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2017,6.2,7.1,5.5,6.45
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2017,7.45,17.87,12.34,49.34
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2017,3.75,4.8,3.52,9.44
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2017,'0.52,6.75,1.45,28.31
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2017,11.28,14.28,8.98,22.73
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2017,NA,2.95,1.9,8
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2017,NA,2.79,2.15,4.14
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2017,7.5,NA,7.1,7.18
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2017,7.78,26.3,NA,49.6
+MP,Ujjain,Ghatiya,Ghatiya,23.34472222,75.84916667,Nazarpur,"Dug Well",W28393,2017,8.08,7.18,3.58,8.78
+MP,Ujjain,Tarana,Tarana,23.34083333,76.03888889,"Tarana Npz","Bore Well",W28391,2017,7.5,9.29,7.94,12.37
+MP,Ujjain,Ujjain,Ujjain,23.08,75.90194444,Narwar,"Dug Well",W28175,2017,12.43,14.1,11.86,13.57
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,"Hasmpura Npz","Bore Well",W28187,2017,45.5,46.5,33,46.92
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(shallow),"Bore Well",W28239,2017,2.57,3.94,3.97,5.02
+MP,Ujjain,Ujjain,Ujjain,23.18583333,75.78222222,"Ujjain Nagar Palika","Dug Well",W28260,2017,5.1,6.12,2.92,7.35
+MP,Ujjain,Ujjain,Ujjain,23.20361111,75.64777778,"Ambodia Npz","Bore Well",W28282,2017,2.25,5.52,3.1,6.29
+MP,Ujjain,Ujjain,Ujjain,23.20416667,75.67527778,Naikhedi,"Dug Well",W28283,2017,4.17,13.67,11.77,12.07
+MP,Ujjain,Ujjain,Ujjain,23.22166667,75.95138889,"Vijayganj Mandi","Dug Well",W28301,2017,6.4,9.5,8.24,10.55
+MP,Ujjain,Ujjain,Ujjain,23.25444444,75.81555556,"Dabla Rehwari","Dug Well",W28322,2017,'0.87,3.77,5.42,8.04
+MP,Ujjain,Ujjain,Ujjain,23.25638889,75.71111111,"Chakrawada Grid","Dug Well",W28323,2017,2.6,13.46,14.88,15.45
+MP,Ujjain,Badnagar,Badnagar,23.04472222,75.37888889,"Badnagar Npz","Bore Well",W28150,2017,10.16,10.58,8.16,25.5
+MP,Ujjain,Badnagar,Badnagar,23.10833333,75.45277778,"Chhoti Ghadsod","Dug Well",W28194,2017,9.48,13.93,10.71,27.52
+MP,Ujjain,Badnagar,Badnagar,23.14416667,75.55416667,"Ingoria Npz","Bore Well",W28215,2017,5.9,15.56,5.52,20.74
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(shallow),"Bore Well",W28238,2017,'0.69,7.1,1.2,15.18
+MP,Ujjain,Ghatiya,Ghatiya,23.28611111,75.65194444,Ruie,"Dug Well",W28350,2017,2.57,15.8,9.62,16.2
+MP,Ujjain,Tarana,Tarana,23.39861111,76.01333333,"Khakri Sultan","Dug Well",W28435,2017,2.26,6.45,4.6,7.83
+MP,Ujjain,Tarana,Tarana,23.50416667,76.155,"Makdon Npz","Bore Well",W28509,2017,1.76,4.1,2.56,6.17
+MP,Ujjain,Tarana,Tarana,23.54888889,75.9025,"Pat Npz","Bore Well",W28538,2017,2.18,2.77,2.27,6.3
+MP,Ujjain,Tarana,Tarana,23.23305556,76.01833333,Kaiytha,"Dug Well",W28306,2017,6.72,7.35,9.1,12.27
+MP,Ujjain,Tarana,Tarana,23.23361111,76.01805556,"Kaitha Npz","Bore Well",W28307,2017,9.8,8.65,8.95,11.18
+MP,Ujjain,Tarana,Tarana,23.26666667,76.06166667,"Sumra Kheda","Dug Well",W28331,2017,9.1,13.55,11.4,13.35
+MP,Ujjain,Khacharod,Khacharod,23.42611111,75.2825,"Khachrod Npz","Bore Well",W28465,2017,2.38,12.1,8.5,10.08
+MP,Ujjain,Khacharod,Khacharod,23.44777778,75.41027778,"Nagda Npz","Bore Well",W28476,2017,2.52,3.97,3.82,5.22
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi(deep),"Bore Well",W28475,2017,6.7,5.3,13.3,7.04
+MP,Ujjain,Mahidpur,Mahidpur,23.49111111,75.66666667,"Mahidpur Town Npz","Bore Well",W28505,2017,'0.5,2.82,1.95,5.87
+MP,Ujjain,Khacharod,Khacharod,23.33527778,75.55444444,"Unhel Npz","Bore Well",W28388,2017,NA,12.65,8.73,24.27
+MP,Ujjain,Mahidpur,Mahidpur,23.43916667,75.87611111,Ghosla,"Dug Well",W28472,2017,2.5,NA,3,5.14
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2017,NA,3.85,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2016,4.04,21.33,8.09,NA
+MP,Ujjain,Ujjain,Ujjain,23.18583333,75.78222222,"Ujjain Nagar Palika","Dug Well",W28260,2016,3.57,6.7,4.2,10.2
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2016,2.8,12.35,4.21,NA
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2016,3.2,11,9.78,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2016,NA,4.02,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2016,2.4,8.1,2.28,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2016,NA,25.83,1.11,NA
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2016,1.05,7.15,'0.95,NA
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2016,3.7,10.4,3.84,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2016,'0.3,5.6,2,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2016,'0.37,4.09,1.65,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2016,2.1,6.7,2.8,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2016,'0.4,5.7,1.6,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2016,1.2,3.75,2.7,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2016,1.05,5.15,2.3,NA
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2016,3.9,12.35,12.2,NA
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2016,1.4,10.65,2.57,NA
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2016,1.76,39.6,32.95,NA
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2016,5.17,32.39,9.29,NA
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2016,6.15,7.4,2.8,NA
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2016,NA,NA,NA,8.57
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2016,'0.35,10.15,1.45,NA
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2016,1.21,4.28,3.16,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2016,3.85,NA,8.25,8.93
+MP,Ujjain,Ujjain,Ujjain,23.20361111,75.64777778,"Ambodia Npz","Bore Well",W28282,2016,'0.76,6.83,2.62,6.26
+MP,Ujjain,Ujjain,Ujjain,23.20416667,75.67527778,Naikhedi,"Dug Well",W28283,2016,3.25,13.37,5.59,14.12
+MP,Ujjain,Ujjain,Ujjain,23.22166667,75.95138889,"Vijayganj Mandi","Dug Well",W28301,2016,3.45,10,5.88,10.94
+MP,Ujjain,Tarana,Tarana,23.23305556,76.01833333,Kaiytha,"Dug Well",W28306,2016,3.6,8.65,5.87,10.75
+MP,Ujjain,Tarana,Tarana,23.23361111,76.01805556,"Kaitha Npz","Bore Well",W28307,2016,4.31,9.65,7.42,11.91
+MP,Ujjain,Ujjain,Ujjain,23.25444444,75.81555556,"Dabla Rehwari","Dug Well",W28322,2016,2.1,7.02,4.77,12.27
+MP,Ujjain,Ujjain,Ujjain,23.25638889,75.71111111,"Chakrawada Grid","Dug Well",W28323,2016,4.15,15,2.63,15.33
+MP,Ujjain,Tarana,Tarana,23.26666667,76.06166667,"Sumra Kheda","Dug Well",W28331,2016,3.55,13.4,6.3,15.25
+MP,Ujjain,Ghatiya,Ghatiya,23.28611111,75.65194444,Ruie,"Dug Well",W28350,2016,6.15,16.4,5.7,16.9
+MP,Ujjain,Khacharod,Khacharod,23.33527778,75.55444444,"Unhel Npz","Bore Well",W28388,2016,3.85,23.02,5.12,28.47
+MP,Ujjain,Tarana,Tarana,23.34083333,76.03888889,"Tarana Npz","Bore Well",W28391,2016,1.22,11.84,2.6,12.34
+MP,Ujjain,Ghatiya,Ghatiya,23.34472222,75.84916667,Nazarpur,"Dug Well",W28393,2016,1.4,8.58,3.3,7.42
+MP,Ujjain,Ghatiya,Ghatiya,23.38027778,75.86194444,"Nimanwasa Npz","Bore Well",W28422,2016,1.49,20.54,NA,40.36
+MP,Ujjain,Tarana,Tarana,23.39861111,76.01333333,"Khakri Sultan","Dug Well",W28435,2016,1.3,7.6,3.83,7.95
+MP,Ujjain,Khacharod,Khacharod,23.42611111,75.2825,"Khachrod Npz","Bore Well",W28465,2016,4.21,11.6,7.85,11.37
+MP,Ujjain,Mahidpur,Mahidpur,23.43916667,75.87611111,Ghosla,"Dug Well",W28472,2016,1.65,5.8,3.74,7.35
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi(deep),"Bore Well",W28475,2016,1.81,NA,4.15,6.3
+MP,Ujjain,Khacharod,Khacharod,23.44777778,75.41027778,"Nagda Npz","Bore Well",W28476,2016,1.7,4.97,3.12,5.08
+MP,Ujjain,Mahidpur,Mahidpur,23.49111111,75.66666667,"Mahidpur Town Npz","Bore Well",W28505,2016,'0.79,4.85,1.7,8.75
+MP,Ujjain,Tarana,Tarana,23.50416667,76.155,"Makdon Npz","Bore Well",W28509,2016,'0.12,5.02,2.15,5.92
+MP,Ujjain,Tarana,Tarana,23.54888889,75.9025,"Pat Npz","Bore Well",W28538,2016,NA,3.95,1.46,6.46
+MP,Ujjain,Mahidpur,Mahidpur,23.55666667,75.51611111,"Gogapur Npz","Bore Well",W28542,2016,2.83,7.09,NA,8.58
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth piplai(deep)","Bore Well",W28149,2016,2.31,NA,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.04472222,75.37888889,"Badnagar Npz","Bore Well",W28150,2016,5.92,18.65,7.41,25.7
+MP,Ujjain,Ujjain,Ujjain,23.08,75.90194444,Narwar,"Dug Well",W28175,2016,3.1,13.9,7.71,13.94
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,"Hasmpura Npz","Bore Well",W28187,2016,7.17,39.4,16.3,46.94
+MP,Ujjain,Badnagar,Badnagar,23.10833333,75.45277778,"Chhoti Ghadsod","Dug Well",W28194,2016,3.7,21.18,6.62,21.83
+MP,Ujjain,Badnagar,Badnagar,23.14416667,75.55416667,"Ingoria Npz","Bore Well",W28215,2016,1.17,20.01,4.57,16.64
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(shallow),"Bore Well",W28238,2016,NA,14.4,1.02,15.46
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(shallow),"Bore Well",W28239,2016,'0.88,2.91,3.15,5.97
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2016,2.1,12.7,6.66,NA
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2015,NA,18.66,6.43,NA
+MP,Ujjain,Ujjain,Ujjain,23.18583333,75.78222222,"Ujjain Nagar Palika","Dug Well",W28260,2015,3.05,7.08,5,11.54
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2015,3.55,8.72,5.65,4.65
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2015,3.9,9.94,7.27,8.68
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2015,NA,3.59,2.47,4.87
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2015,2.7,7.84,4,10.98
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2015,2.31,18.71,3.13,28.95
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2015,1.2,6.91,4.75,8.23
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2015,3.3,11.76,11.5,12.18
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2015,'0.6,4.96,2.2,6.06
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2015,1.07,NA,2.33,4.23
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2015,2.95,4.64,5.1,7.45
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2015,1.2,6.75,2.06,7.42
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2015,2.7,4.03,2.44,3.95
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2015,3.05,6.49,2.86,12.08
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2015,2.65,9.07,11.5,11.57
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2015,2.9,10.43,4.72,12.27
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2015,5.16,21.92,4.42,49.6
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2015,NA,11.22,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2015,5.76,44.34,11.61,28.26
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2015,1.9,1.38,4.64,7.92
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2015,'0.9,9.18,2,11.07
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2015,3.32,4.54,3.93,5.83
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2015,2.6,10.1,9.7,11.37
+MP,Ujjain,Ujjain,Ujjain,23.20361111,75.64777778,"Ambodia Npz","Bore Well",W28282,2015,2.32,7.1,4.49,5.55
+MP,Ujjain,Ujjain,Ujjain,23.20416667,75.67527778,Naikhedi,"Dug Well",W28283,2015,4.3,NA,8.19,12.7
+MP,Ujjain,Ujjain,Ujjain,23.22166667,75.95138889,"Vijayganj Mandi","Dug Well",W28301,2015,5.5,NA,6.73,9.58
+MP,Ujjain,Tarana,Tarana,23.23305556,76.01833333,Kaiytha,"Dug Well",W28306,2015,4.3,10.08,6.64,12.98
+MP,Ujjain,Tarana,Tarana,23.23361111,76.01805556,"Kaitha Npz","Bore Well",W28307,2015,6.06,10.12,7.53,12.35
+MP,Ujjain,Ujjain,Ujjain,23.25444444,75.81555556,"Dabla Rehwari","Dug Well",W28322,2015,2.1,6.44,5.82,15.2
+MP,Ujjain,Ujjain,Ujjain,23.25638889,75.71111111,"Chakrawada Grid","Dug Well",W28323,2015,2.4,11.54,13,13.62
+MP,Ujjain,Tarana,Tarana,23.26666667,76.06166667,"Sumra Kheda","Dug Well",W28331,2015,4.15,13,8,14.16
+MP,Ujjain,Ghatiya,Ghatiya,23.28611111,75.65194444,Ruie,"Dug Well",W28350,2015,2.25,16.67,15.9,17
+MP,Ujjain,Khacharod,Khacharod,23.33527778,75.55444444,"Unhel Npz","Bore Well",W28388,2015,5.89,28.49,8.2,33.4
+MP,Ujjain,Tarana,Tarana,23.34083333,76.03888889,"Tarana Npz","Bore Well",W28391,2015,2.92,10.6,2.96,12.3
+MP,Ujjain,Ghatiya,Ghatiya,23.34472222,75.84916667,Nazarpur,"Dug Well",W28393,2015,1.45,8.41,4.27,9.2
+MP,Ujjain,Ghatiya,Ghatiya,23.38027778,75.86194444,"Nimanwasa Npz","Bore Well",W28422,2015,2.19,NA,9.36,NA
+MP,Ujjain,Tarana,Tarana,23.39861111,76.01333333,"Khakri Sultan","Dug Well",W28435,2015,1.9,5.33,3.8,6.82
+MP,Ujjain,Khacharod,Khacharod,23.42611111,75.2825,"Khachrod Npz","Bore Well",W28465,2015,6.46,12.32,9.44,12.2
+MP,Ujjain,Mahidpur,Mahidpur,23.43916667,75.87611111,Ghosla,"Dug Well",W28472,2015,1.8,4.51,5,6.87
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi(deep),"Bore Well",W28475,2015,5.11,5.35,4.32,7.12
+MP,Ujjain,Khacharod,Khacharod,23.44777778,75.41027778,"Nagda Npz","Bore Well",W28476,2015,3.69,4.4,4.67,4.41
+MP,Ujjain,Mahidpur,Mahidpur,23.49111111,75.66666667,"Mahidpur Town Npz","Bore Well",W28505,2015,1.45,4.72,2.24,5.62
+MP,Ujjain,Tarana,Tarana,23.50416667,76.155,"Makdon Npz","Bore Well",W28509,2015,'0.51,4.8,2.78,5.57
+MP,Ujjain,Tarana,Tarana,23.54888889,75.9025,"Pat Npz","Bore Well",W28538,2015,'0.2,2.97,2.85,6.12
+MP,Ujjain,Mahidpur,Mahidpur,23.55666667,75.51611111,"Gogapur Npz","Bore Well",W28542,2015,3.97,5.9,5.04,7.17
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth piplai(deep)","Bore Well",W28149,2015,3.65,NA,8.65,NA
+MP,Ujjain,Badnagar,Badnagar,23.04472222,75.37888889,"Badnagar Npz","Bore Well",W28150,2015,3.23,12.04,6.49,16.2
+MP,Ujjain,Ujjain,Ujjain,23.08,75.90194444,Narwar,"Dug Well",W28175,2015,3.3,NA,13,13.9
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,"Hasmpura Npz","Bore Well",W28187,2015,5.91,36.9,14.37,47.22
+MP,Ujjain,Badnagar,Badnagar,23.10833333,75.45277778,"Chhoti Ghadsod","Dug Well",W28194,2015,3.4,18.48,7.68,23.46
+MP,Ujjain,Badnagar,Badnagar,23.14416667,75.55416667,"Ingoria Npz","Bore Well",W28215,2015,2.96,20.4,5.51,21.46
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(shallow),"Bore Well",W28238,2015,'0.71,10.65,6.21,14.48
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(shallow),"Bore Well",W28239,2015,2.59,4.12,3.87,5.34
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2015,2.6,7.35,NA,7.79
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2014,7.39,NA,19.43,18.95
+MP,Ujjain,Ujjain,Ujjain,23.13055556,75.83527778,"Nagjhiri Npz","Bore Well",W31595,2014,1.51,2.58,NA,14.58
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2014,5.6,12.65,7.95,16.3
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2014,6.15,NA,6.39,9.6
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2014,NA,10.22,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2014,NA,2.57,3.31,16.25
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2014,6.55,4.15,6.29,7.4
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2014,1.67,4.03,10.02,21.49
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2014,1.8,2.71,6.73,6.35
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2014,4.44,5.28,11.78,9.7
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2014,1.7,3.68,4.04,6.2
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2014,1.33,3.35,3.77,4.27
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2014,1.2,2.88,4.94,5.53
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2014,1.85,4.25,3.42,8.9
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2014,3.85,3.07,3.61,12
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2014,4.1,3.63,5.19,14.15
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2014,3.4,9.45,12.58,8.9
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2014,3.55,NA,8.68,12.54
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2014,3.44,7.34,10.92,17.21
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2014,10.65,7.58,9.36,7.3
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2014,3.82,18.12,25.44,20.01
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2014,6.4,8.17,7.32,7.1
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2014,NA,2.94,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2014,1.1,6.58,9.15,10.8
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2014,2.18,3.99,4.77,6.28
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2014,5.3,7.32,9.45,8.8
+MP,Ujjain,Ujjain,Ujjain,23.20361111,75.64777778,"Ambodia Npz","Bore Well",W28282,2014,1.63,5.02,6.61,6.06
+MP,Ujjain,Ujjain,Ujjain,23.22166667,75.95138889,"Vijayganj Mandi","Dug Well",W28301,2014,8.25,9.12,7.95,16.2
+MP,Ujjain,Tarana,Tarana,23.23305556,76.01833333,Kaiytha,"Dug Well",W28306,2014,6.7,6.22,8.4,8.6
+MP,Ujjain,Tarana,Tarana,23.23361111,76.01805556,"Kaitha Npz","Bore Well",W28307,2014,10.03,8.78,9.7,9.64
+MP,Ujjain,Ujjain,Ujjain,23.25444444,75.81555556,"Dabla Rehwari","Dug Well",W28322,2014,1.4,2.84,14.1,6.7
+MP,Ujjain,Ujjain,Ujjain,23.25638889,75.71111111,"Chakrawada Grid","Dug Well",W28323,2014,7.35,NA,15.26,13.6
+MP,Ujjain,Tarana,Tarana,23.26666667,76.06166667,"Sumra Kheda","Dug Well",W28331,2014,7.95,10.8,14.42,14.55
+MP,Ujjain,Ghatiya,Ghatiya,23.28611111,75.65194444,Ruie,"Dug Well",W28350,2014,8.65,NA,13.46,14.8
+MP,Ujjain,Khacharod,Khacharod,23.33527778,75.55444444,"Unhel Npz","Bore Well",W28388,2014,3.19,6.18,26.85,14.05
+MP,Ujjain,Tarana,Tarana,23.34083333,76.03888889,"Tarana Npz","Bore Well",W28391,2014,3.62,6.72,8.45,12.53
+MP,Ujjain,Ghatiya,Ghatiya,23.34472222,75.84916667,Nazarpur,"Dug Well",W28393,2014,3.8,6.5,7.85,7.3
+MP,Ujjain,Ghatiya,Ghatiya,23.38027778,75.86194444,"Nimanwasa Npz","Bore Well",W28422,2014,7.12,11.18,15.16,16.18
+MP,Ujjain,Tarana,Tarana,23.39861111,76.01333333,"Khakri Sultan","Dug Well",W28435,2014,2.35,4.32,4.21,6.1
+MP,Ujjain,Khacharod,Khacharod,23.42611111,75.2825,"Khachrod Npz","Bore Well",W28465,2014,3.86,11.24,11.98,11.16
+MP,Ujjain,Mahidpur,Mahidpur,23.43916667,75.87611111,Ghosla,"Dug Well",W28472,2014,3.2,3.3,4.11,4.4
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi(deep),"Bore Well",W28475,2014,6.23,5.1,5.25,7.22
+MP,Ujjain,Khacharod,Khacharod,23.44777778,75.41027778,"Nagda Npz","Bore Well",W28476,2014,1.19,5.05,4.65,4.86
+MP,Ujjain,Mahidpur,Mahidpur,23.49111111,75.66666667,"Mahidpur Town Npz","Bore Well",W28505,2014,1.22,4.02,4.59,7.16
+MP,Ujjain,Tarana,Tarana,23.50416667,76.155,"Makdon Npz","Bore Well",W28509,2014,'0.6,3.56,4.9,5.34
+MP,Ujjain,Tarana,Tarana,23.54888889,75.9025,"Pat Npz","Bore Well",W28538,2014,'0.33,2.09,2.95,5.31
+MP,Ujjain,Mahidpur,Mahidpur,23.55666667,75.51611111,"Gogapur Npz","Bore Well",W28542,2014,1.89,4.99,5.33,5.96
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth piplai(deep)","Bore Well",W28149,2014,2.81,8.31,7.79,10.11
+MP,Ujjain,Badnagar,Badnagar,23.04472222,75.37888889,"Badnagar Npz","Bore Well",W28150,2014,4.84,7.81,9.7,9.98
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,"Hasmpura Npz","Bore Well",W28187,2014,10.72,11.5,NA,23.88
+MP,Ujjain,Badnagar,Badnagar,23.10833333,75.45277778,"Chhoti Ghadsod","Dug Well",W28194,2014,NA,9.13,18.25,17.7
+MP,Ujjain,Badnagar,Badnagar,23.14416667,75.55416667,"Ingoria Npz","Bore Well",W28215,2014,9.14,8.72,18.12,18.96
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(shallow),"Bore Well",W28238,2014,'0.48,4.25,6.42,13.46
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(shallow),"Bore Well",W28239,2014,1.76,3.72,4.27,5.7
+MP,Ujjain,Ujjain,Ujjain,23.18583333,75.78222222,"Ujjain Nagar Palika","Dug Well",W28260,2014,5.6,2.82,8.05,6.1
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2014,3.25,7.55,7.62,7.7
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2013,'0.65,12.23,3.49,32.03
+MP,Ujjain,Ujjain,Ujjain,23.18583333,75.78222222,"Ujjain Nagar Palika","Dug Well",W28260,2013,NA,NA,4.8,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2013,1.15,6.55,10.9,15.8
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2013,3.45,10.4,4.75,9.3
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2013,NA,12.08,NA,12.7
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2013,NA,2.87,NA,14.42
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2013,2.2,6.52,3.2,9.1
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2013,NA,7.47,2.23,14.25
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2013,'0.4,5.13,1.7,6.55
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2013,2.15,7.86,3.4,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2013,'0.4,4.76,1.05,10.6
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2013,NA,6.15,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2013,'0.08,NA,2.07,6.35
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2013,'0.6,3.55,2.35,5.8
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2013,'0.3,5.49,2.15,12.3
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2013,1.3,3.65,3.1,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2013,'0.3,3.75,1.2,14.15
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2013,1.9,13.6,7.3,12.5
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2013,1.1,8.85,2.55,NA
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2013,25.25,NA,7.18,54.5
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2013,1.8,NA,5.3,11.22
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2013,2.88,24.52,9.31,43.04
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2013,1.1,6.91,2.7,10.325
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2013,'0.35,8,NA,11.9
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2013,'0.8,9.4,2.55,10.1
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2013,'0.75,4.34,3.35,5.57
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2013,'0.85,6.86,3.2,8.2
+MP,Ujjain,Ujjain,Ujjain,23.20361111,75.64777778,"Ambodia Npz","Bore Well",W28282,2013,'0.03,5.96,2.53,6
+MP,Ujjain,Tarana,Tarana,23.23305556,76.01833333,Kaiytha,"Dug Well",W28306,2013,NA,NA,5.9,NA
+MP,Ujjain,Tarana,Tarana,23.23361111,76.01805556,"Kaitha Npz","Bore Well",W28307,2013,NA,NA,NA,10.84
+MP,Ujjain,Tarana,Tarana,23.26666667,76.06166667,"Sumra Kheda","Dug Well",W28331,2013,NA,NA,6.6,NA
+MP,Ujjain,Khacharod,Khacharod,23.33527778,75.55444444,"Unhel Npz","Bore Well",W28388,2013,1.91,10.53,5.25,27.83
+MP,Ujjain,Tarana,Tarana,23.34083333,76.03888889,"Tarana Npz","Bore Well",W28391,2013,'0.24,NA,1.88,13.3
+MP,Ujjain,Ghatiya,Ghatiya,23.38027778,75.86194444,"Nimanwasa Npz","Bore Well",W28422,2013,'0.01,NA,3.5,17.71
+MP,Ujjain,Khacharod,Khacharod,23.42611111,75.2825,"Khachrod Npz","Bore Well",W28465,2013,'0.13,12.6,8.11,11
+MP,Ujjain,Mahidpur,Mahidpur,23.43916667,75.87611111,Ghosla,"Dug Well",W28472,2013,NA,NA,5.1,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi(deep),"Bore Well",W28475,2013,3.72,4.71,3.7,5.95
+MP,Ujjain,Khacharod,Khacharod,23.44777778,75.41027778,"Nagda Npz","Bore Well",W28476,2013,NA,4.82,3.73,4.97
+MP,Ujjain,Mahidpur,Mahidpur,23.49111111,75.66666667,"Mahidpur Town Npz","Bore Well",W28505,2013,'0.23,NA,2.18,7.85
+MP,Ujjain,Tarana,Tarana,23.50416667,76.155,"Makdon Npz","Bore Well",W28509,2013,NA,NA,2.22,5.28
+MP,Ujjain,Tarana,Tarana,23.54888889,75.9025,"Pat Npz","Bore Well",W28538,2013,NA,NA,2.04,6.07
+MP,Ujjain,Mahidpur,Mahidpur,23.55666667,75.51611111,"Gogapur Npz","Bore Well",W28542,2013,'0.76,NA,3.63,11.55
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth piplai(deep)","Bore Well",W28149,2013,NA,NA,8.13,NA
+MP,Ujjain,Badnagar,Badnagar,23.04472222,75.37888889,"Badnagar Npz","Bore Well",W28150,2013,3.74,16.58,7.72,25.36
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,"Hasmpura Npz","Bore Well",W28187,2013,7.87,14.3,8.97,36.35
+MP,Ujjain,Badnagar,Badnagar,23.14416667,75.55416667,"Ingoria Npz","Bore Well",W28215,2013,'0.26,NA,2.98,31.8
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(shallow),"Bore Well",W28238,2013,'0.1,8.22,1.52,14.4
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(shallow),"Bore Well",W28239,2013,'0.57,4.14,3.14,5.67
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2013,1.7,6.775,5.3,7.6
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2012,NA,9.96,4.88,NA
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(shallow),"Bore Well",W28239,2012,NA,NA,3.37,NA
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2012,NA,7.5,6.42,11.5
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2012,NA,13.26,6.52,17.8
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2012,NA,8.19,5.4,11.3
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2012,NA,12.98,4.92,14.2
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2012,NA,NA,1.64,16.25
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2012,NA,3.34,3.35,9.2
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2012,NA,9.27,NA,22.93
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2012,NA,3.35,'0.8,8.4
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2012,NA,6.93,3,11.4
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2012,NA,3.25,1.1,5.2
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2012,NA,3.55,2.8,4.51
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2012,NA,3.4,1.95,7.7
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2012,NA,3.97,2.15,12.9
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2012,NA,6.6,2.57,12
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2012,NA,3.55,3.17,15.7
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2012,NA,10.3,4.64,11.2
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2012,NA,8.18,1.87,12.54
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2012,NA,10,11.32,NA
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2012,NA,9.12,5.94,12
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2012,NA,18.59,11.02,43.66
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2012,NA,6.61,3.05,7.4
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2012,NA,10.7,5.34,11.15
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2012,NA,6.65,5.75,10.4
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2012,NA,3.82,3.62,5.79
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2012,NA,11.36,3.25,7.9
+MP,Ujjain,Tarana,Tarana,23.23361111,76.01805556,"Kaitha Npz","Bore Well",W28307,2012,NA,NA,7.3,NA
+MP,Ujjain,Khacharod,Khacharod,23.33527778,75.55444444,"Unhel Npz","Bore Well",W28388,2012,NA,NA,4.85,NA
+MP,Ujjain,Tarana,Tarana,23.34083333,76.03888889,"Tarana Npz","Bore Well",W28391,2012,NA,NA,2.05,NA
+MP,Ujjain,Ghatiya,Ghatiya,23.38027778,75.86194444,"Nimanwasa Npz","Bore Well",W28422,2012,NA,NA,3.61,NA
+MP,Ujjain,Khacharod,Khacharod,23.42611111,75.2825,"Khachrod Npz","Bore Well",W28465,2012,NA,NA,7.8,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi(deep),"Bore Well",W28475,2012,NA,NA,3.62,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49111111,75.66666667,"Mahidpur Town Npz","Bore Well",W28505,2012,NA,NA,1.75,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.55666667,75.51611111,"Gogapur Npz","Bore Well",W28542,2012,NA,NA,4.15,NA
+MP,Ujjain,Badnagar,Badnagar,23.04472222,75.37888889,"Badnagar Npz","Bore Well",W28150,2012,NA,NA,9.41,NA
+MP,Ujjain,Badnagar,Badnagar,23.14416667,75.55416667,"Ingoria Npz","Bore Well",W28215,2012,NA,NA,6.82,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(shallow),"Bore Well",W28238,2012,NA,NA,1.62,NA
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2012,NA,20.11,10.48,21.51
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2011,NA,14.21,3.93,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2011,1.1,10.95,3.7,13.13
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2011,'0.7,7.8,6.4,7.97
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2011,3,16.45,6.5,NA
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2011,12,10.1,8.65,11.45
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2011,2,15.5,3.8,12.75
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2011,1.12,NA,NA,15.37
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2011,1,5.75,3.5,9.1
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2011,2.85,26.45,'0.75,31.05
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2011,'0.81,NA,NA,7.31
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2011,NA,NA,'0.95,9.15
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2011,2.5,11.95,NA,12.4
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2011,2.5,4.52,1.5,10.6
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2011,NA,NA,6.04,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2011,NA,4.05,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2011,1.4,4.8,2.1,8.02
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2011,1.8,9.4,2.1,14.9
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2011,1.65,4.7,2.75,11.15
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2011,NA,4.5,2.45,6.8
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2011,2,10,5.3,10.6
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2011,1.05,12.54,2.5,11.59
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2011,24,50.5,3.2,53.7
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2011,3.52,9.12,5.72,11.22
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2011,NA,21.54,12.04,42.54
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2011,1.2,7.25,3.9,8.3
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2011,'0.9,NA,1.8,9
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2011,'0.6,8.5,5.2,11
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2011,NA,NA,3.97,NA
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2011,NA,NA,11.73,21.73
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2010,NA,19.13,NA,49.33
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2010,9.27,12.6,11.2,13.6
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2010,6.18,7.7,7.3,11.19
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2010,14.2,15.6,14.8,18.08
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2010,11.86,10.25,9.4,11.52
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2010,NA,14.5,11.3,12.6
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2010,NA,NA,2.7,NA
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2010,8.67,6.1,4.9,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2010,NA,23.15,NA,32.45
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2010,NA,9.11,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2010,6.98,8.1,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2010,11.96,15.3,11.9,12.9
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2010,4.04,2.6,4,6.12
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2010,NA,7.78,NA,12.14
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2010,NA,4.28,NA,3.53
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2010,4.41,4.2,3.2,6.8
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2010,NA,7.8,3.5,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2010,4.59,4.15,3.75,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2010,4.74,6.15,4.65,12.55
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2010,8.14,10.85,8.6,10.9
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2010,NA,9.45,11.59,NA
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2010,NA,12.85,NA,49.6
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2010,8.89,8.82,9.52,NA
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2010,6.92,7.4,7.5,NA
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2010,'0.95,4.5,2.3,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2010,3.22,2.3,4.65,11.44
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2010,NA,NA,NA,6.11
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2010,NA,20.53,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2009,NA,NA,16.54,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2009,5.18,12.82,7.61,14.3
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2009,7.2,9.93,7.4,11.2
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2009,9.45,16.15,5.28,19.2
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2009,11.8,10.22,10.44,13.5
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2009,9.45,11.4,10.2,14.5
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2009,11.92,15.37,NA,15.37
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2009,7.55,11.8,5.02,12
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,2009,NA,NA,NA,11.15
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2009,NA,26.45,9.96,NA
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2009,NA,9.84,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2009,8.55,8.59,7.95,10.75
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2009,11.15,12,11.12,15.5
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2009,2.65,4.35,1.48,10.6
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2009,NA,8.84,7.26,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2009,NA,4.65,3.32,4.55
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2009,3.2,6.24,2.82,8.8
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2009,3.4,12.5,3.56,13
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2009,4.75,5.95,3.59,11.15
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2009,4.25,10.17,5.16,11.65
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2009,7.65,10.92,7.12,14.5
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2009,NA,11.59,8.84,11.59
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2009,NA,NA,8.78,NA
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2009,9.72,11.22,7.09,11.22
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2009,7.4,7.58,6.9,11.25
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2009,2.7,NA,NA,11.9
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2009,1.08,8.96,1.76,7.7
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2009,NA,6.47,NA,8.17
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2009,NA,20.63,17.71,NA
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2008,24.73,16.72,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2008,9.67,17.81,18.22,21.13
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2008,7.27,7.67,7.49,9.7
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2008,5.7,9.3,14.9,16.62
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,2008,NA,10.74,NA,NA
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2008,11.7,8.42,9.64,10.64
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2008,8.07,13.31,10.42,10.5
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2008,NA,15.37,15.37,15.37
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2008,7.35,3.56,7.83,8.05
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,2008,NA,3.38,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2008,16.99,17.49,24.05,28.15
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2008,6.41,NA,8.78,NA
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2008,8.15,4.15,7.78,8.95
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2008,8.62,7.02,9.62,10.9
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2008,2.5,3.91,2.21,7.98
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2008,7.91,8.44,7.49,15.12
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2008,1.37,3.54,3.67,3.9
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2008,2.6,4.12,4.51,7.4
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2008,1.5,3.8,3.9,15.52
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2008,4.25,3.95,3.63,4.55
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2008,4.75,3.42,5.46,12.44
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2008,6.8,14.5,9.21,9.44
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2008,11.59,9.95,11.59,10.75
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2008,19.4,21.78,NA,50.42
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2008,9.92,8.79,10.04,10.74
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2008,36.14,24.54,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2008,7.2,6.8,6.79,7.5
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2008,4.35,5.24,7.9,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2008,4.25,11.32,3.04,10.07
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2008,5.19,4.46,5.31,8.82
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2008,3.6,9.6,10.07,13.63
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2007,7.34,17.61,14.2,5.54
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2007,15.37,11.45,15.37,15.37
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2007,6.6,7.74,7.8,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2007,'0.85,10.72,10.4,5
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2007,2.37,5.01,3.65,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2007,1.65,10.2,2.2,11.9
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2007,'0.45,4.58,2.7,7.6
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2007,'0.92,3.62,2.3,10.9
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2007,3.65,3.76,5.15,5.1
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2007,1.55,3.57,2.45,6.81
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2007,3.4,12.41,10,NA
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2007,1.3,10.54,4.55,11.59
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2007,1.82,30.1,6.4,39.8
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2007,4.92,8.33,6.42,11.22
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2007,3.75,7.92,5,7.6
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,2007,NA,NA,NA,11.15
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2007,1.45,13.44,3.05,16.45
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2007,1.01,9.37,1.61,NA
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2007,1.2,4.78,2.15,7.05
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2007,1.4,6.37,2.1,10.81
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2007,'0.95,3.95,1.9,5.92
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2007,6.35,9.76,7.04,11.14
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2007,'0.77,3.37,2.15,NA
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2007,4.41,9.62,10.53,16.73
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2007,7.46,18.86,10.83,19.68
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2007,4.85,9.23,5.8,6.5
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2007,2.6,11.92,3.9,12.75
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2007,6.65,9.91,8.5,6.75
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2007,2.8,11.32,5.1,NA
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2007,5.1,8.46,4.55,9.1
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2006,3.2,8,2.85,10.52
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2006,'0.4,NA,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2006,'0.6,4.68,1.9,8.96
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2006,2.92,6.51,5.05,7.97
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2006,1,12.81,11.9,13.45
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2006,'0.51,6.64,2.52,10
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2006,'0.3,13.04,1.6,10.85
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2006,3.48,11.15,3.25,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2006,'0.93,11.01,2.85,12.58
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2006,1.9,8.72,8.72,NA
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2006,'0.85,10.45,4.15,10.45
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2006,'0.94,NA,5.3,NA
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2006,'0.75,11.22,4.92,NA
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2006,8.34,NA,10.72,33.04
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,2006,NA,9.79,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2006,NA,23.74,1.61,30.75
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2006,NA,9.89,5.91,8.31
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2006,1.47,8.8,1.45,9.8
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2006,3.3,10.81,4.23,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2006,'0.65,6.97,1.82,6.9
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2006,8.94,12.6,8.38,17.94
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2006,'0.17,5.07,1.77,4.47
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2006,1.53,37.43,4.13,NA
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2006,4.7,21.38,9.33,21.83
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2006,NA,8.9,6.7,9.7
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2006,1.97,15.48,5.92,17
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2006,5.17,13.5,5.18,13.5
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2006,'0.13,11.4,3.75,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2006,4.82,15.37,8.52,15.37
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2006,2.9,7.35,4.76,9.65
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2005,6.37,7.12,6.4,11.25
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2005,6.1,4.85,4.15,7.92
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2005,1.69,8.8,6.55,7.78
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2005,5.62,5.5,NA,10.44
+MP,Ujjain,Mahidpur,Mahidpur,23.60277778,75.75888889,Baijnath,"Dug Well",W20510,2005,2.98,NA,8.25,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2005,4.21,4.98,4.95,9.25
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2005,2.22,8.98,4,14.6
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2005,5.48,9.3,11.15,11.15
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2005,5.62,2.05,6.75,14.15
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2005,8.3,11,11,11
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2005,6.77,10.45,6.15,10.45
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2005,7.68,20.8,8.85,NA
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2005,9.87,10.42,11.22,11.22
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2005,34.04,18.3,30.94,NA
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,2005,8.95,8.95,8.95,8.95
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2005,22.73,7.35,NA,21.41
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2005,2.21,NA,NA,9.89
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2005,7.48,7.36,8.37,9.33
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2005,10.81,10.81,10.81,10.81
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2005,3.11,3.2,6.3,7.57
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2005,11.42,10.84,NA,17.77
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2005,1.94,4.55,3.85,5.5
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2005,64.33,16.83,24.08,28.66
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2005,18.76,17.41,24.53,28.16
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2005,6.91,NA,7.05,9.7
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2005,6.85,11.3,16.7,16.2
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,2005,NA,NA,NA,10.37
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2005,11.92,9.91,12.4,12.44
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2005,11.4,11.4,11.4,11.4
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2005,11.52,11.73,6.92,12.57
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2005,11.9,11.14,8.22,11.9
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2004,4.03,6.8,3.7,11.25
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2004,3.1,5.65,3.65,6.55
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2004,2.52,5,2.4,7.85
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2004,2.8,5.17,4.78,6.47
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2004,'0.2,3.62,4.55,7.76
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2004,'0.62,9.4,2.68,17.25
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2004,3.95,10.87,4.5,11.15
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2004,5.75,7.7,2,8.05
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2004,1.6,8.92,3.94,11
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2004,'0.25,9.35,3.93,10.45
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2004,9.2,13.7,34.16,NA
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2004,4.87,11.22,7.02,11.22
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2004,10.64,16.8,11.3,20.44
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,2004,2.44,7.05,1.45,8.95
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2004,3.1,3.97,2.12,19.25
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2004,3.1,8.93,3.22,7.95
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2004,6.89,10.81,8.75,10.81
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2004,2,6.15,4.65,10.6
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2004,9.74,14.49,9.69,18.24
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2004,'0.05,4.55,2.61,5.75
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2004,NA,12.03,NA,22.73
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2004,7.38,16.23,13.33,27.53
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2004,'0.34,9.25,6.37,9.7
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2004,3,16.4,9.1,16
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,2004,1.55,7.85,8.2,12
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2004,2.61,10.1,9.1,10.1
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2004,2.2,7.6,3.6,11.4
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2004,4.27,10.94,9.6,15.37
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2004,10.85,11.5,7.98,11.9
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2003,6.65,8.04,3.9,NA
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2003,7.45,9.7,4.8,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2003,7.4,5.48,5.3,11.45
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2003,4.77,6.47,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2003,9.2,7.25,7.4,13.6
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2003,6.5,NA,5.9,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2003,7.27,8.6,6.31,NA
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2003,10.5,NA,8.12,NA
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2003,8.97,NA,9.3,NA
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2003,8.15,NA,13,22.75
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2003,12,NA,8.87,NA
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2003,38.74,42.94,13.94,44.84
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,2003,7.45,NA,6.45,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2003,20.83,26.3,3.3,28.75
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2003,NA,NA,NA,23.41
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2003,5.15,12.1,8.15,NA
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2003,9.9,NA,9.65,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2003,3.8,5.45,5.9,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2003,12.64,9.77,7.99,13.89
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2003,3.05,4.15,4.85,9.05
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2003,7.9,6.46,5.48,9.02
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2003,20.98,NA,10.63,NA
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2003,14.88,21.33,18.35,9.6
+MP,Ujjain,Badnagar,Badnagar,23.25277778,75.295,Bhatpachlana-2,"Dug Well",W00552,2003,6.7,NA,NA,NA
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2003,6.3,8.4,7.8,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2003,12.6,16.8,9.96,17.42
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,2003,9.05,NA,7.62,NA
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2003,8.75,NA,7.62,NA
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2003,11.4,NA,6.2,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2003,14.77,12.77,9.54,17.77
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2003,7.18,NA,9.16,NA
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2002,13.3,13.6,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2002,11.12,11.22,12.1,18.02
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2002,9.27,20.23,6.02,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2002,6.72,5.82,4.92,15.2
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2002,5.95,6.02,NA,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2002,4.85,7.39,6.27,10.65
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2002,NA,57.1,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2002,12,12,NA,12
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2002,24.84,25.61,26.7,40.64
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2002,25.05,21.85,24.06,26.45
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2002,NA,15.25,9.9,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2002,4.1,5.8,4.4,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2002,9.37,9.32,8.84,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2002,1.83,4.38,4.02,4.83
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2002,6.74,6.3,7.4,15.7
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2002,NA,23.26,20.87,21.73
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2002,7.8,8.5,7.88,9.2
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2002,11.56,11.3,16.64,17.42
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2002,1.4,7.1,4.7,11.2
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2001,8.61,NA,14.1,NA
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2001,NA,11.4,13,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2001,1.08,4.83,4.46,5.46
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2001,13.63,NA,13.64,13.65
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2001,1.05,8.04,3.64,12.65
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2001,5.4,NA,6.12,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2001,3.35,NA,4.84,NA
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,2001,NA,NA,10,NA
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2001,4.05,NA,8.67,NA
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2001,3.52,NA,34.47,55.28
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2001,12,12,12,12
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2001,22.98,NA,26.56,50.67
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,2001,11.35,NA,12,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2001,16.39,21.45,18.12,23.13
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2001,NA,10.06,NA,9.96
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2001,9.15,NA,5,NA
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2001,NA,NA,11.31,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2001,3.35,NA,5.18,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2001,7.53,8.89,8.2,13.46
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2001,1.23,3.9,3.49,5.15
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2001,5.92,8.75,5.8,10.6
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2001,24.37,NA,25.83,28.25
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2001,18.86,NA,19.73,20.84
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2001,6.27,NA,7.8,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2001,6.38,12.33,9.65,15.4
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,2001,NA,NA,11,NA
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2001,10.63,NA,11,NA
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2001,10.9,NA,12.4,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2001,11.42,12.94,13.22,13.06
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2001,12.55,NA,12.55,NA
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,2000,2.9,4.01,7.05,4.25
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,2000,6.7,5.46,7.88,8.13
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,2000,1.48,2.54,3.95,5.93
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,2000,NA,3.97,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,2000,1.46,4.65,4.13,12.29
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,2000,NA,6.21,NA,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,2000,3.45,4.13,8.33,NA
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,2000,NA,7.73,NA,NA
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,2000,NA,7.3,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,2000,9.22,12,11.17,12
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,2000,NA,11.54,NA,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,2000,13.83,8.37,19.9,20.27
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,2000,7.14,NA,10.05,10.25
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,2000,NA,7.88,NA,NA
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,2000,8.96,5.65,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,2000,6.6,5.18,6.75,6.82
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,2000,12.59,18.26,8.3,15.09
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,2000,1.35,5.89,3.7,3.9
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,2000,6.5,18.12,7.56,10.93
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,2000,NA,11.13,NA,30.58
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,2000,14.93,12.69,11.07,13.11
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,2000,7.6,7.66,8,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,2000,5.57,9.28,10.15,13.56
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,2000,9.98,9.74,10.48,NA
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,2000,8.76,NA,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,2000,10.46,10.78,12.37,14.35
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,2000,11.47,NA,11.92,NA
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,1999,1.49,3.63,2.7,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,1999,'0.45,3.8,3.43,8.24
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,1999,6.05,5.49,5.58,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,1999,NA,3.25,3.26,4.05
+MP,Ujjain,Ujjain,Ujjain,23.06861111,75.91388889,Narwar(deep),"Bore Well",W01287,1999,13.05,18.2,11.01,17.59
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,1999,11.74,5.08,16.66,13.58
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,1999,10.54,NA,8.04,15.12
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,1999,'0.88,1.2,4.16,5.4
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,1999,12,5.46,12,12
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,1999,4.55,5.35,5.8,NA
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,1999,1.21,11.29,5.4,19.21
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,1999,4.38,4.61,2.39,NA
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,1999,NA,5.08,4.16,NA
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,1999,2.07,10.19,5.44,10.03
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,1999,2.19,NA,2.89,5.19
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,1999,7.6,4.05,3.92,12.6
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,1999,2.35,12.9,2.72,44.21
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,1999,NA,5.85,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,1999,'0.84,3.25,3.31,6.78
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,1999,5.12,5.2,4.82,7.1
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,1999,4.35,3.39,3.46,NA
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,1999,10.06,9.77,7.88,12.32
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,1999,10.06,10.55,4.97,NA
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,1999,NA,5.18,NA,4.4
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,1999,2.68,NA,2.6,NA
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,1999,7.7,6.1,NA,NA
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,1999,6.01,4.43,1.59,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,1999,NA,5.82,NA,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,1999,3.1,1.48,4.62,10.58
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,1999,1.4,4.98,2.8,8.84
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,1998,1,1.14,1.84,10.6
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,1998,3.01,2,2.3,9.2
+MP,Ujjain,Mahidpur,Mahidpur,23.49027778,75.66527778,"Mahidpur town(deep)","Bore Well",W01277,1998,NA,NA,1.7,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.56055556,75.50666667,"Mahidpur road(deep)","Bore Well",W01276,1998,NA,NA,8.35,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,1998,'0.6,1.3,1.05,3.07
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,1998,4.2,4.35,3.09,8.6
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,1998,2.95,2.65,2,7.35
+MP,Ujjain,Khacharod,Khacharod,23.43972222,75.28888889,Khachrod,"Bore Well",W01272,1998,NA,NA,4.05,NA
+MP,Ujjain,Badnagar,Badnagar,23.16388889,75.26388889,Runija(deep),"Bore Well",W01270,1998,3,NA,1.07,NA
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,1998,2.48,5.1,1.59,NA
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,1998,4.11,3.55,3.4,6.05
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,1998,9.25,9.35,7.27,12.52
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,1998,2.35,2.4,'0.34,9.2
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,1998,1.09,6.9,4.48,9.15
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,1998,4.95,7.61,4.05,10.8
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,1998,5.34,6.01,2.86,8.05
+MP,Ujjain,Badnagar,Badnagar,23.25166667,75.29277778,Bhatpachlana-1,"Bore Well",W00551,1998,NA,NA,3.35,NA
+MP,Ujjain,Badnagar,Badnagar,23.095,75.42555556,Badnagar(deep),"Bore Well",W00549,1998,NA,NA,4.55,NA
+MP,Ujjain,Ujjain,Ujjain,23.16444444,75.81166667,Ujjain(deep),"Bore Well",W01292,1998,NA,NA,5.02,NA
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,1998,1.13,1.72,'0.85,6.95
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,1998,10.67,8.25,7.26,11.9
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,1998,4.81,4.7,2.95,7.15
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,1998,2.97,3.55,2.32,8.47
+MP,Ujjain,Tarana,Tarana,23.34555556,76.03972222,Tarana(deep),"Bore Well",W01285,1998,NA,NA,3.12,NA
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,1998,'0.15,3.38,'0.2,9.35
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,1998,3.72,2.7,1.86,8.7
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,1998,3.61,2,2.19,5.89
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,1998,3.35,3.88,3.22,5.25
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,1998,3.79,5.8,4.22,NA
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,1997,5.55,5.27,4.68,8
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,1997,'0.88,3.96,2.6,9.26
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,1997,2.8,NA,4.65,11.1
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,1997,4.35,6.35,3.95,10.45
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,1997,4.62,8.07,3.22,11.22
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,1997,5.05,4.81,3.77,7.61
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,1997,8.2,10.77,8.9,12.15
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,1997,1,2.38,1.75,6.96
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,1997,1.4,7.07,6.35,8.56
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,1997,1,9.53,3.4,13.8
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,1997,4.81,4.5,6.17,11
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,1997,8.9,9.42,7.22,10.92
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,1997,4,6.39,'0.65,11.4
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,1997,4.67,10.45,8.07,11.62
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,1997,5.1,5.16,4.05,7.62
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,1997,4.21,4.32,5.43,10
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,1997,1.25,3.83,2.4,9.4
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,1997,5.77,5.01,4.2,10.8
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,1997,1.3,5.94,'0.85,6.26
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,1997,3.2,5.02,3.65,11.21
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,1997,'0.4,4.08,1.79,10.3
+MP,Ujjain,Mahidpur,Mahidpur,23.44722222,75.8375,Raghvi,"Dug Well",W01280,1996,5.39,5.25,4.33,8.8
+MP,Ujjain,Mahidpur,Mahidpur,23.48944444,75.66527778,Mahidpurtown,"Dug Well",W01279,1996,'0.53,3.8,1.7,13.28
+MP,Ujjain,Tarana,Tarana,23.47305556,75.97138889,Rupakhedi,"Dug Well",W01283,1996,NA,NA,5.2,9.32
+MP,Ujjain,Tarana,Tarana,23.34055556,76.04027778,Tarana,"Dug Well",W01284,1996,2.39,8.13,2.75,11.45
+MP,Ujjain,Ujjain,Ujjain,23.18194444,75.73277778,Mohanpura,"Dug Well",W01286,1996,2.8,7.32,3.76,11.22
+MP,Ujjain,Ujjain,Ujjain,23.04055556,75.94805556,Palkhanda,"Dug Well",W01288,1996,5.27,6.05,2.81,8.15
+MP,Ujjain,Ujjain,Ujjain,23.04361111,75.82833333,"Panth Piplai","Dug Well",W01289,1996,8.56,10.8,7.7,12.3
+MP,Ujjain,Ujjain,Ujjain,23.19722222,75.86666667,Patpala,"Dug Well",W01291,1996,'0.86,3.1,1.44,7.38
+MP,Ujjain,Ghatiya,Ghatiya,23.31055556,75.79222222,Bachhukhera,"Dug Well",W00553,1996,1.13,7.4,6.03,12.7
+MP,Ujjain,Mahidpur,Mahidpur,23.5325,75.57083333,"Delchi buzurg","Dug Well",W00554,1996,1.34,12.3,6.66,15.4
+MP,Ujjain,Mahidpur,Mahidpur,23.60416667,75.75833333,Jharda,"Dug Well",W00555,1996,NA,4.9,5.52,11.6
+MP,Ujjain,Tarana,Tarana,23.49277778,75.895,Dablahardu,"Dug Well",W00556,1996,8.46,9.9,5.6,10.5
+MP,Ujjain,Ujjain,Ujjain,23.15666667,75.68361111,Chandukhedi,"Dug Well",W00557,1996,3.11,7.2,1.24,13
+MP,Ujjain,Ujjain,Ujjain,23.09861111,75.73,Hasampura,"Dug Well",W00558,1996,5.1,11.44,8.68,13.14
+MP,Ujjain,Badnagar,Badnagar,23.15722222,75.62388889,Kharotia,"Dug Well",W01268,1996,4.58,8.1,4.31,8.32
+MP,Ujjain,Badnagar,Badnagar,23.27083333,75.50555556,Palsoda,"Dug Well",W01269,1996,3.42,NA,2.21,9.95
+MP,Ujjain,Khacharod,Khacharod,23.42555556,75.28333333,Khachrod1,"Dug Well",W01273,1996,'0.78,2.65,1.43,9.45
+MP,Ujjain,Khacharod,Khacharod,23.33555556,75.54944444,Unhel,"Dug Well",W01274,1996,3.21,5.63,3.16,10.8
+MP,Ujjain,Mahidpur,Mahidpur,23.46166667,75.79611111,"Khera khajuria","Dug Well",W01275,1996,1.26,2.93,1.77,5.53
+MP,Ujjain,Mahidpur,Mahidpur,23.56666667,75.50833333,Mahidpurroad,"Dug Well",W01278,1996,'0.6,5.86,2.75,11.62
+MP,Ujjain,Tarana,Tarana,23.50222222,76.07222222,Makdon,"Dug Well",W01282,1996,'0.87,5.15,2.77,9.45

@@ -1,0 +1,1769 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2018,NA,6.15,6.5,NA
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,"Purandarpur PZ","Tube Well",W31681,2018,20.15,NA,NA,19.2
+WB,Murshidabad,Jiaganj,Jiaganj,24.16666667,88.275,"Lalbagh Pz-1","Tube Well",W22110,2018,NA,NA,NA,5.52
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.26916667,88.57166667,Paranpur1,"Dug Well",W22135,2018,NA,NA,NA,3.97
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2018,NA,NA,NA,5.06
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2018,21.4,21.48,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2018,12.26,14.45,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2018,1.8,2.26,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2018,4.99,5.02,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2018,6.5,17.48,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2018,3.01,4.03,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.02722222,Gangedda,"Dug Well",W10735,2018,1.68,3,NA,NA
+WB,Murshidabad,Hariharpara,Noada,23.96666667,88.33333333,Choa-1,"Dug Well",W10754,2018,NA,2.55,NA,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2018,4.32,7.3,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2018,1.87,4.02,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2018,'0.95,2.66,NA,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2018,2.68,2.93,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2018,4.05,3.2,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2018,3.59,3.49,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2018,4.75,4.5,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.87666667,Jorpukuria,"Dug Well",W10750,2018,2.46,4.21,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,2018,3.4,4.55,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2018,NA,1.7,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2018,NA,3.05,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2018,NA,22.87,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,Purandarpur,"Tube Well",W10770,2018,NA,NA,19.6,18.95
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2018,NA,NA,2.35,NA
+WB,Murshidabad,Baharampur,Baharampur,24.13694444,88.39055556,Daulatabad-1,"Dug Well",W10722,2018,NA,NA,3.66,4.75
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2018,4.57,NA,NA,5.39
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2018,2.58,NA,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2018,16.53,NA,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2018,6.62,NA,NA,7.43
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2018,6.24,NA,NA,7.52
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.875,88.0875,"Bharatpur Pz-2","Tube Well",W22109,2018,NA,NA,NA,21.1
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2018,NA,NA,NA,21.49
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2018,NA,NA,NA,5.62
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2018,NA,15.31,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2018,NA,23.01,NA,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2018,NA,5.4,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2018,NA,4.92,4.6,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.24416667,88.28416667,Jiaganj-2,"Dug Well",W18462,2018,NA,NA,6.5,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2018,NA,NA,5.77,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2018,4.96,NA,NA,5.91
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2018,4.53,NA,NA,NA
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2018,2.75,NA,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2018,3.52,NA,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2018,3.83,NA,NA,NA
+WB,Murshidabad,JALANGI,Jalangi,24.19166667,88.7,Sagarpara,"Dug Well",W33223,2018,3.89,NA,NA,4.01
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92111111,88.2775,Swarupnagar1,"Dug Well",W28759,2018,NA,NA,NA,3.38
+WB,Murshidabad,Kandi,Kandi,23.9775,88.05694444,Manoharpur1,"Tube Well",W28779,2018,NA,NA,NA,20.11
+WB,Murshidabad,Kandi,Kandi,24.02055556,88.09416667,Ranagram,"Tube Well",W28801,2018,20.59,22.11,NA,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.24833333,88.27444444,Raichandpur,"Dug Well",W28906,2018,4.47,3.69,NA,NA
+WB,Murshidabad,BAHARAMPUR,Baharampur,24.13805556,88.42055556,Daulatabad,"Dug Well",W33222,2018,5.98,5.02,NA,NA
+WB,Murshidabad,RAGHUNATHGANJ-II,Raghunathganj-ii,24.48527778,88.07027778,Raghunathganj,"Dug Well",W33225,2018,1.16,'0.83,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.02472222,88.14027778,Gobarhati,"Bore Well",W28805,2018,NA,25.59,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.03472222,88.11111111,Gokarna1,"Tube Well",W28812,2018,NA,22.33,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.08416667,88.31611111,Nagrajol,"Bore Well",W28841,2018,NA,3.79,NA,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2018,NA,5.56,6.25,NA
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,"Purandarpur PZ","Tube Well",W31681,2017,19.25,12.23,19.35,22.41
+WB,Murshidabad,Kandi,Kandi,23.92222222,88.05611111,Gangedda2,"Dug Well",W28761,2017,NA,NA,NA,3.5
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26638889,88.47,Hurshi,"Dug Well",W28916,2017,NA,NA,NA,6.21
+WB,Murshidabad,Kandi,Kandi,23.9775,88.05694444,Manoharpur1,"Tube Well",W28779,2017,17.02,NA,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.02861111,87.98111111,Khargram1,"Tube Well",W28808,2017,23.52,NA,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26611111,88.4625,Beikibagan1,"Tube Well",W28915,2017,3.5,NA,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2017,'0.84,2.15,1.1,3.36
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2017,24.41,24.07,24.84,25.07
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2017,1.84,3.33,1.95,2.58
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2017,4.73,4.87,4.22,4.47
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2017,4.22,5.42,4.04,5.02
+WB,Murshidabad,Hariharpara,Noada,23.96666667,88.33333333,Choa-1,"Dug Well",W10754,2017,NA,NA,4.22,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2017,NA,12.05,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2017,NA,2.12,1.36,3.57
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2017,NA,5.95,3.25,5.25
+WB,Murshidabad,Jiaganj,Jiaganj,24.16666667,88.275,"Lalbagh Pz-1","Tube Well",W22110,2017,2.15,NA,4.05,5.85
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2017,4.12,NA,3.05,7
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2017,5.2,6.45,4.3,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2017,3.92,5.1,3.61,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2017,'0.35,3.65,1.07,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2017,NA,5.6,1.4,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2017,NA,5.9,4.3,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2017,NA,4.43,3.75,NA
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.87666667,Jorpukuria,"Dug Well",W10750,2017,NA,3.95,3.05,NA
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,2017,NA,4.65,3.27,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2017,2.74,NA,4.09,NA
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2017,NA,NA,3.03,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2017,NA,NA,4.53,NA
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2017,NA,NA,NA,5.23
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2017,3.6,5.85,NA,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2017,4.93,6.86,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2017,9.72,11.65,14.26,12.87
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2017,4.6,6.6,4.9,5.62
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2017,3.75,7.01,6.85,5.44
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2017,3.63,4.98,1.83,3.33
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2017,NA,23.9,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2017,NA,12.4,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2017,NA,24.12,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2017,NA,23.71,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2017,NA,4.6,NA,NA
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2017,NA,8.1,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2017,4.01,NA,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2017,NA,4.52,3.06,4.66
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2017,NA,6.2,5.4,4.24
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.875,88.0875,"Bharatpur Pz-2","Tube Well",W22109,2017,18.71,NA,17.52,23.85
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2017,4.66,4.54,3.65,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2017,2.15,4.15,2.75,NA
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2017,12.33,14.48,12.22,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.02722222,Gangedda,"Dug Well",W10735,2017,1.76,3.2,2.74,NA
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2017,NA,18.12,21.95,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2017,NA,19.17,14.74,NA
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,Purandarpur,"Tube Well",W10770,2017,18.24,NA,16.67,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2017,6.35,NA,6.04,NA
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2017,4.92,NA,6.35,NA
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2017,NA,3.9,NA,5.05
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2017,NA,NA,NA,23.85
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.45833333,88.05,Raghunathganj-1,"Dug Well",W22112,2017,NA,NA,NA,5.91
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2017,3.67,11.03,NA,NA
+WB,Murshidabad,Beldanga-Ii,Beldanga-ii,23.875,88.25,Rejinagar,"Dug Well",W33478,2017,2.13,3.65,2.7,5.2
+WB,Murshidabad,BAHARAMPUR,Baharampur,24.13805556,88.42055556,Daulatabad,"Dug Well",W33222,2017,2.09,5.58,3.8,5.52
+WB,Murshidabad,JALANGI,Jalangi,24.19166667,88.7,Sagarpara,"Dug Well",W33223,2017,4.6,4.99,3.05,5.56
+WB,Murshidabad,Jiaganj,Jiaganj,24.24833333,88.27444444,Raichandpur,"Dug Well",W28906,2017,NA,5.15,3.08,6.73
+WB,Murshidabad,RAGHUNATHGANJ-II,Raghunathganj-ii,24.48527778,88.07027778,Raghunathganj,"Dug Well",W33225,2017,NA,2.71,'0.86,5.91
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90805556,88.23638889,"Mirzapur Jain Colony2","Dug Well",W28749,2017,NA,NA,12.04,14.8
+WB,Murshidabad,Kandi,Kandi,24.02055556,88.09416667,Ranagram,"Tube Well",W28801,2017,19.85,NA,3.41,NA
+WB,Murshidabad,Kandi,Kandi,24.03472222,88.11111111,Gokarna1,"Tube Well",W28812,2017,22.57,NA,21.53,NA
+WB,Murshidabad,Baharampur,Baharampur,24.08416667,88.31611111,Nagrajol,"Bore Well",W28841,2017,3.55,NA,2.68,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75138889,88.07444444,"Dakshin Khandagram","Tube Well",W28660,2017,NA,NA,21,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92111111,88.2775,Swarupnagar1,"Dug Well",W28759,2017,NA,NA,2.07,NA
+WB,Murshidabad,Kandi,Kandi,24.02472222,88.14027778,Gobarhati,"Bore Well",W28805,2017,NA,NA,32.54,NA
+WB,Murshidabad,Nabagram,Nabagram,24.13666667,88.2025,Mahadipur,"Tube Well",W28859,2016,NA,11.15,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.14361111,88.37555556,Daulatabad2,"Tube Well",W28861,2016,NA,3.21,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.14861111,88.4325,Daulatabad2,"Dug Well",W28865,2016,NA,3.56,NA,4.36
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur2,"Dug Well",W28874,2016,NA,4.52,NA,5.82
+WB,Murshidabad,Baharampur,Baharampur,24.17166667,88.39361111,Chhaigari,"Bore Well",W28876,2016,NA,3.5,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.19166667,88.15416667,Polsonda,"Bore Well",W28879,2016,NA,22.45,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.19277778,88.07694444,"Megha - Sihara","Bore Well",W28880,2016,NA,19.3,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.19833333,88.01361111,Panchgram2,"Tube Well",W28884,2016,NA,21.86,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.20027778,88.06666667,"Gurah - Pashla","Bore Well",W28887,2016,NA,19.32,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.20388889,88.54333333,Godhanpara(sitanagar),"Tube Well",W28890,2016,NA,3.21,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21861111,88.11166667,Nagrajol,"Bore Well",W28895,2016,NA,23.97,NA,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.24833333,88.27444444,Raichandpur,"Dug Well",W28906,2016,3.6,3,NA,4.15
+WB,Murshidabad,Nabagram,Nabagram,24.24916667,88.06861111,Daffarpur,"Bore Well",W28907,2016,NA,11.75,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25722222,88.59694444,Kuptala1,"Dug Well",W28909,2016,NA,3.33,NA,5.18
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26611111,88.4625,Beikibagan1,"Tube Well",W28915,2016,NA,3.6,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26638889,88.47,Hurshi,"Dug Well",W28916,2016,NA,5,5.93,5.85
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.28805556,88.37305556,Saidpur1,"Dug Well",W28923,2016,NA,3.8,NA,6.78
+WB,Murshidabad,Sagardighi,Sagardighi,24.34388889,88.10805556,Manigram1,"Dug Well",W28936,2016,NA,NA,NA,23.85
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42777778,88.00861111,Barala1,"Tube Well",W28953,2016,NA,16.45,NA,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42805556,88.00861111,Bartala1,"Bore Well",W28954,2016,NA,14.55,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.4375,88.19361111,"Panditpur Pz","Tube Well",W28958,2016,NA,5.05,NA,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.45055556,88.13805556,Tehghari-rampura,"Tube Well",W28962,2016,NA,9.71,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75055556,88.13944444,Kagram,"Bore Well",W28659,2016,NA,15.65,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75138889,88.07444444,"Dakshin Khandagram","Tube Well",W28660,2016,NA,23.36,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76444444,88.04861111,Simulia1,"Bore Well",W28668,2016,NA,22.46,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28677,2016,NA,22.7,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28678,2016,NA,21.44,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.82083333,88.1525,Tenya,"Bore Well",W28705,2016,NA,9.55,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82305556,88.20777778,Manikyahar,"Bore Well",W28706,2016,NA,7.1,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.83611111,88.01888889,Geetgram,"Bore Well",W28711,2016,NA,18.5,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85444444,88.30138889,Kashipur1,"Bore Well",W28718,2016,NA,3.05,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.86194444,88.19638889,Nagrajol,"Tube Well",W28721,2016,NA,7.35,NA,NA
+WB,Murshidabad,Noada,Noada,23.88138889,88.45944444,Chandipur2,"Dug Well",W28730,2016,NA,7.6,NA,7.8
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.88472222,88.13722222,"Kanchan Garia","Tube Well",W28736,2016,NA,11.41,NA,NA
+WB,Murshidabad,Barwan,Barwan,23.88722222,87.91472222,Narayanpur2,"Bore Well",W28740,2016,NA,15.85,NA,NA
+WB,Murshidabad,Barwan,Barwan,23.89138889,87.99194444,Panchthupi,"Bore Well",W28743,2016,NA,12.85,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90805556,88.23638889,"Mirzapur Jain Colony2","Dug Well",W28749,2016,NA,13.19,NA,13.34
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92111111,88.2775,Swarupnagar1,"Dug Well",W28759,2016,NA,1.62,2.57,3.52
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92138889,88.2775,Begunbari1,"Dug Well",W28760,2016,NA,1.75,NA,2.6
+WB,Murshidabad,Kandi,Kandi,23.92222222,88.05611111,Gangedda2,"Dug Well",W28761,2016,NA,3.1,NA,3.83
+WB,Murshidabad,Kandi,Kandi,23.9325,88.05083333,Rasorah,"Bore Well",W28764,2016,NA,13.95,NA,NA
+WB,Murshidabad,Noada,Noada,23.93777778,88.45777778,Swaruppur,"Bore Well",W28765,2016,NA,6.03,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.9775,88.05694444,Manoharpur1,"Tube Well",W28779,2016,NA,15.71,NA,NA
+WB,Murshidabad,Khargram,Khargram,23.98222222,88,Mahisar,"Bore Well",W28783,2016,NA,20.35,NA,NA
+WB,Murshidabad,Barwan,Barwan,23.99,87.91166667,Manigram1,"Bore Well",W28786,2016,NA,13.26,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.99361111,88.24138889,Bhabta,"Bore Well",W28787,2016,NA,3.98,NA,NA
+WB,Murshidabad,Khargram,Khargram,23.99666667,88.07333333,"Purandarpur Pz2","Tube Well",W28790,2016,NA,17.4,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.00833333,88.51805556,Dubapara,"Bore Well",W28794,2016,NA,5.05,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,"Purandarpur PZ","Tube Well",W31681,2016,9.85,NA,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.165,88.10333333,Hizrole,"Bore Well",W31694,2016,NA,29.9,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.94,Salar2,"Dug Well",W29017,2016,NA,5.57,NA,6.23
+WB,Murshidabad,BAHARAMPUR,Baharampur,24.13805556,88.42055556,Daulatabad,"Dug Well",W33222,2016,2.02,NA,4.1,NA
+WB,Murshidabad,JALANGI,Jalangi,24.19166667,88.7,Sagarpara,"Dug Well",W33223,2016,3.25,NA,NA,NA
+WB,Murshidabad,RAGHUNATHGANJ-II,Raghunathganj-ii,24.48527778,88.07027778,Raghunathganj,"Dug Well",W33225,2016,'0.8,NA,NA,NA
+WB,Murshidabad,Beldanga-Ii,Beldanga-ii,23.875,88.25,Rejinagar,"Dug Well",W33478,2016,NA,NA,3.55,NA
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2016,8.5,NA,NA,NA
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2016,24.72,NA,NA,23.49
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2016,'0.7,NA,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2016,2.55,NA,3.25,NA
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2016,6.85,NA,NA,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2016,3.77,NA,NA,4.8
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.02722222,Gangedda,"Dug Well",W10735,2016,1.72,NA,2.15,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2016,10.55,NA,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2016,NA,NA,NA,4.6
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2016,NA,NA,NA,4.31
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2016,NA,NA,3.45,4.76
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2016,5.7,NA,NA,6.6
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2016,10,NA,NA,11.42
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.87666667,Jorpukuria,"Dug Well",W10750,2016,2.55,NA,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,2016,2.9,NA,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2016,5.17,NA,NA,6.02
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2016,NA,NA,5.35,6.3
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2016,NA,NA,15.5,21.63
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2016,11.27,NA,11.5,NA
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2016,2.11,NA,2.43,2.22
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2016,NA,NA,NA,4.72
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2016,9.7,NA,16.2,NA
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2016,21.55,NA,NA,26.32
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2016,3.4,NA,3.9,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2016,4.1,NA,4.6,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2016,3.4,NA,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2016,4.65,NA,3.6,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2016,3.13,NA,3.4,4.67
+WB,Murshidabad,Sagardighi,Sagardighi,24.31888889,88.11972222,"Morgram A","Dug Well",W10804,2016,16.4,NA,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2016,'0.5,NA,NA,4.12
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2016,NA,NA,NA,5.58
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2016,2,NA,NA,4.65
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2016,4.58,NA,NA,7.19
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2016,2.99,NA,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2016,5.75,NA,NA,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2016,4.55,NA,5.3,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2016,15.72,NA,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2016,2.55,NA,2.7,NA
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2016,NA,NA,NA,5.18
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2016,3.75,NA,4.1,NA
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2016,16.8,NA,20.78,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2016,3.97,NA,NA,5.25
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2016,7.18,NA,NA,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2016,NA,NA,NA,23.9
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2016,4.8,NA,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2016,3.8,NA,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.875,88.0875,"Bharatpur Pz-2","Tube Well",W22109,2016,NA,NA,NA,26.87
+WB,Murshidabad,Jiaganj,Jiaganj,24.16666667,88.275,"Lalbagh Pz-1","Tube Well",W22110,2016,NA,NA,NA,5.85
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.45833333,88.05,Raghunathganj-1,"Dug Well",W22112,2016,NA,NA,NA,2.51
+WB,Murshidabad,Kandi,Kandi,24.02055556,88.09416667,Ranagram,"Tube Well",W28801,2016,NA,17.6,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.02472222,88.14027778,Gobarhati,"Bore Well",W28805,2016,NA,22.37,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.02611111,88.17805556,Madhupur2,"Bore Well",W28806,2016,NA,13.8,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.02861111,87.98111111,Khargram1,"Tube Well",W28808,2016,NA,19.62,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.03472222,88.11111111,Gokarna1,"Tube Well",W28812,2016,NA,18.25,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.05388889,88.63055556,Rajapur1,"Dug Well",W28824,2016,NA,3.65,NA,4.52
+WB,Murshidabad,Kandi,Kandi,24.06472222,88.14805556,Nabagram1,"Tube Well",W28829,2016,NA,23.55,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,24.065,88.48638889,Swaruppur,"Bore Well",W28831,2016,NA,9.7,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.08,88.08972222,Jhilli,"Bore Well",W28838,2016,NA,19.1,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.08416667,88.31611111,Nagrajol,"Bore Well",W28841,2016,NA,3.2,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.08638889,88.17027778,Jibanti,"Tube Well",W28842,2016,NA,11.3,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.09694444,88.23833333,"Andhar Manik","Bore Well",W28845,2016,NA,7.99,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.12444444,87.92138889,Purapara,"Bore Well",W28852,2016,NA,16.36,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.125,88.52222222,Pustampur,"Bore Well",W28853,2016,NA,3.3,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.12805556,88.00583333,Sherpur1,"Tube Well",W28854,2016,NA,18.9,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.20027778,88.06666667,"Gurah - Pashla","Bore Well",W28887,2015,NA,NA,19.1,19.28
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.20388889,88.54333333,Godhanpara(sitanagar),"Tube Well",W28890,2015,1.75,4.48,2.82,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21861111,88.11166667,Nagrajol,"Bore Well",W28895,2015,22.1,26.85,27.3,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.24833333,88.27444444,Raichandpur,"Dug Well",W28906,2015,1.18,3.78,2.2,4.15
+WB,Murshidabad,Nabagram,Nabagram,24.24916667,88.06861111,Daffarpur,"Bore Well",W28907,2015,6.5,12.2,6.9,9.1
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25722222,88.59694444,Kuptala1,"Dug Well",W28909,2015,3.06,4.53,4.13,5.68
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26611111,88.4625,Beikibagan1,"Tube Well",W28915,2015,2.45,4.6,3.3,5.2
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26638889,88.47,Hurshi,"Dug Well",W28916,2015,2.35,5.43,3.6,6.61
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.28805556,88.37305556,Saidpur1,"Dug Well",W28923,2015,1.08,3.1,1.96,6.7
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-i,24.29333333,88.29527778,Kalokhali,"Tube Well",W28924,2015,2.97,10.17,NA,4.42
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30694444,88.38611111,Nasipur2,"Tube Well",W28929,2015,2.67,4.35,NA,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.34388889,88.10805556,Manigram1,"Dug Well",W28936,2015,15.7,18.25,NA,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42777778,88.00861111,Barala1,"Tube Well",W28953,2015,13.8,17.05,15.35,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42805556,88.00861111,Bartala1,"Bore Well",W28954,2015,15.05,17.2,15.8,NA
+WB,Murshidabad,Lalgola,Lalgola,24.43194444,88.215,Pustampur,"Bore Well",W28956,2015,NA,6.78,NA,7.85
+WB,Murshidabad,Lalgola,Lalgola,24.4375,88.19361111,"Panditpur Pz","Tube Well",W28958,2015,3.9,10.55,7.6,9.14
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.45055556,88.13805556,Tehghari-rampura,"Tube Well",W28962,2015,7.53,8.98,9.03,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75055556,88.13944444,Kagram,"Bore Well",W28659,2015,NA,NA,NA,16.87
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75138889,88.07444444,"Dakshin Khandagram","Tube Well",W28660,2015,20.4,22.6,22.75,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76444444,88.04861111,Simulia1,"Bore Well",W28668,2015,17.75,20.8,20.35,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.775,88.10277778,Salar2,"Bore Well",W28675,2015,NA,NA,NA,20.6
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28677,2015,17.65,20.25,21.55,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28678,2015,17.75,20.8,21.25,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.82083333,88.1525,Tenya,"Bore Well",W28705,2015,17,19.8,19.5,11.3
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82305556,88.20777778,Manikyahar,"Bore Well",W28706,2015,5.95,8,6.1,6.2
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.83611111,88.01888889,Geetgram,"Bore Well",W28711,2015,17.3,19.6,19.8,17.45
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85111111,88.25277778,Rejinagar3,"Tube Well",W28714,2015,NA,NA,NA,2.65
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85444444,88.30138889,Kashipur1,"Bore Well",W28718,2015,1.2,3.27,2.1,4.5
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.86194444,88.19638889,Nagrajol,"Tube Well",W28721,2015,4.55,7.35,8.05,6.9
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.87361111,88.18444444,"Bazar Sou","Tube Well",W28726,2015,2.9,4.3,NA,6.3
+WB,Murshidabad,Noada,Noada,23.88138889,88.45944444,Chandipur2,"Dug Well",W28730,2015,3.63,7.08,6.9,7.9
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.88472222,88.13722222,"Kanchan Garia","Tube Well",W28736,2015,9.02,13.2,11.05,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.885,88.17861111,Lohadaha1,"Tube Well",W28737,2015,7.2,8.7,NA,7.5
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.88555556,88.17694444,Lohadaha,"Bore Well",W28739,2015,17.25,19.5,19.75,NA
+WB,Murshidabad,Barwan,Barwan,23.88722222,87.91472222,Narayanpur2,"Bore Well",W28740,2015,12.5,16.15,14.8,NA
+WB,Murshidabad,Barwan,Barwan,23.89138889,87.99194444,Panchthupi,"Bore Well",W28743,2015,17.18,20,19.55,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.90333333,88.14222222,Maslai,"Bore Well",W28747,2015,16.5,19.15,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90805556,88.23638889,"Mirzapur Jain Colony2","Dug Well",W28749,2015,13.49,14.72,13.24,15.35
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.91916667,88.19166667,Kamnagar,"Bore Well",W28757,2015,NA,NA,NA,4.5
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92111111,88.2775,Swarupnagar1,"Dug Well",W28759,2015,1.2,1.67,1.37,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92138889,88.2775,Begunbari1,"Dug Well",W28760,2015,1.09,1.4,1.5,3.6
+WB,Murshidabad,Kandi,Kandi,23.92222222,88.05611111,Gangedda2,"Dug Well",W28761,2015,1.3,2.88,2.9,2.4
+WB,Murshidabad,Kandi,Kandi,23.9325,88.05083333,Rasorah,"Bore Well",W28764,2015,NA,19.2,17.7,19.05
+WB,Murshidabad,Noada,Noada,23.93777778,88.45777778,Swaruppur,"Bore Well",W28765,2015,2.55,6.1,4.9,6.62
+WB,Murshidabad,Noada,Noada,23.94222222,88.45777778,Amtala2,"Tube Well",W28767,2015,4.41,5.63,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.94916667,88.04472222,Basabari,"Tube Well",W28771,2015,3.53,5.61,NA,6.63
+WB,Murshidabad,Kandi,Kandi,23.9775,88.05694444,Manoharpur1,"Tube Well",W28779,2015,16.08,18.28,7.18,17.75
+WB,Murshidabad,Khargram,Khargram,23.98222222,88,Mahisar,"Bore Well",W28783,2015,NA,21.45,21.3,20.27
+WB,Murshidabad,Barwan,Barwan,23.99,87.91166667,Manigram1,"Bore Well",W28786,2015,15.7,18.93,18.8,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.99361111,88.24138889,Bhabta,"Bore Well",W28787,2015,1.89,4.2,3.2,5.1
+WB,Murshidabad,Khargram,Khargram,23.99666667,88.07333333,"Purandarpur Pz2","Tube Well",W28790,2015,15.15,19.65,16.25,18.14
+WB,Murshidabad,Domkal,Domkal,24.00833333,88.51805556,Dubapara,"Bore Well",W28794,2015,2,5.8,4.3,NA
+WB,Murshidabad,Khargram,Khargram,24.04166667,87.95,Khargram,"Dug Well",W31685,2015,NA,NA,23,NA
+WB,Murshidabad,Suti-i,Suti-i,24.52111111,87.9825,Haroa1,"Bore Well",W28985,2015,NA,NA,NA,9.6
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.94,Salar2,"Dug Well",W29017,2015,1.43,3.25,2.25,NA
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2015,2.05,5.35,NA,6.95
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2015,NA,NA,NA,19.9
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2015,22.04,24.94,23.94,23.44
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2015,1.47,3.37,NA,4.15
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2015,1.92,NA,2.3,5.98
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2015,2.27,4.55,2.6,5.15
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2015,2.56,4.66,2.61,5.43
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2015,2.36,4.01,3.26,4.6
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2015,3.05,4.45,3.9,6.48
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2015,4.93,8.5,5.55,7.82
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2015,NA,NA,NA,6.53
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2015,2.15,3.55,NA,2.15
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2015,4.47,7.42,4.22,6.27
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2015,'0.88,5.12,1.6,4.95
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2015,21.09,20.73,20.83,21.09
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2015,1.13,2.68,2.53,2.85
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2015,2.08,4.26,2.15,5.13
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2015,23.25,26.15,26.45,23.25
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2015,2.8,5.1,NA,5.5
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2015,3.06,4.23,2.78,6.28
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2015,NA,NA,NA,5.31
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2015,2.8,5.88,3.72,8.42
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2015,'0.84,2.95,1.82,3.82
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2015,1.8,3.75,2.35,1.8
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2015,1.38,1.6,2.15,1.38
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2015,1.61,3.27,2.55,1.61
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2015,2.33,4.6,3.16,8.28
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2015,4.03,6,5.4,7.1
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2015,1.96,4.51,NA,4.14
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2015,12.47,16.17,NA,17.17
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2015,1.26,3.56,22.75,5.4
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2015,2.95,4.1,NA,5.02
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2015,2.11,4.93,2.85,5.6
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2015,23.05,23.65,22.35,23.39
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2015,NA,NA,NA,7.34
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.875,88.0875,"Bharatpur Pz-2","Tube Well",W22109,2015,13.2,16,16.2,18.4
+WB,Murshidabad,Jiaganj,Jiaganj,24.16666667,88.275,"Lalbagh Pz-1","Tube Well",W22110,2015,2.75,5.3,3.39,5.72
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.45833333,88.05,Raghunathganj-1,"Dug Well",W22112,2015,1.16,1.06,1.8,'0.81
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.19166667,88.50416667,"Goas Pz1","Tube Well",W22113,2015,3.2,5.65,NA,3.2
+WB,Murshidabad,Kandi,Kandi,24.02055556,88.09416667,Ranagram,"Tube Well",W28801,2015,8.3,10.85,11.95,NA
+WB,Murshidabad,Kandi,Kandi,24.02472222,88.14027778,Gobarhati,"Bore Well",W28805,2015,20.32,22.82,21.62,NA
+WB,Murshidabad,Baharampur,Baharampur,24.02611111,88.17805556,Madhupur2,"Bore Well",W28806,2015,15,17.5,14.6,15.7
+WB,Murshidabad,Khargram,Khargram,24.02861111,87.98111111,Khargram1,"Tube Well",W28808,2015,16.95,20.2,20,NA
+WB,Murshidabad,Kandi,Kandi,24.03472222,88.11111111,Gokarna1,"Tube Well",W28812,2015,16.05,17.85,18.25,15.21
+WB,Murshidabad,Domkal,Domkal,24.05388889,88.63055556,Rajapur1,"Dug Well",W28824,2015,2.82,3.5,2.95,4.6
+WB,Murshidabad,Kandi,Kandi,24.06472222,88.14805556,Nabagram1,"Tube Well",W28829,2015,20.45,23,23,NA
+WB,Murshidabad,Hariharpara,Hariharpara,24.065,88.48638889,Swaruppur,"Bore Well",W28831,2015,5.1,5,6.8,8.5
+WB,Murshidabad,Kandi,Kandi,24.07444444,88.09194444,Sialmara,"Tube Well",W28837,2015,5.15,10.65,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.08,88.08972222,Jhilli,"Bore Well",W28838,2015,17.65,20.2,20.6,2.6
+WB,Murshidabad,Baharampur,Baharampur,24.08416667,88.31611111,Nagrajol,"Bore Well",W28841,2015,1.4,4.05,2.23,NA
+WB,Murshidabad,Kandi,Kandi,24.08638889,88.17027778,Jibanti,"Tube Well",W28842,2015,10.57,12.95,9.65,12.8
+WB,Murshidabad,Baharampur,Baharampur,24.09694444,88.23833333,"Andhar Manik","Bore Well",W28845,2015,4.65,NA,6.9,NA
+WB,Murshidabad,Khargram,Khargram,24.12444444,87.92138889,Purapara,"Bore Well",W28852,2015,13.5,16.1,15.95,15.25
+WB,Murshidabad,Domkal,Domkal,24.125,88.52222222,Pustampur,"Bore Well",W28853,2015,3.38,5.5,4.2,6.3
+WB,Murshidabad,Khargram,Khargram,24.12805556,88.00583333,Sherpur1,"Tube Well",W28854,2015,16.8,19.75,18.5,NA
+WB,Murshidabad,Nabagram,Nabagram,24.13666667,88.2025,Mahadipur,"Tube Well",W28859,2015,11.3,14.1,7.8,10.4
+WB,Murshidabad,Jiaganj,Jiaganj,24.1375,88.3375,Amatpur,"Bore Well",W28860,2015,NA,NA,NA,22.6
+WB,Murshidabad,Baharampur,Baharampur,24.14361111,88.37555556,Daulatabad2,"Tube Well",W28861,2015,1.65,4.95,2.75,NA
+WB,Murshidabad,Baharampur,Baharampur,24.14861111,88.4325,Daulatabad2,"Dug Well",W28865,2015,'0.46,4.36,2.26,5.31
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur2,"Dug Well",W28874,2015,NA,NA,NA,5.07
+WB,Murshidabad,Baharampur,Baharampur,24.17166667,88.39361111,Chhaigari,"Bore Well",W28876,2015,2.32,5.2,3.4,5.96
+WB,Murshidabad,Nabagram,Nabagram,24.19166667,88.15416667,Polsonda,"Bore Well",W28879,2015,18.05,22.3,22,23.1
+WB,Murshidabad,Nabagram,Nabagram,24.19277778,88.07694444,"Megha - Sihara","Bore Well",W28880,2015,16.75,18.9,19.2,19.75
+WB,Murshidabad,Nabagram,Nabagram,24.19833333,88.01361111,Panchgram2,"Tube Well",W28884,2015,19.96,22.61,21.41,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21861111,88.11166667,Nagrajol,"Bore Well",W28895,2014,27.2,26.3,25.4,26.9
+WB,Murshidabad,Jiaganj,Jiaganj,24.24833333,88.27444444,Raichandpur,"Dug Well",W28906,2014,3.57,NA,2.95,4.17
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25722222,88.59694444,Kuptala1,"Dug Well",W28909,2014,4.36,3.85,NA,6.46
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26611111,88.4625,Beikibagan1,"Tube Well",W28915,2014,3.62,NA,2.2,4.72
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26638889,88.47,Hurshi,"Dug Well",W28916,2014,5.34,4.81,NA,6.58
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.28805556,88.37305556,Saidpur1,"Dug Well",W28923,2014,7.39,4.83,4.03,7.88
+WB,Murshidabad,Sagardighi,Sagardighi,24.34388889,88.10805556,Manigram1,"Dug Well",W28936,2014,17.7,NA,NA,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42777778,88.00861111,Barala1,"Tube Well",W28953,2014,16.59,NA,NA,16.79
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42805556,88.00861111,Bartala1,"Bore Well",W28954,2014,15.46,NA,15.1,15.72
+WB,Murshidabad,Lalgola,Lalgola,24.43194444,88.215,Pustampur,"Bore Well",W28956,2014,NA,7.2,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.4375,88.19361111,"Panditpur Pz","Tube Well",W28958,2014,3.07,8.1,6.15,9.55
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.45055556,88.13805556,Tehghari-rampura,"Tube Well",W28962,2014,8.19,NA,NA,8.55
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75138889,88.07444444,"Dakshin Khandagram","Tube Well",W28660,2014,20.28,NA,18.3,20.88
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76444444,88.04861111,Simulia1,"Bore Well",W28668,2014,20.65,NA,20.2,20.64
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.775,88.10277778,Salar2,"Bore Well",W28675,2014,NA,6.24,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28677,2014,19.33,7.61,NA,7.63
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28678,2014,NA,10.61,18.85,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.82083333,88.1525,Tenya,"Bore Well",W28705,2014,9.4,NA,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82305556,88.20777778,Manikyahar,"Bore Well",W28706,2014,5.27,NA,5.35,7.65
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.83611111,88.01888889,Geetgram,"Bore Well",W28711,2014,NA,NA,NA,17.21
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85111111,88.25277778,Rejinagar3,"Tube Well",W28714,2014,NA,4.63,NA,5.79
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85444444,88.30138889,Kashipur1,"Bore Well",W28718,2014,2.8,NA,1.5,6.44
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.86194444,88.19638889,Nagrajol,"Tube Well",W28721,2014,4.67,NA,6.6,10.09
+WB,Murshidabad,Noada,Noada,23.88138889,88.45944444,Chandipur2,"Dug Well",W28730,2014,5.91,7.1,6.55,8.26
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.88472222,88.13722222,"Kanchan Garia","Tube Well",W28736,2014,6.2,NA,12.95,13.33
+WB,Murshidabad,Barwan,Barwan,23.88722222,87.91472222,Narayanpur2,"Bore Well",W28740,2014,15.04,NA,15.15,17.17
+WB,Murshidabad,Barwan,Barwan,23.89138889,87.99194444,Panchthupi,"Bore Well",W28743,2014,16.57,14.49,16.2,17.17
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.90333333,88.14222222,Maslai,"Bore Well",W28747,2014,15.78,NA,15.6,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90805556,88.23638889,"Mirzapur Jain Colony2","Dug Well",W28749,2014,14.57,13.46,14.38,13.22
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.91916667,88.19166667,Kamnagar,"Bore Well",W28757,2014,NA,4.1,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92111111,88.2775,Swarupnagar1,"Dug Well",W28759,2014,'0.74,NA,NA,3.23
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92138889,88.2775,Begunbari1,"Dug Well",W28760,2014,'0.6,1.5,1.15,NA
+WB,Murshidabad,Kandi,Kandi,23.92222222,88.05611111,Gangedda2,"Dug Well",W28761,2014,1.46,2.15,2.6,2.71
+WB,Murshidabad,Kandi,Kandi,23.9325,88.05083333,Rasorah,"Bore Well",W28764,2014,18.91,19.6,16.2,20.6
+WB,Murshidabad,Noada,Noada,23.93777778,88.45777778,Swaruppur,"Bore Well",W28765,2014,3.76,5.75,4.53,6.71
+WB,Murshidabad,Kandi,Kandi,23.9775,88.05694444,Manoharpur1,"Tube Well",W28779,2014,17.15,26.81,18.58,17.48
+WB,Murshidabad,Khargram,Khargram,23.98222222,88,Mahisar,"Bore Well",W28783,2014,21.89,19.1,19.8,19.89
+WB,Murshidabad,Barwan,Barwan,23.99,87.91166667,Manigram1,"Bore Well",W28786,2014,18.53,17.23,NA,18.1
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.99361111,88.24138889,Bhabta,"Bore Well",W28787,2014,3.6,3.85,2.8,5.37
+WB,Murshidabad,Khargram,Khargram,23.99666667,88.07333333,"Purandarpur Pz2","Tube Well",W28790,2014,16.06,NA,18.7,11.43
+WB,Murshidabad,Domkal,Domkal,24.00833333,88.51805556,Dubapara,"Bore Well",W28794,2014,4.47,NA,4.3,6.44
+WB,Murshidabad,Barwan,Barwan,23.96583333,87.87722222,Talwan1,"Bore Well",W31677,2014,NA,13.88,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.08694444,88.18,"Udaichand pur","Bore Well",W31689,2014,NA,11.1,NA,13.11
+WB,Murshidabad,Khargram,Khargram,24.12777778,87.9675,Bautipara,"Bore Well",W31690,2014,NA,15.62,NA,NA
+WB,Murshidabad,Suti-i,Suti-i,24.52111111,87.9825,Haroa1,"Bore Well",W28985,2014,NA,5.93,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.94,Salar2,"Dug Well",W29017,2014,2.98,3.76,NA,6.73
+WB,Murshidabad,Baharampur,Baharampur,24.13694444,88.39055556,Daulatabad-1,"Dug Well",W10722,2014,NA,NA,NA,6.15
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2014,5.1,4.95,NA,NA
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2014,NA,22.04,NA,24.97
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2014,1.09,3.15,NA,9.49
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2014,5.2,4.45,NA,6.48
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2014,4.04,4.2,NA,5.47
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2014,3.82,4.84,NA,4.97
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2014,4.19,4.19,NA,5.01
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2014,3.9,4.73,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2014,2.23,3.85,NA,8.76
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2014,3.21,6.3,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2014,NA,4.04,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2014,2.95,5.63,NA,6.58
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2014,2.14,6.52,NA,5.11
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2014,5.45,4.52,NA,10.48
+WB,Murshidabad,Jalangi,Jalangi,24.12861111,88.70083333,Jalangi1,"Dug Well",W10760,2014,NA,NA,NA,6.06
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2014,4.22,4.8,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2014,20.41,19.33,NA,20.61
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2014,1.75,3.08,NA,3.02
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2014,NA,3.78,NA,5.31
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2014,26.25,24.75,NA,25.65
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2014,3.59,4.25,NA,4.89
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2014,'0.6,7.35,NA,8.37
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2014,'0.7,2.32,NA,4.27
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2014,3.18,NA,NA,5.35
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2014,1.61,6,NA,4.25
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2014,2.49,2.5,NA,2.15
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2014,4.15,4.68,NA,5.73
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2014,2.84,3.74,NA,5.35
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2014,7.9,NA,NA,10.17
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2014,3.52,3.78,NA,5.01
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2014,4.45,NA,NA,6.01
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2014,6.53,4.15,NA,5.4
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2014,22.58,22.35,NA,22.73
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2014,NA,NA,NA,7.47
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.875,88.0875,"Bharatpur Pz-2","Tube Well",W22109,2014,31.03,15,NA,21.95
+WB,Murshidabad,Jiaganj,Jiaganj,24.16666667,88.275,"Lalbagh Pz-1","Tube Well",W22110,2014,4.63,4.55,NA,5.84
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.45833333,88.05,Raghunathganj-1,"Dug Well",W22112,2014,'0.82,2.5,NA,1.22
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.19166667,88.50416667,"Goas Pz1","Tube Well",W22113,2014,5.62,NA,NA,6.47
+WB,Murshidabad,Kandi,Kandi,24.02055556,88.09416667,Ranagram,"Tube Well",W28801,2014,18.46,26.33,8.15,18.2
+WB,Murshidabad,Kandi,Kandi,24.02472222,88.14027778,Gobarhati,"Bore Well",W28805,2014,25.73,NA,NA,22.75
+WB,Murshidabad,Baharampur,Baharampur,24.02611111,88.17805556,Madhupur2,"Bore Well",W28806,2014,16.95,6.51,18.1,NA
+WB,Murshidabad,Khargram,Khargram,24.02861111,87.98111111,Khargram1,"Tube Well",W28808,2014,21.54,18.2,NA,21.49
+WB,Murshidabad,Kandi,Kandi,24.03472222,88.11111111,Gokarna1,"Tube Well",W28812,2014,19.87,26.93,9.35,21.45
+WB,Murshidabad,Domkal,Domkal,24.05388889,88.63055556,Rajapur1,"Dug Well",W28824,2014,2.51,3.9,3.08,5.4
+WB,Murshidabad,Kandi,Kandi,24.06472222,88.14805556,Nabagram1,"Tube Well",W28829,2014,NA,5.61,30.6,17.25
+WB,Murshidabad,Hariharpara,Hariharpara,24.065,88.48638889,Swaruppur,"Bore Well",W28831,2014,4.53,NA,6.7,8.16
+WB,Murshidabad,Kandi,Kandi,24.08,88.08972222,Jhilli,"Bore Well",W28838,2014,24.1,17.75,21.2,20.87
+WB,Murshidabad,Baharampur,Baharampur,24.08416667,88.31611111,Nagrajol,"Bore Well",W28841,2014,NA,NA,3.28,NA
+WB,Murshidabad,Kandi,Kandi,24.08638889,88.17027778,Jibanti,"Tube Well",W28842,2014,7.64,11.31,11.76,10.3
+WB,Murshidabad,Baharampur,Baharampur,24.09694444,88.23833333,"Andhar Manik","Bore Well",W28845,2014,10.38,7.45,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.12444444,87.92138889,Purapara,"Bore Well",W28852,2014,17.47,12.65,14.6,14.71
+WB,Murshidabad,Domkal,Domkal,24.125,88.52222222,Pustampur,"Bore Well",W28853,2014,7.85,4.78,4.4,8.93
+WB,Murshidabad,Khargram,Khargram,24.12805556,88.00583333,Sherpur1,"Tube Well",W28854,2014,19.18,16.3,19.8,NA
+WB,Murshidabad,Nabagram,Nabagram,24.13666667,88.2025,Mahadipur,"Tube Well",W28859,2014,9.7,11.9,10.65,11.93
+WB,Murshidabad,Jiaganj,Jiaganj,24.1375,88.3375,Amatpur,"Bore Well",W28860,2014,NA,17.5,NA,12.84
+WB,Murshidabad,Baharampur,Baharampur,24.14361111,88.37555556,Daulatabad2,"Tube Well",W28861,2014,NA,5.11,NA,6.63
+WB,Murshidabad,Baharampur,Baharampur,24.14861111,88.4325,Daulatabad2,"Dug Well",W28865,2014,2.07,3.76,3.76,NA
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur2,"Dug Well",W28874,2014,NA,2.42,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.17166667,88.39361111,Chhaigari,"Bore Well",W28876,2014,4.55,4.71,4,6.18
+WB,Murshidabad,Nabagram,Nabagram,24.19166667,88.15416667,Polsonda,"Bore Well",W28879,2014,NA,26.1,20.7,23.65
+WB,Murshidabad,Nabagram,Nabagram,24.19277778,88.07694444,"Megha - Sihara","Bore Well",W28880,2014,19.98,NA,19.15,19.2
+WB,Murshidabad,Nabagram,Nabagram,24.19833333,88.01361111,Panchgram2,"Tube Well",W28884,2014,22.26,23,17.21,14.56
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.20388889,88.54333333,Godhanpara(sitanagar),"Tube Well",W28890,2014,3.69,NA,NA,NA
+WB,Murshidabad,Barwan,Barwan,23.89138889,87.99194444,Panchthupi,"Bore Well",W28743,2013,21.05,16.55,11.8,19.49
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.90333333,88.14222222,Maslai,"Bore Well",W28747,2013,14.03,18,16.55,16.04
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90805556,88.23638889,"Mirzapur Jain Colony2","Dug Well",W28749,2013,14.44,14.09,11.34,13.44
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.91916667,88.19166667,Kamnagar,"Bore Well",W28757,2013,1.64,4.7,3.45,5.47
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92111111,88.2775,Swarupnagar1,"Dug Well",W28759,2013,'0.83,NA,3.72,4.37
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92138889,88.2775,Begunbari1,"Dug Well",W28760,2013,'0.9,2.5,1.1,NA
+WB,Murshidabad,Kandi,Kandi,23.92222222,88.05611111,Gangedda2,"Dug Well",W28761,2013,4.42,NA,NA,2.02
+WB,Murshidabad,Kandi,Kandi,23.9325,88.05083333,Rasorah,"Bore Well",W28764,2013,18.38,4.55,3.9,NA
+WB,Murshidabad,Noada,Noada,23.93777778,88.45777778,Swaruppur,"Bore Well",W28765,2013,4.79,5.91,4.2,6.89
+WB,Murshidabad,Kandi,Kandi,23.9775,88.05694444,Manoharpur1,"Tube Well",W28779,2013,16.96,NA,3.98,19.24
+WB,Murshidabad,Khargram,Khargram,23.98222222,88,Mahisar,"Bore Well",W28783,2013,19.28,14.25,12.3,19.22
+WB,Murshidabad,Barwan,Barwan,23.99,87.91166667,Manigram1,"Bore Well",W28786,2013,17.83,7.45,6.55,18.09
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.99361111,88.24138889,Bhabta,"Bore Well",W28787,2013,3.69,4.5,2.9,5.76
+WB,Murshidabad,Khargram,Khargram,23.99666667,88.07333333,"Purandarpur Pz2","Tube Well",W28790,2013,17.77,5.7,4.7,10.82
+WB,Murshidabad,Domkal,Domkal,24.00833333,88.51805556,Dubapara,"Bore Well",W28794,2013,4.89,NA,NA,6.5
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.72861111,88.0625,Sonarundi,"Bore Well",W31659,2013,NA,7.85,6.75,16.71
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.82722222,88.07638889,Gulhatia,"Bore Well",W31665,2013,NA,NA,5.6,18.27
+WB,Murshidabad,Barwan,Barwan,23.87638889,87.91027778,Kurunnarun,"Bore Well",W31670,2013,NA,16.65,12.75,19.87
+WB,Murshidabad,Barwan,Barwan,23.96583333,87.87722222,Talwan1,"Bore Well",W31677,2013,NA,17.45,14.5,20.44
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,"Purandarpur PZ","Tube Well",W31681,2013,NA,NA,NA,10.82
+WB,Murshidabad,Khargram,Khargram,23.99638889,88.07333333,Purandarpur1,"Bore Well",W31682,2013,NA,9.25,7.2,NA
+WB,Murshidabad,Khargram,Khargram,24.08222222,87.90777778,Parulia,"Bore Well",W31688,2013,NA,6.85,6.35,17.27
+WB,Murshidabad,Kandi,Kandi,24.08694444,88.18,"Udaichand pur","Bore Well",W31689,2013,'0.47,5.5,4.5,14
+WB,Murshidabad,Khargram,Khargram,24.12777778,87.9675,Bautipara,"Bore Well",W31690,2013,15.1,6.5,5.5,17.77
+WB,Murshidabad,Baharampur,Baharampur,24.14222222,88.43027778,Daulatabad2,"Bore Well",W31692,2013,NA,NA,5.55,7.84
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.14972222,88.47027778,Islampur1,"Bore Well",W31693,2013,NA,5.95,NA,7.39
+WB,Murshidabad,Nabagram,Nabagram,24.165,88.10333333,Hizrole,"Bore Well",W31694,2013,NA,NA,8.2,NA
+WB,Murshidabad,Khargram,Khargram,24.17861111,87.96611111,Jhilli,"Bore Well",W31695,2013,NA,6.35,5.5,NA
+WB,Murshidabad,Suti-i,Suti-i,24.52111111,87.9825,Haroa1,"Bore Well",W28985,2013,NA,7.65,5.5,10.34
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.94,Salar2,"Dug Well",W29017,2013,2.59,6.3,3.65,6.78
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2013,NA,7.1,NA,8.85
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2013,20.25,21.65,12.35,21.61
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2013,4.74,NA,4.24,7.13
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2013,NA,7.05,NA,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2013,NA,NA,NA,7.04
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.875,88.0875,"Bharatpur Pz-2","Tube Well",W22109,2013,10.65,16.65,11.6,17.56
+WB,Murshidabad,Jiaganj,Jiaganj,24.16666667,88.275,"Lalbagh Pz-1","Tube Well",W22110,2013,4.17,6.75,5.6,6.15
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.45833333,88.05,Raghunathganj-1,"Dug Well",W22112,2013,'0.87,1.66,1.06,1.82
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.19166667,88.50416667,"Goas Pz1","Tube Well",W22113,2013,2.75,5.85,4.7,6.49
+WB,Murshidabad,Kandi,Kandi,24.02055556,88.09416667,Ranagram,"Tube Well",W28801,2013,17.4,NA,4.6,16.07
+WB,Murshidabad,Kandi,Kandi,24.02472222,88.14027778,Gobarhati,"Bore Well",W28805,2013,24.34,NA,4.27,23.02
+WB,Murshidabad,Baharampur,Baharampur,24.02611111,88.17805556,Madhupur2,"Bore Well",W28806,2013,15.35,NA,6.2,15.63
+WB,Murshidabad,Khargram,Khargram,24.02861111,87.98111111,Khargram1,"Tube Well",W28808,2013,19.47,12.55,5.65,20.91
+WB,Murshidabad,Kandi,Kandi,24.03472222,88.11111111,Gokarna1,"Tube Well",W28812,2013,20.77,NA,4.45,20.24
+WB,Murshidabad,Domkal,Domkal,24.05388889,88.63055556,Rajapur1,"Dug Well",W28824,2013,4.21,4.1,2.45,5.42
+WB,Murshidabad,Kandi,Kandi,24.06472222,88.14805556,Nabagram1,"Tube Well",W28829,2013,16.6,NA,4.05,13.64
+WB,Murshidabad,Hariharpara,Hariharpara,24.065,88.48638889,Swaruppur,"Bore Well",W28831,2013,NA,8.4,6.2,8.62
+WB,Murshidabad,Kandi,Kandi,24.08,88.08972222,Jhilli,"Bore Well",W28838,2013,20.02,NA,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.08416667,88.31611111,Nagrajol,"Bore Well",W28841,2013,NA,NA,NA,5.5
+WB,Murshidabad,Kandi,Kandi,24.08638889,88.17027778,Jibanti,"Tube Well",W28842,2013,1.21,4.8,4,11.6
+WB,Murshidabad,Baharampur,Baharampur,24.09694444,88.23833333,"Andhar Manik","Bore Well",W28845,2013,3.51,NA,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.12444444,87.92138889,Purapara,"Bore Well",W28852,2013,13.93,10.25,8.7,14.53
+WB,Murshidabad,Domkal,Domkal,24.125,88.52222222,Pustampur,"Bore Well",W28853,2013,8.38,6.7,4.6,7.38
+WB,Murshidabad,Khargram,Khargram,24.12805556,88.00583333,Sherpur1,"Tube Well",W28854,2013,5.85,NA,5.1,NA
+WB,Murshidabad,Nabagram,Nabagram,24.13666667,88.2025,Mahadipur,"Tube Well",W28859,2013,4.78,8.45,6.85,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.1375,88.3375,Amatpur,"Bore Well",W28860,2013,18.85,6.35,4.89,20.74
+WB,Murshidabad,Baharampur,Baharampur,24.14361111,88.37555556,Daulatabad2,"Tube Well",W28861,2013,8.46,NA,4.35,8.01
+WB,Murshidabad,Baharampur,Baharampur,24.14861111,88.4325,Daulatabad2,"Dug Well",W28865,2013,'0.24,3.41,2.76,5.32
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur2,"Dug Well",W28874,2013,4.27,5.67,4.52,5.9
+WB,Murshidabad,Baharampur,Baharampur,24.17166667,88.39361111,Chhaigari,"Bore Well",W28876,2013,5.35,7.5,4.4,6.2
+WB,Murshidabad,Nabagram,Nabagram,24.19166667,88.15416667,Polsonda,"Bore Well",W28879,2013,12.7,5.35,4.6,21.19
+WB,Murshidabad,Nabagram,Nabagram,24.19277778,88.07694444,"Megha - Sihara","Bore Well",W28880,2013,17.9,12.25,9.55,21.31
+WB,Murshidabad,Nabagram,Nabagram,24.19833333,88.01361111,Panchgram2,"Tube Well",W28884,2013,21.26,12.75,9.86,14.08
+WB,Murshidabad,Nabagram,Nabagram,24.20027778,88.06666667,"Gurah - Pashla","Bore Well",W28887,2013,18.05,17.35,14.4,18.25
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.20388889,88.54333333,Godhanpara(sitanagar),"Tube Well",W28890,2013,NA,4.55,3.1,6.47
+WB,Murshidabad,Nabagram,Nabagram,24.21861111,88.11166667,Nagrajol,"Bore Well",W28895,2013,20,NA,4.9,14.05
+WB,Murshidabad,Jiaganj,Jiaganj,24.24833333,88.27444444,Raichandpur,"Dug Well",W28906,2013,2.85,NA,5.45,4.61
+WB,Murshidabad,Nabagram,Nabagram,24.24916667,88.06861111,Daffarpur,"Bore Well",W28907,2013,NA,7.55,18.3,19.49
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25722222,88.59694444,Kuptala1,"Dug Well",W28909,2013,5.71,5.13,3.38,5.57
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26611111,88.4625,Beikibagan1,"Tube Well",W28915,2013,2.91,NA,3.5,7.13
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26638889,88.47,Hurshi,"Dug Well",W28916,2013,6.11,6.36,NA,7.04
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.28805556,88.37305556,Saidpur1,"Dug Well",W28923,2013,7.2,7.25,2.95,7.51
+WB,Murshidabad,Sagardighi,Sagardighi,24.34388889,88.10805556,Manigram1,"Dug Well",W28936,2013,15.6,NA,4.2,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42777778,88.00861111,Barala1,"Tube Well",W28953,2013,16.38,15.8,11.85,16.46
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42805556,88.00861111,Bartala1,"Bore Well",W28954,2013,14.65,10.85,NA,14.7
+WB,Murshidabad,Lalgola,Lalgola,24.43194444,88.215,Pustampur,"Bore Well",W28956,2013,3.82,7.75,4.9,8.9
+WB,Murshidabad,Lalgola,Lalgola,24.4375,88.19361111,"Panditpur Pz","Tube Well",W28958,2013,2.15,6,5.7,10.19
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.45055556,88.13805556,Tehghari-rampura,"Tube Well",W28962,2013,6.93,7.1,2.03,8.85
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75055556,88.13944444,Kagram,"Bore Well",W28659,2013,NA,6.5,5.9,17.33
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75138889,88.07444444,"Dakshin Khandagram","Tube Well",W28660,2013,20.21,NA,4.25,17.41
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76444444,88.04861111,Simulia1,"Bore Well",W28668,2013,20.26,7.55,5.7,20.34
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.775,88.10277778,Salar2,"Bore Well",W28675,2013,NA,5.5,4.5,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28677,2013,13.38,NA,5.25,17.39
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28678,2013,NA,15.6,11.9,16.84
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.82083333,88.1525,Tenya,"Bore Well",W28705,2013,8.6,NA,5.5,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82305556,88.20777778,Manikyahar,"Bore Well",W28706,2013,NA,8.35,6.5,8.26
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.83611111,88.01888889,Geetgram,"Bore Well",W28711,2013,15.85,8.45,6.5,18.74
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85111111,88.25277778,Rejinagar3,"Tube Well",W28714,2013,2.01,3.3,3.1,4.46
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85444444,88.30138889,Kashipur1,"Bore Well",W28718,2013,5.5,5.05,3.5,7.26
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.86194444,88.19638889,Nagrajol,"Tube Well",W28721,2013,5.18,NA,4.75,9.2
+WB,Murshidabad,Noada,Noada,23.88138889,88.45944444,Chandipur2,"Dug Well",W28730,2013,4.7,7.4,6.1,8.03
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.88472222,88.13722222,"Kanchan Garia","Tube Well",W28736,2013,3.1,10.8,9.6,11.82
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.88555556,88.17694444,Lohadaha,"Bore Well",W28739,2013,NA,NA,NA,16.04
+WB,Murshidabad,Barwan,Barwan,23.88722222,87.91472222,Narayanpur2,"Bore Well",W28740,2013,14.74,7.3,6.4,17.43
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2013,NA,3.41,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2013,3.2,7.3,6.1,14.89
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2013,15.3,7.05,5.95,15.94
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2013,NA,NA,4.44,23.09
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2013,NA,2.5,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2013,1.81,12.4,2.35,13.48
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2013,NA,10.67,2.87,4.97
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2013,NA,8.06,4.56,5.2
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2013,NA,16.65,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.04166667,Gangedda1,"Dug Well",W10736,2013,NA,NA,NA,2.02
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2013,NA,NA,NA,11.82
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2013,4.33,5.05,5.25,5.53
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2013,5.48,4.76,5.31,5.09
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2013,5.01,4.51,3.76,5.07
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2013,5.42,5.8,5.05,6.11
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2013,5.85,13.75,3.95,9.39
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2013,NA,5.8,4.15,NA
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2013,NA,5.03,4.13,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2013,2.61,4.61,3.38,6.9
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2013,NA,10.4,7.45,NA
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,2013,NA,6.75,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2013,6.57,5.92,4.72,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2013,3.72,6.6,2.3,5.88
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2013,22.03,12.63,10.83,19.98
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2013,NA,4.8,NA,11.6
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2013,1.62,3.23,2.48,3.13
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,Purandarpur,"Tube Well",W10770,2013,NA,9.25,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2013,NA,12.55,NA,20.91
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2013,3.63,5.03,3.68,NA
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,2013,NA,5.67,NA,5.9
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2013,NA,8.45,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2013,NA,12.75,NA,14.08
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2013,25.65,12.4,3.7,24.79
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2013,NA,7.4,NA,8.03
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2013,4.87,5,3.3,7.02
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2013,NA,14.09,NA,13.44
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2013,NA,7.13,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2013,NA,5.85,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2013,NA,4.55,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2013,NA,NA,NA,7.39
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2013,NA,5.13,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2013,NA,NA,2.23,5.54
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2013,NA,3.26,3.61,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.68333333,87.95416667,"Dhulian Pz","Tube Well",W10808,2013,NA,11.15,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2013,4.44,11.15,7.7,12.55
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2013,NA,6.3,NA,6.75
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2013,1.37,4.47,5.02,4.25
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2013,1.91,6.75,3.45,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2013,3.45,4.45,3.5,6.75
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2013,2.83,5.75,2.55,4.22
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2013,3.25,NA,3.39,NA
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2013,5,3.28,3.28,6.93
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2013,6.1,NA,4.8,10.61
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2013,3.17,7.36,3.11,5.77
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.8475,88.23583333,Resinagar,"Tube Well",W11253,2013,NA,3.3,NA,4.46
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2013,NA,18.56,11.86,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2013,NA,7.25,NA,7.51
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2013,NA,NA,NA,16.84
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2013,3.22,NA,7.52,9.74
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2013,NA,NA,NA,5.42
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2013,NA,6.01,NA,5.74
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2013,4.78,6.01,4.06,5.74
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2013,4.01,NA,2.3,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2013,5.48,4.5,3.75,5.64
+WB,Murshidabad,Khargram,Khargram,24.08222222,87.90777778,Parulia,"Bore Well",W31688,2012,NA,NA,6.45,NA
+WB,Murshidabad,Kandi,Kandi,24.08694444,88.18,"Udaichand pur","Bore Well",W31689,2012,NA,NA,4.75,NA
+WB,Murshidabad,Khargram,Khargram,24.12777778,87.9675,Bautipara,"Bore Well",W31690,2012,NA,NA,5.85,NA
+WB,Murshidabad,Baharampur,Baharampur,24.14222222,88.43027778,Daulatabad2,"Bore Well",W31692,2012,NA,NA,6.6,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.14972222,88.47027778,Islampur1,"Bore Well",W31693,2012,NA,NA,5.85,NA
+WB,Murshidabad,Khargram,Khargram,24.17861111,87.96611111,Jhilli,"Bore Well",W31695,2012,NA,NA,5.55,NA
+WB,Murshidabad,Suti-i,Suti-i,24.52111111,87.9825,Haroa1,"Bore Well",W28985,2012,NA,NA,6.85,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.94,Salar2,"Dug Well",W29017,2012,NA,NA,5.2,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2012,NA,NA,5.51,NA
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2012,NA,NA,3.85,NA
+WB,Murshidabad,Domkal,Domkal,24.12805556,88.5575,"Domkal Pz-4","Tube Well",W18461,2012,NA,NA,3.96,NA
+WB,Murshidabad,Lalgola,Lalgola,24.43805556,88.22027778,"Lalgola Pz-3","Tube Well",W18463,2012,NA,NA,4.41,NA
+WB,Murshidabad,Noada,Noada,23.9,88.4625,"Tiakata Pz","Tube Well",W22564,2012,NA,4.48,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.875,88.0875,"Bharatpur Pz-2","Tube Well",W22109,2012,NA,13,15.55,17.11
+WB,Murshidabad,Jiaganj,Jiaganj,24.16666667,88.275,"Lalbagh Pz-1","Tube Well",W22110,2012,NA,4.17,5.65,5.68
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.45833333,88.05,Raghunathganj-1,"Dug Well",W22112,2012,NA,1.33,1.11,1.34
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.26916667,88.57166667,Paranpur1,"Dug Well",W22135,2012,NA,NA,NA,5.42
+WB,Murshidabad,Khargram,Khargram,24.02861111,87.98111111,Khargram1,"Tube Well",W28808,2012,NA,NA,11.9,NA
+WB,Murshidabad,Domkal,Domkal,24.05388889,88.63055556,Rajapur1,"Dug Well",W28824,2012,NA,NA,3.6,NA
+WB,Murshidabad,Hariharpara,Hariharpara,24.065,88.48638889,Swaruppur,"Bore Well",W28831,2012,NA,NA,6.9,NA
+WB,Murshidabad,Kandi,Kandi,24.08,88.08972222,Jhilli,"Bore Well",W28838,2012,NA,NA,7.5,NA
+WB,Murshidabad,Baharampur,Baharampur,24.08416667,88.31611111,Nagrajol,"Bore Well",W28841,2012,NA,NA,5.57,NA
+WB,Murshidabad,Kandi,Kandi,24.08638889,88.17027778,Jibanti,"Tube Well",W28842,2012,NA,NA,4.3,NA
+WB,Murshidabad,Khargram,Khargram,24.12444444,87.92138889,Purapara,"Bore Well",W28852,2012,NA,NA,9.7,NA
+WB,Murshidabad,Domkal,Domkal,24.125,88.52222222,Pustampur,"Bore Well",W28853,2012,NA,NA,6.25,NA
+WB,Murshidabad,Nabagram,Nabagram,24.13666667,88.2025,Mahadipur,"Tube Well",W28859,2012,NA,NA,7.75,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.1375,88.3375,Amatpur,"Bore Well",W28860,2012,NA,NA,5.5,NA
+WB,Murshidabad,Baharampur,Baharampur,24.14861111,88.4325,Daulatabad2,"Dug Well",W28865,2012,NA,NA,2.86,NA
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur2,"Dug Well",W28874,2012,NA,NA,4.72,NA
+WB,Murshidabad,Baharampur,Baharampur,24.17166667,88.39361111,Chhaigari,"Bore Well",W28876,2012,NA,NA,6.85,NA
+WB,Murshidabad,Nabagram,Nabagram,24.19166667,88.15416667,Polsonda,"Bore Well",W28879,2012,NA,NA,4.43,NA
+WB,Murshidabad,Nabagram,Nabagram,24.19277778,88.07694444,"Megha - Sihara","Bore Well",W28880,2012,NA,NA,11.45,NA
+WB,Murshidabad,Nabagram,Nabagram,24.19833333,88.01361111,Panchgram2,"Tube Well",W28884,2012,NA,NA,12.2,NA
+WB,Murshidabad,Nabagram,Nabagram,24.20027778,88.06666667,"Gurah - Pashla","Bore Well",W28887,2012,NA,NA,16.9,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.20388889,88.54333333,Godhanpara(sitanagar),"Tube Well",W28890,2012,NA,NA,3.85,NA
+WB,Murshidabad,Nabagram,Nabagram,24.24916667,88.06861111,Daffarpur,"Bore Well",W28907,2012,NA,NA,6.6,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25722222,88.59694444,Kuptala1,"Dug Well",W28909,2012,NA,NA,4.28,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26611111,88.4625,Beikibagan1,"Tube Well",W28915,2012,NA,NA,4.3,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.26638889,88.47,Hurshi,"Dug Well",W28916,2012,NA,NA,5.51,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.28805556,88.37305556,Saidpur1,"Dug Well",W28923,2012,NA,NA,6.45,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42777778,88.00861111,Barala1,"Tube Well",W28953,2012,NA,NA,15.05,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.42805556,88.00861111,Bartala1,"Bore Well",W28954,2012,NA,NA,10.1,NA
+WB,Murshidabad,Lalgola,Lalgola,24.43194444,88.215,Pustampur,"Bore Well",W28956,2012,NA,NA,7.25,NA
+WB,Murshidabad,Lalgola,Lalgola,24.4375,88.19361111,"Panditpur Pz","Tube Well",W28958,2012,NA,NA,5.3,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.45055556,88.13805556,Tehghari-rampura,"Tube Well",W28962,2012,NA,NA,6.25,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.75055556,88.13944444,Kagram,"Bore Well",W28659,2012,NA,NA,6.1,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76444444,88.04861111,Simulia1,"Bore Well",W28668,2012,NA,NA,6.85,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.775,88.10277778,Salar2,"Bore Well",W28675,2012,NA,NA,4.75,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.77611111,88.10833333,Salar2,"Tube Well",W28678,2012,NA,NA,14.75,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82305556,88.20777778,Manikyahar,"Bore Well",W28706,2012,NA,NA,7.5,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.83611111,88.01888889,Geetgram,"Bore Well",W28711,2012,NA,NA,7.75,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85111111,88.25277778,Rejinagar3,"Tube Well",W28714,2012,NA,NA,2.6,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85444444,88.30138889,Kashipur1,"Bore Well",W28718,2012,NA,NA,4.4,NA
+WB,Murshidabad,Noada,Noada,23.88138889,88.45944444,Chandipur2,"Dug Well",W28730,2012,NA,NA,6.82,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.88472222,88.13722222,"Kanchan Garia","Tube Well",W28736,2012,NA,NA,10,NA
+WB,Murshidabad,Barwan,Barwan,23.88722222,87.91472222,Narayanpur2,"Bore Well",W28740,2012,NA,NA,6.65,NA
+WB,Murshidabad,Barwan,Barwan,23.89138889,87.99194444,Panchthupi,"Bore Well",W28743,2012,NA,NA,16.2,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.90333333,88.14222222,Maslai,"Bore Well",W28747,2012,NA,NA,17.45,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90805556,88.23638889,"Mirzapur Jain Colony2","Dug Well",W28749,2012,NA,NA,13.29,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.91916667,88.19166667,Kamnagar,"Bore Well",W28757,2012,NA,NA,4,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92138889,88.2775,Begunbari1,"Dug Well",W28760,2012,NA,NA,1.9,NA
+WB,Murshidabad,Kandi,Kandi,23.9325,88.05083333,Rasorah,"Bore Well",W28764,2012,NA,NA,4,NA
+WB,Murshidabad,Noada,Noada,23.93777778,88.45777778,Swaruppur,"Bore Well",W28765,2012,NA,NA,5.85,NA
+WB,Murshidabad,Khargram,Khargram,23.98222222,88,Mahisar,"Bore Well",W28783,2012,NA,NA,13.7,NA
+WB,Murshidabad,Barwan,Barwan,23.99,87.91166667,Manigram1,"Bore Well",W28786,2012,NA,NA,6.75,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.99361111,88.24138889,Bhabta,"Bore Well",W28787,2012,NA,NA,4.25,NA
+WB,Murshidabad,Khargram,Khargram,23.99666667,88.07333333,"Purandarpur Pz2","Tube Well",W28790,2012,NA,NA,4.8,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.72861111,88.0625,Sonarundi,"Bore Well",W31659,2012,NA,NA,7.5,NA
+WB,Murshidabad,Barwan,Barwan,23.87638889,87.91027778,Kurunnarun,"Bore Well",W31670,2012,NA,NA,16.25,NA
+WB,Murshidabad,Barwan,Barwan,23.96583333,87.87722222,Talwan1,"Bore Well",W31677,2012,NA,NA,16.65,NA
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,"Purandarpur PZ","Tube Well",W31681,2012,NA,NA,7.32,NA
+WB,Murshidabad,Khargram,Khargram,23.99638889,88.07333333,Purandarpur1,"Bore Well",W31682,2012,NA,NA,7.5,NA
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2012,NA,NA,2.86,NA
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2012,NA,4.19,7,6.47
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2012,NA,12.51,6.3,NA
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2012,NA,9.35,NA,23.05
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2012,NA,NA,1.9,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2012,NA,3.36,12.1,3.83
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2012,NA,NA,9.77,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2012,NA,NA,5.51,6.07
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2012,NA,NA,10,NA
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2012,NA,3.67,3.85,4.96
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2012,NA,3.19,3.96,8.12
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2012,NA,3.2,3.75,4.6
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2012,NA,4.68,5.15,NA
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2012,NA,7.73,13.1,8.19
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2012,NA,4.67,5.55,NA
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2012,NA,5.5,4.18,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2012,NA,6.06,4.08,6.89
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2012,NA,4.53,9.4,4.38
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,2012,NA,NA,6.35,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2012,NA,4.31,5.72,5.69
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2012,NA,5.58,5.55,5.59
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2012,NA,17.7,12.13,18.69
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2012,NA,NA,4.3,NA
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2012,NA,2.4,2.38,3.05
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,Purandarpur,"Tube Well",W10770,2012,NA,NA,7.5,NA
+WB,Murshidabad,Kandi,Kandi,23.98888889,88.08694444,PurandarpurA,"Tube Well",W10771,2012,NA,NA,4.8,NA
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2012,NA,NA,11.9,NA
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2012,NA,3.36,4.41,4.46
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,2012,NA,NA,4.72,NA
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2012,NA,NA,7.75,NA
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2012,NA,23.07,11.85,24.06
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2012,NA,NA,6.82,NA
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2012,NA,4.95,4.35,5.58
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2012,NA,NA,13.29,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2012,NA,NA,4.3,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2012,NA,NA,3.85,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2012,NA,NA,4.28,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2012,NA,4.49,NA,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2012,NA,7.95,2.56,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2012,NA,NA,10.6,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2012,NA,NA,5.2,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2012,NA,2.88,4.02,4.46
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2012,NA,3.52,6.35,5.46
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2012,NA,2.35,5.55,4.3
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2012,NA,3.05,4.25,4.1
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2012,NA,6.16,NA,NA
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2012,NA,4.25,2.23,5.07
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2012,NA,7.7,NA,5.01
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2012,NA,3.81,6.56,6.14
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.8475,88.23583333,Resinagar,"Tube Well",W11253,2012,NA,NA,2.6,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2012,NA,5.75,17.81,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2012,NA,NA,6.45,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2012,NA,NA,14.75,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2012,NA,6.25,NA,12.94
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2012,NA,NA,3.6,NA
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2012,NA,NA,4.91,NA
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2012,NA,3.9,4.91,5.12
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2012,NA,3.18,NA,5.34
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2012,NA,3.56,3.85,4.78
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2012,NA,NA,1.11,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2012,NA,NA,6.25,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2012,NA,20.1,20.95,20.79
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2012,NA,5.8,NA,NA
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2012,NA,NA,6.3,NA
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2011,NA,5.23,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.12805556,88.5575,"Domkal Pz-4","Tube Well",W18461,2011,NA,5.27,NA,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.24416667,88.28416667,Jiaganj-2,"Dug Well",W18462,2011,NA,5.86,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.43805556,88.22027778,"Lalgola Pz-3","Tube Well",W18463,2011,NA,4.98,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.875,88.0875,"Bharatpur Pz-2","Tube Well",W22109,2011,14.05,2.59,13.35,16.42
+WB,Murshidabad,Jiaganj,Jiaganj,24.16666667,88.275,"Lalbagh Pz-1","Tube Well",W22110,2011,2.9,5.94,3.12,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.45833333,88.05,Raghunathganj-1,"Dug Well",W22112,2011,1.07,2.08,1.2,1.31
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.19166667,88.50416667,"Goas Pz1","Tube Well",W22113,2011,3.42,6.17,3.62,7.15
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.26916667,88.57166667,Paranpur1,"Dug Well",W22135,2011,3.74,NA,NA,15.2
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2011,NA,3.61,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2011,2.71,5.22,2.92,6.59
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2011,11.96,10.26,11.58,6.28
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2011,8.01,19.59,8.33,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2011,NA,2.55,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2011,1.54,3.49,2.57,4.59
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2011,NA,5.91,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2011,NA,2.59,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2011,NA,5.36,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2011,2.51,5.23,2.75,5.97
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2011,2.63,5.27,2.78,6.24
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2011,2.39,5.49,3,5.98
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2011,4.51,4.84,3.95,5.75
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2011,1.32,4.78,3.23,9.17
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2011,'0.92,4.92,2.41,NA
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2011,2.21,NA,2.92,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2011,2.22,6.31,2.51,6.67
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2011,2.11,NA,2.4,6.49
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2011,3.92,5.92,3.57,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2011,3,5.86,4.72,8.05
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2011,NA,5.94,NA,NA
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2011,18.09,17.48,17.99,18.59
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2011,NA,9.43,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2011,1.15,2.59,2.17,3.3
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2011,NA,2.59,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2011,NA,8.29,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2011,3.31,4.98,3.79,5.43
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2011,NA,NA,NA,9.07
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2011,NA,17.31,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2011,2.94,22.33,22.39,23.12
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2011,NA,7.82,NA,NA
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2011,1.32,2.35,2.45,5.85
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2011,NA,11.29,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2011,NA,6.43,NA,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2011,NA,6.17,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2011,NA,3.72,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2011,NA,6.12,4.38,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2011,2.15,5.95,3.04,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2011,NA,4.46,NA,6.55
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2011,'0.39,3.37,1.46,7.21
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2011,1.62,5.12,2.16,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2011,'0.38,3.23,1.52,4.16
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2011,1.23,3.04,1.98,4.34
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2011,2.16,NA,2.5,6.11
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2011,3.35,4.1,3.84,7.75
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2011,3.44,5.3,4.51,6.84
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2011,1.86,4.3,3.26,5.06
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.8475,88.23583333,Resinagar,"Tube Well",W11253,2011,NA,2.44,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2011,3.62,6.43,5.23,6.99
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2011,NA,6.54,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2011,NA,3.62,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2011,3.03,9.92,3.41,9.61
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2011,NA,4.74,NA,NA
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2011,NA,5.81,NA,NA
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2011,4.4,5.81,3.49,6.13
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2011,1.22,4.5,2.61,6.06
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2011,NA,17.78,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2011,2.2,6.01,2.7,6.13
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2011,NA,2.08,NA,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2011,NA,6.08,NA,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2011,19.76,19.25,20.89,19.98
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2011,2.42,5.99,2.88,5.88
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2011,NA,10.26,NA,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2011,NA,6.72,NA,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.24416667,88.28416667,Jiaganj-2,"Dug Well",W18462,2010,4.97,NA,NA,6.5
+WB,Murshidabad,Lalgola,Lalgola,24.43805556,88.22027778,"Lalgola Pz-3","Tube Well",W18463,2010,NA,3.78,4.68,4.88
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2010,4.3,5.46,2.66,5.28
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2010,6.35,5.15,5.85,6.35
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2010,NA,NA,21.54,21.44
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2010,2.25,1.5,2.31,4.3
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2010,5.97,NA,3.37,6.05
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2010,NA,4.12,5.24,5.82
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2010,6.28,4.45,NA,6.75
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2010,15.49,11.86,NA,23.6
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.02722222,Gangedda,"Dug Well",W10735,2010,NA,3.22,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.04166667,Gangedda1,"Dug Well",W10736,2010,6.64,3.22,NA,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2010,NA,NA,NA,14.75
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2010,5.42,4.16,4.26,5.06
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2010,6.53,5.7,4.7,NA
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2010,NA,NA,NA,8.78
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2010,3.27,NA,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2010,NA,NA,NA,6.1
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2010,4.21,5.93,4.23,7.47
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2010,NA,NA,NA,5.5
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2010,NA,4.57,4.22,4.82
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2010,6.25,4.35,5.61,5.7
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2010,NA,16.13,17.66,16.73
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2010,NA,7.25,NA,12.1
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2010,2.24,2.43,2.55,3.08
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2010,NA,14.2,NA,15.4
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2010,6.98,NA,6.1,12.4
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2010,NA,15.06,NA,17.81
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2010,NA,21.05,22.24,21.95
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2010,4.27,7.24,6.7,8.4
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2010,4.64,4.8,4.4,10.7
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2010,NA,NA,10.44,12.94
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2010,4.86,4.72,4.36,6.37
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2010,4.98,4.65,5,5.7
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2010,6.79,5.9,NA,6.7
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2010,NA,4.1,3.9,5.3
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2010,NA,4.68,5.68,5.68
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2010,6.23,5.5,4.48,5.42
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2010,4.45,13.91,NA,5.91
+WB,Murshidabad,Sagardighi,Sagardighi,24.31916667,88.11972222,"Morgram TW","Tube Well",W10806,2010,NA,NA,NA,10.37
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2010,NA,7.83,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2010,NA,NA,NA,7.37
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2010,1.64,2.98,1.67,5.52
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2010,NA,NA,NA,5.2
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2010,3.29,3.05,2.7,4.45
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2010,4.43,NA,4.21,5.78
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2010,NA,NA,NA,6.7
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2010,4.68,NA,NA,6.01
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.8475,88.23583333,Resinagar,"Tube Well",W11253,2010,3.09,3.25,NA,5.25
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2010,6.43,5.51,5.43,8.41
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2010,NA,5.2,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2010,NA,16,NA,9.35
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2010,9.33,7.27,8.17,NA
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2010,5,3.87,3.15,5.65
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2010,6.39,5.15,5.85,5.98
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2010,NA,2.8,NA,NA
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2010,NA,14.3,NA,9.6
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2010,5.69,NA,4.65,5.25
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2010,1.08,1.4,2.07,1.86
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2010,3.39,6.43,3.58,6.88
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2010,NA,18.25,19.12,19.45
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2010,NA,NA,NA,7.83
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2010,NA,NA,15.56,16.1
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2010,NA,5.6,5.81,7.6
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2010,5.58,4.52,5.15,5.9
+WB,Murshidabad,Domkal,Domkal,24.12805556,88.5575,"Domkal Pz-4","Tube Well",W18461,2010,5.67,4.21,4.81,5.51
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2009,18.49,17.4,16.93,NA
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2009,NA,5.5,NA,NA
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2009,13.08,12.53,13.06,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2009,NA,5.02,5.51,NA
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2009,4.56,3.65,4.51,NA
+WB,Murshidabad,Domkal,Domkal,24.12805556,88.5575,"Domkal Pz-4","Tube Well",W18461,2009,6.28,3.43,3.64,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.24416667,88.28416667,Jiaganj-2,"Dug Well",W18462,2009,4.23,5.02,4.48,NA
+WB,Murshidabad,Lalgola,Lalgola,24.43805556,88.22027778,"Lalgola Pz-3","Tube Well",W18463,2009,4.06,3.16,3.04,NA
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2009,1.74,3.62,3.25,NA
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2009,5.25,3.98,4.06,NA
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2009,19.74,19.22,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2009,1.29,1.52,1.51,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2009,2.61,3.27,2.96,NA
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2009,NA,4.01,3.26,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2009,5.35,4.72,3.5,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2009,NA,10.45,12.05,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.04166667,Gangedda1,"Dug Well",W10736,2009,NA,3.2,3.02,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2009,NA,12.17,9.11,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.78111111,88.05722222,Khanrera,"Tube Well",W10738,2009,NA,13.58,NA,NA
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2009,3.38,2.74,3.65,NA
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2009,6.21,4.7,5.23,NA
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2009,3.02,7.75,4.27,NA
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2009,NA,4.83,'0.98,NA
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2009,NA,5.55,NA,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2009,3.71,6.13,3.89,NA
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2009,3.47,4.36,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2009,5.23,3.37,4.01,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2009,4.23,3.83,3.5,NA
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2009,16.31,14.73,16.36,NA
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2009,8.05,8.8,7.62,NA
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2009,1.93,2.56,2.26,NA
+WB,Murshidabad,Kandi,Kandi,23.98888889,88.08694444,PurandarpurA,"Tube Well",W10771,2009,4.69,NA,13.85,NA
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2009,14.08,12.9,14.14,NA
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2009,NA,NA,5.44,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2009,15.36,12.65,14.91,NA
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2009,21,20.17,21.18,NA
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2009,2.33,NA,6.37,1.77
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2009,5,4.29,3.26,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2009,8.95,10.99,13.7,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2009,4.01,4.72,3.86,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2009,4.98,3.72,4.15,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2009,5.93,4.59,3.99,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2009,6.01,2.68,3.66,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2009,3.15,2.44,5.41,3.65
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2009,3.38,3.29,4.17,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2009,4.44,3.58,4.16,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2009,NA,8.66,NA,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.31888889,88.11972222,"Morgram A","Dug Well",W10804,2009,NA,NA,15.38,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.31916667,88.11972222,"Morgram TW","Tube Well",W10806,2009,NA,NA,6.86,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2009,3.05,7.56,5.16,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2009,3.69,4.4,2.82,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2009,2.8,2.7,1.41,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2009,4.05,3.43,1.01,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2009,1.39,1.78,'0.97,NA
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2009,2.79,3,2.42,NA
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2009,5.34,NA,5.41,NA
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2009,4.29,4.07,3.82,NA
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2009,4.06,7.58,4.02,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2009,NA,NA,3.67,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.8475,88.23583333,Resinagar,"Tube Well",W11253,2009,NA,2.23,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2009,4.02,5.63,5.14,NA
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2009,5.49,4.33,2.95,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2009,NA,14.59,14.87,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2009,7.46,6.4,7.17,NA
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2009,4.32,4.01,3.09,NA
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2009,5.48,3.68,4.63,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2009,'0.66,3.45,3.01,NA
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2009,8.81,13.7,13.16,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2009,4.74,3.9,3.19,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2009,1.19,1.3,1.26,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2009,2.34,3.85,3.46,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.28166667,88.55888889,Shiekhpara,"Tube Well",W11268,2009,NA,3.13,NA,NA
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2008,NA,5.99,7.7,NA
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2008,8.26,8.89,7.73,16.65
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2008,4.31,5.29,4.46,6.57
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2008,2.65,3.91,1.7,5.07
+WB,Murshidabad,Domkal,Domkal,24.12805556,88.5575,"Domkal Pz-4","Tube Well",W18461,2008,2.61,3.61,2.32,4.84
+WB,Murshidabad,Jiaganj,Jiaganj,24.24416667,88.28416667,Jiaganj-2,"Dug Well",W18462,2008,4.47,4.92,4.5,6.33
+WB,Murshidabad,Lalgola,Lalgola,24.43805556,88.22027778,"Lalgola Pz-3","Tube Well",W18463,2008,1.78,2.81,NA,4.18
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2008,'0.66,5.23,2.87,5.88
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2008,3.14,4.05,3.81,5.62
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2008,NA,17.94,18.46,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2008,'0.67,2.11,1.78,3.06
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2008,1.53,3.25,1.28,NA
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2008,1.79,3.91,2.58,5.21
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2008,2.45,3.35,3.25,6.35
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2008,9.08,9.24,9.48,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.04166667,Gangedda1,"Dug Well",W10736,2008,2.83,2.21,2.13,5.77
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2008,NA,4,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.78111111,88.05722222,Khanrera,"Tube Well",W10738,2008,NA,NA,NA,15.88
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2008,2.36,3.38,2.54,4.44
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2008,4.3,4.77,4.1,6.02
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2008,NA,4.24,NA,9.11
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2008,1.36,5.02,3.55,6.23
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2008,NA,3.91,3.07,4.77
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2008,2.84,5.98,4.44,9.13
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2008,NA,NA,3.05,6.28
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2008,3.87,4.23,3.83,5.53
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2008,2.58,3.47,3.1,4.97
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2008,15.42,NA,14.93,17.28
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2008,NA,8.59,7.41,NA
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2008,2.08,2.61,2.33,3.43
+WB,Murshidabad,Kandi,Kandi,23.98888889,88.08694444,PurandarpurA,"Tube Well",W10771,2008,NA,NA,5.32,NA
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2008,13.22,6.6,12.76,15.8
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2008,NA,7.7,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2008,NA,NA,6.43,15.1
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2008,20.15,19.87,19.65,20.88
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2008,NA,7.2,NA,NA
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2008,2.01,4.2,2.72,6.27
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2008,5.69,8.55,1.11,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2008,3.29,5.09,3.02,5.76
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2008,3.13,3.1,3.1,4.9
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2008,NA,4.4,4.48,5.88
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.20722222,88.45777778,Godhanpara,"Tube Well",W10793,2008,NA,NA,2.7,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2008,3.69,NA,2.7,5.38
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2008,3.04,6.42,3.12,7.21
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2008,3.1,3.26,3.24,4.9
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2008,3.23,3.35,3.2,4.96
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2008,NA,3.58,3.94,5.52
+WB,Murshidabad,Sagardighi,Sagardighi,24.31916667,88.11972222,"Morgram TW","Tube Well",W10806,2008,NA,7.17,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2008,1.17,6.7,5.24,8.67
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2008,NA,4.18,3.63,6.13
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2008,'0.57,NA,1.37,4.34
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2008,NA,4.88,2.55,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2008,NA,3.78,'0.69,3.84
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2008,1.92,2.92,2.6,3.53
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2008,NA,5.22,7.29,6.67
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2008,3.73,3.2,4.3,4.97
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2008,4.7,NA,5.63,7.46
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.8475,88.23583333,Resinagar,"Tube Well",W11253,2008,1.4,2.85,1.83,3.95
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2008,3.57,5.78,4.52,8.47
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2008,3.09,7.8,3.26,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2008,15.03,12.8,15.85,16.05
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2008,5.05,4.53,NA,7.62
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2008,1.64,3.3,2.47,4.49
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2008,3.9,3.33,3.33,5.33
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2008,3.28,3.53,3.72,5.75
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2008,NA,13.5,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2008,1.4,3.12,2.01,5.61
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2008,1,1.51,1.68,1.72
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2008,NA,6.1,NA,7.78
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.28166667,88.55888889,Shiekhpara,"Tube Well",W11268,2008,3.17,2.44,1.65,5.19
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2008,17.49,16.85,17.13,18.23
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2007,1.31,4.73,3.86,5.96
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2007,1.5,3.81,2.81,8.9
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2007,NA,12.24,13.97,9.2
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2007,1.44,2.21,1.1,2.68
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2007,2.88,3.6,2.88,11.45
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2007,1.97,3.42,2.62,5.02
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2007,2.1,4.8,2.7,6.26
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2007,8.8,10.1,6.83,13.43
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.04166667,Gangedda1,"Dug Well",W10736,2007,NA,2.67,1.91,7.21
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2007,3.51,4.2,2.72,6.2
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2007,1.19,5.38,3.67,6.3
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2007,5.18,NA,2.78,8.88
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2007,2.18,6.67,1.67,6.05
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2007,2.16,5.19,2.41,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2007,1.78,6.12,3.71,8.18
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2007,2.4,5.17,3.44,6.07
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2007,2.55,NA,2.55,5.17
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2007,NA,NA,4.07,15.58
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2007,1.81,2.73,2.14,3.13
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2007,19.97,19.76,19.54,20.62
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2007,4.75,7.4,2.26,7
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2007,1.25,3.85,2.26,7.6
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2007,6.18,9.55,6.15,13.05
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2007,'0.83,4.6,3.42,5.32
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2007,2.32,5.55,2.4,10.15
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2007,2.85,5.3,2.87,5.7
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2007,NA,3.9,3.07,10.5
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2007,2.43,6.75,NA,12.12
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2007,2.31,4.1,1.98,6.6
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2007,2.56,NA,2.33,4.01
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2007,1.99,4.26,2.48,4.01
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2007,1.61,8.1,3.21,8.53
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2007,1.8,NA,1.13,4.01
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2007,'0.47,1.73,'0.87,5.02
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2007,1.25,4.41,2.31,5.3
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2007,2.72,2.35,'0.4,5.07
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2007,1.7,2.9,1.17,3.48
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2007,3.12,7.61,NA,5.9
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2007,2.49,4.55,3.18,5.62
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2007,3.3,5.15,2.55,6.59
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2007,5.46,6.41,4.17,6.06
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2007,8.1,12.72,13.29,16.6
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2007,2.66,6.38,1.67,NA
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2007,3.01,4.21,2.63,5.24
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2007,3.15,3.81,2.15,10.26
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2007,2.78,3.9,2.55,5.34
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2007,'0.99,1.71,1.13,1.41
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2007,'0.07,5,3.11,10.02
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.28166667,88.55888889,Shiekhpara,"Tube Well",W11268,2007,1.95,4.92,2.32,5.82
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2007,15.25,16.95,16.65,18.01
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2007,4.49,7.73,3.86,9.1
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2007,8.2,8.9,3.41,14.58
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2007,3.76,5.81,3.62,6.28
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2007,3.37,5.4,2.84,4.68
+WB,Murshidabad,Domkal,Domkal,24.12805556,88.5575,"Domkal Pz-4","Tube Well",W18461,2007,2.89,3.12,2.84,3.88
+WB,Murshidabad,Jiaganj,Jiaganj,24.24416667,88.28416667,Jiaganj-2,"Dug Well",W18462,2007,3.71,4.99,2.2,5.26
+WB,Murshidabad,Lalgola,Lalgola,24.43805556,88.22027778,"Lalgola Pz-3","Tube Well",W18463,2007,2.58,3.43,1.73,4.38
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2006,NA,4.93,4.1,6
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2006,2.67,3.72,3.08,4.64
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2006,2.3,5.36,3.48,5.77
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2006,3.76,3.32,2,7.09
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2006,17.38,16.85,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2006,2.31,1.82,1.5,4.17
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2006,1.82,2.62,'0.35,4.98
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2006,NA,3.4,2.92,5.42
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2006,4.69,4.22,3.41,6.48
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2006,6.35,7.91,5.56,14
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2006,4.62,5.1,5.01,6.91
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2006,4.24,3.58,3.92,5.05
+WB,Murshidabad,Domkal,Domkal,24.12805556,88.5575,"Domkal Pz-4","Tube Well",W18461,2006,4,3.3,2.07,4.51
+WB,Murshidabad,Jiaganj,Jiaganj,24.24416667,88.28416667,Jiaganj-2,"Dug Well",W18462,2006,4.24,4.95,4.1,5.7
+WB,Murshidabad,Lalgola,Lalgola,24.43805556,88.22027778,"Lalgola Pz-3","Tube Well",W18463,2006,NA,3.12,2.78,4.3
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2006,14.67,14.9,3.01,16.15
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2006,4.65,4.65,NA,9.34
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2006,NA,3.2,NA,4.39
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2006,4.26,3.16,'0.97,4.79
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2006,2.91,4.45,2.57,5.88
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2006,NA,9.75,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2006,3.16,3.75,2.61,5.25
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2006,'0.86,1.52,1.57,1.14
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2006,1.7,6.93,3.88,8.01
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.28166667,88.55888889,Shiekhpara,"Tube Well",W11268,2006,4.19,3.15,3.28,4.76
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2006,16.97,17.45,NA,16.93
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2006,NA,5.09,7.1,7.54
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2006,1.27,2.73,1.42,8.86
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2006,3.17,4.25,3.1,5.58
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2006,2.37,1.82,'0.56,3.7
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2006,1.66,2.48,2.35,3.83
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2006,2.66,5.03,7.21,8.58
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2006,3.65,3.75,4.3,5.46
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2006,4.67,3.97,3.55,7.65
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2006,NA,3.88,2.81,5.41
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.8475,88.23583333,Resinagar,"Tube Well",W11253,2006,NA,2.64,NA,5.46
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2006,NA,5.4,5,7.04
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2006,NA,4.9,NA,7.38
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2006,4.15,4.18,3,4.82
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2006,NA,6.05,5.35,6.45
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2006,4.14,3.52,3.32,4.96
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2006,NA,3.72,NA,5.11
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25138889,88.56,"Pranpur PZ","Tube Well",W10799,2006,NA,NA,NA,19.9
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2006,1.9,4.05,3.41,5.69
+WB,Murshidabad,Sagardighi,Sagardighi,24.31888889,88.11972222,"Morgram A","Dug Well",W10804,2006,NA,15.75,NA,17.78
+WB,Murshidabad,Sagardighi,Sagardighi,24.31916667,88.11972222,"Morgram TW","Tube Well",W10806,2006,NA,7.5,NA,16.95
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2006,2.25,7.65,6.17,11.8
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2006,NA,3.6,4.01,5.43
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2006,NA,13.55,NA,12.9
+WB,Murshidabad,Lalgola,Lalgola,24.41333333,88.22777778,Paditpur,"Tube Well",W10778,2006,NA,7.85,NA,8.77
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2006,NA,6.12,NA,7
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2006,NA,12.35,NA,6.32
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2006,19.5,19.13,3.1,NA
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2006,NA,7.55,NA,7.88
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2006,4.24,5.43,4.15,5.52
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2006,NA,8.07,7.65,10.55
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2006,3.8,4.53,3.72,5.9
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2006,4.37,3.78,3.6,5.8
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2006,5.73,4.5,5.26,6.13
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2006,NA,6.38,5.03,8.56
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2006,NA,NA,NA,5.41
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2006,NA,4.75,4.61,6.2
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2006,4.07,4.5,NA,6.2
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2006,15.56,15,NA,15.37
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2006,1.74,2.65,2.65,3.41
+WB,Murshidabad,Kandi,Kandi,23.98888889,88.08694444,PurandarpurA,"Tube Well",W10771,2006,NA,9.9,NA,15.04
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2006,7.74,8.08,7.5,11.9
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.04166667,Gangedda1,"Dug Well",W10736,2006,1.48,2.6,2.13,6.15
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2006,NA,7.6,NA,13.25
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.78111111,88.05722222,Khanrera,"Tube Well",W10738,2006,NA,11.92,NA,13.4
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2006,3.44,6.35,3.4,4.65
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2006,5.36,4.54,4.6,5.88
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2006,NA,7.78,6.54,9.42
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2005,8.12,11.03,6.66,10.9
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.04166667,Gangedda1,"Dug Well",W10736,2005,2.76,2.95,2.08,5.62
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2005,4.96,8.93,4.45,11.2
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.78111111,88.05722222,Khanrera,"Tube Well",W10738,2005,12.02,12.66,10.21,14.04
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2005,4.17,3.63,2.49,4.38
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2005,4.54,4.18,1.51,5.3
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2005,3.9,3.78,2.45,4.25
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2005,5.13,4.57,3.44,5.95
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2005,1.32,7.98,4.87,8.85
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2005,'0.92,4.97,2.45,6.02
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2005,2.73,5.35,2.97,4.93
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2005,2.81,6.37,4.35,10.13
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,2005,2.98,2.82,NA,3.87
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2005,5.45,5.18,3.55,6.55
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2005,3.47,3.61,2.77,4.67
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2005,6.3,8.65,4.83,13.67
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2005,17.97,16.81,15.95,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2005,2,1.75,1.43,4.35
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2005,NA,4.01,2.02,4.25
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2005,3.62,3.38,2.54,5.18
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2005,4.28,4.27,2.57,6.25
+WB,Murshidabad,Barwan,Barwan,23.93361111,87.93222222,"Barwan Pz-2","Tube Well",W18458,2005,6.3,8.65,4.83,13.67
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.30166667,88.4125,Hurshi,"Dug Well",W18459,2005,5.77,3.6,4.49,6.32
+WB,Murshidabad,Domkal,Domkal,24.12833333,88.55694444,"Domkal Pz-2","Tube Well",W18460,2005,4.17,3.63,2.49,4.38
+WB,Murshidabad,Domkal,Domkal,24.12805556,88.5575,"Domkal Pz-4","Tube Well",W18461,2005,4.54,4.18,1.51,5.3
+WB,Murshidabad,Jiaganj,Jiaganj,24.24416667,88.28416667,Jiaganj-2,"Dug Well",W18462,2005,3.67,6.37,4.33,6.35
+WB,Murshidabad,Lalgola,Lalgola,24.43805556,88.22027778,"Lalgola Pz-3","Tube Well",W18463,2005,3.47,2.57,2.3,3.97
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2005,13.64,12.39,12.95,14.93
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2005,NA,5.78,2.32,6.11
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2005,3.39,3.26,2.16,4.12
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2005,4.05,3.59,2.08,5.03
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2005,4.75,3.24,2.73,5.35
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2005,NA,8.72,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2005,4.05,3.63,2.72,5.65
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2005,'0.99,1.68,1.09,1.98
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2005,1.29,5.56,6.03,7.45
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.28166667,88.55888889,Shiekhpara,"Tube Well",W11268,2005,3.73,2.31,2.88,3.69
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2005,17.09,16.38,16.36,17.38
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2005,NA,4.82,3.25,5.7
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2005,'0.42,2.75,1,4.5
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2005,1.6,NA,2.8,4.85
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2005,'0.9,1.28,'0.76,2.99
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2005,1.17,2.75,1.71,3.3
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2005,NA,6.7,3.15,NA
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2005,3.47,3.73,2.96,4.9
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2005,3.87,3.52,2.53,5.75
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2005,NA,2.7,2.3,5.09
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.84777778,88.23527778,Rejinagar,"Tube Well",W11252,2005,NA,2.02,NA,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.8475,88.23583333,Resinagar,"Tube Well",W11253,2005,2.45,NA,1.77,3.78
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2005,4.05,5.05,4.15,7.03
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2005,5.24,4.55,2.85,7.03
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2005,4.77,2.39,3.46,4.92
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2005,2.5,5.11,4.4,6.05
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.2775,88.56805556,Kuptala,"Tube Well",W10796,2005,NA,2.67,NA,3.6
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2005,NA,NA,2.42,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2005,4,3.45,NA,4.91
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25138889,88.56,"Pranpur PZ","Tube Well",W10799,2005,NA,3.34,3.2,4.37
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2005,3.63,8.67,3.14,5.55
+WB,Murshidabad,Sagardighi,Sagardighi,24.31888889,88.11972222,"Morgram A","Dug Well",W10804,2005,NA,16.34,NA,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.31916667,88.11972222,"Morgram TW","Tube Well",W10806,2005,NA,NA,5.53,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2005,3.49,7.52,4.63,8.65
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2005,3.67,4.2,2.25,5.67
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2005,14.57,10.87,12.82,14.75
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2005,3.47,2.57,2.3,3.97
+WB,Murshidabad,Lalgola,Lalgola,24.41333333,88.22777778,Paditpur,"Tube Well",W10778,2005,1.43,8.17,3.36,8.18
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2005,5.45,6.17,4.71,7.73
+WB,Murshidabad,Nabagram,Nabagram,24.18361111,88.095,"Nabagram A","Tube Well",W10782,2005,14.89,NA,13.08,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2005,NA,13.08,NA,13.75
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2005,19.1,18.77,18.86,19.68
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2005,5.43,7.08,5.88,7.75
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2005,5.19,3.82,3.34,5.57
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2005,5.3,8.6,6.03,15.5
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2005,3.78,4.2,3.75,5.65
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2005,4.53,2.28,3.35,4.82
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2005,5.42,4.48,3.57,6.09
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2005,1.48,4.21,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2005,NA,4.17,4.47,5.52
+WB,Murshidabad,Jiaganj,Jiaganj,24.21166667,88.31166667,Baro-kankramari-1,"Tube Well",W10761,2005,NA,3.41,NA,4.95
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2005,3.67,6.37,4.33,6.35
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2005,4.27,3.46,3.5,4.95
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2005,15.44,14.45,14.8,15.7
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2005,6.94,7.39,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2005,2,2.79,2.32,3.12
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,Purandarpur,"Tube Well",W10770,2005,NA,7.37,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.98888889,88.08694444,PurandarpurA,"Tube Well",W10771,2005,8.39,16.65,8.02,16.65
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76277778,88.08305556,SalarB,"Tube Well",W11257,2004,13.9,NA,10.92,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2004,5.85,4.99,3.23,8.32
+WB,Murshidabad,Domkal,Domkal,24.07527778,88.59305556,Rajapur,"Dug Well",W11259,2004,2.6,NA,2.06,NA
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2004,4.3,3.65,2.87,4.8
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2004,NA,3.65,NA,4.8
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2004,2.38,3.64,1.85,5.03
+WB,Murshidabad,Khargram,Khargram,24.12666667,88.03361111,Sherpur,"Tube Well",W11264,2004,8.45,NA,6.95,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2004,4.57,4.08,2.44,5.81
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2004,1.32,1.55,1.57,1.52
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2004,2,5.98,2.6,7.15
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.28166667,88.55888889,Shiekhpara,"Tube Well",W11268,2004,3.43,3.06,1.31,4.15
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2004,16.72,16.33,16,17.15
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2004,NA,5.04,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2004,NA,4.04,NA,4.92
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2004,'0.82,1.32,'0.85,2.95
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2004,1.86,2.87,1.87,3.2
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2004,NA,5.14,NA,8.06
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2004,3.15,4.08,3,4.98
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2004,2.75,3.71,3.06,5.25
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2004,NA,4.08,1.9,5.09
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.84777778,88.23527778,Rejinagar,"Tube Well",W11252,2004,2.79,NA,1.02,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2004,NA,NA,3.74,8.21
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.26083333,88.37,Saidpur,"Dug Well",W11255,2004,5.8,NA,2.35,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.20722222,88.45777778,Godhanpara,"Tube Well",W10793,2004,3.3,1.92,NA,3.94
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.21166667,88.46138889,Godhanpara(sitanagar),"Tube Well",W10794,2004,NA,NA,2.04,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2004,2.29,4.7,3.69,5.9
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.2775,88.56805556,Kuptala,"Tube Well",W10796,2004,3.23,3.04,1.48,4.09
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.27638889,88.56916667,"Kuptala 84A","Dug Well",W10797,2004,3.37,NA,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2004,3.87,4.41,2.37,4.88
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25138889,88.56,"Pranpur PZ","Tube Well",W10799,2004,3.68,NA,2.31,4.46
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2004,4.49,4.46,4.07,5.39
+WB,Murshidabad,Sagardighi,Sagardighi,24.31888889,88.11972222,"Morgram A","Dug Well",W10804,2004,NA,NA,14.37,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,2004,NA,10.8,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2004,1.92,6.85,4.25,8
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2004,NA,4.13,NA,5.33
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2004,'0.79,2.54,1.3,4.3
+WB,Murshidabad,Khargram,Khargram,24.04194444,87.95694444,KhargramA,"Tube Well",W10773,2004,11.8,NA,9.59,NA
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2004,3.55,3.25,1.3,4.28
+WB,Murshidabad,Lalgola,Lalgola,24.41333333,88.22777778,Paditpur,"Tube Well",W10778,2004,2.7,6.55,5.05,7.82
+WB,Murshidabad,Nabagram,Nabagram,24.20666667,88.12888889,Mahadipur,"Tube Well",W10781,2004,5.15,NA,NA,NA
+WB,Murshidabad,Nabagram,Nabagram,24.21083333,88.025,Panchgram,"Tube Well",W10783,2004,12.85,NA,11.52,NA
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2004,18.82,18.27,18.35,18.91
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2004,4.06,7.24,5.23,7.84
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2004,3.4,4.36,2.35,5.9
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41388889,88.085,"Mirzapur Jain Colony","Dug Well",W10788,2004,9.16,8.75,NA,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41444444,88.08527778,"Mirzapur Jain Colony A","Dug Well",W10789,2004,NA,NA,6.89,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2004,4.32,4.77,3.25,5.29
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2004,3.95,3.89,1.46,5.1
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2004,5.06,4.42,2.72,5.69
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2004,NA,3.13,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99777778,88.42138889,Choa-4,"Dug Well",W10756,2004,NA,NA,NA,4.63
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2004,4.51,4.42,3.33,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.21166667,88.31166667,Baro-kankramari-1,"Tube Well",W10761,2004,NA,4.75,2.24,5.4
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2004,3.9,4.95,2.77,5.41
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2004,3.73,4.85,2.41,4.92
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2004,15.13,13.62,14.66,15.33
+WB,Murshidabad,Kandi,Kandi,24.05611111,88.14277778,Jibanti,"Tube Well",W10766,2004,6.85,NA,5.97,NA
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2004,NA,2.73,NA,3.32
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2004,2.66,2.73,2.38,3.32
+WB,Murshidabad,Kandi,Kandi,23.98916667,88.08666667,Purandarpur,"Tube Well",W10770,2004,11.32,NA,NA,NA
+WB,Murshidabad,Kandi,Kandi,23.98888889,88.08694444,PurandarpurA,"Tube Well",W10771,2004,NA,NA,8.14,NA
+WB,Murshidabad,Khargram,Khargram,24.05222222,87.98777778,Kanduri,"Tube Well",W10772,2004,NA,8.72,NA,9.83
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2004,10.55,8.75,8.3,10.74
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.04166667,Gangedda1,"Dug Well",W10736,2004,1.75,2.73,1.74,4.77
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.89944444,88.11333333,"Kanchan Garia","Tube Well",W10737,2004,6.85,NA,4.77,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.78111111,88.05722222,Khanrera,"Tube Well",W10738,2004,12.68,NA,10.47,NA
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2004,NA,3.44,2.66,5.07
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2004,3.83,3.73,2.89,4.51
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2004,4.48,3.96,2.61,4.48
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2004,4.75,4.75,3.01,5.94
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2004,2.47,7.13,2.33,8.48
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2004,2.15,4.7,1.79,5.58
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2004,3.81,3.83,3.69,4.72
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2004,NA,6.48,2.77,8.35
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,2004,3.15,2.94,1.92,3.88
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2004,3.69,4.66,4.18,5.96
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2004,4.7,3.65,2.75,5.25
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2004,11.45,11.22,NA,14.3
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2004,18.26,NA,14.87,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2004,2.22,1.65,1.07,3.17
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2004,2.4,3.15,2.2,3.02
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2004,4.44,3.72,2.19,5.22
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2004,4.8,4.65,2.24,6.3
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2003,16.53,15.1,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2003,1.17,2.36,NA,3.46
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.91888889,88.25555556,Choa-2,"Dug Well",W10728,2003,NA,2.1,NA,NA
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.92277778,88.23944444,Mirzapur,"Tube Well",W10729,2003,NA,NA,1.62,NA
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2003,3.36,3.22,2.07,5.1
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2003,4.58,3.56,2.07,6.3
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76333333,88.08277778,Salar,"Dug Well",W11256,2003,NA,4.53,NA,NA
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.80388889,88.10888889,Salinda-nabapally,"Tube Well",W11258,2003,NA,NA,2.16,NA
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2003,4.03,3.26,3.81,5.01
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2003,4.03,3.26,3.81,5.01
+WB,Murshidabad,Jiaganj,Jiaganj,24.2075,88.25333333,Ranjitpara,"Tube Well",W11263,2003,NA,NA,1.6,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2003,3.9,3.02,2.55,5.53
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2003,1.21,1.68,1.48,1.7
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.4775,88.12888889,Tehghari-Rampura,"Tube Well",W11267,2003,NA,NA,2.24,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.28166667,88.55888889,Shiekhpara,"Tube Well",W11268,2003,NA,NA,1.13,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2003,16.45,15.21,15.94,16.56
+WB,Murshidabad,Suti-i,Suti-i,24.55972222,88.08333333,Ramakantapur,"Tube Well",W11270,2003,NA,NA,3.14,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2003,NA,4.21,2.43,4.78
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2003,1.74,1.28,'0.48,3.5
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2003,2.59,3.01,2.16,3
+WB,Murshidabad,Suti-i,Suti-i,24.53027778,88.05305556,Baro-kankramari-2,"Tube Well",W10815,2003,NA,NA,3.09,NA
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2003,3.84,2.04,3.34,5.01
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2003,3.46,3.46,1.48,5.98
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2003,NA,3.28,2.94,4.92
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2003,NA,4.48,NA,6.58
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.20722222,88.45777778,Godhanpara,"Tube Well",W10793,2003,NA,NA,1.48,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.15444444,88.47777778,Islampur,"Tube Well",W10795,2003,NA,NA,2.4,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.2775,88.56805556,Kuptala,"Tube Well",W10796,2003,NA,NA,1.62,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2003,3.56,1.8,2.83,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25138889,88.56,"Pranpur PZ","Tube Well",W10799,2003,3.22,2.48,NA,4.29
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2003,2.39,2.22,3.52,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,2003,10.65,9.82,9.64,11.87
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2003,1.45,8.13,3.58,8.82
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2003,NA,3.22,1.93,5.27
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2003,1.46,4.07,'0.97,6.58
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2003,3.59,2.88,2.4,4.01
+WB,Murshidabad,Lalgola,Lalgola,24.41333333,88.22777778,Paditpur,"Tube Well",W10778,2003,NA,NA,3.25,NA
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,2003,NA,3.52,NA,5.22
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2003,18.53,18.02,17.85,12
+WB,Murshidabad,Noada,Noada,23.82944444,88.47277778,Chandipur1,"Dug Well",W10785,2003,NA,NA,4.42,NA
+WB,Murshidabad,Noada,Noada,23.93333333,88.44222222,Piprakhali,"Tube Well",W10786,2003,NA,NA,1.14,NA
+WB,Murshidabad,Raghunathganj-i,Raghunathganj-i,24.41388889,88.085,"Mirzapur Jain Colony","Dug Well",W10788,2003,NA,NA,6.46,NA
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2003,4.67,3.52,4.06,5.22
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.17861111,88.47666667,Beikibagan,"Tube Well",W10791,2003,NA,NA,1.38,NA
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2003,4.45,2.99,2.39,5.6
+WB,Murshidabad,Farakka,Farakka,24.77194444,87.88388889,Jorpukuria-1,"Tube Well",W10751,2003,NA,NA,2.1,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99777778,88.42138889,Choa-4,"Dug Well",W10756,2003,NA,2.1,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99722222,88.42138889,Chowa,"Dug Well",W10757,2003,NA,NA,3.59,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.16805556,88.41666667,"Daulatabad Tw-3","Dug Well",W10762,2003,NA,4.97,NA,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2003,4.52,5.1,4.55,5.11
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2003,3.33,3.95,2.69,5.07
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2003,14.27,13.18,13.78,14.94
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2003,2.25,2.96,1.92,3.52
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2003,2.25,2.96,1.92,3.52
+WB,Murshidabad,Khargram,Khargram,24.05222222,87.98777778,Kanduri,"Tube Well",W10772,2003,NA,NA,5.5,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2003,9.49,7.46,5.95,10.68
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.85277778,88.02722222,Gangedda,"Dug Well",W10735,2003,NA,NA,2.42,NA
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2003,3.76,4.21,2.44,4.37
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2003,3.26,NA,2.73,5.32
+WB,Murshidabad,Domkal,Domkal,24.10972222,88.54722222,Gobindapur,"Dug Well",W10742,2003,NA,NA,2.57,NA
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2003,4.47,4.91,3.16,5.99
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2003,1.4,6.38,3.02,9.3
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2003,1.92,9.07,1.8,5.73
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2003,3.59,NA,3.16,4.59
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2003,4.6,4.56,3.16,8.41
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,2003,2.02,3.05,1.72,3.74
+WB,Murshidabad,Baharampur,Baharampur,24.13777778,88.41944444,"Daulatabad Tw-2","Dug Well",W10721,2003,NA,4.97,NA,NA
+WB,Murshidabad,Baharampur,Baharampur,24.13722222,88.42027778,"Daulatabad Tw-5","Dug Well",W10723,2003,4.88,NA,1.49,NA
+WB,Murshidabad,Baharampur,Baharampur,24.05444444,88.21833333,Pakamati,"Tube Well",W10724,2003,NA,NA,2.46,NA
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2003,7.84,10.5,3.98,13.2
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76333333,88.08277778,Salar,"Dug Well",W11256,2002,4.14,1.5,4.43,NA
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2002,1.96,NA,2.33,11.6
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2002,2.78,3.31,3.05,4.81
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2002,'0.17,3.02,'0.61,4.91
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2002,1.19,1.3,1.32,1.5
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2002,14.81,13.9,14.23,15.95
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2002,4.15,3.7,NA,5.12
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2002,'0.52,2.08,1.1,4.04
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2002,1.87,2.35,2.47,3.27
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2002,2.09,3.7,2.1,4.23
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2002,2.76,6.51,3.41,2.95
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2002,1.37,2.68,1.73,4.6
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2002,2.89,3.29,NA,6.75
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2002,1.33,2.72,1.39,3.89
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25138889,88.56,"Pranpur PZ","Tube Well",W10799,2002,'0.99,1.47,2.03,3.91
+WB,Murshidabad,Sagardighi,Sagardighi,24.34583333,88.16666667,Jayrampur,"Dug Well",W10802,2002,4.06,NA,4.43,5.58
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,2002,8.22,6.5,7.65,11.79
+WB,Murshidabad,Samsherganj,Samsherganj,24.65444444,87.92333333,Chandpur,"Dug Well",W10807,2002,NA,NA,4.77,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.68333333,87.95416667,"Dhulian Pz","Tube Well",W10808,2002,NA,1.15,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.66666667,87.95555556,"Dhulian Pz1","Tube Well",W10809,2002,2.43,NA,5.9,8.4
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2002,3.38,4.17,3.45,5.82
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2002,1.65,1.2,1.9,6.56
+WB,Murshidabad,Lalgola,Lalgola,24.37944444,88.20111111,Joyrampur,"Dug Well",W10775,2002,NA,2.15,NA,6.17
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2002,1.66,4.45,1.61,3.81
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,2002,1.74,2.62,2.19,4.76
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2002,17.51,16.82,17.28,17.27
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2002,1.74,2.62,2.19,4.76
+WB,Murshidabad,Hariharpara,Hariharpara,23.99777778,88.42138889,Choa-4,"Dug Well",W10756,2002,1.95,3.82,2.07,4.38
+WB,Murshidabad,Jiaganj,Jiaganj,24.16805556,88.41666667,"Daulatabad Tw-3","Dug Well",W10762,2002,3.46,2.5,3.83,6.05
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2002,3.12,4.3,3.49,5.1
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2002,4.02,2.2,3.15,4.85
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2002,13.43,3.35,13.13,17.33
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2002,2.27,2.5,2.6,3.76
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2002,2.27,2.5,2.6,3.76
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2002,1.9,3.2,2.3,4.04
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2002,NA,2.96,NA,4.52
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2002,3.13,4.7,3.72,5.55
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2002,1.83,3.52,2.4,8.85
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2002,1.89,2.11,2.74,5.34
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2002,NA,3.43,NA,4.66
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2002,3.9,5.91,5.21,8.61
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,2002,1.28,1.72,3.02,3.68
+WB,Murshidabad,Baharampur,Baharampur,24.13777778,88.41944444,"Daulatabad Tw-2","Dug Well",W10721,2002,3.46,2.5,3.83,6.05
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2002,9.92,5.05,10.47,15
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2002,14.61,10.1,15.26,19.57
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2002,1.57,2.9,2.26,5.53
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.91888889,88.25555556,Choa-2,"Dug Well",W10728,2002,1.95,3.82,2.07,4.38
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.925,88.2,Majlishpur,"Dug Well",W10731,2002,NA,NA,3.37,NA
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2002,3.22,3.41,3.6,5.08
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2002,2.6,2.5,2.71,6.2
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2002,2.78,3.31,3.05,4.81
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2001,3.43,3.68,3.21,4.24
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2001,NA,7.83,NA,10.67
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2001,2.72,3.8,2.8,4.84
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2001,1.2,2.01,1.1,1.13
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2001,12.51,14.55,13.4,12.76
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2001,3.7,4.3,3.8,4.17
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2001,1.83,NA,1.8,2.35
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2001,2.15,2.95,2.07,1.94
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2001,3.5,2.04,3.33,4.29
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2001,6.41,2.71,6.21,2.97
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2001,2.17,3.91,2.1,4.36
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2001,3.4,5.37,3.51,5.17
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76333333,88.08277778,Salar,"Dug Well",W11256,2001,1.3,NA,1.45,1.33
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2001,2.54,NA,2.61,3.83
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25138889,88.56,"Pranpur PZ","Tube Well",W10799,2001,1.71,NA,1.9,2.77
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,2001,6.44,9.45,6.05,10.68
+WB,Murshidabad,Samsherganj,Samsherganj,24.68333333,87.95416667,"Dhulian Pz","Tube Well",W10808,2001,'0.9,NA,1.06,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.64583333,87.94111111,Krishnanagar,"Dug Well",W10810,2001,4.05,2.89,4.3,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2001,1.02,2.78,1.12,4.09
+WB,Murshidabad,Lalgola,Lalgola,24.37944444,88.20111111,Joyrampur,"Dug Well",W10775,2001,1.35,2.77,1.4,4.58
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2001,4.43,2.58,4.23,4.16
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,2001,2.02,4.22,1.91,4.24
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2001,16.25,17.05,16.4,18.02
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2001,2.02,4.22,1.91,4.24
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2001,2.1,4.3,2.05,5.43
+WB,Murshidabad,Hariharpara,Hariharpara,23.99777778,88.42138889,Choa-4,"Dug Well",W10756,2001,3.32,3.75,3.13,3.48
+WB,Murshidabad,Hariharpara,Hariharpara,24.01388889,88.42055556,Hariharpara,"Tube Well",W10759,2001,4.75,NA,NA,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.16805556,88.41666667,"Daulatabad Tw-3","Dug Well",W10762,2001,2.2,2.7,2.05,5.52
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2001,3.7,4.62,4.15,4.01
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2001,1.8,3.3,2.05,3.69
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2001,3.3,11.73,3.11,13.8
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2001,2.12,2.89,2.21,2.81
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2001,2.12,2.89,2.21,2.81
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2001,2.84,3.49,3.05,3.8
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2001,2.6,4.28,2.8,3.86
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2001,4.37,3.77,4.15,5.43
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2001,3.32,6.67,3.11,7.86
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2001,1.4,3.87,1.53,3.64
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2001,2.95,3.78,3.03,NA
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2001,3.51,4.92,3.71,NA
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,2001,1.05,2.59,2.12,3.07
+WB,Murshidabad,Baharampur,Baharampur,24.13777778,88.41944444,"Daulatabad Tw-2","Dug Well",W10721,2001,2.2,2.7,2.05,5.52
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2001,NA,NA,4.8,7.78
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2001,8.21,NA,8.11,4.84
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2001,2.6,2.58,2.42,3.42
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.91888889,88.25555556,Choa-2,"Dug Well",W10728,2001,3.32,3.75,3.13,3.48
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2001,3.2,3.52,3.11,3.85
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2001,2.4,4.5,2.17,4.82
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2001,3.43,3.68,3.21,4.24
+WB,Murshidabad,Jalangi,Jalangi,24.20972222,88.71722222,Sagarpara,"Dug Well",W11261,2000,2.14,NA,2.13,4.28
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,2000,7.92,6.78,6.4,NA
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,2000,'0.82,3.07,2.48,5.16
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.49083333,88.07111111,Raghunathganj-2,"Dug Well",W11266,2000,1.01,NA,1.61,1.78
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,2000,13.93,14.05,13.38,16.6
+WB,Murshidabad,Samsherganj,Samsherganj,24.66972222,87.92638889,Puratanmalancha-1,"Dug Well",W10812,2000,2.14,3.81,3.61,4.89
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,2000,'0.31,1.15,'0.78,3.16
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,2000,1.71,2.83,2.65,3.53
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,2000,3.02,NA,2.78,4.17
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,2000,2.71,2.85,2.53,3
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,2000,1.36,3.61,2.93,4.21
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,2000,3.13,5.63,4.6,6.27
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76333333,88.08277778,Salar,"Dug Well",W11256,2000,4.24,NA,NA,NA
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,2000,1.36,3,2.56,4.19
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25138889,88.56,"Pranpur PZ","Tube Well",W10799,2000,1.15,NA,2.44,3.74
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,2000,7.3,8.47,7.35,11.05
+WB,Murshidabad,Samsherganj,Samsherganj,24.68333333,87.95416667,"Dhulian Pz","Tube Well",W10808,2000,NA,2.52,NA,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,2000,'0.95,1.63,1.72,4.26
+WB,Murshidabad,Lalgola,Lalgola,24.37944444,88.20111111,Joyrampur,"Dug Well",W10775,2000,NA,2.91,2.37,4.72
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,2000,'0.37,1.74,1.32,3.83
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,2000,2.8,3.92,3.57,4.97
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,2000,17.25,16.6,16.79,17.92
+WB,Murshidabad,Raghunathganj-ii,Raghunathganj-ii,24.46138889,88.09222222,Jangipur-2,"Dug Well",W10790,2000,2.8,NA,3.57,4.97
+WB,Murshidabad,Raninagar-i,Raninagar-i,24.16722222,88.53388889,"Goas Pz","Tube Well",W10792,2000,1.95,NA,2.87,5.32
+WB,Murshidabad,Hariharpara,Noada,23.96666667,88.33333333,Choa-1,"Dug Well",W10754,2000,NA,3.58,NA,NA
+WB,Murshidabad,Hariharpara,Hariharpara,23.99777778,88.42138889,Choa-4,"Dug Well",W10756,2000,2.03,NA,2.45,4.22
+WB,Murshidabad,Hariharpara,Hariharpara,24.05,88.33333333,"Daulatabad Tw-1","Tube Well",W10758,2000,NA,3.01,NA,NA
+WB,Murshidabad,Jiaganj,Jiaganj,24.16805556,88.41666667,"Daulatabad Tw-3","Dug Well",W10762,2000,3.91,NA,3.53,5.67
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,2000,3.19,4.55,4.09,4.92
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,2000,2.59,2.99,2.42,4.16
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,2000,12.53,11.41,11.21,13.58
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,2000,2.26,2.8,2.64,3.34
+WB,Murshidabad,Kandi,Kandi,23.94944444,88.07416667,"Kandi A","Dug Well",W10768,2000,2.26,NA,2.64,3.34
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,2000,1.46,3.35,2.77,4.05
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,2000,1.39,3.31,2.58,4.51
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,2000,2.51,NA,3.63,5.64
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,2000,1.32,5.19,5.9,8.4
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,2000,'0.76,3.76,3.9,5.28
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,2000,1.95,3.3,3.03,4.53
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,2000,3.05,5.23,5.05,7.7
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,2000,'0.76,2.46,2.09,3.57
+WB,Murshidabad,Baharampur,Baharampur,24.13777778,88.41944444,"Daulatabad Tw-2","Dug Well",W10721,2000,3.91,NA,3.53,5.67
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,2000,9.83,7.87,NA,12.05
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,2000,14.32,16.56,NA,17.51
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,2000,1.31,3.01,2.07,3.82
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.91888889,88.25555556,Choa-2,"Dug Well",W10728,2000,2.03,NA,2.45,4.22
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,2000,3.19,2.14,2.08,4.69
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,2000,2.65,3.46,2.68,5.71
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,2000,2.14,2.87,2.13,4.28
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,1999,'0.75,2.92,1.94,5.75
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,1999,'0.18,3.66,1.94,5.59
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,1999,NA,16.52,16.49,18.08
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,1999,'0.83,3.15,2.19,5.38
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,1999,6.13,8.11,5.35,11.93
+WB,Murshidabad,Samsherganj,Samsherganj,24.68333333,87.95416667,"Dhulian Pz","Tube Well",W10808,1999,'0.23,3.34,'0.37,5.79
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,1999,'0.48,1.48,'0.8,6.62
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,1999,'0.14,'0.76,'0.39,6.41
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,1999,NA,2.69,2.36,3.98
+WB,Murshidabad,Suti-i,Suti-i,24.56111111,88.03611111,Khapur,"Dug Well",W10816,1999,NA,2.86,NA,NA
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,1999,1.66,NA,2.57,4.55
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,1999,2.93,2.58,2.86,2.8
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,1999,NA,2.94,2.04,5.16
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.84777778,88.23527778,Rejinagar,"Tube Well",W11252,1999,NA,1.36,NA,4.39
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,1999,NA,4.75,3.69,7.48
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76333333,88.08277778,Salar,"Dug Well",W11256,1999,NA,6.92,6.74,NA
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,1999,1.21,2.64,1.7,4.93
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,1999,NA,3.16,2.64,5.09
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,1999,1.61,4.75,3.25,8.65
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,1999,1.26,3.17,2.68,5.73
+WB,Murshidabad,Hariharpara,Noada,23.96666667,88.33333333,Choa-1,"Dug Well",W10754,1999,2.03,3.82,2.79,5.49
+WB,Murshidabad,Hariharpara,Hariharpara,24.05,88.33333333,"Daulatabad Tw-1","Tube Well",W10758,1999,'0.86,2.68,2.15,3.78
+WB,Murshidabad,Jalangi,Jalangi,24.12861111,88.70083333,Jalangi1,"Dug Well",W10760,1999,NA,4.05,NA,5.94
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,1999,1.9,4.42,4.01,5.52
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,1999,1.13,2.94,2.15,4.86
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,1999,11.55,10.63,10.77,13.39
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,1999,NA,2.65,2.36,6.12
+WB,Murshidabad,Kandi,Kandi,23.93611111,88.05222222,"Kandi Pz","Tube Well",W10769,1999,NA,6.03,NA,NA
+WB,Murshidabad,Lalgola,Lalgola,24.37944444,88.20111111,Joyrampur,"Dug Well",W10775,1999,'0.95,2.72,1.71,5.37
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,1999,'0.61,1.79,'0.47,4.26
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,1999,NA,3.7,3.21,5.53
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,1999,'0.65,2.45,1.75,3.99
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,1999,NA,6.32,2.49,15.93
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,1999,NA,13.72,8.88,18.06
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,1999,1.33,3.21,1.88,4.8
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.83555556,88.33361111,Jhaubona,"Dug Well",W10730,1999,NA,2.57,NA,3.55
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,1999,'0.65,2.57,1.9,5.55
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,1999,'0.17,2.82,1.92,6.49
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,1999,NA,4.72,4.58,10.58
+WB,Murshidabad,Domkal,Domkal,24.11666667,88.525,"Domkal Kuti","Dug Well",W10739,1999,'0.73,2.35,1.6,4.46
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,1999,'0.99,3.13,2.02,4.87
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,1999,1.08,3.16,2.01,5.53
+WB,Murshidabad,Domkal,Domkal,24.03555556,88.58333333,Jalangi,"Dug Well",W10743,1999,1.57,NA,2.69,NA
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,1999,NA,4.98,4.05,9.13
+WB,Murshidabad,Farakka,Farakka,24.73638889,87.92277778,Chaskapur,"Dug Well",W10746,1999,NA,1.66,NA,3.53
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,1999,13.15,13.13,12.83,15.62
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,1998,NA,3.78,1.1,5
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,1998,NA,4.51,1.28,5.55
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,1998,NA,17.4,16.25,17.83
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,1998,NA,3.5,1.82,4.57
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,1998,NA,9.55,5.7,10.53
+WB,Murshidabad,Samsherganj,Samsherganj,24.65444444,87.92333333,Chandpur,"Dug Well",W10807,1998,NA,NA,'0.93,NA
+WB,Murshidabad,Samsherganj,Samsherganj,24.68333333,87.95416667,"Dhulian Pz","Tube Well",W10808,1998,NA,3.64,'0.4,5.46
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,1998,NA,2.51,'0.47,5.63
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,1998,NA,1.14,'0.08,5.12
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,1998,NA,2.76,1.9,3.33
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,1998,NA,NA,2.13,4.68
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,1998,NA,3.04,2.04,4.28
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,1998,NA,3.58,2.01,4.3
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.84777778,88.23527778,Rejinagar,"Tube Well",W11252,1998,NA,2.68,'0.5,3.29
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,1998,NA,5.56,3.71,6.49
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76333333,88.08277778,Salar,"Dug Well",W11256,1998,NA,9.45,5.4,6.98
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,1998,NA,3.35,1.14,4.91
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,1998,NA,3.52,2.38,4.16
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,1998,NA,6.2,3.33,7.73
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,1998,NA,4.37,NA,5.78
+WB,Murshidabad,Hariharpara,Noada,23.96666667,88.33333333,Choa-1,"Dug Well",W10754,1998,NA,5.05,2.97,5.3
+WB,Murshidabad,Hariharpara,Hariharpara,24.05,88.33333333,"Daulatabad Tw-1","Tube Well",W10758,1998,NA,3.18,1.76,3.31
+WB,Murshidabad,Jalangi,Jalangi,24.12861111,88.70083333,Jalangi1,"Dug Well",W10760,1998,NA,4.48,2.7,5.81
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,1998,NA,4.47,3.6,4.97
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,1998,NA,3.65,2.09,4.24
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,1998,NA,12.86,12.23,13.05
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,1998,NA,3.17,2.12,3.16
+WB,Murshidabad,Kandi,Kandi,23.93611111,88.05222222,"Kandi Pz","Tube Well",W10769,1998,NA,8.81,4.07,8.6
+WB,Murshidabad,Khargram,Khargram,24.10416667,87.99166667,"Nagar Pz","Tube Well",W10774,1998,NA,10.71,5.71,NA
+WB,Murshidabad,Lalgola,Lalgola,24.37944444,88.20111111,Joyrampur,"Dug Well",W10775,1998,NA,3.56,1.55,4.36
+WB,Murshidabad,Lalgola,Lalgola,24.39166667,88.25416667,Lalgola,"Dug Well",W10776,1998,NA,3.71,NA,5.08
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,1998,NA,3.17,'0.43,4.16
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,1998,NA,4.22,2.82,4.71
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,1998,NA,3.24,1.5,3.09
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,1998,NA,11.7,2.48,8.48
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,1998,NA,16.33,NA,15.06
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,1998,NA,2.83,2.07,2.83
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.83555556,88.33361111,Jhaubona,"Dug Well",W10730,1998,NA,3.85,1.69,4.03
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,1998,NA,3.24,1.42,4.54
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,1998,NA,4.3,1.6,5.58
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,1998,NA,8,2.73,9.73
+WB,Murshidabad,Domkal,Domkal,24.11666667,88.525,"Domkal Kuti","Dug Well",W10739,1998,NA,3,1.27,3.97
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,1998,NA,3.8,'0.7,4.18
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,1998,NA,4.21,3.46,5.09
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,1998,NA,4.59,3.67,8.23
+WB,Murshidabad,Farakka,Farakka,24.69583333,87.9125,Basudevpur1,"Dug Well",W10745,1998,NA,4.55,NA,6.78
+WB,Murshidabad,Farakka,Farakka,24.73638889,87.92277778,Chaskapur,"Dug Well",W10746,1998,NA,NA,'0.5,NA
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,1998,NA,14.75,11.9,15.49
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,1997,1.15,3.2,2.96,5.27
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,1997,13.1,14,13.95,15.35
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,1997,1.09,3.35,3.06,4.58
+WB,Murshidabad,Sagardighi,Sagardighi,24.33333333,88,Jangipur,"Dug Well",W10800,1997,1.12,2.67,NA,3.89
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,1997,6.13,8.02,7.97,11.45
+WB,Murshidabad,Samsherganj,Samsherganj,24.65444444,87.92333333,Chandpur,"Dug Well",W10807,1997,1.49,2.42,2.18,3
+WB,Murshidabad,Samsherganj,Samsherganj,24.68333333,87.95416667,"Dhulian Pz","Tube Well",W10808,1997,'0.15,4.45,2.78,6.28
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,1997,'0.52,2.16,1.49,4.34
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,1997,'0.15,1.14,'0.81,NA
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,1997,1.35,2.72,2.55,3.65
+WB,Murshidabad,Suti-i,Suti-i,24.56111111,88.03611111,Khapur,"Dug Well",W10816,1997,NA,3.44,NA,NA
+WB,Murshidabad,Suti-i,Suti-i,24.50972222,88.00138889,Khapur1,"Dug Well",W10817,1997,NA,NA,2.6,4.6
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,1997,3.16,1.66,3.03,2.25
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,1997,'0.46,3.09,2.69,5.09
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.84777778,88.23527778,Rejinagar,"Tube Well",W11252,1997,'0.76,2.18,2.13,3.72
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,1997,2.23,4.75,4.32,7.31
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76333333,88.08277778,Salar,"Dug Well",W11256,1997,'0.58,9.08,4.9,7.46
+WB,Murshidabad,Farakka,Farakka,24.7,87.95,Sahebnagar,"Dug Well",W11260,1997,NA,6.54,NA,10.2
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,1997,1.57,3.65,2.89,5.09
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,1997,'0.85,3.43,3.22,4.88
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,1997,1.85,6.23,4.82,8.38
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.87666667,Jorpukuria,"Dug Well",W10750,1997,1.05,2.4,NA,4.37
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,1997,1.58,4.28,3.72,5.6
+WB,Murshidabad,Hariharpara,Noada,23.96666667,88.33333333,Choa-1,"Dug Well",W10754,1997,2.78,5.08,4.16,6.39
+WB,Murshidabad,Hariharpara,Hariharpara,24.05,88.33333333,"Daulatabad Tw-1","Tube Well",W10758,1997,NA,3.07,2.82,3.56
+WB,Murshidabad,Jalangi,Jalangi,24.12861111,88.70083333,Jalangi1,"Dug Well",W10760,1997,1.98,4.64,3.54,6.44
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,1997,2.76,4.3,4.1,5.62
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,1997,1.65,3.29,2.9,4.85
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,1997,11.88,10.52,11.03,13.23
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,1997,'0.93,2.78,2.77,3.25
+WB,Murshidabad,Kandi,Kandi,23.93611111,88.05222222,"Kandi Pz","Tube Well",W10769,1997,5.52,5.52,4.65,10.46
+WB,Murshidabad,Khargram,Khargram,24.10416667,87.99166667,"Nagar Pz","Tube Well",W10774,1997,6.34,8.16,6.85,12.46
+WB,Murshidabad,Lalgola,Lalgola,24.37944444,88.20111111,Joyrampur,"Dug Well",W10775,1997,'0.91,3.23,2.84,4.84
+WB,Murshidabad,Lalgola,Lalgola,24.39166667,88.25416667,Lalgola,"Dug Well",W10776,1997,1.33,3.42,2.91,5.21
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,1997,'0.45,2.51,2,4.18
+WB,Murshidabad,Nabagram,Nabagram,24.16666667,88.16666667,Jangipur-1,"Dug Well",W10779,1997,NA,NA,3.73,NA
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,1997,16.83,16.62,16.93,17.82
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,1997,'0.65,2.73,2.37,3.97
+WB,Murshidabad,Baharampur,Baharampur,24.13694444,88.39055556,Daulatabad-1,"Dug Well",W10722,1997,1.19,NA,NA,NA
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,1997,8.05,6.2,3.66,13.7
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,1997,NA,12.19,NA,16.59
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,1997,1.36,2.53,2.34,4.29
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.83555556,88.33361111,Jhaubona,"Dug Well",W10730,1997,1.01,3.79,3.08,6.24
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.925,88.2,Majlishpur,"Dug Well",W10731,1997,NA,3.47,NA,NA
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,1997,'0.84,2.2,2.52,5.08
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,1997,'0.97,3.6,2.94,6.34
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,1997,5.45,5.45,5.42,9.2
+WB,Murshidabad,Domkal,Domkal,24.11666667,88.525,"Domkal Kuti","Dug Well",W10739,1997,1,3.25,2.04,4.43
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,1997,1.26,3.4,2.76,4.84
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,1997,1.3,4.41,3.49,4.93
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,1997,1.29,6.87,2.83,9.59
+WB,Murshidabad,Farakka,Farakka,24.69583333,87.9125,Basudevpur1,"Dug Well",W10745,1997,2.36,2.12,3.91,4.64
+WB,Murshidabad,Farakka,Farakka,24.73638889,87.92277778,Chaskapur,"Dug Well",W10746,1997,NA,2.13,NA,4.54
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,1997,'0.29,4.46,3.29,5.58
+WB,Murshidabad,Sagardighi,Sagardighi,24.275,88.09166667,"Sagardighi Pz","Tube Well",W11269,1996,14.03,13.37,12.95,15.35
+WB,Murshidabad,Farakka,Farakka,24.72944444,87.92666667,Churapukur,"Dug Well",W10748,1996,2.15,3.28,2.68,4.12
+WB,Murshidabad,Sagardighi,Sagardighi,24.33333333,88,Jangipur,"Dug Well",W10800,1996,1.97,2.37,1.98,3.67
+WB,Murshidabad,Sagardighi,Sagardighi,24.29166667,88.0375,"Morgram Pz","Tube Well",W10805,1996,7.85,7.35,6.18,10.62
+WB,Murshidabad,Samsherganj,Samsherganj,24.65444444,87.92333333,Chandpur,"Dug Well",W10807,1996,1.08,2.27,1.92,3.14
+WB,Murshidabad,Samsherganj,Samsherganj,24.68333333,87.95416667,"Dhulian Pz","Tube Well",W10808,1996,'0.8,3.72,1.34,6.05
+WB,Murshidabad,Samsherganj,Samsherganj,24.65,87.93333333,"Natun Malancha","Dug Well",W10811,1996,'0.53,1.83,'0.88,5.18
+WB,Murshidabad,Samsherganj,Samsherganj,24.65138889,87.92555556,Putimari,"Dug Well",W10813,1996,'0.47,'0.87,'0.45,2.77
+WB,Murshidabad,Suti-i,Suti-i,24.5125,88.05,Ahiran,"Dug Well",W10814,1996,1.7,2.56,2.36,3.43
+WB,Murshidabad,Suti-i,Suti-i,24.56111111,88.03611111,Khapur,"Dug Well",W10816,1996,3.04,3.2,2.26,5
+WB,Murshidabad,Suti-ii,Suti-ii,24.60833333,88.0125,"Aurangabad Pz","Tube Well",W10818,1996,3.44,2.15,NA,3.19
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.82194444,88.22638889,Ramnagar-2,"Tube Well",W11251,1996,'0.88,3.31,2.49,3.51
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.84777778,88.23527778,Rejinagar,"Tube Well",W11252,1996,'0.38,1.74,1.7,2.78
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.85416667,88.2,"Saktipur Pz","Tube Well",W11254,1996,2.71,4.54,3.89,5.04
+WB,Murshidabad,Bharatpur-ii,Bharatpur-ii,23.76333333,88.08277778,Salar,"Dug Well",W11256,1996,NA,2.31,5.46,6.03
+WB,Murshidabad,Farakka,Farakka,24.7,87.95,Sahebnagar,"Dug Well",W11260,1996,1.93,6.26,3.96,8.37
+WB,Murshidabad,Jalangi,Jalangi,24.17361111,88.66888889,Sagarpara1,"Dug Well",W11262,1996,3.58,3.16,3.56,5.05
+WB,Murshidabad,Lalgola,Lalgola,24.375,88.25,Ramchandmati,"Dug Well",W11265,1996,2.85,3.17,2.09,4.85
+WB,Murshidabad,Farakka,Farakka,24.76916667,87.90694444,Farakka,"Dug Well",W10749,1996,3.39,6.38,5.74,7.87
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.87666667,Jorpukuria,"Dug Well",W10750,1996,1.44,2.35,1.76,4.13
+WB,Murshidabad,Farakka,Farakka,24.69027778,87.91916667,Puratanmalancha,"Dug Well",W10752,1996,1.74,4.06,2.99,5.9
+WB,Murshidabad,Hariharpara,Noada,23.96666667,88.33333333,Choa-1,"Dug Well",W10754,1996,4.54,4.72,4.14,6.23
+WB,Murshidabad,Hariharpara,Hariharpara,24.05,88.33333333,"Daulatabad Tw-1","Tube Well",W10758,1996,1.74,2.89,2.14,3.43
+WB,Murshidabad,Jalangi,Jalangi,24.12861111,88.70083333,Jalangi1,"Dug Well",W10760,1996,4.82,4.72,4.25,6.13
+WB,Murshidabad,Jiaganj,Jiaganj,24.20083333,88.32861111,Jiaganj-1,"Dug Well",W10763,1996,3.55,4.15,3.91,4.54
+WB,Murshidabad,Jiaganj,Jiaganj,24.21138889,88.31194444,"Lalbagh Pz-2","Tube Well",W10764,1996,2.15,3.01,2.5,4.3
+WB,Murshidabad,Kandi,Kandi,24.03333333,88.1125,Gokarna,"Tube Well",W10765,1996,11.43,10.03,10.64,12.48
+WB,Murshidabad,Kandi,Kandi,23.93333333,88.05,Kandi,"Dug Well",W10767,1996,1.91,2.78,2.32,3.31
+WB,Murshidabad,Kandi,Kandi,23.93611111,88.05222222,"Kandi Pz","Tube Well",W10769,1996,4.79,6.05,4.13,10.11
+WB,Murshidabad,Khargram,Khargram,24.10416667,87.99166667,"Nagar Pz","Tube Well",W10774,1996,6.36,8.06,6.49,10.56
+WB,Murshidabad,Lalgola,Lalgola,24.37944444,88.20111111,Joyrampur,"Dug Well",W10775,1996,2,3.2,4.96,4.64
+WB,Murshidabad,Lalgola,Lalgola,24.39166667,88.25416667,Lalgola,"Dug Well",W10776,1996,4.24,3.55,2.26,5.4
+WB,Murshidabad,Lalgola,Lalgola,24.39333333,88.255,"Lalgola Pz-2","Tube Well",W10777,1996,3.28,2.68,1.44,4.5
+WB,Murshidabad,Nabagram,Nabagram,24.175,88.1625,"Polsanda Pz","Tube Well",W10784,1996,16.79,16.6,16.28,17.65
+WB,Murshidabad,Baharampur,Baharampur,24.06666667,88.24166667,Baharampur,"Dug Well",W10720,1996,'0.81,2.58,1.94,3.49
+WB,Murshidabad,Barwan,Barwan,23.9,87.95,"Barwan Pz-1","Tube Well",W10725,1996,2.58,6,3.02,8.94
+WB,Murshidabad,Barwan,Barwan,24,87.95,"Kuli Pz","Tube Well",W10726,1996,9.29,10.94,8.72,15.69
+WB,Murshidabad,Beldanga-i,Beldanga-i,23.90833333,88.275,Begunbari,"Dug Well",W10727,1996,1.34,2.3,1.88,3.14
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.83555556,88.33361111,Jhaubona,"Dug Well",W10730,1996,1.44,2.75,2.22,NA
+WB,Murshidabad,Beldanga-ii,Beldanga-ii,23.925,88.2,Majlishpur,"Dug Well",W10731,1996,1.23,3.26,3.46,4.18
+WB,Murshidabad,Bhagawangola-i,Bhagawangola-ii,24.32222222,88.35,"Kashipur Pz","Tube Well",W10732,1996,2.82,3.95,1.82,3.73
+WB,Murshidabad,Bhagawangola-ii,Bhagawangola-ii,24.33333333,88.34583333,"Nasipur Pz","Tube Well",W10733,1996,2.3,3.4,1.76,5.82
+WB,Murshidabad,Bharatpur-i,Bharatpur-i,23.87166667,88.10666667,"Bharatpur Pz-1","Tube Well",W10734,1996,NA,4.53,4.65,8.52
+WB,Murshidabad,Domkal,Domkal,24.11666667,88.525,"Domkal Kuti","Dug Well",W10739,1996,2.95,2.62,2.39,4.28
+WB,Murshidabad,Domkal,Domkal,24.08555556,88.50861111,"Domkal Pz-1","Tube Well",W10740,1996,2.8,3.5,2.92,4.33
+WB,Murshidabad,Domkal,Domkal,24.06833333,88.55972222,"Domkal Pz-3","Tube Well",W10741,1996,3.61,3.58,2.77,4.97
+WB,Murshidabad,Farakka,Farakka,24.73333333,87.925,"Arjunpur Pz","Tube Well",W10744,1996,1.01,6.77,2.71,9.2
+WB,Murshidabad,Farakka,Farakka,24.69583333,87.9125,Basudevpur1,"Dug Well",W10745,1996,2.04,1.82,1.26,4.64
+WB,Murshidabad,Farakka,Farakka,24.73638889,87.92277778,Chaskapur,"Dug Well",W10746,1996,2.22,1.67,'0.68,4.67
+WB,Murshidabad,Farakka,Farakka,24.76666667,87.92055556,Chaukigram,"Dug Well",W10747,1996,1.28,4.19,2.38,5.66
+WB,Murshidabad,Raninagar-ii,Raninagar-ii,24.25416667,88.5625,Paranpur,"Dug Well",W10798,1996,3,3.27,2.67,4.78

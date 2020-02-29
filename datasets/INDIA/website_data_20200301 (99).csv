@@ -1,0 +1,157 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2018,NA,NA,11.66,NA
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2018,NA,NA,4.45,4.59
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2018,NA,NA,14.17,NA
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2018,NA,23.6,25.26,NA
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2018,NA,9.88,11.37,NA
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2018,NA,8.97,9.15,NA
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2017,4.52,4.54,3.91,4.5
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2017,NA,5.87,NA,NA
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2017,NA,8.1,9.13,8.27
+DL,East,"East Delhi","Preet Vihar",28.60055556,77.28111111,"Mayur Vihar Flood Plain","Tube Well",W17796,2017,NA,NA,NA,4.03
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2017,21.75,22.03,12.92,NA
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2017,11.38,11.48,12.93,NA
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2017,10.02,9.87,NA,10.42
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2017,8.75,8.93,9.85,9.47
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2016,NA,NA,NA,14.68
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2016,9.98,NA,10.01,10.04
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2016,11.01,NA,11.17,11
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2016,8.8,NA,8.87,8.92
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2016,5.64,NA,5.6,6.74
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2016,21.53,NA,21.64,21.05
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2016,4.2,NA,4.07,4.9
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2016,7.83,NA,7.9,7.79
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2015,14.37,13.48,14.38,14.11
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2015,9.69,9.26,9.7,9.72
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2015,10.15,10.3,10.27,10.79
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2015,8.59,8.53,8.51,9.05
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2015,6.19,5.46,6.44,6.77
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2015,19.95,19.04,20.27,19.68
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2015,3.86,4.31,3.71,4.73
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2015,7.58,6.64,7.84,7.9
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2014,13.18,12.47,13.09,12.88
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2014,8.97,7.78,9.2,8.11
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2014,10.45,9.85,10.44,10.42
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2014,8.63,7.64,8.71,8.23
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2014,6.05,3.66,5.34,5.05
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2014,18.97,18.02,19.18,18.4
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2014,4.13,2.93,4.29,3.69
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2014,7.07,6.53,6.94,6.69
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2013,8.1,9.01,7.76,8.95
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2013,9.48,9.44,8.95,9.8
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2013,6.25,7.48,6.44,6.46
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2013,7.31,7.87,7.39,8.19
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2013,17.78,17.02,17.81,17.66
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2013,'0.9,4.23,4.15,4.335
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2013,2.87,3.63,4.52,4.94
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2012,NA,8.43,8.88,8.7
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2012,NA,7.93,9.07,8.6
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2012,NA,4.76,7.44,6.44
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2012,NA,7.41,7.62,8.24
+DL,East,"East Delhi","Seelam Pur",28.6625,77.2525,"Gandhi Nagar Pz","Tube Well",W21767,2012,NA,1.77,NA,NA
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2012,NA,14.21,16.89,15.74
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2012,NA,3.17,4.17,4.06
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2012,NA,3.39,4.49,4.44
+DL,East,"East Delhi","Preet Vihar",28.60055556,77.28111111,"Mayur Vihar Flood Plain","Tube Well",W17796,2011,1.9,2.28,NA,2.4
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2011,8.45,7.85,8.41,8.5
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2011,7.67,7.1,7.8,7.7
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2011,7.27,7.03,7.3,8
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2011,2.74,'0.98,3.44,2.71
+DL,East,"East Delhi","Seelam Pur",28.6625,77.2525,"Gandhi Nagar Pz","Tube Well",W21767,2011,'0.83,1.4,1.77,1.9
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2011,2.11,1.66,3.06,3.89
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2011,4.95,6.81,4.72,5.34
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,2010,5.79,NA,NA,NA
+DL,East,"East Delhi","Gandhi Nagar",28.62777778,77.28111111,Shakapur,"Tube Well",W21963,2010,NA,NA,NA,7.03
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2010,NA,12.13,NA,12.34
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2010,9.1,8.66,8.04,8.7
+DL,East,"East Delhi","Vivek Vihar",28.66472222,77.31833333,"Dilshad Garden Pz","Tube Well",W18607,2010,NA,9.32,NA,10.21
+DL,East,"East Delhi","Vivek Vihar",28.64722222,77.31555556,"Anand Vihar ISBT Pz","Tube Well",W18936,2010,8.86,8.89,NA,9.57
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2010,8.33,8.9,7.32,8.29
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2010,5.8,4.91,6.76,5.4
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2010,2.51,4.38,'0.3,4.51
+DL,East,"East Delhi","Preet Vihar",28.63,77.32861111,"Gazipur Village","Tube Well",W20195,2010,12.71,12.46,10.91,13.07
+DL,East,"East Delhi","Seelam Pur",28.6625,77.2525,"Gandhi Nagar Pz","Tube Well",W21767,2010,2,1.27,1.5,1.9
+DL,East,"East Delhi","Preet Vihar",28.61555556,77.31583333,"Kalyanpuri Pz","Tube Well",W20739,2010,NA,9.93,NA,11.03
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2010,NA,11.95,NA,12.95
+DL,East,"East Delhi","Darya Ganj",28.63916667,77.26527778,"Krishna Kunj","Tube Well",W21788,2010,1.8,3.25,NA,3
+DL,East,"East Delhi","Vivek Vihar",28.63833333,77.31361111,"Patpargunj Industrial Area","Tube Well",W21789,2010,NA,9.71,NA,10.48
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2010,7.53,7.9,6.85,8.64
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2010,2.11,2.96,1.13,4.21
+DL,East,"East Delhi","Gandhi Nagar",28.61222222,77.27,"Akshardham D Pz","Tube Well",W20936,2010,NA,4.56,NA,NA
+DL,East,"East Delhi","Gandhi Nagar",28.61388889,77.26916667,"Akshardham S Pz","Tube Well",W20937,2010,NA,6.64,NA,NA
+DL,East,"East Delhi","Preet Vihar",28.60055556,77.28111111,"Mayur Vihar Flood Plain","Tube Well",W17796,2010,5.7,4.85,1.69,5.5
+DL,East,"East Delhi","Preet Vihar",28.60055556,77.28111111,"Mayur Vihar Flood Plain","Tube Well",W17796,2009,5.04,5.32,4.5,5.99
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2009,12.95,11.64,11.76,12.32
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2009,9.06,8.19,8.26,8.39
+DL,East,"East Delhi","Vivek Vihar",28.66472222,77.31833333,"Dilshad Garden Pz","Tube Well",W18607,2009,9.8,9.82,8.83,10.19
+DL,East,"East Delhi","Vivek Vihar",28.64722222,77.31555556,"Anand Vihar ISBT Pz","Tube Well",W18936,2009,8.87,9.15,8.39,9.53
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2009,8.9,9.08,8.43,8.26
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2009,5.25,6.01,5.51,6.63
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2009,5.75,5.91,5.8,6.26
+DL,East,"East Delhi","Preet Vihar",28.63,77.32861111,"Gazipur Village","Tube Well",W20195,2009,12.51,11.32,11.92,12.37
+DL,East,"East Delhi","Seelam Pur",28.6625,77.2525,"Gandhi Nagar Pz","Tube Well",W21767,2009,1,'0.7,'0.9,1.21
+DL,East,"East Delhi","Preet Vihar",28.61555556,77.31583333,"Kalyanpuri Pz","Tube Well",W20739,2009,11.32,10.32,9.69,11.01
+DL,East,"East Delhi","Preet Vihar",28.62805556,77.31805556,"Ghazipur Crossing Pz","Tube Well",W21787,2009,13.12,12.03,12.01,12.91
+DL,East,"East Delhi","Darya Ganj",28.63916667,77.26527778,"Krishna Kunj","Tube Well",W21788,2009,2.93,3.03,2.9,3.16
+DL,East,"East Delhi","Vivek Vihar",28.63833333,77.31361111,"Patpargunj Industrial Area","Tube Well",W21789,2009,10.76,9.72,9.39,10.44
+DL,East,"East Delhi","Preet Vihar",28.58722222,77.30138889,"Chilla Regulator","Tube Well",W21813,2009,8.56,NA,7.7,8.22
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2009,3.86,4.32,2.55,5.18
+DL,East,"East Delhi","Gandhi Nagar",28.61222222,77.27,"Akshardham D Pz","Tube Well",W20936,2009,6.16,6.7,4.18,6.39
+DL,East,"East Delhi","Gandhi Nagar",28.61388889,77.26916667,"Akshardham S Pz","Tube Well",W20937,2009,6.96,5.95,6.22,7.36
+DL,East,"East Delhi","Gandhi Nagar",28.61222222,77.27,"Akshardham D Pz","Tube Well",W20936,2008,5.22,6.83,4.35,6.27
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2008,11.57,12.05,11.87,12.06
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2008,3.86,5.08,2.61,4.84
+DL,East,"East Delhi","Preet Vihar",28.61555556,77.31583333,"Kalyanpuri Pz","Tube Well",W20739,2008,8.83,NA,9.97,10.84
+DL,East,"East Delhi","Seelam Pur",28.6625,77.2525,"Gandhi Nagar Pz","Tube Well",W21767,2008,NA,NA,'0.65,NA
+DL,East,"East Delhi","Preet Vihar",28.63,77.32861111,"Gazipur Village","Tube Well",W20195,2008,10.81,11.34,10.94,11.55
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2008,8.63,NA,8.36,9.03
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2008,5.81,6.13,5.97,6.23
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2008,7.12,7,8.3,7.6
+DL,East,"East Delhi","Vivek Vihar",28.64722222,77.31555556,"Anand Vihar ISBT Pz","Tube Well",W18936,2008,8.65,NA,8.32,9.25
+DL,East,"East Delhi","Vivek Vihar",28.66472222,77.31833333,"Dilshad Garden Pz","Tube Well",W18607,2008,8.7,7.58,8.43,8.28
+DL,East,"East Delhi","Gandhi Nagar",28.61388889,77.26916667,"Akshardham S Pz","Tube Well",W20937,2008,6.6,7.03,6.1,7.13
+DL,East,"East Delhi","Preet Vihar",28.60055556,77.28111111,"Mayur Vihar Flood Plain","Tube Well",W17796,2008,4,5.46,2.45,5.78
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2008,4.83,5.92,5.82,6.01
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2007,11.53,11.47,NA,11.87
+DL,East,"East Delhi","Preet Vihar",28.60055556,77.28111111,"Mayur Vihar Flood Plain","Tube Well",W17796,2007,4.98,5.1,5.16,5.49
+DL,East,"East Delhi","Gandhi Nagar",28.61388889,77.26916667,"Akshardham S Pz","Tube Well",W20937,2007,6.69,6.83,6.83,7.03
+DL,East,"East Delhi","Gandhi Nagar",28.61222222,77.27,"Akshardham D Pz","Tube Well",W20936,2007,6.02,6.6,6.46,6.12
+DL,East,"East Delhi","Gandhi Nagar",28.60694444,77.26611111,"Nizamuddin Bridge-1","Tube Well",W21395,2007,4.71,NA,4.96,5.12
+DL,East,"East Delhi","Preet Vihar",28.61555556,77.31583333,"Kalyanpuri Pz","Tube Well",W20739,2007,9.86,10.23,NA,10.54
+DL,East,"East Delhi","Preet Vihar",28.63,77.32861111,"Gazipur Village","Tube Well",W20195,2007,10.84,11.16,NA,11.23
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2007,5.56,5.76,5.76,5.76
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2007,5.85,6.07,5.96,6.07
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2007,6,6.74,NA,7.1
+DL,East,"East Delhi","Vivek Vihar",28.64722222,77.31555556,"Anand Vihar ISBT Pz","Tube Well",W18936,2007,8.85,9.15,NA,9.3
+DL,East,"East Delhi","Vivek Vihar",28.66472222,77.31833333,"Dilshad Garden Pz","Tube Well",W18607,2007,7.15,7.66,NA,8.06
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2007,8.62,8.88,NA,8.79
+DL,East,"East Delhi","Vivek Vihar",28.64722222,77.31555556,"Anand Vihar ISBT Pz","Tube Well",W18936,2006,8.82,NA,8.55,8.4
+DL,East,"East Delhi","Preet Vihar",28.60055556,77.28111111,"Mayur Vihar Flood Plain","Tube Well",W17796,2006,4.83,4.93,4.76,5.12
+DL,East,"East Delhi","Preet Vihar",28.63,77.32861111,"Gazipur Village","Tube Well",W20195,2006,11.01,NA,10.99,10.13
+DL,East,"East Delhi","Gandhi Nagar",28.61388889,77.26916667,"Akshardham S Pz","Tube Well",W20937,2006,6.76,NA,6.73,6.95
+DL,East,"East Delhi","Vivek Vihar",28.66472222,77.31833333,"Dilshad Garden Pz","Tube Well",W18607,2006,6.22,NA,7.47,7.48
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,2006,NA,NA,NA,8.17
+DL,East,"East Delhi","Gandhi Nagar",28.61222222,77.27,"Akshardham D Pz","Tube Well",W20936,2006,6.08,NA,6.23,6.86
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2006,4.51,5.07,5.45,5.68
+DL,East,"East Delhi","Preet Vihar",28.61555556,77.31583333,"Kalyanpuri Pz","Tube Well",W20739,2006,9.32,9.61,9.96,10.68
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2006,8.62,8.36,8.72,8.73
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2006,6.88,6.19,6.87,6.9
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2006,5.24,5.49,5.58,6.27
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2006,9.92,8.92,11.67,9.5
+DL,East,"East Delhi","Preet Vihar",28.63,77.32861111,"Gazipur Village","Tube Well",W20195,2005,NA,NA,NA,8.8
+DL,East,"East Delhi","Gandhi Nagar",28.60833333,77.26666667,"Akshardham Temple Pz","Tube Well",W19798,2005,5.45,5.69,5.65,6.2
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,2005,7.07,8.05,NA,8.9
+DL,East,"East Delhi","Preet Vihar",28.61638889,77.30444444,"Mayur Vihar B Block, Ph-II","Tube Well",W18938,2005,4.62,4.84,5.16,5.33
+DL,East,"East Delhi","Vivek Vihar",28.66111111,77.30305556,"Cbd Shahdara Pz","Tube Well",W18937,2005,5.83,6.63,6,6.42
+DL,East,"East Delhi","Preet Vihar",28.60055556,77.28111111,"Mayur Vihar Flood Plain","Tube Well",W17796,2005,5.15,4.74,5.23,5.5
+DL,East,"East Delhi","Preet Vihar",28.60027778,77.29861111,"Chillasaroda Pz","Tube Well",W18801,2005,7.63,8.61,7.73,9.46
+DL,East,"East Delhi","Preet Vihar",28.61527778,77.33083333,"Kondli Pz","Tube Well",W18517,2005,9.03,8.99,9.14,9.42
+DL,East,"East Delhi","Vivek Vihar",28.66472222,77.31833333,"Dilshad Garden Pz","Tube Well",W18607,2005,5.6,5.87,6.18,6.2
+DL,East,"East Delhi","Vivek Vihar",28.64722222,77.31555556,"Anand Vihar ISBT Pz","Tube Well",W18936,2005,7.4,7.23,7.2,7.2
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,2004,NA,NA,6.76,NA
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,2001,NA,4.62,NA,NA
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,2000,4.31,4.2,4.48,4.5
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,1999,3.97,4.02,4.11,4.71
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,1998,4.2,4.2,4.35,4.41
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,1997,4.2,4.18,4.2,4.42
+DL,East,"East Delhi","Preet Vihar",28.59861111,77.30138889,Chillasaroda,"Dug Well",W01485,1996,3.75,3.55,4,4.25

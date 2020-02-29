@@ -1,0 +1,229 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2018,5.08,8.43,NA,NA
+MP,Singrauli,Deosar,Deosar,24.39472222,82.24388889,Karthua,"Dug Well",W28945,2018,9.8,15.4,NA,NA
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2018,10.5,9.64,NA,NA
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2018,9.69,13.69,NA,NA
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2018,2.4,6.2,NA,NA
+MP,Singrauli,Waidhan,Baidhan,23.94555556,82.485,"Koyal Khunth","Dug Well",W28770,2018,1.95,8.7,NA,NA
+MP,Singrauli,Waidhan,Baidhan,24.01111111,82.47166667,Chaura,"Dug Well",W28796,2018,4.45,8.35,NA,NA
+MP,Singrauli,Waidhan,Baidhan,24.03972222,82.31777778,Jamgadi,"Dug Well",W28815,2018,4.7,6.3,NA,NA
+MP,Singrauli,Waidhan,Baidhan,24.04722222,82.25583333,"Jattha Tola","Dug Well",W28821,2018,4.1,5.3,NA,NA
+MP,Singrauli,Waidhan,Baidhan,24.06833333,82.62916667,Waidhan(D),"Bore Well",W28833,2018,13.81,18.47,NA,NA
+MP,Singrauli,Waidhan,Baidhan,24.15555556,82.48555556,Gaderiya,"Dug Well",W28868,2018,3,3.2,NA,NA
+MP,Singrauli,Waidhan,Baidhan,24.08916667,82.5575,"Parsauna New","Dug Well",W28843,2018,2.7,5.7,NA,NA
+MP,Singrauli,Deosar,Deosar,24.00111111,82.10583333,"Chamari Dol","Dug Well",W28791,2018,1.4,5.6,NA,NA
+MP,Singrauli,Deosar,Deosar,24.03972222,82.20388889,Sarai,"Dug Well",W28814,2018,3.85,4.95,NA,NA
+MP,Singrauli,Deosar,Deosar,24.04,82.04138889,Parasi,"Dug Well",W28816,2018,1.95,6.05,NA,NA
+MP,Singrauli,Deosar,Deosar,24.26777778,82.3425,"Kohara Khoh","Dug Well",W28918,2018,3.1,9.1,NA,NA
+MP,Singrauli,Deosar,Deosar,24.12027778,81.93416667,"Papal Khera","Dug Well",W28850,2018,2.85,7.95,NA,NA
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Bargawan,"Dug Well",W28883,2018,10.1,9.5,NA,NA
+MP,Singrauli,Deosar,Deosar,24.23861111,82.37722222,"Betaha Dand","Dug Well",W28898,2018,2.45,4.35,NA,NA
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar1,"Dug Well",W28933,2018,11.17,14.97,NA,NA
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2018,3.46,5.26,NA,NA
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2017,7.13,9.38,7.63,9.33
+MP,Singrauli,Deosar,Deosar,24.39472222,82.24388889,Karthua,"Dug Well",W28945,2017,10.2,14.4,14.9,17.6
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2017,9.06,8.5,8.96,10.7
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2017,13.2,13.4,13,15.8
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2017,2.65,5.2,6.3,10.1
+MP,Singrauli,Waidhan,Baidhan,23.94555556,82.485,"Koyal Khunth","Dug Well",W28770,2017,2.1,4.7,8.2,10.6
+MP,Singrauli,Waidhan,Baidhan,24.01111111,82.47166667,Chaura,"Dug Well",W28796,2017,2.95,6.1,4.95,10.55
+MP,Singrauli,Waidhan,Baidhan,24.03972222,82.31777778,Jamgadi,"Dug Well",W28815,2017,4.8,5.75,5.9,6.07
+MP,Singrauli,Waidhan,Baidhan,24.04722222,82.25583333,"Jattha Tola","Dug Well",W28821,2017,4.3,6,6,6.54
+MP,Singrauli,Waidhan,Baidhan,24.06833333,82.62916667,Waidhan(D),"Bore Well",W28833,2017,16.1,9.9,10.93,18
+MP,Singrauli,Waidhan,Baidhan,24.15555556,82.48555556,Gaderiya,"Dug Well",W28868,2017,2.95,3.45,3.3,3.74
+MP,Singrauli,Waidhan,Baidhan,24.08916667,82.5575,"Parsauna New","Dug Well",W28843,2017,4.2,5.1,8.9,7.6
+MP,Singrauli,Deosar,Deosar,24.00111111,82.10583333,"Chamari Dol","Dug Well",W28791,2017,2.5,3.4,5.2,6.2
+MP,Singrauli,Deosar,Deosar,24.03972222,82.20388889,Sarai,"Dug Well",W28814,2017,3.45,4.75,4.95,7.4
+MP,Singrauli,Deosar,Deosar,24.04,82.04138889,Parasi,"Dug Well",W28816,2017,2.1,4.9,4.45,7.6
+MP,Singrauli,Deosar,Deosar,24.26777778,82.3425,"Kohara Khoh","Dug Well",W28918,2017,2.55,9.16,9,9.7
+MP,Singrauli,Deosar,Deosar,24.12027778,81.93416667,"Papal Khera","Dug Well",W28850,2017,5.95,6.85,7.45,11.55
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Bargawan,"Dug Well",W28883,2017,9.1,8.6,9.1,11.3
+MP,Singrauli,Deosar,Deosar,24.23861111,82.37722222,"Betaha Dand","Dug Well",W28898,2017,1.95,4.3,3.85,5.72
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar1,"Dug Well",W28933,2017,15.12,14.97,15.77,18.31
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2017,3.35,4.44,4.4,6.3
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2016,10,11.76,8.73,NA
+MP,Singrauli,Waidhan,Baidhan,24.01111111,82.47166667,Chaura,"Dug Well",W28796,2016,1.57,10.13,3.22,9.7
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2016,8.4,17.12,10.89,NA
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2016,6.88,10.92,8.01,NA
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2016,1.61,6.38,7.32,NA
+MP,Singrauli,Deosar,Deosar,24.03972222,82.20388889,Sarai,"Dug Well",W28814,2016,1.55,6.4,7.17,7.25
+MP,Singrauli,Waidhan,Baidhan,24.03972222,82.31777778,Jamgadi,"Dug Well",W28815,2016,4.1,6.92,5.62,7
+MP,Singrauli,Deosar,Deosar,24.04,82.04138889,Parasi,"Dug Well",W28816,2016,'0.6,7.61,5.64,8.95
+MP,Singrauli,Waidhan,Baidhan,24.04722222,82.25583333,"Jattha Tola","Dug Well",W28821,2016,3.2,6.55,4.13,6.85
+MP,Singrauli,Waidhan,Baidhan,24.06833333,82.62916667,Waidhan(D),"Bore Well",W28833,2016,20.15,34.47,26.15,30.58
+MP,Singrauli,Waidhan,Baidhan,24.08916667,82.5575,"Parsauna New","Dug Well",W28843,2016,4,8,7.25,9.29
+MP,Singrauli,Deosar,Deosar,24.12027778,81.93416667,"Papal Khera","Dug Well",W28850,2016,3.85,11.55,7.04,11.55
+MP,Singrauli,Waidhan,Baidhan,24.15555556,82.48555556,Gaderiya,"Dug Well",W28868,2016,3.2,4.11,3.31,4.6
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Bargawan,"Dug Well",W28883,2016,9.4,11.3,8.65,10.5
+MP,Singrauli,Deosar,Deosar,24.23861111,82.37722222,"Betaha Dand","Dug Well",W28898,2016,1.71,5.14,1.84,6.9
+MP,Singrauli,Deosar,Deosar,24.26777778,82.3425,"Kohara Khoh","Dug Well",W28918,2016,1.73,9.67,3.22,10.4
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar1,"Dug Well",W28933,2016,12.77,14.56,13.29,18.27
+MP,Singrauli,Deosar,Deosar,24.39472222,82.24388889,Karthua,"Dug Well",W28945,2016,8.55,15.99,11.52,17.7
+MP,Singrauli,Waidhan,Baidhan,23.94555556,82.485,"Koyal Khunth","Dug Well",W28770,2016,1.2,5.31,3.92,9.2
+MP,Singrauli,Deosar,Deosar,24.00111111,82.10583333,"Chamari Dol","Dug Well",W28791,2016,'0.65,4.52,2.34,6.4
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2016,2.3,8.36,3.27,NA
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2015,11.07,10.5,11.27,11.52
+MP,Singrauli,Waidhan,Baidhan,24.01111111,82.47166667,Chaura,"Dug Well",W28796,2015,4.9,3.85,6.53,10.75
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2015,15.68,15.3,15.88,16.1
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2015,8.18,2.32,10.58,10.43
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2015,NA,4.01,NA,NA
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2015,3.85,3.47,5.63,4.83
+MP,Singrauli,Deosar,Deosar,24.03972222,82.20388889,Sarai,"Dug Well",W28814,2015,4.6,4.03,5.55,5.95
+MP,Singrauli,Waidhan,Baidhan,24.03972222,82.31777778,Jamgadi,"Dug Well",W28815,2015,5.8,5.5,6.32,5.95
+MP,Singrauli,Deosar,Deosar,24.04,82.04138889,Parasi,"Dug Well",W28816,2015,4.95,5.15,6.2,7.25
+MP,Singrauli,Waidhan,Baidhan,24.04722222,82.25583333,"Jattha Tola","Dug Well",W28821,2015,6.3,6.05,6.45,6.4
+MP,Singrauli,Waidhan,Baidhan,24.06833333,82.62916667,Waidhan(D),"Bore Well",W28833,2015,10.31,23.82,30.08,24.55
+MP,Singrauli,Waidhan,Baidhan,24.08916667,82.5575,"Parsauna New","Dug Well",W28843,2015,6.1,4.96,7.7,7.5
+MP,Singrauli,Deosar,Deosar,24.12027778,81.93416667,"Papal Khera","Dug Well",W28850,2015,8.15,7.95,8.8,9.35
+MP,Singrauli,Waidhan,Baidhan,24.15555556,82.48555556,Gaderiya,"Dug Well",W28868,2015,4.1,NA,4.35,3.83
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Bargawan,"Dug Well",W28883,2015,10.07,10.3,10.2,10.5
+MP,Singrauli,Deosar,Deosar,24.23861111,82.37722222,"Betaha Dand","Dug Well",W28898,2015,2.95,3.76,4.05,5.05
+MP,Singrauli,Deosar,Deosar,24.26777778,82.3425,"Kohara Khoh","Dug Well",W28918,2015,7.1,9.7,9.4,10.25
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar1,"Dug Well",W28933,2015,16.37,15.07,15.77,16.87
+MP,Singrauli,Deosar,Deosar,24.39472222,82.24388889,Karthua,"Dug Well",W28945,2015,12.6,15.3,14.8,16
+MP,Singrauli,Waidhan,Baidhan,23.94555556,82.485,"Koyal Khunth","Dug Well",W28770,2015,3.95,4.04,8.4,5.2
+MP,Singrauli,Deosar,Deosar,24.00111111,82.10583333,"Chamari Dol","Dug Well",W28791,2015,2.4,3.65,3.9,6
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2015,5.05,5.3,6,8.95
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2014,9.94,8.9,10.22,10.27
+MP,Singrauli,Waidhan,Baidhan,24.01111111,82.47166667,Chaura,"Dug Well",W28796,2014,4.7,4.75,4.69,8.41
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2014,15.1,14.5,15.52,15.93
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2014,8.83,6.93,8.34,9.05
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2014,2.65,4.2,NA,5.2
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2014,4.15,3.36,3.18,4.43
+MP,Singrauli,Deosar,Deosar,24.03972222,82.20388889,Sarai,"Dug Well",W28814,2014,4.2,3.05,3.4,5.35
+MP,Singrauli,Waidhan,Baidhan,24.03972222,82.31777778,Jamgadi,"Dug Well",W28815,2014,5.23,5.3,5.44,5.65
+MP,Singrauli,Deosar,Deosar,24.04,82.04138889,Parasi,"Dug Well",W28816,2014,2.75,3.95,3.77,7.1
+MP,Singrauli,Waidhan,Baidhan,24.04722222,82.25583333,"Jattha Tola","Dug Well",W28821,2014,6.15,5.9,5.86,6.55
+MP,Singrauli,Waidhan,Baidhan,24.06833333,82.62916667,Waidhan(D),"Bore Well",W28833,2014,8.75,5.06,18.69,9.1
+MP,Singrauli,Deosar,Deosar,24.12027778,81.93416667,"Papal Khera","Dug Well",W28850,2014,6.8,6.55,5.45,8.2
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Bargawan,"Dug Well",W28883,2014,10.4,9.05,9.56,9.8
+MP,Singrauli,Deosar,Deosar,24.23861111,82.37722222,"Betaha Dand","Dug Well",W28898,2014,3.95,4.9,3.9,6
+MP,Singrauli,Deosar,Deosar,24.26777778,82.3425,"Kohara Khoh","Dug Well",W28918,2014,7.4,9.15,NA,10.4
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar1,"Dug Well",W28933,2014,16.27,14.77,15.87,16.82
+MP,Singrauli,Deosar,Deosar,24.39472222,82.24388889,Karthua,"Dug Well",W28945,2014,11.5,12.43,12.02,16.15
+MP,Singrauli,Waidhan,Baidhan,23.94555556,82.485,"Koyal Khunth","Dug Well",W28770,2014,3.9,3.15,4.51,4.6
+MP,Singrauli,Deosar,Deosar,24.00111111,82.10583333,"Chamari Dol","Dug Well",W28791,2014,2.8,3.1,2.37,5.42
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2014,5.85,5.2,4.62,9.4
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2013,10.19,9.9,8.68,NA
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2013,2.5,5.3,3.25,8.65
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2013,13.65,15.4,14.98,16.02
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2013,6.28,8.955,5.38,9.455
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2013,2.5,4.65,3.7,7.55
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2013,2,4.42,2.3,5.92
+MP,Singrauli,Waidhan,Baidhan,24.06833333,82.62916667,*Waidhan(S),"Bore Well",W31687,2013,NA,6.95,NA,NA
+MP,Singrauli,Waidhan,Baidhan,24.06833333,82.62916667,Waidhan(D),"Bore Well",W28833,2013,4.88,NA,6.25,NA
+MP,Singrauli,Deosar,Deosar,24.12027778,81.93416667,"Papal Khera","Dug Well",W28850,2013,2.72,6.25,5.65,7.93
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Bargawan,"Dug Well",W28883,2013,9.8,9.3,7.9,11.3
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar1,"Dug Well",W28933,2013,14.87,15.77,16.07,16.07
+MP,Singrauli,Waidhan,Baidhan,24.01111111,82.47166667,Chaura,"Dug Well",W28796,2013,3.55,8.45,2.4,10.35
+MP,Singrauli,Deosar,Deosar,24.03972222,82.20388889,Sarai,"Dug Well",W28814,2013,1.65,NA,2.1,NA
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2012,NA,9.06,6.53,NA
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2012,NA,4.78,3.45,9.7
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2012,NA,15.1,14.67,18.5
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2012,NA,4.98,5.93,11.09
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar1,"Dug Well",W28933,2012,NA,NA,15.17,NA
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2012,NA,3,2.94,5.2
+MP,Singrauli,Waidhan,Baidhan,24.06833333,82.62916667,Waidhan(D),"Bore Well",W28833,2012,NA,NA,20.48,NA
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Bargawan,"Dug Well",W28883,2012,NA,NA,7.85,NA
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2012,NA,3.55,3.05,4.13
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2011,10.22,12.92,8.22,14.08
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2011,2.9,6.05,4,11.82
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2011,14.13,16.93,13.8,16.37
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2011,2.16,4.98,2.64,6
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2011,8.5,8.5,3.15,7.55
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2011,7.6,NA,NA,6.75
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2011,7.3,10.63,4.28,11.15
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2010,NA,13.2,NA,14.55
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2010,5.3,5.3,6.25,8.1
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2010,NA,6.6,NA,5.5
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2010,10.33,11.25,10.79,9.48
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2010,NA,NA,7.55,NA
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2010,NA,25,NA,14.8
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2009,NA,12.63,NA,13.13
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2009,6.8,11.55,4.9,10.85
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2009,NA,4.91,NA,5.84
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2009,10.43,10.1,8.83,10.45
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2009,NA,8.5,NA,8.5
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2009,NA,17.48,NA,16.17
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2008,11.35,12.4,11.04,10.8
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2008,4.1,12.75,4.7,13.5
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2008,13.02,15.87,17.18,16.9
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2008,2.28,5.05,4.24,5.65
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2008,2.9,7.55,8.5,7.55
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2008,NA,6.75,NA,6.75
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2008,9.28,10.15,9.9,9.58
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2007,12.1,11.3,12.2,12.5
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2007,9.65,6.1,10.85,8.7
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2007,15.9,17.2,16.1,16.1
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2007,4.1,3.87,4.82,5.24
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2007,4.27,4.6,7.55,7.55
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2007,6.75,6.75,6.75,6.75
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2007,8.93,7.23,10.08,8.98
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2006,10.41,10,10.16,11.79
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2006,4,6.18,5.3,10.4
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2006,14.2,15.3,10.04,15.9
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2006,1.38,3.84,3.3,5.13
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2006,3.97,4.8,3.9,7.55
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2006,5.67,6.75,NA,5.45
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2006,4.28,10.48,6.28,11.05
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2005,9.27,9.63,9.53,11.15
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2005,3.35,5.8,5.68,9.95
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2005,10.4,14.5,15.06,16.4
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2005,1.97,4.55,3.3,5.3
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2005,3.8,5.33,3.98,6.73
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2005,6.3,5.73,5.59,6.75
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2005,8.11,7.28,7.68,10.73
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2004,11.28,4.1,8.95,10.55
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2004,4.95,4.6,4.58,11.3
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2004,11.27,13.9,15.62,15.9
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2004,2.65,3.08,3.6,4.75
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2004,5.32,4.2,3.16,5.7
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2004,4.97,3.95,5.33,6.45
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2004,8.25,4.48,7.91,8.6
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2003,10.6,10.13,7,11.44
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2003,3.92,6.33,3.55,11.1
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2003,11.25,15.43,13.3,16.03
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2003,3.2,3.86,2.1,5
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2003,4.9,NA,3.5,NA
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2003,4.82,6.17,3.15,NA
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2003,7.65,7.98,4.63,9.66
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2002,9.94,9.94,9.4,11.17
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2002,5.92,7,4.72,11.3
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2002,8.2,15.33,15.52,16.1
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2002,NA,3.32,3.2,4.75
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2002,NA,4.75,7.25,NA
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2002,NA,4.9,5.69,NA
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2002,NA,6.9,NA,8.75
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2001,8.9,7.9,9.18,10.32
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2001,2.95,6.41,4.19,11.5
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2001,16.65,14.85,NA,15.81
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2001,7.01,NA,5.65,8.78
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2001,2.85,4.19,3.23,5.05
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2001,3.45,4.59,3.84,6.55
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2001,1.59,NA,2.6,4.87
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,2000,NA,NA,6.27,NA
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,2000,14.16,NA,15.19,NA
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,2000,3.85,5.3,3.57,NA
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,2000,2.25,4.88,3.46,5.15
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,2000,NA,NA,7.79,12.93
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,2000,8.5,NA,6.57,NA
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,2000,7.2,5.58,4.21,10.48
+MP,Singrauli,Deosar,Deosar,24.31888889,82.30416667,Deosar,"Bore Well",W00524,1999,16.18,NA,NA,NA
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,1999,2.43,5.86,3.15,NA
+MP,Singrauli,Deosar,Deosar,24.19638889,82.45583333,Baragawan,"Bore Well",W00521,1999,10.93,NA,NA,NA
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,1999,NA,NA,3.93,NA
+MP,Singrauli,Deosar,Deosar,24.04166667,82.20555556,Sarai,"Bore Well",W01239,1999,10.8,NA,NA,NA
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,1999,5.28,6.73,4.23,6.42
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,1999,4.36,4.67,5.06,6.62
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,1998,6.17,NA,6.83,NA
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,1998,2.69,NA,3.27,5.38
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,1998,3.12,NA,3.98,8.97
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,1998,5.84,NA,6.33,6.81
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,1997,2.39,4.54,2.91,5.31
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,1997,6.64,6.16,4.1,11.46
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,1997,NA,NA,3.53,8.98
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,1997,3.25,6.48,4.5,6.83
+MP,Singrauli,Baidhan,Baidhan,23.89722222,82.50277778,Mara,"Dug Well",W01234,1996,6.05,4.53,6.25,7.29
+MP,Singrauli,Deosar,Deosar,24.38333333,82.25972222,Bharra,"Dug Well",W00523,1996,2.78,5.5,4.47,7.48
+MP,Singrauli,Baidhan,Baidhan,24.0875,82.56055556,Parsauna,"Dug Well",W01235,1996,2.53,4.86,3.49,5.5
+MP,Singrauli,Baidhan,Baidhan,24.06833333,82.62916667,Waidhan,"Dug Well",W01236,1996,5.11,5.45,5.73,6.79

@@ -1,0 +1,1177 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2018,NA,25.4,24.66,NA
+GJ,Vadodara,Vadodara,Vadodara,22.3425,73.20055556,Vadodara_Sama,"Dug Well",W32899,2018,'0.6,NA,NA,NA
+GJ,Vadodara,Vaghodia,Vaghodia,22.36388889,73.37694444,"Waghodia Pz","Tube Well",W22756,2018,NA,5.7,6.95,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2018,NA,'0.3,11.88,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2018,NA,4,6.93,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2018,NA,10.9,12.3,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2018,NA,2.2,3.23,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2018,NA,4.05,5.13,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2018,NA,15.4,28.84,NA
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2018,4.25,7.5,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2018,2.2,4.2,NA,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2018,3.71,2.1,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2018,1.43,8.95,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2018,'0.15,9.1,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2018,4.88,5.1,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2018,1.85,1.6,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2018,4.8,7.6,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2018,5.53,10.65,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2018,'0.8,7.3,NA,NA
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2018,27.63,22.52,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2018,6.4,10.2,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2018,1.36,3.96,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2018,19.89,11.5,NA,NA
+GJ,Vadodara,Vadodara,Vadodara,22.16305556,73.16944444,"Vadshala Pzi","Tube Well",W22754,2018,28.3,21.7,NA,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2018,'0.57,'0.4,NA,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2018,3.64,4.5,NA,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2018,5.27,8.8,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2018,2.26,'0.6,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2018,33.88,31.35,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2018,6.95,9,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2018,3.23,3.8,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2018,2.65,11.1,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2018,'0.6,'0.4,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2018,8.7,9.6,NA,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2018,NA,4.4,NA,NA
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2018,NA,NA,39.33,NA
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2018,NA,NA,12.25,NA
+GJ,Vadodara,Sankheda,Sankheda,22.14666667,73.75555556,"Kosindra Pz-I","Bore Well",W22752,2018,NA,NA,3.47,NA
+GJ,Vadodara,"Jetpur Pavi","Jetpur Pavi",22.25861111,73.78388889,"Vadtalav Pz","Bore Well",W22751,2018,NA,NA,11.6,19
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2018,8.65,NA,NA,NA
+GJ,Vadodara,Vaghodia,Vaghodia,22.39666667,73.43222222,"Chella Karamsiya Pz","Tube Well",W22755,2018,1.22,NA,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2018,3.58,NA,NA,7.28
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2018,NA,NA,NA,10.53
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2018,NA,NA,NA,9.95
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2018,NA,NA,NA,8.13
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2018,NA,30.2,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2018,NA,NA,24.55,23.9
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2018,NA,NA,NA,5
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod2,"Tube Well",W27499,2018,NA,28.07,30.17,NA
+GJ,Vadodara,Vadodara,Vadodara,22.43888889,73.12222222,Sankarda1,"Tube Well",W27798,2018,NA,NA,NA,29.16
+GJ,Vadodara,Sinor,Sinor,22.00833333,73.38333333,"Segwa chowki I","Tube Well",W27459,2018,28.76,27.9,NA,NA
+GJ,Vadodara,Padra,Padra,22.23333333,73.05416667,"Ghayaj ii","Tube Well",W27612,2018,19.48,21.3,NA,NA
+GJ,Vadodara,Vadodara,Vadodara,22.30472222,73.27166667,"Vadodara Ii","Tube Well",W27701,2018,13.76,6.2,NA,NA
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod1,"Tube Well",W27498,2018,NA,NA,NA,29.8
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.20361111,74.01055556,Asar,"Dug Well",W27580,2018,NA,NA,17.2,17.2
+GJ,Vadodara,Vadodara,Vadodara,22.26916667,73.21277778,Vadodara_ONGC,"Dug Well",W31472,2018,NA,NA,9.29,16.14
+GJ,Vadodara,Vadodara,Vadodara,22.29333333,73.19833333,"Vadodara_Kevada Bag","Dug Well",W31479,2018,NA,NA,7,8.98
+GJ,Vadodara,Padra,Padra,22.18194444,72.94583333,"Chitral PZ_II","Tube Well",W27565,2018,NA,23.2,24.36,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2018,NA,1.75,1.96,NA
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2017,20.9,24.65,25.02,24.67
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.30833333,74.01666667,"Chota udepur","Bore Well",W31493,2017,NA,NA,NA,8.36
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2017,4.6,5.44,4.98,7.87
+GJ,Vadodara,Vaghodia,Vaghodia,22.36388889,73.37694444,"Waghodia Pz","Tube Well",W22756,2017,4.55,8.26,6.7,10.54
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2017,1.38,5.95,4.82,8.32
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2017,'0.27,4.06,3.74,6.33
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2017,5.19,5.19,5.05,12.22
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2017,35.8,37.94,37.7,42.87
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2017,2.2,3.3,3,6.7
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2017,3.5,6.49,2.43,6.93
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2017,8.95,8.24,7.42,10.27
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2017,8.45,12.95,11.25,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2017,6.7,10.06,6.1,29.32
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2017,1.89,9.65,7.42,9.78
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2017,2.3,3.25,3.34,3.49
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2017,3.75,5.29,4.85,7.11
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2017,13.45,14.41,12.95,14.34
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2017,22.74,23.56,24.47,25.65
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2017,2.72,6.14,4.99,9
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2017,15.7,28.08,15.8,15.52
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2017,14.05,15.29,13.65,16.52
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2017,6.65,6.44,5.38,8.11
+GJ,Vadodara,"Jetpur Pavi","Jetpur Pavi",22.25861111,73.78388889,"Vadtalav Pz","Bore Well",W22751,2017,8.7,9.12,10.9,13.86
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2017,NA,2.67,1.65,3.73
+GJ,Vadodara,Sankheda,Sankheda,22.14666667,73.75555556,"Kosindra Pz-I","Bore Well",W22752,2017,NA,3.72,2.72,4.84
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2017,NA,2.13,2.04,2.84
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2017,NA,4.29,4.34,8.72
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2017,NA,NA,2.9,7.28
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2017,NA,NA,5.91,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2017,NA,NA,5.72,NA
+GJ,Vadodara,Vaghodia,Vaghodia,22.39666667,73.43222222,"Chella Karamsiya Pz","Tube Well",W22755,2017,2.5,2.23,NA,3.58
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2017,1.68,3.85,NA,4.7
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2017,8,9.49,NA,10.37
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2017,NA,11.22,NA,10.75
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2017,NA,4.94,NA,13.2
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2017,NA,11.88,NA,11.88
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2017,9.65,NA,NA,12.3
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2017,6.9,10.06,10.3,13.42
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2017,3.5,5.62,5.15,6.42
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2017,'0.8,1.66,1.74,2.45
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2017,22.01,21.39,22.1,23.7
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2017,11.2,10.28,7.46,9.72
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2017,NA,12.43,10.06,11.05
+GJ,Vadodara,Sinor,Sinor,22.00833333,73.38333333,"Segwa chowki I","Tube Well",W27459,2017,33.15,33.36,37.2,36.09
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2017,21.1,26.86,NA,28.03
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2017,NA,26.64,NA,27.23
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod1,"Tube Well",W27498,2017,NA,28.63,29.85,29.3
+GJ,Vadodara,Padra,Padra,22.18194444,72.94583333,"Chitral PZ_II","Tube Well",W27565,2017,23.14,23.4,24.1,25.63
+GJ,Vadodara,Padra,Padra,22.23333333,73.05416667,"Ghayaj ii","Tube Well",W27612,2017,20.6,23.44,18,25.12
+GJ,Vadodara,Vadodara,Vadodara,22.30472222,73.27166667,"Vadodara Ii","Tube Well",W27701,2017,5.5,5.15,7.72,6.42
+GJ,Vadodara,Vadodara,Vadodara,22.26916667,73.21277778,Vadodara_ONGC,"Dug Well",W31472,2017,NA,16.14,15.5,13.66
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod2,"Tube Well",W27499,2017,26.77,NA,NA,NA
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.20361111,74.01055556,Asar,"Dug Well",W27580,2017,11.5,NA,12.94,NA
+GJ,Vadodara,Vadodara,Vadodara,22.43888889,73.12222222,Sankarda1,"Tube Well",W27798,2017,NA,26.58,NA,27.7
+GJ,Vadodara,Vadodara,Vadodara,22.29333333,73.19833333,"Vadodara_Kevada Bag","Dug Well",W31479,2017,NA,10.63,NA,10.13
+GJ,Vadodara,Savli,Savli,22.53888889,73.175,Wankaner2,"Bore Well",W27855,2017,25.6,NA,NA,36.97
+GJ,Vadodara,Vadodara,Vadodara,22.3425,73.20055556,Vadodara_Sama,"Dug Well",W32899,2017,NA,NA,NA,3.57
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2017,4.5,8.7,4.76,11.75
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2016,5.3,NA,4.53,12.5
+GJ,Vadodara,Vadodara,Vadodara,22.3425,73.20055556,Vadodara_Sama,"Dug Well",W32899,2016,NA,NA,NA,17
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2016,NA,NA,NA,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2016,2.25,NA,4.89,7.15
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2016,2.95,NA,4.81,9.08
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2016,7.88,NA,9.04,13.42
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2016,NA,NA,3.4,4.07
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2016,3.42,NA,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2016,8.55,NA,10.87,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2016,NA,NA,NA,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2016,6.95,NA,7.42,11.7
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2016,24.59,NA,24.32,25.72
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2016,6.78,NA,9.23,8.7
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2016,1.62,NA,NA,6.1
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2016,3.95,NA,5.15,8.52
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2016,21.37,NA,NA,22.7
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2016,NA,NA,NA,4.28
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2016,11.4,NA,NA,11.35
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2016,12.7,NA,29.02,30.64
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2016,NA,NA,24.54,19.47
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2016,12.05,NA,14.76,22.27
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2016,NA,NA,3.58,13.2
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2016,5.65,NA,5.82,11.75
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2016,'0.05,NA,1.94,3.4
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2016,3.9,NA,4.81,8.02
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2016,3.9,NA,4.75,6.2
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2016,2.05,NA,3.22,4.97
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2016,'0.56,NA,3.12,6.4
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2016,'0.3,NA,8,15.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2016,2.3,NA,2.7,6.7
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2016,3.57,NA,6.32,8.34
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2016,1.8,NA,5.57,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2016,4.06,NA,NA,7.5
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2016,5.1,NA,6.38,NA
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2016,13.95,NA,14.03,15.83
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2016,NA,NA,NA,8.22
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2016,3.96,NA,5.19,9.46
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2016,NA,NA,22.8,22.18
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2016,14.35,NA,10.17,14.56
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2016,NA,NA,6.12,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2016,1.3,NA,1.54,2.3
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2016,37.17,NA,35.8,27.32
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2016,21.7,NA,23.64,21.65
+GJ,Vadodara,"Jetpur Pavi","Jetpur Pavi",22.25861111,73.78388889,"Vadtalav Pz","Bore Well",W22751,2016,8.5,NA,7.3,6.8
+GJ,Vadodara,Sankheda,Sankheda,22.14666667,73.75555556,"Kosindra Pz-I","Bore Well",W22752,2016,NA,NA,3.98,2.48
+GJ,Vadodara,Vadodara,Vadodara,22.16305556,73.16944444,"Vadshala Pzi","Tube Well",W22754,2016,11.6,NA,NA,NA
+GJ,Vadodara,Vaghodia,Vaghodia,22.39666667,73.43222222,"Chella Karamsiya Pz","Tube Well",W22755,2016,2.2,NA,2.04,3.46
+GJ,Vadodara,Vaghodia,Vaghodia,22.36388889,73.37694444,"Waghodia Pz","Tube Well",W22756,2016,6,NA,7.82,8.53
+GJ,Vadodara,Vadodara,Vadodara,22.43888889,73.12222222,Sankarda1,"Tube Well",W27798,2016,NA,25.42,25.6,28.99
+GJ,Vadodara,Savli,Savli,22.53888889,73.175,Wankaner2,"Bore Well",W27855,2016,25.41,36.4,NA,40.3
+GJ,Vadodara,Sinor,Sinor,22.00833333,73.38333333,"Segwa chowki I","Tube Well",W27459,2016,35.22,36.18,35.5,41.15
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod1,"Tube Well",W27498,2016,24.73,27.58,28.98,29.6
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod2,"Tube Well",W27499,2016,NA,27.21,NA,NA
+GJ,Vadodara,Padra,Padra,22.18194444,72.94583333,"Chitral PZ_II","Tube Well",W27565,2016,23.8,24.07,25.3,25.9
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.20361111,74.01055556,Asar,"Dug Well",W27580,2016,13.1,12.93,NA,17.2
+GJ,Vadodara,Padra,Padra,22.23333333,73.05416667,"Ghayaj ii","Tube Well",W27612,2016,16.4,15.23,23.54,18.55
+GJ,Vadodara,Vadodara,Vadodara,22.30472222,73.27166667,"Vadodara Ii","Tube Well",W27701,2016,5.3,5.7,4.66,5.3
+GJ,Vadodara,Nasvadi,Nasvadi,22.07055556,73.85083333,Waghach,"Dug Well",W31441,2016,9.85,NA,NA,NA
+GJ,Vadodara,Vadodara,Vadodara,22.26916667,73.21277778,Vadodara_ONGC,"Dug Well",W31472,2016,17,7.72,16.12,15.23
+GJ,Vadodara,Vadodara,Vadodara,22.29333333,73.19833333,"Vadodara_Kevada Bag","Dug Well",W31479,2016,10.2,9.52,9.36,10.6
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.30833333,74.01666667,"Chota udepur","Bore Well",W31493,2016,1.8,NA,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2016,4.86,NA,3.57,8.02
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2015,8.6,5.78,12.5,11.6
+GJ,Vadodara,Vadodara,Vadodara,22.29333333,73.19833333,"Vadodara_Kevada Bag","Dug Well",W31479,2015,NA,NA,11.03,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2015,9.44,11.75,11.88,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2015,6.1,4.89,2.64,15.3
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2015,7.39,6.13,6.41,'0.8
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2015,8.8,9.41,9.77,13.42
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2015,2.79,2.65,3.4,7.1
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2015,6.98,6.3,NA,1.55
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2015,10.72,6.4,10.72,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2015,10.42,12.3,12.3,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2015,7.38,8.41,7.44,11.7
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2015,22.63,26.93,27.94,23.8
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2015,7,5.54,9.94,5.7
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2015,1.41,2.26,2,8.79
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2015,5.77,2.2,6.73,11.11
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2015,19.12,24.63,20.28,14.3
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2015,3.72,3.78,NA,12.7
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2015,9,8.46,12.37,4.7
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2015,25,29.04,27.8,24.37
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2015,23.93,NA,24.32,30.03
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2015,14.08,19.82,14.69,13.62
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2015,2.09,13.2,3.32,13.2
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2015,7.71,6.32,8.28,28.36
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2015,NA,'0.68,2.86,'0.78
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2015,5.35,3.85,5.33,13
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2015,4.45,4,3.78,14.05
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2015,4.47,6.22,3.73,15.7
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2015,NA,1.35,NA,18.6
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2015,2.93,3.92,3.12,1.85
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2015,5.46,7.55,7.34,3.46
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2015,2.32,3.81,2.82,6.7
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2015,NA,3.04,NA,3.53
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2015,4.5,5.84,6.66,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2015,1.05,1.12,2.32,7.5
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2015,6.46,5.82,7.64,4.55
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2015,7.13,6.18,9.95,9.95
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2015,14.15,9.35,15.02,5.7
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2015,10.45,7.2,9.9,10.25
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2015,7.58,2,8.08,11.82
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2015,19.74,25.6,22.74,25.48
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2015,12.47,9.86,13.02,3.7
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2015,1.1,2.88,1.66,11.7
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2015,36.76,29.65,37.37,36.76
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2015,21.97,20.96,23.64,14.7
+GJ,Vadodara,"Jetpur Pavi","Jetpur Pavi",22.25861111,73.78388889,"Vadtalav Pz","Bore Well",W22751,2015,9.22,18.9,10.13,19.45
+GJ,Vadodara,Sankheda,Sankheda,22.14666667,73.75555556,"Kosindra Pz-I","Bore Well",W22752,2015,2.15,1.16,3.88,1.2
+GJ,Vadodara,Vadodara,Vadodara,22.16305556,73.16944444,"Vadshala Pzi","Tube Well",W22754,2015,NA,19.82,NA,20.33
+GJ,Vadodara,Vaghodia,Vaghodia,22.39666667,73.43222222,"Chella Karamsiya Pz","Tube Well",W22755,2015,NA,2.52,3.76,2.6
+GJ,Vadodara,Vaghodia,Vaghodia,22.36388889,73.37694444,"Waghodia Pz","Tube Well",W22756,2015,NA,5.68,NA,5.83
+GJ,Vadodara,Vadodara,Vadodara,22.43888889,73.12222222,Sankarda1,"Tube Well",W27798,2015,24.49,30.39,25.49,29.51
+GJ,Vadodara,Savli,Savli,22.53888889,73.175,Wankaner2,"Bore Well",W27855,2015,34.88,43.7,NA,45.07
+GJ,Vadodara,Sinor,Sinor,22.00833333,73.38333333,"Segwa chowki I","Tube Well",W27459,2015,33.9,NA,35.56,29.44
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod1,"Tube Well",W27498,2015,27.33,31.79,NA,29.51
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod2,"Tube Well",W27499,2015,25.73,NA,NA,NA
+GJ,Vadodara,Padra,Padra,22.18194444,72.94583333,"Chitral PZ_II","Tube Well",W27565,2015,22.14,24.68,25.8,24.7
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.20361111,74.01055556,Asar,"Dug Well",W27580,2015,NA,NA,NA,17.2
+GJ,Vadodara,Padra,Padra,22.23333333,73.05416667,"Ghayaj ii","Tube Well",W27612,2015,15.83,23.84,24.61,21.33
+GJ,Vadodara,Vadodara,Vadodara,22.30472222,73.27166667,"Vadodara Ii","Tube Well",W27701,2015,5.3,6.1,5.56,5.31
+GJ,Vadodara,Vadodara,Vadodara,22.26916667,73.21277778,Vadodara_ONGC,"Dug Well",W31472,2015,NA,NA,7,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2015,NA,4.8,3.95,6.79
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2014,4.03,2.45,5.5,11
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.30833333,74.01666667,"Chota udepur","Bore Well",W31493,2014,NA,2.08,NA,2.08
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2014,10.6,9.3,11.88,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2014,1.1,6.1,3.38,8.47
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2014,1.45,2.55,6.45,2.55
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2014,5.57,6,7.25,9.73
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2014,NA,1.9,'0.65,3.97
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2014,4.61,3.78,4.89,9.52
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2014,5.6,4.2,11.16,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2014,8.3,5.6,12.3,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2014,5.11,6.15,7.1,9.3
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2014,23.32,23.68,24.22,25.46
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2014,6.41,5.25,8.51,8.33
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2014,'0.5,'0.88,'0.86,2.8
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2014,3.06,1.53,3.82,6.19
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2014,NA,20.9,20.3,26.6
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2014,NA,2.15,NA,2.15
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2014,9.89,12.1,10.01,10.84
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2014,14.055,29.05,27,30.42
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2014,19.44,17.85,16.55,19.26
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2014,12.32,21.2,13.02,22.32
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2014,8.79,9.58,4.28,13.2
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2014,2.84,3.98,4.8,12.21
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2014,'0.6,'0.65,2.18,3.56
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2014,2.59,3.6,4.35,5.53
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2014,2.1,2.75,3.4,5.46
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2014,NA,5.1,4.45,4.65
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2014,NA,4.11,6.12,4.11
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2014,2.82,3.1,3.1,3.6
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2014,1.32,'0.15,'0.21,9
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2014,1.54,2.75,4.82,2.75
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2014,NA,5.03,7.8,8.14
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2014,3.66,3.13,5.58,6.6
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2014,NA,4.75,2.38,4.73
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2014,2.26,2.53,5.28,8.9
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2014,NA,3.42,9.86,2.97
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2014,11.8,7.9,10.15,11.28
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2014,NA,NA,8.25,8.37
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2014,2.19,2.28,3.88,5.71
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2014,19.44,18.8,19.6,22.46
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2014,6.65,8.35,9.72,15.2
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2014,NA,26.2,NA,26.2
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2014,NA,2.88,1.6,2.88
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2014,36.53,25.55,36.6,27.46
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2014,20.02,19.72,22.9,22.21
+GJ,Vadodara,Vadodara,Vadodara,22.43888889,73.12222222,Sankarda1,"Tube Well",W27798,2014,NA,27.59,26.42,27.59
+GJ,Vadodara,Savli,Savli,22.53888889,73.175,Wankaner2,"Bore Well",W27855,2014,NA,NA,36.95,NA
+GJ,Vadodara,Sinor,Sinor,22.00833333,73.38333333,"Segwa chowki I","Tube Well",W27459,2014,35.23,37.13,36.4,41.55
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod1,"Tube Well",W27498,2014,28.09,28.15,30.13,29.46
+GJ,Vadodara,Padra,Padra,22.18194444,72.94583333,"Chitral PZ_II","Tube Well",W27565,2014,NA,NA,24.02,NA
+GJ,Vadodara,Padra,Padra,22.23333333,73.05416667,"Ghayaj ii","Tube Well",W27612,2014,15,17.92,16.3,18.66
+GJ,Vadodara,Vadodara,Vadodara,22.30472222,73.27166667,"Vadodara Ii","Tube Well",W27701,2014,NA,3.45,4.6,5.34
+GJ,Vadodara,Nasvadi,Nasvadi,22.07055556,73.85083333,Waghach,"Dug Well",W31441,2014,NA,2.97,NA,3.42
+GJ,Vadodara,Vadodara,Vadodara,22.16305556,73.16944444,"Vadshala Pz-II","Tube Well",W31457,2014,NA,NA,NA,14.36
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2014,1.06,3.25,2.78,4.77
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2013,2.4,8.78,4.35,10.93
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.30833333,74.01666667,"Chota udepur","Bore Well",W31493,2013,1,6.64,NA,9.85
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2013,11.88,11.88,10.02,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2013,2.8,5.11,3.4,9.7
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2013,2.15,7.9,4.49,8.15
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2013,5.7,9.25,7.57,13.42
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2013,1.95,2.73,1.83,4.75
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.1375,73.40694444,Dabhoi,"Dug Well",W08163,2013,NA,NA,2.36,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2013,3.65,6.95,5.68,10.75
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2013,3.55,13,4.95,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2013,5.21,12.3,9.02,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2013,5.8,7.41,6.75,9.87
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2013,23.72,25.54,23.48,27
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2013,5.5,6.31,4.23,8.2
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2013,'0.68,1.32,1.3,1.48
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2013,1.5,2.52,1.18,5.43
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2013,20.38,19.07,22.85,13.25
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2013,1.3,2.35,2.52,4.92
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2013,5.8,13.62,7,12.03
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2013,28.82,27.44,27.62,35.7
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2013,25.68,31.22,24.41,31
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2013,21.4,6.12,13.58,25.4
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2013,9.32,11.65,11.04,12.78
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2013,3.7,7.16,4.87,8.5
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2013,1.08,1.04,'0.43,3.08
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2013,3.2,4.24,3.01,6.86
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2013,2.5,5.33,3.15,6.05
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2013,1.95,3.42,5.02,4.34
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2013,1.56,7.64,1.05,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2013,2.7,4.11,2.61,3.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2013,'0.05,8.22,5.95,14.85
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2013,3.17,4.11,2.62,6.7
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2013,3.52,3.17,5,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2013,2.73,4.3,5.37,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2013,4.05,1.33,'0.8,7.5
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2013,1.85,4.78,4.5,9.64
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2013,3.01,4.88,4.87,9.95
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2013,7.43,10.72,7.84,NA
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2013,7.65,7.87,NA,10.59
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2013,1.66,7.6,1.21,8.63
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2013,18.3,26.71,14.48,29.8
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2013,7.9,11.13,8.2,17.13
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2013,NA,NA,-0.8,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2013,2.45,2.27,1.75,2.15
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2013,38.24,31.82,38.06,39.2
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2013,19.1,25.99,19.18,25.2
+GJ,Vadodara,Sinor,Sinor,22.00833333,73.38333333,"Segwa chowki I","Tube Well",W27459,2013,25.75,NA,24.42,39.1
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod1,"Tube Well",W27498,2013,24.15,31.97,30.07,32.21
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod2,"Tube Well",W27499,2013,NA,28.55,NA,31.87
+GJ,Vadodara,Padra,Padra,22.23333333,73.05416667,"Ghayaj ii","Tube Well",W27612,2013,22.65,24.32,16.36,29.15
+GJ,Vadodara,Vadodara,Vadodara,22.30472222,73.27166667,"Vadodara Ii","Tube Well",W27701,2013,NA,13.67,3.43,8.18
+GJ,Vadodara,Vadodara,Vadodara,22.16305556,73.16944444,"Vadshala Pz-II","Tube Well",W31457,2013,NA,NA,NA,12.14
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2013,2.06,4.2,3.25,5.98
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2012,NA,6.55,6.15,11
+GJ,Vadodara,"Chhota Udaipur","Chhota Udaipur",22.30833333,74.01666667,"Chota udepur","Bore Well",W31493,2012,NA,NA,4.93,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2012,NA,NA,NA,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2012,NA,5.78,3.67,8.01
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2012,NA,7.07,5.38,8.96
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2012,NA,9.75,8.8,13.42
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2012,NA,2.08,NA,4.35
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2012,NA,6.15,3.28,8.28
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2012,NA,NA,6.88,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2012,NA,12.3,12.3,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2012,NA,7.75,6.95,10.21
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2012,NA,24.23,25.23,26.02
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2012,NA,6.2,6.1,6.7
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2012,NA,1.37,'0.81,1.98
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2012,NA,5.42,1.58,5.72
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2012,NA,21.25,17.63,20.75
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2012,NA,4.79,1.32,5.4
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2012,NA,10.55,12.52,12.55
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2012,NA,15.34,27.16,15.5
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2012,NA,29.98,30.18,29.35
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2012,NA,18.95,18.52,22.3
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2012,NA,11.24,11.03,11.25
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2012,NA,5.66,6.02,7.4
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2012,NA,2.45,'0.68,3.32
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2012,NA,6.64,3.05,6.65
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2012,NA,4.45,3.87,5.88
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2012,NA,3.58,3.05,4.41
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2012,NA,NA,5.77,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2012,NA,NA,2.52,3.15
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2012,NA,7.1,5.91,14.7
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2012,NA,4.12,3.03,6.7
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2012,NA,11.82,2.62,18.57
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2012,NA,NA,3.21,NA
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2012,NA,7.5,'0.77,7.5
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2012,NA,6.8,4.37,9.7
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2012,NA,6.48,4.25,9.95
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2012,NA,12.87,9.77,13.04
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2012,NA,9.21,6.2,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2012,NA,6.26,5.79,8.26
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2012,NA,19.2,24.11,33.2
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2012,NA,8.61,10.23,16.35
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2012,NA,1.72,1.78,2.53
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2012,NA,38.67,28.44,NA
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2012,NA,22.61,18.91,23.2
+GJ,Vadodara,"Jetpur Pavi","Jetpur Pavi",22.25861111,73.78388889,"Vadtalav Pz","Bore Well",W22751,2012,NA,NA,17.43,11.61
+GJ,Vadodara,Sankheda,Sankheda,22.14666667,73.75555556,"Kosindra Pz-I","Bore Well",W22752,2012,NA,NA,'0.93,3.21
+GJ,Vadodara,Vadodara,Vadodara,22.16305556,73.16944444,"Vadshala Pzi","Tube Well",W22754,2012,NA,NA,17.43,31.3
+GJ,Vadodara,Vaghodia,Vaghodia,22.39666667,73.43222222,"Chella Karamsiya Pz","Tube Well",W22755,2012,NA,NA,1.84,3.73
+GJ,Vadodara,Vaghodia,Vaghodia,22.36388889,73.37694444,"Waghodia Pz","Tube Well",W22756,2012,NA,NA,4.92,6.71
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod1,"Tube Well",W27498,2012,NA,NA,30.62,NA
+GJ,Vadodara,Karjan,Karjan,22.07361111,73.04583333,Handod2,"Tube Well",W27499,2012,NA,NA,27.45,NA
+GJ,Vadodara,Padra,Padra,22.23333333,73.05416667,"Ghayaj ii","Tube Well",W27612,2012,NA,NA,22.68,NA
+GJ,Vadodara,Vadodara,Vadodara,22.30472222,73.27166667,"Vadodara Ii","Tube Well",W27701,2012,NA,NA,5.24,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2012,NA,3.65,3.4,6.9
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2011,4.05,5.08,8.24,NA
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2011,13.14,NA,22.34,23.1
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2011,11.88,11.88,11.88,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2011,3.51,6.28,6.05,6.8
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2011,3.6,8.09,4.98,8.55
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2011,6.93,9.74,8.36,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2011,3.86,4.87,5.12,10.2
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2011,4.58,12.35,12.11,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2011,1.19,12.3,10.21,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2011,3.81,7,5.87,8.6
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2011,24.05,24.82,25.93,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2011,6.03,7.59,7.33,7
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2011,'0.62,1.17,1.14,1.83
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2011,'0.86,3.72,5.21,5.5
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2011,12.12,21.45,21.48,22.65
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2011,4.81,4.22,3.92,4.65
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2011,12.23,NA,13.15,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.41805556,73.20833333,Asoj,"Dug Well",W08185,2011,NA,12.5,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2011,11.76,25.14,6.78,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2011,20.15,29.55,38.91,30.2
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2011,17.22,19.61,18.53,21
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2011,1.41,NA,11.2,9.35
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2011,3.41,5.13,4.39,7.35
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2011,'0.98,2.58,2.73,3.25
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2011,3.31,6.95,4.25,7.35
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2011,2.87,4.02,4.32,6.4
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2011,1.24,3.64,4.58,4.77
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2011,2.54,2.9,2.81,3.15
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2011,'0.57,7.13,4.01,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2011,1.81,2.7,3.26,6.1
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2011,7.74,8.84,9.79,18.5
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2011,1.91,5.75,6.93,6.8
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2011,3.84,2.25,7.5,NA
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2011,3.79,6.25,5.72,10.65
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2011,2.56,4.93,5.71,9.95
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2011,14.46,14.23,13.93,14
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2011,NA,NA,10.11,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2011,2.63,6.76,9.51,8.86
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2011,19.49,19.3,NA,20.4
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2011,7.49,7.15,6.86,8.85
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2011,'0.96,2.08,3.34,2.7
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2011,NA,NA,41.39,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2011,'0.11,4.82,2.97,6.9
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2010,6.5,9.4,4.82,10.9
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2010,16.85,23.96,20.96,23.9
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2010,7.3,11.88,11.88,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2010,5.72,9.22,4.85,7.51
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2010,6.95,8.39,5.9,8.81
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2010,5.33,10.92,7.32,13.42
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2010,NA,7.9,3.4,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2010,6.9,7.75,3.92,8.91
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2010,7.45,13,7.69,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2010,6.8,12.3,12.3,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2010,6.9,6.3,6.16,9.86
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2010,23.92,25.74,24.5,30.77
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,2010,NA,NA,21.02,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2010,6.6,6.43,7.15,8.44
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2010,'0.58,1.02,1.06,1.58
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2010,2.14,4.22,3.06,5.55
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2010,14.25,21.15,20.9,22.39
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2010,7.1,10.6,3.44,8.36
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2010,NA,NA,NA,12.85
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2010,15.2,31.63,15.13,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2010,25.7,29.41,29.62,30.6
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2010,19.55,22.6,18.35,7.55
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2010,NA,11.25,NA,5.24
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2010,4.05,7.66,3.33,8.54
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2010,2.14,3.29,2.34,3.34
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2010,5.08,5.78,5.18,6.84
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2010,1.65,4.72,3.46,5.75
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2010,1.8,7.76,2.92,6.22
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2010,4.86,6.39,3.79,6.39
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2010,1.1,2.96,2.88,3.05
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2010,3.45,6.81,6.46,24.01
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2010,2.45,2.93,2.35,5.9
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2010,NA,9.02,7.15,15.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2010,4.95,6.93,5.01,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2010,2.33,4.85,1.82,7.5
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2010,6.45,9.06,5.75,12.1
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2010,4.15,9.95,3.37,9.95
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2010,14.35,14.63,12.7,14.05
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2010,8.85,9.85,7.9,11.14
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2010,6.83,2.7,6.08,9.57
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2010,NA,20.16,18.95,20.13
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2010,10,15.94,6.54,15.1
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2010,1.8,7.43,1.9,3.36
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2010,2.1,2.24,1.85,3.34
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2010,NA,43.52,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2010,1.5,5.46,5.12,9.37
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2009,6.85,6.22,7.62,NA
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2009,21.55,23.1,23.22,23.55
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2009,11.88,11.88,11.88,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2009,5.32,6.66,5.75,6.4
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2009,7.14,6.15,6.87,8.04
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2009,7.65,9.66,10.2,12.3
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2009,7.21,4.29,7.5,6.76
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2009,5.92,6.18,6.14,7.8
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2009,12.65,12.25,13,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2009,10.55,12.3,12.3,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2009,6.78,7.9,5.7,8.68
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2009,25.23,25.01,24.46,25.86
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2009,6.85,8.31,7.2,7.88
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2009,'0.5,1.04,1.06,1.23
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2009,2.29,4,3.95,5.38
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2009,19.93,25.55,20.07,19.7
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2009,6.46,5.58,10.6,6.16
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2009,13.85,NA,13.85,13.85
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2009,28.08,28.98,29.6,33.52
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2009,29.6,28.89,29.27,30.5
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2009,19.14,18.97,12.98,21.46
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2009,11.25,11.25,11.25,11.25
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2009,7.26,5.98,7.5,7.16
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2009,1.44,2.21,2.3,2.51
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2009,4.68,6.14,5.16,7.76
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2009,4.43,3.81,4.41,5.25
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2009,1.8,3.2,3.12,4.05
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2009,6.39,6.39,6.39,6.39
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2009,2.45,2.9,2.9,3.05
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2009,2.11,6,5.82,13.9
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2009,1.32,2.9,2.3,5.1
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2009,3.41,7.76,4.97,12.96
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2009,6.93,6.93,6.93,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2009,2.98,4.12,4.41,7.5
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2009,6.85,5.65,7.95,9
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2009,5.17,5.55,5.95,7.67
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2009,12.77,10.73,14.13,13.4
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2009,NA,8.46,9.15,8.85
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2009,7.25,6.36,7.48,8.07
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2009,19.63,18.97,20.98,19.9
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2009,13.28,11.35,12.8,14.7
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2009,1.76,2.01,2.24,2.9
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2009,1.43,1.55,1.98,2.64
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2009,39.65,40.05,40,40.44
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2009,3.48,5.28,4.46,7.79
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2008,5.75,7.18,5.46,9.24
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2008,20.65,22.28,22.46,23.45
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2008,5.95,10.08,11.19,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2008,4.83,5.87,8.04,6.94
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2008,4.23,5.28,4.47,7.7
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2008,7.65,8.27,8.21,11.61
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2008,NA,5.57,6.97,7.9
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2008,3.75,4.7,4.93,7.28
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2008,7.66,10.89,10.21,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2008,10.38,9.94,10.9,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2008,5.55,7.17,6.61,9.76
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2008,23.99,25.24,25.27,26.42
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2008,6.2,7.24,7.92,7.98
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2008,'0.53,1.33,1.03,1.39
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2008,1.78,3.65,3.21,5.43
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2008,NA,19.03,20.75,19.64
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2008,4.55,3.59,4.04,4.78
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2008,26,29.28,31.16,32.93
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2008,NA,29.69,28.9,30.16
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2008,19.42,18.17,20.26,20.7
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2008,1.4,11.25,1.92,11.25
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2008,4.39,5.48,4.91,7.27
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2008,1.54,3.41,2.11,3.98
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2008,5.12,5.15,5.32,7.37
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2008,2.89,3.79,3.23,5.3
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2008,1.31,3,2.5,3.62
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2008,3.73,4.65,4,6.39
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2008,2.54,2.94,4.7,5.51
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2008,3.7,6.78,4.08,8.15
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2008,1.65,2.42,2.29,5.01
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2008,3.24,4.94,4.93,7.31
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2008,2.11,6.93,5.34,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2008,'0.46,2.05,1.34,4.74
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2008,3.15,5.64,3.95,9.11
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2008,3.16,4.1,4.46,6.61
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2008,8.35,10.97,9.5,12.33
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2008,8.54,8.43,8.23,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2008,4.94,5.93,4.52,8.2
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2008,18.08,18.22,18.6,19.39
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2008,12.55,12.24,10.12,15.28
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2008,NA,1.73,1.81,2.46
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2008,1.75,1.97,1.67,2.25
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2008,39.9,41.97,40.05,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2008,3.12,4.6,3.93,6.69
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2007,3.36,6.48,2.82,9.21
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2007,25.8,32.81,30.92,33.34
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2007,11.35,10.43,9.08,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2007,1.63,8.3,3.38,6.57
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2007,2.25,6.15,3.15,7.66
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2007,6.5,8.66,6.78,11.4
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2007,4.95,7.4,3.41,9.3
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2007,2.8,4.49,4.81,6.09
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2007,2.15,11.7,8.6,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2007,7.5,10.26,8.82,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2007,3.35,7.14,6.5,8.1
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2007,24.95,NA,25.36,29.46
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2007,6.48,7.15,6.7,7.44
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2007,'0.08,'0.24,'0.88,1.49
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2007,2.1,4.3,2.95,5.18
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2007,19.55,19.82,19.5,17.05
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2007,'0.95,3.94,2,6.62
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2007,NA,6.01,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2007,25.7,33.8,29.66,31.25
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2007,18.85,23.87,19.58,22.99
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2007,11.25,11.25,12.05,11.25
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2007,4.03,6.08,4.21,7.78
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2007,1.2,3.11,1.55,3.32
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2007,2.7,5.65,3.98,6.48
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.06666667,73.43333333,Vadaj,"Tube Well",W08957,2007,NA,NA,NA,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2007,2.45,4.87,2.97,6.82
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2007,1.68,3.35,2.5,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2007,2.74,4.67,NA,6.39
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2007,2.7,2.89,2.3,3.1
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2007,1.22,5.97,2.95,9.5
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2007,1.97,3.07,3.82,5.05
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2007,2.75,6.1,6.11,6.48
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2007,3.7,6.93,8.53,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2007,'0.98,5.45,3.28,7.5
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.73333333,Naswadi-1,"Dug Well",W08970,2007,NA,9.1,8.1,NA
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2007,2.3,6.16,6.11,8.65
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2007,3.55,5.3,4.25,6.5
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2007,7.9,11.04,9.43,12.43
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2007,7.69,8.27,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2007,3.89,6.61,3.55,8.23
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2007,17.9,17.62,17.42,19.56
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2007,13.9,15.01,10.05,16.75
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2007,NA,12.83,NA,12.83
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2007,'0.9,2.12,1.34,2.88
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2007,1,2.26,1.15,2.96
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2007,NA,44.1,42.09,42.32
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2007,19.52,22.7,21.3,23.66
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2007,2.1,5.52,3.41,7.4
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2006,1.45,6.69,3.35,8.7
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2006,1.9,4.31,3.8,7.73
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2006,6.64,11.4,9.95,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2006,'0.27,6.04,3.95,7.66
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2006,1.35,6.51,3.38,8.52
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2006,5.2,9.96,6.85,12.43
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2006,5.35,7.19,5.1,8.74
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2006,NA,5.58,5.15,7.24
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2006,2.51,11.57,7.5,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2006,9.5,12.3,9.05,12.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2006,NA,8.86,7.22,7.89
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2006,NA,29.21,NA,29.28
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2006,5.7,7.36,6.75,8.88
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2006,'0.37,2.04,'0.49,1.36
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2006,1.11,4.29,2.35,5.4
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2006,19.45,23.05,20.7,22.31
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2006,1.17,4.14,1.95,5.39
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2006,5.32,NA,6.35,11.22
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2006,22.5,28.32,31.55,27.81
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2006,5.53,11.25,9.55,11.25
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2006,2.35,7.08,4.2,7.67
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2006,1,3.84,2.55,4.25
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2006,2,5.59,3.98,6.54
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2006,2.25,5.44,3.4,7.61
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2006,1.37,3.57,2.7,4.19
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2006,5.24,4.98,3.36,6.39
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2006,NA,2.98,2.75,3.05
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2006,1.45,7.28,3.5,9.36
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2006,1.43,3.15,2.15,4.15
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2006,NA,5.58,4.75,6.17
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2006,NA,6.93,NA,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2006,'0.6,2.92,1.6,7.5
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2006,2,5.68,4.05,9.32
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2006,'0.05,5.22,1.5,5.42
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2006,NA,11.23,7.9,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2006,'0.74,7.76,4.01,9.56
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2006,15.01,18.79,15.4,19.88
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2006,9.8,NA,8.63,15.41
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2006,8.39,9.29,12.83,12.27
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2006,NA,NA,1.83,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2006,1.55,2.42,2.05,3.69
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2006,NA,NA,48.9,44.51
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2006,14.88,23.61,22.25,23.96
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2006,32.72,37.19,34,35.18
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2005,7.75,9.35,7.18,12.83
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2005,10.94,10.73,10.64,12.3
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2005,2.55,3.12,2.1,6.16
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2005,47.1,50.43,47.68,52.17
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2005,23.23,24.92,23.2,26.05
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2005,NA,46.38,40.4,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2005,3.3,3.17,4.42,5.4
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2005,6.86,4.92,3.81,10.1
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2005,3.8,5.83,6.93,6.93
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2005,'0.95,2.7,1.24,6.5
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.71666667,Naswadi-2,"Dug Well",W08969,2005,NA,NA,9.74,11.12
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.73333333,Naswadi-1,"Dug Well",W08970,2005,NA,NA,NA,19.35
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2005,3.86,5.08,4.2,8.6
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2005,1.55,5.01,4.15,9.61
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2005,9.15,NA,7.21,13.39
+GJ,Vadodara,Nandesari,Sankheda,22.19166667,73.53333333,Kalitalavdi,"Dug Well",W08974,2005,NA,NA,NA,11.58
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2005,NA,10.27,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2005,7.41,9.14,9.47,9.89
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2005,18.9,8.45,18.17,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2005,9,11.78,12.04,18.3
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2005,33.58,37.14,33.16,35.54
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2005,35.8,35.3,40.5,36.31
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2005,NA,11.25,11.25,11.25
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2005,4.26,6.8,4.4,8.44
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2005,1.76,4.4,2.12,6.44
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2005,4.1,NA,5.25,6.88
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2005,4.25,7.89,4.33,12.35
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2005,1.78,3.46,2.78,4.2
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2005,3.01,6.39,6.39,6.39
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2005,1.05,3.53,2.92,2.99
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2005,2.7,7.74,3.68,8.51
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2005,5.7,NA,6.72,7.76
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2005,NA,NA,NA,33.58
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,2005,NA,42.79,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2005,6.93,7.86,7.23,8.58
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2005,'0.93,1.82,'0.51,1.38
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2005,2.5,4.95,4.91,5.68
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2005,27.15,27.79,26.49,28.08
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2005,4.6,7.33,2.24,6.85
+GJ,Vadodara,"Nandesari Ina",Savli,22.54166667,73.22222222,Gothada,"Dug Well",W08183,2005,NA,NA,NA,11
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2005,4.58,13.85,4.06,13.85
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.41805556,73.20833333,Asoj,"Dug Well",W08185,2005,NA,NA,NA,28.8
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.31666667,73.21666667,Baroda-2,"Dug Well",W08186,2005,NA,NA,NA,19.4
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2005,4.86,5.48,5.7,8.57
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2005,3.5,5.47,3.94,7.68
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2005,10.44,11.88,9.88,11.88
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2005,6.04,5.5,5.8,7.25
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2005,4.35,5.57,4.71,7.99
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2005,8.17,7.66,8.18,11.78
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2005,NA,8.3,5.18,10.71
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.1375,73.40694444,Dabhoi,"Dug Well",W08163,2005,NA,NA,NA,6.53
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2005,3.2,4.02,3.96,6.48
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2005,7.38,10.82,9.28,12.65
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2005,NA,5.43,2.1,4.02
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2004,NA,NA,3.32,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2004,2.7,4.1,2.94,5.97
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2004,NA,NA,49.48,45.86
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2004,21.79,23.5,24.04,25.21
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2004,NA,47.6,46.05,48.96
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2004,1.22,3.3,2.16,4.49
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2004,NA,4.08,7.75,8.57
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2004,NA,NA,5.46,NA
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2004,'0.2,2.56,1.59,3.78
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2004,1.88,4.4,4.06,8.18
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2004,2.18,3,2.56,4.01
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,2004,NA,NA,12.02,13.03
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2004,NA,10.75,11.25,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2004,7.73,9.77,7.2,11.43
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2004,NA,NA,19.61,19.44
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2004,10.82,12,9.69,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2004,7.53,8.4,8.11,12.74
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2004,NA,NA,36.7,37.82
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2004,NA,41.06,25.3,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2004,NA,NA,11.25,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2004,10.05,6.47,5.56,8.3
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2004,1.88,1.65,4.68,7.36
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2004,1.51,5.45,4.33,6.58
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2004,4.01,7.43,3.6,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2004,NA,3.1,NA,4.77
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2004,1.77,4.71,3.99,6.28
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2004,1.64,4.2,2.96,3.01
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2004,'0.16,5.7,4.02,8.24
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2004,3.96,6.83,6.82,7.83
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2004,NA,32.35,31.86,33.94
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,2004,NA,44.47,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2004,5.09,6.9,6.88,9.67
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2004,1.19,'0.48,'0.57,1.23
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2004,1.24,1.18,3.51,6.38
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2004,25.72,24.05,27.35,25.27
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2004,5.75,8.1,5.19,10.64
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2004,7.58,NA,1.2,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2004,1.06,5.8,6.25,10.25
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2004,2.44,5.9,4.2,8.21
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2004,9.27,10.33,9.35,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2004,1.67,6.3,3.38,7.26
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2004,1.36,6.21,3.76,8.45
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2004,5.2,10.32,9.51,12.52
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2004,10.09,8.43,6.27,10.53
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2004,NA,4.97,2.84,6.57
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2004,NA,NA,8.28,12.19
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2004,7.5,11.48,10.12,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2003,9.05,13.89,5.66,15.8
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2003,9.7,NA,10.32,NA
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2003,47.15,NA,46.2,48.57
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2003,11.7,24.54,23.14,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2003,44.3,NA,44.96,51.63
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2003,2.98,NA,3.59,12.37
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2003,1,2.67,1.7,4.84
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2003,2.8,8.62,3,9.07
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2003,2.3,6.78,3.96,9.03
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2003,10.95,NA,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2003,10.36,12.14,9.53,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2003,18.51,NA,17.95,20.55
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2003,11.1,18.1,10.83,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2003,5.75,10.74,7.15,12.56
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2003,40.98,NA,39.44,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2003,5.15,7.62,5.36,10.07
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2003,1.6,8.05,4.48,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2003,2.24,6.66,4.35,7.73
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2003,4.51,11.85,8.15,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2003,1.6,5,2.98,6.13
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2003,3.06,4.31,4.19,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2003,2.4,2.9,2.65,2.93
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2003,2.72,7.69,3.12,15.18
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2003,1.7,4.03,2.34,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2003,5.28,8.39,6.29,9.37
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2003,30.87,NA,31.5,33.68
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,2003,NA,NA,43.72,48.03
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2003,5.8,7.81,6.81,9.98
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2003,'0.66,1.1,'0.59,1.58
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2003,1.9,5.34,3.28,7.26
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2003,23.75,25.07,24.33,25.4
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2003,6.42,NA,6.55,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.54166667,73.22222222,Gothada,"Dug Well",W08183,2003,NA,12.1,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2003,2.57,6.99,6,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2003,NA,NA,36.79,35.52
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2003,3.9,NA,4.19,9.65
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2003,2.4,4.96,4.21,12.33
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2003,9.8,NA,9.3,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2003,3.98,7.85,4.25,9.17
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2003,3.65,8.51,4.22,10
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2003,3.9,12.36,8.45,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2003,5.88,10.7,6.29,11.76
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2003,2.67,9.12,3.38,8.81
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,22.07361111,73.04583333,Handod,"Tube Well",W08168,2003,NA,NA,NA,32.68
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2003,NA,12.92,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2003,7.56,NA,6.74,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2002,14.48,10.4,13.84,14.6
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2002,NA,12.21,12.1,13.13
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2002,44,44.04,44.76,44.81
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2002,NA,23.93,NA,25.84
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2002,44.46,51.35,51.23,52.86
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2002,NA,NA,6.73,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2002,NA,6.64,NA,NA
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2002,NA,7.46,1.8,9.43
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2002,9.27,8.2,7.23,9.73
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2002,7.05,6.77,4.8,5.97
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2002,NA,9.15,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2002,11.85,11.64,11.78,12.54
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2002,NA,NA,19.65,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2002,17.27,16.67,19.5,18.95
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2002,11.91,10.41,10.76,12.13
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2002,42.13,41.9,NA,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2002,NA,NA,NA,11.23
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2002,8.19,8.35,8.28,9.68
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2002,6.16,6.98,7.98,7.89
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2002,6.07,6.62,6.25,7.79
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2002,11.75,11.8,NA,10.73
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2002,NA,6.53,4.35,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2002,4.85,5.38,5.01,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2002,NA,5.4,2.82,5.51
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2002,3.34,7.5,6.88,8.07
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2002,NA,3.58,3.29,4.14
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2002,NA,9.3,7.76,8.22
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2002,29.47,31.79,32.37,33.48
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,2002,39.76,45.32,45.55,47.38
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2002,6.26,8.1,7.4,9.23
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2002,'0.44,1.24,'0.96,'0.62
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2002,4.88,6.06,4.77,7.63
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2002,25.2,23.51,25.32,26.85
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2002,10.1,10.7,11.38,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2002,8.49,NA,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2002,NA,NA,36.5,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2002,8.54,8.04,7.95,8.82
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2002,7.19,11.08,7.43,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2002,NA,11.3,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2002,8.34,8.2,7.4,10.38
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2002,8.43,8.35,7.3,10.35
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2002,9.25,11.14,11.44,12.5
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2002,NA,9.35,10.02,11.01
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2002,7.89,NA,6.85,7.34
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,22.07361111,73.04583333,Handod,"Tube Well",W08168,2002,31.12,NA,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2002,8.44,9.9,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2001,7.63,8.39,9.3,10.39
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,2001,11.32,NA,NA,NA
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,2001,NA,NA,43.87,NA
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2001,21.55,NA,23.73,24.5
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2001,46.63,47.91,48.8,48.56
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2001,3.45,7.54,NA,13.25
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2001,NA,NA,6.38,NA
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2001,1.2,5.17,7.06,NA
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2001,6.03,11.13,7.86,12.87
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2001,5.75,NA,5.03,NA
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2001,NA,NA,8.75,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2001,10.76,11.01,11.48,12.02
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2001,15.03,15.34,16.2,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2001,8.34,11.22,9.95,13.34
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2001,NA,43,41.92,43.54
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2001,5.8,10.67,7.48,11.65
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2001,3.84,8.11,6.83,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2001,5.34,8.7,6.3,8.45
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2001,6.96,NA,11.85,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2001,3.52,5.49,4.37,6.52
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2001,4.86,NA,7.21,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2001,2.75,2.98,4.42,3.01
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2001,3.63,14.28,6.58,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2001,2.22,NA,2.88,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2001,7.24,7.8,8.2,10.15
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2001,NA,29.91,31.47,31.81
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,2001,42.7,43.22,45.4,44.97
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2001,7.97,10.06,10.23,11.28
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2001,'0.69,1.72,1.23,2.89
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2001,3.79,7.11,5.52,9.7
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2001,24.32,25.2,24.5,25.02
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2001,9.15,11.57,9.9,10.45
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2001,9.67,NA,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28333333,73.16888889,Baroda-1,"Dug Well",W08187,2001,8.99,NA,NA,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2001,2.31,11.15,7.3,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2001,NA,11.11,8.79,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2001,10.93,NA,10.95,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2001,7.5,9.1,10.2,10.2
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2001,6.27,9.68,7.79,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2001,10.15,13.12,11.03,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2001,6.55,10.26,8,11.8
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.00416667,73.43611111,Gamod,"Tube Well",W08164,2001,NA,NA,NA,37.35
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2001,NA,9.21,10.26,9.54
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2001,2.16,13.43,11.65,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2001,5.85,7.38,8.57,9.9
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,2000,NA,1,7.7,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,2000,8.8,8.4,9.25,8.9
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,2000,22.07,23.45,23.66,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,2000,42.42,NA,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,2000,6.14,7.59,6.51,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,2000,5.73,NA,6.65,NA
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,2000,4.18,4.26,4.05,4.5
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,2000,9.48,9.5,9.8,9.7
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,2000,6.15,5.7,7,6.85
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,2000,11.77,NA,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,2000,8.16,9.54,9.7,10.39
+GJ,Vadodara,"Nandesari Ina",Savli,22.53888889,73.175,Sankheda,"Tube Well",W08977,2000,NA,NA,NA,19.4
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,2000,15.7,11.97,14.92,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,2000,9.49,12.95,10.03,13.33
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,2000,NA,NA,NA,40.77
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,2000,NA,5.82,NA,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,2000,9,9.12,10.22,9.75
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,2000,6.1,6.52,7.82,7.25
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,2000,6.22,7.12,6.82,7.65
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,2000,9.85,NA,17,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,2000,3.8,4.35,5.25,4.7
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,2000,8.31,6.51,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,2000,2.93,3.1,3.49,3.1
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,2000,7.74,9.24,14.45,16.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,2000,3.68,5.73,4.35,NA
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,2000,28.75,30.01,30.71,NA
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,2000,38.02,43.6,NA,38.75
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,2000,8.4,NA,8.92,9.7
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,2000,'0.78,1.64,1.07,NA
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,2000,5.8,NA,7.05,6.15
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,2000,24.33,24.21,24.84,24.9
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,2000,9.85,11,11.16,11.15
+GJ,Vadodara,"Nandesari Ina",Savli,22.54166667,73.22222222,Gothada,"Dug Well",W08183,2000,10.05,NA,NA,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,2000,9.08,6.71,7.18,9.63
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.41805556,73.20833333,Asoj,"Dug Well",W08185,2000,NA,26.34,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28333333,73.16888889,Baroda-1,"Dug Well",W08187,2000,NA,8.47,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,2000,NA,31.88,33.18,NA
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,2000,8.8,NA,9.94,9.1
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,2000,7.3,6.67,10.75,9.75
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,2000,NA,NA,NA,10.9
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,2000,7.76,9.44,8.85,9.85
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,2000,8.65,8.7,9.1,9.25
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,2000,10.5,12.58,11.18,12.2
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,2000,8.23,9.43,10.05,10.07
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,2000,7.1,8.4,8.15,8.6
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,22.07361111,73.04583333,Handod,"Tube Well",W08168,2000,30.38,29.4,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,2000,12.56,12.75,13.21,12.75
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,2000,3.59,5.88,6.69,5.01
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,1999,7.14,6.52,8.84,8.56
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,1999,40.9,NA,1,37.83
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,1999,13.88,8.98,11.5,11.25
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,1999,1.78,3.32,1,5.09
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,1999,3.04,2.42,5.23,3.84
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,1999,7,7,1,7
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,1999,23.35,NA,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,1999,NA,NA,1,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,1999,3.45,2.3,3.22,3.8
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,1999,6.05,4.53,5.56,3.31
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,22.02305556,73.20416667,"Kurali i","Tube Well",W08961,1999,NA,NA,1,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,1999,2.7,3.11,3.02,3.15
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,1999,6.9,5.3,8.05,8.49
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,1999,2.8,2.53,3.98,4.95
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,1999,4.38,3.95,1,6.05
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,1999,8.53,5.2,NA,8.53
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,1999,2.72,1.96,3.2,3.63
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.71666667,Naswadi-2,"Dug Well",W08969,1999,11.92,NA,NA,11.92
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.73333333,Naswadi-1,"Dug Well",W08970,1999,9.2,11.64,NA,19.65
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,1999,5.8,4.63,8.74,8.3
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,1999,5.05,5.08,6.38,6.45
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,1999,16.18,16.18,NA,16.18
+GJ,Vadodara,Nandesari,Sankheda,22.19166667,73.53333333,Kalitalavdi,"Dug Well",W08974,1999,12.88,9.93,10.2,10.24
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,1999,10.85,9.9,11.9,11.4
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,1999,7.44,7.63,8,8.68
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,1999,1.44,NA,NA,NA
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,1999,5.33,4.1,4.67,5.81
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,1999,20.25,22.63,24.3,23.37
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,1999,4.9,2.28,9.95,6
+GJ,Vadodara,"Nandesari Ina",Savli,22.54166667,73.22222222,Gothada,"Dug Well",W08183,1999,11.76,7.54,NA,9.9
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,1999,14.55,11.55,12.7,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.41805556,73.20833333,Asoj,"Dug Well",W08185,1999,23.31,25.25,26.05,25.48
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28333333,73.16888889,Baroda-1,"Dug Well",W08187,1999,NA,15.8,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,1999,34.87,30.26,1,30.82
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.30472222,73.27166667,Vadodara-1,"Tube Well",W08990,1999,NA,35.02,38.74,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,1999,3.85,8.75,NA,9.22
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,1999,7.78,6.55,8.6,8.23
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,1999,4.21,4.35,5.47,5.57
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,1999,4.63,5.66,6.3,5.52
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.06666667,73.43333333,Vadaj,"Tube Well",W08957,1999,44.35,NA,1,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,1999,6.31,5.76,11.23,7.55
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,1999,7.8,5.3,9.41,8.72
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,1999,5.5,4.34,5.4,5.33
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,1999,9.08,9.98,11.17,11.22
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,1999,6.33,4.83,6.73,6.15
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,1999,6.48,4.82,8.1,7.29
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,1999,10.7,8,10.7,11.25
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,1999,7.88,5.55,8.95,9.88
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.1375,73.40694444,Dabhoi,"Dug Well",W08163,1999,2.38,NA,NA,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.00416667,73.43611111,Gamod,"Tube Well",W08164,1999,NA,NA,1,NA
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,1999,6.98,7.65,8.54,6.5
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,21.9,73.07916667,"Haldarva I","Tube Well",W08166,1999,NA,NA,1,NA
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,22.07361111,73.04583333,Handod,"Tube Well",W08168,1999,NA,27.88,1,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,1999,11.43,10.58,11.85,12.05
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,1999,11.9,12.38,NA,12
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,1999,4.45,6.7,7.48,7.5
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,1999,29.27,27.01,1,27.55
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,1999,12.4,12.2,13.35,13.58
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,1998,9.55,12.7,8.75,13.01
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,1998,5.45,NA,8.35,12.65
+GJ,Vadodara,"Nandesari Ina",Savli,22.74166667,73.35416667,Vejpur-1,"Bore Well",W08980,1998,2.97,NA,2.94,NA
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,1998,NA,2.78,2.47,3.63
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,1998,NA,7,7,7
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,1998,NA,23.15,NA,24.1
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,1998,25.1,31.7,28.85,29.1
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,1998,1.95,3.28,2.08,3.7
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,1998,4.22,6.31,4.35,4.41
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,1998,3.32,2.72,3.05,2.87
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,1998,2.9,6.93,4.25,9.43
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,1998,NA,2.84,2.25,3.4
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.14722222,74.02777778,Tokri,"Bore Well",W08966,1998,3.29,NA,3.82,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,1998,4.22,6.5,5.1,8.53
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,1998,2.92,2.82,4.8,2.96
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.71666667,Naswadi-2,"Dug Well",W08969,1998,10.5,11.16,NA,11.92
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.73333333,Naswadi-1,"Dug Well",W08970,1998,12.35,10.6,10.97,19.65
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,1998,4,5.51,3.9,8.7
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,1998,5.37,7.82,4.9,8.61
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,1998,13.15,NA,16.15,15.41
+GJ,Vadodara,Nandesari,Sankheda,22.19166667,73.53333333,Kalitalavdi,"Dug Well",W08974,1998,10.12,12.88,9.93,12.88
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,1998,9.75,10.36,7.95,11.95
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,1998,7.46,6.94,6.06,9.28
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,1998,NA,NA,NA,1.95
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,1998,3.27,4.35,3.57,6.3
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,1998,10.79,21.95,22.54,22.8
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,1998,3.95,3.48,2.72,5.6
+GJ,Vadodara,"Nandesari Ina",Savli,22.54166667,73.22222222,Gothada,"Dug Well",W08183,1998,7.58,12.2,5.7,11.11
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,1998,10.15,NA,8.4,12.87
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.41805556,73.20833333,Asoj,"Dug Well",W08185,1998,26.25,21,25.46,24.73
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.31666667,73.21666667,Baroda-2,"Dug Well",W08186,1998,NA,20.4,NA,20.4
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28333333,73.16888889,Baroda-1,"Dug Well",W08187,1998,7.42,NA,15.8,15.8
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,1998,NA,NA,NA,7
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,1998,NA,2.26,7.97,4.29
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,1998,6.26,6.53,5.65,9.02
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,1998,2.82,3.29,3.7,5.6
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,1998,5,5.69,4.8,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.06666667,73.43333333,Vadaj,"Tube Well",W08957,1998,NA,NA,36.55,7
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,1998,6.51,5.89,5,7.65
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,1998,5.72,5.7,4.08,8.52
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,1998,3.1,3.64,3.59,4.8
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,1998,10.25,9.2,9.51,11
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,1998,5.3,4.53,4.57,7.1
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,1998,5.69,5.45,4,7.75
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,1998,7.68,8.98,7.4,11.1
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,1998,8,6.87,5.45,9.22
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.1375,73.40694444,Dabhoi,"Dug Well",W08163,1998,NA,3.78,NA,4.01
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,1998,4.94,6.78,5.8,6.36
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,22.07361111,73.04583333,Handod,"Tube Well",W08168,1998,NA,NA,27.46,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,1998,NA,11.55,10,12.41
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,1998,10.64,10.98,10.1,11.91
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,1998,6.12,3.42,6.88,5.5
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,1998,26.22,NA,27.07,NA
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,1998,33.82,41.2,37.06,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,1998,5.95,7.38,7.25,8.38
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,1997,9.78,12.1,11,12.9
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,1997,6.23,8.05,8,9.6
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,1997,1.98,2.85,2.46,4
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,1997,7,7,7,7
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,1997,18.41,23.12,19.5,23.84
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,1997,30.08,22.97,29.7,32.59
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,1997,1.89,2.8,3,3.35
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,1997,2.09,4.44,4.15,5.54
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,22.02305556,73.20416667,"Kurali i","Tube Well",W08961,1997,NA,NA,NA,47.5
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,1997,2.75,8.92,2.9,3.03
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,1997,1.59,6.03,5.3,9.17
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,1997,2.09,2.65,2.8,4.46
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,1997,NA,5.67,5.7,8.53
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,1997,NA,2.4,2.2,NA
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.71666667,Naswadi-2,"Dug Well",W08969,1997,NA,NA,10.8,11.92
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.73333333,Naswadi-1,"Dug Well",W08970,1997,NA,10.8,10.75,19.65
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,1997,2.29,4.52,3.9,6.92
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,1997,1.07,5.02,4.9,6.13
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,1997,16.18,15.95,NA,16.18
+GJ,Vadodara,Nandesari,Sankheda,22.19166667,73.53333333,Kalitalavdi,"Dug Well",W08974,1997,12.88,12.88,12.88,12.88
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,1997,8.53,9.29,9.35,10.68
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,1997,3.25,6.54,5.86,9.11
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,1997,'0.37,1.11,'0.88,NA
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,1997,2.58,2,4.12,6.39
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,1997,24.03,23.51,23.2,24.16
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,1997,1.75,3.8,2.95,6.47
+GJ,Vadodara,"Nandesari Ina",Savli,22.54166667,73.22222222,Gothada,"Dug Well",W08183,1997,8.29,11.82,9,11.6
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,1997,8.98,11.26,8.4,13.7
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.41805556,73.20833333,Asoj,"Dug Well",W08185,1997,13.8,29.5,26.8,29.5
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28333333,73.16888889,Baroda-1,"Dug Well",W08187,1997,7.59,6.68,7.2,15.8
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,1997,NA,33.33,NA,NA
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,1997,3.18,8.29,NA,10.2
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,1997,3.52,6.18,5.4,13.97
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,1997,1.53,4.12,3.5,6.04
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,1997,NA,5.3,4.7,6.53
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.06666667,73.43333333,Vadaj,"Tube Well",W08957,1997,34.14,NA,7,7
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,1997,3.08,6.42,5,13.1
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,1997,2.31,4.77,4.6,7.04
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,1997,2.24,3.88,NA,4.99
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,1997,9.17,9.94,9.4,10.93
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,1997,'0.3,5.6,4.5,6.36
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,1997,2.56,5.49,4.35,9.9
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,1997,5.55,8.33,7.8,10.88
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,1997,4.14,6.96,NA,9.65
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.1375,73.40694444,Dabhoi,"Dug Well",W08163,1997,NA,2.63,NA,7.45
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.00416667,73.43611111,Gamod,"Tube Well",W08164,1997,NA,NA,NA,7
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,1997,2.75,6.04,4,10.75
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,1997,4.85,10.5,10.75,13.85
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,1997,8.46,9.03,11.3,13.3
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,1997,4.99,6.72,6.95,7.28
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,1997,26.15,28,7,22.82
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,1997,33.71,39.75,39.4,42
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,1997,5.37,8.08,9.25,11.45
+GJ,Vadodara,"Nandesari Ina",Savli,22.48333333,73.20277778,Tundav,"Dug Well",W08978,1996,8.7,12.14,9,13.85
+GJ,Vadodara,Nandesari,Sankheda,22.25,73.71666667,Alladpur,"Dug Well",W08178,1996,7.5,7.92,7.71,10.35
+GJ,Vadodara,"Nandesari Ina",Savli,22.74722222,73.35555556,Vejpur-2,"Dug Well",W08981,1996,2.1,3.39,2.5,5.74
+GJ,Vadodara,Padra,Sinor,22.00833333,73.38333333,"Segwa chouki ii","Tube Well",W08983,1996,NA,NA,7,7
+GJ,Vadodara,Padra,Sinor,21.9125,73.34166667,Sinor,"Dug Well",W08985,1996,20.55,23.09,23.1,23.59
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28194444,73.09027778,"Raypura i","Tube Well",W08986,1996,36.16,28.15,29,28.96
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.34166667,73.83333333,Pavi,"Dug Well",W08959,1996,1.7,2.95,2.7,4.1
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.29166667,73.77916667,Suskal,"Dug Well",W08960,1996,2.1,4.97,3.7,6.39
+GJ,Vadodara,"Gsfc Complex Ina",Karjan,22.02305556,73.20416667,"Kurali i","Tube Well",W08961,1996,NA,45.12,NA,NA
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.01111111,74.08333333,"Moti chikhali","Dug Well",W08963,1996,2.81,2.6,3.54,2.6
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.2,74.04166667,Panwad,"Dug Well",W08964,1996,2.13,6.37,4.5,8.36
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.05833333,74.01666667,Saidivasana,"Dug Well",W08965,1996,2.13,2.92,2,4.91
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.06666667,74.14166667,Vagudan,"Dug Well",W08967,1996,4.51,5.68,5.53,6.65
+GJ,Vadodara,Karachiya,Nasvadi,21.97916667,73.94166667,Kaprali,"Dug Well",W08968,1996,NA,2.73,1.6,3.65
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.71666667,Naswadi-2,"Dug Well",W08969,1996,NA,11.92,9.9,11.92
+GJ,Vadodara,Karachiya,Nasvadi,22.03333333,73.73333333,Naswadi-1,"Dug Well",W08970,1996,NA,12.4,10.3,13.7
+GJ,Vadodara,Karachiya,Nasvadi,22.0375,73.8875,Sengpur,"Dug Well",W08971,1996,NA,7.71,3.4,8.93
+GJ,Vadodara,Karachiya,Nasvadi,22.07083333,73.85,Waghach,"Dug Well",W08972,1996,NA,5.69,1.9,7.4
+GJ,Vadodara,Karjan,Padra,22.14166667,72.90833333,Masor,"Dug Well",W08973,1996,NA,16.18,16.18,15.63
+GJ,Vadodara,Nandesari,Sankheda,22.19166667,73.53333333,Kalitalavdi,"Dug Well",W08974,1996,12.88,12.88,12.88,12.88
+GJ,Vadodara,Nandesari,Sankheda,22.225,73.67916667,Makni,"Dug Cum Bore Well",W08975,1996,8.02,11.29,9.4,NA
+GJ,Vadodara,Nandesari,Sankheda,22.25416667,73.64166667,Shivrajpur,"Dug Well",W08976,1996,NA,9.2,5.7,10.9
+GJ,Vadodara,Nandesari,Sankheda,22.27083333,73.71666667,Bodeli,"Dug Well",W08179,1996,'0.45,1.98,NA,2.58
+GJ,Vadodara,Nandesari,Sankheda,22.21111111,73.74138889,Govindpura2,"Dug Well",W08180,1996,2.26,4.92,3.83,7.01
+GJ,Vadodara,"Nandesari Ina",Savli,22.66666667,73.31666667,Chhaliyar,"Dug Well",W08181,1996,23.92,25.08,23.81,25.31
+GJ,Vadodara,"Nandesari Ina",Savli,22.6,73.23333333,Dakor,"Dug Well",W08182,1996,4.03,6.1,3.2,8.9
+GJ,Vadodara,"Nandesari Ina",Savli,22.54166667,73.22222222,Gothada,"Dug Well",W08183,1996,6.48,11.6,7.2,11.6
+GJ,Vadodara,"Nandesari Ina",Savli,22.50416667,73.28333333,"Juna samalya","Dug Well",W08184,1996,11.03,11.38,8,14.1
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.41805556,73.20833333,Asoj,"Dug Well",W08185,1996,NA,29.5,29.5,27.6
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.31666667,73.21666667,Baroda-2,"Dug Well",W08186,1996,NA,8.7,NA,NA
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.28333333,73.16888889,Baroda-1,"Dug Well",W08187,1996,8.45,8.7,8.05,9.3
+GJ,Vadodara,"Petro Chemical Complex Ina",Vadodara,22.43888889,73.12222222,Sankarda,"Tube Well",W08988,1996,NA,NA,33.54,7
+GJ,Vadodara,Ranoli,Vaghodia,22.42083333,73.41944444,Karamasiya,"Dug Well",W08992,1996,8.25,9.67,8.1,12.06
+GJ,Vadodara,Ranoli,Vaghodia,22.275,73.44166667,Patiyapura,"Dug Well",W08993,1996,3.75,7.62,5.3,9.3
+GJ,Vadodara,Ranoli,Vaghodia,22.28333333,73.50277778,Saidal,"Dug Well",W08994,1996,1.94,5.34,3.5,6.83
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.51666667,73.94166667,Kevadi,"Dug Well",W08956,1996,2.79,6.07,4.5,7.13
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.06666667,73.43333333,Vadaj,"Tube Well",W08957,1996,NA,NA,43.8,NA
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.15944444,73.4125,Vega,"Dug Well",W08958,1996,4.4,13.1,5.5,11.51
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.38333333,73.93333333,Asala,"Dug Well",W08155,1996,2,6.7,4.1,8.42
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.30833333,74.01666667,"Chhota udepur","Dug Well",W08156,1996,2.46,4.15,3.7,5.6
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.4,74.13333333,Chisadia,"Dug Well",W08157,1996,9.11,10.6,9.5,13.38
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.20833333,Ferkuva,"Dug Well",W08159,1996,NA,5.28,5.44,7.08
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.36666667,74.075,Ghamodi,"Dug Well",W08160,1996,2.46,6.51,4.25,9.15
+GJ,Vadodara,Bodeli,"Chhota Udaipur",22.44166667,73.9625,Jojh,"Dug Well",W08161,1996,5.99,10.16,7.5,11.8
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.22777778,73.48333333,Amreshwar,"Dug Well",W08162,1996,4.71,8.91,6.2,9.93
+GJ,Vadodara,"Chhota Udaipur",Dabhoi,22.1375,73.40694444,Dabhoi,"Dug Well",W08163,1996,NA,9.07,NA,4.92
+GJ,Vadodara,Dabhoi,"Jetpur Pavi",22.2,73.9,Bhindol,"Dug Well",W08165,1996,NA,7.36,5.44,7.14
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1375,74.00833333,Baladgam,"Dug Well",W08171,1996,5.5,11.5,9.5,13
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1875,73.9875,Chavaria,"Dug Well",W08172,1996,9.39,11.1,10.13,12.38
+GJ,Vadodara,"Jawaharnagar (gujarat Refinery)",Kavant,22.1,73.98333333,"Devat (thadgam)","Dug Well",W08173,1996,5.38,7.9,6.7,10.14
+GJ,Vadodara,Karjan,Padra,22.18194444,72.94583333,Chitral,"Tube Well",W08174,1996,26.35,NA,27.63,7
+GJ,Vadodara,Karjan,Padra,22.23333333,73.05416667,"Ghayaj i","Tube Well",W08176,1996,33.51,40.45,37.8,41.7
+GJ,Vadodara,"Nandesari Ina",Savli,22.475,73.31666667,Vadala,"Dug Well",W08979,1996,4.57,4.77,11.42,12.9

@@ -1,0 +1,755 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2018,NA,8.75,7.8,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.04166667,75.18333333,"Gujarbardia Npz","Bore Well",W28818,2018,6.52,NA,NA,33
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2018,NA,24.27,24.55,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2018,2.62,11.13,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2018,2.97,18.78,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2018,10.86,15.58,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2018,13.5,15.18,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2018,1.09,6.74,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2018,2.93,5.51,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2018,'0.94,3.14,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2018,'0.67,4.25,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2018,3.14,9.82,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2018,3.29,6.4,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2018,1.14,6.71,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2018,16.4,27.66,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2018,1.39,5.8,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2018,1.58,5.46,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2018,6.06,6.41,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2018,1.56,4.17,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2018,5.83,9.49,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2018,4.53,8.85,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2018,'0.88,5.19,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2018,'0.77,6.55,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2018,3.11,8.31,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2018,18.2,16.38,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2018,1.53,4.15,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2018,3.92,9.79,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(S),"Bore Well",W28982,2018,5.11,19,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.19,75.63,"Shamgarh Npz","Bore Well",W28878,2018,1.37,3.68,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.91333333,75.09666667,"Kachnera Npz","Bore Well",W28753,2018,14,22.88,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.955,75.1,"Daloda Npz","Bore Well",W28774,2018,2.91,13.86,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.98166667,75.10333333,"Fatehgarh Npz","Bore Well",W28782,2018,4.91,6.75,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.02222222,75.25694444,Chirmoliya,"Dug Well",W28803,2018,1.47,13.18,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.02833333,75.22166667,"Basakheri Npz","Bore Well",W28807,2018,10.3,21.36,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.04833333,75.155,"Digaomali Npz","Bore Well",W28822,2018,9.62,31.76,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(S),"Bore Well",W28825,2018,8,6.5,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W28864,2018,6.06,9.3,NA,NA
+MP,Mandsaur,Malhargarh,Mandsaur,24.15166667,75.02666667,"Botalganj Npz","Bore Well",W28866,2018,11.61,30.15,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.88416667,75.02638889,Manpura,"Dug Well",W28734,2018,6.22,10.98,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.89083333,75.27055556,"Manpura Npz","Bore Well",W28742,2018,8.1,12.86,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(S),"Bore Well",W28797,2018,'0.73,4.3,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.01666667,75.385,"Surjani Npz","Bore Well",W28800,2018,5.06,36.09,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.06833333,75.535,"Khejriya Npz","Bore Well",W28832,2018,26.63,31.58,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.27166667,75.05333333,"Narayangarh Npz","Bore Well",W28920,2018,1.78,4.43,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.285,74.98666667,"Malhargarh Npz","Bore Well",W28922,2018,'0.57,2.52,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.205,75.00333333,"Pipaliya Mandi Npz","Bore Well",W28891,2018,43,31.71,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(S),"Bore Well",W28888,2018,NA,4.48,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02166667,75.42777778,"Titrod Npz","Bore Well",W28802,2018,NA,2.44,1.93,NA
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2018,NA,64.53,25.74,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2017,8,10.67,9,11.8
+MP,Mandsaur,Malhargarh,Malhargarh,24.205,75.00333333,"Pipaliya Mandi Npz","Bore Well",W28891,2017,33.98,46.81,13.2,49.4
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2017,10.05,10.35,12.15,16.45
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2017,11.82,3.12,10.1,15.85
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2017,5.1,6.09,6.55,8.85
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2017,4.05,5.99,4.03,15.85
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2017,'0.77,2.72,2.05,4.35
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2017,1.13,3.69,2.7,10.27
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2017,2.32,10,9.42,11.95
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2017,'0.83,8.1,4.6,9.88
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2017,'0.48,7.05,3.2,8.2
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2017,38.85,49.34,26.14,49.34
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2017,57.87,NA,NA,49.44
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2017,3.17,4.4,4.55,6.67
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2017,1.95,4.75,3.65,7
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2017,3.98,7.73,4.48,8.75
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2017,2.61,11.8,9,13.3
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2017,1.98,4.45,2.45,7.95
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2017,6.98,9,8.99,9.77
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2017,5.13,8.54,7.55,12.75
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2017,1.7,9.85,2.9,11.47
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2017,11.77,35.19,25.35,37.55
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2017,4.21,4.92,10.76,10.3
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2017,1.7,8.25,6.95,14.65
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2017,19.1,17.98,19,18.53
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2017,3.27,4.1,3.8,6.27
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2017,5.85,7.67,8.03,9.95
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(S),"Bore Well",W28982,2017,5.7,5.25,5.65,7.1
+MP,Mandsaur,Garoth,Garoth,24.19,75.63,"Shamgarh Npz","Bore Well",W28878,2017,1.95,3.25,3,6.78
+MP,Mandsaur,Mandsaur,Mandsaur,23.91333333,75.09666667,"Kachnera Npz","Bore Well",W28753,2017,16.88,25.14,13.3,29.1
+MP,Mandsaur,Mandsaur,Mandsaur,23.955,75.1,"Daloda Npz","Bore Well",W28774,2017,14.3,32.3,14.1,29.1
+MP,Mandsaur,Mandsaur,Mandsaur,23.98166667,75.10333333,"Fatehgarh Npz","Bore Well",W28782,2017,5.7,5.26,5,11.18
+MP,Mandsaur,Mandsaur,Mandsaur,24.02222222,75.25694444,Chirmoliya,"Dug Well",W28803,2017,3.48,13.28,10.9,7.6
+MP,Mandsaur,Mandsaur,Mandsaur,24.02833333,75.22166667,"Basakheri Npz","Bore Well",W28807,2017,9.24,39,13.4,46.2
+MP,Mandsaur,Mandsaur,Mandsaur,24.04166667,75.18333333,"Gujarbardia Npz","Bore Well",W28818,2017,3.55,21.85,21.9,26.68
+MP,Mandsaur,Mandsaur,Mandsaur,24.04833333,75.155,"Digaomali Npz","Bore Well",W28822,2017,31.4,19.86,49.39,21.7
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(S),"Bore Well",W28825,2017,6.35,7.05,5.5,7.32
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W28864,2017,14.72,19.47,5.14,19.02
+MP,Mandsaur,Malhargarh,Mandsaur,24.15166667,75.02666667,"Botalganj Npz","Bore Well",W28866,2017,14.42,19.63,21.1,30.4
+MP,Mandsaur,Mandsaur,Mandsaur,23.88416667,75.02638889,Manpura,"Dug Well",W28734,2017,5.53,13.6,9.65,13.1
+MP,Mandsaur,Mandsaur,Mandsaur,23.89083333,75.27055556,"Manpura Npz","Bore Well",W28742,2017,7.72,12.43,11,13.14
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(S),"Bore Well",W28797,2017,1.15,3.68,3.9,4.97
+MP,Mandsaur,Sitamau,Sitamau,24.01666667,75.385,"Surjani Npz","Bore Well",W28800,2017,1.83,30.93,5.3,35.8
+MP,Mandsaur,Sitamau,Sitamau,24.02166667,75.42777778,"Titrod Npz","Bore Well",W28802,2017,'0.98,2.49,1.2,5.34
+MP,Mandsaur,Sitamau,Sitamau,24.06833333,75.535,"Khejriya Npz","Bore Well",W28832,2017,21.34,31.87,12.5,34.15
+MP,Mandsaur,Malhargarh,Malhargarh,24.27166667,75.05333333,"Narayangarh Npz","Bore Well",W28920,2017,1.76,4.57,4,7.72
+MP,Mandsaur,Malhargarh,Malhargarh,24.285,74.98666667,"Malhargarh Npz","Bore Well",W28922,2017,'0.4,3.37,1.6,4.44
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(S),"Bore Well",W28888,2017,2.5,8.3,2.7,9.86
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2017,9,18.63,15.5,21.42
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2016,1.05,9.55,4.81,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(S),"Bore Well",W28982,2016,3.81,6.15,4.48,7.54
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2016,7.23,18.4,18.12,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2016,1.4,4.6,3.17,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2016,'0.4,7.3,3.48,NA
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2016,4.35,7.8,8.38,NA
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2016,5.15,10,8.51,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2016,'0.9,5.45,3.2,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2016,'0.7,19.55,9.16,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2016,1.6,12.45,4.12,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2016,2.05,9.8,4.14,NA
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2016,35.9,39.44,56.18,NA
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2016,'0.6,6.35,2.57,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2016,3.8,8.88,5.33,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2016,1.3,10.65,2.4,9.95
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2016,'0.5,10.75,2.92,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2016,NA,39.35,26.35,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2016,2.7,8.65,3.86,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2016,4.3,15.7,7.55,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2016,6.92,16.15,4.42,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2016,2.2,12.8,8.4,NA
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2016,'0.65,9.5,5.78,NA
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2016,'0.3,4.3,1.56,NA
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2016,NA,20.78,2.18,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2016,'0.95,11.5,8.7,NA
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2016,1.9,9.6,8.98,NA
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2016,30.62,39.34,21.3,NA
+MP,Mandsaur,Sitamau,Sitamau,24.01666667,75.385,"Surjani Npz","Bore Well",W28800,2016,1.96,30.28,10.41,36.02
+MP,Mandsaur,Sitamau,Sitamau,24.02166667,75.42777778,"Titrod Npz","Bore Well",W28802,2016,'0.45,5.09,2.13,6.3
+MP,Mandsaur,Mandsaur,Mandsaur,24.02222222,75.25694444,Chirmoliya,"Dug Well",W28803,2016,1.05,16.4,3.75,19.2
+MP,Mandsaur,Mandsaur,Mandsaur,24.02833333,75.22166667,"Basakheri Npz","Bore Well",W28807,2016,NA,39.4,14.22,47.1
+MP,Mandsaur,Mandsaur,Mandsaur,24.04166667,75.18333333,"Gujarbardia Npz","Bore Well",W28818,2016,1.92,23.4,9.59,27.65
+MP,Mandsaur,Mandsaur,Mandsaur,24.04833333,75.155,"Digaomali Npz","Bore Well",W28822,2016,4.32,20.57,11.61,20.4
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(S),"Bore Well",W28825,2016,1.01,5.9,2.6,8.24
+MP,Mandsaur,Sitamau,Sitamau,24.06833333,75.535,"Khejriya Npz","Bore Well",W28832,2016,15.58,32.56,24.15,34.71
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W28864,2016,'0.6,10.4,14.4,19.38
+MP,Mandsaur,Malhargarh,Mandsaur,24.15166667,75.02666667,"Botalganj Npz","Bore Well",W28866,2016,13.46,29.48,15.12,36.91
+MP,Mandsaur,Garoth,Garoth,24.19,75.63,"Shamgarh Npz","Bore Well",W28878,2016,'0.2,5.65,1.63,7.22
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(S),"Bore Well",W28888,2016,'0.58,9.4,6.85,10.45
+MP,Mandsaur,Malhargarh,Malhargarh,24.205,75.00333333,"Pipaliya Mandi Npz","Bore Well",W28891,2016,22.36,39.4,20.25,49.4
+MP,Mandsaur,Malhargarh,Malhargarh,24.27166667,75.05333333,"Narayangarh Npz","Bore Well",W28920,2016,1.22,9.02,2.33,8.8
+MP,Mandsaur,Malhargarh,Malhargarh,24.285,74.98666667,"Malhargarh Npz","Bore Well",W28922,2016,'0.36,4.9,1.92,5.44
+MP,Mandsaur,Mandsaur,Mandsaur,23.88416667,75.02638889,Manpura,"Dug Well",W28734,2016,6.65,14.3,11.5,13.9
+MP,Mandsaur,Mandsaur,Mandsaur,23.89083333,75.27055556,"Manpura Npz","Bore Well",W28742,2016,6.06,12.66,11.21,12.41
+MP,Mandsaur,Mandsaur,Mandsaur,23.91333333,75.09666667,"Kachnera Npz","Bore Well",W28753,2016,25.14,29.07,15.9,30.59
+MP,Mandsaur,Mandsaur,Mandsaur,23.955,75.1,"Daloda Npz","Bore Well",W28774,2016,2.32,38.12,17.52,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.98166667,75.10333333,"Fatehgarh Npz","Bore Well",W28782,2016,4.18,10.4,3.94,12.8
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(S),"Bore Well",W28797,2016,NA,6.88,2.21,7.64
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2016,'0.3,13,7.52,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2015,6.15,2.32,4.75,10.67
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(S),"Bore Well",W28982,2015,4.98,5.03,4.68,6.08
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2015,21.06,18.9,18.12,18.5
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2015,2.05,3.28,2.82,5.64
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2015,2.45,6.22,4.58,9.39
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2015,7.9,10.7,8.63,13.33
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2015,8.2,9.82,9.4,11.18
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2015,2.15,4.83,3.33,7.53
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2015,4.6,17.96,14.63,20.38
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2015,3.2,5.7,7.1,17.21
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2015,6.3,5.79,5.59,12.6
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2015,37.16,54.44,18.04,59.44
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2015,2.9,5.53,2.62,10.22
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2015,6.2,7.28,7.9,9.62
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2015,4.1,4.5,5.71,7.08
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2015,2.75,5.97,4.49,11.92
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2015,45.93,23.52,23.3,38.45
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2015,2.4,7.65,4.53,8.53
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2015,9.1,11.07,8.55,13.47
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2015,2.56,4.88,3.87,14.63
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2015,6.3,11.06,8.9,14.02
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2015,1.95,8.35,4.78,9.22
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2015,1.4,3.4,2.66,4.53
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2015,2.03,4.76,3.73,6.44
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2015,3.4,8.92,9.19,10.54
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2015,7.2,9.64,9.35,9.88
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2015,26.56,69.34,39.04,74.34
+MP,Mandsaur,Sitamau,Sitamau,24.01666667,75.385,"Surjani Npz","Bore Well",W28800,2015,4.07,22.88,12.85,37.48
+MP,Mandsaur,Sitamau,Sitamau,24.02166667,75.42777778,"Titrod Npz","Bore Well",W28802,2015,2.59,4.4,2.95,6.37
+MP,Mandsaur,Mandsaur,Mandsaur,24.02222222,75.25694444,Chirmoliya,"Dug Well",W28803,2015,3.8,12.83,12.38,18.43
+MP,Mandsaur,Mandsaur,Mandsaur,24.02833333,75.22166667,"Basakheri Npz","Bore Well",W28807,2015,3.61,20.88,16.36,41.3
+MP,Mandsaur,Mandsaur,Mandsaur,24.04166667,75.18333333,"Gujarbardia Npz","Bore Well",W28818,2015,6.06,18.54,19.16,20.63
+MP,Mandsaur,Mandsaur,Mandsaur,24.04833333,75.155,"Digaomali Npz","Bore Well",W28822,2015,11.64,18.06,15.22,21.64
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(S),"Bore Well",W28825,2015,2.28,3.54,3.07,7.23
+MP,Mandsaur,Sitamau,Sitamau,24.06833333,75.535,"Khejriya Npz","Bore Well",W28832,2015,34.83,28.47,16.02,34.22
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W28864,2015,3.7,14.8,13.7,17.92
+MP,Mandsaur,Malhargarh,Mandsaur,24.15166667,75.02666667,"Botalganj Npz","Bore Well",W28866,2015,19.81,29.22,24.6,29.4
+MP,Mandsaur,Garoth,Garoth,24.19,75.63,"Shamgarh Npz","Bore Well",W28878,2015,1.52,4.8,1.97,7.32
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(S),"Bore Well",W28888,2015,6.52,8.5,7.8,10.02
+MP,Mandsaur,Malhargarh,Malhargarh,24.205,75.00333333,"Pipaliya Mandi Npz","Bore Well",W28891,2015,13.22,29.24,22.77,49.4
+MP,Mandsaur,Malhargarh,Malhargarh,24.27166667,75.05333333,"Narayangarh Npz","Bore Well",W28920,2015,4.28,4.65,5.75,8.14
+MP,Mandsaur,Malhargarh,Malhargarh,24.285,74.98666667,"Malhargarh Npz","Bore Well",W28922,2015,2.22,4.71,3.44,4.63
+MP,Mandsaur,Mandsaur,Mandsaur,23.88416667,75.02638889,Manpura,"Dug Well",W28734,2015,8.65,12.12,13.5,13.46
+MP,Mandsaur,Mandsaur,Mandsaur,23.89083333,75.27055556,"Manpura Npz","Bore Well",W28742,2015,7.96,14.4,11.72,12.94
+MP,Mandsaur,Mandsaur,Mandsaur,23.91333333,75.09666667,"Kachnera Npz","Bore Well",W28753,2015,21.62,26.87,15.26,29.76
+MP,Mandsaur,Mandsaur,Mandsaur,23.955,75.1,"Daloda Npz","Bore Well",W28774,2015,7.2,49.4,35.97,49.4
+MP,Mandsaur,Mandsaur,Mandsaur,23.98166667,75.10333333,"Fatehgarh Npz","Bore Well",W28782,2015,4.08,5.52,4.5,10.98
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(S),"Bore Well",W28797,2015,1.82,4.4,3.73,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2015,4.3,13.12,8.73,13.82
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2014,3.95,NA,5.17,8.4
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(S),"Bore Well",W28982,2014,4.83,5.37,4.66,5.97
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2014,13.82,21.12,20.24,20.16
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2014,1.65,3.04,3.21,5.8
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2014,2.2,6.23,5.39,6.9
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2014,7.1,4.6,8.59,12.15
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2014,5.65,10.45,9.67,10.95
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2014,1.65,3.3,5.19,4.7
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2014,'0.5,10.98,10.62,19.4
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2014,1.65,4.08,5.77,11.75
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2014,5.7,7.47,5.23,15.4
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2014,45.57,49.44,49.44,54.44
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2014,1.9,3.73,4.67,7.1
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2014,4.9,NA,5.53,9.8
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2014,1.7,3.87,4.43,7.1
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2014,1.4,3.6,3.01,8.8
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2014,NA,35.59,19.5,34.26
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2014,3.8,4.87,5.41,8.05
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2014,8.15,7.4,9.18,10.9
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2014,3.07,2.35,4.24,7.48
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2014,7.4,9.6,9.58,13.2
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2014,1.5,6.75,5.23,9.6
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2014,'0.45,2.72,2.77,10.1
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2014,'0.28,3.52,4.35,5.93
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2014,3.8,8.25,8.38,9.6
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2014,3.4,7.88,9.32,10.3
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2014,30.98,49.34,37.43,69.34
+MP,Mandsaur,Sitamau,Sitamau,24.01666667,75.385,"Surjani Npz","Bore Well",W28800,2014,7.11,13.98,36.2,23.22
+MP,Mandsaur,Sitamau,Sitamau,24.02166667,75.42777778,"Titrod Npz","Bore Well",W28802,2014,2.31,NA,3.96,3.23
+MP,Mandsaur,Mandsaur,Mandsaur,24.02222222,75.25694444,Chirmoliya,"Dug Well",W28803,2014,'0.9,14.3,2.71,13.4
+MP,Mandsaur,Mandsaur,Mandsaur,24.02833333,75.22166667,"Basakheri Npz","Bore Well",W28807,2014,NA,13.64,16.72,26.02
+MP,Mandsaur,Mandsaur,Mandsaur,24.04166667,75.18333333,"Gujarbardia Npz","Bore Well",W28818,2014,3.88,13.62,11.32,20.52
+MP,Mandsaur,Mandsaur,Mandsaur,24.04833333,75.155,"Digaomali Npz","Bore Well",W28822,2014,7.48,13.1,13.76,20.12
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(S),"Bore Well",W28825,2014,2.51,2.46,3.08,4.51
+MP,Mandsaur,Sitamau,Sitamau,24.06833333,75.535,"Khejriya Npz","Bore Well",W28832,2014,20.49,33.82,31.76,34.29
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W28864,2014,3.4,15.82,14.56,9.1
+MP,Mandsaur,Malhargarh,Mandsaur,24.15166667,75.02666667,"Botalganj Npz","Bore Well",W28866,2014,21.33,25.48,24.89,28.68
+MP,Mandsaur,Garoth,Garoth,24.19,75.63,"Shamgarh Npz","Bore Well",W28878,2014,1.12,2.92,4.02,5.52
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(S),"Bore Well",W28888,2014,NA,3.5,7.68,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.205,75.00333333,"Pipaliya Mandi Npz","Bore Well",W28891,2014,12.78,NA,12.04,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.27166667,75.05333333,"Narayangarh Npz","Bore Well",W28920,2014,1.76,3.67,4.55,7.16
+MP,Mandsaur,Malhargarh,Malhargarh,24.285,74.98666667,"Malhargarh Npz","Bore Well",W28922,2014,'0.78,2.82,2.74,4.22
+MP,Mandsaur,Mandsaur,Mandsaur,23.88416667,75.02638889,Manpura,"Dug Well",W28734,2014,9.7,11.3,13.85,12.7
+MP,Mandsaur,Mandsaur,Mandsaur,23.89083333,75.27055556,"Manpura Npz","Bore Well",W28742,2014,10.28,11.73,12.23,12.27
+MP,Mandsaur,Mandsaur,Mandsaur,23.91333333,75.09666667,"Kachnera Npz","Bore Well",W28753,2014,20.78,20.04,21.96,26.84
+MP,Mandsaur,Mandsaur,Mandsaur,23.955,75.1,"Daloda Npz","Bore Well",W28774,2014,2.96,NA,36.78,49.4
+MP,Mandsaur,Mandsaur,Mandsaur,23.98166667,75.10333333,"Fatehgarh Npz","Bore Well",W28782,2014,4.13,5.14,4.52,6.96
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(S),"Bore Well",W28797,2014,'0.38,3.35,4.1,6.01
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2014,2.65,14.5,13.3,14.5
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2013,'0.575,8.105,2.725,10.85
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(S),"Bore Well",W28982,2013,2.79,6.57,5.21,8.45
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2013,23.48,22.9,27.72,24.1
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2013,'0.85,4.85,2.65,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2013,'0.9,6.45,3.1,9.7
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2013,'0.9,9.51,3.6,12.85
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2013,5.35,9.25,8.6,11.4
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2013,1.1,4.71,2.1,6.85
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2013,'0.8,18.68,2.85,20.2
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2013,NA,17.45,NA,19.14
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2013,1.4,7.41,3.3,15.75
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2013,1.35,12.67,5.9,13.75
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2013,41.11,NA,46.26,NA
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2013,'0.45,5.35,1.2,8.58
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2013,2.6,7.34,3.7,7.98
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2013,'0.45,6.55,2.1,7.75
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2013,'0.6,5.8,1.7,11.2
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2013,NA,36.75,22.16,29.25
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2013,2.2,6.78,2.65,14.65
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2013,4.1,10.47,6.3,14.05
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2013,'0.11,8.49,1.62,16.3
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2013,2.85,10.48,6.2,12.9
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2013,'0.55,7.66,3.2,8.4
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2013,'0.3,3.27,1.35,8
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2013,-0.06,5.16,2.04,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2013,'0.1,8.91,2.6,10.9
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2013,1.95,9.51,6.45,15.1
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2013,21.58,NA,37.75,72.04
+MP,Mandsaur,Sitamau,Sitamau,24.01666667,75.385,"Surjani Npz","Bore Well",W28800,2013,NA,32.28,3.31,25
+MP,Mandsaur,Mandsaur,Mandsaur,24.02222222,75.25694444,Chirmoliya,"Dug Well",W28803,2013,NA,NA,2.6,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.02833333,75.22166667,"Basakheri Npz","Bore Well",W28807,2013,NA,21.75,1.14,26.2
+MP,Mandsaur,Mandsaur,Mandsaur,24.04166667,75.18333333,"Gujarbardia Npz","Bore Well",W28818,2013,3.36,20.41,6.12,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.04833333,75.155,"Digaomali Npz","Bore Well",W28822,2013,4.62,NA,6.75,26
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(S),"Bore Well",W28825,2013,'0.44,2.77,1.78,6.8
+MP,Mandsaur,Sitamau,Sitamau,24.06833333,75.535,"Khejriya Npz","Bore Well",W28832,2013,24.85,35,31.22,34
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W28864,2013,'0.8,NA,2.3,NA
+MP,Mandsaur,Malhargarh,Mandsaur,24.15166667,75.02666667,"Botalganj Npz","Bore Well",W28866,2013,15.86,27.2,20.02,23.4
+MP,Mandsaur,Garoth,Garoth,24.19,75.63,"Shamgarh Npz","Bore Well",W28878,2013,'0.24,4.46,2.61,7.5
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(S),"Bore Well",W28888,2013,NA,8.47,5.74,9.4
+MP,Mandsaur,Malhargarh,Malhargarh,24.27166667,75.05333333,"Narayangarh Npz","Bore Well",W28920,2013,NA,6.5,2.02,9.1
+MP,Mandsaur,Malhargarh,Malhargarh,24.285,74.98666667,"Malhargarh Npz","Bore Well",W28922,2013,NA,NA,1.64,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.88416667,75.02638889,Manpura,"Dug Well",W28734,2013,NA,NA,7.4,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.89083333,75.27055556,"Manpura Npz","Bore Well",W28742,2013,'0.03,12.3,NA,11.4
+MP,Mandsaur,Mandsaur,Mandsaur,23.91333333,75.09666667,"Kachnera Npz","Bore Well",W28753,2013,15.33,28.5,9.82,27.2
+MP,Mandsaur,Mandsaur,Mandsaur,23.955,75.1,"Daloda Npz","Bore Well",W28774,2013,2.23,NA,9.71,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.98166667,75.10333333,"Fatehgarh Npz","Bore Well",W28782,2013,3.71,5.99,3.72,11.7
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(S),"Bore Well",W28797,2013,NA,4.39,1.98,6.8
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2013,'0.7,13.96,3.95,14.5
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2012,NA,5.64,4.75,10.4
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(S),"Bore Well",W28982,2012,NA,NA,5.9,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2012,NA,24.9,22.92,23.93
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2012,NA,4.7,3.62,6.5
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2012,NA,5.42,3.68,9.6
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2012,NA,8.6,6.73,16.8
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2012,NA,8.55,11.35,11.85
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2012,NA,4.6,2.45,7.1
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2012,NA,17.9,5.4,20.6
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2012,NA,9,9.65,21.5
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2012,NA,5.6,3.33,11.9
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2012,NA,6.2,6.25,25.4
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2012,NA,5,1.2,8.9
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2012,NA,6.35,NA,8.6
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2012,NA,5.82,2.53,13.1
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2012,NA,4.69,1.8,11.1
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2012,NA,25.85,NA,46.18
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2012,NA,9.29,2.77,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2012,NA,10.1,5.97,16.1
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2012,NA,6.3,2.75,15.07
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2012,NA,10.34,6.26,13.4
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2012,NA,7.15,3.03,10.3
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2012,NA,2.75,1.82,4.4
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2012,NA,4.02,2.2,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2012,NA,5.94,7.95,10.1
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2012,NA,10,8.55,16
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2012,NA,NA,NA,63.69
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(S),"Bore Well",W28825,2012,NA,NA,2,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(S),"Bore Well",W28888,2012,NA,NA,6.5,NA
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(S),"Bore Well",W28797,2012,NA,NA,2.12,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2012,NA,NA,4.45,13.5
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2011,1.55,9.83,3.45,10.65
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2011,2.94,50.5,24.74,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2011,7.4,29.45,26.5,31.15
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2011,NA,10.1,3.2,6.8
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2011,3,6.6,4.8,10.65
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2011,1.55,11.17,6.55,15.65
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2011,2.5,13.2,5.6,13.36
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2011,'0.35,6.7,2.55,9.32
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2011,1.1,18.2,6.85,20.66
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2011,1.2,13.68,8.3,19.35
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2011,2.65,8.1,5.99,15.81
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2011,1.05,12.25,4.25,14.25
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2011,'0.65,6.05,2.45,9.05
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2011,'0.18,8.38,4.58,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2011,NA,7.07,2.1,6.1
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2011,NA,4.38,2,12.6
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2011,3.35,50.5,NA,36.15
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2011,'0.15,8.75,2.6,14.65
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2011,'0.95,15.85,7.15,17.1
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2011,7,16.7,5.2,27.2
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2011,1.3,NA,6.45,13.36
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2011,2,6.35,3,10.37
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2011,'0.4,4.1,1.9,6.2
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2011,5.4,5.75,2.55,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2011,2.3,5.45,6.1,12
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2011,2,9.85,8.8,11.34
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2011,'0.6,9,8.9,13
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2010,10.13,10.7,10.15,NA
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2010,NA,47.24,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2010,NA,28.51,NA,31
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2010,5.72,7.2,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2010,5.74,6.65,5.6,10.2
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2010,7.39,9.85,9.65,15.2
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2010,13.46,10.85,11.4,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2010,5.56,7.75,3.9,9.07
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2010,11.29,13.9,11.2,20
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2010,14.67,5.55,8.45,14.01
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2010,5.77,14.89,NA,12.75
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2010,NA,NA,NA,49.44
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2010,5.19,4.95,4.95,8.39
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2010,9.5,8.28,8.28,9.98
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2010,5.06,7.85,6.3,9.17
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2010,3.18,9.5,8.55,12.9
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2010,NA,23.35,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2010,7.97,7.15,8.05,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2010,14.18,15.95,15.75,16.15
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2010,NA,16.9,NA,18.45
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2010,11.11,7.2,10.4,NA
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2010,3.95,7.3,4.8,9.93
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2010,1.58,2.9,3.7,4.5
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2010,NA,3.85,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2010,6.08,5.5,7.7,9.9
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2010,8.74,9.7,9.4,10.4
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2010,2.76,10.7,6,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2009,10.25,9.48,9.86,NA
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2009,NA,NA,29.84,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2009,NA,25.25,29.9,27.5
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2009,7.62,10.54,5.92,9.4
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2009,6.6,6.34,6.49,11.9
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2009,7.45,9.33,8.38,16.5
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2009,8.72,12.8,9.93,12.2
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2009,5.85,5.89,6.42,8.15
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2009,2.45,9.92,6.18,20.6
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2009,11.47,12.7,5.41,15.25
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2009,5.95,11.78,9.01,5.6
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2009,5.68,5.45,3.42,8.25
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2009,8.96,9.16,7.67,11.68
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2009,6.6,7.55,7,13.55
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2009,8.3,8.6,5.76,12.9
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2009,NA,NA,29.85,44.95
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2009,7.05,8.35,5.56,14.65
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2009,14.45,15.9,12.67,17.1
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2009,NA,15.58,8.91,16.6
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2009,9.2,13.2,9.12,14.1
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2009,1.3,9.17,4.64,11.9
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2009,'0.2,3.08,1.66,4.7
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2009,NA,4.1,2.76,7.05
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2009,1.58,5.81,5.77,2.7
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2009,6.65,9.71,8.91,15.1
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2009,7.25,10.02,7.99,13
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2008,6.4,10.84,7.42,11
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2008,NA,56.75,NA,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2008,25.3,19.78,24.84,31.8
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2008,9.45,6.66,6.18,7.6
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2008,4.7,8.05,5.34,8.92
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2008,5.37,10.73,7.87,15.1
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2008,8.07,11.15,9.73,8.65
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2008,2.8,6.35,4.81,8.51
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2008,2.37,17.51,3.66,23.9
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2008,10.5,8.05,11.5,15.45
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2008,4.15,16.04,8.61,22.65
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2008,NA,47.59,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2008,3.2,5.6,2.87,8.28
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2008,8.25,7.58,7.61,9.68
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2008,5.85,7.88,5.77,7.89
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2008,3.45,12.4,5.61,13.1
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2008,NA,28.4,NA,43.79
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2008,2.65,6.24,5.85,9.05
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2008,11.85,10.36,13.3,16.55
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2008,9.3,6.28,10.19,15.1
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2008,11.35,10.47,11.51,15.1
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2008,1.38,11.31,5.36,10.7
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2008,'0.98,3.43,1.77,5.8
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2008,1.18,12.99,2.54,22.7
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2008,2.2,6.37,8.08,9.33
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2008,3.1,9.73,8.92,13.2
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2008,3.65,13,7.63,12.6
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2007,9.15,7.42,9.15,9.9
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2007,6.75,9.97,9.2,7.35
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2007,19.03,15.45,19.2,17.6
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2007,NA,4.62,5.8,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2007,NA,6.31,10.3,6.85
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2007,4.05,9.31,NA,11.15
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2007,8.57,9.29,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2007,2.85,5.53,5.25,6.65
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2007,1.26,17.86,17.8,16.5
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2007,9.2,6.42,5.95,14.05
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2007,5.94,12.51,12.15,6.75
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2007,2.75,4.83,4.15,7.75
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2007,7.6,7.32,8.18,8.08
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2007,3.05,5.89,6.75,6.15
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2007,2.95,10.58,10.9,13.3
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2007,44.62,43.65,45.3,42.85
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2007,6.5,6.67,5.85,9.55
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2007,10.25,9.69,8.15,12.8
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2007,7.68,6.31,4,13.8
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2007,9.8,9.98,NA,12.6
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2007,'0.78,8.19,3.9,11.3
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2007,'0.29,8.92,2.2,7.9
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2007,4.55,20.52,6.3,34
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2007,'0.1,7.48,3,8.35
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2007,3.5,9.78,8.9,10.8
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2007,NA,61.34,43.34,NA
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2006,23.54,NA,44.89,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2006,1.36,21.2,5.83,21.15
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2006,3.47,17.1,7.25,15.45
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2006,3.58,21.44,3.7,16.8
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2006,1.2,13.65,6.95,15.3
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2006,'0.65,9.4,3.84,11
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2006,'0.7,4.14,2.4,6.45
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2006,5.24,NA,10,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2006,1.1,9.69,2.88,10.65
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2006,2.3,9.6,8.9,11.75
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2006,1.3,12.12,5.23,17.95
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2006,NA,6.78,4.7,22.05
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2006,'0.65,7.38,2.05,9.7
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2006,4.83,8.21,5.08,8.68
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2006,'0.5,9.27,2.47,8.55
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2006,'0.5,11.87,3.6,11.5
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2006,7.46,29.68,29.35,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2006,1.03,9.05,4.01,11.24
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2006,'0.7,9.66,5.35,12.3
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2006,22.45,21.26,16.7,22.9
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2006,1.73,6.4,3,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2006,'0.78,9.02,4.57,9.4
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2006,2.61,10.52,7.15,14.6
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2006,3.93,13.3,7.45,13
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2006,'0.83,5.95,3.7,7.6
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2006,1.61,9.3,3.25,14.65
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2005,59.34,29.84,NA,59.34
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2005,14.5,17.04,19.66,20.5
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2005,15.47,13.44,17.07,15.45
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2005,14.99,12.37,17.53,17.33
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2005,12.15,10.95,13.13,13.85
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2005,2.54,8.8,6.24,10.82
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2005,2.06,3.53,3.64,4.7
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2005,12.8,NA,NA,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2005,3.4,3.4,7.19,9.32
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2005,7.32,9.88,9.52,11.9
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2005,NA,12.97,NA,13.26
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2005,12.95,6.57,12.42,16.91
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2005,13.95,13.95,11.49,13.95
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2005,59.44,21.57,NA,38.84
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2005,4.9,6.25,5.62,9
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2005,8.18,7.78,8.27,8.44
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2005,5,6.06,6.89,8.63
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2005,6.43,10.75,11.96,12.4
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2005,46.63,24.95,27.39,35.55
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2005,3.45,7.62,2.75,10.15
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2005,5.5,9.02,7.71,13
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2005,22.38,20.57,20.55,22.68
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2005,NA,5.6,5.86,11.2
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2005,1.15,6.1,3.57,10.5
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2005,4.32,9.19,8.78,15.4
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2005,8.76,9.7,9,13.36
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2005,3.47,6.08,4.29,8.55
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2005,8.05,7.16,8.62,14.65
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2004,16.74,30.26,39.27,41.06
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2004,'0.62,17.9,5.88,18.2
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2004,9.3,16.45,9.59,17.1
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2004,12.66,17.05,7.98,22.58
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2004,5.56,13.8,7.97,16.2
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2004,'0.2,9.6,5.23,10.05
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2004,'0.25,4.4,1.93,7.9
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2004,8.91,28.35,10.2,31.7
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2004,'0.1,10.15,2.47,10.4
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2004,'0.9,9.25,8.29,11
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2004,1.07,20.8,2.99,14.8
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2004,'0.69,7.95,4.6,14.83
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2004,3.28,7.65,4.79,8.35
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2004,43.84,32.24,44.69,39.09
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2004,1.75,11,3.61,12.4
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2004,6.88,9.34,6.63,9.34
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2004,'0.05,13.15,2.79,11.47
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2004,'0.67,14.12,2.57,14.5
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2004,29.55,30.6,44.55,48.7
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2004,NA,9.25,4.05,9.7
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2004,'0.9,9.8,5.95,9.9
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2004,23.03,21.14,19.08,26.25
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2004,4.8,10,4.55,10.55
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2004,'0.52,8.95,4.75,9.42
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2004,'0.45,13,4.25,15.35
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2004,4.58,11.4,5.37,11.6
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65416667,Garoth,"Bore Well",W00291,2004,'0.83,NA,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2004,1.45,11.05,4.25,11.2
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2004,6.27,14.35,4.17,14.65
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2003,51.34,44.14,25.64,47.96
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2003,12.05,NA,13.45,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2003,14.35,16.35,17,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2003,17.5,18.35,16.3,22.6
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2003,17,13.1,12.2,15.2
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2003,4.9,8.4,9.9,NA
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2003,10,9.17,7.12,7.45
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2003,10.1,24.35,27.5,42.4
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2003,7.1,7.45,8.4,NA
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2003,9.9,10.15,7.35,8.02
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2003,NA,NA,18.4,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2003,15.85,9.65,8.57,11.25
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2003,5.37,16.65,7.41,NA
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2003,49.44,37.24,20.76,39.74
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2003,11.88,9.9,10.35,11.75
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2003,9.34,9.23,8.6,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2003,6.1,NA,12.85,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2003,12.7,13.1,13.7,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2003,49.35,32.88,30.15,35.45
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2003,10.65,10.21,8.9,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2003,6.16,NA,9.4,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2003,22.5,20.07,12.82,23.9
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2003,NA,7.45,8.7,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2003,9.7,6.9,8.2,7.12
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2003,8.25,11.15,10.8,NA
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2003,7.7,12.8,10.06,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2003,8.85,8.27,9.47,11.27
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2003,20.2,19.15,19.52,18.1
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2002,NA,9.85,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2002,19.02,19.07,18.55,19.2
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2002,19.1,22.52,17.24,27.55
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2002,12.8,13.12,12.05,14.1
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2002,4.5,10.54,5.94,NA
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2002,1.3,4.53,8.57,5.4
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2002,9.92,18.2,22.38,27.3
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2002,4.1,9.12,5.4,NA
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2002,8.42,11.23,9.9,11.2
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2002,21.26,NA,41.42,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2002,19.96,17.4,NA,21.1
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2002,15.33,8.55,8.1,13.65
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2002,7.72,13.67,14.07,14.83
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2002,34.99,34.37,28.66,34.72
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2002,7.89,8.68,8.45,12.05
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2002,8.98,8.47,9.33,8.7
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2002,NA,9.35,10.25,10.75
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2002,12.86,13.73,12.5,13.55
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2002,23.15,22.75,24.55,27.95
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2002,9.39,9.17,9,10.85
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2002,8.85,8.93,NA,10.66
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2002,NA,8.51,18.67,17.45
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2002,6.75,5.8,7.35,10.9
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2002,7.84,10.13,6.34,9.4
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2002,3.46,10.27,7.05,15.35
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2002,12.22,10.73,NA,12.1
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2002,3.99,7.16,7.77,8.7
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2002,15.25,16,16.01,17.45
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2001,11.59,NA,15.2,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2001,3.07,19.22,8.55,19.36
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2001,10.3,13.43,10.91,13.44
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2001,1.37,NA,5.7,NA
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2001,1.36,11.47,3.68,NA
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2001,6.4,14.95,11.7,24.11
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2001,3.92,NA,6.35,NA
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2001,4.4,10.58,9.54,NA
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2001,10.59,NA,30.24,57.39
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2001,16.62,NA,19,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2001,11.38,12.5,7.68,16.05
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2001,1.86,NA,7.83,NA
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2001,NA,NA,NA,61.34
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2001,2.63,8.69,5.9,6.75
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2001,7.35,9.92,7.91,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2001,2.1,NA,13,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2001,1.08,13.15,9.98,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2001,28.65,NA,29.91,28.46
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2001,9.33,NA,8.55,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2001,2.52,9.13,6.5,11.15
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2001,1.36,9.1,7.01,9.65
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2001,6.03,NA,9.75,12.56
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2001,3.88,NA,5.16,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2001,1.48,6.41,4.9,NA
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2001,4.75,9.87,8.75,NA
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2001,5.6,11,9.85,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2001,2.95,7.47,5.35,13.5
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2001,17.14,NA,19.22,24.42
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,2000,15.35,13.68,15.53,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,2000,16.5,14.4,19.83,19.25
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,2000,12.2,11.85,12.82,14.6
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,2000,2.55,10.4,6.2,NA
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,2000,2.35,3.54,7.96,11.24
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,2000,7.1,5.1,11.92,14.22
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,2000,5.1,5.5,6.41,NA
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,2000,7,9.78,9.32,NA
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,2000,18.94,32.04,NA,54.12
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,2000,16.22,NA,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.92555556,75.09944444,Daloda,"Bore Well",W00295,2000,NA,4.4,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,2000,9,4.78,10.3,10.7
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,2000,3.75,NA,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,2000,NA,64.07,NA,NA
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,2000,6,6.71,8.18,9.95
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,2000,7.4,6,8.33,8.08
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,2000,5.69,7.36,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,2000,3.32,9.71,9.74,11.9
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,2000,37.35,44.91,NA,24.85
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,2000,9.17,7.49,11.5,9.56
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,2000,3.97,6.31,8.26,9.45
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,2000,2.97,8.3,8.12,9.83
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,2000,NA,7.62,NA,10.34
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,2000,4.8,4.45,5.14,6.1
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,2000,3.67,6.04,5.3,NA
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,2000,6.41,10.56,9.5,14.2
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,2000,8.2,9.36,9.95,13.1
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,2000,4.01,5.23,6.27,7.3
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,2000,NA,12.62,NA,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,1999,2.42,9.4,9.83,12.32
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,1999,4.15,14.33,6.8,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,1999,4.15,7.45,4.45,9.46
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,1999,10.65,11.95,11.47,NA
+MP,Mandsaur,Mandsaur,Mandsaur,24.0575,75.09944444,Mandsaur(D),"Bore Well",W00931,1999,4.69,NA,10.89,11.91
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,1999,9.98,10.94,9.84,NA
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,1999,1.45,9.73,3,11.88
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,1999,'0.44,2.53,2.01,6.87
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,1999,1.06,NA,3.35,10.88
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,1999,1.72,5.43,4.94,NA
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,1999,2.05,9.75,8.53,11.55
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,1999,7.05,NA,21.44,59.47
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,1999,1.93,9.35,4.15,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,1999,1.46,9.5,5.38,10.42
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,1999,6.62,NA,6.64,12.16
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,1999,4.1,5.68,4.94,10.6
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,1999,2.2,6.6,4.9,8.62
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,1999,4.27,7.55,6.86,15.13
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,1999,4.68,15.85,7.71,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,1999,3.19,6.43,4.19,10.45
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,1999,2.84,14.63,4.4,19.21
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,1999,NA,20.5,NA,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.92555556,75.09944444,Daloda,"Bore Well",W00295,1999,3.8,NA,3.65,9.97
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,1999,2.75,7.31,3.45,7.73
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,1999,1.85,13.05,5.75,NA
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,1999,40.18,NA,44.97,55.67
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,1999,1.88,7.85,3.65,10.88
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,1999,5.04,8.98,5.33,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,1999,15.76,NA,25.33,30.1
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,1998,6.31,5.08,3.38,11.25
+MP,Mandsaur,Malhargarh,Malhargarh,24.20055556,75.01055556,Pipliyamandi(D),"Bore Well",W00927,1998,NA,NA,11.03,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,1998,7.35,5.6,5.43,9.55
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,1998,8.86,6.95,8.43,11.21
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,1998,10.75,8.75,9.45,12.82
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,1998,1.96,4.95,3.4,NA
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,1998,'0.47,2.38,1.7,5.55
+MP,Mandsaur,Sitamau,Sitamau,24.01333333,75.34777778,Sitamau(D),"Bore Well",W00936,1998,NA,NA,16.2,NA
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,1998,2.9,4.15,4.1,7.44
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,1998,6.05,7.35,8.63,10.32
+MP,Mandsaur,Sitamau,Sitamau,24.06944444,75.65722222,Suwasara-2,"Bore Well",W00940,1998,NA,NA,26.3,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,1998,8.47,7.58,7.85,11.63
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,1998,12.05,6.42,8,12.64
+MP,Mandsaur,Bhanpura,Bhanpura,24.50888889,75.74444444,Bhanpura(D),"Bore Well",W00285,1998,NA,NA,35.6,NA
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,1998,5.37,5.44,4.6,6.45
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,1998,5.63,5,5.42,6.98
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,1998,3.83,6.68,8.29,9.67
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,1998,9.59,9.92,9.85,11.88
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65416667,Garoth,"Bore Well",W00291,1998,NA,NA,28.6,NA
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,1998,4.83,5.28,5.55,11.57
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,1998,5.03,11.08,5.32,18.15
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,1998,18.55,16.1,18.5,NA
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,1998,8.18,3.89,5.25,15.99
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,1998,3.47,3.77,6.75,12.89
+MP,Mandsaur,Garoth,Garoth,24.18777778,75.64083333,Shamgarh,"Bore Well",W00922,1998,NA,NA,30.12,NA
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,1998,3.02,4.41,5.85,8.09
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,1998,9.4,8.41,8.98,NA
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,1998,10.04,5.78,6.69,8.45
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,1997,5.65,7.25,4.23,9.57
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,1997,4.05,6.17,4.9,10.5
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,1997,8.03,7.96,6.08,9.81
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,1997,2.25,10.28,2.8,10.15
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,1997,2.55,7.28,3.19,16.03
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,1997,2.05,6.61,2.85,13.28
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,1997,16.8,17.5,18.95,20.57
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,1997,1.86,11.7,4.83,19.51
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,1997,3.15,4.81,3.73,7.39
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,1997,5.5,9.3,8.8,15.5
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,1997,1.25,8.66,3.43,13.89
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,1997,4.6,6.12,4.1,9.64
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,1997,4.25,6.74,3.85,6.35
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,1997,1.8,7.83,4.8,10.5
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,1997,5.56,6.99,6.35,10.17
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,1997,3.1,10.14,5.9,11.14
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,1997,1.15,4.9,2.62,9.7
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,1997,'0.5,2.51,1.45,11.37
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,1997,1,8.18,2.71,9.74
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,1997,6.53,9.38,5.58,13
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,1997,6.75,7.2,5.5,14.23
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,1997,1.9,9.15,2.4,12.12
+MP,Mandsaur,Mandsaur,Mandsaur,23.925,75.09888889,Daloda1,"Dug Well",W00296,1996,1.86,4.55,3.97,8.17
+MP,Mandsaur,Mandsaur,Mandsaur,23.86388889,75.10333333,Kachnera,"Dug Well",W00929,1996,4.93,7.95,3.93,9.87
+MP,Mandsaur,Malhargarh,Malhargarh,24.26666667,75.05388889,Narayangarh,"Dug Well",W00925,1996,1.21,7.35,2.47,11.03
+MP,Mandsaur,Bhanpura,Bhanpura,24.51166667,75.74944444,Bhanpura1,"Dug Well",W00287,1996,2.3,9.5,2.38,11.86
+MP,Mandsaur,Mandsaur,Mandsaur,24.14833333,75.02916667,Botalganj,"Dug Well",W00294,1996,16.2,18,14.08,21.3
+MP,Mandsaur,Bhanpura,Bhanpura,24.59916667,75.68916667,Badodiya,"Dug Well",W00284,1996,'0.24,8.4,4.95,10.55
+MP,Mandsaur,Garoth,Garoth,24.19138889,75.64,Shamgarh1,"Dug Well",W00923,1996,'0.68,7.15,2.33,11.79
+MP,Mandsaur,Bhanpura,Bhanpura,24.47416667,75.68805556,Babulda,"Dug Well",W00283,1996,1.19,8.25,3.63,10.23
+MP,Mandsaur,Mandsaur,Mandsaur,24.03166667,75.19805556,Basakheda,"Dug Well",W00293,1996,1.9,11.95,5.65,17.28
+MP,Mandsaur,Sitamau,Sitamau,24.07694444,75.6425,Suwasara-1,"Dug Well",W00939,1996,1.38,10.1,8.52,10.54
+MP,Mandsaur,Malhargarh,Malhargarh,24.19638889,75.00833333,Pipaliya,"Dug Well",W00926,1996,1.42,NA,3.14,11.78
+MP,Mandsaur,Sitamau,Sitamau,24.02527778,75.445,Surjani,"Dug Well",W00938,1996,'0.72,4.73,2.91,9.32
+MP,Mandsaur,Garoth,Garoth,24.33333333,75.65472222,Garoth1,"Dug Well",W00292,1996,1.89,6.85,3.76,8.96
+MP,Mandsaur,Sitamau,Sitamau,24.0125,75.34944444,Sitamau,"Dug Well",W00935,1996,'0.14,2.84,1.53,11.4
+MP,Mandsaur,Bhanpura,Bhanpura,24.56138889,75.8675,Sandhara,"Dug Well",W00921,1996,1.09,8.35,3.91,17.29
+MP,Mandsaur,Sitamau,Sitamau,24.05,75.48972222,Khejriya,"Dug Well",W00934,1996,'0.92,7.05,3.82,10.02
+MP,Mandsaur,Garoth,Garoth,24.1925,75.5,Dharmarajeswar,"Dug Well",W00290,1996,2.74,9.1,8.58,12.25
+MP,Mandsaur,Mandsaur,Mandsaur,24.01444444,75.08333333,Nayakhera,"Dug Well",W00933,1996,5.56,10.65,6,14.54
+MP,Mandsaur,Malhargarh,Malhargarh,24.27805556,74.99111111,Malhargarh,"Dug Well",W00924,1996,5.63,9.58,4.64,10.48
+MP,Mandsaur,Mandsaur,Mandsaur,24.05277778,75.08416667,Mandsaur,"Dug Well",W00930,1996,5.78,8.85,5.12,15.57
+MP,Mandsaur,Garoth,Garoth,24.21944444,75.52194444,Barkheranayak,"Dug Well",W00289,1996,1.79,5.61,6.77,12.77
+MP,Mandsaur,Bhanpura,Bhanpura,24.43138889,75.68472222,Dudhkheri,"Dug Well",W00288,1996,'0.99,6.2,4.41,9.48

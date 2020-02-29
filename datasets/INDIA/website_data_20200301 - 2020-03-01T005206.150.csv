@@ -1,0 +1,656 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2018,NA,4.47,2.3,NA
+MS,Akola,Akola,Akola,20.79916667,76.99916667,Ugwawadi,"Dug Well",W26714,2018,NA,25.49,NA,NA
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2018,NA,19.55,12.55,NA
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2018,NA,11.29,4.41,NA
+MS,Akola,Murtijapur,Murtijapur,20.73472222,77.37138889,Murtijapur_Pz,"Bore Well",W22415,2018,NA,6.1,2.9,NA
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2018,NA,5.85,3.7,NA
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2018,NA,16,15.8,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2018,NA,16.2,13.7,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2018,NA,21.79,21.79,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2018,NA,11.2,11.5,NA
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2018,NA,10.4,6.9,NA
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2018,NA,12.99,5,NA
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2018,NA,10.1,4.2,NA
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2018,NA,30,23,NA
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2018,NA,9.94,9,NA
+MS,Akola,Patur,Patur,20.40972222,76.85333333,Alegaon,"Dug Well",W26500,2018,NA,7.8,6.7,NA
+MS,Akola,Patur,Patur,20.45666667,76.85916667,Ambashi,"Dug Well",W26527,2018,NA,9.1,6.3,NA
+MS,Akola,Patur,Patur,20.50805556,76.83305556,Sasti,"Dug Well",W26570,2018,NA,11.95,10.4,NA
+MS,Akola,Barshitakli,Barshitakli,20.49527778,77.16027778,Mahan-1,"Dug Well",W26555,2018,NA,8.15,8.1,NA
+MS,Akola,Barshitakli,Barshitakli,20.50638889,77.20444444,Hatola,"Dug Well",W26569,2018,NA,4.3,3.5,NA
+MS,Akola,Barshitakli,Barshitakli,20.56055556,77.17833333,Donad,"Dug Well",W26594,2018,NA,9.15,9.8,NA
+MS,Akola,Akola,Balapur,20.59,76.92194444,Majhari,"Dug Well",W26600,2018,NA,13.99,10.8,NA
+MS,Akola,Akot,Akot,20.9775,76.96833333,Raundala,"Dug Well",W26832,2018,NA,14.99,13.3,NA
+MS,Akola,Akot,Akot,21.07722222,77.10083333,"Dhaga Phata","Dug Well",W26899,2018,NA,32.99,29.8,NA
+MS,Akola,Akot,Akot,21.11666667,77.05,Akot1,"Dug Well",W26931,2018,NA,23.39,15,NA
+MS,Akola,Akot,Akot,21.14388889,77.13638889,Panaj,"Dug Well",W26949,2018,NA,20.4,25,NA
+MS,Akola,Akot,Akot,21.20833333,77.07916667,Popetkheda,"Dug Well",W26996,2018,NA,3.45,8.1,NA
+MS,Akola,Balapur,Balapur,20.88333333,76.85277778,Andura1,"Dug Well",W26770,2018,NA,25.59,23.5,NA
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2018,1.65,15.35,NA,NA
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2018,NA,17.89,NA,NA
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2018,NA,17.19,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.65916667,76.83444444,"Kanheri Gawali_Pz","Bore Well",W22416,2018,NA,NA,4.5,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2018,NA,NA,12.7,13.99
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2018,NA,NA,9.8,10.3
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2018,30,NA,NA,NA
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2018,NA,13.7,8.1,NA
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2017,3.62,2,3.5,5.2
+MS,Akola,Balapur,Balapur,20.88333333,76.85277778,Andura1,"Dug Well",W26770,2017,23.95,24.8,23.3,26
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2017,18.45,14.5,17.3,20.7
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2017,7.94,6.1,8.6,10.5
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2017,17.9,10.1,10,17.9
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2017,5,4.5,3.4,7.1
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2017,15.3,15.3,15.6,16.8
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2017,12.35,10.7,11.9,14
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2017,17,14.4,16.3,17
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2017,13.25,12,13,11.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2017,8.75,5.7,8.5,9.9
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2017,10,6.3,8.6,11.36
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2017,12.75,11.1,11.5,13
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2017,8.25,4.3,5.8,12.3
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2017,24.55,30,25,30
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2017,8.84,8.4,8.45,8.7
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2017,NA,21.4,21.2,21.8
+MS,Akola,"Umri Pragane Balapur",Balapur,20.65916667,76.83444444,"Kanheri Gawali_Pz","Bore Well",W22416,2017,9,3.5,5,NA
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2017,NA,5.4,5.28,NA
+MS,Akola,Murtijapur,Murtijapur,20.73472222,77.37138889,Murtijapur_Pz,"Bore Well",W22415,2017,NA,3.4,6.8,NA
+MS,Akola,Akot,Akola,20.84222222,77.00833333,"Vallabh Nagar","Dug Well",W06862,2017,NA,NA,8.3,NA
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2017,17.19,12.5,NA,17.19
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2017,38,NA,NA,26.7
+MS,Akola,Malkapur,Barshitakli,20.57611111,77.07027778,"Barshi Takli_Pz","Bore Well",W22414,2017,NA,3.7,NA,NA
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2017,NA,13,NA,NA
+MS,Akola,Akot,Akot,21.14388889,77.13638889,Panaj,"Dug Well",W26949,2017,19.4,16,19.2,NA
+MS,Akola,Akola,Akola,20.79916667,76.99916667,Ugwawadi,"Dug Well",W26714,2017,NA,25.4,NA,25.5
+MS,Akola,Patur,Patur,20.40972222,76.85333333,Alegaon,"Dug Well",W26500,2017,7.2,3,5.4,4.4
+MS,Akola,Patur,Patur,20.45666667,76.85916667,Ambashi,"Dug Well",W26527,2017,7.5,5.3,7.1,6.3
+MS,Akola,Patur,Patur,20.50805556,76.83305556,Sasti,"Dug Well",W26570,2017,11.9,10.2,11.3,12.9
+MS,Akola,Barshitakli,Barshitakli,20.49527778,77.16027778,Mahan-1,"Dug Well",W26555,2017,8.55,8.5,9.05,9.4
+MS,Akola,Barshitakli,Barshitakli,20.50638889,77.20444444,Hatola,"Dug Well",W26569,2017,5.3,3.4,3,6.2
+MS,Akola,Barshitakli,Barshitakli,20.56055556,77.17833333,Donad,"Dug Well",W26594,2017,7.85,11.3,9.6,7.2
+MS,Akola,Akola,Balapur,20.59,76.92194444,Majhari,"Dug Well",W26600,2017,13.05,10.2,13.3,13
+MS,Akola,Akot,Akot,20.9775,76.96833333,Raundala,"Dug Well",W26832,2017,13.7,13.3,12.7,15
+MS,Akola,Akot,Akot,21.07722222,77.10083333,"Dhaga Phata","Dug Well",W26899,2017,30.7,30.5,32,33
+MS,Akola,Akot,Akot,21.11666667,77.05,Akot1,"Dug Well",W26931,2017,22.2,19,15,23.4
+MS,Akola,Akot,Akot,21.20833333,77.07916667,Popetkheda,"Dug Well",W26996,2017,9.05,4,9.1,18.9
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2017,10.6,7.9,11.8,13.8
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2016,8.7,NA,7.5,8.24
+MS,Akola,Balapur,Balapur,20.88333333,76.85277778,Andura1,"Dug Well",W26770,2016,22.6,26,7.3,23.85
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2016,10.15,NA,10,13
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2016,5.51,NA,5.34,14.39
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2016,13,NA,12.8,13.7
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2016,'0.5,NA,1,6.97
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2016,7.81,NA,30,23.05
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2016,6.6,NA,8.8,13.05
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2016,5.1,NA,4.7,9.65
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2016,16.6,NA,14.4,17
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2016,NA,NA,11.2,11.1
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2016,13.9,NA,14.5,13.6
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2016,2,NA,3.8,6.25
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2016,5.5,NA,NA,12.2
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2016,8.9,NA,9.7,12.8
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2016,4.5,NA,9.6,20
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2016,1,NA,NA,13.2
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2016,5,NA,5.9,13.2
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2016,5.35,NA,5.3,9.5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2016,21,NA,12.2,20.47
+MS,Akola,Malkapur,Barshitakli,20.57611111,77.07027778,"Barshi Takli_Pz","Bore Well",W22414,2016,2.9,NA,3.3,15.5
+MS,Akola,Murtijapur,Murtijapur,20.73472222,77.37138889,Murtijapur_Pz,"Bore Well",W22415,2016,'0.8,NA,2.2,6.3
+MS,Akola,"Umri Pragane Balapur",Balapur,20.65916667,76.83444444,"Kanheri Gawali_Pz","Bore Well",W22416,2016,1,NA,2.8,4.15
+MS,Akola,Barshitakli,Barshitakli,20.56055556,77.17833333,Donad,"Dug Well",W26594,2016,6.3,10.5,NA,9.65
+MS,Akola,Akola,Balapur,20.59,76.92194444,Majhari,"Dug Well",W26600,2016,9.8,11.5,10.1,13
+MS,Akola,Akola,Akola,20.79916667,76.99916667,Ugwawadi,"Dug Well",W26714,2016,23,25.5,23,24.6
+MS,Akola,Patur,Patur,20.40972222,76.85333333,Alegaon,"Dug Well",W26500,2016,1.9,4.4,5.4,8.7
+MS,Akola,Patur,Patur,20.45666667,76.85916667,Ambashi,"Dug Well",W26527,2016,11.9,13,5.1,12.5
+MS,Akola,Barshitakli,Barshitakli,20.49527778,77.16027778,Mahan-1,"Dug Well",W26555,2016,9,11.3,8.6,9.35
+MS,Akola,Barshitakli,Barshitakli,20.50638889,77.20444444,Hatola,"Dug Well",W26569,2016,1,5.4,2.5,6.8
+MS,Akola,Patur,Patur,20.50805556,76.83305556,Sasti,"Dug Well",W26570,2016,5.6,11.1,8,8.5
+MS,Akola,Akot,Akot,20.9775,76.96833333,Raundala,"Dug Well",W26832,2016,12.2,12,13,11.5
+MS,Akola,Akot,Akot,21.07722222,77.10083333,"Dhaga Phata","Dug Well",W26899,2016,28.8,28.1,29.3,30.3
+MS,Akola,Akot,Akot,21.11666667,77.05,Akot1,"Dug Well",W26931,2016,21.3,21.2,18,22.1
+MS,Akola,Akot,Akot,21.13333333,77,Umra1,"Dug Well",W26940,2016,NA,30.9,NA,NA
+MS,Akola,Akot,Akot,21.14388889,77.13638889,Panaj,"Dug Well",W26949,2016,13.3,14.6,15.4,18.2
+MS,Akola,Akot,Akot,21.20833333,77.07916667,Popetkheda,"Dug Well",W26996,2016,6.4,3.9,7.2,5.35
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2016,2.5,NA,2.9,12.4
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2015,NA,NA,NA,17.8
+MS,Akola,Balapur,Balapur,20.88333333,76.85277778,Andura1,"Dug Well",W26770,2015,NA,23.32,23.35,22.05
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2015,3.9,5.4,5.2,10.55
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2015,17.8,17.9,NA,15.4
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2015,NA,6.35,5.29,8.49
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2015,17.19,17.18,6.2,17
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2015,2.4,4,2.37,5.72
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2015,30,30,30,30
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2015,7.55,10,9.05,8.75
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2015,NA,5.5,5.05,6.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2015,14.7,13.62,14.7,14.6
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2015,11.4,11.85,10.5,11.15
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2015,11.8,12.05,11.8,10.5
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2015,1.85,4,2.45,6.05
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2015,NA,NA,9.4,9
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2015,9,9.25,11.2,10.7
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2015,9.6,16.55,12.68,19.75
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2015,2,5.04,4,2
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2015,5.9,6.74,6.6,9
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2015,5,7.6,6.9,8.8
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2015,19.25,19.35,20.5,19.47
+MS,Akola,Malkapur,Barshitakli,20.57611111,77.07027778,"Barshi Takli_Pz","Bore Well",W22414,2015,14.2,8.6,10,9.2
+MS,Akola,Murtijapur,Murtijapur,20.73472222,77.37138889,Murtijapur_Pz,"Bore Well",W22415,2015,2.5,3.7,NA,5.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.65916667,76.83444444,"Kanheri Gawali_Pz","Bore Well",W22416,2015,1.4,4.94,4.5,5.5
+MS,Akola,Barshitakli,Barshitakli,20.56055556,77.17833333,Donad,"Dug Well",W26594,2015,5.15,7.35,5.6,7.45
+MS,Akola,Akola,Balapur,20.59,76.92194444,Majhari,"Dug Well",W26600,2015,7,9.52,7.9,10
+MS,Akola,Akola,Akola,20.79916667,76.99916667,Ugwawadi,"Dug Well",W26714,2015,24.2,NA,NA,NA
+MS,Akola,Patur,Patur,20.40972222,76.85333333,Alegaon,"Dug Well",W26500,2015,2.5,2.55,6.6,3.5
+MS,Akola,Patur,Patur,20.45666667,76.85916667,Ambashi,"Dug Well",W26527,2015,3.5,5.85,1.05,9.2
+MS,Akola,Barshitakli,Barshitakli,20.49527778,77.16027778,Mahan-1,"Dug Well",W26555,2015,8.75,9.55,9.05,9.75
+MS,Akola,Barshitakli,Barshitakli,20.50638889,77.20444444,Hatola,"Dug Well",W26569,2015,3.1,5.5,3.1,7
+MS,Akola,Patur,Patur,20.50805556,76.83305556,Sasti,"Dug Well",W26570,2015,8.75,8.1,8.15,8.05
+MS,Akola,Akot,Akot,20.9775,76.96833333,Raundala,"Dug Well",W26832,2015,11.2,11,11.7,11.7
+MS,Akola,Akot,Akot,21.07722222,77.10083333,"Dhaga Phata","Dug Well",W26899,2015,27.9,26.4,29,28.3
+MS,Akola,Akot,Akot,21.11666667,77.05,Akot1,"Dug Well",W26931,2015,21.8,16.6,19,20.7
+MS,Akola,Akot,Akot,21.13333333,77,Umra1,"Dug Well",W26940,2015,30.8,30.9,NA,NA
+MS,Akola,Akot,Akot,21.14388889,77.13638889,Panaj,"Dug Well",W26949,2015,13,NA,13.7,13.7
+MS,Akola,Akot,Akot,21.20833333,77.07916667,Popetkheda,"Dug Well",W26996,2015,9,5.25,8.55,7.05
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2015,6.25,5.75,6.54,5.84
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2014,4.5,5,5.64,5.74
+MS,Akola,Balapur,Balapur,20.88333333,76.85277778,Andura1,"Dug Well",W26770,2014,NA,21.9,21.9,21.35
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2014,17.89,16,8.1,17.89
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2014,4.3,4.6,3.59,6.79
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2014,17.19,17.19,11.7,17.19
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2014,3.6,1.52,2.47,3.87
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2014,20,24,21.55,25
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2014,NA,24.3,36,35
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2014,26.45,NA,35,29.98
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2014,7.1,8.2,7.45,9.95
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2014,4.3,3.8,3.8,5.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2014,14.2,12.8,13,13.5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2014,11.6,7.7,10.9,9.3
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2014,NA,11.3,9.4,11.7
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2014,1.7,3.15,3.25,3.75
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2014,NA,11.5,9.9,7.4
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2014,6.8,9,7.3,8.8
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2014,14.1,11.75,12.35,13.55
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2014,4.55,NA,3.6,5.6
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2014,6.1,5.8,6.1,9.65
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2014,6.7,6.5,6.35,10.3
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2014,20,19.2,18,19.07
+MS,Akola,Malkapur,Barshitakli,20.57611111,77.07027778,"Barshi Takli_Pz","Bore Well",W22414,2014,4.35,8.55,7.1,7.7
+MS,Akola,Murtijapur,Murtijapur,20.73472222,77.37138889,Murtijapur_Pz,"Bore Well",W22415,2014,1.2,2.68,1.75,5.5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.65916667,76.83444444,"Kanheri Gawali_Pz","Bore Well",W22416,2014,3.8,3.35,3.9,4.6
+MS,Akola,Barshitakli,Barshitakli,20.56055556,77.17833333,Donad,"Dug Well",W26594,2014,10,6.13,5.51,6.35
+MS,Akola,Patur,Patur,20.40972222,76.85333333,Alegaon,"Dug Well",W26500,2014,3.8,'0.8,4.9,4.5
+MS,Akola,Patur,Patur,20.45666667,76.85916667,Ambashi,"Dug Well",W26527,2014,4.1,5.5,5.2,4
+MS,Akola,Barshitakli,Barshitakli,20.49527778,77.16027778,Mahan-1,"Dug Well",W26555,2014,9.4,9.3,8.85,6.65
+MS,Akola,Barshitakli,Barshitakli,20.50638889,77.20444444,Hatola,"Dug Well",W26569,2014,6,3.8,2.86,5.9
+MS,Akola,Akot,Akot,20.9775,76.96833333,Raundala,"Dug Well",W26832,2014,10.75,10.5,13,NA
+MS,Akola,Akot,Akot,21.07722222,77.10083333,"Dhaga Phata","Dug Well",W26899,2014,27,22,27.2,19.5
+MS,Akola,Akot,Akot,21.11666667,77.05,Akot1,"Dug Well",W26931,2014,17.1,13.91,14.9,17.8
+MS,Akola,Akot,Akot,21.13333333,77,Umra1,"Dug Well",W26940,2014,NA,NA,29.7,21.7
+MS,Akola,Akot,Akot,21.14388889,77.13638889,Panaj,"Dug Well",W26949,2014,NA,12,11.2,20.5
+MS,Akola,Akot,Akot,21.20833333,77.07916667,Popetkheda,"Dug Well",W26996,2014,8.1,4.15,6.45,6.55
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2014,4.2,3.82,3,10.7
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2013,3.9,6.5,4.95,8
+MS,Akola,Balapur,Balapur,20.88333333,76.85277778,Andura1,"Dug Well",W26770,2013,NA,22.8,20.7,23.1
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2013,NA,17.6,NA,NA
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2013,NA,6,1.8,8.7
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2013,NA,2.7,3.5,5
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2013,NA,NA,NA,38
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2013,4.7,13,6.25,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2013,NA,8.9,2.6,9.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2013,14.6,14.8,15.1,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2013,NA,12,NA,11
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2013,10.16,12.6,11.73,13
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2013,2.25,3.5,NA,7.1
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2013,7.25,10.3,8,NA
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2013,4,13.1,5,18.5
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2013,2.7,5.5,NA,NA
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2013,4.2,7.7,4.8,7.6
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2013,3,6.8,4.5,9.2
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2013,20.05,21.5,20.1,21
+MS,Akola,Malkapur,Barshitakli,20.57611111,77.07027778,"Barshi Takli_Pz","Bore Well",W22414,2013,2.55,9.2,4.5,10.5
+MS,Akola,Murtijapur,Murtijapur,20.73472222,77.37138889,Murtijapur_Pz,"Bore Well",W22415,2013,'0.6,3.75,1.2,5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.65916667,76.83444444,"Kanheri Gawali_Pz","Bore Well",W22416,2013,2,4.7,4.43,8.6
+MS,Akola,Barshitakli,Barshitakli,20.56055556,77.17833333,Donad,"Dug Well",W26594,2013,NA,7.45,5.55,NA
+MS,Akola,Patur,Patur,20.40972222,76.85333333,Alegaon,"Dug Well",W26500,2013,'0.6,NA,3.3,7.3
+MS,Akola,Patur,Patur,20.45666667,76.85916667,Ambashi,"Dug Well",W26527,2013,'0.45,NA,1,9
+MS,Akola,Barshitakli,Barshitakli,20.49527778,77.16027778,Mahan-1,"Dug Well",W26555,2013,7.8,8.4,8.45,9.2
+MS,Akola,Barshitakli,Barshitakli,20.50638889,77.20444444,Hatola,"Dug Well",W26569,2013,1.8,4.3,2.6,6.5
+MS,Akola,Akot,Akot,20.9775,76.96833333,Raundala,"Dug Well",W26832,2013,11,12,NA,12.5
+MS,Akola,Akot,Akot,21.07722222,77.10083333,"Dhaga Phata","Dug Well",W26899,2013,NA,26.8,10.2,28.1
+MS,Akola,Akot,Akot,21.11666667,77.05,Akot1,"Dug Well",W26931,2013,19,18.9,12.2,NA
+MS,Akola,Akot,Akot,21.14388889,77.13638889,Panaj,"Dug Well",W26949,2013,20.6,26.2,18.8,30
+MS,Akola,Akot,Akot,21.20833333,77.07916667,Popetkheda,"Dug Well",W26996,2013,NA,2.9,NA,9
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2013,1.55,4.6,2.5,9.2
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2012,NA,6.8,5.95,8.6
+MS,Akola,Balapur,Balapur,20.88333333,76.85277778,Andura1,"Dug Well",W26770,2012,NA,NA,20.55,NA
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2012,NA,5.1,3.4,12.9
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2012,NA,17.3,NA,NA
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2012,NA,3.6,3.75,9.75
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2012,NA,13.4,12.4,12.9
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2012,NA,4.35,1.27,8.8
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2012,NA,24,NA,NA
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2012,NA,30.5,32,31.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2012,NA,NA,29.7,39.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2012,NA,10.5,9.35,12.15
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2012,NA,9.85,7.05,8.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2012,NA,17,15.2,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2012,NA,11.5,10.85,11.1
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2012,NA,11.5,12,13.3
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2012,NA,4,2.1,5.4
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2012,NA,11.5,NA,NA
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2012,NA,10.3,9.05,12
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2012,NA,17.25,6.45,20.45
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2012,NA,5.5,2.35,7.9
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2012,NA,7.8,6.05,11.2
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2012,NA,7.1,5.25,15.5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2012,NA,21.5,21.5,21
+MS,Akola,Malkapur,Barshitakli,20.57611111,77.07027778,"Barshi Takli_Pz","Bore Well",W22414,2012,NA,9.65,6.6,13
+MS,Akola,Murtijapur,Murtijapur,20.73472222,77.37138889,Murtijapur_Pz,"Bore Well",W22415,2012,NA,3.95,1.8,5.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.65916667,76.83444444,"Kanheri Gawali_Pz","Bore Well",W22416,2012,NA,5.3,2.6,NA
+MS,Akola,Barshitakli,Barshitakli,20.49527778,77.16027778,Mahan-1,"Dug Well",W26555,2012,NA,NA,8.1,NA
+MS,Akola,Akot,Akot,21.11666667,77.05,Akot1,"Dug Well",W26931,2012,NA,NA,16,NA
+MS,Akola,Akot,Akot,21.20833333,77.07916667,Popetkheda,"Dug Well",W26996,2012,NA,NA,3.3,NA
+MS,Akola,Balapur,Akot,21.13333333,77,Umra,"Bore Well",W06866,2012,NA,6.55,NA,NA
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2011,6.84,7.84,6.7,8
+MS,Akola,"Umri Pragane Balapur",Balapur,20.65916667,76.83444444,"Kanheri Gawali_Pz","Bore Well",W22416,2011,4.2,NA,4.9,NA
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2011,17.2,NA,15.6,16.8
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2011,6.2,5.94,NA,8.25
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2011,13.6,NA,NA,NA
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2011,4.1,3.02,3.4,4.47
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2011,38,NA,NA,30
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2011,9.05,8.58,10.5,10
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2011,9.7,4.2,4.65,5.7
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2011,17,10.03,16.2,16
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2011,11.3,9.87,11.95,10
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2011,12.5,NA,NA,12.95
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2011,3,3,3.4,5.7
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2011,10,11.4,NA,9.3
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2011,10.55,10.54,10.4,10.7
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2011,15.15,7.87,14.3,30.65
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2011,7.1,3.88,NA,5.1
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2011,6.5,6.7,6.4,6.8
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2011,6.35,7,9.5,7.2
+MS,Akola,Telhara,Telhara,21.12555556,76.93555556,"Adgaon (Bk)","Bore Well",W17086,2011,NA,NA,NA,8.15
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2011,20.77,21.74,20.5,20.45
+MS,Akola,Malkapur,Barshitakli,20.57611111,77.07027778,"Barshi Takli_Pz","Bore Well",W22414,2011,8.9,NA,10.25,NA
+MS,Akola,Murtijapur,Murtijapur,20.73472222,77.37138889,Murtijapur_Pz,"Bore Well",W22415,2011,4.15,NA,2.45,NA
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2011,7,NA,NA,7.9
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2010,7.24,8.3,6.49,8.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2010,20.37,21,19.62,21
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2010,13.7,17.3,12.8,17.3
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2010,4.89,NA,4,12.7
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2010,NA,16.6,NA,17.2
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2010,'0.67,2.6,1.37,5.5
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2010,22.25,NA,NA,NA
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2010,28.7,27.7,29.4,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2010,27.17,NA,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2010,3.4,9,6.85,11.7
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2010,2.2,4.72,3.4,7.95
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2010,15.5,14.2,13.8,16.6
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2010,11,11,8.9,11.4
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2010,14.1,11.7,12.55,13.15
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2010,1.75,NA,2.75,6.32
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2010,8.9,9.8,9.1,10.6
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2010,9.1,12.1,8.9,13
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2010,9.95,17.3,9.1,21.5
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2010,1.8,5.02,2.1,9.25
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2010,4.5,6.6,5.2,7.7
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2010,2.65,7.05,5.1,NA
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2010,14.35,14.35,NA,14.35
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2010,3.5,6.2,4.4,12.2
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2009,NA,25.8,NA,NA
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2009,8.94,7.74,7.16,8.47
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2009,7.3,7.3,5,12.5
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2009,NA,17.2,NA,NA
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2009,NA,10.3,10.7,NA
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2009,NA,13.1,NA,NA
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2009,5.7,4.37,2.2,7.92
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2009,NA,24,23,NA
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2009,23.9,26.95,NA,27.1
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2009,27.9,27.95,NA,28.76
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2009,10.25,8.5,8.2,11.95
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2009,6.9,4.3,NA,7.8
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2009,16.4,12.7,14.6,16.3
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2009,11.4,11,11.5,11.4
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2009,12.4,12.8,12.5,12.45
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2009,NA,5.75,4,6.75
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2009,NA,6.65,NA,NA
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2009,12.2,10.4,11.5,12.4
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2009,19.35,16.85,13.35,21.15
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2009,4.15,5.45,4,8.15
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2009,6.9,6.4,6,7.6
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2009,5.4,NA,NA,NA
+MS,Akola,Telhara,Telhara,21.12555556,76.93555556,"Adgaon (Bk)","Bore Well",W17086,2009,NA,29.9,NA,NA
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2009,NA,14.35,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2009,20.7,19.6,20.45,21
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2008,5.32,6,5.6,7.5
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2008,12.92,12.7,13.9,16.6
+MS,Akola,Telhara,Telhara,21.12555556,76.93555556,"Adgaon (Bk)","Bore Well",W17086,2008,NA,NA,22.8,NA
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2008,14.35,14.35,14.35,14.35
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2008,19.5,19.02,21.03,20.77
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2008,11.5,10.95,11.3,11.3
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2008,13.5,13.55,12.6,14.7
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2008,2.12,2.95,4.65,4.45
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2008,7.35,6.2,5.8,8.5
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2008,9.4,8.5,9.4,10.6
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2008,13.75,13.2,12.7,20.95
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2008,3.2,6.2,3.7,6.35
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2008,4.22,2.42,3.47,5.02
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2008,24,22.2,24,24
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2008,27.34,26.75,25.9,29.2
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2008,27.9,28.3,28.4,28.6
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2008,9.45,9.2,7.35,10.65
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2008,5.8,4.46,4.09,7.1
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2008,14.15,10.56,13.5,14.2
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2008,26.5,25.9,26.2,27.5
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2008,7.96,8.64,8.14,10.64
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2008,2.57,4.2,3,6.9
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2008,14.8,11.5,15.2,14.8
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2008,7.25,4.69,8.19,8.29
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2008,NA,NA,5.83,NA
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2007,5.36,5.9,5.36,7.2
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2007,13.05,13.4,13.65,16.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2007,19.7,20.07,20.57,20.57
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2007,11.2,11.1,11.08,11.3
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2007,14.33,14.52,14.73,15.6
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2007,2.08,3.46,2.73,4.75
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2007,9.5,9.3,5.6,10.5
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2007,7.65,10.2,7.8,10.8
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2007,10.2,11.65,7.62,21.35
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2007,2.52,5.52,3.59,8.4
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2007,1.95,2.05,1.27,3.97
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2007,22.18,22.35,22.25,23.17
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2007,27.3,28.2,25,29.3
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2007,28,26.26,27.5,28.3
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2007,6.6,8.75,7.05,11.95
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2007,3.1,NA,3.2,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2007,13.05,12.35,12.2,13.35
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2007,26.6,26.4,26.1,27.2
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2007,8.24,9.34,7.04,9.84
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2007,2.6,NA,2.93,6.24
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2007,9.37,11.7,9.1,15.5
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2007,3.65,4.48,2.94,9
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2007,14.35,14.35,14.35,14.35
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2006,5.25,8.11,4.98,9.35
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2006,13.45,13.35,13.1,15.05
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2006,20.67,20.57,8.38,21.77
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2006,10.6,11.3,11.26,11.45
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2006,16.25,16.3,14.95,16.75
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2006,2.25,3.65,2.65,4.95
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2006,10.1,10.1,9.5,10.1
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2006,8.9,11.5,20.5,12.06
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2006,5.25,18.25,7.53,20.25
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2006,3.63,6.29,3.6,NA
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2006,'0.67,3.87,1.43,4.44
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2006,22.45,20.91,22.55,23.23
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2006,25.54,25.15,25.31,25.68
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2006,28.35,27.68,38,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2006,5.9,11.52,7.38,13.53
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2006,13.3,14.7,12.6,16.35
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2006,35.64,26.83,26.75,30.7
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2006,7.74,11.88,7.47,12.12
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2006,2.96,5.7,3.22,7.8
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2006,9.25,16.55,8.6,17.3
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2006,3.59,7.81,2.68,10.55
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2006,14.35,14.35,14.35,14.35
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2005,7.15,7.28,7,10.65
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2005,13.6,13.36,13.45,14
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2005,19.42,19.84,19.47,19.42
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2005,11,10.9,11.15,11.4
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2005,16.6,18.04,14.75,16.5
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2005,2,6.55,2.9,6.55
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2005,10.1,9.59,10.1,10.1
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2005,10.4,11.45,10.7,12.6
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2005,10.15,19.85,13.05,19.25
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2005,5.34,10.03,NA,NA
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2005,2.32,5.26,2.07,7.07
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2005,21.3,21.16,22.5,22.25
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2005,24.9,21.61,25.02,25.25
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2005,28.04,27.87,28.1,27.95
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2005,12.4,13.17,10,13
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2005,16.4,10.46,14.8,16.4
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2005,27.28,27.52,28.93,27.4
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2005,9.84,11.96,9.14,11.04
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2005,3.52,12.33,3.95,12.17
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2005,16,17.3,16.35,17.3
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2005,8.09,13.02,6.24,12.7
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2005,14.35,14.35,14.35,14.35
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2004,NA,NA,NA,8.15
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2004,NA,11.29,NA,14.35
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,2004,NA,19.03,NA,21.5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2004,NA,20.5,NA,20.82
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2004,NA,16.37,NA,13.45
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2004,NA,4.95,NA,6.45
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2004,NA,9.74,NA,8.5
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2004,NA,10.22,NA,11.25
+MS,Akola,Balapur,Akot,21.11666667,77.05,Akot,"Dug Well",W17081,2004,NA,24,NA,21.05
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2004,NA,15.56,NA,19.05
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2004,NA,6.91,NA,8.9
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2004,NA,2.8,NA,4.97
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2004,NA,19.45,NA,20.55
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2004,NA,23.18,NA,23.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2004,NA,26.51,NA,36.9
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2004,NA,13.39,NA,13
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2004,NA,13.5,NA,17.15
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2004,NA,11.15,NA,11.2
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2004,NA,NA,NA,25
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2004,NA,10.74,NA,12.84
+MS,Akola,Balapur,Akot,21.20833333,77.07916667,"Popet Kheda","Dug Well",W06865,2004,NA,9.5,NA,17.45
+MS,Akola,Balapur,Akot,21.13333333,77,Umra,"Bore Well",W06866,2004,NA,NA,NA,27.45
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2004,NA,8.34,NA,12
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2004,NA,16.78,NA,18
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2004,NA,10.68,NA,13.58
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2004,NA,12.6,NA,17.2
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2003,19.3,NA,14.35,NA
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2003,14.3,15.81,12.59,16.12
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2003,19.4,19.65,20.62,20.27
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2003,13.4,11.71,13.02,12.5
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2003,2.95,3.89,4.08,4.8
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2003,6.85,10,6.22,6.7
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2003,9.9,8.65,9.43,9.1
+MS,Akola,Balapur,Akot,21.11666667,77.05,Akot,"Dug Well",W17081,2003,NA,NA,20.14,30.4
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2003,13.6,11.58,12.19,17.25
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2003,4.7,NA,5.61,6.7
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2003,5.9,6.31,NA,9
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2003,1.85,2.27,2.09,3.85
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2003,18.5,18.85,18.24,20.05
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2003,20,NA,21.8,23.8
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2003,NA,26.5,26.65,26.45
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2003,11.1,9.11,11.85,12.3
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2003,NA,6.31,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2003,15,12.91,12.9,15.05
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2003,11,9.94,11.4,11.15
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2003,NA,26,NA,25.55
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2003,8.7,9.35,9.9,11.99
+MS,Akola,Balapur,Akot,21.20833333,77.07916667,"Popet Kheda","Dug Well",W06865,2003,3.9,NA,9.5,NA
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2003,6.8,4.45,5.08,11.9
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2003,16.7,13.53,16.8,16.05
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2003,9.6,6.38,8.72,10.54
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,2003,16.5,18.69,19.03,NA
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2002,NA,18.8,NA,NA
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2002,12.2,16.4,13.3,15.85
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2002,18.65,19.5,19.27,20.2
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2002,12.5,11.53,13.3,13.12
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2002,NA,8.97,2.65,4.3
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2002,9.2,9.66,9.9,9.9
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2002,7.5,9.51,8.3,8.75
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2002,7.8,11.5,8.4,15.5
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2002,NA,NA,NA,7.5
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2002,1.4,2.07,2.05,3.84
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2002,16.25,18.5,NA,15.45
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2002,14.5,15,16,22.5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2002,NA,11.02,26.2,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2002,8.5,11.27,7.75,13.27
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2002,12.5,12.2,13.32,14.8
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2002,11.1,10.01,10.56,11.26
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2002,25.7,11.35,26.8,26.8
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2002,9.5,7.34,5.35,11.04
+MS,Akola,Balapur,Akot,21.20833333,77.07916667,"Popet Kheda","Dug Well",W06865,2002,3.78,NA,NA,NA
+MS,Akola,Balapur,Akot,21.13333333,77,Umra,"Bore Well",W06866,2002,NA,13.72,NA,14.45
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2002,1.9,3.41,2,8.24
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2002,14.7,13,14.88,14.7
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2002,5.5,5.9,NA,9.59
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,2002,11.2,16.98,NA,NA
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2001,NA,NA,NA,8.78
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2001,15.55,15.1,15.8,15.5
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2001,15.9,16.55,16.3,17.2
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,2001,NA,19,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2001,19.12,20.1,NA,21.2
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2001,13.4,12.1,12.1,NA
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2001,2.1,3.6,2.4,9.15
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2001,9.8,5.05,9,10.74
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2001,8.74,9.5,8.55,10.4
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2001,9.26,14.8,9.6,16.35
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2001,NA,NA,NA,16.77
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2001,4.65,7.4,5.4,NA
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2001,2.02,3.15,2.5,5.1
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2001,17.75,18,NA,18.55
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2001,NA,20.15,20.5,18.2
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2001,26.5,26.5,27.9,17.32
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2001,11,11.85,11.35,16.32
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2001,NA,NA,NA,16.08
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2001,13.42,12.9,12.7,15.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2001,11.9,11.15,11.5,14.16
+MS,Akola,Akot,Akola,20.7,77.01944444,Shivani,"Dug Well",W06861,2001,1.6,2.25,NA,3.95
+MS,Akola,Akot,Akola,20.84222222,77.00833333,"Vallabh Nagar","Dug Well",W06862,2001,22.3,NA,NA,NA
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2001,25.25,24.95,26,18.8
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2001,8.04,8.4,9,7
+MS,Akola,Balapur,Akot,21.20833333,77.07916667,"Popet Kheda","Dug Well",W06865,2001,5.1,NA,NA,NA
+MS,Akola,Balapur,Akot,21.13333333,77,Umra,"Bore Well",W06866,2001,NA,NA,NA,16.86
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2001,2.7,4.25,2.9,8.67
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2001,13.15,14,14.25,11.47
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2001,7.2,8.1,NA,10.57
+MS,Akola,Telhara,Telhara,21.12555556,76.93555556,"Adgaon (Bk)","Bore Well",W17086,2001,NA,NA,NA,19.55
+MS,Akola,Patur,Patur,20.34583333,76.875,"Chikhalwal (Navegaon)","Bore Well",W17085,2000,NA,6.2,NA,6.9
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,2000,6.9,9.4,11.1,10.96
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,2000,NA,18.2,18.62,18.54
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,2000,20.1,18,18.77,14
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,2000,12.7,11.9,12.3,13.02
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,2000,2.1,2.6,3.14,4.5
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,2000,5.85,7.4,6.3,9.47
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,2000,8.05,7.9,8.95,8.97
+MS,Akola,Balapur,Akot,21.11666667,77.05,Akot,"Dug Well",W17081,2000,NA,NA,NA,15.8
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,2000,5.45,10.8,11.7,17.62
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,2000,NA,NA,NA,6.23
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,2000,5.35,5.7,5.81,6.7
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,2000,1.45,1.8,2.2,3.8
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,2000,17.45,16.9,17,17.78
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,2000,19.35,NA,20.4,20.06
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,2000,NA,NA,26.87,26.28
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,2000,8.8,9,10.37,11.03
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,2000,4.85,4.2,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,2000,12.55,11.6,12.68,13.1
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,2000,11.65,9.7,10.46,11.4
+MS,Akola,Akot,Akola,20.7,77.01944444,Shivani,"Dug Well",W06861,2000,1.05,1.8,1.63,3.66
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,2000,24.45,25,25.12,24.44
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,2000,7.25,5.9,8.54,8.34
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,2000,2.5,3.2,3.42,6.02
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,2000,11.7,8.6,13.3,13.03
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,2000,5.75,4.2,6.82,7.18
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,2000,13.4,11.7,16.7,15.5
+MS,Akola,Akot,Akola,20.7,77.01944444,Shivani,"Dug Well",W06861,1999,4.3,1.55,4.42,2.85
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,1999,NA,27.4,25.05,26.74
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,1999,6.85,8,7.7,8
+MS,Akola,Balapur,Akot,21.11666667,77.05,Akot,"Dug Well",W17081,1999,14,NA,14.4,14.39
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,1999,5,NA,19.2,18.93
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,1999,NA,11.5,21.3,20.5
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,1999,15.9,13.7,16.5,16.74
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,1999,2.1,3.1,2.1,4.68
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,1999,'0.7,1.7,'0.9,2.09
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,1999,18.5,13.24,18.6,18.53
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,1999,15.03,11.2,10.15,15.62
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,1999,6.65,8.95,6.5,10.21
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,1999,3.1,6.1,2.6,8.44
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,1999,12.5,13.6,11.3,16.9
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,1999,10.49,11.9,9.9,14.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,1999,11.15,NA,NA,12.36
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,1999,2.1,3.95,2,6.7
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,1999,5.8,5.75,NA,6.55
+MS,Akola,Malkapur,Barshitakli,20.48333333,77.16666667,Mahan,"Dug Well",W06867,1999,11.8,NA,NA,NA
+MS,Akola,Balapur,Akot,21.13333333,77,Umra,"Bore Well",W06866,1999,11.5,NA,NA,11.23
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,1999,5.2,10.05,7.5,9.05
+MS,Akola,Balapur,Akot,21.20833333,77.07916667,"Popet Kheda","Dug Well",W06865,1999,3.8,6,5.05,NA
+MS,Akola,Malkapur,Barshitakli,20.6375,77.05,"Kanheri (Sarap)","Bore Well",W17083,1999,NA,NA,2.9,NA
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,1999,6.85,6.25,6.05,7.04
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,1999,6,9.7,5.45,16.63
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,1999,14.4,13.45,12.4,13.67
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,1999,11.9,12.7,11.8,11.35
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80833333,76.83333333,"Ural (Bk)","Bore Well",W06877,1999,NA,NA,4.5,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,1998,14,13.5,12.2,14.1
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,1998,8.2,8.64,6.9,11.3
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,1998,19,NA,NA,NA
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,1998,16.6,18.28,16.7,18.82
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,1998,3.1,4.03,1.3,5.5
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,1998,NA,11.95,10.6,12.02
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,1998,7,6.7,4.25,8.4
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,1998,15.5,6.7,10.6,NA
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,1998,5,11.2,3.2,9.3
+MS,Akola,Balapur,Akot,21.13333333,77,Umra,"Bore Well",W06866,1998,NA,10.95,NA,NA
+MS,Akola,Balapur,Akot,21.20833333,77.07916667,"Popet Kheda","Dug Well",W06865,1998,4,4.6,3.6,NA
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,1998,8.2,8.7,4.85,8.4
+MS,Akola,Akot,Akola,20.84222222,77.00833333,"Vallabh Nagar","Dug Well",W06862,1998,NA,NA,20.8,NA
+MS,Akola,Akot,Akola,20.7,77.01944444,Shivani,"Dug Well",W06861,1998,1.2,1.96,2.25,3.95
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,1998,20.4,20.4,19.5,21.3
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,1998,18.1,18.83,14.73,18.8
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,1998,12.6,12.95,10.2,NA
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,1998,5.85,NA,5.1,NA
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,1998,8.5,17.12,4.15,21.35
+MS,Akola,Balapur,Akot,21.11666667,77.05,Akot,"Dug Well",W17081,1998,NA,NA,14.1,NA
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,1998,9,8.72,8.5,11
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,1998,NA,NA,10.9,NA
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,1998,2.6,3.15,2.1,4.6
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,1998,14,12.47,14.1,14.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,1998,NA,NA,11.9,NA
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,1998,43.5,24.07,13.85,23.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,1997,12,11.4,11.6,12.7
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,1997,12.6,12,13,13
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,1997,4.15,3.28,3.5,5.3
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,1997,8.75,8.1,9,NA
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,1997,9.4,8.2,7,10.35
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,1997,15.98,14.8,16,20.3
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,1997,8.1,7.4,7.1,10.35
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,1997,13.8,12.5,NA,15.4
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,1997,NA,18.2,18.63,19.5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,1997,20.5,19.85,19.7,21.2
+MS,Akola,Akot,Akola,20.7,77.01944444,Shivani,"Dug Well",W06861,1997,3.56,2.16,2.1,5.3
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,1997,25.65,24.5,23.6,23.4
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,1997,8.5,8.1,8.35,10.3
+MS,Akola,Balapur,Akot,21.20833333,77.07916667,"Popet Kheda","Dug Well",W06865,1997,3.65,6.4,3.75,NA
+MS,Akola,Balapur,Akot,21.13333333,77,Umra,"Bore Well",W06866,1997,12.65,NA,11.56,13.5
+MS,Akola,Malkapur,Barshitakli,20.48333333,77.16666667,Mahan,"Dug Well",W06867,1997,NA,14.1,NA,NA
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,1997,11.15,6,10.7,12.25
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,1997,15.7,14.3,16.5,15.95
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,1997,8.5,7.1,8.1,10.2
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,1997,16.15,15.2,15.82,16.2
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,1997,5,3.82,4.1,5.4
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,1997,16.3,17.4,16.5,17.6
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,1997,16.9,17.8,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,1997,27.4,26,26.6,27.8
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,1997,10.95,10,10.93,12.75
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,1997,14.9,13.2,14,15.3
+MS,Akola,Akot,Akola,20.73666667,77.00722222,Akola,"Dug Well",W17077,1996,12.8,10.1,12.63,9.5
+MS,Akola,"Umri Pragane Balapur",Balapur,20.675,76.8875,Wyala,"Dug Well",W06879,1996,12.05,11.1,11.57,12.27
+MS,Akola,Akot,Akola,20.58333333,76.96666667,Kapsi,"Dug Well",W17079,1996,NA,7.1,8.2,8.53
+MS,Akola,Akot,Akola,20.71666667,77.26666667,Kurankhed,"Dug Well",W17080,1996,9.42,8.9,7.52,10.27
+MS,Akola,Balapur,Akot,21.11666667,77.05,Akot,"Dug Well",W17081,1996,NA,14.6,NA,NA
+MS,Akola,Malkapur,Barshitakli,20.58333333,77.06666667,"Barshi Takli","Dug Well",W17082,1996,14.95,14.3,12.95,16.65
+MS,Akola,Patur,Patur,20.46111111,76.775,Chani,"Dug Well",W17084,1996,NA,7.6,7.15,9.53
+MS,Akola,Telhara,Telhara,21.13333333,76.88333333,Hiwarkhed,"Dug Well",W17087,1996,13.32,11.25,12.32,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.85277778,Andura,"Dug Well",W17088,1996,19.05,16.6,18.45,18.68
+MS,Akola,"Umri Pragane Balapur",Balapur,20.66666667,76.76666667,Babulkhed,"Dug Well",W17089,1996,19.1,18.1,18.9,NA
+MS,Akola,Akot,Akola,20.7,77.01944444,Shivani,"Dug Well",W06861,1996,2.3,2.6,1.63,3.93
+MS,Akola,Akot,Akola,20.83916667,77,Vallabhnagar_Akot,"Bore Well",W06863,1996,23.68,23,24.03,NA
+MS,Akola,Balapur,Akot,20.98611111,77.02083333,Patsul,"Dug Well",W06864,1996,8.4,6.6,8.56,10
+MS,Akola,Balapur,Akot,21.20833333,77.07916667,"Popet Kheda","Dug Well",W06865,1996,5.08,8.2,3.84,NA
+MS,Akola,Balapur,Akot,21.13333333,77,Umra,"Bore Well",W06866,1996,10.96,9.2,10.75,NA
+MS,Akola,Malkapur,Barshitakli,20.48333333,77.16666667,Mahan,"Dug Well",W06867,1996,14.08,NA,NA,NA
+MS,Akola,Malkapur,Barshitakli,20.54722222,77.25555556,Pinjar,"Dug Well",W06868,1996,8.51,4.6,4.28,NA
+MS,Akola,Murtijapur,Murtijapur,20.74305556,77.45138889,Malkapur,"Dug Well",W06869,1996,9.3,12.7,13.97,14.55
+MS,Akola,Murtijapur,Murtijapur,20.73333333,77.36666667,Murtizapur,"Dug Well",W06870,1996,8.86,6,1.3,9.73
+MS,Akola,Murtijapur,Murtijapur,20.8075,77.36055556,Rasulpur,"Dug Well",W06871,1996,12.63,14.5,11.55,10.74
+MS,Akola,Patur,Patur,20.45,76.93333333,Patur,"Dug Well",W06872,1996,5.4,4.3,3.35,5.67
+MS,Akola,Telhara,Telhara,21.03333333,76.83333333,Telhara-1,"Dug Well",W06873,1996,NA,20.7,18.63,20.52
+MS,Akola,Telhara,Telhara,21.02666667,76.85138889,Telhara-2,"Bore Well",W06874,1996,17.96,16.8,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.88333333,76.76111111,Nimba,"Bore Well",W06875,1996,NA,11.3,NA,NA
+MS,Akola,"Umri Pragane Balapur",Balapur,20.80694444,76.825,Ural,"Dug Well",W06876,1996,10.67,10,8.83,11.82
+MS,Akola,"Umri Pragane Balapur",Balapur,20.59166667,76.86666667,Wadegaon,"Dug Well",W06878,1996,16.1,13.9,14.13,15.5
+MS,Akola,Akot,Akola,20.73333333,77.12777778,"Borgaon Manju","Dug Well",W17078,1996,2.34,3.1,2.17,4.37

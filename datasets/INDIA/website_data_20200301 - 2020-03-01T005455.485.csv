@@ -1,0 +1,443 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2018,2.8,6.97,NA,NA
+UP,Jhansi,GURSARAI,Gursarai,25.47194444,79.145,Pandhawa,"Dug Well",W33244,2018,11.3,NA,NA,NA
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2018,3.5,4.91,NA,NA
+UP,Jhansi,Chirgaon,Chirgaon,25.58333333,79.025,Khillawari,"Dug Well",W22899,2018,1.2,3.98,NA,NA
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2018,3.05,4.6,NA,NA
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2018,-0.12,2.43,NA,NA
+UP,Jhansi,Bamaur,Bamaur,25.7,79.175,Bamaur,"Dug Well",W22896,2018,4.56,8.71,NA,NA
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2018,3.33,6.16,NA,NA
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2018,7.4,10.5,NA,NA
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2018,11.72,11.45,NA,NA
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2018,1.58,7.84,NA,NA
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2018,-0.7,5.03,NA,NA
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2018,NA,24.3,NA,NA
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2018,2.09,NA,NA,NA
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2018,3.45,NA,NA,NA
+UP,Jhansi,Bangra,Bangra,25.31666667,79.025,"Bangra Pz","Bore Well",W22897,2018,NA,11.56,NA,NA
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2018,'0.2,NA,NA,8.2
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,"Mauranipur Rajpaharia","Dug Well",W29206,2018,10.3,9.88,NA,NA
+UP,Jhansi,Bangra,Bangra,25.35666667,78.87666667,"Sakrar 1","Dug Well",W29232,2018,7.94,8.88,NA,NA
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan-New,"Dug Well",W29240,2018,7.02,11.39,NA,NA
+UP,Jhansi,Badagaon,Badagaon,25.38277778,78.75388889,Ghugawa,"Dug Well",W32927,2018,5.6,8.27,NA,NA
+UP,Jhansi,MAURANIPUR,Bangra,25.19694444,79.10888889,Kuangaon,"Dug Well",W33235,2018,11.85,13.29,NA,NA
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2018,2.24,3.57,NA,NA
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2017,4.2,5.3,5.1,5.8
+UP,Jhansi,GURSARAI,Gursarai,25.47194444,79.145,Pandhawa,"Dug Well",W33244,2017,12.8,13.3,NA,NA
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2017,4.65,5.07,5.24,7.05
+UP,Jhansi,Chirgaon,Chirgaon,25.58333333,79.025,Khillawari,"Dug Well",W22899,2017,3.22,5.52,2.8,4.05
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2017,3.36,4.52,5.3,5
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2017,2.23,1.99,2.53,3.18
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2017,7.25,6,6.34,7.03
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2017,8.2,8.37,10.26,9.63
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2017,9.32,10.37,11.36,11.05
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2017,8.02,9,7.52,9.2
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2017,5.3,4.32,4.5,5.62
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2017,4.77,3.74,5.9,6.05
+UP,Jhansi,Bamaur,Bamaur,25.7,79.175,Bamaur,"Dug Well",W22896,2017,6.41,6.93,8.62,NA
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2017,6.47,6.65,NA,6.11
+UP,Jhansi,Badagaon,Badagaon,25.51666667,78.75,Badagaon,"Dug Well",W22895,2017,NA,NA,NA,4.9
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2017,NA,NA,NA,23.16
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2017,2.52,4.89,NA,NA
+UP,Jhansi,MAURANIPUR,Bangra,25.19694444,79.10888889,Kuangaon,"Dug Well",W33235,2017,12.38,NA,13.15,13.15
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan-New,"Dug Well",W29240,2017,4.56,9.6,11.26,NA
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,"Mauranipur Rajpaharia","Dug Well",W29206,2017,8.13,9,9.87,7.98
+UP,Jhansi,Bangra,Bangra,25.35666667,78.87666667,"Sakrar 1","Dug Well",W29232,2017,7.8,7.25,8.81,8.67
+UP,Jhansi,Badagaon,Badagaon,25.38277778,78.75388889,Ghugawa,"Dug Well",W32927,2017,8.02,8.86,8.11,8.82
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2017,2.92,3.38,3.46,4.83
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2016,3.92,10.6,9.39,NA
+UP,Jhansi,GURSARAI,Gursarai,25.47194444,79.145,Pandhawa,"Dug Well",W33244,2016,12.25,NA,NA,NA
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2016,2.55,NA,7.9,10
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2016,2.05,NA,1.98,7.23
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2016,1.94,NA,2.96,4.58
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2016,2.1,NA,5.35,5.26
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2016,1.75,NA,3.7,7.6
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2016,3.4,NA,4.37,6.7
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2016,3.7,NA,7.93,NA
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2016,'0.43,NA,2.06,3.28
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2016,3.65,NA,6.73,6.9
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2016,3,NA,5.88,6.68
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2016,2.5,NA,4.68,4.2
+UP,Jhansi,Bamaur,Bamaur,25.7,79.175,Bamaur,"Dug Well",W22896,2016,5.6,NA,6.65,8
+UP,Jhansi,Chirgaon,Chirgaon,25.58333333,79.025,Khillawari,"Dug Well",W22899,2016,2,NA,4.7,4.71
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,"Mauranipur Rajpaharia","Dug Well",W29206,2016,6.45,NA,NA,10.34
+UP,Jhansi,Bangra,Bangra,25.35666667,78.87666667,"Sakrar 1","Dug Well",W29232,2016,5.85,8.21,6.22,8.85
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan-New,"Dug Well",W29240,2016,3.84,8.65,9.63,11.9
+UP,Jhansi,Badagaon,Badagaon,25.38277778,78.75388889,Ghugawa,"Dug Well",W32927,2016,6.35,NA,7.8,9.61
+UP,Jhansi,MAURANIPUR,Bangra,25.19694444,79.10888889,Kuangaon,"Dug Well",W33235,2016,10,NA,NA,NA
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2016,NA,NA,3.28,NA
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2015,7.26,7.55,7.62,10.34
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan-New,"Dug Well",W29240,2015,7.15,11.68,8.22,8.2
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2015,4.77,7.63,7.61,5.75
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2015,NA,NA,NA,2.25
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2015,2.5,3.53,3.39,3.33
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2015,21.72,21.02,23.16,21.22
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2015,3.78,3.45,5.25,3.1
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2015,3.45,4.2,4.9,4.9
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2015,3.99,5.75,4.15,6.6
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2015,6.75,8.51,7.75,8.45
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2015,'0.94,1.88,2.36,'0.68
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2015,4.65,5.11,6.8,5.65
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2015,4.44,4.58,6,6.13
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2015,3.11,2.75,4.19,3.6
+UP,Jhansi,Badagaon,Badagaon,25.51666667,78.75,Badagaon,"Dug Well",W22895,2015,NA,3.75,2.3,3.9
+UP,Jhansi,Bamaur,Bamaur,25.7,79.175,Bamaur,"Dug Well",W22896,2015,5.05,NA,6.47,5.05
+UP,Jhansi,Chirgaon,Chirgaon,25.58333333,79.025,Khillawari,"Dug Well",W22899,2015,7,NA,4.3,4
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,"Mauranipur Rajpaharia","Dug Well",W29206,2015,8.1,6.56,8.91,NA
+UP,Jhansi,Bangra,Bangra,25.35666667,78.87666667,"Sakrar 1","Dug Well",W29232,2015,6.15,4.42,6.8,NA
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2015,2.12,4.32,4.88,2.42
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2014,8.55,3,10.5,9.6
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan-New,"Dug Well",W29240,2014,5.73,7.71,11.01,7
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2014,2.06,6.55,NA,8.05
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2014,NA,2.43,NA,1.4
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2014,3.35,3.29,NA,3.5
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2014,21.03,20.85,NA,21.12
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2014,2.85,3.07,NA,4.1
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2014,4.4,4.22,NA,5.2
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2014,3.87,5.4,NA,6.35
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2014,7.27,4.6,NA,5.6
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2014,'0.06,1.65,NA,5.58
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2014,6.13,3.27,NA,5.65
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2014,4.73,4.31,NA,6.38
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2014,1.2,2.75,NA,3.3
+UP,Jhansi,Bangra,Bangra,25.31666667,79.025,"Bangra Pz","Bore Well",W22897,2014,NA,NA,NA,3.9
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,"Mauranipur Rajpaharia","Dug Well",W29206,2014,6.26,3.53,5.72,5.95
+UP,Jhansi,Bangra,Bangra,25.35666667,78.87666667,"Sakrar 1","Dug Well",W29232,2014,3.8,5.94,NA,6.14
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2014,1.41,5.85,NA,5.02
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2013,1.8,7.2,2.05,9.6
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan-New,"Dug Well",W29240,2013,2.84,7.2,7.28,8.6
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2013,6.8,7,6,8.84
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2013,1.34,'0.75,1.32,2.85
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2013,1.95,3.95,3.05,5.06
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2013,NA,21.3,20.96,21.83
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2013,NA,3.1,3.45,4.18
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2013,1.42,5.05,4.15,6.44
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2013,5.11,5.28,5.54,6.12
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2013,1.27,7.3,4.53,7.54
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2013,3,1.95,1.77,2.71
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2013,1.8,4.75,3.05,7.7
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2013,NA,4.43,4.15,6.78
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2013,1.2,3.15,2.7,4.18
+UP,Jhansi,Bangra,Bangra,25.31666667,79.025,"Bangra Pz","Bore Well",W22897,2013,NA,4.15,1,NA
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,"Mauranipur Rajpaharia","Dug Well",W29206,2013,1.96,5.45,3,7.67
+UP,Jhansi,Bangra,Bangra,25.35666667,78.87666667,"Sakrar 1","Dug Well",W29232,2013,4.2,6.3,5.6,6.66
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2013,'0.87,6.4,3.08,7.22
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2012,NA,NA,6.21,9.6
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan-New,"Dug Well",W29240,2012,NA,NA,9,NA
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2012,NA,7,5.98,8.2
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2012,NA,1.7,1,4.3
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2012,NA,4.97,3.75,5.52
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2012,NA,21.8,21.85,22.4
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2012,NA,2.8,3.6,4.55
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2012,NA,5,4.3,6.35
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2012,NA,3.55,4.3,5.7
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2012,NA,9.35,7.95,7.4
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2012,NA,1.55,2.25,2.65
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2012,NA,4.55,3.5,6.8
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2012,NA,2.83,3.43,5.28
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2012,NA,2.7,3.7,4.5
+UP,Jhansi,Badagaon,Badagaon,25.51666667,78.75,Badagaon,"Dug Well",W22895,2012,NA,NA,4.7,6.6
+UP,Jhansi,Bamaur,Bamaur,25.7,79.175,Bamaur,"Dug Well",W22896,2012,NA,NA,NA,9
+UP,Jhansi,Bangra,Bangra,25.31666667,79.025,"Bangra Pz","Bore Well",W22897,2012,NA,NA,NA,5.55
+UP,Jhansi,Chirgaon,Chirgaon,25.58333333,79.025,Khillawari,"Dug Well",W22899,2012,NA,NA,3.2,3.65
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,"Mauranipur Rajpaharia","Dug Well",W29206,2012,NA,NA,5.8,NA
+UP,Jhansi,Bangra,Bangra,25.35666667,78.87666667,"Sakrar 1","Dug Well",W29232,2012,NA,NA,3.5,NA
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2012,NA,4.8,2.25,7.45
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2011,4.35,9.6,5.88,9.6
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2011,1.9,5.5,3.51,7.3
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2011,4.75,6.84,6.17,9
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2011,2.76,1.87,1.03,5.7
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2011,3.25,3.57,3.67,5.3
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2011,NA,22.25,22.08,22
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2011,3.55,3.76,3.3,4.5
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2011,4.05,6.7,4.51,6.9
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2011,1.75,4.73,3.99,4.35
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2011,7.35,8.27,8.09,8.55
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2011,'0.88,1.84,1.69,3
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2011,2.55,3.53,3.81,7.55
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2011,4,3.89,3.43,4.03
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2011,3.15,3.37,3.23,5
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2010,NA,6.18,6.6,NA
+UP,Jhansi,Bamaur,Bamaur,25.63333333,79.2,"Ajneri Madhopura","Dug Well",W22006,2010,5.2,NA,4.23,4.9
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2010,6.55,7.7,1.6,10.23
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2010,NA,4.7,3.76,7.87
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2010,3.95,3.75,3.43,4.2
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2010,23.05,22.5,21.92,23.05
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2010,3.19,2.75,3.75,4.05
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2010,3.85,7,4.6,4.45
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2010,5.37,NA,4.03,5.75
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2010,NA,11.3,NA,NA
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2010,8.02,8.55,5.52,8.79
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2010,1.2,1.76,1.12,3.07
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2010,4.68,3.5,3.45,6.48
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2010,4.95,3.63,2.39,6.03
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2010,5.42,4.9,3.75,8.3
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2009,5.46,7.17,6.34,9.6
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2009,1.5,5.9,3.05,7.29
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2009,6.65,7.1,7.1,9.51
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2009,3.05,7,4.7,3.64
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2009,4.05,2.55,3.14,4.63
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2009,22.7,21.2,23.1,22.44
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2009,2.3,6.17,2.65,4.49
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2009,4.3,6.3,4.3,5.41
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2009,5.5,5.05,3.5,6.7
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2009,11.68,12.47,3.45,10.39
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2009,'0.2,1.59,1.3,2.93
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2009,3.3,9.48,2.75,7.06
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2009,NA,4.73,3.73,9.69
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2008,9.75,12.47,10.7,12.47
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2008,2.75,6.17,3.1,6.17
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2008,5.55,9.48,5.65,9.48
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2008,4.73,8.73,NA,10.35
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,2008,NA,12.68,NA,12.68
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2008,NA,14.93,NA,14.93
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2008,NA,10.72,NA,10.72
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2008,1.4,8.02,3.55,8.82
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2008,5.75,8.65,4.85,9.28
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2008,NA,16.07,NA,16.07
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2008,3.15,7.8,5.86,9.6
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2008,'0.32,6.02,3.6,6.5
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2008,4,8.3,6.5,9.29
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2008,'0.1,6.9,1.1,8.83
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2008,2.6,4.85,NA,5.88
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2008,23,21.41,21.95,NA
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2008,'0.59,3.54,1.39,8.64
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2007,11.14,11.9,11.91,12.4
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2007,4.64,3.87,5.35,4.59
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2007,8.63,5.22,7.72,8.47
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2007,5.4,4.73,5.08,7.77
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,2007,NA,NA,12.68,12.68
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2007,14.1,NA,14.93,14.93
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2007,10.72,8.26,10.72,10.72
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2007,6.65,8.93,7.75,9.11
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2007,7.35,6.34,6.88,7.75
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2007,NA,14.6,16.07,15.12
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2007,5.95,9.6,6.45,9.6
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2007,1.68,5.88,8.28,7.34
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2007,6.24,7.65,8.12,9.32
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2007,8.11,7.3,6.89,8.11
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2007,3.85,7.47,4.71,6.65
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2007,2.31,2.2,2.47,2.95
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2006,10.45,10.37,10.85,11.05
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2006,3.55,3.96,4.05,3.8
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2006,6.2,4.76,5.7,5.9
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2006,5.68,3.86,5.73,6.08
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,2006,9.4,12.68,9.6,12.68
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2006,13,13.5,14.1,14.4
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2006,9.23,10.72,10.72,10.72
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2006,7.45,6.85,7.85,8.55
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2006,7.25,5.28,6.1,6.45
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2006,13.15,13.4,13.6,13.5
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2006,5,7.43,9.6,9.6
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2006,4.72,4.85,5.22,5.72
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2006,5.55,7.79,6.7,8.65
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2006,6.2,2.27,7,6.1
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2006,4.75,5.1,5.45,6.62
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2006,18.46,18.41,18.31,18.61
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2006,1.29,1.73,2.38,5.2
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2005,9.45,9.7,9.35,10.05
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,2005,12.68,10.15,8.75,12.68
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2005,1.18,1.74,1.73,2.65
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2005,4.15,3.95,4.25,5.95
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2005,3.93,4.03,2.93,5.88
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2005,12.4,8.15,12.85,13
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2005,8.18,4.93,8.53,8.83
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,2005,NA,3.45,NA,6
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2005,5.15,4.35,5.45,7.5
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2005,6.9,5.9,5.75,7.55
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2005,11,11.8,12.3,11.9
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2005,3.5,8.59,5.8,7.18
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2005,1.6,5.07,3.47,6.02
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2005,3.75,7.5,6.9,9.05
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2005,2.1,2.3,'0.8,5.8
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2005,4.52,6.3,4.62,7
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2005,17.61,17.36,18.06,18
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2005,3.1,2.65,3.85,3.65
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,2005,13.38,12.1,NA,13.38
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2004,10.45,10.27,10.61,9.65
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,2004,9.92,9.49,9.68,10.15
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2004,2.92,2.99,2.95,4.31
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2004,3.45,2.94,4.55,3.65
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2004,3.33,3.61,3.73,7.83
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2004,9.1,8.2,9.34,11.85
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2004,5.23,7.2,4.28,7.79
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,2004,NA,2.13,2.5,4.27
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2004,'0.98,4.29,5.3,6.42
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2004,7.17,5.25,7.15,5.53
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2004,9.13,9.94,8.6,10.85
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2004,7.91,6.25,5.18,7.5
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2004,3.67,4.92,3.77,5.68
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2004,4.05,6.73,6.45,8.78
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2004,'0.4,'0.93,'0.56,2.65
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2004,3.2,5.63,5.36,6.72
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2004,16.85,15.76,16.91,16.61
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2004,2.65,2.57,2.65,3.47
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,2004,11.5,9.93,10.53,12.15
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2003,10.18,NA,9.39,11.47
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,2003,12.43,10.07,7.75,13.12
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2003,2.57,2.83,NA,3.9
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2003,3.84,2.81,3.43,5.66
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2003,4.04,3.5,4.2,5.5
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan,"Dug Well",W15064,2003,9.9,8.13,NA,NA
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2003,7.94,10.09,6.06,11.68
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2003,5.83,5.23,4.32,7.68
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,2003,2.46,3.15,1.7,4.99
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2003,4.96,2.6,3.08,8.1
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2003,7.08,5.74,3.71,7.24
+UP,Jhansi,Gursarai,Gursarai,25.43472222,79.26166667,Markaun,"Dug Well",W15770,2003,6.61,5.19,NA,11.98
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2003,9.6,NA,NA,12.28
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2003,4.48,7.7,5.28,NA
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2003,6.37,5.77,'0.67,7.19
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2003,5.39,6,5.29,7.35
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2003,NA,'0.17,1.25,4.48
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2003,17.06,16.9,15.5,18.6
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2003,2.61,2.74,2.25,3.57
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,2003,12.68,10.09,9.6,NA
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,2002,7.7,NA,10.1,10.25
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2002,8.85,7.7,9.15,10.25
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,2002,2,3.8,2.5,5
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2002,'0.3,'0.1,'0.05,4.6
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2002,6.5,5.25,5.1,6.5
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2002,4.28,7.15,4.78,7.93
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2002,1.54,7.63,2.49,3.89
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2002,9.2,11.12,10.55,11.7
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2002,2.95,3.17,2.25,4.21
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2002,2.15,6.2,4.7,8.3
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,2002,9.05,8.76,9,11.05
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2002,3.18,3.9,3,5.63
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2002,'0.12,NA,3.52,5.87
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2002,17.36,16.52,16.62,17.32
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan,"Dug Well",W15064,2002,8.5,NA,NA,NA
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2002,4.52,7.22,5.85,NA
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2002,1.85,2.75,2.6,3.75
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2002,6.35,7.35,7.5,10.4
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2002,3.2,5.45,4.3,6.95
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2001,1,NA,3.55,7.05
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,2001,1.95,NA,3.05,5.9
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2001,2.13,NA,4.78,7.93
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2001,3.2,NA,5.1,10.5
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan,"Dug Well",W15064,2001,NA,NA,NA,8.45
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2001,2.08,NA,4.23,NA
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2001,1.35,NA,2.6,4.65
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2001,1.49,NA,3.09,3.44
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,2001,6.2,NA,10.55,10.65
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2001,2.25,NA,2.85,4.7
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2001,15.66,NA,16.12,17.82
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2001,'0.1,NA,'0.1,3.9
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2001,2.3,NA,5.75,8.2
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2001,'0.27,NA,4.67,6.37
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2001,3.53,7.1,6.14,7.74
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2001,6.7,NA,9.25,11.07
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2001,5.85,NA,9.45,12.25
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2001,4.2,NA,5.15,7.45
+UP,Jhansi,Chirgaon,Chirgaon,25.57166667,78.82,Chiraigaon,"Dug Well",W15066,2000,NA,4.3,NA,7.39
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,2000,1.35,2.59,2.52,7.9
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,2000,5.26,10.45,10.19,11.9
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,2000,4.93,5.9,3.13,9.03
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,2000,1.02,4.5,5.18,6.96
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,2000,'0.35,2.46,2.6,5.02
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan,"Dug Well",W15064,2000,NA,8.87,8.18,NA
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,2000,3.39,5.59,5.46,9.6
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,2000,1.08,2.57,2.14,4.15
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,2000,2.28,4.09,3.76,5.86
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,2000,'0.85,'0.58,'0.83,4.5
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,2000,4.31,10.43,9.39,9.93
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,2000,9.73,15.52,15.67,17.73
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,2000,NA,6.24,5.38,NA
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,2000,NA,5.77,2.57,NA
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,2000,9.09,9.92,6.7,16.24
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,2000,NA,9.61,8.8,NA
+UP,Jhansi,Gursarai,Gursarai,25.43472222,79.26166667,Markaun,"Dug Well",W15770,2000,5.32,6.87,NA,11.53
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,2000,2.93,2.64,3.21,5.16
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,2000,2.54,2.59,2.96,4.94
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,2000,6.31,5.48,4.49,8.35
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,2000,3.61,5.78,5.93,7.01
+UP,Jhansi,Gursarai,Gursarai,25.43472222,79.26166667,Markaun,"Dug Well",W15770,1999,1.49,4.9,5.44,10.7
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,1999,6.38,9.45,8.82,9.21
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,1999,4.11,6.26,5.61,NA
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,1999,6.43,10.22,9.88,11.95
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,1999,'0.74,2.81,2.8,4.62
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,1999,'0.29,3.41,2.14,5
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,1999,1.67,4.31,3.4,4.53
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,1999,1.82,6.61,5.23,7.5
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,1999,3.05,4.6,3.15,5.97
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,1999,1.15,7.2,3.76,7.3
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,1999,'0.09,1.3,'0.01,4.85
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,1999,5.32,8.69,6.53,10.24
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,1999,16.79,16.34,14.91,17.36
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,1999,1.56,2.7,2.25,3.95
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,1999,10.17,9.59,10.01,10.25
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan,"Dug Well",W15064,1999,6.7,7.84,8.03,7.93
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,1999,4.14,6.19,3.4,8.15
+UP,Jhansi,Chirgaon,Chirgaon,25.57166667,78.82,Chiraigaon,"Dug Well",W15066,1999,NA,5.5,2.5,7.15
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,1999,3.48,8.25,2.35,6.26
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,1999,2.6,3.37,2.86,4.45
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,1999,1.18,5.25,2.2,6.65
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,1999,5.83,6.46,4.89,8.2
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,1998,4.78,6.1,8.11,8.66
+UP,Jhansi,Gursarai,Gursarai,25.43472222,79.26166667,Markaun,"Dug Well",W15770,1998,1.98,8.4,2.85,9.09
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,1998,8.77,10.15,9.91,11.02
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,1998,2,2.04,2.39,4.37
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,1998,1.52,3.55,3.21,5.47
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,1998,3.48,3.63,3.56,4.77
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,1998,3.1,5.01,5.54,5.99
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,1998,3.57,'0.97,3.99,5.16
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,1998,3.94,4.52,6.36,6.61
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,1998,'0.44,1,'0.51,1.76
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,1998,5.48,6.88,8.01,9.59
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,1998,15.96,16.22,16.02,16.95
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,1998,2.03,2.25,2.72,3.52
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,1998,9.46,9.65,9.65,10.2
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan,"Dug Well",W15064,1998,6.6,6.89,7.7,7.89
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,1998,3.11,3.6,4.72,7.86
+UP,Jhansi,Chirgaon,Chirgaon,25.57166667,78.82,Chiraigaon,"Dug Well",W15066,1998,3.04,4.95,5,7.09
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,1998,NA,2.63,NA,5.57
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,1998,2.63,4.1,3.11,2.45
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,1998,1.27,3.64,3.7,6.22
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,1998,4.53,6.12,5.1,7.89
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,1998,4.33,9.15,6.03,9.73
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,1997,7.6,10.83,6.49,11.25
+UP,Jhansi,Gursarai,Gursarai,25.43472222,79.26166667,Markaun,"Dug Well",W15770,1997,9.9,4.56,NA,10.6
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,1997,10.41,10.35,9.79,11.86
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,1997,'0.19,3.11,2.19,4.93
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,1997,1.35,4.33,3.4,6.88
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,1997,4.63,5.99,3.27,6.09
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,1997,4.68,5.92,4.68,7.39
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,1997,'0.46,5.22,3.77,5.37
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,1997,2,6.81,5.53,7.3
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,1997,'0.08,1.59,'0.07,4.3
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,1997,6.23,9.78,7.93,12.68
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,1997,16.92,16.42,16.15,17.04
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,1997,1.15,3.06,2.49,3.76
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,1997,10.4,10.06,9.87,10.39
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan,"Dug Well",W15064,1997,6.15,7.56,6.35,8.21
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,1997,6.7,6.37,4.95,9.6
+UP,Jhansi,Chirgaon,Chirgaon,25.57166667,78.82,Chiraigaon,"Dug Well",W15066,1997,6.1,5.73,5.81,7.37
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,1997,5.43,5.84,7.23,7.23
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,1997,3.5,4.61,5.08,6.73
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,1997,3.05,6.29,4.36,6.3
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,1997,6.45,6.74,5.93,8.35
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,1997,4.8,5.72,4.98,6.32
+UP,Jhansi,Gursarai,Gursarai,25.47,79.15,Pandauha,"Dug Well",W15771,1996,6.23,10.36,8.2,11.35
+UP,Jhansi,Gursarai,Gursarai,25.43472222,79.26166667,Markaun,"Dug Well",W15770,1996,'0.66,4.45,3.3,11.05
+UP,Jhansi,Mauranipur,Mauranipur,25.25833333,79.15,Mauranipur,"Dug Well",W15773,1996,8.67,10.41,9.99,12.69
+UP,Jhansi,Moth,Moth,25.73333333,78.95,Moth,"Dug Well",W15774,1996,1.33,2.79,2.62,5.35
+UP,Jhansi,Moth,Moth,25.81888889,79.04555556,Punch,"Dug Well",W15775,1996,2.15,4.22,3.72,8.43
+UP,Jhansi,Moth,Moth,25.83666667,78.90777778,Samthar,"Dug Well",W15776,1996,2.34,3.68,3.85,6.29
+UP,Jhansi,Nowgaon,Mauranipur,25.22611111,79.34583333,Kukrel,"Dug Well",W00665,1996,3.57,6.76,4.78,7.21
+UP,Jhansi,Babina,Babina,25.23833333,78.48333333,Babina1,"Dug Well",W15056,1996,NA,3.52,3.8,5.42
+UP,Jhansi,Babina,Babina,25.34555556,78.5,Khailara,"Dug Well",W15057,1996,3.18,6.05,5.64,7.54
+UP,Jhansi,Badagaon,Badagaon,25.37777778,78.72888889,"Barua sagar","Dug Well",W15058,1996,'0.1,2.16,NA,5.72
+UP,Jhansi,Badagaon,Badagaon,25.45416667,78.56666667,Jhansi1,"Dug Well",W15059,1996,9.54,11.14,7.38,13.12
+UP,Jhansi,Bamaur,Bamaur,25.78388889,79.09333333,Eairach,"Dug Well",W15061,1996,15.96,16.59,16.02,17.07
+UP,Jhansi,Bamaur,Bamaur,25.67361111,79.14611111,Farida,"Dug Well",W15062,1996,1.75,2.79,2.5,4.07
+UP,Jhansi,Bamaur,Bamaur,25.57444444,79.315,Garutha,"Dug Well",W15063,1996,9.42,9.98,10.08,10.53
+UP,Jhansi,Bangra,Bangra,25.38972222,79.01861111,Auldan,"Dug Well",W15064,1996,5.65,7.65,7.35,8.33
+UP,Jhansi,Chirgaon,Chirgaon,25.58666667,79.03666667,Baghaura,"Dug Well",W15065,1996,4.47,7.3,4.12,10.57
+UP,Jhansi,Chirgaon,Chirgaon,25.57166667,78.82,Chiraigaon,"Dug Well",W15066,1996,3.15,6.4,4.58,7.98
+UP,Jhansi,Gursarai,Gursarai,25.59444444,79.07916667,"Atar suva","Dug Well",W15067,1996,2.09,5.57,3.97,7.46
+UP,Jhansi,Gursarai,Gursarai,25.51666667,79.19166667,Gursarai,"Dug Well",W15068,1996,3.83,5.03,5.15,6.8
+UP,Jhansi,Babina,Babina,25.46055556,78.465,Raksa,"Dug Well",W15767,1996,2.79,6.05,3.96,7.38
+UP,Jhansi,Bangra,Bangra,25.35666667,78.87666667,Sakrar,"Dug Well",W15768,1996,NA,4.26,NA,NA
+UP,Jhansi,Chirgaon,Chirgaon,25.645,78.84944444,Semri,"Dug Well",W15769,1996,5.3,6.63,6.05,9
+UP,Jhansi,Gursarai,Mauranipur,25.39666667,79.16333333,Rewan,"Dug Well",W15772,1996,4.09,5.73,8.4,6.46

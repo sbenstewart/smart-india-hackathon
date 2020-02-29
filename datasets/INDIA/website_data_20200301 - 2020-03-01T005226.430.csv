@@ -1,0 +1,1127 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2018,4.8,8.9,NA,NA
+MS,Satara,PHALTAN,Phaltan,17.98638889,74.415,Thakurki_Phaltan,"Dug Well",W33130,2018,NA,NA,7.8,8.8
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2018,NA,1.6,'0.8,NA
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2018,NA,1.5,'0.7,NA
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2018,NA,7.1,5,NA
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2018,NA,6.5,8.6,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2018,NA,15.2,14.25,NA
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2018,NA,3.9,3.4,NA
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2018,NA,6.3,9,NA
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2018,NA,7.6,11.6,NA
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2018,NA,5.9,9.6,NA
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2018,NA,4.4,5,NA
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2018,NA,2.3,11.8,NA
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2018,NA,3.6,2.1,NA
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2018,NA,4.5,2.4,NA
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2018,NA,4.7,10.3,NA
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2018,NA,6.1,4.4,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2018,NA,4.8,1.2,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2018,NA,2.5,'0.4,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2018,NA,5.8,2.7,NA
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2018,NA,10.2,11.7,NA
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2018,NA,5.9,5.2,NA
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2018,NA,2.6,2.5,NA
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2018,NA,3,1.9,NA
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2018,NA,3.2,3.7,NA
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2018,NA,2.5,2.3,NA
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2018,NA,4.2,4.2,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2018,NA,7.4,8,NA
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2018,NA,1.9,2.8,NA
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2018,NA,4.7,6.6,NA
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2018,NA,8.7,9.2,NA
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2018,NA,4.1,5.1,NA
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2018,NA,2.6,'0.8,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2018,NA,6.6,5.5,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2018,NA,6.1,9.4,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2018,NA,NA,1.9,NA
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2018,NA,NA,2.3,2.7
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2018,9.4,NA,NA,NA
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2018,'0.6,NA,NA,NA
+MS,Satara,Karad,Karad,17.49166667,74.03611111,Pal,"Dug Well",W25568,2018,NA,1.7,1.6,NA
+MS,Satara,Satara,Satara,17.65444444,74.08888889,"Chinchner Vandan","Dug Well",W25620,2018,NA,1.6,1,NA
+MS,Satara,Satara,Satara,17.75611111,73.90333333,"Chinchni Kanheri","Dug Well",W25646,2018,NA,7,8.8,NA
+MS,Satara,Khatav,Khatav,17.76916667,74.33083333,Budh,"Dug Well",W25650,2018,NA,5.9,6.1,NA
+MS,Satara,Man,Man,17.74083333,74.69694444,Mardi,"Dug Well",W25642,2018,NA,2.1,2.2,NA
+MS,Satara,Man,Man,17.78444444,74.60416667,Wavarhire-1,"Dug Well",W25656,2018,NA,4,3.9,NA
+MS,Satara,Koregaon,Koregaon,17.50888889,74.22777778,Arvi-1,"Dug Well",W25579,2018,NA,8.6,6.4,NA
+MS,Satara,Phaltan,Phaltan,17.95083333,74.58611111,Varad,"Dug Well",W25702,2018,NA,12.2,19,NA
+MS,Satara,Phaltan,Phaltan,17.98555556,74.43916667,Phaltan,"Dug Well",W33388,2018,8.7,NA,NA,3.5
+MS,Satara,SATARA,Satara,17.6975,74.00805556,Satara,"Dug Well",W33124,2018,NA,2.6,1.9,NA
+MS,Satara,SATARA,Satara,17.7725,74.0075,"Limb Sheri","Dug Well",W33127,2018,NA,9.6,11.4,NA
+MS,Satara,KHATAV,Khatav,17.43722222,74.54666667,Mayani,"Dug Well",W33122,2018,NA,11.1,8.7,NA
+MS,Satara,PHALTAN,Phaltan,18.01083333,74.35027778,Nimbore_1,"Dug Well",W33131,2018,NA,1.7,8.5,NA
+MS,Satara,Khatav,Khatav,17.46194444,74.61805556,Vikhle,"Dug Well",W25555,2018,7,9.6,NA,NA
+MS,Satara,Koregaon,Koregaon,17.91333333,74.09222222,"Pimpode (Bk)-1","Dug Well",W25695,2018,1.8,1.7,NA,NA
+MS,Satara,Patan,Patan,17.35805556,73.9425,Yerphale,"Dug Well",W25516,2018,2,3.3,NA,NA
+MS,Satara,Man,Man,17.70722222,74.55138889,Dahivadi,"Dug Well",W25634,2018,NA,2.6,NA,NA
+MS,Satara,PHALTAN,Khandala,18.04583333,74.18833333,Lonand,"Dug Well",W33132,2018,5.5,4.3,NA,NA
+MS,Satara,Karad,Karad,17.13083333,74.03388889,Yelegaon-1,"Dug Well",W25413,2018,NA,3.8,1.8,NA
+MS,Satara,Karad,Karad,17.205,74.14694444,"Bhairavnath Nagar","Dug Well",W25447,2018,NA,5.5,1.7,NA
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2018,NA,7.6,6.7,NA
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2017,NA,4.45,2.7,7.5
+MS,Satara,Patan,Patan,17.35805556,73.9425,Yerphale,"Dug Well",W25516,2017,3,1.85,2.4,1.1
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2017,NA,2.8,2.2,4.7
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2017,19,NA,6,15.3
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2017,2,NA,1.8,5
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2017,1,NA,'0.2,3.2
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2017,4.9,6.48,1,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2017,5.4,14.9,11.05,NA
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2017,10.7,9.3,7.5,NA
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2017,NA,3.65,NA,2.5
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2017,9.2,'0.9,6.5,12.5
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2017,3.6,NA,NA,9.6
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2017,1.4,'0.5,'0.4,'0.56
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2017,1.5,1.65,'0.65,1.7
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2017,11.4,14.1,10.55,11.2
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2017,6.7,9.45,5.4,9.2
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2017,2.8,3.21,2,4.2
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2017,5.9,6.8,3.35,12.9
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2017,10.8,5.5,3.25,13.5
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2017,4.3,4.4,3.1,7.62
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2017,12.2,3.9,1.2,12.15
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2017,9.7,10.5,4.2,11.25
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2017,1.8,7.1,3.9,7.6
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2017,1.8,7.1,2.6,7.4
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2017,3.3,4.1,4.25,8.5
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2017,8.7,11.25,9.3,12.32
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2017,4.8,2.3,2.5,9.1
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2017,1.6,2.2,1.1,2.3
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2017,1.6,4,2,5.45
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2017,2.1,2.55,1.9,2.95
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2017,3.9,4.3,4.5,3.8
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2017,9.8,9.65,4.7,10.22
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2017,3.5,'0.1,'0.6,4.95
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2017,5.3,5.3,2.9,10.2
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2017,11.6,6.2,3.85,14.4
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2017,8.32,4.1,2.5,8.32
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2017,7.2,6.4,5.2,8.4
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2017,9.8,7.45,6,10.75
+MS,Satara,Koregaon,Koregaon,17.91333333,74.09222222,"Pimpode (Bk)-1","Dug Well",W25695,2017,4,2.1,'0.45,NA
+MS,Satara,Karad,Karad,17.49166667,74.03611111,Pal,"Dug Well",W25568,2017,1.7,'0.95,2.8,'0.7
+MS,Satara,Satara,Satara,17.65444444,74.08888889,"Chinchner Vandan","Dug Well",W25620,2017,'0.5,3.1,'0.8,1.3
+MS,Satara,Satara,Satara,17.75611111,73.90333333,"Chinchni Kanheri","Dug Well",W25646,2017,5.4,3.45,2.45,5.2
+MS,Satara,Khatav,Khatav,17.46194444,74.61805556,Vikhle,"Dug Well",W25555,2017,11.5,4.55,5,7.2
+MS,Satara,Khatav,Khatav,17.76916667,74.33083333,Budh,"Dug Well",W25650,2017,5.3,5.3,4,10
+MS,Satara,Man,Man,17.74083333,74.69694444,Mardi,"Dug Well",W25642,2017,10,5.1,1,8.23
+MS,Satara,Man,Man,17.78444444,74.60416667,Wavarhire-1,"Dug Well",W25656,2017,3.6,4.85,2.2,10
+MS,Satara,Koregaon,Koregaon,17.50888889,74.22777778,Arvi-1,"Dug Well",W25579,2017,5.1,6.22,5.7,11.23
+MS,Satara,Phaltan,Phaltan,17.95083333,74.58611111,Varad,"Dug Well",W25702,2017,19,13.85,10.9,19
+MS,Satara,Man,Man,17.70722222,74.55138889,Dahivadi,"Dug Well",W25634,2017,NA,3.4,2.15,5.7
+MS,Satara,SATARA,Satara,17.6975,74.00805556,Satara,"Dug Well",W33124,2017,2.6,2.25,2.5,2
+MS,Satara,KHATAV,Khatav,17.43722222,74.54666667,Mayani,"Dug Well",W33122,2017,12.2,10.2,7.8,12
+MS,Satara,PHALTAN,Phaltan,17.98638889,74.415,Thakurki_Phaltan,"Dug Well",W33130,2017,10.7,8.95,8.45,11.4
+MS,Satara,PHALTAN,Phaltan,18.01083333,74.35027778,Nimbore_1,"Dug Well",W33131,2017,4.1,3.7,'0.8,11.2
+MS,Satara,PHALTAN,Khandala,18.04583333,74.18833333,Lonand,"Dug Well",W33132,2017,6.7,3.15,3.2,6.85
+MS,Satara,Phaltan,Phaltan,17.98555556,74.43916667,Phaltan,"Dug Well",W33388,2017,NA,2.4,1.7,4.1
+MS,Satara,SATARA,Satara,17.7725,74.0075,"Limb Sheri","Dug Well",W33127,2017,13.1,18.9,NA,14.3
+MS,Satara,Karad,Karad,17.13083333,74.03388889,Yelegaon-1,"Dug Well",W25413,2017,2.1,4.1,2.85,4.5
+MS,Satara,Karad,Karad,17.205,74.14694444,"Bhairavnath Nagar","Dug Well",W25447,2017,4.5,9.4,5.3,5
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2017,NA,5.4,3.2,11.59
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2016,1.8,NA,1.6,4.75
+MS,Satara,Phaltan,Phaltan,17.98555556,74.43916667,Phaltan,"Dug Well",W33388,2016,NA,NA,2,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2016,3.1,NA,3.4,10.15
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2016,1.1,NA,NA,5.8
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2016,8.3,NA,4.8,7.6
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2016,'0.9,NA,'0.5,9
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2016,2.3,NA,'0.8,8.6
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2016,9.08,NA,6.9,11.9
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2016,16.8,NA,9.9,20
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2016,9.9,NA,12,15.7
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2016,3.55,NA,5.9,10.85
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2016,7.5,NA,4.2,5.5
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2016,3.35,NA,3.2,5.35
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2016,7.3,NA,10,11.6
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2016,1.65,NA,'0.9,4.4
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2016,'0.9,NA,'0.5,1.25
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2016,1.5,NA,1.8,4.2
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2016,'0.01,NA,NA,1
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2016,1,NA,1.3,4.2
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2016,4.8,NA,1.8,8.1
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2016,9.6,NA,1.6,13
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2016,3.3,NA,2.5,7.4
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2016,NA,NA,2.1,6.3
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2016,2.8,NA,NA,5.8
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2016,4.5,NA,4.1,12.75
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2016,'0.6,NA,1.2,1.4
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2016,3.95,NA,3.9,4.7
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2016,6.2,NA,8.9,17
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2016,1.95,NA,2.4,5.2
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2016,9.75,NA,7.4,9.38
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2016,5.95,NA,NA,29.7
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2016,5.1,NA,5.8,10.5
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2016,5.2,NA,2.4,9.5
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2016,5.5,NA,3.9,8.15
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2016,1.65,NA,4.3,8.65
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2016,9.5,NA,3.5,10.7
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2016,2.1,NA,2.4,3.7
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2016,3.25,NA,3.8,9.85
+MS,Satara,Karad,Karad,17.13083333,74.03388889,Yelegaon-1,"Dug Well",W25413,2016,1.2,4.6,2.6,5.8
+MS,Satara,Karad,Karad,17.205,74.14694444,"Bhairavnath Nagar","Dug Well",W25447,2016,3.9,5.8,5.8,8.2
+MS,Satara,Patan,Patan,17.35805556,73.9425,Yerphale,"Dug Well",W25516,2016,3,3.35,2.5,3.4
+MS,Satara,Khatav,Khatav,17.46194444,74.61805556,Vikhle,"Dug Well",W25555,2016,7.1,9.5,4.1,7.75
+MS,Satara,Karad,Karad,17.49166667,74.03611111,Pal,"Dug Well",W25568,2016,1.7,2,2.3,3
+MS,Satara,Koregaon,Koregaon,17.50888889,74.22777778,Arvi-1,"Dug Well",W25579,2016,5.1,7.6,6.75,8.7
+MS,Satara,Satara,Satara,17.65444444,74.08888889,"Chinchner Vandan","Dug Well",W25620,2016,'0.7,1,1.1,1.75
+MS,Satara,Man,Man,17.70722222,74.55138889,Dahivadi,"Dug Well",W25634,2016,3.65,3.25,2.55,3.05
+MS,Satara,Man,Man,17.74083333,74.69694444,Mardi,"Dug Well",W25642,2016,2.75,6.5,1.4,10
+MS,Satara,Satara,Satara,17.75611111,73.90333333,"Chinchni Kanheri","Dug Well",W25646,2016,5.35,6.8,2.9,8.55
+MS,Satara,Khatav,Khatav,17.76916667,74.33083333,Budh,"Dug Well",W25650,2016,5,8.5,4.3,9.8
+MS,Satara,Man,Man,17.78444444,74.60416667,Wavarhire-1,"Dug Well",W25656,2016,4.8,9.5,2.7,10
+MS,Satara,Koregaon,Koregaon,17.91333333,74.09222222,"Pimpode (Bk)-1","Dug Well",W25695,2016,'0.4,1.9,'0.5,8.4
+MS,Satara,Phaltan,Phaltan,17.95083333,74.58611111,Varad,"Dug Well",W25702,2016,12.1,14.8,12.3,19
+MS,Satara,KHATAV,Khatav,17.43722222,74.54666667,Mayani,"Dug Well",W33122,2016,8.8,NA,8.5,NA
+MS,Satara,SATARA,Satara,17.6975,74.00805556,Satara,"Dug Well",W33124,2016,1.4,NA,1.6,NA
+MS,Satara,SATARA,Satara,17.7725,74.0075,"Limb Sheri","Dug Well",W33127,2016,16.9,NA,18,NA
+MS,Satara,PHALTAN,Phaltan,17.98638889,74.415,Thakurki_Phaltan,"Dug Well",W33130,2016,9.2,NA,7.3,NA
+MS,Satara,PHALTAN,Phaltan,18.01083333,74.35027778,Nimbore_1,"Dug Well",W33131,2016,3.4,NA,'0.5,NA
+MS,Satara,PHALTAN,Khandala,18.04583333,74.18833333,Lonand,"Dug Well",W33132,2016,6.4,NA,2.9,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2016,3,NA,3.7,7
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2015,NA,'0.85,1.75,4.1
+MS,Satara,Phaltan,Phaltan,17.95083333,74.58611111,Varad,"Dug Well",W25702,2015,NA,11.6,3.15,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2015,3.9,6.43,4.15,3.8
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2015,3.9,2.05,3,3.2
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2015,1.9,3.35,3.85,1.9
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2015,6.7,7.95,6.3,12.8
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2015,1.7,1.2,'0.4,3.9
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2015,7.2,7.8,3.85,8.6
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2015,9.7,6.6,5.4,8
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2015,5.5,15.14,10.8,5.5
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2015,11.4,13.85,14.3,14.4
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2015,7.2,9.65,7.8,10.9
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2015,NA,16.5,8.15,7.7
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2015,4.05,3.15,2.4,4.8
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2015,10.65,9.4,9.7,11.3
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2015,1.9,2.63,3.1,1.9
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2015,1.1,'0.9,1.5,1
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2015,1.8,2.63,3.05,5
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2015,'0.85,'0.35,'0.8,'0.5
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2015,1.86,2.6,3.55,6.2
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2015,5.3,5.16,5.7,7.8
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2015,10.3,11.5,3.2,10
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2015,4.1,5.7,2.2,6.3
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2015,5.2,1.95,3.1,2.3
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2015,4.2,3.1,1.7,4.2
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2015,NA,1.77,NA,NA
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2015,NA,3.45,NA,NA
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2015,NA,8.75,NA,NA
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2015,5.6,6.9,5.3,12.5
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2015,'0.9,'0.8,'0.9,1.65
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2015,3.7,4,3.9,4.2
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2015,13.9,15.35,7.1,14
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2015,3.35,3,3.4,3.8
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2015,12.17,6.58,4.15,10.2
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2015,4.92,12.75,5.45,4.92
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2015,13.15,7.15,6.2,10.1
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2015,10.25,5.3,5,10.25
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2015,6.7,4.65,4.4,6.4
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2015,4.6,6.68,6.7,6.9
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2015,5.5,3.6,4.3,10.2
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2015,2.45,2.4,2.1,2.5
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2015,NA,4.45,4.1,11
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2015,NA,2,NA,NA
+MS,Satara,Karad,Karad,17.13083333,74.03388889,Yelegaon-1,"Dug Well",W25413,2015,2.8,3.4,3.8,5
+MS,Satara,Karad,Karad,17.205,74.14694444,"Bhairavnath Nagar","Dug Well",W25447,2015,3.5,3.8,4,6.2
+MS,Satara,Patan,Patan,17.35805556,73.9425,Yerphale,"Dug Well",W25516,2015,4.69,2.6,3.5,3.5
+MS,Satara,Khatav,Khatav,17.46194444,74.61805556,Vikhle,"Dug Well",W25555,2015,NA,1.8,NA,4.4
+MS,Satara,Karad,Karad,17.49166667,74.03611111,Pal,"Dug Well",W25568,2015,2.1,1.8,1.9,2.8
+MS,Satara,Koregaon,Koregaon,17.50888889,74.22777778,Arvi-1,"Dug Well",W25579,2015,7.7,8.6,7,8.1
+MS,Satara,Satara,Satara,17.65444444,74.08888889,"Chinchner Vandan","Dug Well",W25620,2015,1.1,1.6,NA,1.5
+MS,Satara,Man,Man,17.70722222,74.55138889,Dahivadi,"Dug Well",W25634,2015,NA,3.5,3.5,5.1
+MS,Satara,Man,Man,17.74083333,74.69694444,Mardi,"Dug Well",W25642,2015,8.1,1.8,NA,6
+MS,Satara,Satara,Satara,17.75611111,73.90333333,"Chinchni Kanheri","Dug Well",W25646,2015,NA,5.9,3.5,7
+MS,Satara,Khatav,Khatav,17.76916667,74.33083333,Budh,"Dug Well",W25650,2015,7.3,6.65,3.55,NA
+MS,Satara,Man,Man,17.78444444,74.60416667,Wavarhire-1,"Dug Well",W25656,2015,5.1,3.65,3.6,8.3
+MS,Satara,Koregaon,Koregaon,17.91333333,74.09222222,"Pimpode (Bk)-1","Dug Well",W25695,2015,1.8,2.15,'0.95,3.5
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2015,NA,1.95,2.9,2.9
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2014,1.4,2.6,'0.5,4.45
+MS,Satara,Phaltan,Phaltan,17.95083333,74.58611111,Varad,"Dug Well",W25702,2014,17.3,NA,10,15.8
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2014,'0.5,9.2,4.6,8.53
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2014,1.25,9,5,5.8
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2014,1,3.25,2,5
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2014,NA,10.7,6,9.3
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2014,1,1.05,'0.05,NA
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2014,6.9,7.5,3.3,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2014,5.2,7.5,7,7.5
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2014,16,14.42,13.3,17.29
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2014,11.2,14.7,14,15.9
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2014,2.5,9.7,7.3,10.85
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2014,5.15,10.9,5.8,9
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2014,4.8,4.68,3.4,4.7
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2014,6.4,11.1,9.4,11.1
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2014,1.7,3.5,2.3,NA
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2014,'0.2,1.6,'0.9,1.2
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2014,1.65,3.1,1.8,3.53
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2014,'0.01,'0.5,'0.4,NA
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2014,'0.01,3.7,2.1,NA
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2014,4.45,6.05,4.8,8.76
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2014,7,3.32,4.5,11.4
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2014,1,4.25,3.2,NA
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2014,1.45,4.35,4.5,3.3
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2014,1.6,2.9,4.4,3.3
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2014,2.7,2.3,2.5,2.73
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2014,1.4,3.55,NA,NA
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2014,9.7,9.69,NA,NA
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2014,6.75,7.05,5.2,13.3
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2014,'0.8,'0.89,'0.9,1.1
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2014,3.3,4.5,3.7,4.5
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2014,13.8,7.7,14.9,9.5
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2014,'0.01,3.75,3.2,4.2
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2014,7.5,8.4,7,8.28
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2014,4.3,20.5,7.2,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2014,4.4,8.8,6.3,11.7
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2014,10.2,4.55,4.5,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2014,3.5,5.9,3.6,6.7
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2014,'0.45,8,2.2,7.43
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2014,3.85,4.2,3.8,9.5
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2014,1.9,3.2,2.4,2.85
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2014,1.7,5.05,3.6,4.45
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2014,1.8,2.9,NA,3.8
+MS,Satara,Karad,Karad,17.13083333,74.03388889,Yelegaon-1,"Dug Well",W25413,2014,1.3,NA,2,5.21
+MS,Satara,Karad,Karad,17.205,74.14694444,"Bhairavnath Nagar","Dug Well",W25447,2014,'0.2,NA,4.1,5.7
+MS,Satara,Patan,Patan,17.35805556,73.9425,Yerphale,"Dug Well",W25516,2014,2,NA,2.1,2.65
+MS,Satara,Khatav,Khatav,17.46194444,74.61805556,Vikhle,"Dug Well",W25555,2014,NA,NA,3,NA
+MS,Satara,Karad,Karad,17.49166667,74.03611111,Pal,"Dug Well",W25568,2014,1,NA,1.2,3
+MS,Satara,Koregaon,Koregaon,17.50888889,74.22777778,Arvi-1,"Dug Well",W25579,2014,1.6,9.2,7.2,9.3
+MS,Satara,Satara,Satara,17.65444444,74.08888889,"Chinchner Vandan","Dug Well",W25620,2014,'0.01,NA,1.3,2
+MS,Satara,Satara,Satara,17.75611111,73.90333333,"Chinchni Kanheri","Dug Well",W25646,2014,4.5,NA,5,4.5
+MS,Satara,Koregaon,Koregaon,17.91333333,74.09222222,"Pimpode (Bk)-1","Dug Well",W25695,2014,'0.2,2.8,1.2,4.35
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2014,1,3.1,NA,1.2
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2013,2.2,2.4,1.5,3.7
+MS,Satara,Koregaon,Koregaon,17.91333333,74.09222222,"Pimpode (Bk)-1","Dug Well",W25695,2013,NA,4.2,1,8.8
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2013,4.9,9,3.85,7.3
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2013,NA,6.1,3,2.4
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2013,NA,3.45,2.7,5.4
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2013,6.6,10.4,6.2,9.8
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2013,8,6,'0.25,5.5
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2013,8.2,NA,3.5,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2013,11,4.6,5.3,12.6
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2013,16.8,NA,11,NA
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2013,12.4,2.95,13.1,14.8
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2013,4.8,9.6,8,9.7
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2013,15.8,NA,8.5,14.2
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2013,NA,NA,2.3,NA
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2013,7.85,12.4,10,11.6
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2013,2.55,2.1,1.5,NA
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2013,1.7,2,1,1.3
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2013,1.2,3.45,'0.7,NA
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2013,'0.5,NA,'0.6,2
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2013,NA,4.91,NA,NA
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2013,5.6,3.55,4.9,8.2
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2013,10,6.1,3,10
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2013,5.25,6.68,2,6.9
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2013,3.4,3.9,3,4.7
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2013,NA,4.65,1.5,4.2
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2013,4.8,3.1,1.8,4.9
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2013,3.35,4.1,3.2,NA
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2013,11.45,6.85,9.7,NA
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2013,6,6.85,5,11
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2013,1.7,'0.9,'0.8,'0.9
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2013,NA,4.1,4.5,4
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2013,8.6,9,6.9,13.6
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2013,2.85,2.4,2.9,3
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2013,9.7,8.45,NA,NA
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2013,6.7,11.1,5.4,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2013,3.3,3.15,6,11
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2013,6.4,NA,4.6,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2013,6.1,NA,4.5,7.5
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2013,2.7,7.7,3.9,NA
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2013,7.3,12.1,4.45,13
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2013,3.1,6.1,2.2,3.6
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2013,3.6,1.45,4,10.8
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2013,2.1,2.45,2.5,NA
+MS,Satara,Koregaon,Koregaon,17.50888889,74.22777778,Arvi-1,"Dug Well",W25579,2013,7.2,5.6,7.3,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2013,1.75,4.8,2.2,NA
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2012,NA,3.3,2.2,5.75
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2012,NA,2.8,NA,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2012,NA,7.8,5.22,5.23
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2012,NA,3.3,3.72,5.15
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2012,NA,3.35,2.22,NA
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2012,NA,10.6,7.14,9.4
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2012,NA,3.5,'0.48,NA
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2012,NA,8.9,5.42,11.55
+MS,Satara,Mahabaleshwar,Koregaon,17.9125,74.09166667,"Pimpode (Bk)","Bore Well",W07457,2012,NA,NA,NA,5
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2012,NA,7,7.22,8.8
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2012,NA,13.37,19.72,17.59
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2012,NA,14,14.02,14.2
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2012,NA,8.3,NA,9.75
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2012,NA,6.82,6.98,5.7
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2012,NA,5.08,5.32,NA
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2012,NA,10.3,10.72,10.4
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2012,NA,2.55,2.12,NA
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2012,NA,'0.6,'0.9,'0.3
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2012,NA,5.8,1.65,4.43
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2012,NA,'0.3,NA,1.35
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2012,NA,NA,5.15,NA
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2012,NA,5.8,2.02,NA
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2012,NA,9.4,8.74,7.9
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2012,NA,5.01,4.73,6.23
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2012,NA,3.67,3.62,3.85
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2012,NA,3.67,2.65,NA
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2012,NA,4.16,4.62,3.63
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2012,NA,3,3.17,3.45
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2012,NA,9.45,11.1,8.55
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2012,NA,12,5.11,13.4
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2012,NA,'0.8,NA,'0.1
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2012,NA,3.9,4.02,5.3
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2012,NA,8.9,13.22,11.79
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2012,NA,3.6,NA,3.5
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2012,NA,7.3,5.12,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2012,NA,NA,9.72,5.1
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2012,NA,7,6.75,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.50833333,74.22722222,Arvi,"Bore Well",W17646,2012,NA,NA,NA,8.15
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2012,NA,6.2,6.11,6.6
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2012,NA,7.1,4.95,6.73
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2012,NA,11.9,5.15,11.6
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2012,NA,2.45,2.42,1.6
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2012,NA,5,5.2,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2012,NA,3.6,2.7,3.95
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2011,2.62,3.18,'0.2,4.45
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2011,1,NA,1.45,5.15
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2011,3.08,5.83,2.3,7.03
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2011,3,3.83,3.4,2.15
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2011,1.52,3.05,2.3,5.25
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2011,12.2,7.2,7.1,9.45
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2011,1.1,'0.31,2.7,4.55
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2011,NA,4.57,8.5,9.25
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2011,2.75,NA,NA,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2011,6.95,14.23,6.2,7.25
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2011,14.34,6.91,10.55,13.29
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2011,12.75,14,13.6,16.2
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2011,4.65,7.9,7.7,10.55
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2011,NA,NA,6.25,6.6
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2011,4.3,3.46,4,3.95
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2011,6,NA,8.84,12.4
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2011,1.73,2.48,2.4,3.49
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2011,'0.65,'0.55,'0.73,1.37
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2011,NA,1.38,NA,1.55
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2011,NA,'0.64,NA,NA
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2011,NA,5.1,5.2,7.86
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2011,6.6,1.83,7.5,5.7
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2011,5.83,3.93,3.63,5.43
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2011,3.25,3.2,4.84,3.6
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2011,2.87,5.4,4.26,3.85
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2011,3.78,'0.98,3.3,2.43
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2011,NA,2.97,'0.96,NA
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2011,7.3,6.65,7,6.7
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2011,10.7,5.9,8.1,12
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2011,'0.8,1.9,'0.3,'0.9
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2011,5.1,4.14,4.07,5
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2011,8.8,5.18,6.4,11.62
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2011,5,NA,NA,7.05
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2011,4.15,2.88,3.1,3.9
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2011,5.94,6.16,7.17,8
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2011,8.3,6.95,8.56,9.86
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2011,8.8,5,5.02,7.8
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2011,6.75,4.2,5.2,6.4
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2011,1.18,5.88,3.85,8.19
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2011,4.9,4.12,11.9,4.4
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2011,2.25,2.09,2.35,2.4
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2011,5.4,4.83,8,10.51
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2011,2.3,2.15,2.7,3.25
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2010,NA,'0.95,1.17,4.25
+MS,Satara,Panchgani,Man,17.675,74.6,"Gondavale Bk.","Dug Well",W21774,2010,NA,NA,10.25,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2010,1.03,5.53,2,7.63
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2010,2,3.4,4.21,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2010,1.5,2.55,2.33,4.08
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2010,4.75,8.7,5.12,12.6
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2010,'0.65,1.15,1.68,4.1
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2010,'0.95,4.9,'0.5,9.6
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2010,1.05,1.15,NA,4.15
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2010,4.1,9.5,NA,7.1
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2010,5.45,7.29,5.13,18.15
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2010,7,13.65,14.95,14.55
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2010,3.25,9.15,7.33,10.5
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2010,3.6,2.55,NA,NA
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2010,2.45,3.55,2.37,4.9
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2010,7.3,8.8,9.67,11
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2010,'0.54,2.5,1.88,4.5
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2010,'0.7,1.43,NA,5.93
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2010,'0.5,'0.7,1.17,1.85
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2010,NA,1.33,NA,1.43
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2010,'0.45,'0.5,NA,1.55
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2010,2.2,2.7,NA,4.4
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2010,4.86,NA,5.31,7.55
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2010,'0.9,1.9,1.38,3.3
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2010,'0.23,2.53,1.27,4.73
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2010,2.95,3.95,3.33,4.15
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2010,2,3.51,3.19,3.55
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2010,'0.53,'0.88,1,2.18
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2010,2.2,2.95,2.85,3.7
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2010,3.5,3.7,NA,7.7
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2010,6.4,6.95,5.47,NA
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2010,4.15,5.2,5.05,10.4
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2010,'0.55,'0.55,'0.22,'0.85
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2010,3.9,4,4.98,3.9
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2010,6.7,8.3,6.09,10.4
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2010,3.15,4.45,NA,NA
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2010,2,3.1,3.39,3.75
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2010,5.08,4.73,NA,7.98
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2010,NA,NA,3.78,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2010,4.55,6.2,2.68,8.5
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2010,4.5,5,5.72,6.3
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2010,2.1,4,3.62,6
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2010,1.23,4.93,4.11,8.6
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2010,1.6,1.9,3.1,2.7
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2010,1.75,2,2.34,2.3
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2010,NA,NA,3.78,NA
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2010,'0.8,2.6,1.55,3.9
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2009,2.38,3.2,'0.65,5.45
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2009,2.29,2.65,'0.65,2.25
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2009,1.68,5.58,2.23,8.73
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2009,2.35,4.9,1.1,12.6
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2009,1.2,3.43,1.7,5.7
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2009,9.78,11.1,3.3,11.7
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2009,1.7,7.35,1.6,4.5
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2009,NA,7.1,'0.55,5.15
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2009,'0.8,3.3,1,3.1
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2009,10.8,5.2,4.2,9.8
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2009,8.89,11.89,5.39,18.29
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2009,11.64,14.6,12,14.15
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2009,4.95,9.5,4.3,11.5
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2009,1.8,NA,3.8,5.35
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2009,1.15,4.6,1.8,4.9
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2009,6.5,11.65,8,10.3
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2009,1.53,2.72,2.23,NA
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2009,'0.85,2.95,'0.65,2.56
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2009,'0.5,'0.75,'0.8,'0.9
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2009,NA,1.03,'0.93,'0.53
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2009,'0.67,'0.5,'0.53,1.15
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2009,2.56,2.95,2.25,4.35
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2009,1.9,8.45,1.3,7.7
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2009,'0.33,7.63,'0.43,3.33
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2009,2.52,4.75,1.75,5.4
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2009,2.7,3.63,1.8,4.2
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2009,'0.61,1.93,'0.33,2.98
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2009,2.5,3.7,1.7,4.15
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2009,2.7,5.75,1.7,8.7
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2009,NA,NA,6.7,10.9
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2009,2.51,9.1,4,6.65
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2009,'0.37,'0.7,'0.5,'0.35
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2009,5.2,4.1,3.7,5.5
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2009,NA,8.5,6.4,8.5
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2009,4.15,5.05,2.85,5.95
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2009,2.6,3.25,2,3.45
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2009,8.33,6.98,3.98,11.2
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2009,5.45,7.65,4.15,8.15
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2009,4.3,7.6,4.3,7.3
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2009,4.6,5.65,3,6
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2009,'0.43,6.03,1.13,7.73
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2009,1.35,2.85,1.6,7.35
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2009,1.65,2.35,1.75,1.8
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2009,NA,4.55,NA,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2008,5.9,5.8,5,6.9
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2008,7.2,7.8,6.38,8.7
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2008,5,6.45,3.43,9
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2008,10.5,5.8,3.05,13.2
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2008,1.9,2.2,2.25,2.75
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2008,'0.55,2.9,4.25,5.4
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2008,'0.6,3.12,7.85,5.3
+MS,Satara,Panchgani,Man,17.675,74.6,"Gondavale Bk.","Dug Well",W21774,2008,NA,NA,10.25,NA
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2008,5.4,6.4,8.2,6.9
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2008,3.2,5.2,4.9,5.9
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2008,2.1,3.2,3.2,3.9
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2008,8.4,7,6.98,9.8
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2008,6.2,NA,NA,29.1
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2008,3.9,9.25,6.45,4.9
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2008,7.35,6.1,4.6,8.2
+MS,Satara,Mahabaleshwar,Koregaon,17.50833333,74.22722222,Arvi,"Bore Well",W17646,2008,11.2,NA,NA,19.5
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2008,1.2,4.6,3.1,4.4
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2008,2.85,4.2,1.83,5.1
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2008,1.45,3.3,3,3.55
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2008,'0.01,4.8,5.2,8.9
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2008,9.5,8.3,NA,9.1
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2008,8.8,7.8,3.48,10.2
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2008,1,1.2,'0.5,1.9
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2008,3.8,6.1,4.6,3.8
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2008,2.2,4.4,NA,4.61
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2008,1.2,1.1,'0.56,1.9
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2008,1,3.4,7.4,2.4
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2008,6.4,5.2,NA,9.2
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2008,6.3,2.1,4.8,8.3
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2008,1.3,5.3,NA,7.2
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2008,7,10.15,2.45,7.65
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2008,NA,6.5,NA,NA
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2008,3.85,5.55,3.8,5.6
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2008,NA,6.05,NA,NA
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2008,8.9,10.1,10.2,11.9
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2008,2.1,3.3,2.43,4.3
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2008,1.9,3.2,2.3,2.9
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2008,1,1,'0.7,1.8
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2008,'0.01,'0.01,2,6.3
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2008,3,8.1,3.9,10.2
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2008,1,4.3,NA,5.2
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2008,6.5,6.2,4.3,7.3
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2008,14.3,12.7,10.29,17.5
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2008,13.1,14.3,14.4,16.1
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2008,5.4,12.15,8.3,17.3
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2008,3.55,3.2,2.45,6.1
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2008,3.2,3.2,'0.85,5.2
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2008,1.5,11.2,4.03,7.4
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2008,1.95,4.3,4.1,7.1
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2008,'0.5,5.2,2.25,7.2
+MS,Satara,Panchgani,Man,17.65416667,74.85138889,Dhuldev,"Bore Well",W17648,2008,7,9.4,1.1,19.1
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2007,2.42,3.55,3.7,11.5
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2007,3.41,5.6,3.85,10.7
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2007,'0.61,6,3.62,1.9
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2007,3.62,4.63,4,8.88
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2007,1.45,1.96,1.97,3.3
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2007,'0.52,2.12,1.37,4.8
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2007,'0.17,1.97,1.75,5.6
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2007,NA,6.82,5.02,NA
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2007,3,4.72,3.8,4.9
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2007,1.2,2.55,2.4,4.3
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2007,7.37,6.3,4.9,12.5
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2007,2.81,4.17,3.22,28.9
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2007,5.1,6.9,6.92,6.9
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2007,3.2,3.95,3.81,5.85
+MS,Satara,Mahabaleshwar,Koregaon,17.50833333,74.22722222,Arvi,"Bore Well",W17646,2007,NA,NA,6.2,15.7
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2007,'0.76,1.3,'0.93,3.8
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2007,2.4,3.52,2.45,6.9
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2007,2.42,5.6,3.5,1.2
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2007,7.7,8.42,7.35,9
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2007,4.54,5.44,5.68,7.8
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2007,'0.7,'0.62,'0.67,1.9
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2007,4.5,4.32,5.42,4.8
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2007,1.42,NA,1.79,1.4
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2007,NA,'0.66,'0.62,NA
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2007,NA,2.21,3.3,2.1
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2007,4.33,5,5.21,9.1
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2007,1.3,1.7,1.5,4.3
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2007,1.55,3.9,3.15,4.2
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2007,1.38,8.28,2.7,5.3
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2007,1.45,2.21,2.37,4.1
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2007,1.42,3.22,4.3,NA
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2007,4.05,4.28,4.3,6.6
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2007,3.04,NA,3.1,6.05
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2007,6.8,9.82,9.45,14.2
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2007,1.6,2.38,2.37,1.1
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2007,1.42,1.84,1.95,2.8
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2007,'0.84,'0.67,1.39,1
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2007,'0.01,'0.28,'0.01,3.2
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2007,'0.6,6.35,4.7,10.1
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2007,1.2,2.3,2.08,4.3
+MS,Satara,Mahabaleshwar,Koregaon,17.9125,74.09166667,"Pimpode (Bk)","Bore Well",W07457,2007,NA,NA,NA,19.8
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2007,4.2,5.92,5.3,8.5
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2007,8.08,8.67,9.67,14.5
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2007,8.3,13.35,13.65,9.6
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2007,1.57,12.2,8.7,20.5
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2007,'0.21,1.05,'0.9,5.1
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2007,2.97,3.9,2.26,4.8
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2007,3.17,4.88,4.47,7
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2007,2.1,2.6,3.07,7.2
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2007,'0.61,3.05,2.21,6.9
+MS,Satara,Panchgani,Man,17.65416667,74.85138889,Dhuldev,"Bore Well",W17648,2007,1.98,NA,3.62,19.1
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2006,'0.37,3.5,2.1,5.5
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2006,1.9,7.05,2.78,7.2
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2006,3.46,3.67,3.52,8.5
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2006,1.55,2.48,2.07,2.38
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2006,'0.52,1.9,'0.93,4.5
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2006,NA,2.1,1.67,'0.85
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2006,NA,99.99,6.5,11.1
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2006,1.5,4.55,4.18,8.9
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2006,1.1,2.48,2.49,2.4
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2006,3.65,5.6,3.2,10.76
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2006,2,7.1,2.93,10.15
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2006,5.05,7.35,5.95,13.15
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2006,4.07,5.52,3.65,7.15
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2006,'0.82,1.4,1.08,3.2
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2006,1.9,3.7,2.9,5.2
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2006,4.67,4.52,3.43,8.2
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2006,4.65,6.72,4.55,7.9
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2006,'0.95,'0.65,'0.86,'0.85
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2006,4.4,5,4.34,3.78
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2006,1.98,3,2.4,5.8
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2006,NA,'0.88,'0.72,NA
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2006,1.12,2.95,2.15,3.45
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2006,2.69,4.62,5,7.55
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2006,1.65,3.8,1.3,5.1
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2006,1.05,3.9,2.48,4.8
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2006,2.75,4.18,3.55,7.45
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2006,1.92,3.5,2.98,4.8
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2006,7.62,7.9,6.18,8.8
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2006,1.76,4.3,3.6,8.32
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2006,NA,6.1,NA,6.05
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2006,6.92,13.22,9,16
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2006,1.78,2.52,2.4,3.56
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2006,1.52,1.87,1.77,2.25
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2006,'0.87,'0.85,'0.66,1.1
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2006,'0.5,1,'0.01,1.2
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2006,NA,5.3,NA,9.96
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2006,1.12,2.34,1.43,1.9
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2006,2.92,4.85,6.1,5.5
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2006,5.45,8.05,7.15,15.3
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2006,6.96,13.4,13.4,14.1
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2006,2.22,8.95,8.2,12.3
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2006,'0.01,3.9,'0.15,1.2
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2006,3.7,9.6,1.92,10.9
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,2006,NA,8.4,NA,14.18
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2006,2.32,9.02,4.58,10.2
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2006,2.65,3.87,2.25,4.1
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2006,'0.98,2.55,'0.65,12.3
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2006,'0.48,5.45,3.8,6.2
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2005,1.26,5.7,1.94,7.2
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2005,'0.43,5.13,2.74,8.34
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2005,8.2,4.4,3.56,8.88
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2005,1.7,1.5,2.15,2.05
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2005,'0.75,1.75,'0.65,4.15
+MS,Satara,Karad,Jaoli,17.86805556,73.75138889,Varoshi,"Dug Well",W20412,2005,1.17,NA,1.98,4.5
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2005,5.72,7.9,6.9,11.1
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2005,5.35,2.94,3.9,6.44
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2005,1.59,2.6,2.31,3.16
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2005,5.06,3.15,3.85,8.05
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2005,8.63,25.7,3.76,28.62
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2005,4.37,5.75,6.38,8.4
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2005,4.12,4.85,3.78,10.12
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2005,2.4,1.33,1.25,3.87
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2005,2.3,5.08,2.99,3.87
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2005,3.05,5.05,4.05,8.98
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2005,11.4,12.4,9.3,NA
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2005,4.25,6,4.85,8.18
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2005,'0.37,1.3,'0.43,1.06
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2005,3.15,5.7,4.35,4.63
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2005,'0.32,2.68,2.12,6.64
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2005,'0.41,'0.01,'0.95,NA
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2005,'0.59,3.15,2.43,5.04
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2005,4.05,4.21,4.58,8.62
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2005,3.15,8.3,1.85,10.6
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2005,2.96,2.83,2.34,6.63
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2005,2.97,4.2,2.5,9.18
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2005,3.05,1.95,2.6,4.32
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2005,3.27,5.18,4.26,5.54
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2005,3.54,4.44,3.55,4.9
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2005,6.04,6.34,3.44,6.05
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2005,6.14,11.2,8.39,12.35
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2005,'0.21,1.12,'0.95,4.4
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2005,'0.47,1.06,1.57,3
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2005,'0.15,'0.8,'0.73,'0.97
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2005,1.8,6.35,2,9
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2005,1.05,2.72,1.33,4
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2005,3.05,5.5,5.7,11.9
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2005,6.27,11.09,5.83,17.27
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2005,11.95,14.5,13.39,15.8
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2005,2.6,10.65,7.01,17.76
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2005,'0.61,3.55,'0.69,4
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2005,4.49,4.65,3.93,11.05
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,2005,8.24,8.82,7.52,10.82
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2005,2.45,6.25,4.15,8.45
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2005,1.2,2.94,3.25,3.3
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2005,2.97,2.95,2.32,4.22
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2005,3.98,5.35,3.86,7.47
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2005,'0.34,1.2,'0.34,5.1
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2004,NA,8.15,NA,9.45
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2004,NA,7.77,NA,7.77
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2004,NA,8.88,NA,8.88
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2004,NA,2.3,NA,2.55
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2004,NA,2.65,NA,4.1
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2004,NA,11.1,NA,11.1
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2004,NA,7.05,NA,7.95
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2004,NA,2.85,NA,4.1
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2004,NA,29.65,NA,34.05
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2004,NA,11.3,NA,13.15
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2004,NA,10.25,NA,10.25
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2004,NA,7.5,NA,7.5
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2004,NA,5.2,NA,5.75
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2004,NA,10.1,NA,10.1
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2004,NA,11.45,NA,11.45
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2004,NA,11,NA,11
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2004,NA,3.65,NA,1.7
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2004,NA,7.05,NA,8.2
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2004,NA,2.9,NA,3.9
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2004,NA,2.95,NA,3.3
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2004,NA,3.1,NA,3.9
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2004,NA,4.45,NA,5.2
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2004,NA,7.63,NA,7.63
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2004,NA,4.25,NA,4.95
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2004,NA,6.05,NA,16.53
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2004,NA,8.32,NA,8.32
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2004,NA,6.05,NA,6.05
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2004,NA,12.1,NA,12.45
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2004,NA,2.5,NA,3.3
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2004,NA,1.8,NA,2.9
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2004,NA,1.35,NA,1
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2004,NA,9.96,NA,9.96
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2004,NA,5.55,NA,9.11
+MS,Satara,Mahabaleshwar,Koregaon,17.9125,74.09166667,"Pimpode (Bk)","Bore Well",W07457,2004,NA,13.95,NA,12.75
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2004,NA,11.1,NA,11.9
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2004,NA,13.5,NA,13.5
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2004,NA,13.75,NA,13.05
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2004,NA,12.65,NA,17.2
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2004,NA,2.85,NA,5.1
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2004,NA,7.9,NA,9.45
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,2004,NA,11.5,NA,12.05
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2004,NA,9.55,NA,11.35
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2004,NA,4.2,NA,5.1
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2004,NA,4.05,NA,5.35
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2004,NA,10.35,NA,12.7
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2004,NA,7.35,NA,9.8
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2003,7.05,6.85,6.95,7.32
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2003,1.9,2.9,2.9,NA
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2003,5.85,4.25,3.9,9.73
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2003,2.9,2.25,2.45,2.8
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2003,1.05,2.9,1.9,5.42
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2003,NA,NA,11.1,NA
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2003,5.7,7.2,7,6.8
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2003,2.95,2.5,1.9,3.27
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2003,7.55,NA,NA,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2003,8.25,9.3,9,10.2
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2003,NA,NA,10.25,NA
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2003,6.65,5.55,5.9,5.33
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2003,5.05,4.6,4.9,4.92
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2003,NA,NA,10.1,NA
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2003,13.05,12.95,13.05,NA
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2003,NA,8.1,11,12.85
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2003,'0.8,1.9,3.15,1.4
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2003,5.5,4.65,5.2,5.85
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2003,2.4,3.7,2.9,3.05
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2003,2.3,2.95,1.9,5.55
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2003,3.5,3.15,3.95,7.4
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2003,NA,NA,NA,10.1
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2003,NA,4.7,4.4,7.41
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2003,6.1,5.4,5.7,7.1
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2003,3.9,3.1,3.95,3.5
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2003,8.1,7.5,7.9,NA
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2003,NA,5.5,9.1,8.33
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2003,NA,NA,6.05,NA
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2003,'0.95,10.7,11.35,11.65
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2003,1.85,2.25,2.4,4.5
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2003,2,1.05,1,3.45
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2003,'0.95,'0.95,1.1,2
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2003,2.15,3.8,2.3,NA
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2003,7.05,7.45,7.45,NA
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2003,3.3,7.45,4.8,6.7
+MS,Satara,Mahabaleshwar,Koregaon,17.9125,74.09166667,"Pimpode (Bk)","Bore Well",W07457,2003,11.8,12.6,12.3,14.75
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2003,8.9,10.75,9.1,11.4
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2003,NA,21.4,13.5,NA
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2003,8.7,13.8,9.1,14.1
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2003,6.9,10.05,7.1,10.27
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2003,1.1,2.8,2.7,4.41
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2003,10.35,11.3,9.35,4.4
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,2003,13.9,14.4,12.7,11.76
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2003,4.85,9.3,8.9,10.45
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2003,3.5,4.35,4.1,3.7
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2003,7.05,7.5,4.9,9.22
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2003,1.9,7.45,6.9,10.9
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2002,5.8,5.83,6,7.4
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2002,1.15,'0.45,1.8,5.9
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2002,NA,2.45,3.5,10.6
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2002,2.45,2.16,2.25,2.7
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2002,'0.15,2.1,2.05,4.6
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2002,NA,NA,9.8,NA
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2002,5.8,5.75,6,6.4
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2002,2.55,4.17,NA,3.05
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2002,7.5,6.48,4.6,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2002,7.35,4.85,8.05,9.4
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2002,9.1,4.9,8.6,NA
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2002,5.1,2.96,4.7,5.2
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2002,12.7,3.47,4,6.6
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2002,NA,4.35,5.8,7.9
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2002,12.6,11.95,4.8,NA
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2002,4.15,6.63,5.5,10.7
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2002,'0.2,'0.58,'0.6,1.05
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2002,NA,5.46,4.9,5.35
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2002,2.9,1.73,'0.6,2.7
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2002,1.7,2.11,1.8,NA
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2002,2.9,4.84,1.5,2.35
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2002,11.05,9.6,10.4,10.4
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2002,NA,3.01,1.2,5.8
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2002,5.65,4.17,5.3,4.8
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2002,3.1,NA,NA,NA
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2002,NA,3.68,3.8,5.3
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2002,NA,6.54,6.1,NA
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2002,10.1,10.17,10,12.2
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2002,1.9,1.85,2.5,NA
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2002,2.1,1.08,1.7,3.9
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2002,'0.35,'0.84,'0.8,2.2
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2002,1.3,2.96,4,NA
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2002,6.15,5.15,6.1,NA
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2002,2.15,1.73,2.8,6.55
+MS,Satara,Mahabaleshwar,Koregaon,17.9125,74.09166667,"Pimpode (Bk)","Bore Well",W07457,2002,11.05,NA,12.29,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2002,7.1,10.12,10.5,9.7
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2002,18.1,12.41,19,16.6
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2002,10.85,14.51,14.2,14.9
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2002,4.25,10.85,9.85,15.2
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2002,NA,7.31,4.5,6.9
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2002,'0.05,1.49,1,3.8
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2002,8.85,4.86,4.5,8.3
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,2002,12.7,10.07,12.5,12.2
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2002,1.15,6.34,5.3,7.4
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2002,4.45,2.7,3.1,4.1
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2002,6.5,7.91,7,8
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2002,3.7,5.61,2.7,9.1
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2001,2.7,5.8,3.76,9
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2001,1.83,'0.39,'0.37,3.3
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2001,2.1,1.95,2.05,2.6
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2001,'0.6,1.6,1.05,3.9
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2001,NA,NA,8.44,NA
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2001,5.9,5.35,5.15,6.4
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2001,2.35,2.62,2.32,3.5
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2001,6.3,6.1,4.55,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2001,8.22,8.84,7.28,9.3
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2001,8.2,NA,3.22,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2001,6.55,5.23,5.53,6.7
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2001,4.88,3.5,3.07,5
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2001,5.45,4.73,3.32,5.6
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2001,9,8.52,3.84,8.6
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2001,NA,NA,NA,12
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2001,12.09,6.44,4.1,NA
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2001,'0.35,'0.8,'0.34,1
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2001,5.55,5.3,5,5.5
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2001,'0.31,'0.82,'0.94,2.6
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2001,'0.79,2.98,2.18,6.4
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2001,4.64,4.8,4.43,7.6
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2001,11.85,9.9,2.7,NA
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2001,NA,4.64,'0.58,8
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2001,4,4.11,3.9,6.5
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2001,NA,4.54,1.42,5.6
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2001,NA,NA,4.22,NA
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2001,10.8,9.8,9.42,11.7
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2001,1.6,2.4,2.3,3.6
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2001,1.56,2.06,1.68,2.4
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2001,'0.76,'0.92,1.15,4.2
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2001,1.83,NA,2,NA
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2001,8.82,6.7,'0.6,NA
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2001,4.3,3.21,1.22,5.7
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2001,8.98,10.3,9.05,8.5
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2001,20.52,16,9.73,20.2
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2001,10.83,13.9,13.52,14.9
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2001,4.13,10.1,7.58,15
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2001,5.42,7.5,4.16,6.8
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2001,'0.01,'0.9,NA,3.9
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2001,4.02,3.9,2.9,5.7
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,2001,13.05,9.92,11.89,12.8
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2001,5.18,8.2,4.5,10
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2001,3.02,4.17,2.5,6.8
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2001,8.3,8.9,7.43,7.8
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2001,10.5,10.65,3.95,1.3
+MS,Satara,Panchgani,Man,17.65416667,74.85138889,Dhuldev,"Bore Well",W17648,2000,5.8,NA,NA,12.15
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,2000,'0.01,2.03,'0.12,3.2
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,2000,3.2,4.29,6.9,12.5
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,2000,2.3,2.4,2.35,2.3
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,2000,NA,2.37,'0.76,4
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,2000,NA,7.41,8.55,10
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,2000,NA,5.21,4.56,5.05
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,2000,2.62,2.79,2.72,2.65
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,2000,10.6,NA,7.1,7.9
+MS,Satara,Khed,Khandala,18.02111111,74.0125,Khandala,"Bore Well",W17643,2000,NA,NA,NA,16.3
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,2000,8.1,7.25,7,8.5
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,2000,9.8,7.21,5.96,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.50833333,74.22722222,Arvi,"Bore Well",W17646,2000,7.1,NA,NA,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,2000,4.85,4.3,4.25,5.2
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,2000,NA,1.11,2.56,3.05
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,2000,5.1,3.04,3.92,5
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,2000,NA,4.82,7.5,NA
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,2000,10.5,11.2,NA,9.4
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,2000,5.7,7.85,4.72,11.7
+MS,Satara,Rahimatpur,Satara,17.73333333,73.975,Nele,"Bore Well",W07482,2000,NA,NA,NA,11.5
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,2000,'0.01,1.02,'0.29,1.1
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,2000,4.95,4.54,4.54,5.2
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,2000,'0.8,1.27,'0.72,1.9
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,2000,NA,2.69,2.05,6.1
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,2000,5,2.98,4.5,6.9
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,2000,NA,1.2,9.2,11.15
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,2000,NA,3.45,3.86,4.3
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,2000,3.15,4.4,7.8,5.25
+MS,Satara,Phaltan,Phaltan,17.99305556,74.525,Nimblak-2,"Bore Well",W07476,2000,NA,NA,NA,4.65
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,2000,4.8,4.58,3.52,5.3
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,2000,7.3,5.11,NA,6
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,2000,9.9,11.6,10.1,11.55
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,2000,1.5,2.15,2.35,1.9
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,2000,1.2,2.09,1.72,NA
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,2000,1,1.27,'0.9,3.1
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,2000,2.4,3.06,1.23,NA
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,2000,4.73,7.02,3.5,NA
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,2000,1.6,3.71,1.54,4.6
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,2000,6.7,7.4,7.7,5.8
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,2000,15,10.7,13.55,15.8
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,2000,7.5,14.24,12.8,14.8
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,2000,10.5,11.09,7.9,15.5
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,2000,4,3.7,6.12,NA
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,2000,'0.01,2.67,'0.48,3.2
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,2000,4,6.6,4.5,4.75
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,2000,13.6,9.51,10.18,12.55
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,2000,6.1,4.71,3.9,9.2
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,2000,3.1,2.8,3.25,3.4
+MS,Satara,"Karanje Turf Satara",Karad,17.12222222,74.02916667,Yelegaon,"Bore Well",W07452,2000,NA,NA,NA,9.5
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,2000,7,8.21,8.35,8.55
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,2000,4.85,5.45,2.52,5.6
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,1999,'0.2,1.2,'0.9,'0.9
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,1999,7.4,4.66,3.9,6.83
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,1999,9.4,8.65,5.5,NA
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,1999,4.8,5.46,4.1,6.24
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,1999,2.63,2.67,2.3,4.85
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,1999,8,NA,NA,8.45
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,1999,6.3,6.8,5.9,8.2
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,1999,4.85,6.59,4.3,6.55
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,1999,4.03,4,2.8,5.35
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,1999,1.8,5.25,3,5.9
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,1999,7.3,1.88,4,10.43
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,1999,1.92,2.15,2.3,2.2
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,1999,'0.5,2.55,1,2.95
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,1999,7.6,13.25,9,11.7
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,1999,'0.73,1.67,2.3,3.9
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,1999,1.6,1.95,'0.9,NA
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,1999,'0.74,'0.67,1,2.77
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,1999,1.95,2.95,2.6,5.9
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,1999,'0.45,'0.9,'0.8,1.6
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,1999,NA,2.6,2.4,3.9
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,1999,4.05,2.5,4.6,6.5
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,1999,7.8,2.78,2,5.1
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,1999,3.6,3.35,NA,6.5
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,1999,3.1,3.95,2.4,3.78
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,1999,3.2,'0.83,1,3.1
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,1999,4.4,2.94,3.1,NA
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,1999,6.6,4.35,NA,NA
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,1999,NA,NA,7.6,8.22
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,1999,7.45,7.1,4.7,11.4
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,1999,'0.01,2.73,NA,2.1
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,1999,4.6,5.32,4,6.15
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,1999,10.27,8,9.1,11.8
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,1999,4.9,4.1,4.7,5.15
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,1999,3.38,3.78,3,3.2
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,1999,6.6,5.76,5.3,7.56
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,1999,1.06,1.4,'0.5,3.5
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,1999,8.1,5.15,2,NA
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,1999,1.56,3.63,1.25,3.2
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,1999,5.1,6.16,4,6.2
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,1999,15.5,9.39,8.1,15.9
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,1999,11.1,13.9,13.4,14.62
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,1999,4.3,11.22,6,8.35
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,1999,4.3,3.39,6.7,4.04
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,1999,4.4,4.46,3.1,4.5
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,1999,4.47,5.52,4.65,5.12
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,1998,'0.15,'0.5,1.04,2.25
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,1998,4.78,4.53,4.96,5.22
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,1998,8.6,7.2,6.92,10.32
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,1998,5.14,4.9,4.31,6.33
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,1998,1.92,2.54,2.47,4.37
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,1998,5.6,7,2.42,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,1998,6.2,7.75,5.37,NA
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,1998,4.05,4.1,3.83,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,1998,5.1,4.5,3.74,5.65
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,1998,1.55,6.46,2.09,8.03
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,1998,3.5,4.4,3.98,10.8
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,1998,1.9,2,1.95,4.85
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,1998,'0.6,4,'0.92,4.07
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,1998,10,11.7,11.16,10.44
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,1998,1.75,2.1,1.57,NA
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,1998,1.67,2.2,1.66,2.56
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,1998,'0.8,1.2,1.02,NA
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,1998,1.9,3.48,2.21,NA
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,1998,'0.55,'0.84,'0.8,'0.89
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,1998,1,2.67,1.9,NA
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,1998,4.3,4.54,2.24,6.71
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,1998,10.2,8.6,2.44,12.5
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,1998,1.14,2.98,2.68,5.78
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,1998,2.7,2.32,7.15,4.39
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,1998,4.6,3.7,'0.77,5.13
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,1998,4.4,4.36,2.08,6.08
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,1998,6.3,4.63,3.6,8.5
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,1998,NA,NA,NA,11
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,1998,4.9,8.5,4.8,13.6
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,1998,'0.01,1.8,'0.97,6.4
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,1998,2.6,6.22,3.87,3.27
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,1998,11.1,9.5,8.37,6.23
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,1998,2.6,5.5,6.1,6.86
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,1998,2.92,2.8,3.44,4.52
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,1998,10.1,8.8,5.68,10.22
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,1998,'0.42,'0.3,'0.01,3.76
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,1998,2.95,6.6,'0.8,NA
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,1998,2.35,2.7,1.81,5.87
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,1998,5.7,7.1,4.67,10.52
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,1998,16.3,13.77,6.81,14.51
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,1998,10.5,13.5,13.45,16
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,1998,7.05,12.62,5.62,18.15
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,1998,2.2,7.4,5.25,NA
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,1998,2.4,4.12,2.14,NA
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,1998,4.2,6.04,2.82,NA
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,1997,'0.6,'0.35,'0.6,1.17
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,1997,7.15,4.62,4.35,6.7
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,1997,6.2,7.2,7.42,5.56
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,1997,3.9,5.16,4.42,5.38
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,1997,'0.85,2.7,2.37,3.22
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,1997,9.05,5.86,NA,8.35
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,1997,6.75,7,3.98,10.38
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,1997,8.5,4.1,4.7,8.34
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,1997,3.7,4.57,4.64,5.68
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,1997,NA,5.5,4.9,8.01
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,1997,11,3.76,4.3,13.52
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,1997,1.65,2.08,20.2,4.38
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,1997,'0.55,1.3,2.05,3.67
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,1997,5,10.54,9.35,11.75
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,1997,'0.45,2.6,2.37,4.23
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,1997,1.35,1.95,2.05,2.36
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,1997,'0.8,1.05,'0.94,4.85
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,1997,NA,4,2.73,4.16
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,1997,'0.78,'0.82,'0.77,'0.65
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,1997,NA,2.5,2.76,6.01
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,1997,NA,4.8,4.82,6.38
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,1997,8.8,1.9,9.35,NA
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,1997,6.1,3.2,'0.1,5.16
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,1997,2.45,4.2,4.25,4.53
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,1997,4,1,4.63,2.76
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,1997,4.62,4.68,5.45,5.6
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,1997,7.1,5.93,NA,11.02
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,1997,9.8,NA,10.05,8.97
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,1997,5.05,6.55,4.94,3.67
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,1997,'0.28,1.83,NA,4.42
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,1997,3.05,5,4.12,7.36
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,1997,12.1,9.25,9.45,11.53
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,1997,NA,5.9,4.84,7.63
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,1997,'0.6,3.34,3.22,3.14
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,1997,6.95,11.63,NA,11.6
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,1997,'0.3,'0.4,2.32,3.61
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,1997,8.8,4.7,6.7,NA
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,1997,1.1,3.05,2.4,5.01
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,1997,4.35,9,8.82,9.16
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,1997,15.7,12.19,14.2,17.31
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,1997,8.6,13.58,13.06,14.87
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,1997,4.65,11.53,10.07,16.44
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,1997,NA,7.3,3.85,5.72
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,1997,NA,3.85,4.16,4.86
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,1997,3.05,4.65,4.55,4.67
+MS,Satara,Rahimatpur,Satara,17.63833333,74.05,Shendri,"Dug Well",W07483,1996,'0.35,'0.9,'0.18,1.1
+MS,Satara,Panchgani,Man,17.76666667,74.6,Wavarhire,"Dug Well",W07464,1996,6.63,14.6,3.21,NA
+MS,Satara,Satara,Wai,17.96666667,73.98333333,Surur,"Dug Well",W07485,1996,5.12,10.4,6.02,NA
+MS,Satara,Satara,Wai,17.85,73.95,Udtara,"Dug Well",W07486,1996,4.75,5.1,5.34,6.3
+MS,Satara,Satara,Wai,17.95,73.9,Wai,"Dug Well",W07487,1996,2.36,3.1,1.88,3.84
+MS,Satara,Khed,Khandala,18.10277778,74.08333333,Bhade,"Dug Well",W17642,1996,8.84,6.3,5.4,NA
+MS,Satara,Kodoli,Khatav,17.53333333,74.33333333,Aundh,"Dug Well",W17644,1996,6.45,7.9,5.4,10.25
+MS,Satara,Kodoli,Khatav,17.56666667,74.51666667,"Katar Khatav","Dug Well",W17645,1996,4.57,9,3.55,NA
+MS,Satara,Mahabaleshwar,Koregaon,17.7,74.18333333,Koregaon,"Dug Well",W17647,1996,4.23,4.4,3.4,6.05
+MS,Satara,Patan,Patan,17.23333333,73.96666667,Dhebevadi,"Dug Well",W17649,1996,1.27,5.85,1.72,9.64
+MS,Satara,Phaltan,Phaltan,17.88472222,74.59166667,Javali,"Dug Well",W17650,1996,8.6,4.4,3.45,12.85
+MS,Satara,Rahimatpur,Satara,17.53333333,74.05,Atit,"Dug Well",W17651,1996,1.7,2.6,2,4.3
+MS,Satara,Rahimatpur,Satara,17.70833333,73.98055556,Kondve,"Dug Well",W17652,1996,'0.75,2,'0.7,4.3
+MS,Satara,Patan,Patan,17.33333333,74.01666667,Malharpeth,"Dug Well",W07465,1996,7.6,9.9,9.08,10.1
+MS,Satara,Patan,Patan,17.395,73.74666667,Manainagar,"Dug Well",W07466,1996,1.52,2.7,2.3,2.73
+MS,Satara,Patan,Patan,17.48666667,73.87833333,Manure,"Dug Well",W07467,1996,1.52,2.1,1.74,3.7
+MS,Satara,Patan,Patan,17.32166667,73.895,"Morgir (Shivpurpeth)","Dug Well",W07468,1996,'0.74,1,1,NA
+MS,Satara,Patan,Patan,17.14166667,73.97916667,Mutlavadi,"Dug Well",W07469,1996,2.19,1.5,2.07,NA
+MS,Satara,Patan,Patan,17.37916667,73.9,Patan,"Dug Well",W07470,1996,'0.82,'0.9,'0.79,'0.8
+MS,Satara,Patan,Patan,17.22,73.875,"Savanthwadi (Jinti)","Dug Well",W07471,1996,'0.74,2,1.82,5.65
+MS,Satara,Patan,Patan,17.48333333,73.98194444,"Velkhandwadi (Tarli)","Dug Well",W07472,1996,4.9,5.5,4.2,6.8
+MS,Satara,Phaltan,Phaltan,17.96666667,74.35,Mirgaon,"Dug Well",W07473,1996,8,6,1.3,9.4
+MS,Satara,Phaltan,Phaltan,17.89166667,74.50416667,Mogarle,"Dug Well",W07474,1996,4.45,4.2,'0.45,5.1
+MS,Satara,Phaltan,Phaltan,17.98333333,74.56666667,Nimblak-1,"Dug Well",W07475,1996,2.52,4.4,2.26,5.15
+MS,Satara,Phaltan,Phaltan,18.025,74.34166667,Nimbore,"Dug Well",W07477,1996,3.6,2.35,'0.87,3.7
+MS,Satara,Phaltan,Phaltan,18.05833333,74.34444444,Pimpalwadi,"Dug Well",W07478,1996,4.76,4.3,2.75,5.7
+MS,Satara,Phaltan,Phaltan,18.03333333,74.53333333,Rajale,"Dug Well",W07479,1996,6.15,5.5,3.6,8.5
+MS,Satara,Phaltan,Phaltan,18.03333333,74.23333333,Taradgaon,"Dug Well",W07480,1996,NA,10.5,NA,11.55
+MS,Satara,Phaltan,Phaltan,17.86666667,74.325,Tathvade,"Dug Well",W07481,1996,5,6.2,4.2,10.4
+MS,Satara,Karad,Jaoli,17.83333333,73.77222222,Medha,"Dug Well",W07447,1996,'0.32,1.2,'0.16,5.1
+MS,Satara,"Karanje Turf Satara",Karad,17.25,74.18333333,Malkapur,"Dug Well",W07448,1996,3.07,2,2.96,4.32
+MS,Satara,"Karanje Turf Satara",Karad,17.31527778,74.24166667,Oglewadi,"Dug Well",W07449,1996,12.32,9.6,9.13,13.1
+MS,Satara,"Karanje Turf Satara",Karad,17.15916667,74.075,Undale,"Dug Well",W07450,1996,2.33,6.3,2.42,8.6
+MS,Satara,"Karanje Turf Satara",Karad,17.38916667,74.11555556,Varade,"Dug Well",W07451,1996,3.47,3.3,3.07,4.12
+MS,Satara,Khed,Khandala,18.15,73.975,Shirwal,"Dug Well",W07453,1996,12.43,11.6,9.7,13.8
+MS,Satara,Kodoli,Khatav,17.8375,74.26944444,"Manjarvadi (Mol)","Dug Well",W07454,1996,'0.39,'0.5,'0.4,3.85
+MS,Satara,Kodoli,Man,17.65,74.51666667,Pingli,"Dug Well",W07455,1996,4.7,5.4,'0.44,NA
+MS,Satara,Kodoli,Khatav,17.71666667,74.31666667,Pusegaon,"Dug Well",W07456,1996,1.37,3.9,1.22,5.6
+MS,Satara,Mahabaleshwar,Koregaon,17.6,74.2,Rehmatpur,"Dug Well",W07458,1996,5.52,9,3.76,10.5
+MS,Satara,Mahabaleshwar,Koregaon,17.9,74.13333333,"Wathar (Station)","Dug Well",W07459,1996,15.3,14.6,10.28,19
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.65,Mahabaleswar,"Dug Well",W07460,1996,9.95,13.5,12.45,15.2
+MS,Satara,Mhaswad,Mahabaleshwar,17.91666667,73.75,Panchagani,"Dug Well",W07461,1996,4.02,14.6,5.52,17.5
+MS,Satara,Panchgani,Man,17.63333333,74.78333333,Mhaswad,"Dug Well",W07462,1996,7.5,3.6,5.58,5.55
+MS,Satara,Panchgani,Man,17.46666667,74.81666667,Shenwadi,"Dug Well",W07463,1996,7.45,4.8,1.52,7.7
+MS,Satara,Rahimatpur,Satara,17.75277778,74.05138889,Vaduth,"Dug Well",W07484,1996,4.83,5.3,4.54,5.1

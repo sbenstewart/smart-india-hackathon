@@ -1,0 +1,590 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2018,NA,2.18,3.13,NA
+JK,Samba,Hiranagar,Hiranagar,32.55805556,75.30194444,Nauni,"Dug Well",W30772,2018,NA,2.35,3.43,NA
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2018,NA,6.68,7.67,NA
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2018,NA,3.53,3.34,NA
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2018,NA,3.33,4.3,NA
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2018,NA,15.85,16.24,NA
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2018,NA,5.16,4.09,NA
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2018,NA,20.59,20.75,NA
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2018,NA,4.05,3.35,NA
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2018,NA,3.95,4.72,NA
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2018,NA,2.57,3.19,NA
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2018,NA,1.37,1.59,NA
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2018,NA,5.7,4.95,NA
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2018,NA,19.11,17.6,NA
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2018,NA,25.51,25.3,NA
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2018,NA,10.3,9.75,NA
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2018,NA,1.63,2.1,NA
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2018,NA,7.3,6.95,NA
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2018,2.75,3.44,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2018,1.37,2.5,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2018,9.06,7.4,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2018,1.85,2.55,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2018,4.37,9.42,NA,NA
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2018,NA,2.9,NA,NA
+JK,Samba,SAMBA,Samba,32.59305556,75.15555556,Painthi,"Dug Well",W33345,2018,NA,5.34,4.4,NA
+JK,Samba,SAMBA,Samba,32.62388889,75.065,"Nagrota Uttarbani","Dug Well",W33346,2018,NA,6.4,5.79,NA
+JK,Samba,SAMBA,Samba,32.64972222,74.98666667,"Maheen Charkan","Dug Well",W33347,2018,NA,9.53,7.75,NA
+JK,Samba,SAMBA,Samba,32.65666667,75.07388889,"Mothlian Kalan","Dug Well",W33348,2018,NA,10.34,6.94,NA
+JK,Samba,Hiranagar,Hiranagar,32.47777778,75.14333333,Phalora,"Dug Well",W30759,2018,1.45,2.17,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.48055556,75.10833333,Pangdour,"Dug Well",W30760,2018,3.78,3.52,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.48611111,75.20416667,Raghuchak,"Dug Well",W30761,2018,'0.98,2.42,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.48777778,75.17777778,Sanoora,"Dug Well",W30762,2018,'0.9,'0.9,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.20277778,Jasath,"Dug Well",W30763,2018,7.7,11.35,NA,NA
+JK,Samba,Samba,Samba,32.60916667,75.06527778,Kamila,"Dug Well",W32217,2018,NA,4.85,5.37,NA
+JK,Samba,Samba,Samba,32.61305556,75.14027778,Dhora,"Dug Well",W32218,2018,NA,2.9,3.23,NA
+JK,Samba,Samba,Samba,32.64777778,75.06361111,Uttarbani,"Dug Well",W32220,2018,NA,1.75,1.96,NA
+JK,Samba,Samba,Samba,32.51027778,74.9425,"Mahal Kalandrian","Dug Well",W30765,2018,NA,3.93,3.2,NA
+JK,Samba,Samba,Samba,32.55166667,74.94888889,"Gho Rakawalan","Dug Well",W30771,2018,NA,3.1,3.16,NA
+JK,Samba,Hiranagar,Hiranagar,32.54416667,75.27333333,Lokli,"Dug Well",W30769,2018,NA,4.93,4.14,NA
+JK,Samba,Hiranagar,Hiranagar,32.54722222,75.26527778,"Patyari II","Dug Well",W30770,2018,NA,2.59,3,NA
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2018,NA,6.76,7.1,NA
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2017,'0.31,2.93,1.56,1.93
+JK,Samba,Hiranagar,Hiranagar,32.54416667,75.27333333,Lokli,"Dug Well",W30769,2017,1.56,5.83,3.53,7.71
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2017,2.07,5,2.76,5
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2017,7.8,7.67,7.23,8.6
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2017,2.88,3.48,2.2,5.2
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2017,2.83,3.16,3.05,3.59
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2017,16.4,16.3,14.1,24.4
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2017,1.73,5.52,3.26,7.28
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2017,20.39,19.74,18.89,20.89
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2017,2.71,4.16,3.11,5
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2017,3.11,3.6,3.91,4.25
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2017,1.4,3.41,2.75,5.41
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2017,'0.5,1.86,1.14,2.53
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2017,4.54,6.22,3.27,6.81
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2017,2.7,4.15,3.3,3.42
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2017,1.22,1.67,2.07,1.5
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2017,8.37,9.02,7.67,9.11
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2017,1.65,2.57,2.35,3.66
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2017,5.5,6.6,5.97,4.6
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2017,22.34,19.49,17.74,20.96
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2017,21.13,26.26,25.23,27.61
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2017,7.56,11.05,8.2,11.82
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2017,1.03,1.65,1.57,2.53
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2017,4.8,7.4,6.6,8.4
+JK,Samba,SAMBA,Samba,32.59305556,75.15555556,Painthi,"Dug Well",W33345,2017,7.85,7.6,4.95,8.85
+JK,Samba,SAMBA,Samba,32.62388889,75.065,"Nagrota Uttarbani","Dug Well",W33346,2017,5.17,6.4,6.08,6.94
+JK,Samba,SAMBA,Samba,32.64972222,74.98666667,"Maheen Charkan","Dug Well",W33347,2017,5.76,9.14,8.1,10.05
+JK,Samba,SAMBA,Samba,32.65666667,75.07388889,"Mothlian Kalan","Dug Well",W33348,2017,6.2,7.95,8.46,10.4
+JK,Samba,Hiranagar,Hiranagar,32.55805556,75.30194444,Nauni,"Dug Well",W30772,2017,NA,1.43,2.13,3.26
+JK,Samba,Hiranagar,Hiranagar,32.54722222,75.26527778,"Patyari II","Dug Well",W30770,2017,1.17,3.02,2.32,NA
+JK,Samba,Samba,Samba,32.60916667,75.06527778,Kamila,"Dug Well",W32217,2017,4.17,5.15,4.9,5.14
+JK,Samba,Samba,Samba,32.61305556,75.14027778,Dhora,"Dug Well",W32218,2017,1.9,3.25,2.65,3.64
+JK,Samba,Samba,Samba,32.64777778,75.06361111,Uttarbani,"Dug Well",W32220,2017,1.33,1.75,1.8,2.35
+JK,Samba,Samba,Samba,32.51027778,74.9425,"Mahal Kalandrian","Dug Well",W30765,2017,3.13,4.08,3.16,5.78
+JK,Samba,Samba,Samba,32.55166667,74.94888889,"Gho Rakawalan","Dug Well",W30771,2017,3.05,3.17,3.12,4.2
+JK,Samba,Hiranagar,Hiranagar,32.47777778,75.14333333,Phalora,"Dug Well",W30759,2017,1.83,2.74,1.28,3.2
+JK,Samba,Hiranagar,Hiranagar,32.48055556,75.10833333,Pangdour,"Dug Well",W30760,2017,3.45,3.94,3.55,3.95
+JK,Samba,Hiranagar,Hiranagar,32.48611111,75.20416667,Raghuchak,"Dug Well",W30761,2017,'0.72,2.22,1.2,2.96
+JK,Samba,Hiranagar,Hiranagar,32.48777778,75.17777778,Sanoora,"Dug Well",W30762,2017,'0.67,'0.93,'0.9,1.22
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.20277778,Jasath,"Dug Well",W30763,2017,10.05,11.36,9.05,15.18
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2017,7.33,7.43,6.13,7
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2016,5.35,NA,7.1,9.11
+JK,Samba,SAMBA,Samba,32.65666667,75.07388889,"Mothlian Kalan","Dug Well",W33348,2016,4.7,NA,9.6,NA
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2016,2.48,NA,3.07,3.5
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2016,2.84,NA,3.75,4.25
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2016,1.96,NA,2.64,3
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2016,1.65,NA,2.25,4
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2016,15.8,NA,15.4,16.55
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2016,2.7,NA,3.38,7.13
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2016,16.77,NA,19.44,21.39
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2016,3.6,NA,3.97,4.25
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2016,23.83,NA,25.43,29.47
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2016,'0.97,NA,2.36,3.08
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2016,5.37,NA,5.84,6.17
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2016,5.32,NA,5.79,7.27
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2016,6.7,NA,9.31,10.5
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2016,'0.63,NA,1.51,2.83
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2016,2.86,NA,3.65,4.48
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2016,1.85,NA,2.7,3.2
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2016,'0.47,NA,1.1,3.27
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2016,1.06,NA,1.48,2.79
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2016,2.48,NA,2.65,3.85
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2016,21.09,NA,18.04,20.69
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2016,8.77,NA,8.67,8.27
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2016,7.8,NA,7.83,8.55
+JK,Samba,Hiranagar,Hiranagar,32.47777778,75.14333333,Phalora,"Dug Well",W30759,2016,1.58,2.1,2.41,2.73
+JK,Samba,Hiranagar,Hiranagar,32.48055556,75.10833333,Pangdour,"Dug Well",W30760,2016,3.6,3.36,3.99,3.72
+JK,Samba,Hiranagar,Hiranagar,32.48611111,75.20416667,Raghuchak,"Dug Well",W30761,2016,'0.4,1.66,1.59,3.56
+JK,Samba,Hiranagar,Hiranagar,32.48777778,75.17777778,Sanoora,"Dug Well",W30762,2016,'0.5,'0.88,'0.88,1.05
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.20277778,Jasath,"Dug Well",W30763,2016,8.75,8.8,8.74,13.09
+JK,Samba,Samba,Samba,32.51027778,74.9425,"Mahal Kalandrian","Dug Well",W30765,2016,3.41,7.41,4.18,6.78
+JK,Samba,Hiranagar,Hiranagar,32.54416667,75.27333333,Lokli,"Dug Well",W30769,2016,2.43,NA,4.41,6.93
+JK,Samba,Hiranagar,Hiranagar,32.54722222,75.26527778,"Patyari II","Dug Well",W30770,2016,2.02,6.57,2.6,4.74
+JK,Samba,Samba,Samba,32.55166667,74.94888889,"Gho Rakawalan","Dug Well",W30771,2016,2.63,3.17,3,4.44
+JK,Samba,Hiranagar,Hiranagar,32.55805556,75.30194444,Nauni,"Dug Well",W30772,2016,1.03,2.58,1.38,2.11
+JK,Samba,Samba,Samba,32.60916667,75.06527778,Kamila,"Dug Well",W32217,2016,4.43,NA,4.83,NA
+JK,Samba,Samba,Samba,32.61305556,75.14027778,Dhora,"Dug Well",W32218,2016,2.3,NA,2.99,NA
+JK,Samba,Samba,Samba,32.64777778,75.06361111,Uttarbani,"Dug Well",W32220,2016,1.72,NA,1.48,NA
+JK,Samba,SAMBA,Samba,32.59305556,75.15555556,Painthi,"Dug Well",W33345,2016,3.6,NA,4.4,NA
+JK,Samba,SAMBA,Samba,32.62388889,75.065,"Nagrota Uttarbani","Dug Well",W33346,2016,5.43,NA,6.06,NA
+JK,Samba,SAMBA,Samba,32.64972222,74.98666667,"Maheen Charkan","Dug Well",W33347,2016,5.9,NA,7.82,NA
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2016,7.23,NA,7.28,NA
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2015,5.15,7.58,7.28,6.11
+JK,Samba,Samba,Samba,32.59277778,75.15555556,Painthi,"Dug Well",W30778,2015,1.51,NA,NA,NA
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2015,1.75,2.13,2.2,2.23
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2015,2.75,3.55,3.07,3.35
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2015,1.58,2.74,2.16,3.3
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2015,NA,2.7,2.3,3.1
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2015,14.3,15,14.38,16
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2015,2.08,5.17,2.55,6.16
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2015,17.29,17.74,17.71,18.32
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2015,2.67,3.46,3.17,3.52
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2015,23.82,23.79,24.53,26.35
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2015,1.32,1.98,2.96,1.57
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2015,3.75,5.15,4.47,5.28
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2015,3.92,5.32,4.57,5.79
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2015,5.9,9.53,2.01,9.1
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2015,'0.73,1.97,1.37,1.77
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2015,2.46,3.51,3.09,4.33
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2015,2.67,NA,2.45,2.67
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2015,'0.7,2.25,1.96,1.56
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2015,'0.95,1.78,2.16,1.57
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2015,1.75,2.35,2.5,6.56
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2015,18.73,NA,16.88,21.74
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2015,7.55,6.82,7.31,7.85
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2015,10.13,NA,7.39,5.98
+JK,Samba,Hiranagar,Hiranagar,32.47777778,75.14333333,Phalora,"Dug Well",W30759,2015,1.67,2.08,2.15,3.2
+JK,Samba,Hiranagar,Hiranagar,32.48055556,75.10833333,Pangdour,"Dug Well",W30760,2015,3.18,3.25,3.4,3.35
+JK,Samba,Hiranagar,Hiranagar,32.48611111,75.20416667,Raghuchak,"Dug Well",W30761,2015,'0.74,2.03,1.49,2.98
+JK,Samba,Hiranagar,Hiranagar,32.48777778,75.17777778,Sanoora,"Dug Well",W30762,2015,1.56,'0.9,'0.84,1.09
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.20277778,Jasath,"Dug Well",W30763,2015,7,8.25,6.49,15.25
+JK,Samba,Samba,Samba,32.51027778,74.9425,"Mahal Kalandrian","Dug Well",W30765,2015,3.93,4.15,3.92,3.74
+JK,Samba,Hiranagar,Hiranagar,32.54416667,75.27333333,Lokli,"Dug Well",W30769,2015,1.8,4.08,2.96,3.97
+JK,Samba,Hiranagar,Hiranagar,32.54722222,75.26527778,"Patyari II","Dug Well",W30770,2015,2.45,NA,3.51,7
+JK,Samba,Samba,Samba,32.55166667,74.94888889,"Gho Rakawalan","Dug Well",W30771,2015,2.6,3.07,2.83,3.35
+JK,Samba,Hiranagar,Hiranagar,32.55805556,75.30194444,Nauni,"Dug Well",W30772,2015,NA,2.48,NA,3.03
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2015,NA,9.15,NA,NA
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2014,8,6.78,4.53,7.05
+JK,Samba,Samba,Samba,32.65638889,75.07388889,"Mothlian Kalan","Dug Well",W32221,2014,NA,NA,NA,6.4
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2014,2.08,1.86,1.87,2.65
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2014,3.59,3.52,3.45,4.11
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2014,2.94,2.4,2.3,3.87
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2014,2.18,2.3,2.22,2.95
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2014,16.6,14.75,14.5,15.85
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2014,2.99,4.36,3.33,6.43
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2014,19.11,17.76,17.16,18.71
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2014,3.5,3.18,3.13,3.85
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2014,23.95,23.37,23.61,25.47
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2014,2.09,1.77,1.62,3.13
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2014,5.44,4.9,4.65,5.37
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2014,5.46,5.4,4.41,6.65
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2014,9.7,10.74,8.35,10.67
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2014,1.37,1.83,1.68,2.27
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2014,3.21,3.76,2.81,4.34
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2014,NA,1.8,1.76,2.43
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2014,1.55,1.39,1.46,2.47
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2014,1.75,1.44,1.55,1.45
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2014,2.08,2.03,5.87,2.57
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2014,20.44,18.54,16.28,21
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2014,8.6,7.61,7.21,6.54
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2014,6.43,5.13,7.35,6.49
+JK,Samba,Hiranagar,Hiranagar,32.47777778,75.14333333,Phalora,"Dug Well",W30759,2014,2.14,1.92,1.9,2.39
+JK,Samba,Hiranagar,Hiranagar,32.48055556,75.10833333,Pangdour,"Dug Well",W30760,2014,3.5,2.95,3.3,3.36
+JK,Samba,Hiranagar,Hiranagar,32.48611111,75.20416667,Raghuchak,"Dug Well",W30761,2014,1.74,2.28,1.43,2.94
+JK,Samba,Hiranagar,Hiranagar,32.48777778,75.17777778,Sanoora,"Dug Well",W30762,2014,'0.87,'0.8,'0.9,'0.91
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.20277778,Jasath,"Dug Well",W30763,2014,9.72,7,5.85,11.86
+JK,Samba,Samba,Samba,32.51027778,74.9425,"Mahal Kalandrian","Dug Well",W30765,2014,3.9,2.88,2.88,4.02
+JK,Samba,Hiranagar,Hiranagar,32.54416667,75.27333333,Lokli,"Dug Well",W30769,2014,2.73,3.56,2.98,3.95
+JK,Samba,Hiranagar,Hiranagar,32.54722222,75.26527778,"Patyari II","Dug Well",W30770,2014,NA,NA,NA,3.21
+JK,Samba,Samba,Samba,32.55166667,74.94888889,"Gho Rakawalan","Dug Well",W30771,2014,2.91,2.64,2.35,3.82
+JK,Samba,Hiranagar,Hiranagar,32.55805556,75.30194444,Nauni,"Dug Well",W30772,2014,1.88,1.6,1.33,2.14
+JK,Samba,Samba,Samba,32.59277778,75.15555556,Painthi,"Dug Well",W30778,2014,NA,NA,NA,6.16
+JK,Samba,Samba,Samba,32.60916667,75.06527778,Kamila,"Dug Well",W32217,2014,NA,NA,NA,4.89
+JK,Samba,Samba,Samba,32.61305556,75.14027778,Dhora,"Dug Well",W32218,2014,NA,NA,NA,2.95
+JK,Samba,Samba,Samba,32.62361111,75.065,"Nagrota (Uttarbehni)","Dug Well",W32219,2014,NA,NA,NA,6.27
+JK,Samba,Samba,Samba,32.64777778,75.06361111,Uttarbani,"Dug Well",W32220,2014,NA,NA,NA,1.75
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2014,6.91,5.81,NA,NA
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2013,3.65,7.33,6.1,8.81
+JK,Samba,Hiranagar,Hiranagar,32.55805556,75.30194444,Nauni,"Dug Well",W30772,2013,'0.53,3.11,1.78,2.57
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2013,1,NA,NA,1.84
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2013,1.23,3.92,1.48,4.38
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2013,1.79,3.64,3.36,4.98
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2013,'0.66,3.9,2.89,NA
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2013,1.14,3.11,2.9,4.27
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2013,14.87,17.1,14.2,18.37
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2013,'0.66,5.13,2.6,7.22
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2013,15.89,20.19,17.49,21.19
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2013,2.15,7.51,2.8,4.47
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2013,21.4,26.61,21.25,35
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2013,1.08,2.34,1.66,1.52
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2013,2.8,5.61,4.15,6.1
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2013,2.97,6.77,4.69,11.7
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2013,4.57,12.52,8.95,12.17
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2013,'0.15,2.1,1.65,2.53
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2013,2.61,4.35,2.81,4.34
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2013,'0.25,2.37,1.93,2.65
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2013,'0.79,2.25,1.19,2.86
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2013,'0.85,1.58,1.2,2.4
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2013,'0.72,3.55,1.55,3.7
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2013,22.1,22.29,17.94,23.84
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2013,8.32,10.935,7.34,10.97
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2013,4.17,5.95,4.63,6.85
+JK,Samba,Hiranagar,Hiranagar,32.47777778,75.14333333,Phalora,"Dug Well",W30759,2013,1.27,2.81,2.05,3.08
+JK,Samba,Hiranagar,Hiranagar,32.48055556,75.10833333,Pangdour,"Dug Well",W30760,2013,2.64,4.56,3.11,4.85
+JK,Samba,Hiranagar,Hiranagar,32.48611111,75.20416667,Raghuchak,"Dug Well",W30761,2013,'0.76,1.68,1.5,1.66
+JK,Samba,Hiranagar,Hiranagar,32.48777778,75.17777778,Sanoora,"Dug Well",W30762,2013,'0.75,'0.82,'0.8,'0.9
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.20277778,Jasath,"Dug Well",W30763,2013,12.25,11.83,5.28,15.15
+JK,Samba,Samba,Samba,32.51027778,74.9425,"Mahal Kalandrian","Dug Well",W30765,2013,1.61,3.73,3.02,5.08
+JK,Samba,Hiranagar,Hiranagar,32.54416667,75.27333333,Lokli,"Dug Well",W30769,2013,1.35,5.5,2.81,7.4
+JK,Samba,Hiranagar,Hiranagar,32.54722222,75.26527778,"Patyari II","Dug Well",W30770,2013,2.76,3.12,NA,4.71
+JK,Samba,Samba,Samba,32.55166667,74.94888889,"Gho Rakawalan","Dug Well",W30771,2013,1.7,NA,1.88,4.36
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2013,6.01,7.31,5.59,7.63
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2012,NA,7.64,6.28,9.32
+JK,Samba,Samba,Samba,32.51027778,74.9425,"Mahal Kalandrian","Dug Well",W30765,2012,NA,NA,3.95,NA
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2012,NA,3.07,3.76,3.6
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2012,NA,4.67,4.01,4.8
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2012,NA,3.68,2.49,3.3
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2012,NA,4.13,3.65,3.75
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2012,NA,15.74,16.71,16.9
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2012,NA,5.15,4.26,7.03
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2012,NA,19.45,20.95,20.59
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2012,NA,3.52,6.8,4.57
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2012,NA,28.58,25.25,31.31
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2012,NA,2.99,2.4,3.26
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2012,NA,6.06,5.06,6.3
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2012,NA,6.35,2.64,8.3
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2012,NA,11.6,11.98,12.45
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2012,NA,2.25,1.72,2.63
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2012,NA,3.89,3.59,4.61
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2012,NA,2.55,2.54,2.95
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2012,NA,1.63,1.6,3.62
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2012,NA,1.49,1.4,1.49
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2012,NA,3.8,3.28,3.35
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2012,NA,20.95,22.68,22.94
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2012,NA,NA,10.95,10.57
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2012,NA,6.55,6.08,6.75
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2012,NA,6.7,7.28,7.53
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2011,5.64,7.12,6.1,8.4
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2011,NA,5.05,5.2,7.25
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2011,3.1,1.95,NA,4.9
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2011,NA,4.6,2.42,4.07
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2011,2.97,4.35,3.99,4.96
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2011,1.35,2.65,2.19,5
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2011,2.09,2.59,2.29,4.4
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2011,16.5,16.28,15.17,17.63
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2011,1.93,4.93,2.9,7.24
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2011,20.41,20.42,19.2,21.02
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2011,3.68,3.8,3.94,4.34
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2011,23.34,23.7,25.68,28.16
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2011,2.03,2.24,2.52,3.19
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2011,5.42,5.74,5.77,NA
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2011,3.47,7.26,5.38,8.97
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2011,8.3,11.8,11.47,12.25
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2011,'0.74,NA,1.47,2.23
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2011,2.83,3.87,3.23,4.04
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2011,1.95,1.97,2.25,2.97
+JK,Samba,Billawar,Billawar,32.62611111,75.35305556,Sallan,"Dug Well",W18579,2011,NA,5.79,NA,NA
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2011,NA,1.89,1.22,3.49
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2011,'0.78,1.42,1.3,2.58
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2011,1.92,6.65,2.31,3.45
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2011,22.54,22.12,17.78,23.48
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2011,NA,10.11,NA,10.57
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2011,7.1,7.27,6.91,NA
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2010,9.42,9.2,8.33,11.39
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2010,7.75,6.19,6.32,7.55
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2010,'0.6,4.17,'0.24,5
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2010,5.81,4.5,3.9,6
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2010,3.45,4.85,4.15,4.89
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2010,4.22,3.54,2.52,5
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2010,1.06,2.92,2.25,5.05
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2010,19.15,18.12,16,18.86
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2010,2.47,6.61,3.07,8.35
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2010,21.29,18.69,19.93,21.6
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2010,2.18,4.27,3.6,4.08
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2010,18.65,27.24,22.86,NA
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2010,'0.57,3.52,1.87,NA
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2010,5.75,6.74,5.27,7.27
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2010,8.68,8.99,7.07,11.66
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2010,NA,12.2,9.4,11.55
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2010,1.33,2.23,NA,2.81
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2010,2.9,4.38,3.36,5.38
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2010,NA,2.08,2.8,2.89
+JK,Samba,Billawar,Billawar,32.62611111,75.35305556,Sallan,"Dug Well",W18579,2010,2.9,NA,5.3,8
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2010,NA,3.82,1.38,NA
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2010,1.1,5.69,1.46,NA
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2010,4.27,4.41,2.96,5.3
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2010,22.15,21.96,21.94,23.51
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2010,8.67,10.13,10.07,10.8
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2010,7.45,8.91,7.23,8.29
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2009,11.49,7.04,8.4,10.1
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2009,6.62,5.97,5.7,6.91
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2009,3.29,NA,4.49,4.01
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2009,4.19,5.09,4.39,4.91
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2009,2.93,4.05,4.28,5.14
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2009,2.6,2.67,3.2,3.56
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2009,2.5,2.58,2.71,3.29
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2009,17.3,14.7,16.83,16.56
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2009,4.8,3.4,5.01,7.21
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2009,19.6,18.78,19.99,2.65
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2009,4.82,3.55,4.9,4.71
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2009,25.95,27.23,27.69,26.73
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2009,2.25,2.33,3.33,3.43
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2009,6.3,6.01,6.64,5.12
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2009,8.6,6.87,8.83,9.27
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2009,9.85,11.55,11.38,12.46
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2009,1.35,2.25,NA,2.61
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2009,3.9,2.13,4.68,NA
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2009,NA,2.35,2.75,3.04
+JK,Samba,Billawar,Billawar,32.62611111,75.35305556,Sallan,"Dug Well",W18579,2009,8.35,6,6.48,7.86
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2009,2.28,2.18,2.97,4.19
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2009,1.27,1.51,1.67,3.33
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2009,2.95,2.57,3.13,4.17
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2009,22,16.49,21.14,21.28
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2009,10.4,4.42,9.16,10.26
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2009,1.2,5.78,9.01,9.1
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2008,4.9,7.01,5.84,8.37
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2008,6.95,7,8.54,8.86
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2008,3.25,3.4,2.24,4.41
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2008,3.1,4.32,3.71,6.59
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2008,3.3,3.47,3.91,3.94
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2008,1.55,2.66,2.14,3.23
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2008,1.56,2.47,2.51,3.32
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2008,14.18,15.67,14.36,16.64
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2008,1.3,5.03,2.87,6.86
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2008,18.69,19.29,18.56,18.82
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2008,2.68,3.6,3.69,4.25
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2008,23.43,27.73,24.16,28.5
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2008,1.36,2.32,2.27,3.12
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2008,5.25,6.04,5.78,5.19
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2008,5.77,6.87,6.02,8.87
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2008,6.13,10.63,10.33,12.13
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2008,1.21,2.13,1.85,2.44
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2008,2.51,3.82,3.4,4.78
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2008,2.66,2.4,2.54,2.8
+JK,Samba,Billawar,Billawar,32.62611111,75.35305556,Sallan,"Dug Well",W18579,2008,3.9,6.01,5.22,6.48
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2008,-0.15,2.68,2.74,3.62
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2008,1.01,2.02,1.39,3.44
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2008,1.58,3.03,2.01,3.04
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2008,18.56,19.75,17.68,21.28
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2008,11.27,10.41,8.37,10.71
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2008,6.6,5.56,5.44,6.56
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2007,1.9,3.07,3.01,3.07
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2007,14.16,15,14.68,15.46
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2007,1.78,2.23,1.9,2.61
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2007,1.63,3.33,2.04,3.66
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2007,2.7,3.01,3.11,3.38
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2007,3.08,4.28,3.25,4.16
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2007,2.66,4.18,3.59,4.07
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2007,8.39,6.82,6.91,7.16
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2007,3.8,6.94,4.55,7.08
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2007,1.03,1.58,1.51,1.69
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2007,'0.1,1.93,1.84,2.39
+JK,Samba,Billawar,Billawar,32.62611111,75.35305556,Sallan,"Dug Well",W18579,2007,5.84,6,6.41,6.87
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2007,1.6,2.35,2.57,3.07
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2007,3.82,3.67,3.43,4.89
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2007,'0.41,2.03,1.51,2.12
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2007,6.24,11.33,8.64,11.98
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2007,6.72,7.33,6.63,8.79
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2007,5.35,5.97,5.61,6.38
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2007,1.13,2.34,2.1,1.97
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2007,21.51,25.32,24.25,27.33
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2007,2.61,3.66,3.29,4.28
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2007,18.83,19.35,18.61,20
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2007,5.2,5.52,5.07,6.08
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2007,8.42,8.89,12.09,NA
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2007,19.42,18.88,17.82,20.86
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2007,1.37,4.63,3.11,5.67
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2006,4.73,5.5,3.95,3.61
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2006,3.73,3.66,2.85,4.27
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2006,2.74,3.74,3.09,5
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2006,1.56,1.43,1.78,8
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2006,7.22,8.76,NA,8.99
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2006,9.43,10.78,9.9,12.23
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2006,1.52,3.18,2.77,6.23
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2006,8.14,7,6.83,9.19
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2006,5.41,7.45,5.78,9.38
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2006,5.47,6.21,5.66,6.55
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2006,2.03,3.12,2.86,3.85
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2006,1.32,2.23,2.18,3
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2006,'0.96,1.73,1.41,3.47
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2006,26.47,31.47,24.7,32
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2006,1.44,2.57,1.85,4.21
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2006,3.7,3.84,3.52,4.47
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2006,'0.44,2.23,1.31,4.4
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2006,19.84,19.57,19.19,20.12
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2006,4.4,5.3,4.18,5.64
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2006,5.76,5.1,5.18,6.49
+JK,Samba,Billawar,Billawar,32.62611111,75.35305556,Sallan,"Dug Well",W18579,2006,4.01,7.43,5.03,7.34
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2006,9.04,8.52,9.84,10.67
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2006,14.83,14.37,14.51,15.32
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2006,18.6,18.59,17.38,20.54
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2006,2.03,2.37,2.37,3.08
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2006,3.59,3.61,3.41,5.36
+JK,Samba,Samba,Hiranagar,32.51138889,75.11666667,Raiyan,"Dug Well",W20285,2005,18.92,NA,16.39,21.08
+JK,Samba,Hiranagar,Hiranagar,32.47194444,75.12583333,Sadoh,"Dug Well",W20286,2005,NA,NA,8.45,9.83
+JK,Samba,Samba,Samba,32.55,74.95833333,Ghobrahmna,"Dug Well",W19133,2005,5.43,7.12,1.5,7.82
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2005,19.45,17.97,19.08,19.43
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2005,3.36,4.02,3.71,3.99
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2005,27.59,27.43,31.01,27.23
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2005,1.92,2.17,2.1,2.73
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2005,5.44,6.53,5.78,6.22
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2005,7.07,8.31,6.93,8.76
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2005,8.36,11.86,10.71,11.79
+JK,Samba,Samba,Samba,32.47027778,74.95833333,Didyal,"Dug Well",W18759,2005,1.53,2.51,1.63,2.31
+JK,Samba,Samba,Samba,32.58583333,75.105,Daboh,"Dug Well",W18804,2005,2.95,3.48,3.33,4.38
+JK,Samba,Hiranagar,Hiranagar,32.47972222,75.16444444,Madun,"Dug Well",W18805,2005,2.04,2.04,2.58,2.59
+JK,Samba,Billawar,Billawar,32.62611111,75.35305556,Sallan,"Dug Well",W18579,2005,4.4,2.34,2.25,6.96
+JK,Samba,Ramnagar,Samba,32.69722222,75.16444444,Chhani-mansar,"Dug Well",W18580,2005,'0.53,2.33,1.58,2.63
+JK,Samba,Ramnagar,Ramnagar,32.71666667,75.175,Salabra,"Dug Well",W18581,2005,1.07,1.8,1.5,2.75
+JK,Samba,Samba,Samba,32.55527778,74.9175,Majua,"Dug Well",W18658,2005,NA,4.9,3.32,4.76
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2005,5.58,7.43,6.78,8.4
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2005,NA,6.55,8.58,9.15
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2005,5.22,4.92,4.38,4.8
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2005,4.5,3.55,4.3,6.41
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2005,2.18,2.72,2.99,3.2
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2005,3.07,3.5,3.45,3.81
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2005,1.75,2.7,2.32,2.24
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2005,18.92,13.21,13.77,13.12
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2005,1.51,4.53,2.08,5.25
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2003,NA,13.37,NA,12.37
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2003,NA,11.58,NA,12.45
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2003,NA,7.88,NA,8.11
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2003,NA,2.57,NA,5
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2003,NA,3.9,NA,NA
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2003,NA,5.3,NA,5.88
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2003,NA,17.19,NA,18.09
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2003,NA,2.97,NA,3.22
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2003,NA,16.2,NA,3.53
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2003,NA,12.9,NA,13.3
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2003,NA,25.23,NA,25.1
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2003,NA,4.7,NA,4.66
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2003,NA,7.98,NA,8.12
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2003,NA,4.41,NA,4.5
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2002,NA,1.52,NA,NA
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2002,23.23,24.88,25.07,27.53
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2002,7.92,NA,4.26,NA
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2002,17.79,15.6,17.29,17.04
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2002,3.14,3.38,3.17,5.62
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2002,11.55,12.3,12.32,13.22
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2002,3.28,2.65,2.98,5.32
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2002,3.5,2.36,3.51,NA
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2002,2.4,2.56,2.67,3.25
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2002,4.56,2.38,4.08,6.1
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2002,4.62,3.9,4.6,NA
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2002,7.87,NA,7.83,NA
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2002,8.32,7.1,6.75,9.1
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2002,10.15,9.6,10.25,12.24
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2002,11.61,9.69,12.19,12.45
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2001,2.89,NA,2.61,4.77
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2001,9.7,10.22,11.61,13.17
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2001,3,3.65,2.31,3.92
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2001,3.91,9.4,4.92,12.47
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2001,'0.87,3.49,1.91,5.53
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2001,4.89,5.72,NA,6.17
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2001,1.09,2.45,1.42,3.1
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2001,3.8,7.78,7.7,9.1
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2001,5.47,NA,7.49,4.72
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2001,20.89,25.03,23.95,27.63
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2001,14.79,14.5,15.32,16.59
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2001,1.21,1.74,1.87,2.96
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2001,2.21,3.4,2.72,4.9
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2001,'0.3,1.88,NA,2.87
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2001,1.38,2.59,1.76,NA
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2001,9.99,12.32,11.81,15.4
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,2000,11.57,10.12,9.74,13.96
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,2000,5.9,5.7,7.97,11.7
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,2000,3.88,8.05,7.87,8.58
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,2000,3.26,3.91,3.31,4.45
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,2000,5.27,5.92,5.37,6.38
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,2000,NA,4.89,NA,NA
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,2000,1.8,2.45,3,4.05
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,2000,'0.86,3.48,3.1,4.45
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,2000,1.65,2.55,NA,3.05
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,2000,23.43,26.33,24.13,27.78
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,2000,14.93,14.09,NA,15.53
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,2000,2.05,2.45,3.6,3.11
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,2000,'0.16,1.54,2.1,2.22
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,2000,'0.85,1.02,1.78,2.81
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,2000,3.18,3.4,3.96,3.76
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,2000,11.48,11.94,11.75,11.87
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,1999,1.86,1.87,1.87,2.42
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,1999,3.11,3.25,3.55,4.2
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,1999,14.58,13.24,13.59,14.89
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,1999,1.12,3.08,2.18,5.03
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,1999,10.07,11.05,11,12.2
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,1999,2.17,2.5,2.65,5.45
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,1999,1.72,2.05,2.1,3.2
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,1999,1.92,1.8,2.17,2.74
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,1999,1.22,'0.95,1,2.25
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,1999,2.25,2.78,2.85,4.2
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,1999,5.43,5.39,5.23,5.52
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,1999,6.23,6.7,7.3,9.7
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,1999,6.88,5.9,7.1,8.75
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,1999,9.77,5.1,5.67,10.97
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,1999,4.97,6.12,5.57,5.99
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,1999,23.82,23.93,25.78,26.17
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,1998,21.36,23.53,23.01,24.23
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,1998,'0.87,1.62,1.54,2.32
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,1998,9.83,11.37,10.31,11.1
+JK,Samba,Samba,Samba,32.52222222,74.89166667,Chamlial,"Dug Well",W01711,1998,NA,2,NA,3.27
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,1998,12.51,12.79,12.09,14.44
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,1998,5.48,NA,4.8,4.93
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,1998,1.57,1.45,2.11,4.35
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,1998,4.36,5.91,6.6,7.5
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,1998,2.38,3,2.79,3.4
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,1998,3.86,5.7,4.98,5.9
+JK,Samba,Samba,Samba,32.51805556,74.88861111,Nandpur,"Dug Well",W01715,1998,1.38,2,1.67,2.47
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,1998,8.03,6.25,7.24,8.17
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,1998,'0.94,2.95,1.69,4.13
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,1998,4.6,4.99,4.25,5.17
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,1998,'0.98,2.55,1.74,2.55
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,1998,'0.49,1.34,'0.8,1.77
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,1997,'0.37,2.02,1.39,2.12
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,1997,4.72,5.32,4.29,6.02
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,1997,6.57,5.87,5.32,8.57
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,1997,3.1,7.55,NA,8.8
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,1997,3.8,4.83,6.53,7.61
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,1997,4.08,4.45,4.78,NA
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,1997,'0.56,'0.97,'0.97,2.25
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,1997,1.05,NA,2.02,2.63
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,1997,'0.55,2.55,1.8,NA
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,1997,10.45,10.8,9.4,11.9
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,1997,'0.78,2.58,1.92,4.53
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,1997,12.79,12.56,11.75,14.09
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,1997,2.4,3.55,2.58,4
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,1997,20.18,23.83,22.33,25.83
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,1996,3.97,6.72,5.67,8.34
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,1996,1.08,2.36,3.4,2.7
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,1996,'0.15,1.12,'0.77,2.05
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,1996,20.18,24.23,22.47,25.78
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,1996,'0.5,2.67,2,3.6
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,1996,2.53,4.67,4.82,6.3
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,1996,2.25,3.72,3.15,4.15
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,1996,'0.82,1.95,'0.82,2.64
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,1996,3.45,8.87,6.47,11.2
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,1996,1.03,2.88,1.53,4.53
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,1996,3.27,5.47,4.49,6.02
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,1996,2.68,1.3,5.85,9.02
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,1996,7,12.03,9.71,13.12
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,1996,10.79,13.16,11.3,14.84
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,1995,1.85,2.33,2.18,3
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,1995,'0.3,NA,'0.8,2.2
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,1995,3.63,NA,4.58,5.18
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,1995,5.12,6.97,6.16,6.4
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,1995,NA,9.32,7.48,12.55
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,1995,4.57,7.13,5.83,9.82
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,1995,3.8,5.66,4.57,6.42
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,1995,'0.88,1.28,1.47,2.47
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,1995,21.08,23.34,22.93,25.21
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,1995,2.45,3.21,3.35,4.35
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,1995,12.29,15.14,12.19,15.04
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,1995,1.03,2.93,1.66,2.68
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,1995,9.8,NA,11.4,13.85
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,1995,1.1,NA,2.1,4.9
+JK,Samba,Hiranagar,Hiranagar,32.51138889,75.24166667,Kootah,"Dug Well",W01736,1994,20.25,23.45,21.43,25.87
+JK,Samba,Ramnagar,Ramnagar,32.75555556,75.15,Manwall,"Dug Well",W01758,1994,4.65,6.89,6.21,NA
+JK,Samba,Samba,Samba,32.57083333,75.00555556,Swankha,"Dug Well",W01720,1994,13.81,14.71,14.1,15.69
+JK,Samba,Hiranagar,Hiranagar,32.45416667,75.19777778,"Lale Chak","Dug Well",W01737,1994,1.02,1.74,1.67,2.16
+JK,Samba,Hiranagar,Hiranagar,32.55972222,75.25416667,Nilcha,"Dug Well",W01741,1994,8.85,9.66,8.08,13.26
+JK,Samba,Hiranagar,Hiranagar,32.43333333,75.18333333,"Dulme Chak","Dug Well",W01729,1994,2.27,3.88,4.02,4.37
+JK,Samba,Samba,Samba,32.5875,74.975,Kainthpur,"Dug Well",W01714,1994,2.57,2.55,2.43,3.43
+JK,Samba,Samba,Samba,32.49444444,75.0625,Bengular,"Dug Well",W01710,1994,4.38,5.82,5.63,6.25
+JK,Samba,Hiranagar,Hiranagar,32.50416667,75.15416667,Naran,"Dug Well",W01740,1994,5.82,7.24,5.59,10.61
+JK,Samba,Samba,Samba,32.5575,75.11916667,Samba,"Dug Well",W01718,1994,10.57,13.08,11.84,14.9
+JK,Samba,Samba,Samba,32.55,75.00972222,Gudwal,"Dug Well",W01713,1994,'0.41,'0.22,'0.03,2.03
+JK,Samba,Hiranagar,Hiranagar,32.425,75.2125,Londi,"Dug Well",W01738,1994,4.3,6.22,5.6,6.65
+JK,Samba,Samba,Samba,32.6125,75.14777778,Nud,"Dug Well",W01716,1994,NA,2.63,2.09,4.53
+JK,Samba,Samba,Samba,32.55833333,75.06666667,Supwal,"Dug Well",W01719,1994,'0.81,3.71,2.48,3.83

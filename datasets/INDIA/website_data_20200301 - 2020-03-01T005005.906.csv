@@ -1,0 +1,384 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2018,36.55,35.03,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 2(m)","Tube Well",W32106,2018,43.63,NA,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2018,38.57,36.85,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.00055556,76.75361111,Dabkhera-Pz,"Tube Well",W22626,2018,36.55,36,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2018,41.49,46.09,NA,NA
+HR,Kurukshetra,Shahbad,Ladwa,29.95555556,77.05222222,Baronda-Pz,"Tube Well",W22625,2018,21.46,19.6,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2018,41.35,42.78,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 2(d)","Tube Well",W30061,2018,37.96,36.01,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98611111,76.79416667,"Jogna Khera-Pz","Tube Well",W30062,2018,35.49,33.5,NA,NA
+HR,Kurukshetra,Pehowa,Kurukshetra,30.03944444,76.75555556,Bachki-Pz,"Tube Well",W30072,2018,38.88,38.64,NA,NA
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2018,42.29,42.73,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2018,NA,44.54,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.125,76.86083333,"Khanpur Jattan M -Pz","Tube Well",W33014,2018,44.5,43.24,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.12694444,76.84083333,"Khanpur Jattan D-Pz.","Tube Well",W33016,2018,43.63,41.57,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira (m)","Tube Well",W32105,2018,27.67,41.78,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 1(m)","Tube Well",W16502,2018,NA,NA,NA,33.85
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur S","Tube Well",W30069,2018,NA,NA,NA,38.8
+HR,Kurukshetra,Kaithal,Pehowa,29.88888889,76.57277778,Jandaula-Pz,"Tube Well",W30041,2018,NA,18.7,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.125,76.86277778,"Khan Pur Jattan  S Pz.","Tube Well",W33015,2018,NA,44.02,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.00638889,76.62527778,Urnai-PZ,"Tube Well",W33527,2018,NA,37.48,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2018,38.89,34.04,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2017,NA,NA,35.22,33.63
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2017,NA,NA,40.25,NA
+HR,Kurukshetra,Pehowa,Kurukshetra,30.03944444,76.75555556,Bachki-Pz,"Tube Well",W30072,2017,NA,NA,37.3,34.36
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2017,NA,39.68,45.43,38.33
+HR,Kurukshetra,Shahbad,Kurukshetra,30.00055556,76.75361111,Dabkhera-Pz,"Tube Well",W22626,2017,39.45,35,36.3,35.65
+HR,Kurukshetra,Shahbad,Shahbad,30.235,76.82777778,Samalkhi-Pz,"Tube Well",W22627,2017,NA,NA,NA,48.28
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2017,NA,36.1,38.85,36.5
+HR,Kurukshetra,Shahbad,Ladwa,29.95555556,77.05222222,Baronda-Pz,"Tube Well",W22625,2017,NA,27.54,20.23,21.75
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 2(d)","Tube Well",W30061,2017,NA,38.25,38.05,35.66
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur S","Tube Well",W30069,2017,NA,39.12,NA,42.58
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2017,NA,NA,NA,35.42
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2017,NA,NA,NA,34.04
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (s)","Tube Well",W30078,2017,NA,NA,NA,36.09
+HR,Kurukshetra,Pehowa,Kurukshetra,29.98888889,76.75138889,Murtzapur-Pz,"Tube Well",W22621,2017,27.8,32.47,NA,NA
+HR,Kurukshetra,Shahbad,Pehowa,30.00027778,76.50194444,Sirsala-Pz,"Tube Well",W22623,2017,NA,37.68,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30,76.75138889,Malikpur-Singhpura-Pz,"Tube Well",W22622,2017,NA,41.3,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.06805556,76.48888889,Adhoya-Pz,"Tube Well",W30088,2017,NA,38.1,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.07777778,76.64305556,Naisi-Pz,"Tube Well",W30092,2017,NA,40.7,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98611111,76.79416667,"Jogna Khera-Pz","Tube Well",W30062,2017,NA,33.23,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.09583333,76.77083333,"Ajrana Kalan S","Tube Well",W30096,2017,NA,45.1,NA,NA
+HR,Kurukshetra,Shahbad,Ladwa,30.00166667,77.00027778,"Ram Sharan Majra-Pz","Tube Well",W30067,2017,NA,38.92,NA,NA
+HR,Kurukshetra,Shahbad,Ladwa,30.08527778,77.06777778,Chhapra-Pz,"Tube Well",W30094,2017,NA,36.47,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.11666667,76.66944444,Ismilabad-St-Pz,"Tube Well",W30102,2017,NA,41.1,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.11666667,76.7425,Jansa-Pz,"Tube Well",W30103,2017,NA,43.2,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.16166667,76.76666667,Tangore-Pz,"Tube Well",W30118,2017,NA,42.82,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.18222222,76.72916667,Lukhi-Pz,"Tube Well",W30123,2017,NA,33.64,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.125,76.86083333,"Khanpur Jattan M -Pz","Tube Well",W33014,2017,NA,NA,44.4,46.7
+HR,Kurukshetra,Shahbad,Shahbad,30.125,76.86277778,"Khan Pur Jattan  S Pz.","Tube Well",W33015,2017,NA,NA,44.85,43.5
+HR,Kurukshetra,Shahbad,Shahbad,30.12694444,76.84083333,"Khanpur Jattan D-Pz.","Tube Well",W33016,2017,NA,NA,43,41.33
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira (m)","Tube Well",W32105,2017,NA,NA,26.88,24.7
+HR,Kurukshetra,Pehowa,Pehowa,30.00638889,76.62527778,Urnai-PZ,"Tube Well",W33527,2017,NA,39.09,39.35,NA
+HR,Kurukshetra,Kaithal,Pehowa,29.88888889,76.57277778,Jandaula-Pz,"Tube Well",W30041,2017,NA,26.1,NA,33.5
+HR,Kurukshetra,Shahbad,Shahbad,30.24166667,76.85277778,Mohri-Pz,"Tube Well",W30145,2017,NA,33.4,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.24166667,76.85277778,Mohri-Dw,"Dug Well",W30146,2017,NA,8.6,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 2(m)","Tube Well",W32106,2017,NA,42,NA,NA
+HR,Kurukshetra,Shahbad,Ladwa,30.01888889,76.9875,Lohara-Pz,"Tube Well",W32107,2017,NA,41.55,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.10833333,76.93888889,Kharindwa,"Dug Well",W32113,2017,NA,41.5,NA,NA
+HR,Kurukshetra,Shahbad,Pehowa,30.07611111,76.72166667,Busthala-PZ,"Tube Well",W33532,2017,NA,40.8,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2017,NA,NA,42.31,37.41
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2016,NA,NA,35.92,35.82
+HR,Kurukshetra,Shahbad,Pehowa,30.07611111,76.72166667,Busthala-PZ,"Tube Well",W33532,2016,NA,NA,39.63,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2016,NA,NA,39.38,38.14
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2016,NA,NA,NA,36.69
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2016,NA,NA,42.79,37.04
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2016,NA,NA,45.24,44.32
+HR,Kurukshetra,Pehowa,Kurukshetra,29.98888889,76.75138889,Murtzapur-Pz,"Tube Well",W22621,2016,30.6,NA,31.45,27.53
+HR,Kurukshetra,Shahbad,Kurukshetra,30,76.75138889,Malikpur-Singhpura-Pz,"Tube Well",W22622,2016,NA,NA,38.3,34.1
+HR,Kurukshetra,Shahbad,Pehowa,30.00027778,76.50194444,Sirsala-Pz,"Tube Well",W22623,2016,NA,NA,37,36.76
+HR,Kurukshetra,Shahbad,Ladwa,29.95555556,77.05222222,Baronda-Pz,"Tube Well",W22625,2016,25.3,NA,20.55,20.65
+HR,Kurukshetra,Shahbad,Kurukshetra,30.00055556,76.75361111,Dabkhera-Pz,"Tube Well",W22626,2016,38.1,NA,35.9,33.3
+HR,Kurukshetra,Shahbad,Shahbad,30.235,76.82777778,Samalkhi-Pz,"Tube Well",W22627,2016,NA,NA,47.22,46.3
+HR,Kurukshetra,Kaithal,Pehowa,29.88888889,76.57277778,Jandaula-Pz,"Tube Well",W30041,2016,NA,NA,38.3,27.3
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 2(d)","Tube Well",W30061,2016,NA,NA,37.11,34.16
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98611111,76.79416667,"Jogna Khera-Pz","Tube Well",W30062,2016,NA,NA,34.42,29.7
+HR,Kurukshetra,Shahbad,Ladwa,30.00166667,77.00027778,"Ram Sharan Majra-Pz","Tube Well",W30067,2016,NA,NA,34.46,33
+HR,Kurukshetra,Pehowa,Kurukshetra,30.03944444,76.75555556,Bachki-Pz,"Tube Well",W30072,2016,37,32.3,29.17,32.38
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (s)","Tube Well",W30078,2016,NA,NA,36.27,35.48
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira (m)","Tube Well",W32105,2016,NA,NA,NA,24.61
+HR,Kurukshetra,Shahbad,Shahbad,30.125,76.86083333,"Khanpur Jattan M -Pz","Tube Well",W33014,2016,NA,NA,43.42,41.78
+HR,Kurukshetra,Shahbad,Shahbad,30.125,76.86277778,"Khan Pur Jattan  S Pz.","Tube Well",W33015,2016,NA,NA,44.18,40.55
+HR,Kurukshetra,Shahbad,Shahbad,30.12694444,76.84083333,"Khanpur Jattan D-Pz.","Tube Well",W33016,2016,NA,NA,42,38.88
+HR,Kurukshetra,Pehowa,Pehowa,30.00638889,76.62527778,Urnai-PZ,"Tube Well",W33527,2016,NA,NA,39.1,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2016,NA,NA,33.98,32.22
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2015,NA,NA,NA,31.25
+HR,Kurukshetra,Shahbad,Shahbad,30.17916667,76.78055556,Nalvi,"Dug Well",W32118,2015,NA,NA,43.85,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2015,NA,NA,32.59,29.87
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2015,NA,NA,38.11,32.66
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2015,NA,NA,39.26,35.94
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2015,NA,NA,38.15,36.33
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2015,NA,NA,43.08,42.26
+HR,Kurukshetra,Pehowa,Kurukshetra,29.98888889,76.75138889,Murtzapur-Pz,"Tube Well",W22621,2015,27.28,NA,37.99,27.28
+HR,Kurukshetra,Shahbad,Kurukshetra,30,76.75138889,Malikpur-Singhpura-Pz,"Tube Well",W22622,2015,38,NA,36.75,38
+HR,Kurukshetra,Shahbad,Pehowa,30.00027778,76.50194444,Sirsala-Pz,"Tube Well",W22623,2015,NA,NA,37.85,34.86
+HR,Kurukshetra,Shahbad,Ladwa,29.95555556,77.05222222,Baronda-Pz,"Tube Well",W22625,2015,21.5,18.8,19.08,19.9
+HR,Kurukshetra,Shahbad,Kurukshetra,30.00055556,76.75361111,Dabkhera-Pz,"Tube Well",W22626,2015,40.1,NA,35.18,40.1
+HR,Kurukshetra,Shahbad,Shahbad,30.235,76.82777778,Samalkhi-Pz,"Tube Well",W22627,2015,43.7,NA,NA,46.01
+HR,Kurukshetra,Kaithal,Pehowa,29.88888889,76.57277778,Jandaula-Pz,"Tube Well",W30041,2015,NA,NA,32.92,29.56
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 3 (s)","Tube Well",W30060,2015,NA,NA,NA,35.92
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 2(d)","Tube Well",W30061,2015,NA,NA,35.16,32.71
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98611111,76.79416667,"Jogna Khera-Pz","Tube Well",W30062,2015,NA,NA,31.21,29.6
+HR,Kurukshetra,Shahbad,Ladwa,30.00166667,77.00027778,"Ram Sharan Majra-Pz","Tube Well",W30067,2015,NA,NA,38.9,37.7
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur S","Tube Well",W30069,2015,NA,NA,38.58,34.76
+HR,Kurukshetra,Pehowa,Kurukshetra,30.03944444,76.75555556,Bachki-Pz,"Tube Well",W30072,2015,NA,NA,33.2,30.77
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (s)","Tube Well",W30078,2015,NA,NA,35.91,34.27
+HR,Kurukshetra,Pehowa,Pehowa,30.06805556,76.48888889,Adhoya-Pz,"Tube Well",W30088,2015,NA,NA,36.5,34.6
+HR,Kurukshetra,Pehowa,Pehowa,30.07777778,76.64305556,Naisi-Pz,"Tube Well",W30092,2015,NA,NA,40.15,38.25
+HR,Kurukshetra,Shahbad,Ladwa,30.08527778,77.06777778,Chhapra-Pz,"Tube Well",W30094,2015,NA,NA,35.1,34
+HR,Kurukshetra,Shahbad,Kurukshetra,30.09583333,76.77083333,"Ajrana Kalan S","Tube Well",W30096,2015,NA,NA,42.4,41.9
+HR,Kurukshetra,Shahbad,Shahbad,30.11666667,76.66944444,Ismilabad-St-Pz,"Tube Well",W30102,2015,NA,NA,40.2,38.1
+HR,Kurukshetra,Shahbad,Shahbad,30.11666667,76.7425,Jansa-Pz,"Tube Well",W30103,2015,NA,NA,NA,39.6
+HR,Kurukshetra,Shahbad,Shahbad,30.16166667,76.76666667,Tangore-Pz,"Tube Well",W30118,2015,NA,NA,41.05,39.75
+HR,Kurukshetra,Shahbad,Shahbad,30.18222222,76.72916667,Lukhi-Pz,"Tube Well",W30123,2015,NA,NA,34.6,33.2
+HR,Kurukshetra,Shahbad,Shahbad,30.24166667,76.85277778,Mohri-Pz,"Tube Well",W30145,2015,NA,NA,32.7,32
+HR,Kurukshetra,Shahbad,Shahbad,30.24166667,76.85277778,Mohri-Dw,"Dug Well",W30146,2015,NA,NA,6.85,6.47
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira (m)","Tube Well",W32105,2015,NA,NA,23.62,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 2(m)","Tube Well",W32106,2015,NA,NA,36.84,NA
+HR,Kurukshetra,Shahbad,Ladwa,30.01888889,76.9875,Lohara-Pz,"Tube Well",W32107,2015,NA,NA,39.3,38.6
+HR,Kurukshetra,Shahbad,Shahbad,30.10833333,76.93888889,Kharindwa,"Dug Well",W32113,2015,NA,NA,40.9,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2015,NA,NA,34.93,33.23
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2014,NA,NA,39.83,32.07
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira (m)","Tube Well",W32105,2014,NA,NA,NA,21.66
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2014,NA,NA,21.73,31.05
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2014,NA,NA,44.12,35.08
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2014,NA,NA,21.87,21.56
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2014,NA,NA,45.04,45.68
+HR,Kurukshetra,Pehowa,Kurukshetra,29.98888889,76.75138889,Murtzapur-Pz,"Tube Well",W22621,2014,25.8,24.54,26.58,24.5
+HR,Kurukshetra,Shahbad,Kurukshetra,30,76.75138889,Malikpur-Singhpura-Pz,"Tube Well",W22622,2014,37.7,31,31.38,31.05
+HR,Kurukshetra,Shahbad,Pehowa,30.00027778,76.50194444,Sirsala-Pz,"Tube Well",W22623,2014,42.29,NA,38.37,33.37
+HR,Kurukshetra,Shahbad,Ladwa,29.99222222,77.09083333,"Ban- Pz","Tube Well",W22624,2014,28.31,25.7,25.79,23.94
+HR,Kurukshetra,Shahbad,Ladwa,29.95555556,77.05222222,Baronda-Pz,"Tube Well",W22625,2014,23.8,18.55,19.83,19.87
+HR,Kurukshetra,Shahbad,Kurukshetra,30.00055556,76.75361111,Dabkhera-Pz,"Tube Well",W22626,2014,38.7,NA,35.71,33.45
+HR,Kurukshetra,Shahbad,Shahbad,30.235,76.82777778,Samalkhi-Pz,"Tube Well",W22627,2014,NA,43.5,41.58,41.98
+HR,Kurukshetra,Kaithal,Pehowa,29.88888889,76.57277778,Jandaula-Pz,"Tube Well",W30041,2014,NA,NA,30.85,29
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 3 (s)","Tube Well",W30060,2014,NA,NA,NA,31.29
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 2(d)","Tube Well",W30061,2014,NA,NA,35.12,32.29
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur S","Tube Well",W30069,2014,NA,NA,34.73,34.05
+HR,Kurukshetra,Pehowa,Kurukshetra,30.03944444,76.75555556,Bachki-Pz,"Tube Well",W30072,2014,33.3,29.4,32.99,28.9
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (s)","Tube Well",W30078,2014,NA,NA,31.78,32.38
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2014,NA,NA,26.39,26.51
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2013,NA,NA,33.03,31.25
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 2(m)","Tube Well",W32106,2013,NA,NA,33.64,33.99
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2013,NA,NA,35.61,30.78
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2013,NA,NA,32.5,29.53
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2013,NA,NA,37.43,35.93
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2013,NA,NA,22.36,21.15
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2013,NA,NA,35.87,34.98
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2013,NA,NA,30.535,29.35
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2013,NA,NA,41.33,41.74
+HR,Kurukshetra,Pehowa,Kurukshetra,29.98888889,76.75138889,Murtzapur-Pz,"Tube Well",W22621,2013,24.97,23.6,26,23.6
+HR,Kurukshetra,Shahbad,Kurukshetra,30,76.75138889,Malikpur-Singhpura-Pz,"Tube Well",W22622,2013,35.6,30.5,31.41,30.81
+HR,Kurukshetra,Shahbad,Pehowa,30.00027778,76.50194444,Sirsala-Pz,"Tube Well",W22623,2013,NA,NA,34.37,33.44
+HR,Kurukshetra,Shahbad,Ladwa,29.99222222,77.09083333,"Ban- Pz","Tube Well",W22624,2013,26.5,25,25.075,25.2
+HR,Kurukshetra,Shahbad,Ladwa,29.95555556,77.05222222,Baronda-Pz,"Tube Well",W22625,2013,21.4,NA,20.6,21.38
+HR,Kurukshetra,Shahbad,Kurukshetra,30.00055556,76.75361111,Dabkhera-Pz,"Tube Well",W22626,2013,34.4,33.62,34.35,34.88
+HR,Kurukshetra,Shahbad,Shahbad,30.235,76.82777778,Samalkhi-Pz,"Tube Well",W22627,2013,NA,NA,44.35,39.82
+HR,Kurukshetra,Kaithal,Pehowa,29.88888889,76.57277778,Jandaula-Pz,"Tube Well",W30041,2013,NA,NA,29.57,27.05
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 2(d)","Tube Well",W30061,2013,NA,NA,33.82,32.66
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur S","Tube Well",W30069,2013,NA,NA,40.43,38.94
+HR,Kurukshetra,Pehowa,Kurukshetra,30.03944444,76.75555556,Bachki-Pz,"Tube Well",W30072,2013,30.1,28.8,30.37,29.15
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (s)","Tube Well",W30078,2013,NA,NA,32.79,31.03
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira (m)","Tube Well",W32105,2013,NA,NA,22.46,21.15
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2013,NA,NA,27.55,26.42
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2012,NA,28.7,29.3,33.95
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 2(m)","Tube Well",W32106,2012,NA,NA,33.71,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2012,NA,29.34,31.34,30.68
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2012,NA,28.7,26.7,25.99
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2012,NA,35.17,35.17,34.34
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2012,NA,20.85,18.1,20.11
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2012,NA,31.03,33.09,31.33
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2012,NA,28.87,28.3,28
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2012,NA,38.56,40.06,39.37
+HR,Kurukshetra,Pehowa,Kurukshetra,29.98888889,76.75138889,Murtzapur-Pz,"Tube Well",W22621,2012,NA,NA,25.31,22.5
+HR,Kurukshetra,Shahbad,Kurukshetra,30,76.75138889,Malikpur-Singhpura-Pz,"Tube Well",W22622,2012,NA,NA,29.5,30.38
+HR,Kurukshetra,Shahbad,Pehowa,30.00027778,76.50194444,Sirsala-Pz,"Tube Well",W22623,2012,NA,NA,32.2,31.89
+HR,Kurukshetra,Shahbad,Ladwa,29.99222222,77.09083333,"Ban- Pz","Tube Well",W22624,2012,NA,NA,27.3,24.69
+HR,Kurukshetra,Shahbad,Ladwa,29.95555556,77.05222222,Baronda-Pz,"Tube Well",W22625,2012,NA,NA,24.5,20.42
+HR,Kurukshetra,Shahbad,Kurukshetra,30.00055556,76.75361111,Dabkhera-Pz,"Tube Well",W22626,2012,NA,NA,37.36,32.55
+HR,Kurukshetra,Shahbad,Shahbad,30.235,76.82777778,Samalkhi-Pz,"Tube Well",W22627,2012,NA,NA,43.7,33.02
+HR,Kurukshetra,Kaithal,Pehowa,29.88888889,76.57277778,Jandaula-Pz,"Tube Well",W30041,2012,NA,NA,16.5,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 3 (s)","Tube Well",W30060,2012,NA,NA,30.96,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 2(d)","Tube Well",W30061,2012,NA,NA,32.21,NA
+HR,Kurukshetra,Shahbad,Ladwa,30.00166667,77.00027778,"Ram Sharan Majra-Pz","Tube Well",W30067,2012,NA,NA,36,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur S","Tube Well",W30069,2012,NA,NA,32,NA
+HR,Kurukshetra,Pehowa,Kurukshetra,30.03944444,76.75555556,Bachki-Pz,"Tube Well",W30072,2012,NA,NA,29.3,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (s)","Tube Well",W30078,2012,NA,NA,29.2,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2012,NA,25.37,24.25,25.25
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2011,31.58,25.89,28.53,28.96
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2011,25.87,23.3,24.74,24.22
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2011,29.9,25.34,28.72,26.04
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2011,29.97,23.74,28.1,24.47
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2011,40.56,35.87,38.38,36.38
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2011,NA,18.96,21.8,20.08
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2011,30.81,29.74,31.26,30.95
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2011,30.71,26.36,28.33,26.48
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2011,33.2,32.37,34.41,32.37
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2010,30.4,25.94,28.58,28.87
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2010,25.17,23.04,24.29,23.87
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2010,28.06,26.05,27.2,25.96
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2010,28.3,25.74,NA,23.6
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2010,40.36,34.88,38.11,38.56
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2010,NA,18.87,NA,19.2
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2010,33.59,29.96,31.25,30.39
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.82694444,Samaspur,"Tube Well",W16503,2010,16.9,NA,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2010,29.2,26.39,27.46,37.2
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2010,34.65,33.1,34.06,32.93
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2009,NA,NA,NA,23.02
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2009,30,23.77,27.13,24.75
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2009,29.27,21.32,23.52,21.44
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2009,28.37,24.91,26.5,26.86
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2009,44.02,21.98,24.79,22.4
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2009,47.86,NA,36.82,35.96
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.79361111,"Brham Sarovar","Tube Well",W16496,2009,NA,23.64,NA,25.39
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2009,20.47,18.4,19.9,18.25
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2009,39.24,28.84,30.93,30.27
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.82694444,Samaspur,"Tube Well",W16503,2009,NA,NA,NA,17.1
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2009,NA,NA,27.09,25.7
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2009,NA,37.3,33.7,32.03
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2008,NA,24.32,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2008,29.28,NA,NA,22.05
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2008,24.33,21.68,21.9,20.5
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2008,27.76,23.52,28.92,25.65
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2008,23.85,NA,24.65,20.8
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2008,18.8,NA,NA,34.24
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.79361111,"Brham Sarovar","Tube Well",W16496,2008,23.85,24.49,25.01,25.39
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2008,33.79,28.6,33.77,28.14
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.82694444,Samaspur,"Tube Well",W16503,2008,NA,19.11,NA,21.45
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2008,27.74,26.05,26.45,26.35
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2008,33.29,31.76,33.36,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2007,27,22.78,28.39,23.27
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2007,NA,21.72,24.62,21.2
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2007,22.97,18.94,21.47,19.87
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2007,26.43,22.8,24.96,25.26
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2007,23.88,NA,NA,22.6
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2007,36.14,31.87,34.27,34.66
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.79361111,"Brham Sarovar","Tube Well",W16496,2007,21.99,21.49,22.51,22.39
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2007,16.69,16.74,NA,15.8
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2007,30.74,27.01,29.09,26.99
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2007,26.2,28.57,25.61,29.4
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2007,NA,30.49,32.94,31.13
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2006,23.05,20.5,22.96,20
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2006,NA,NA,21.59,20.4
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2006,21.75,17.31,20.37,18.43
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2006,24.46,NA,22.65,21.02
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2006,22.91,19.34,22.37,19.63
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2006,31.2,27.1,31.36,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.79361111,"Brham Sarovar","Tube Well",W16496,2006,21.59,19.87,21.53,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2006,17.68,15.27,17.1,15.7
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2006,28.7,NA,27.33,25.46
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2006,NA,NA,24,22.5
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2006,33.22,28.35,31.69,30.16
+HR,Kurukshetra,Shahbad,Kurukshetra,30.03472222,76.90416667,Kaulapur(deep),"Tube Well",W20709,2006,NA,24.83,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2005,27.34,23.91,25.64,24.05
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2005,21.9,19.56,21.28,19.29
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2005,30.03,26.99,29.46,27.99
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2005,24.72,17.94,19.05,19.41
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2005,29.71,25.97,28.39,27.53
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2005,17.09,13.85,NA,14.13
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2005,21.34,20.55,21.44,20.15
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2005,NA,18.52,20.06,18.75
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2005,20.46,17.23,18.18,18.01
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2005,24.31,NA,23.03,21.73
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.79361111,"Brham Sarovar","Tube Well",W16496,2005,20.51,18.38,19.98,18.87
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2004,21.34,15.57,20.77,19.02
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2004,23.7,19.93,21.2,21.25
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2004,29.51,25.31,27.06,27.22
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2004,29.21,24.55,26.66,24.83
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.79361111,"Brham Sarovar","Tube Well",W16496,2004,18.99,16.39,18.44,17.69
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2004,21.1,NA,19.3,18.77
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2004,NA,NA,14.31,13.1
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2004,21.86,19.91,22.23,22.21
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.82694444,Samaspur,"Tube Well",W16503,2004,NA,NA,NA,11.7
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2004,19.67,15.22,17.87,17.7
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2004,28.86,23.14,24.49,23.44
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2004,21.53,NA,18.07,19.9
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2003,NA,11.2,NA,12.18
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2003,25.99,25.31,23,22.66
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2003,NA,16.7,18.5,17.66
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2003,21.38,17.36,20.81,21.19
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2003,27.88,22.71,25.56,25.78
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2003,19.88,17.42,19.42,19.6
+HR,Kurukshetra,Shahbad,Shahbad,30.175,76.75833333,"Basantpur S","Tube Well",W16510,2003,NA,22.39,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.82694444,Samaspur,"Tube Well",W16503,2003,10.79,9.65,10.81,10.3
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.79361111,"Brham Sarovar","Tube Well",W16496,2003,19.42,15.39,17.38,16.52
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2003,18.98,16.76,19.77,18.02
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2003,26.53,23.52,24.94,24
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2003,NA,15.1,17.6,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2003,NA,13.72,16.29,16.11
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.79361111,"Brham Sarovar","Tube Well",W16496,2002,15.69,NA,15.44,13.96
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2002,24.28,21.4,22.66,21.95
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2002,19.3,14.97,18.3,14.75
+HR,Kurukshetra,Pehowa,Pehowa,29.90833333,76.50833333,Thana,"Dug Well",W16490,2002,NA,10.06,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2002,19.99,15.51,18.75,16.76
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2002,NA,NA,14.87,13.49
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2002,21.48,13.95,16.46,14.98
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2002,20.05,NA,18.32,15.4
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2002,25.31,20.36,24.29,23.06
+HR,Kurukshetra,Shahbad,Shahbad,30.175,76.75833333,"Basantpur S","Tube Well",W16510,2002,23.09,23.07,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2002,22.08,15.63,19.3,16.46
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95833333,76.82694444,Samaspur,"Tube Well",W16503,2002,10.08,NA,9.56,10.04
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2002,19.57,20.83,22.86,20.73
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2002,NA,9.87,11.57,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2001,22.1,19.46,22.02,19.9
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2001,NA,NA,17.25,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2001,17.75,13.93,16.28,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2001,16.42,10.75,13.94,13.75
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2001,19.76,12.03,15.06,13.85
+HR,Kurukshetra,Shahbad,Shahbad,30.175,76.75833333,"Basantpur S","Tube Well",W16510,2001,23.6,21.76,24.06,19.5
+HR,Kurukshetra,Shahbad,Kurukshetra,29.95,76.7625,"Hatira  (s)","Tube Well",W16497,2001,NA,NA,11,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2001,23.46,18.98,21.93,21.16
+HR,Kurukshetra,Pehowa,Pehowa,29.90833333,76.50833333,Thana,"Dug Well",W16490,2001,9.51,10.2,10.22,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2001,NA,12.05,15.24,13.9
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2001,23.5,18.55,23.04,20.6
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.7,Chammukalan,"Dug Well",W16511,2001,NA,10.92,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2001,NA,12.61,16.45,12.9
+HR,Kurukshetra,Shahbad,Shahbad,30.175,76.75833333,"Basantpur S","Tube Well",W16510,2000,22.4,21.49,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.7,Chammukalan,"Dug Well",W16511,2000,10.9,10.25,10.97,10.4
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,2000,21.81,17.47,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,2000,16.86,11.75,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,2000,18.18,12.83,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,2000,15.26,9.31,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,2000,19.35,12.56,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.90833333,76.50833333,Thana,"Dug Well",W16490,2000,8.91,9.96,9.98,10.09
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,2000,NA,11.08,NA,NA
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,2000,21.12,18.31,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,2000,20.32,19.22,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,2000,NA,14.1,NA,NA
+HR,Kurukshetra,Shahbad,Ladwa,29.99583333,77.07916667,"Ladwa 1(m)","Tube Well",W16508,2000,NA,15.54,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,1999,14.33,NA,12.05,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,1999,19.2,16.5,18.66,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.90833333,76.50833333,Thana,"Dug Well",W16490,1999,9.14,6.64,9.7,7.96
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,1999,20.8,16.33,18.89,NA
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,1999,18.3,15.85,18.55,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.175,76.75833333,"Basantpur S","Tube Well",W16510,1999,NA,19.59,21.76,NA
+HR,Kurukshetra,Shahbad,Ladwa,29.99583333,77.07916667,"Ladwa 1(m)","Tube Well",W16508,1999,16.7,NA,16.44,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.7,Chammukalan,"Dug Well",W16511,1999,9.85,9.7,10.16,9.42
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,1999,16.3,8.02,10.44,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.9875,76.78333333,"Thanesar M","Tube Well",W16506,1999,13.6,13.5,15.5,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,1999,11.18,12.15,18.98,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 1(m)","Tube Well",W16502,1999,NA,18.56,NA,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,1999,12.17,9.6,12.59,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,1999,14.9,11.7,13.93,NA
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,1999,17.4,10.47,12.03,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.92,76.50138889,"Thana (m)","Tube Well",W16491,1998,12.92,9.87,NA,11.47
+HR,Kurukshetra,Pehowa,Pehowa,29.90833333,76.50833333,Thana,"Dug Well",W16490,1998,8.9,8.52,NA,8.99
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,1998,13.15,11.88,10.3,13.49
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,1998,11.48,9.47,6.9,11.59
+HR,Kurukshetra,Pehowa,Pehowa,30.05416667,76.55833333,"Bodhni (m)","Tube Well",W16483,1998,12.99,11.26,9.67,14.81
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,1998,13.3,10.83,9.55,12.45
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,1998,19.19,18.97,17.23,19.64
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.7,Chammukalan,"Dug Well",W16511,1998,NA,10.54,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.175,76.75833333,"Basantpur S","Tube Well",W16510,1998,22.12,21.2,20.49,20.93
+HR,Kurukshetra,Shahbad,Ladwa,29.99583333,77.07916667,"Ladwa 1(m)","Tube Well",W16508,1998,NA,15.52,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.9875,76.78333333,"Thanesar M","Tube Well",W16506,1998,NA,16.24,12.06,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,1998,14.38,NA,11.59,15.84
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 1(m)","Tube Well",W16502,1998,NA,19.06,17.45,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,1998,NA,18.75,NA,NA
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,1998,NA,18.74,16.32,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 1(m)","Tube Well",W16502,1997,23.67,19.02,18.82,20.08
+HR,Kurukshetra,Pehowa,Pehowa,29.92083333,76.60833333,Bateri,"Tube Well",W16482,1997,NA,NA,10.45,NA
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,1997,21.35,18.41,19.75,NA
+HR,Kurukshetra,Pehowa,Pehowa,29.90833333,76.50833333,Thana,"Dug Well",W16490,1997,'0.65,9.33,8.27,9.87
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,1997,20.47,16.18,20.28,19.57
+HR,Kurukshetra,Shahbad,Shahbad,30.175,76.75833333,"Basantpur S","Tube Well",W16510,1997,NA,18.2,NA,20.73
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,1997,NA,10.68,9.19,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,1997,22.11,18.21,19.81,20.53
+HR,Kurukshetra,Shahbad,Kurukshetra,29.9875,76.78333333,"Thanesar M","Tube Well",W16506,1997,NA,16.56,NA,17.69
+HR,Kurukshetra,Shahbad,Shahbad,30.09722222,76.875,"Sharifgarh S","Tube Well",W16515,1997,23.78,20.28,NA,21.78
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,1997,15.09,14.07,12.23,15.08
+HR,Kurukshetra,Shahbad,Kurukshetra,30.025,76.89583333,"Kaulapur D","Tube Well",W16499,1996,NA,18.11,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.175,76.75833333,"Basantpur S","Tube Well",W16510,1996,NA,20.11,20.55,20.04
+HR,Kurukshetra,Shahbad,Kurukshetra,30.09583333,76.77083333,"Ajrana Kalan M","Tube Well",W16494,1996,NA,17.99,NA,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.09722222,76.875,"Sharifgarh S","Tube Well",W16515,1996,NA,20.27,20.62,19.44
+HR,Kurukshetra,Pehowa,Pehowa,30.01666667,76.49166667,"Ishaque S","Tube Well",W16485,1996,NA,14.77,10.98,13.48
+HR,Kurukshetra,Pehowa,Pehowa,30.04583333,76.63333333,"Malikpur S","Tube Well",W16486,1996,NA,15.11,NA,17.42
+HR,Kurukshetra,Shahbad,Babain,30.12916667,76.98333333,"Berthala S","Tube Well",W16493,1996,NA,18.34,18.88,NA
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.7,Chammukalan,"Dug Well",W16511,1996,NA,NA,10.55,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.9875,76.78333333,"Thanesar M","Tube Well",W16506,1996,15.6,16.12,16.98,16.35
+HR,Kurukshetra,Pehowa,Pehowa,29.98333333,76.58055556,"Pehowa 1(m)","Tube Well",W16487,1996,NA,12.1,14.43,12.31
+HR,Kurukshetra,Pehowa,Pehowa,29.90833333,76.50833333,Thana,"Dug Well",W16490,1996,6.8,8.79,8.99,9
+HR,Kurukshetra,Shahbad,Kurukshetra,30.02916667,76.725,"Santokhpur D","Tube Well",W16504,1996,NA,15.15,NA,NA
+HR,Kurukshetra,Shahbad,Kurukshetra,29.98333333,76.96666667,"Mathana 1(m)","Tube Well",W16502,1996,20.88,19.95,20.95,19.8
+HR,Kurukshetra,Shahbad,Shahbad,30.16666667,76.86666667,"Shahbad 1(d)","Tube Well",W16512,1996,NA,18.26,19.13,NA

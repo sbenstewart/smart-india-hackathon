@@ -1,0 +1,380 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2018,NA,6.99,6.09,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2018,NA,6.59,6.2,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2018,NA,2.14,1.81,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2018,NA,4.38,3.55,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2018,NA,1.79,1.6,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2018,NA,3.24,2.83,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,"Gohpur N","Dug Well",W29689,2018,NA,1.64,NA,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2018,NA,3.53,3,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2018,2.13,6.86,NA,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2018,NA,NA,7.4,7.45
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2018,NA,NA,1.47,2.19
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2018,NA,NA,1.62,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2018,NA,2.27,2.02,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2017,NA,3.3,2.61,3.43
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2017,5.9,NA,7.1,7.44
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2017,2.57,NA,3.48,4.96
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2017,1.29,2.72,NA,2.91
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2017,NA,2.51,NA,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2017,5.32,7.15,6.01,7.92
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,"Gohpur N","Dug Well",W29689,2017,'0.36,1.95,'0.8,2.06
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2017,3.26,6.9,5.49,6.75
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2017,1.66,3.2,1.97,3.38
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2017,'0.56,2.22,'0.76,2.04
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2017,1.15,1.92,1.55,2.05
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2017,'0.63,2.97,'0.85,3.02
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2017,2.3,3.91,2.68,4.34
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2017,2.89,7,5.09,9.54
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2016,3.79,NA,5.32,8.29
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2016,1.18,NA,1.38,2.78
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2016,1.3,NA,1.63,1.85
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2016,2.42,NA,2.86,3.3
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2016,NA,NA,1.54,2.8
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2016,'0.71,NA,'0.94,2.53
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,"Gohpur N","Dug Well",W29689,2016,NA,1.44,'0.94,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2016,1.19,NA,5.25,6.71
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2016,2.03,NA,2.45,2.78
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2016,NA,NA,3.16,3.95
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2016,'0.88,NA,NA,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2016,2.84,NA,3.74,4.81
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2016,NA,NA,5.51,8.1
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2016,1.55,NA,1.98,3.5
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2015,2.98,7.63,5.65,8.9
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2015,'0.82,2.6,1.8,2.76
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2015,'0.82,2.1,1.59,2.36
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2015,1.82,3.38,2.74,3.61
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2015,'0.27,3.84,1.2,6.62
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2015,'0.26,2.26,1.09,2.53
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,"Gohpur N","Dug Well",W29689,2015,'0.56,1.81,'0.96,2.33
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2015,1.95,5.67,5.09,6.98
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2015,1.09,2.72,1.55,1.09
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2015,1.95,3.67,2.82,4.06
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2015,'0.67,3.09,1.14,3.62
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2015,2.85,4.65,3.57,5.17
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2015,5.63,6.9,NA,7.29
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2015,1.61,3.45,2.07,3.77
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2014,NA,7.54,NA,9.02
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,"Gohpur N","Dug Well",W29689,2014,NA,1.64,1.17,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2014,NA,2.53,NA,2.89
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2014,NA,1.85,NA,2.05
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2014,NA,3.53,NA,3.5
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2014,NA,2.76,NA,6.33
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2014,NA,2.09,NA,2.49
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2014,NA,5.97,NA,3.79
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2014,NA,NA,NA,6.96
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2014,NA,2.82,NA,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2014,NA,3.66,NA,4.12
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2014,NA,NA,NA,2.23
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2014,NA,2.9,NA,3.45
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2014,NA,4.54,NA,5.23
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2014,NA,7.72,NA,8.45
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2014,NA,2.1,NA,-0.8
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,2013,NA,7.4,NA,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2013,4.65,1.62,1.69,8.85
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2013,1.72,8.02,7.17,2.55
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2013,1.31,2.48,NA,2.86
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2013,1.05,1.76,1.6,2.24
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2013,1.87,3.37,2.7,3.53
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2013,'0.42,2.6,1.59,6.34
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2013,'0.64,1.91,1.2,2.26
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2013,2.61,3.27,2.98,4
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2013,NA,NA,NA,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2013,6.96,5.77,5.7,6.96
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2013,NA,NA,NA,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2013,1.58,2.48,NA,2.95
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2013,2.48,3.45,3.25,3.99
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.85,92.56,Dihaljali,"Dug Well",W12459,2013,3.59,NA,NA,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2013,1.12,2.88,1.99,3.49
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2013,3.85,4.63,3.74,5.12
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2013,6.86,7.4,6.99,8.25
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,"Gohpur N","Dug Well",W29689,2013,NA,NA,'0.87,1.61
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2012,NA,5.08,3.44,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2012,NA,2.43,1.66,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2012,NA,3.24,NA,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2012,NA,4.28,NA,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2012,NA,2.16,'0.77,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2012,NA,3.69,1.7,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2012,NA,3.59,2.72,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2012,NA,6.67,1.18,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2012,NA,2.21,'0.97,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2012,NA,3.76,2.47,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2012,NA,3.17,NA,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2012,NA,6.79,4.87,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2012,NA,9.21,5.32,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2012,NA,2.86,1.87,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2012,NA,2.79,1.51,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2012,NA,8.53,5.68,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2011,3.02,5.05,3.8,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2011,1.19,1.97,1.89,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2011,1.74,2.95,2.27,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2011,2.15,4.05,3.11,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2011,NA,'0.4,NA,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2011,1.04,3.59,2.23,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2011,1.91,3.4,3.06,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2011,'0.54,7.48,2.13,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2011,'0.49,2.39,1.34,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2011,2,3.83,3.05,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2011,1.4,3.36,2.72,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2011,3.21,6.87,4.99,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2011,3.48,8.7,6.19,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2011,1.49,2.38,1.93,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2011,1.06,2.66,1.93,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2011,6.12,8.54,6.76,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2010,2.83,5.36,3.84,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2010,'0.62,1.67,1.55,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2010,5.95,8.84,6.65,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2010,'0.68,2.88,NA,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2010,1.79,3.91,2.75,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2010,NA,2.03,NA,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2010,'0.83,3.54,2.14,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2010,1.6,3.45,2.68,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2010,'0.54,2.91,1.54,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2010,1.89,3.89,3.06,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2010,1.34,3.46,NA,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2010,3.3,6.87,6.14,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2010,3.32,8.73,1.4,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2010,1.56,2.75,7.31,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2010,'0.92,2.76,1.82,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2010,'0.43,2.3,1.46,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2009,3.27,5.35,3.77,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2009,'0.85,2.29,1.55,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2009,7.23,8.99,6.87,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2009,NA,2.66,NA,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2009,2.08,4.07,'0.72,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2009,'0.43,2.48,'0.21,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2009,'0.74,3.95,2.05,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2009,1.51,3.54,2.91,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2009,'0.37,7.27,1.26,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2009,2.91,4.5,3.16,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2009,1.13,4.2,2.43,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2009,2.54,6.49,5.5,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2009,4.16,9.29,6.57,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2009,1.32,2.87,1.97,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2009,'0.86,2.87,1.51,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2009,1.02,2.49,1.2,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2008,2.73,5.11,3.87,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2008,'0.3,1.56,1.18,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2008,5.16,8.83,6.58,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2008,NA,2.64,1.18,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2008,1.93,3.84,2.86,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2008,NA,1.78,'0.61,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2008,'0.61,3.58,1.23,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2008,1.36,3.56,2.96,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2008,'0.35,6.78,1.66,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2008,1.77,3.76,3.06,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2008,1.19,3.98,2.53,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2008,2.19,6.86,6.18,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2008,2.64,8.49,NA,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2008,1.21,3.07,2.18,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2008,'0.89,2.84,1.9,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2008,NA,2.64,'0.42,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2007,2.5,4.57,3.64,4.33
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2007,'0.41,2.06,1.46,1.02
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2007,6.24,8.52,6.25,9.36
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2007,NA,3.84,2.21,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2007,1.56,NA,1.6,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2007,1.91,3.8,2.54,3.13
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.85,92.56,Dihaljali,"Dug Well",W12459,2007,NA,NA,NA,1.39
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2007,'0.57,'0.34,'0.1,1.04
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2007,1.06,3.05,2.17,2.68
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2007,'0.34,6.65,1.77,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2007,1.83,3.96,2.63,3.61
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2007,1.33,3.22,2.21,2.55
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2007,2.49,6.73,5.48,5.51
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2007,NA,8.04,NA,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2007,1.23,2.45,1.98,1.8
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2007,'0.84,2.75,1.95,2.37
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2007,'0.3,1.38,1.11,1.15
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2007,1.4,1.33,2.71,2.76
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2006,2.92,4.64,3.86,5.13
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2006,2.64,3.33,2.78,3.51
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2006,7.15,8.37,7.78,8.91
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2006,2.66,NA,5.82,5.01
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2006,2.76,1.99,NA,2.75
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2006,2.82,3.27,2.04,4.12
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2006,-0.06,1.08,'0.24,1.24
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2006,1.63,2.81,2.28,1.78
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2006,2.2,2.11,4.25,2.6
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2006,2.89,3.66,3.9,2.11
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2006,2.39,2.83,3.89,3.28
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2006,5.72,6.28,6.08,5.32
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2006,5.86,7.66,6.69,8.09
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2006,2.01,1.71,2.26,2.29
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2006,1.82,2.54,2.46,2.42
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2006,1.47,1.46,1.23,1.42
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2006,1.52,1.51,1.57,1.74
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2005,3.15,4.33,3.63,5
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2005,1.62,3.38,2.56,3.67
+AS,Sonitpur,Biswanath,Dhekiajuli,26.74722222,93.25,Bihupukhuri-2,"Dug Well",W19955,2005,6.14,7.45,6.9,8.9
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2005,NA,3.8,NA,4.67
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2005,NA,NA,1.62,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2005,1.9,3.4,2.44,3.82
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2005,'0.73,1.02,'0.56,1.84
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2005,'0.71,3.25,1.99,2.19
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2005,'0.44,3.12,'0.87,1.65
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2005,1.9,3.4,2.6,3.48
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2005,1.15,3.11,2.05,3.47
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2005,2.56,6.74,4.54,4.21
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2005,3.14,7.47,5.8,8.9
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2005,1.22,2.12,1.29,2.02
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2005,'0.97,2.29,1.6,1.93
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2005,'0.26,1.4,1.06,1.13
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2005,'0.23,1.96,'0.98,1.44
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2004,NA,1.76,1.15,'0.06
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2004,1.79,3.78,2.84,2.15
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2004,2.1,3.53,2.56,2.82
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2004,'0.75,2.01,'0.38,'0.71
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2004,1.11,3.07,1.97,1.05
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2004,2.41,4.2,3.29,3.65
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2004,'0.24,2.38,1.08,'0.38
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2004,2.1,3.22,2.4,2.9
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2004,1.57,2.86,2.34,1.13
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2004,3.7,6.69,5.08,2.93
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2004,NA,3.56,NA,'0.35
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,2004,NA,NA,'0.95,NA
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2004,3.74,7.24,5.45,7.54
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2004,1.71,2.2,1.25,'0.46
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2004,1.35,2.25,1.45,'0.85
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2004,'0.45,1.56,1.23,'0.82
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2004,NA,2.64,'0.87,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2003,1.64,2.3,1.29,1.71
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2003,1.68,3.75,2.6,3.28
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2003,2.56,3.74,2.61,3.5
+AS,Sonitpur,Gohpur,Dhekiajuli,26.83333333,93.5,Ghahigaon,"Dug Well",W12460,2003,'0.65,1.19,NA,1.9
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2003,'0.52,2.56,2.75,1.16
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2003,1.76,2.56,2.29,2.61
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2003,3.2,4.25,3.59,4.65
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2003,'0.84,2.27,1.18,1.42
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2003,3.15,3.6,3.71,3.7
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2003,1.17,2.87,1.87,2.35
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2003,3.59,6.78,5.54,5.29
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2003,2.25,3.9,2.72,4.5
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,2003,1.67,1.38,1.71,2.3
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2003,4.54,7.44,5.61,8.44
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2003,'0.58,2.36,1.11,1.57
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2003,'0.9,2.3,1.59,2.5
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2003,'0.8,2.5,1.25,1.3
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2003,2.7,2.76,2.39,2.37
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2002,NA,2.06,NA,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2002,2.28,3.23,2.98,3.22
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2002,2.5,3.35,3.33,3.83
+AS,Sonitpur,Gohpur,Dhekiajuli,26.83333333,93.5,Ghahigaon,"Dug Well",W12460,2002,'0.43,NA,NA,NA
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2002,2.08,3.12,2.26,2.51
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2002,1.51,3.33,2.61,2.65
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2002,3.12,4.5,3.67,5.15
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2002,1.98,2.02,1.62,1.12
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2002,3.1,4,2.97,4.2
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2002,1.15,2.4,2.77,2.46
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2002,4.39,6.8,6.27,5.47
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2002,2,3.8,3.4,4.18
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,2002,'0.46,2.21,'0.9,2
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2002,5.24,7.37,6.57,9.44
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2002,1.09,2.07,1.19,1.07
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2002,1.11,2.45,1.75,2.05
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2002,'0.79,1.4,'0.93,1.05
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2002,'0.67,2.67,'0.96,'0.78
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2001,NA,NA,1.16,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2001,1.89,3.26,2.68,3.51
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2001,2.61,3.12,2.8,3.95
+AS,Sonitpur,Gohpur,Dhekiajuli,26.83333333,93.5,Ghahigaon,"Dug Well",W12460,2001,NA,1.37,NA,1.88
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2001,1.78,2.3,2.62,3
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2001,1.67,3.81,2.21,3.13
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2001,3.31,4.44,3.8,5.45
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2001,'0.69,3.09,1.12,2.62
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2001,3.27,4,3.64,4.39
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2001,1.02,2.13,1.91,2.57
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2001,4.18,6.88,5.34,6.92
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2001,1.69,3.72,2.85,4.78
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,2001,'0.44,1.47,1.67,2.64
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2001,5.44,7.44,5.7,8.28
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2001,'0.7,1.28,'0.99,1.67
+AS,Sonitpur,Biswanath,Dhekiajuli,26.84083333,93.29,Borgang,"Dug Well",W12452,2001,1.03,NA,1.68,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2001,'0.81,1.47,1.12,1.8
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,2001,'0.77,NA,2.67,NA
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,2000,NA,2.63,NA,NA
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,2000,2.08,3.27,2.67,1.4
+AS,Sonitpur,Gohpur,Dhekiajuli,26.83333333,93.5,Ghahigaon,"Dug Well",W12460,2000,'0.82,1.31,'0.67,1.35
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,2000,'0.79,2.45,1.51,1.1
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,2000,1.54,3.51,2.32,2.74
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,2000,2.74,4.55,3.54,4.71
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,2000,'0.47,2.29,1.04,1.22
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,2000,2.38,3.84,3.14,9.2
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,2000,'0.66,2.5,1.65,3.02
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,2000,2.73,6.73,5.6,6.7
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,2000,'0.8,3.76,2.48,4.2
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,2000,'0.5,1.25,'0.96,1.5
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,2000,3.45,7.08,5.66,8.94
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,2000,'0.63,1.57,1.1,'0.9
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,2000,'0.59,1.51,1.18,1
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,2000,1.75,3.44,2.79,3.53
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,1999,'0.42,2.32,1.04,2.03
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,1999,1.39,3.45,2,3.18
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,1999,2.26,7.45,5.24,8.5
+AS,Sonitpur,Gohpur,Dhekiajuli,26.83333333,93.5,Ghahigaon,"Dug Well",W12460,1999,1.74,1.65,'0.41,2.05
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,1999,1.89,3.1,2.55,3.37
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,1999,1.19,2.75,1.7,3.25
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,1999,1.28,3.4,2.65,4.12
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,1999,'0.83,1.62,1.18,2.27
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,1999,NA,2.5,NA,NA
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,1999,3.46,6.6,5.09,6.78
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,1999,1.97,2.2,'0.6,2.78
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,1999,'0.73,2.52,1.44,3.21
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,1999,1.52,2.22,1.04,4
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,1999,2.35,4.15,2.7,4.15
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,1999,1.6,4.45,3.53,5.41
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,1999,1.32,3.5,2.16,2
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,1999,'0.36,2.35,1.12,2.35
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,1998,1.11,3.31,2.52,2.77
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,1998,1.22,1.17,'0.88,'0.62
+AS,Sonitpur,Gohpur,Dhekiajuli,26.83333333,93.5,Ghahigaon,"Dug Well",W12460,1998,'0.4,NA,1.06,'0.47
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.85,92.56,Dihaljali,"Dug Well",W12459,1998,NA,NA,1.6,NA
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,1998,1.75,3.48,2.57,3.66
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,1998,5.19,6.59,4.88,4.59
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,1998,'0.66,2.67,1.38,4.2
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,1998,2.65,3.83,2.18,3.98
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,1998,'0.4,2.35,'0.86,'0.92
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,1998,1.71,3.35,2.62,3.15
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,1998,'0.66,1.44,1.21,1.25
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,1998,'0.62,1.49,1.56,'0.77
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,1998,2.61,7.29,2.46,8.24
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,1998,'0.7,1.5,1.21,1.38
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,1998,1.09,2.67,1.34,2.65
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,1998,2.83,4.48,3.25,4.39
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,1998,'0.72,3.67,NA,4.01
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,1997,1.3,2.48,1.82,3
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,1997,'0.78,1.5,1.54,5.6
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,1997,3.64,6.7,5.94,8.09
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,1997,'0.4,2.58,1.28,3.22
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,1997,'0.8,1.67,1.44,1.7
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,1997,2.2,1.8,2.84,3.63
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,1997,'0.5,2.21,1.16,4.24
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,1997,'0.65,2.21,2.7,4.44
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,1997,2.52,4.26,2.84,4.6
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,1997,1,2.55,2.05,3.27
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,1997,NA,6.74,5.91,7.02
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,1997,NA,1.68,NA,4.37
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,1997,2,3.32,'0.65,4.02
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.85,92.56,Dihaljali,"Dug Well",W12459,1997,NA,NA,NA,3.82
+AS,Sonitpur,Gohpur,Dhekiajuli,26.83333333,93.5,Ghahigaon,"Dug Well",W12460,1997,'0.25,'0.8,'0.65,3.85
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,1997,1,1.62,'0.83,2.17
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,1997,1.27,3.46,2.32,3.43
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,1997,4.2,4.29,3.53,5.2
+AS,Sonitpur,Naduar,Dhekiajuli,26.71666667,92.925,Jamuguri(north),"Dug Well",W12464,1996,1.21,1.22,1.43,'0.96
+AS,Sonitpur,Naduar,Dhekiajuli,26.77611111,92.90472222,Dhalaibil,"Dug Well",W12463,1996,2.8,5.05,3.27,2.1
+AS,Sonitpur,Biswanath,Dhekiajuli,26.65833333,93.175,Bihupukhuri-1,"Dug Well",W12450,1996,2.6,6.54,2.83,2.65
+AS,Sonitpur,Biswanath,Dhekiajuli,26.75,93.1875,"Biswanath chara","Dug Well",W12451,1996,1.16,1.33,1.85,'0.98
+AS,Sonitpur,Chariduar,Dhekiajuli,26.8225,92.78611111,Balipara,"Dug Well",W12453,1996,'0.97,1.49,1.2,'0.57
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.775,Charduar,"Dug Well",W12454,1996,1.36,2.96,1.53,1.43
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86666667,92.8125,Garumari,"Dug Well",W12455,1996,'0.68,NA,'0.87,'0.59
+AS,Sonitpur,Chariduar,Dhekiajuli,26.86138889,92.70583333,Kolony,"Dug Well",W12456,1996,1.21,3.4,1.43,1.21
+AS,Sonitpur,Naduar,Dhekiajuli,26.73333333,93.04166667,Sootia,"Dug Well",W12465,1996,2.83,3.94,3.06,2.61
+AS,Sonitpur,Tezpur,Dhekiajuli,26.73611111,92.68472222,Rangapara,"Dug Well",W12466,1996,'0.65,2.12,1.4,'0.63
+AS,Sonitpur,Tezpur,Dhekiajuli,26.625,92.8,Tezpur,"Dug Well",W12467,1996,3.71,6.54,4.44,2.9
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.60833333,92.38333333,Barchola,"Dug Well",W12457,1996,'0.96,2.24,1.23,'0.6
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.70222222,92.47444444,Dhekiajuli,"Dug Well",W12458,1996,2.08,2.98,2.18,1.68
+AS,Sonitpur,Dhekiajuli,Dhekiajuli,26.85,92.56,Dihaljali,"Dug Well",W12459,1996,NA,2.18,NA,1.21
+AS,Sonitpur,Gohpur,Dhekiajuli,26.83333333,93.5,Ghahigaon,"Dug Well",W12460,1996,'0.55,1.17,'0.47,'0.48
+AS,Sonitpur,Gohpur,Dhekiajuli,26.89166667,93.625,Gohpur,"Dug Well",W12461,1996,1.17,1.64,1.25,1.53
+AS,Sonitpur,Gohpur,Dhekiajuli,26.875,93.74166667,Hawajan,"Dug Well",W12462,1996,1.31,3.04,1.8,1.31
+AS,Sonitpur,Biswanath,Dhekiajuli,26.88222222,93.47833333,"Bedeti charali","Dug Well",W12449,1996,'0.36,2.38,'0.54,'0.2

@@ -1,0 +1,964 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2018,4.73,6.51,NA,NA
+UP,"Rae Bareli",SATAON,Khiron,26.26777778,80.985,Hunsepur,"Tube Well",W33263,2018,8.48,8.63,NA,NA
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2018,-0.3,2.56,NA,NA
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2018,5.94,6.41,NA,NA
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2018,-0.08,2.26,NA,NA
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2018,6.29,9.02,NA,NA
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2018,'0.74,3.44,NA,NA
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2018,1.26,2.8,NA,NA
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2018,'0.73,3.9,NA,NA
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2018,'0.38,2.56,NA,NA
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2018,'0.76,2.84,NA,NA
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2018,6.26,6.32,NA,NA
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2018,'0.49,2.9,NA,NA
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2018,1.09,5.53,NA,NA
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2018,'0.34,2.39,NA,NA
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2018,2.89,5.17,NA,NA
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2018,3.21,5.42,NA,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2018,'0.34,3.03,NA,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2018,-0.1,1.75,NA,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2018,'0.96,4.71,NA,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2018,1.64,3.05,NA,NA
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2018,NA,6.47,NA,NA
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2018,2.1,NA,NA,NA
+UP,"Rae Bareli",Sataon,Dalmau,26.25194444,81.00194444,Domapur,"Tube Well",W32948,2018,14.9,15.03,NA,NA
+UP,"Rae Bareli",Sataon,Sataon,26.33638889,81.03388889,Binjh,"Tube Well",W32953,2018,12.26,12.58,NA,NA
+UP,"Rae Bareli",Khiron,Khiron,26.28666667,80.94,"Kheron PZ (GWD)","Tube Well",W32949,2018,4.48,7.34,NA,NA
+UP,"Rae Bareli",DALMAU,Dalmau,26.07083333,81.04583333,Dalmau-1,"Dug Well",W33258,2018,3.29,5.57,NA,NA
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2018,'0.63,4.44,NA,NA
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2017,4.92,4.53,5.13,6.8
+UP,"Rae Bareli",Sataon,Sataon,26.33638889,81.03388889,Binjh,"Tube Well",W32953,2017,12.2,12.44,12.35,12.42
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2017,'0.25,2.35,'0.69,2.01
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2017,6.2,6.05,6.05,6.66
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2017,1.4,2.35,1.5,2.67
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2017,7.34,9.18,7.15,9.16
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2017,1.23,3.4,1.37,3.11
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2017,1.56,3.06,2.03,3.96
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2017,1.2,4.24,1.41,5
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2017,4.25,4.45,4.18,7.2
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2017,1.52,2.77,1.64,4.35
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2017,1.6,2.2,1.47,3.27
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2017,8.63,6.3,8.52,8.77
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2017,'0.95,3.15,1.8,3.29
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2017,2.52,5.72,2.7,5.77
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2017,1.05,2.45,1.36,3.83
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2017,2.26,5.65,1.89,NA
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2017,4.46,5.16,4.32,6.22
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2017,5.05,5.57,4.94,6.8
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2017,1,2.9,1.43,3.29
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2017,'0.54,2.04,'0.62,1
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2017,2.15,3.71,2.82,4.85
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2017,NA,NA,NA,11.26
+UP,"Rae Bareli",DALMAU,Dalmau,26.07083333,81.04583333,Dalmau-1,"Dug Well",W33258,2017,3.38,5.65,3.57,5.67
+UP,"Rae Bareli",SATAON,Khiron,26.26777778,80.985,Hunsepur,"Tube Well",W33263,2017,8.92,8.6,9.08,7.65
+UP,"Rae Bareli",Khiron,Khiron,26.28666667,80.94,"Kheron PZ (GWD)","Tube Well",W32949,2017,7.1,7.46,6.85,NA
+UP,"Rae Bareli",Dalmau,Dalmau,26.08666667,81.045,"Dalmau PZ (GWD)","Tube Well",W32943,2017,NA,6.02,NA,5.78
+UP,"Rae Bareli",KHIRON,Khiron,26.27083333,80.89166667,Ketanpurwa,"Dug Well",W33264,2017,NA,5.7,NA,6.65
+UP,"Rae Bareli",Unchahar,Unchahar,25.8875,81.29833333,"Unchahar PZ (GWD)","Tube Well",W32939,2017,NA,6.08,NA,NA
+UP,"Rae Bareli",Sataon,Dalmau,26.25194444,81.00194444,Domapur,"Tube Well",W32948,2017,14.32,12.52,14.47,12.98
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2017,1.71,4.35,1.64,6.45
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2016,'0.95,NA,2.01,3.26
+UP,"Rae Bareli",KHIRON,Khiron,26.27083333,80.89166667,Ketanpurwa,"Dug Well",W33264,2016,6.79,NA,NA,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2016,'0.18,NA,1.7,2.6
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2016,1.82,NA,2.71,5.81
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2016,'0.18,NA,1.7,3.05
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2016,3.83,NA,6.03,8.7
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2016,1.3,NA,2.73,6.65
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2016,2.02,NA,3.39,6.34
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2016,1.1,NA,2.09,4.72
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2016,1.12,NA,1.53,4.9
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2016,5.25,NA,5.13,7.45
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2016,1.41,NA,1.94,5.13
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2016,5.55,NA,6.65,8.2
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2016,3.8,NA,5.94,7.26
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2016,2.58,NA,2.21,4.85
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2016,'0.95,NA,2.45,5.55
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2016,1.05,NA,2.13,3.7
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2016,4.57,NA,3.48,5.68
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2016,13.6,NA,NA,NA
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2016,6.1,NA,5.63,6.73
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2016,6.73,NA,8.07,9.98
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2016,5.45,NA,4.48,6.5
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2016,'0.5,NA,1.99,4.95
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2016,4.63,NA,4.65,6.85
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja Fatehpur-New","Dug Well",W29586,2016,5.1,NA,NA,NA
+UP,"Rae Bareli",Unchahar,Unchahar,25.8875,81.29833333,"Unchahar PZ (GWD)","Tube Well",W32939,2016,3.18,NA,5.49,6.98
+UP,"Rae Bareli",Dalmau,Dalmau,26.08666667,81.045,"Dalmau PZ (GWD)","Tube Well",W32943,2016,4.2,NA,5.01,4.25
+UP,"Rae Bareli",Sataon,Dalmau,26.25194444,81.00194444,Domapur,"Tube Well",W32948,2016,11.3,NA,11.33,11.4
+UP,"Rae Bareli",Khiron,Khiron,26.28666667,80.94,"Kheron PZ (GWD)","Tube Well",W32949,2016,7.2,NA,7.13,7.5
+UP,"Rae Bareli",Sataon,Sataon,26.33638889,81.03388889,Binjh,"Tube Well",W32953,2016,NA,NA,11.51,12.07
+UP,"Rae Bareli",DALMAU,Dalmau,26.07083333,81.04583333,Dalmau-1,"Dug Well",W33258,2016,4.5,NA,4.96,NA
+UP,"Rae Bareli",SATAON,Khiron,26.26777778,80.985,Hunsepur,"Tube Well",W33263,2016,6.8,NA,8.22,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2016,6.2,NA,5.31,NA
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2015,2,2,2.7,2.48
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja Fatehpur-New","Dug Well",W29586,2015,5.25,4.15,NA,5.05
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2015,'0.85,2.1,1.4,'0.85
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2015,3.05,3.4,2.95,3.05
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2015,1.45,2.45,2.55,1.75
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2015,1,4.8,NA,2.6
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2015,2.08,2.98,4.8,2.08
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2015,2.02,2.67,3.67,2.86
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2015,2.39,2.38,2.7,2.39
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2015,1.95,2.2,3.6,2.07
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2015,5.47,3.72,5.8,5.37
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2015,2.36,1.86,2.36,3.56
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2015,6.05,4.25,7.05,6.05
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2015,2.7,4.35,6.6,4.32
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2015,1.72,1.77,2.82,2.27
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2015,1.1,2.6,1.75,1.29
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2015,2,2.75,2.25,2.23
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2015,2.37,3.85,4.8,2.37
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2015,NA,11.1,NA,NA
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2015,5.7,5.35,NA,5.85
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2015,6.78,8.28,NA,6.78
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2015,4.26,3.56,5.3,4.96
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2015,1.9,1.93,1.85,2.02
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2015,5.25,4.05,NA,5.25
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2015,4.73,3.68,NA,5.66
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2014,1.1,1.65,NA,2.55
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja Fatehpur-New","Dug Well",W29586,2014,2.25,3.35,2.85,5.35
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2014,'0.3,1.6,NA,2.3
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2014,1.79,1.95,NA,4.65
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2014,'0.85,1.75,NA,3.55
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2014,NA,2.6,NA,3.5
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2014,1.3,2.45,NA,4.58
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2014,1.12,2.42,NA,4.22
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2014,1.21,1.8,NA,3.72
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2014,1.34,1.6,NA,2.5
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2014,3.27,2.37,NA,4.77
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2014,1.18,1.96,NA,3.66
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2014,3.85,3.65,NA,5.45
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2014,2.85,3,NA,5.8
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2014,'0.52,1.22,NA,2.22
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2014,1,2.6,NA,4.05
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2014,1.45,1.95,NA,3.65
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2014,'0.7,3.1,NA,4.75
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2014,10.9,11.2,NA,13.5
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2014,4.68,4.1,NA,NA
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2014,7.38,7.18,NA,8.43
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2014,1.55,2.06,NA,4.56
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2014,'0.79,2.15,NA,3.85
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2014,2.75,NA,NA,4.35
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2014,1.4,2.8,NA,5.2
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2013,1.1,2.4,1.9,NA
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja Fatehpur-New","Dug Well",W29586,2013,1.55,4.15,3.15,5.25
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2013,'0.55,1.9,1.95,1.14
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2013,1.63,2.95,2.6,4.87
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2013,'0.65,2.15,1.5,2.85
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2013,3,3.9,3.96,1.1
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2013,'0.75,3.45,2.05,4.55
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2013,'0.82,3.14,2.32,4.05
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2013,1.33,2.45,1.95,3.25
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2013,1,2.55,1.53,3.55
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2013,NA,5.8,2.15,6.6
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2013,1.36,1.71,2.11,NA
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2013,3.65,5.45,3.35,6
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2013,2.33,6.2,3.43,6.5
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2013,'0.68,2.22,1.32,3.36
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2013,'0.25,2.45,5.05,3.29
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2013,1,1.95,2.25,1.75
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2013,'0.6,3.4,3,NA
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2013,11.66,14.4,12.3,NA
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2013,2.18,3.5,3.55,5.33
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2013,6.18,NA,6.93,NA
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2013,1.05,5.45,1.65,6.65
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2013,1.15,2.55,2.47,2.55
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2013,1.65,4.95,2.33,5.35
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2013,1.5,3.4,2.45,4.73
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2012,NA,1.87,1.7,2.8
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja Fatehpur-New","Dug Well",W29586,2012,NA,NA,2.75,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2012,NA,NA,NA,1.86
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2012,NA,2.55,2.35,4.86
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2012,NA,1.75,1.55,3.6
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2012,NA,NA,3.54,5.73
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2012,NA,2.24,1.65,5.63
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2012,NA,2.27,1.72,3.84
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2012,NA,2,1.89,3.65
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2012,NA,2.1,1.6,4.95
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2012,NA,6,4.44,8.05
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2012,NA,2.32,1.76,4.42
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2012,NA,4.15,4.07,6.69
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2012,NA,4.9,3.73,7.13
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2012,NA,1.57,1.4,3.94
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2012,NA,2.25,2.05,3.33
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2012,NA,1.85,1.65,3.92
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2012,NA,3.35,1.8,4.74
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2012,NA,NA,13.46,14.99
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2012,NA,4.45,3.3,5.36
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2012,NA,NA,NA,9.08
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2012,NA,2.6,3.45,5.7
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2012,NA,2.05,1.9,7.52
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2012,NA,2.95,3.65,6.19
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2012,NA,2,2.7,5.11
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2011,'0.8,1.96,1.92,2.63
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2011,NA,5.71,NA,6.89
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2011,'0.85,2.42,2.7,5.09
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2011,'0.9,1.4,1.56,2.68
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2011,NA,3.25,NA,4.53
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2011,1.45,3.7,2.48,5.35
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2011,'0.15,2.35,2.05,3.79
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2011,4.2,3.6,NA,5.17
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2011,NA,3.22,2.05,5.49
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2011,NA,4.22,2.3,5.54
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2011,'0.57,1.65,2.05,3.05
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2011,NA,5.18,2.52,5.8
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2011,1.84,4.23,1.9,5.82
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2011,NA,5.42,NA,6.5
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2011,5.5,9.12,2.72,9.98
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2011,'0.9,1.92,2.08,3.82
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2011,NA,10.74,NA,11.49
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2011,2.7,6.7,4.38,7.5
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2011,1.23,2.28,NA,4.53
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2011,4.2,6.9,5.14,7.78
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2011,NA,4.65,NA,5.27
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2011,'0.95,2.33,2.15,3.32
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2011,'0.58,2.35,1.89,4.11
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2011,NA,3.65,3.27,4.62
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2011,13.9,13.1,13.44,15
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2011,4.15,6.95,3.51,7.62
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2011,3.58,4.87,1.42,5.41
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2011,5.83,7.28,NA,8.71
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2011,'0.53,1.65,NA,4.75
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2011,2,5.41,3.15,6.79
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2011,1.23,3.5,NA,4.83
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2011,NA,2.79,NA,5.67
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2010,1.28,1.71,1.78,2.35
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2010,5.2,3.59,5.15,6.25
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2010,'0.12,'0.92,NA,1.45
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2010,'0.65,2.2,1.78,3.4
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2010,'0.3,1.31,1.07,1.7
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2010,2.1,1.64,2.42,5.3
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2010,3.15,2.47,3.55,5.15
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2010,1.03,2.2,1.95,4.35
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2010,NA,4.62,NA,5.55
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2010,1.65,2.97,2.61,5.45
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2010,2.84,2.66,3.65,4.92
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2010,'0.7,1.75,1.61,NA
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2010,1.15,1.3,NA,3.8
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2010,NA,2.48,NA,3.35
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2010,5.37,5.44,4.7,6.32
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2010,3.35,3.39,3.6,5.7
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2010,4.85,NA,4.63,8.3
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2010,8.75,7.14,8.86,6.3
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2010,1.31,1.9,1.61,3.71
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2010,10.15,10.1,10.37,10.6
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2010,5.62,6.71,5.85,7.75
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2010,1.08,1.82,2.12,4.63
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2010,6,5.38,6.67,6.6
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2010,3.57,1.5,4.02,3.62
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2010,'0.75,2.1,1.67,5.15
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2010,'0.85,2.45,1.87,NA
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2010,3.05,4.9,2.63,7.6
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2010,13.7,11.97,13.45,NA
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2010,6.35,6.29,6.64,6.75
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2010,5,4.62,4.63,4.25
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2010,6.43,7.94,6.9,9.08
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2010,'0.1,1.24,'0.85,4.05
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2010,4.1,3.37,4.69,6.05
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2010,2.84,2.75,3.45,4.35
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2010,1.98,2.67,2.57,5.03
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2009,3.52,1.9,1.8,2.7
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2009,5.23,2.85,2.75,5.35
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2009,'0.17,1.04,NA,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2009,3.14,2.8,1.8,5.3
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2009,NA,1.91,1.2,3.55
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2009,'0.6,1.5,1.8,3.8
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2009,1.61,4.05,1.65,5.55
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2009,'0.99,2.16,1.85,4.2
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2009,1.88,4.28,2.2,5.7
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2009,2.59,2.75,2.75,5.15
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2009,3.58,2.41,2.02,4.62
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2009,1.13,1.75,1.65,3.45
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2009,1.56,1.82,1.45,2.8
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2009,'0.43,2.1,2.1,3.16
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2009,5.38,4.76,5.12,5.42
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2009,4.28,2.39,2.75,4.75
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2009,NA,5.39,4.52,6.4
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2009,7.28,6.28,7.55,7.85
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2009,1.64,1.91,1.61,3.56
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2009,9.83,9.5,10.28,10
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2009,7.39,6.7,7.1,7.6
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2009,1.21,1.95,1.68,4.83
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2009,5.92,4.69,5.1,6.8
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2009,3.36,1.17,'0.97,3.32
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2009,1.63,1.9,1.95,5.05
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2009,2.37,2.29,2.05,4.75
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2009,'0.54,4.58,5.55,5.6
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2009,5.4,11.9,6.5,11.6
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2009,8.27,4.8,6.05,6.4
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2009,4.48,3.97,4.2,4.95
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2009,7.44,7.47,NA,9.28
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2009,1.15,1.78,1.6,3.7
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2009,5.27,3.28,2.65,6.05
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2009,3.31,2.4,1.75,4.25
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2009,5.47,3.02,2.48,4.53
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2008,'0.79,2.18,1.89,4.15
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.29166667,"Unchahar-Pure Ichhani","Dug Well",W15961,2008,NA,9.15,NA,9.15
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2008,'0.59,3.4,2.6,5.31
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2008,'0.31,'0.89,1.13,1.05
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2008,NA,8.59,NA,8.59
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2008,NA,13.7,NA,13.7
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2008,'0.63,2.77,2.09,5.44
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2008,'0.62,1.39,1.47,1.6
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2008,'0.51,1.96,2.06,4.39
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2008,1.03,3.46,2.56,5.04
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2008,'0.7,3.74,1.92,4.34
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2008,2.12,6.99,4.45,3.36
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2008,'0.57,4.18,2.05,5.88
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2008,'0.96,4.5,1.98,5.61
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2008,'0.75,2.18,1.84,2.62
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2008,'0.92,1.63,1.85,3.17
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2008,'0.93,3.01,2.13,3.67
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2008,5.74,6.17,4.47,6.51
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2008,1.62,5.39,2.11,6.45
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2008,3.91,6.88,4.85,7.37
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2008,5.63,8.81,6.03,9.27
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2008,'0.97,2.98,1.77,3.69
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2008,NA,8.08,NA,8.08
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2008,9.35,11.56,9.31,12.02
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2008,3.67,8.17,4.17,8.15
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2008,NA,11.3,NA,11.3
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2008,'0.97,2.5,1.93,2.55
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2008,2.28,6.1,4.22,7.14
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2008,'0.2,2.8,'0.97,4.25
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,2008,NA,4.34,NA,6.31
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2008,'0.8,2.82,1.85,5.13
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2008,NA,10.2,NA,10.2
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2008,'0.96,2.82,2.41,4.85
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2008,NA,8.33,NA,8.33
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2008,4.37,6.53,5.2,7.38
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2008,12.71,13.52,11.2,14.66
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2008,4.48,7.36,4.73,7.38
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2008,NA,10.35,NA,10.35
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2008,3.08,5.06,3.49,5.54
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2008,6.37,9.11,7.01,9.86
+UP,"Rae Bareli",Sataon,Sataon,26.29166667,81.05416667,Sataon,"Dug Well",W15953,2008,NA,13.85,NA,13.85
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2008,'0.13,2.2,1.11,5.33
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2008,'0.96,4.73,1.99,6.5
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2008,'0.79,3.05,2.23,4.15
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2008,2.04,5.46,2.34,6.55
+UP,"Rae Bareli",Khiron,Khiron,26.28333333,80.925,Kheron-New,"Dug Well",W15278,2008,7.42,7.67,8.3,8.3
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2007,1.35,2.87,1.7,3.24
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.29166667,"Unchahar-Pure Ichhani","Dug Well",W15961,2007,NA,9.15,NA,9.15
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2007,2.45,3.01,2.28,4.93
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2007,'0.75,1.06,'0.95,1.41
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2007,NA,6.66,NA,8.59
+UP,"Rae Bareli",Rahi,Rahi,26.18472222,81.31111111,Hanumanganj1,"Dug Well",W15283,2007,NA,5.57,NA,NA
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2007,NA,10.52,NA,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2007,'0.95,3.36,1.75,3.7
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2007,'0.65,1.46,1.2,1.5
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2007,1,2.72,2.95,4.25
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2007,2.15,3.94,2.9,4.9
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2007,1.95,5.33,2.05,3.95
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2007,6.6,7.58,7.2,7.2
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2007,2.5,2.97,4.15,6.35
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2007,2.27,5.66,2.97,4.42
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2007,1.85,2.49,1.95,4.15
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2007,1.62,1.93,1.9,3.95
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2007,1.6,2.68,2.15,3.05
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2007,5.82,6.54,5.87,6.62
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2007,4.3,5.61,4.9,6.3
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2007,5.25,6.84,6.8,7.7
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2007,7.5,7.21,8,7.7
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2007,1.91,2.84,6.06,5.16
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2007,5.4,NA,NA,8.08
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2007,10.6,10.92,11.1,11.3
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2007,8.1,8.45,8.25,8.55
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2007,NA,NA,NA,11.3
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2007,1.43,2.7,1.88,4.63
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2007,4.55,6.18,5.4,7.25
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2007,1.87,2.71,2.02,3.77
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2007,1.25,2.91,2.2,4.25
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2007,NA,NA,NA,6.2
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2007,2,3,2.55,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2007,6.66,NA,NA,7.96
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2007,6.5,7.05,5.7,8.4
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2007,13.35,13.1,12.9,13.96
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2007,6.65,5.57,6.35,8
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2007,8.75,NA,NA,10.35
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2007,4.73,5.28,4.5,5.9
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2007,7.68,8.74,NA,9.93
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2007,'0.55,3.22,1.15,3.65
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2007,4,4.63,3.75,5.05
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2007,1.72,1.77,2.95,4.3
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2007,3.85,4.33,4.55,5.9
+UP,"Rae Bareli",Khiron,Khiron,26.28333333,80.925,Kheron-New,"Dug Well",W15278,2007,7.45,7.11,5.8,7.6
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2006,1.96,2.34,2.6,3.16
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.29166667,"Unchahar-Pure Ichhani","Dug Well",W15961,2006,8.3,8.08,8.9,8.82
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2006,'0.55,1.63,NA,3.4
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2006,'0.65,1.85,1.18,1.26
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2006,5,5.73,5.57,6.6
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2006,10.01,9.33,11.1,10.06
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2006,1.63,2.56,2.27,5.86
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2006,'0.45,1.35,'0.9,2.1
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2006,'0.8,1.98,1.83,3.7
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2006,1.67,2.4,2.64,4.26
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2006,1.6,2.31,1.91,3.66
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2006,6.56,7.52,7.33,3.04
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2006,4.6,3.98,9.5,5.33
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2006,2.7,2.99,2.71,4.88
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2006,1.15,2.11,1.79,3.09
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2006,1.78,1.77,2.69,3.7
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2006,1.19,2.85,6.1,2.85
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2006,6.22,6.42,4.98,6.44
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2006,4.72,3.54,5,5.38
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2006,5.28,6.08,2.17,7.22
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2006,5.54,5.13,4.77,6.36
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2006,2.18,2.55,2.03,4.87
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2006,4.2,3.96,5.05,5.09
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2006,10.18,9.65,9.87,10.34
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2006,8.21,7.89,8.35,7.97
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2006,11.3,10.25,10.75,10.97
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2006,2,2.63,2.23,4.76
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2006,4.88,4.23,5.23,6.12
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2006,1.74,1.67,1.82,3.54
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,2006,3.03,2.62,4.38,NA
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2006,1.05,2.03,1.74,4.39
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2006,9.65,9.68,9.84,10.2
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2006,1.45,2.53,2.25,4.4
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2006,5.45,4.52,6.74,8.33
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2006,6.6,5.17,8.16,6.36
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2006,12.58,11.83,12.8,13.1
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2006,6.5,6.4,6.15,8.49
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2006,7.75,8.57,8.65,10.35
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2006,5.34,4.8,4.64,5.59
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2006,7.18,7.78,8.35,8.42
+UP,"Rae Bareli",Sataon,Sataon,26.29166667,81.05416667,Sataon,"Dug Well",W15953,2006,13.35,12.73,13.65,13.33
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2006,2.6,1.95,2.98,4.53
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2006,2.85,3.65,3.7,4.79
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2006,1.61,2.13,1.55,3.66
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2006,3.3,3.03,3.1,5.07
+UP,"Rae Bareli",Khiron,Khiron,26.28333333,80.925,Kheron-New,"Dug Well",W15278,2006,6.66,6.1,7.3,NA
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2005,1.95,2.08,2.04,2.6
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.29166667,"Unchahar-Pure Ichhani","Dug Well",W15961,2005,1.5,6.85,NA,7.8
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2005,'0.53,1.13,1.14,2.78
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2005,'0.1,'0.88,1.4,1.1
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2005,4.87,5.42,4.73,5.72
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2005,10.1,9.05,9.05,9.3
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2005,1.22,2.7,1.59,3.6
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2005,'0.48,1.15,1.04,1.3
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2005,'0.67,1.48,1.34,2.63
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2005,1.34,2.28,1.44,3.65
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2005,1.28,2.2,1.59,3.55
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2005,6.75,7.2,6.78,7.3
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2005,1.38,2.7,2.37,NA
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2005,1.87,2.17,1.88,3.27
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2005,2.19,2.2,1.9,3.48
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2005,2.05,1.4,1.55,2.3
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2005,1.3,2.12,1.93,3.15
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2005,6.82,6,6.14,5.92
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2005,3.25,2.85,2.68,4.64
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2005,5.3,5.5,4.98,6.65
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2005,4.95,4.7,4.4,5.3
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2005,2.11,2.36,2.24,3.76
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2005,3.46,3.56,3.22,4.1
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2005,9.33,8.7,9.34,9.6
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2005,7.17,6.5,7.48,6.57
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2005,NA,8.95,9.5,9.5
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2005,1.08,2.18,1.84,2.83
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2005,3.6,3.2,3.4,4.2
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2005,1.64,2.85,1.2,2.32
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,2005,2.45,2.55,2.23,3.85
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2005,'0.65,1.35,1.4,2.65
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2005,9.7,8.7,9.43,9.15
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2005,1.62,2.2,2.07,3.15
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2005,1.74,5.01,3.81,5.86
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2005,5.92,5.17,4.37,5.32
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2005,11.7,10.6,11.55,10.9
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2005,5.81,6.1,5.53,6.55
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2005,7.47,7.07,7.89,7.77
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2005,4.88,4.45,4.2,4.9
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2005,6.68,6.88,6.92,8.16
+UP,"Rae Bareli",Sataon,Sataon,26.29166667,81.05416667,Sataon,"Dug Well",W15953,2005,12.23,11.3,12.15,12.05
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2005,'0.85,1.55,1,2.65
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2005,1.98,2.01,2.66,3.46
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2005,1.77,2.25,1.67,3.35
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2005,2.97,2.65,2.5,3.55
+UP,"Rae Bareli",Khiron,Khiron,26.28333333,80.925,Kheron-New,"Dug Well",W15278,2005,6.9,6.1,5.83,7.3
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2004,1.42,1.84,1.8,2.72
+UP,"Rae Bareli",Khiron,Khiron,26.28333333,80.925,Kheron-New,"Dug Well",W15278,2004,6.1,NA,6.5,6.4
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2004,'0.25,1.95,1.23,3.08
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2004,'0.5,'0.79,1.3,2.05
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2004,3.77,3.72,3.07,5.72
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2004,8.8,7.54,8.1,9.05
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2004,'0.72,1.87,1.45,4.3
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2004,'0.35,1.58,1,1.8
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2004,'0.68,1.75,1.25,2.53
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2004,1.45,2.09,2.05,3.9
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2004,1.15,1.57,1.55,3.4
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2004,4.55,6.58,6.7,7
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2004,'0.75,2.1,1.55,4.41
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2004,1.37,1.92,1.46,3.34
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2004,1.83,NA,1.75,3.07
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2004,2.25,1.4,1.99,2.77
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2004,1.13,2.53,1.58,3.45
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2004,5.86,6.22,5.72,6.18
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2004,1.85,2.16,2.14,4.32
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2004,4.2,4.96,4.15,6.4
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2004,3.95,2.55,3.55,5.1
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2004,1.91,1.57,2.08,3.41
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2004,2.6,2.86,3,4.35
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2004,8.6,8.98,8.4,9.6
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2004,6.25,6.02,6.75,6.28
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2004,9.46,8.68,9.2,9.45
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2004,'0.93,2.01,1.53,3.41
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2004,1.85,3.05,2.5,4.75
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2004,'0.42,1,'0.79,2.42
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,2004,2.2,2.05,2.2,3.6
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2004,'0.92,1.41,1.48,3.9
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2004,8.45,7.81,8.25,8.65
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2004,1.25,2.43,1.75,3.47
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2004,3.81,3.06,4.76,6.11
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2004,6.1,NA,4.8,6.02
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2004,10.72,9.64,10.5,10.9
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2004,5.25,5.01,NA,6.15
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2004,6.35,6.65,6.75,7.67
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2004,4.15,4.04,3.75,4.85
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2004,6.08,6.25,6.41,7.88
+UP,"Rae Bareli",Sataon,Sataon,26.29166667,81.05416667,Sataon,"Dug Well",W15953,2004,10.77,NA,11.15,10.9
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,2004,NA,2.31,2.05,4.65
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2004,NA,1.02,1.33,2.5
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2004,'0.56,1.61,2.1,3.61
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2004,1.47,1.56,1.85,3.35
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2004,2.05,2.7,2.1,3.85
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.29166667,"Unchahar-Pure Ichhani","Dug Well",W15961,2004,6.75,NA,6.1,7.48
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2003,'0.81,2.45,1.43,3.75
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2003,1.25,2.22,1.33,4.39
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,2003,1.13,3.55,1.72,4.8
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2003,'0.73,1.6,1.05,4.33
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.38333333,81.06666667,Nandakhera,"Dug Well",W15937,2003,7.45,NA,7.45,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2003,8.82,8.47,8.14,9.15
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2003,1.83,2.85,2.45,4.68
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2003,2.74,5.03,2.85,6.44
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2003,7.62,5.9,5.61,7.25
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2003,11.42,10.75,9.77,12.2
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2003,5.57,5.25,4.35,7.17
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2003,6.67,8.5,NA,NA
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2003,5.14,4.9,3.5,5.68
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2003,5.58,7.08,5.96,8.43
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,2003,1.09,3.13,1.74,5.13
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2003,'0.23,1.48,'0.63,3.27
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2003,1.94,4.16,1.3,5.99
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2003,2.1,NA,NA,4.5
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2003,1.64,1.9,1.2,4.02
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2003,1.42,2.8,1.89,4.55
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2003,6.84,7.22,6.14,NA
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2003,2.71,5.15,1.85,6.22
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2003,4.3,6.6,4.36,7.5
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2003,4.41,5.02,1.81,5.95
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2003,1.11,1.61,1.38,4.15
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2003,'0.4,3.92,2.1,5.44
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2003,9.36,10.4,8.95,10.96
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2003,4.23,6.95,4.7,7.57
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2003,9.5,8.75,8.91,9.35
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2003,'0.12,1.38,1.89,4.35
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2003,1.1,5.45,2.41,6.6
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2003,'0.52,1.47,'0.76,3.34
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2003,'0.58,2.65,1.52,3.15
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2003,'0.34,'0.98,1,3.93
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2003,'0.63,'0.92,1.26,NA
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2003,1.39,6.22,1.52,7.59
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2003,8.95,6,7.6,10.3
+UP,"Rae Bareli",Sataon,Sataon,26.295,81.01666667,"Gurubaksh ganj","Dug Well",W15285,2003,12.47,NA,12.47,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2003,1.61,2.55,NA,4.9
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2003,'0.58,1.35,1.19,3.18
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2003,'0.72,2.47,1.5,3.3
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2003,1.3,2.8,2.15,4.51
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2003,1.98,2.2,1.06,3.82
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2003,5.9,7.55,6.6,7.9
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2003,1.3,3.02,1.55,4.85
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2003,1.85,4.25,1.99,5.75
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2002,3,1.89,2.03,3.33
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2002,5.51,2.69,3.99,4.41
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,2002,4.05,1.98,3.87,3.9
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2002,'0.65,1.63,1.67,2.93
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.38333333,81.06666667,Nandakhera,"Dug Well",W15937,2002,NA,5.54,6.19,5.95
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2002,8.3,7.26,8.2,7.9
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2002,2.03,2.1,2.55,3.52
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2002,4.86,4.67,4.03,5.81
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2002,7.05,7.42,5.82,6.26
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2002,11.06,9.11,10.9,10.05
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2002,6.05,5.8,5.62,6.6
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2002,8.25,7.35,8.37,8.05
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2002,5.4,4.14,4.6,4.9
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2002,6.84,6.93,6.57,8.01
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,2002,3.08,2.73,2.57,4.35
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2002,'0.97,1.8,1.07,2.78
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2002,5.48,2.7,3.99,4.84
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2002,2.1,1.48,1.47,2.96
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2002,1.42,2.21,1.82,3.33
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2002,6.92,6.42,7,6.52
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.39416667,81.13888889,Kundanganj,"Dug Well",W15267,2002,NA,NA,4.15,NA
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2002,5.4,3.45,4.32,5.55
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2002,6.5,6.5,6.02,7.4
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2002,4.72,3.52,4.79,4.77
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2002,2.76,1.76,1.83,2.76
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2002,4,3.18,3.77,4.58
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2002,9.9,9.7,10.02,10
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2002,6.9,5.81,6.77,6.55
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2002,9.1,7.63,8.84,8.81
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.43888889,81.09,"Parsadi khera","Dug Well",W15931,2002,NA,2.72,NA,NA
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2002,3.18,1.96,1.7,3.78
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2002,5.38,3.8,5.12,5.4
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2002,3.19,1.4,2.28,2.7
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2002,2.8,2.07,2.32,2.61
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2002,'0.96,1.8,2.1,3.68
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2002,'0.55,'0.88,1.51,1.05
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2002,6.04,4.01,5.89,6.07
+UP,"Rae Bareli",Rahi,Rahi,26.18472222,81.31111111,Hanumanganj1,"Dug Well",W15283,2002,NA,NA,5.52,NA
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2002,10.12,9.28,9.22,9.87
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2002,1.89,2.12,1.78,3.68
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2002,'0.3,1.3,'0.92,1.55
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2002,2.9,1.47,1.92,3.3
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2002,1.88,2.2,2.13,3.85
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2002,1.75,1.78,2.09,3.07
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2002,7.37,4.93,7.3,6.92
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2002,4.48,3.25,1.97,4.72
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2002,3.61,2.41,2.69,3.5
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2002,3.15,1.78,1.86,3.65
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2001,'0.58,NA,2.55,4.47
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2001,1.45,NA,2.45,2.97
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2001,'0.41,NA,1.85,3.52
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.38333333,81.06666667,Nandakhera,"Dug Well",W15937,2001,5.55,NA,5.22,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2001,6.85,NA,7.2,8.17
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2001,'0.73,NA,2.05,3.84
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2001,2.26,NA,4.66,NA
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2001,6,NA,5.4,8.27
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2001,9.26,NA,8.9,9.83
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2001,4.92,NA,5.45,7.74
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2001,NA,NA,7.2,8.2
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2001,3,NA,3.45,5.42
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2001,5.98,NA,6.98,8.11
+UP,"Rae Bareli",Sataon,Sataon,26.225,81.09166667,Prabhupur,"Dug Well",W15952,2001,9.36,NA,10.73,NA
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,2001,1.43,NA,2.03,4.02
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2001,'0.33,NA,1.65,5.9
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2001,'0.82,NA,NA,6.97
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2001,'0.93,NA,1.7,3.74
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2001,'0.35,NA,1.86,3.11
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2001,'0.75,NA,1.15,4.07
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2001,6.38,NA,6.27,6.68
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2001,2.3,NA,2.7,5.37
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2001,5.83,NA,5.85,7.85
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2001,2.61,NA,2.87,5.49
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2001,1.27,NA,1.56,4
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2001,1.86,NA,2.48,4.28
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2001,9.18,NA,9.55,10.28
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2001,2.91,NA,4.4,6.82
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2001,7.58,NA,7.7,8.93
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.43888889,81.09,"Parsadi khera","Dug Well",W15931,2001,'0.3,NA,2.25,NA
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2001,'0.63,NA,1.73,3.98
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2001,2.38,NA,2.91,5.22
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2001,'0.17,NA,1.12,2.32
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,2001,1.45,NA,1.95,3.65
+UP,"Rae Bareli",Jagatpur,Jagatpur,26,81.18333333,Dhamdhama,"Dug Well",W15275,2001,3.72,NA,NA,NA
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2001,'0.7,NA,NA,3.1
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2001,'0.53,NA,1.63,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2001,'0.05,NA,2.25,1.68
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2001,3.27,NA,4.92,6.6
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2001,8.7,NA,8.65,NA
+UP,"Rae Bareli",Sataon,Sataon,26.295,81.01666667,"Gurubaksh ganj","Dug Well",W15285,2001,NA,NA,11.35,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2001,'0.68,NA,1.4,6.92
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2001,'0.3,NA,1.05,2.07
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2001,'0.62,NA,1.9,3.61
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2001,1.05,NA,2.05,3.77
+UP,"Rae Bareli",Unchahar,Unchahar,25.93333333,81.44166667,Dharaura,"Dug Well",W15292,2001,'0.38,NA,NA,2.2
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2001,1.15,NA,1.65,3.01
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2001,4.98,NA,5.1,7.44
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2001,1.31,NA,2.05,4.63
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2001,1.28,NA,1.72,3.8
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.3,"Pure ichhani","Dug Well",W15960,2001,3.57,NA,6.2,NA
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,2000,NA,3.45,NA,NA
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,2000,'0.83,5.56,NA,3.65
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,2000,'0.55,2.68,1.72,4.55
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.38333333,81.06666667,Nandakhera,"Dug Well",W15937,2000,5.52,5.57,5.64,7.02
+UP,"Rae Bareli",Lalganj,Lalganj,26.16666667,80.975,Lalganj2,"Dug Well",W15938,2000,NA,NA,14.55,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,2000,7.05,8.05,7.1,7.95
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,2000,1.1,2.87,1.75,4
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,2000,'0.56,5.35,NA,5.81
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,2000,6.6,7.88,7.7,NA
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.3,"Nagin sandi","Dug Well",W15945,2000,NA,8.05,NA,NA
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,2000,9.2,10.23,9.2,9.65
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,2000,5.05,2.64,5.99,7.53
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,2000,6.45,5.96,7.2,NA
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,2000,4.4,5.47,4.38,5.2
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,2000,5.06,NA,6.11,8.03
+UP,"Rae Bareli",Sataon,Sataon,26.225,81.09166667,Prabhupur,"Dug Well",W15952,2000,NA,7.65,NA,8.9
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,2000,1.21,NA,2.03,4.78
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,2000,NA,NA,'0.82,NA
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,2000,1.53,3.27,2.46,4.26
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,2000,1.45,NA,2.02,4.45
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,2000,'0.4,2.57,1.35,3.02
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,2000,'0.67,3.35,1.55,4.03
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,2000,6.02,3.19,6.22,6.37
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,2000,1.9,3.6,2.5,5.3
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,2000,5.25,5.87,5.9,7.4
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,2000,1.57,5.6,2.97,5.37
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,2000,1.41,4.64,1.61,NA
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,2000,NA,3.22,1.85,4.2
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,2000,8.92,NA,9.6,9.94
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,2000,3.55,5.19,6.05,6.45
+UP,"Rae Bareli",Jagatpur,Jagatpur,26,81.18333333,Dhamdhama,"Dug Well",W15275,2000,6,NA,6.15,5.85
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,2000,7,NA,8.22,8.46
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.43888889,81.09,"Parsadi khera","Dug Well",W15931,2000,'0.5,2.91,3.85,4.4
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,2000,'0.53,2.69,2.23,3.8
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,2000,1.65,4.3,2.8,4.62
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,2000,NA,2.54,'0.8,2.77
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,2000,1.05,2.82,1.8,3.4
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,2000,1.4,3.7,2.23,2.98
+UP,"Rae Bareli",Khiron,Khiron,26.29583333,80.91805556,Kheron,"Dug Well",W15277,2000,6.37,6.07,6.55,6.4
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,2000,'0.17,3.01,1.21,4.13
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,2000,'0.95,NA,1.35,NA
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,2000,NA,NA,NA,5.92
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,2000,7.57,7.2,8.77,8.45
+UP,"Rae Bareli",Sataon,Sataon,26.295,81.01666667,"Gurubaksh ganj","Dug Well",W15285,2000,NA,NA,11.72,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,2000,'0.38,3.13,1.43,4.7
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,2000,'0.27,2.57,1,3.07
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,2000,NA,2.56,2.15,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,2000,1.28,3.82,2.7,4.33
+UP,"Rae Bareli",Singhpur,Singhpur,26.525,81.49583333,Inhauna,"Dug Well",W15291,2000,'0.54,2.67,2.56,3.25
+UP,"Rae Bareli",Unchahar,Unchahar,25.93333333,81.44166667,Dharaura,"Dug Well",W15292,2000,'0.13,2.1,'0.58,2.33
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,2000,NA,NA,1.57,3.45
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,2000,5.55,NA,6.7,6.95
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,2000,'0.82,3.78,2.25,NA
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,2000,'0.72,2.43,1.7,3.47
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.3,"Pure ichhani","Dug Well",W15960,2000,4.75,6.2,6.25,6.68
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,1999,5.35,6.75,2.54,8.15
+UP,"Rae Bareli",Unchahar,Unchahar,25.93333333,81.44166667,Dharaura,"Dug Well",W15292,1999,-0.42,'0.85,1.07,3.97
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,1999,4.78,4.9,5.04,5.72
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,1999,5.53,5.7,NA,7.41
+UP,"Rae Bareli",Sataon,Sataon,26.225,81.09166667,Prabhupur,"Dug Well",W15952,1999,8.9,8.43,7.25,9.38
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,1999,'0.65,2.36,3.08,5.43
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,1999,-0.33,'0.76,1.25,3.2
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,1999,'0.18,1.06,1.57,NA
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,1999,1,2.1,NA,3.75
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,1999,1.72,1.86,1.47,4.08
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.3,"Pure ichhani","Dug Well",W15960,1999,2.79,6.02,5.53,7.5
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,1999,7.1,7.01,NA,NA
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.43888889,81.09,"Parsadi khera","Dug Well",W15931,1999,NA,2.75,2.54,5.04
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,1999,1.03,'0.85,2.36,3.88
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,1999,1.5,3.03,4.26,5.75
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,1999,'0.12,'0.62,1.29,3.14
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,1999,1.55,2.08,2.66,4.25
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,1999,'0.55,1.88,1.78,4.95
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.38333333,81.06666667,Nandakhera,"Dug Well",W15937,1999,5.25,6.12,5.73,5.77
+UP,"Rae Bareli",Lalganj,Lalganj,26.16666667,80.975,Lalganj2,"Dug Well",W15938,1999,9.43,4.65,NA,9.43
+UP,"Rae Bareli",Lalganj,Lalganj,26.155,80.82305556,Sareni,"Dug Well",W15940,1999,12.9,12.1,NA,12.9
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,1999,6.56,6.74,6.33,7.57
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,1999,1.45,1.99,3.55,5.2
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,1999,NA,2.62,5.36,6.66
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,1999,6.37,4.8,6.58,6.4
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.3,"Nagin sandi","Dug Well",W15945,1999,5.3,7.05,6.5,7.06
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,1999,8.8,9.1,9.81,9.7
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,1999,'0.28,1.45,NA,3.69
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,1999,4.73,3.63,2.95,6.57
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,1999,'0.4,1.83,3.86,4.65
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,1999,'0.32,1.72,1.35,4.32
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,1999,'0.23,'0.91,4.46,3.75
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,1999,'0.4,1.13,8.11,4.13
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,1999,'0.67,2.15,3.04,4.7
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,1999,5.6,5.26,2.27,5.92
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,1999,NA,2.94,6.29,5.7
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,1999,5.25,5.57,5.02,6.8
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,1999,3.72,4.54,4.32,5.93
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,1999,1.02,1.72,2.34,3.53
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,1999,1.75,2.47,2.53,5
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,1999,9.8,9.92,11.3,10.6
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,1999,4.05,4.75,4.43,6.85
+UP,"Rae Bareli",Jagatpur,Jagatpur,26,81.18333333,Dhamdhama,"Dug Well",W15275,1999,3,3.61,NA,4.85
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,1999,'0.56,1.65,3.11,3.15
+UP,"Rae Bareli",Khiron,Khiron,26.29583333,80.91805556,Kheron,"Dug Well",W15277,1999,5.75,5.25,5.77,6.1
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,1999,NA,1.76,4.14,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.36555556,81.33972222,Chandapur,"Dug Well",W15280,1999,NA,6.47,NA,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,1999,NA,'0.63,NA,2.95
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,1999,'0.87,NA,NA,5.84
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,1999,6.45,7.01,6.37,8.2
+UP,"Rae Bareli",Sataon,Sataon,26.295,81.01666667,"Gurubaksh ganj","Dug Well",W15285,1999,12.47,9.25,NA,12.47
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,1999,'0.77,1.73,1.9,4.8
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,1999,'0.33,'0.97,1.9,3.78
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,1999,'0.15,'0.57,2.53,3.5
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,1999,1.05,1.94,3.68,4.35
+UP,"Rae Bareli",Singhpur,Singhpur,26.525,81.49583333,Inhauna,"Dug Well",W15291,1999,NA,1.4,1.92,3.58
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,1999,6.42,7.15,5.37,8.22
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,1998,4.78,8.52,6.5,10.7
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,1998,6.48,8.99,6.75,8.75
+UP,"Rae Bareli",Salon,Salon,25.98333333,81.55,Naruddinpur,"Dug Well",W15949,1998,2,6.97,NA,7.28
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,1998,4.2,6.3,4.5,6.65
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,1998,5.23,5.71,NA,NA
+UP,"Rae Bareli",Sataon,Sataon,26.225,81.09166667,Prabhupur,"Dug Well",W15952,1998,3.5,7.77,6.55,10.35
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,1998,'0.39,2.37,2.23,4.96
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,1998,1.1,1.04,'0.75,4.13
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,1998,2.78,1.76,'0.8,4.16
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,1998,1.78,1.87,1.45,4.22
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,1998,1.4,1.91,1.25,4.7
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.3,"Pure ichhani","Dug Well",W15960,1998,NA,NA,4.73,7.45
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,1998,7.63,8.16,6.6,8.06
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.43888889,81.09,"Parsadi khera","Dug Well",W15931,1998,3.32,1.45,2,4.55
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,1998,'0.41,'0.93,2.08,4.13
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,1998,1.4,2.93,2.59,7.38
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,1998,'0.62,1.98,'0.47,5.97
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,1998,1.42,2.22,1.85,NA
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,1998,'0.61,1.98,1.35,4.2
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.38333333,81.06666667,Nandakhera,"Dug Well",W15937,1998,5.34,5.48,4.99,5.92
+UP,"Rae Bareli",Lalganj,Lalganj,26.16666667,80.975,Lalganj2,"Dug Well",W15938,1998,5.22,4.54,9.43,9.43
+UP,"Rae Bareli",Lalganj,Lalganj,26.155,80.82305556,Sareni,"Dug Well",W15940,1998,12.85,14.71,13.5,13.5
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,1998,7.3,7.9,5.45,8.55
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,1998,'0.58,2.51,1.7,3.8
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,1998,'0.56,3.15,3.71,7.33
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,1998,5.5,7.1,5,19.17
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.3,"Nagin sandi","Dug Well",W15945,1998,3.5,8.1,6,9.53
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,1998,9.8,9.76,9.25,10.1
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,1998,3.28,5.02,3.25,8.8
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,1998,3.15,1.66,2.7,6.07
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,1998,'0.67,1.8,1.02,5.57
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,1998,2.76,1.83,3.99,7.47
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,1998,'0.18,'0.72,'0.9,3.64
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,1998,'0.75,1.58,1.7,5.37
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,1998,5.86,6,2.4,4.12
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.39416667,81.13888889,Kundanganj,"Dug Well",W15267,1998,'0.83,2.3,NA,5.3
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,1998,2.05,4.61,4.35,6.75
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,1998,4.65,5.94,5.2,7.05
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,1998,3.37,5.63,4.42,7.72
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,1998,4.16,1.43,1.16,2.51
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,1998,'0.98,3.41,2,5.85
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,1998,10.6,11.45,11,8.22
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,1998,3.8,5.4,3.95,6.6
+UP,"Rae Bareli",Jagatpur,Jagatpur,26,81.18333333,Dhamdhama,"Dug Well",W15275,1998,3.38,NA,4.8,4.8
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,1998,3.83,1.67,2.3,3.55
+UP,"Rae Bareli",Khiron,Khiron,26.29583333,80.91805556,Kheron,"Dug Well",W15277,1998,5.9,5.54,4.55,6
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,1998,2.1,2.19,1.48,NA
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.36555556,81.33972222,Chandapur,"Dug Well",W15280,1998,3.22,NA,4.83,8.23
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,1998,'0.53,'0.8,6.35,7.96
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,1998,1.5,5.01,7.22,6.97
+UP,"Rae Bareli",Rahi,Rahi,26.18472222,81.31111111,Hanumanganj1,"Dug Well",W15283,1998,5.93,5.99,NA,5.99
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,1998,6.68,7.69,5.96,9
+UP,"Rae Bareli",Sataon,Sataon,26.295,81.01666667,"Gurubaksh ganj","Dug Well",W15285,1998,7.4,6.5,12.47,12.47
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,1998,'0.65,2.01,1.6,4.03
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,1998,'0.52,1.17,1.15,7.03
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,1998,'0.06,1.2,3.4,5.65
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,1998,1.18,1.7,2.05,4.9
+UP,"Rae Bareli",Singhpur,Singhpur,26.525,81.49583333,Inhauna,"Dug Well",W15291,1998,NA,NA,1.01,7
+UP,"Rae Bareli",Unchahar,Unchahar,25.93333333,81.44166667,Dharaura,"Dug Well",W15292,1998,'0.16,'0.34,'0.68,8.3
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,1998,1.45,1.4,1.2,NA
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,1997,8.86,8,8.5,9.05
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,1997,'0.87,2,1.22,3.85
+UP,"Rae Bareli",Salon,Salon,25.98333333,81.55,Naruddinpur,"Dug Well",W15949,1997,6.97,6.97,6.97,6.97
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,1997,6.78,6.55,6.7,7.6
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,1997,6.08,6.78,6.29,7.88
+UP,"Rae Bareli",Sataon,Sataon,26.225,81.09166667,Prabhupur,"Dug Well",W15952,1997,7.91,NA,9.67,10.18
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,1997,2.71,1.83,1.76,5.73
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,1997,'0.15,1.85,'0.7,4.55
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,1997,1.4,2.06,'0.98,5.23
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,1997,2.18,5.57,2.09,5.15
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,1997,'0.95,3.55,1.83,5.2
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.3,"Pure ichhani","Dug Well",W15960,1997,NA,7.1,7.5,8.3
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,1997,8.5,8.57,8.29,5
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.43888889,81.09,"Parsadi khera","Dug Well",W15931,1997,'0.5,2.6,NA,5.2
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,1997,'0.51,1.43,1.68,4.33
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,1997,3.19,10.78,3.2,5.7
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,1997,2.32,1.12,'0.12,2.87
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,1997,2.19,2.35,2.13,5.15
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,1997,1.07,2.15,2.41,5.3
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.38333333,81.06666667,Nandakhera,"Dug Well",W15937,1997,5.74,6.02,5.42,6.72
+UP,"Rae Bareli",Lalganj,Lalganj,26.16666667,80.975,Lalganj2,"Dug Well",W15938,1997,4.97,4.9,4.05,6
+UP,"Rae Bareli",Lalganj,Lalganj,26.155,80.82305556,Sareni,"Dug Well",W15940,1997,14.88,13.5,13.5,13.5
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,1997,8.59,8.7,8.3,9.63
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,1997,1.63,2.35,1.4,4.07
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,1997,1.8,4.06,2.9,6.64
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,1997,6.74,4.9,6.48,5.7
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.3,"Nagin sandi","Dug Well",W15945,1997,8.04,8.2,8.06,NA
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,1997,10.25,10.4,10.06,11.15
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,1997,5.3,6.6,5.5,9.7
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,1997,1.92,2.75,2.33,5.7
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,1997,1.75,2.82,1.87,4.72
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,1997,1.85,1.45,1.7,4.19
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,1997,1.33,2.2,'0.42,4.1
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,1997,'0.61,2.4,1.1,5.1
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,1997,6.37,6.92,6.12,7.32
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.39416667,81.13888889,Kundanganj,"Dug Well",W15267,1997,1.95,5.3,2,4.92
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,1997,4.92,4.35,5,6.4
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,1997,6.7,6.2,5.9,7.1
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,1997,6.47,5.77,6.37,7.67
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,1997,1.3,1.96,1.26,3.26
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,1997,3.78,3,4.07,5.35
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,1997,12.17,11.8,11.83,13.35
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,1997,5.11,6.85,5.95,8.3
+UP,"Rae Bareli",Jagatpur,Jagatpur,26,81.18333333,Dhamdhama,"Dug Well",W15275,1997,4.3,3.8,3.65,4.95
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,1997,1.51,1.89,1.3,3
+UP,"Rae Bareli",Khiron,Khiron,26.29583333,80.91805556,Kheron,"Dug Well",W15277,1997,5.85,5.85,5.8,6.45
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,1997,1.33,NA,1.45,3.78
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.36555556,81.33972222,Chandapur,"Dug Well",W15280,1997,NA,8.53,7.82,9.2
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,1997,'0.4,'0.9,'0.45,3.1
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,1997,3.8,3.47,4.29,5.77
+UP,"Rae Bareli",Rahi,Rahi,26.18472222,81.31111111,Hanumanganj1,"Dug Well",W15283,1997,6.11,5.99,5.99,5.99
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,1997,7.8,8.6,7.58,11.09
+UP,"Rae Bareli",Sataon,Sataon,26.295,81.01666667,"Gurubaksh ganj","Dug Well",W15285,1997,6.7,12.47,8.06,12.47
+UP,"Rae Bareli",Sataon,Sataon,26.275,81.1,"Jatuatapar bhar","Dug Well",W15286,1997,3.78,NA,NA,NA
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,1997,'0.58,2.25,1.34,5.42
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,1997,'0.28,1.5,1.82,4.15
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,1997,'0.54,'0.2,'0.87,2.83
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,1997,1.05,2.75,2.96,5.5
+UP,"Rae Bareli",Singhpur,Singhpur,26.525,81.49583333,Inhauna,"Dug Well",W15291,1997,'0.19,1.65,1.13,3.86
+UP,"Rae Bareli",Unchahar,Unchahar,25.93333333,81.44166667,Dharaura,"Dug Well",W15292,1997,'0.18,3.97,3.97,7.23
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,1997,8.88,8.85,8.75,8.75
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.24166667,Salon,"Dug Well",W15947,1996,7.61,7.5,7.55,10.2
+UP,"Rae Bareli",Amawan,Amawan,26.31666667,81.35,"Chauraha dusti","Dug Well",W15259,1996,'0.89,1.95,1.65,3.7
+UP,"Rae Bareli",Salon,Salon,25.98333333,81.55,Naruddinpur,"Dug Well",W15949,1996,4.94,6.97,NA,6.97
+UP,"Rae Bareli",Salon,Salon,26.075,81.37083333,Suchi,"Dug Well",W15950,1996,NA,5.9,6.1,NA
+UP,"Rae Bareli",Sareni,Sareni,26.05833333,80.85277778,Rawalpur,"Dug Well",W15951,1996,5.32,6.78,5.98,7.98
+UP,"Rae Bareli",Sataon,Sataon,26.225,81.09166667,Prabhupur,"Dug Well",W15952,1996,8.7,10.15,9.55,10.05
+UP,"Rae Bareli",Singhpur,Singhpur,26.46611111,81.495,"Raja fatehpur","Dug Well",W15954,1996,1.08,2.43,2.33,5.13
+UP,"Rae Bareli",Singhpur,Singhpur,26.49833333,81.39611111,"Shivratan ganj","Dug Well",W15956,1996,'0.67,1.9,1.15,4.05
+UP,"Rae Bareli",Singhpur,Tiloi,26.45,81.425,Simrauta(ii),"Dug Well",W15957,1996,'0.35,2.36,1.46,4.36
+UP,"Rae Bareli",Tiloi,Tiloi,26.34583333,81.44277778,Matrwa,"Dug Well",W15958,1996,'0.73,2.25,2.35,4.45
+UP,"Rae Bareli",Tiloi,Tiloi,26.46527778,81.41944444,Simrauta,"Dug Well",W15959,1996,2.27,2.95,1.95,4.95
+UP,"Rae Bareli",Unchahar,Unchahar,25.91666667,81.3,"Pure ichhani","Dug Well",W15960,1996,6.72,7.5,6.8,8.2
+UP,"Rae Bareli",Amawan,Amawan,26.29305556,81.31666667,Sidhuna,"Dug Well",W15930,1996,6.12,9.2,8.5,9.2
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.43888889,81.09,"Parsadi khera","Dug Well",W15931,1996,1.15,2.5,2.2,5.7
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.50416667,81.16944444,"Rani khera","Dug Well",W15932,1996,'0.29,1.33,1.03,3.33
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26416667,81.49722222,"Mazzamganj ngr","Dug Well",W15933,1996,2.74,3.9,2.8,6.35
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.26666667,81.43333333,Nigohan1,"Dug Well",W15934,1996,'0.33,1.04,'0.82,3.72
+UP,"Rae Bareli",Dih,Dih,26.19444444,81.45416667,Mau1,"Dug Well",W15935,1996,1.53,2.15,1.7,4.05
+UP,"Rae Bareli",Dih,Dih,26.24166667,81.48083333,Mohanganj1,"Dug Well",W15936,1996,'0.8,2.15,1.85,4.85
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.38333333,81.06666667,Nandakhera,"Dug Well",W15937,1996,5.95,6.22,5.72,6.22
+UP,"Rae Bareli",Lalganj,Lalganj,26.16666667,80.975,Lalganj2,"Dug Well",W15938,1996,4.73,5.54,4.5,6.2
+UP,"Rae Bareli",Lalganj,Lalganj,26.155,80.82305556,Sareni,"Dug Well",W15940,1996,13.67,14.3,13.5,13.5
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.39166667,81.26666667,Maharajganj2,"Dug Well",W15941,1996,8.71,9.9,8.6,10.2
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.42138889,81.36055556,"Mau garbi","Dug Well",W15942,1996,1.62,2.05,2.05,4.25
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.45,81.28333333,Rampur2,"Dug Well",W15943,1996,1.07,4.36,3.06,5.96
+UP,"Rae Bareli",Rahi,Rahi,26.15,81.35833333,Laxmanganjbazar,"Dug Well",W15944,1996,5.33,4.1,4.4,5.3
+UP,"Rae Bareli",Rahi,Rahi,26.23333333,81.3,"Nagin sandi","Dug Well",W15945,1996,6.52,8.1,8.2,8.2
+UP,"Rae Bareli",Rahi,Rahi,26.24166667,81.24166667,"Rae bareli","Dug Well",W15946,1996,10.28,10.6,10,11.2
+UP,"Rae Bareli",Amawan,Amawan,26.27083333,81.28861111,"Cheek daadar","Dug Well",W15260,1996,5.72,7.62,6.9,8.3
+UP,"Rae Bareli",Amawan,Amawan,26.31111111,81.37333333,"Dhonda ka purwa","Dug Well",W15261,1996,'0.7,2.75,1.85,5.15
+UP,"Rae Bareli",Amawan,Amawan,26.25833333,81.35277778,Fursatganj,"Dug Well",W15262,1996,1.9,3.52,2.22,5.32
+UP,"Rae Bareli",Amawan,Amawan,26.30833333,81.25833333,Kachunda,"Dug Well",W15263,1996,NA,1.97,1.35,5.15
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46,81.125,Bachhrawan,"Dug Well",W15264,1996,'0.63,2.1,2,7.4
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.5125,81.075,Churwa,"Dug Well",W15265,1996,'0.97,2.3,1.9,4.7
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.46666667,81.05,Inchauli1,"Dug Well",W15266,1996,6.73,7.12,6.62,7.27
+UP,"Rae Bareli",Bachhrawan,Bachhrawan,26.39416667,81.13888889,Kundanganj,"Dug Well",W15267,1996,2.48,3.7,2.4,5
+UP,"Rae Bareli",Bahadurpur,Bahadurpur,26.25166667,81.535,Jagatpur-2,"Dug Well",W15268,1996,3.28,4.7,NA,6.4
+UP,"Rae Bareli",Dalmau,Dalmau,26.07777778,81.05,Dalmau,"Dug Well",W15269,1996,5.39,6.4,5.9,4.85
+UP,"Rae Bareli",Dalmau,Dalmau,26.10833333,81.00833333,Gopalipur,"Dug Well",W15270,1996,6.17,5.77,6.07,7.57
+UP,"Rae Bareli",Dalmau,Dalmau,26.15138889,81.14166667,Katghar,"Dug Well",W15271,1996,1.39,2.56,1.56,3.86
+UP,"Rae Bareli",Dih,Dih,26.15,81.51666667,Chaturpur,"Dug Well",W15272,1996,2.89,2.9,2.9,4.9
+UP,"Rae Bareli",Dih,Dih,26.14861111,81.41111111,Harchandpur-1,"Dug Well",W15273,1996,11.38,11.38,11.6,11.8
+UP,"Rae Bareli",Harchandpur,Harchandpur,26.34861111,81.17361111,Harchandpur-2,"Dug Well",W15274,1996,6.85,7.45,6.65,8.15
+UP,"Rae Bareli",Jagatpur,Jagatpur,26,81.18333333,Dhamdhama,"Dug Well",W15275,1996,2.29,3.65,3.55,4.55
+UP,"Rae Bareli",Jagatpur,Jagatpur,26.05583333,81.275,Jagatpur-1,"Dug Well",W15276,1996,'0.76,1.9,2.2,2.8
+UP,"Rae Bareli",Khiron,Khiron,26.29583333,80.91805556,Kheron,"Dug Well",W15277,1996,4.65,5.85,5.45,5.75
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.40277778,81.34861111,Bhagwantnagar,"Dug Well",W15279,1996,1.11,2.13,1.43,4.13
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.36555556,81.33972222,Chandapur,"Dug Well",W15280,1996,7.51,8.4,7.8,9.3
+UP,"Rae Bareli",Mahrajganj,Mahrajganj,26.41666667,81.2,Hardoi2,"Dug Well",W15281,1996,'0.79,1.16,'0.45,3.3
+UP,"Rae Bareli",Rahi,Rahi,26.14166667,81.21666667,Belabhela,"Dug Well",W15282,1996,4.24,4.87,3.07,6.67
+UP,"Rae Bareli",Rahi,Rahi,26.18472222,81.31111111,Hanumanganj1,"Dug Well",W15283,1996,6.58,5.61,5.99,5.99
+UP,"Rae Bareli",Sareni,Sareni,26.12916667,80.72222222,Daulatpur1,"Dug Well",W15284,1996,8.56,7.7,7.8,10.2
+UP,"Rae Bareli",Sataon,Sataon,26.295,81.01666667,"Gurubaksh ganj","Dug Well",W15285,1996,10.79,12.1,12.47,9.05
+UP,"Rae Bareli",Sataon,Sataon,26.275,81.1,"Jatuatapar bhar","Dug Well",W15286,1996,NA,NA,NA,6.52
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.49472222,81.34861111,"Ahraura bhawani","Dug Well",W15287,1996,'0.76,1.8,1.8,4.9
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.55,81.23333333,Bhawanigarh,"Dug Well",W15288,1996,'0.53,1.55,1.2,3.1
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.48055556,81.29861111,Koni,"Dug Well",W15289,1996,-0.04,'0.4,'0.2,2.15
+UP,"Rae Bareli",Shivgarh,Shivgarh,26.56805556,81.26583333,"Kumbhi ka purwa","Dug Well",W15290,1996,1.08,1.55,2.45,4.05
+UP,"Rae Bareli",Singhpur,Singhpur,26.525,81.49583333,Inhauna,"Dug Well",W15291,1996,'0.92,1.35,1.25,3.45
+UP,"Rae Bareli",Unchahar,Unchahar,25.93333333,81.44166667,Dharaura,"Dug Well",W15292,1996,'0.18,3.97,NA,NA
+UP,"Rae Bareli",Rahi,Rahi,26.14555556,81.37333333,Shankarganj1,"Dug Well",W15948,1996,7.84,8.05,8.75,9.35

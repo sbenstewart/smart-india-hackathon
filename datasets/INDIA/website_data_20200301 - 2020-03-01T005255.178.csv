@@ -1,0 +1,774 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2018,NA,4.5,3.3,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.80277778,84.30861111,Sarsara,"Dug Well",W33174,2018,'0.85,1.9,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2018,NA,4.85,3.6,NA
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2018,3.99,3.04,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2018,1.51,5.16,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2018,'0.78,2.78,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2018,'0.15,1.65,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2018,NA,3.97,2.72,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.77638889,84.28222222,Badhigan,"Dug Well",W26701,2018,1.32,NA,NA,4.82
+OD,Bauda,Harbhanga,Harbhanga,20.43027778,84.53388889,Baring,"Dug Well",W26505,2018,NA,1.9,1,NA
+OD,Bauda,Harbhanga,Harbhanga,20.66166667,84.39111111,Nunibahal,"Dug Well",W26632,2018,NA,2.57,2.07,NA
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2018,2.01,6.81,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2018,2.06,5.86,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2018,1.69,4.29,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2018,1.21,2.36,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2018,2.23,7.38,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2018,1.25,3.95,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2018,'0.5,3.05,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2018,'0.9,3.2,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2018,'0.6,2.05,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2018,1.41,4.01,NA,NA
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2018,NA,NA,2.47,5.57
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2018,NA,NA,1.25,NA
+OD,Bauda,Kantamal,Kantamal,20.78472222,83.88611111,Gohipita,"Dug Well",W26706,2018,1.02,3.12,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.54416667,84.42527778,"Karoda Kutha","Dug Well",W26588,2018,2.15,4.25,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.56722222,84.45777778,"Nuapada 1","Dug Well",W26595,2018,1.25,4,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59194444,84.50277778,Laxmanpur,"Dug Well",W26602,2018,1.58,2.48,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.63527778,84.42222222,Purunakatak,"Dug Well",W26620,2018,1.7,3.6,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67972222,84.44222222,"Tilesar 1","Dug Well",W26644,2018,2.35,8.1,NA,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.73166667,84.23083333,Baghiapada,"Dug Well",W26676,2018,1.35,3.3,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.74944444,84.32722222,"Radha Nagar","Dug Well",W26692,2018,2.15,4.7,NA,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.7625,84.23055556,Evada,"Dug Well",W26696,2018,1.5,3.25,NA,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.82916667,84.30916667,Botpali,"Dug Well",W26735,2018,1.3,3.45,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.69583333,84.13861111,Khajuripada,"Dug Well",W26651,2018,1,4.55,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.70222222,84.16972222,"Gandhi Sahi","Dug Well",W26656,2018,'0.9,3.6,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.7025,84.07305556,Gundulia,"Dug Well",W26657,2018,1.65,4.85,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.74444444,84.07777778,Usbilika,"Dug Well",W26685,2018,1.65,3.7,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.75722222,84.07027778,Lumrijena,"Dug Well",W26695,2018,1.15,2.7,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.805,84.22444444,Kamira,"Dug Well",W26719,2018,1.9,4.25,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.81722222,84.01027778,"Maheswar Pinda","Dug Well",W26725,2018,1.7,3.45,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82111111,83.98222222,Nuapali,"Dug Well",W26728,2018,'0.8,2.05,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.83083333,84.00638889,Dahya,"Dug Well",W26736,2018,1.25,3.5,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85472222,84.20666667,Jahanapank,"Dug Well",W26749,2018,1.55,1.7,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85555556,84.27055556,"Bala Singha","Dug Well",W26750,2018,1.2,3.6,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.86083333,84.23888889,"Polam 2","Dug Well",W26754,2018,'0.65,3.15,NA,NA
+OD,Bauda,KANTAMAL,Kantamal,20.6675,83.75666667,"Auinla Chua Chhak","Dug Well",W33168,2018,1.75,3.25,NA,NA
+OD,Bauda,KANTAMAL,Kantamal,20.72722222,83.80722222,Palasaguda1,"Dug Well",W33171,2018,2.1,4.1,NA,NA
+OD,Bauda,KANTAMAL,Kantamal,20.75972222,83.83694444,Khatkhatia,"Dug Well",W33172,2018,2.25,5.4,NA,NA
+OD,Bauda,KANTAMAL,Kantamal,20.78611111,83.92833333,"Gudveli Padar","Dug Well",W33173,2018,1.7,3.55,NA,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.59861111,84.57638889,Sarta-Guda,"Dug Well",W33165,2018,1.95,4,NA,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.63833333,84.43055556,Udaipur,"Dug Well",W33166,2018,1.5,5.1,NA,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.66472222,84.56916667,"Brisspati Pur","Dug Well",W33167,2018,2.45,4.5,NA,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.68944444,84.37861111,Rambhikota,"Dug Well",W33170,2018,2.5,3.3,NA,NA
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2018,NA,3.25,2.15,NA
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2017,1.4,3.2,1.9,6.7
+OD,Bauda,Kantamal,Kantamal,20.53916667,83.67277778,Ghamtapada,"Dug Well",W31277,2017,1.86,NA,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2017,1.11,2.7,1.45,8.55
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2017,2.26,1.5,3.04,9.29
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2017,1.9,4.1,1.95,6.2
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2017,'0.86,2.25,1.8,4.9
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2017,'0.94,1.5,2.05,6.74
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2017,'0.56,2.35,2.86,5.77
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2017,2.49,5.8,1.74,4.92
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2017,1.64,5.25,4.01,7.31
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2017,'0.59,2.5,'0.73,5.83
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2017,'0.5,1.6,'0.3,5.6
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2017,NA,2.17,1.21,11.61
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2017,1.01,NA,6.93,7.63
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2017,4.4,NA,3.5,7.01
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2017,1.76,3.95,3.35,NA
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2017,3.11,4,4.71,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2017,'0.95,3.1,'0.9,NA
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2017,3.32,NA,3.12,NA
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2017,4.9,3.9,NA,6.95
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2017,2.08,4,NA,5.92
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2017,1.47,3.75,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2017,NA,3.5,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2017,NA,3,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.56722222,84.45777778,"Nuapada 1","Dug Well",W26595,2017,3.44,NA,3.25,6.3
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.81722222,84.01027778,"Maheswar Pinda","Dug Well",W26725,2017,1.25,NA,2.4,6.98
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82111111,83.98222222,Nuapali,"Dug Well",W26728,2017,'0.1,NA,'0.6,5.34
+OD,Bauda,Harbhanga,Harbhanga,20.54416667,84.42527778,"Karoda Kutha","Dug Well",W26588,2017,2.9,4.3,3.1,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.77638889,84.28222222,Badhigan,"Dug Well",W26701,2017,NA,2.9,NA,4.82
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.79166667,84.06583333,Baidanathpur,"Dug Well",W26711,2017,NA,1.75,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85611111,84.27777778,"Gambhari Padar","Dug Well",W26751,2017,NA,4.7,NA,NA
+OD,Bauda,Kantamal,Kantamal,20.78472222,83.88611111,Gohipita,"Dug Well",W26706,2017,4.22,3.2,1.92,7.24
+OD,Bauda,Harbhanga,Harbhanga,20.43027778,84.53388889,Baring,"Dug Well",W26505,2017,2.61,1.8,'0.75,7.35
+OD,Bauda,Harbhanga,Harbhanga,20.59194444,84.50277778,Laxmanpur,"Dug Well",W26602,2017,'0.93,1.75,1.03,3.53
+OD,Bauda,Harbhanga,Harbhanga,20.63527778,84.42222222,Purunakatak,"Dug Well",W26620,2017,2.95,4,2.6,5.33
+OD,Bauda,Harbhanga,Harbhanga,20.66166667,84.39111111,Nunibahal,"Dug Well",W26632,2017,'0.81,4.1,2.77,6.22
+OD,Bauda,Harbhanga,Harbhanga,20.67972222,84.44222222,"Tilesar 1","Dug Well",W26644,2017,1.95,7.3,6.45,6.42
+OD,Bauda,"Baudh Sadar",Harbhanga,20.73166667,84.23083333,Baghiapada,"Dug Well",W26676,2017,2.05,2.8,2.05,6.17
+OD,Bauda,Harbhanga,Harbhanga,20.74944444,84.32722222,"Radha Nagar","Dug Well",W26692,2017,3.12,5.15,3.7,7.6
+OD,Bauda,"Baudh Sadar",Harbhanga,20.7625,84.23055556,Evada,"Dug Well",W26696,2017,1.84,2.8,2.05,5.2
+OD,Bauda,"Baudh Sadar",Harbhanga,20.82916667,84.30916667,Botpali,"Dug Well",W26735,2017,2.48,3.8,2.2,6.98
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.69583333,84.13861111,Khajuripada,"Dug Well",W26651,2017,4.8,4.5,3.5,6.22
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.70222222,84.16972222,"Gandhi Sahi","Dug Well",W26656,2017,3.25,2.8,2.5,5.42
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.7025,84.07305556,Gundulia,"Dug Well",W26657,2017,5.34,4.1,3.7,6.5
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.74444444,84.07777778,Usbilika,"Dug Well",W26685,2017,3.44,2.8,2.55,6.1
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.75722222,84.07027778,Lumrijena,"Dug Well",W26695,2017,1.33,2.1,1.35,3.83
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.805,84.22444444,Kamira,"Dug Well",W26719,2017,1.05,1.75,3,5.3
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.83083333,84.00638889,Dahya,"Dug Well",W26736,2017,2.5,3.8,2.75,6.54
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85472222,84.20666667,Jahanapank,"Dug Well",W26749,2017,1.05,4.4,1.2,6.71
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85555556,84.27055556,"Bala Singha","Dug Well",W26750,2017,1.65,4.85,2.1,6.57
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.86083333,84.23888889,"Polam 2","Dug Well",W26754,2017,1.6,1.8,2.05,7.62
+OD,Bauda,KANTAMAL,Kantamal,20.6675,83.75666667,"Auinla Chua Chhak","Dug Well",W33168,2017,1.65,2.85,2,5.97
+OD,Bauda,KANTAMAL,Kantamal,20.72722222,83.80722222,Palasaguda1,"Dug Well",W33171,2017,2.2,4.1,2.75,5.13
+OD,Bauda,KANTAMAL,Kantamal,20.75972222,83.83694444,Khatkhatia,"Dug Well",W33172,2017,1.7,4.15,4,6.19
+OD,Bauda,KANTAMAL,Kantamal,20.78611111,83.92833333,"Gudveli Padar","Dug Well",W33173,2017,2.91,2.7,2.3,5.3
+OD,Bauda,HARBHANGA,Harbhanga,20.59861111,84.57638889,Sarta-Guda,"Dug Well",W33165,2017,2.67,3.8,2.65,5.17
+OD,Bauda,HARBHANGA,Harbhanga,20.63833333,84.43055556,Udaipur,"Dug Well",W33166,2017,4.78,4.75,3.8,10.09
+OD,Bauda,HARBHANGA,Harbhanga,20.66472222,84.56916667,"Brisspati Pur","Dug Well",W33167,2017,2.45,4.25,3.3,5.66
+OD,Bauda,HARBHANGA,Harbhanga,20.68944444,84.37861111,Rambhikota,"Dug Well",W33170,2017,3.23,3.25,2.1,6.4
+OD,Bauda,HARBHANGA,Harbhanga,20.80277778,84.30861111,Sarsara,"Dug Well",W33174,2017,'0.6,1.5,'0.5,4.26
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2017,1.94,3.25,2.31,11.26
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2016,1.1,NA,1.3,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.80277778,84.30861111,Sarsara,"Dug Well",W33174,2016,2.5,NA,1.1,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2016,3.5,NA,3.9,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2016,2.3,NA,1.44,NA
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2016,'0.7,NA,1.82,NA
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2016,1.8,NA,5.1,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2016,3,NA,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2016,'0.6,NA,1.06,NA
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2016,3.7,NA,4.85,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2016,2.4,NA,3.3,NA
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2016,4,NA,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2016,4,NA,4,NA
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2016,2.1,NA,2.88,NA
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2016,3.5,NA,3.8,NA
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2016,1.2,NA,2.35,NA
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2016,3.2,NA,3.7,NA
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2016,3.2,NA,1.5,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2016,1.5,NA,1.8,NA
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2016,8,NA,7.85,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2016,1.5,NA,3.4,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2016,1.2,NA,1.5,NA
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2016,3.5,NA,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2016,1.5,NA,2.1,NA
+OD,Bauda,Harbhanga,Harbhanga,20.54416667,84.42527778,"Karoda Kutha","Dug Well",W26588,2016,2.3,6.4,3.7,NA
+OD,Bauda,Harbhanga,Harbhanga,20.56722222,84.45777778,"Nuapada 1","Dug Well",W26595,2016,3.75,NA,3.75,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59194444,84.50277778,Laxmanpur,"Dug Well",W26602,2016,1.1,1.98,1.3,NA
+OD,Bauda,Harbhanga,Harbhanga,20.63527778,84.42222222,Purunakatak,"Dug Well",W26620,2016,2,4.55,3.9,NA
+OD,Bauda,Harbhanga,Harbhanga,20.66166667,84.39111111,Nunibahal,"Dug Well",W26632,2016,1,NA,3.3,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67972222,84.44222222,"Tilesar 1","Dug Well",W26644,2016,6.5,4.07,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.69583333,84.13861111,Khajuripada,"Dug Well",W26651,2016,2.5,4.65,4,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.70222222,84.16972222,"Gandhi Sahi","Dug Well",W26656,2016,2,3.85,2.5,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.7025,84.07305556,Gundulia,"Dug Well",W26657,2016,3,6.4,3.8,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.73166667,84.23083333,Baghiapada,"Dug Well",W26676,2016,'0.8,4.5,2.25,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.74444444,84.07777778,Usbilika,"Dug Well",W26685,2016,2,4.96,2.4,NA
+OD,Bauda,Harbhanga,Harbhanga,20.74944444,84.32722222,"Radha Nagar","Dug Well",W26692,2016,3.5,5.05,4.55,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.75722222,84.07027778,Lumrijena,"Dug Well",W26695,2016,1.5,2.4,1.8,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.7625,84.23055556,Evada,"Dug Well",W26696,2016,2.3,3.8,2.4,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.77638889,84.28222222,Badhigan,"Dug Well",W26701,2016,2,2.08,2.95,NA
+OD,Bauda,Kantamal,Kantamal,20.78472222,83.88611111,Gohipita,"Dug Well",W26706,2016,2,1.75,2.7,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.79166667,84.06583333,Baidanathpur,"Dug Well",W26711,2016,1.5,3.05,1.5,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.805,84.22444444,Kamira,"Dug Well",W26719,2016,1,2.78,1.4,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.81722222,84.01027778,"Maheswar Pinda","Dug Well",W26725,2016,1,NA,2.8,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82111111,83.98222222,Nuapali,"Dug Well",W26728,2016,'0.5,NA,'0.85,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.82916667,84.30916667,Botpali,"Dug Well",W26735,2016,1.8,4.7,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.83083333,84.00638889,Dahya,"Dug Well",W26736,2016,3.2,4.1,3.15,NA
+OD,Bauda,Harbhanga,Harbhanga,20.43027778,84.53388889,Baring,"Dug Well",W26505,2016,1,3.84,1.5,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85472222,84.20666667,Jahanapank,"Dug Well",W26749,2016,'0.7,3.7,'0.9,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85555556,84.27055556,"Bala Singha","Dug Well",W26750,2016,1.5,4.95,1.9,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85611111,84.27777778,"Gambhari Padar","Dug Well",W26751,2016,1.7,3.68,2,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.86083333,84.23888889,"Polam 2","Dug Well",W26754,2016,1.2,NA,1.4,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.59861111,84.57638889,Sarta-Guda,"Dug Well",W33165,2016,3,NA,3.4,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.63833333,84.43055556,Udaipur,"Dug Well",W33166,2016,3,NA,4.57,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.66472222,84.56916667,"Brisspati Pur","Dug Well",W33167,2016,4.5,NA,3.2,NA
+OD,Bauda,KANTAMAL,Kantamal,20.6675,83.75666667,"Auinla Chua Chhak","Dug Well",W33168,2016,1.5,NA,2.6,NA
+OD,Bauda,HARBHANGA,Harbhanga,20.68944444,84.37861111,Rambhikota,"Dug Well",W33170,2016,'0.5,NA,2.55,NA
+OD,Bauda,KANTAMAL,Kantamal,20.72722222,83.80722222,Palasaguda1,"Dug Well",W33171,2016,2.1,NA,2.8,NA
+OD,Bauda,KANTAMAL,Kantamal,20.75972222,83.83694444,Khatkhatia,"Dug Well",W33172,2016,1.5,NA,4.1,NA
+OD,Bauda,KANTAMAL,Kantamal,20.78611111,83.92833333,"Gudveli Padar","Dug Well",W33173,2016,2.1,NA,2.45,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2016,2,NA,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2015,1.35,3.62,3.3,5.02
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.86083333,84.23888889,"Polam 2","Dug Well",W26754,2015,1.58,5.05,5.58,7.62
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2015,3.25,4.4,5.25,6.2
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2015,1,2.61,2.88,5.25
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2015,1.75,4.33,3.25,4.5
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2015,1.95,3.42,2.98,4.7
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2015,4.2,4.8,4.8,5.15
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2015,1.95,3.4,4.65,4.8
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2015,1.4,2.89,3.11,1.4
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2015,'0.45,1.26,2.41,5.03
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2015,1.92,1.98,4.96,7
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2015,2.6,2.9,4.2,6.32
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2015,3.28,5.96,5.7,7.2
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2015,1.5,3.51,3.95,3.6
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2015,2.4,7.85,8.05,5.52
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2015,3.25,4.13,4.12,5.8
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2015,1.58,4.48,4.5,7.3
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2015,1.95,4.47,3.27,5.3
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2015,2.33,4.58,2.92,6.1
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2015,1.02,4.9,3.5,6.32
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2015,8.15,6.31,8.3,8.5
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2015,'0.67,3.92,5.2,5.02
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2015,1.45,2.66,2.8,4.72
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2015,5.01,NA,5.85,6.87
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2015,1.23,3.46,3.85,5.6
+OD,Bauda,Harbhanga,Harbhanga,20.54416667,84.42527778,"Karoda Kutha","Dug Well",W26588,2015,3.08,5.05,5.88,6.9
+OD,Bauda,Harbhanga,Harbhanga,20.56722222,84.45777778,"Nuapada 1","Dug Well",W26595,2015,3.3,NA,4.65,4.9
+OD,Bauda,Harbhanga,Harbhanga,20.59194444,84.50277778,Laxmanpur,"Dug Well",W26602,2015,1.7,1.63,2.2,2.55
+OD,Bauda,Harbhanga,Harbhanga,20.63527778,84.42222222,Purunakatak,"Dug Well",W26620,2015,3.75,4.4,4.95,NA
+OD,Bauda,Harbhanga,Harbhanga,20.66166667,84.39111111,Nunibahal,"Dug Well",W26632,2015,3.35,4.16,5.41,6.8
+OD,Bauda,Harbhanga,Harbhanga,20.67972222,84.44222222,"Tilesar 1","Dug Well",W26644,2015,3.05,2.05,4.1,5.01
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.69583333,84.13861111,Khajuripada,"Dug Well",W26651,2015,2.59,NA,4.7,5.9
+OD,Bauda,Kantamal,Kantamal,20.69722222,83.88361111,Dopla,"Dug Well",W26652,2015,NA,3.87,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.70222222,84.16972222,"Gandhi Sahi","Dug Well",W26656,2015,4.7,3.62,3.65,5.03
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.7025,84.07305556,Gundulia,"Dug Well",W26657,2015,3.91,6.38,6.5,6.8
+OD,Bauda,"Baudh Sadar",Harbhanga,20.73166667,84.23083333,Baghiapada,"Dug Well",W26676,2015,1.69,4.15,4,3.9
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.74444444,84.07777778,Usbilika,"Dug Well",W26685,2015,1.19,4.42,4.4,6
+OD,Bauda,Harbhanga,Harbhanga,20.74944444,84.32722222,"Radha Nagar","Dug Well",W26692,2015,3.48,4.77,5.45,6.7
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.75722222,84.07027778,Lumrijena,"Dug Well",W26695,2015,1.19,2.15,2.45,3.25
+OD,Bauda,"Baudh Sadar",Harbhanga,20.7625,84.23055556,Evada,"Dug Well",W26696,2015,1.6,3.3,5.1,4.65
+OD,Bauda,"Baudh Sadar",Harbhanga,20.77638889,84.28222222,Badhigan,"Dug Well",W26701,2015,1.75,2.16,3.3,5.01
+OD,Bauda,Kantamal,Kantamal,20.78472222,83.88611111,Gohipita,"Dug Well",W26706,2015,3.59,2.08,4.3,1.7
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.79166667,84.06583333,Baidanathpur,"Dug Well",W26711,2015,1.25,2.71,2.55,4.45
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.805,84.22444444,Kamira,"Dug Well",W26719,2015,2.43,2.62,3.72,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.81722222,84.01027778,"Maheswar Pinda","Dug Well",W26725,2015,1.28,3.03,2.7,4.35
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82111111,83.98222222,Nuapali,"Dug Well",W26728,2015,'0.82,2.52,2.25,4.86
+OD,Bauda,"Baudh Sadar",Harbhanga,20.82916667,84.30916667,Botpali,"Dug Well",W26735,2015,1.35,3.7,4.4,6.01
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.83083333,84.00638889,Dahya,"Dug Well",W26736,2015,1.95,3.91,3.8,5.5
+OD,Bauda,Harbhanga,Harbhanga,20.43027778,84.53388889,Baring,"Dug Well",W26505,2015,1.22,4.65,6.22,6.55
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85472222,84.20666667,Jahanapank,"Dug Well",W26749,2015,'0.8,4.92,3.25,5.52
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85555556,84.27055556,"Bala Singha","Dug Well",W26750,2015,1.25,2.36,4.9,5.15
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85611111,84.27777778,"Gambhari Padar","Dug Well",W26751,2015,1.35,4.15,3.85,5.65
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2015,2.5,4.61,NA,5.85
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2014,'0.51,3.33,1.35,4.56
+OD,Bauda,Kantamal,Kantamal,20.53916667,83.67277778,Ghamtapada,"Dug Well",W31277,2014,NA,NA,2.65,2.5
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2014,1,4.6,3.6,5.4
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2014,2.3,3.7,NA,6.4
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2014,'0.51,2.06,1.45,3.21
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2014,1.06,1.96,1.21,4.36
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2014,1.83,2.73,1.58,4.3
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2014,3.94,4.39,4.24,3.89
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2014,'0.4,2.55,1.65,3.9
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2014,1.31,3.02,2.88,4.61
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2014,'0.05,'0.29,'0.6,1.5
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2014,'0.76,3.4,1.31,5.91
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2014,1.11,1.9,1.3,4.47
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2014,3.66,5.66,4.11,6.44
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2014,1.27,2.92,1.22,3.27
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2014,2.46,NA,1.96,NA
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2014,1.67,3.71,1.7,5.55
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2014,'0.6,3.8,3.65,6.35
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2014,NA,4.1,2.8,5.1
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2014,NA,4.18,1.99,4.52
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2014,1,4.27,1.4,5.18
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2014,5.38,NA,5.84,7.58
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2014,'0.99,3.56,1.29,4.42
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2014,'0.25,1.78,1.15,3.75
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2014,2.91,4.31,3.71,6.01
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2014,'0.63,3.33,'0.83,5.03
+OD,Bauda,Harbhanga,Harbhanga,20.59194444,84.50277778,Laxmanpur,"Dug Well",W26602,2014,'0.67,1.06,1.1,2.54
+OD,Bauda,Harbhanga,Harbhanga,20.63527778,84.42222222,Purunakatak,"Dug Well",W26620,2014,1.6,3.4,2.9,4.7
+OD,Bauda,Harbhanga,Harbhanga,20.66166667,84.39111111,Nunibahal,"Dug Well",W26632,2014,1.73,3.57,2.02,6.17
+OD,Bauda,Harbhanga,Harbhanga,20.67972222,84.44222222,"Tilesar 1","Dug Well",W26644,2014,1.2,3.07,1.65,4.27
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.69583333,84.13861111,Khajuripada,"Dug Well",W26651,2014,2.45,NA,3.75,5.25
+OD,Bauda,Kantamal,Kantamal,20.69722222,83.88361111,Dopla,"Dug Well",W26652,2014,3.15,4.2,NA,4.8
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.70222222,84.16972222,"Gandhi Sahi","Dug Well",W26656,2014,NA,NA,2.4,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.7025,84.07305556,Gundulia,"Dug Well",W26657,2014,3.5,NA,4.9,5.93
+OD,Bauda,"Baudh Sadar",Harbhanga,20.73166667,84.23083333,Baghiapada,"Dug Well",W26676,2014,'0.75,3.3,2.4,5.12
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.74444444,84.07777778,Usbilika,"Dug Well",W26685,2014,1.2,3.85,3.2,5.5
+OD,Bauda,Harbhanga,Harbhanga,20.74944444,84.32722222,"Radha Nagar","Dug Well",W26692,2014,1.7,4.1,2.02,6.1
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.75722222,84.07027778,Lumrijena,"Dug Well",W26695,2014,'0.87,NA,1.35,2.75
+OD,Bauda,"Baudh Sadar",Harbhanga,20.7625,84.23055556,Evada,"Dug Well",W26696,2014,1.66,NA,2.55,2.95
+OD,Bauda,"Baudh Sadar",Harbhanga,20.77638889,84.28222222,Badhigan,"Dug Well",W26701,2014,1.08,3.97,2.07,3.97
+OD,Bauda,Kantamal,Kantamal,20.78472222,83.88611111,Gohipita,"Dug Well",W26706,2014,'0.37,3.2,1.87,5.52
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.79166667,84.06583333,Baidanathpur,"Dug Well",W26711,2014,1,NA,1.45,3.7
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.805,84.22444444,Kamira,"Dug Well",W26719,2014,2.1,3.51,2.85,5.06
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.81722222,84.01027778,"Maheswar Pinda","Dug Well",W26725,2014,'0.35,2.31,1.8,3.8
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82111111,83.98222222,Nuapali,"Dug Well",W26728,2014,'0.26,1.87,1.3,2.8
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.83083333,84.00638889,Dahya,"Dug Well",W26736,2014,1.2,1.95,1.48,3.15
+OD,Bauda,Harbhanga,Harbhanga,20.43027778,84.53388889,Baring,"Dug Well",W26505,2014,'0.5,4.1,'0.7,4.75
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85472222,84.20666667,Jahanapank,"Dug Well",W26749,2014,1.7,2.95,1.95,4.85
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85555556,84.27055556,"Bala Singha","Dug Well",W26750,2014,1.5,NA,2.25,4.85
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85611111,84.27777778,"Gambhari Padar","Dug Well",W26751,2014,'0.5,2.6,1.45,2.95
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.86083333,84.23888889,"Polam 2","Dug Well",W26754,2014,NA,NA,2.05,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2014,1.9,NA,2.25,5.15
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2013,3.01,2.74,1.64,4.04
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak,"Bore Well",W31281,2013,NA,4.25,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2013,3.05,5.5,3,7.95
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2013,NA,3.26,1.9,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2013,2.91,3.56,1.63,4.79
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2013,1.22,3.97,1.65,4.12
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2013,4.14,3.15,3,7.19
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2013,2.11,3.32,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2013,4.01,3.42,4.6,5.33
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2013,2.11,3.55,2.4,4.35
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2013,3.11,1.41,2.9,5.15
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2013,2.23,2.23,2.2,4.32
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2013,NA,3.32,3,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2013,4,2.11,2.12,5.68
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2013,3.03,3.65,5.3,7.01
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2013,1.99,3.12,2.52,5.46
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2013,NA,5.75,5.35,NA
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2013,3.01,4.4,2.75,6.11
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2013,4.17,4.9,2.5,6.61
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2013,3.41,3.88,1.8,5.64
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2013,4.41,5.03,4.5,7.11
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2013,2.45,3.15,2.45,5.74
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2013,3.9,3.29,2.5,6.16
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2013,4.44,3.23,2.4,6.3
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2013,3.15,3.21,2.3,5.02
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2013,NA,2.99,4.3,NA
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2013,3.79,2.1,1.9,5
+OD,Bauda,Harbhanga,Harbhanga,20.59194444,84.50277778,Laxmanpur,"Dug Well",W26602,2013,2.71,1.18,1.3,NA
+OD,Bauda,Harbhanga,Harbhanga,20.63527778,84.42222222,Purunakatak,"Dug Well",W26620,2013,3.6,4.1,3.1,4.88
+OD,Bauda,Harbhanga,Harbhanga,20.66166667,84.39111111,Nunibahal,"Dug Well",W26632,2013,2.69,3.87,2.8,4.6
+OD,Bauda,Harbhanga,Harbhanga,20.74944444,84.32722222,"Radha Nagar","Dug Well",W26692,2013,3.11,NA,3.52,5.96
+OD,Bauda,"Baudh Sadar",Harbhanga,20.77638889,84.28222222,Badhigan,"Dug Well",W26701,2013,2.61,2.94,2.15,4.26
+OD,Bauda,Kantamal,Kantamal,20.78472222,83.88611111,Gohipita,"Dug Well",W26706,2013,4.13,3.81,3.3,5.56
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.81722222,84.01027778,"Maheswar Pinda","Dug Well",W26725,2013,1.93,2.69,1.7,4.06
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82111111,83.98222222,Nuapali,"Dug Well",W26728,2013,3.02,1.4,'0.8,4.81
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.83083333,84.00638889,Dahya,"Dug Well",W26736,2013,1.85,NA,2.05,5.86
+OD,Bauda,Harbhanga,Harbhanga,20.43027778,84.53388889,Baring,"Dug Well",W26505,2013,3.9,NA,4.3,6.91
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85472222,84.20666667,Jahanapank,"Dug Well",W26749,2013,2.23,3.35,2.28,4.82
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85611111,84.27777778,"Gambhari Padar","Dug Well",W26751,2013,2.33,2.88,1.6,4.73
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2013,2.72,4.4,2.46,5.48
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2012,NA,3.9,2.75,4.32
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2012,NA,NA,1.89,5.7
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2012,NA,6.66,3.64,7.98
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2012,NA,4.4,2.8,5.52
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2012,NA,2.16,3.63,4.91
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2012,NA,2.46,3.4,4.31
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2012,NA,3.56,3.12,7.56
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2012,NA,3.47,3.58,7.06
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2012,NA,3.6,3.11,5.66
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2012,NA,3.6,4.16,4.16
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2012,NA,4.16,3.01,5.46
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2012,NA,3.2,2.25,4.2
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2012,NA,3.88,3.45,6.29
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2012,NA,3.1,2.38,5.5
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2012,NA,4.04,3.39,7.16
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2012,NA,4.2,3.15,5.66
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2012,NA,8.31,4.52,NA
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2012,NA,4.71,3.88,6.25
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2012,NA,4.78,4.35,6.58
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2012,NA,3.9,3.41,5.56
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2012,NA,4.68,4.2,7.77
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2012,NA,4.03,2.66,5.63
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2012,NA,7.46,3.62,6.28
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2012,NA,4.94,3.46,6.36
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2012,NA,1.2,3.01,5.1
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2012,NA,4.07,3.3,6.31
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2012,NA,1.63,2.05,5.16
+OD,Bauda,Harbhanga,Harbhanga,20.66166667,84.39111111,Nunibahal,"Dug Well",W26632,2012,NA,NA,3.36,NA
+OD,Bauda,"Baudh Sadar",Harbhanga,20.77638889,84.28222222,Badhigan,"Dug Well",W26701,2012,NA,NA,2.42,NA
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak,"Bore Well",W31281,2012,NA,NA,3.1,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2011,2.36,3.75,2.56,5.52
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2011,2.51,1.51,3.01,5.03
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2011,2.49,4.39,3.2,6.9
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2011,2.68,2.4,2.9,4.19
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2011,2.69,4.06,3.08,6.41
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2011,1.49,2.13,1.93,5.11
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2011,4.51,5.81,4.66,11.26
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2011,3.21,5.35,3.61,6.28
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2011,3.45,4.1,4.38,6.79
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2011,2.94,3.75,3.34,5.61
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2011,3.68,3.62,4.18,6.86
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2011,1.43,1.8,2.05,4.31
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2011,3.31,5.96,3.47,6.37
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2011,2,3.7,2.25,5.32
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2011,2.65,6.21,3.41,7.22
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2011,2.82,5.22,3.28,5.87
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2011,2.46,2.31,3.29,4.57
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2011,2.56,5.73,3.1,7.64
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2011,2.78,2.97,4.32,7.1
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2011,2.69,4.39,3.08,5.65
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2011,NA,5.3,3.62,8.55
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2011,1.71,3.71,2.84,5.41
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2011,2.43,3.2,2.63,4.43
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2011,2.43,3.65,1.04,5.35
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2011,3.85,6.35,5.41,8.3
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2011,2.5,3.7,2.63,5.5
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2011,3.27,7.23,3.58,6.91
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2010,1.15,3.92,'0.85,5.85
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2010,1.01,2.29,1.41,6.86
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2010,1.99,4.67,3.19,6.81
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2010,'0.1,4.1,'0.4,4.9
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2010,1.86,4.03,1.21,6.96
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2010,'0.78,2.57,'0.78,4.93
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2010,1.76,6.16,3.31,10.13
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2010,5.5,4.17,4.9,6.15
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2010,2.25,4.53,2.55,6.79
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2010,3.15,3.42,3.05,5.45
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2010,NA,3.67,3.42,6.87
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2010,'0.5,1.87,'0.55,4.5
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2010,4.86,3.93,4.96,7.06
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2010,2,3.12,2.05,5.55
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2010,4.11,5.69,5.51,7.91
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2010,2.87,4.43,3.07,5.62
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2010,4.03,5.38,4.53,8.4
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2010,1.77,4.32,'0.92,7.39
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2010,4.29,4.31,4.19,5.71
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2010,2.3,6,3.4,7.4
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2010,2.76,2.91,3.16,6.31
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2010,2.7,2.85,1,4.38
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2010,2.9,3.8,2.3,5.4
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2010,5.9,5.05,4.9,7.05
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2010,2.35,4.13,2.65,4.92
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2010,'0.61,1.81,'0.61,5.21
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2010,7.53,7.06,6.88,7.68
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2009,'0.66,3.3,1.03,5.83
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2009,NA,2.66,1.21,5.58
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2009,1.19,4.54,2.89,6.66
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2009,-0.04,4.43,'0.67,4.58
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2009,1.76,4.51,1.76,7.43
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2009,2.05,2.93,'0.68,4.8
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2009,'0.46,2.41,1.46,11.26
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2009,1.73,4.15,3.2,6.43
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2009,'0.5,5,2.82,6.79
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2009,'0.66,3.7,2.45,5.53
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2009,1.92,3.07,NA,6.77
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2009,-0.2,1.65,'0.45,4.83
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2009,'0.28,4.01,2.16,6.86
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2009,1.52,3.3,1.45,5.39
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2009,1.88,6.16,4.73,7.4
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2009,1.73,4.12,2.72,4.87
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2009,1.83,4.03,3,7.3
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2009,'0.82,3.87,1.62,7.4
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2009,3.39,4.44,4.09,5.91
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2009,1.8,3.05,3.78,6.98
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2009,1.24,3.76,2.43,6.82
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2009,'0.1,2.35,NA,4.57
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2009,2.2,2.25,2.37,5.76
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2009,3.65,4.4,4.02,7.13
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2009,1.83,2.7,3.92,7.11
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2009,'0.41,1.76,'0.61,5.14
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2009,6.88,7.23,6.73,7.72
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2008,NA,3.7,1.3,4.9
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2008,NA,2.56,1.39,4.66
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2008,NA,4.84,2.13,5.94
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2008,1.9,2.3,'0.36,2.75
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2008,NA,4.11,1.17,6.61
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2008,NA,3.03,'0.95,4.53
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2008,1.91,2.51,1.46,8.21
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2008,NA,4.45,3.08,5.85
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2008,2.35,4.9,2.86,5.1
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2008,NA,3.8,2.6,4.8
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2008,NA,2.87,NA,4.97
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2008,NA,1.45,'0.63,3.95
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2008,NA,4.61,2.33,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2008,NA,3.1,2.08,5
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2008,NA,6.96,4.44,7.66
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2008,NA,4.42,2.62,4.12
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2008,NA,4.18,3.13,6.68
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2008,NA,3.97,1.57,6.37
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2008,NA,4.34,4.62,5.94
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2008,NA,3.55,1.85,4.65
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2008,NA,4.96,3.54,4.56
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2008,NA,2.25,'0.5,3.65
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2008,NA,NA,NA,4.1
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2008,NA,6.6,4.02,7.2
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2008,NA,NA,2.67,4.7
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2008,NA,2.46,1.28,4.36
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2008,NA,7.13,6.03,7.63
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2007,'0.93,1.49,1.2,5.1
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2007,7.67,4.52,6.03,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2007,1.57,2.29,2.24,6.51
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2007,'0.2,'0.8,'0.3,2.05
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2007,1.68,'0.51,1.21,7.05
+OD,Bauda,Harbhanga,Harbhanga,20.76388889,84.31666667,Landibandh,"Dug Well",W21468,2007,'0.88,NA,'0.78,NA
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2007,1.01,2.81,1.21,6.09
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2007,3.35,3.46,3,5.96
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2007,1.23,3.29,2.6,6.69
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2007,2.25,3.83,2.5,NA
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2007,3.22,NA,'0.77,5.69
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2007,'0.44,-0.08,'0.45,4.29
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2007,2.31,2.43,2.51,6.54
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2007,1.96,1.13,2.3,6.31
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2007,3.46,2.48,4.61,6.81
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2007,2.43,2.9,2.52,5.14
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2007,2.58,4.47,2.98,7.28
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2007,1.71,1.58,1.57,7.47
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2007,4.15,4.85,4.74,6.04
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2007,2.02,2.75,1.95,6.26
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2007,2.25,3.04,3.66,6.36
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2007,'0.63,'0.64,'0.45,2.97
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2007,5.07,5.45,4.4,7.73
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2007,NA,NA,NA,4.26
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2007,1.58,'0.13,1.16,2.41
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2007,1.85,'0.61,2.46,2.99
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2006,1.02,5,5.94,NA
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2006,'0.18,'0.77,1.42,4.44
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2006,'0.41,2.16,'0.34,3.91
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2006,1.62,'0.62,1.28,7.09
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2006,'0.13,4.31,1.3,7.06
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2006,'0.66,3.64,2.86,6.15
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2006,1.84,3.48,2.43,6.49
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2006,1.37,NA,2.72,5.45
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2006,1.09,NA,2.98,6.16
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2006,'0.2,1.33,'0.97,5.44
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2006,'0.14,-0.04,'0.36,4.13
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2006,'0.18,2.22,2.38,6.7
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2006,'0.13,1.22,1.24,4.07
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2006,1.59,2.33,4.73,7.47
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2006,2.21,2.97,2.47,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2006,'0.54,4.79,3.74,6.88
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2006,1.1,1.56,1.6,7.65
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2006,2.57,4.93,5.77,8.17
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2006,1.15,2.89,2.5,8
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2006,'0.47,3.25,3.94,5.87
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2006,NA,'0.76,'0.58,3.46
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2006,1.72,5.65,4.22,7.21
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2006,'0.83,NA,1.16,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2006,'0.06,'0.35,2.47,4.83
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2006,'0.55,2.44,2.82,6.41
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2005,2.3,7.85,4.26,NA
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2005,'0.88,2.96,'0.44,5.32
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82083333,84.15138889,Sangrampur,"Dug Well",W19980,2005,'0.02,2.46,'0.13,4.9
+OD,Bauda,Harbhanga,Harbhanga,20.72222222,84.35694444,Birnarsingpur,"Dug Well",W19981,2005,1.67,4.78,'0.29,6.93
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2005,1,3.95,'0.02,6.83
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2005,3.73,5.16,3.39,6.45
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2005,'0.99,4.65,2.52,6.56
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2005,2.11,4.05,2.54,5.95
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2005,2.23,5.12,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2005,'0.43,4.76,'0.6,6.27
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2005,'0.47,1.8,-0.69,4.67
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2005,2.45,4.73,2.2,6.87
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2005,1.42,4.09,1.01,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,2005,NA,4.99,NA,6.51
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2005,3.44,6.26,4.44,7.36
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2005,1.07,4.78,2.63,6.05
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2005,2.59,5.6,2.69,7.07
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2005,1.42,5.27,1.35,7.45
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2005,3.86,5.56,4.54,7.79
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2005,3.52,6.13,2.64,7.95
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2005,3.19,5.51,2.36,6.49
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2005,'0.39,2.4,'0.6,3.75
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2005,5.48,7.2,5.04,7.99
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2005,'0.64,1.86,-0.33,4.67
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2005,2.21,5.06,2.26,6.56
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2004,7.22,2.67,6.49,8.23
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2004,'0.99,2.46,1.12,5.06
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2004,1.05,3.11,1.38,6.78
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2004,3.53,4.43,3.83,6.65
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2004,1.01,4.37,2.55,6.74
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2004,1.94,6.33,2.59,5.33
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2004,1.89,3.78,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2004,1.2,5.08,1.39,6.79
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2004,'0.1,2.02,'0.56,4.75
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2004,2.38,4.84,2.37,7.31
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2004,1.47,4.86,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,2004,NA,5.76,2.53,9.16
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2004,3.39,5.83,4.77,7.59
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2004,2.75,3.59,2.6,6.1
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2004,2.45,5.76,3.2,7.86
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2004,1.79,4.07,2.25,7.53
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2004,4.12,5.39,4.49,7.17
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2004,2.77,3.03,3.4,7.79
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2004,2.9,5.32,2.44,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2004,1.68,2.9,'0.58,4.56
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2004,3.8,4.38,5.19,7.5
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2004,2.22,6.16,1,5.96
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2004,2.38,3.71,'0.4,5.5
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2004,1.72,4.74,2.75,7.14
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2003,6.76,7.25,5.44,7.91
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2003,'0.74,3.56,'0.74,4.86
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2003,'0.65,4.36,1.23,6.39
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2003,2.07,6.2,2.52,7.03
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2003,'0.38,5.35,1.48,6.7
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2003,'0.88,4.59,1.87,5.59
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2003,NA,4.97,1.83,6.13
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2003,'0.58,4.83,1.27,6.01
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2003,-0.13,2.95,'0.12,4.52
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2003,2.84,4.61,3.27,7.18
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2003,NA,NA,1.33,5.85
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,2003,2.38,4.93,2.23,NA
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2003,2.64,6.01,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2003,2.83,4.8,2.25,6.39
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2003,2.35,5.74,3.15,7.51
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2003,1.3,4.94,1.54,8.75
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2003,3.71,6.54,4.22,7.25
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2003,4.48,7.45,1.68,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2003,2.77,5.26,3.34,6.69
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2003,1.43,3.75,'0.78,5.09
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2003,NA,NA,NA,5.59
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2003,4.26,7.03,2.9,7.82
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2003,1.06,3.4,1.31,5.9
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2003,NA,3.46,'0.69,4.86
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2003,1.31,5.19,2.42,6.76
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2002,7.21,7.53,3.94,8.13
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2002,'0.63,2.66,1.75,5.16
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2002,4.41,5.25,4.9,6.9
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2002,2.68,5.2,4.57,7
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2002,'0.94,4.59,4.47,5.74
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2002,'0.93,5.27,4.7,7.97
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2002,'0.38,3.88,1.73,5.43
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2002,2.71,4.71,3.12,7.11
+OD,Bauda,Harbhanga,Harbhanga,20.67583333,84.39277778,Harekrishnapur,"Dug Well",W09193,2002,1.43,NA,4.13,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,2002,2.33,4.6,NA,6.4
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2002,NA,6.16,3.77,7.06
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2002,2.53,4.72,4.17,5.77
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2002,'0.87,2.31,2.48,6.51
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2002,2.54,5.88,3.68,7.38
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2002,'0.92,4.97,2.86,7.87
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2002,4.16,5.74,4.97,7.44
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2002,5.1,5.55,4.85,7.55
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2002,2.43,5.81,3.33,NA
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2002,'0.68,1.9,2.24,5
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2002,'0.3,2.75,1.85,4.2
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2002,4.34,4.93,4.83,7.63
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2002,'0.64,2.6,6.98,5.1
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2002,'0.32,1.76,1.05,4.36
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2002,1.52,5.24,3.97,6.74
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2001,5.04,7.24,6.23,5.3
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2001,NA,2.39,1.66,5.03
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2001,2.57,NA,4,NA
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2001,'0.64,4.22,3.7,NA
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2001,'0.91,4.93,3.09,NA
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2001,'0.92,4.47,3.82,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2001,1.26,3.62,1.53,5.43
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2001,'0.64,6.5,3.16,7.31
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,2001,2.65,5.44,2.5,7
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2001,2.94,6.04,5.06,6.82
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2001,2.72,4.9,2.32,6.62
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2001,'0.81,3.7,1.31,6.96
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2001,2.32,6.04,4.38,7.33
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2001,1.62,5.48,1.97,6.63
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2001,4.09,4.8,4.84,7.69
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2001,'0.25,3.56,3.25,5.05
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2001,2.93,5.44,4.31,6.96
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2001,-0.07,3.01,'0.65,5.2
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2001,'0.42,2.99,'0.9,4.72
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2001,1.35,6.31,3.93,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2001,'0.7,2.26,1.2,5.7
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2001,'0.48,1.01,'0.56,5.23
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2001,1.24,5.14,3.74,7.04
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,2000,7.41,8.95,7.25,7.93
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,2000,'0.84,1.49,2.36,4.45
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,2000,3.12,5.18,NA,NA
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,2000,'0.73,4.02,4.27,5.98
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,2000,1.02,3.75,4.9,6.17
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,2000,NA,NA,4.39,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,2000,'0.97,4.21,1.95,5.6
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,2000,2.83,3.78,6.51,6.22
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,2000,3.08,NA,5.26,6.36
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,2000,2.59,5.55,5.68,5.99
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,2000,3.84,4.3,3.48,5.98
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,2000,1.27,3.63,1.63,6.34
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,2000,2.3,4.9,6.03,7.16
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,2000,1.22,4.39,5.39,8.14
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,2000,4.4,5.42,1.73,7.24
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,2000,6.13,5.81,3.3,4.7
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,2000,3.21,2.63,5.23,7.16
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,2000,'0.27,1.18,3.02,3.71
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,2000,1.13,NA,3.91,3.28
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,2000,NA,NA,2.69,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,2000,3.44,6.11,6.13,7.33
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,2000,'0.8,3.05,NA,5.33
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,2000,'0.64,2.29,4.82,5.06
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,2000,1.5,4.26,4.8,6.38
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,1999,3.37,6.55,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,1999,2.72,4.46,NA,6.8
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,1999,3.78,5.99,NA,7.28
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,1999,2.15,5.04,NA,5.43
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,1999,'0.88,3.79,NA,6.76
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,1999,NA,NA,NA,7.56
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,1999,NA,4.2,NA,6.61
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,1999,NA,4.91,NA,5.42
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,1999,NA,4.37,NA,8.49
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,1999,1.31,3.58,NA,6.13
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,1999,7.6,7.23,NA,8.11
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,1999,2.42,5.09,NA,7.22
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,1999,1.52,3.2,NA,4.18
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,1999,1.81,NA,NA,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,1999,NA,6.2,NA,8.3
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,1999,1.07,2.29,NA,5.33
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,1999,'0.51,1.02,NA,4.66
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,1999,5.27,2.3,NA,7.51
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,1999,3.05,5.82,NA,7.91
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,1999,1.64,5.27,NA,8.77
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,1999,4.62,4.75,NA,7.44
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,1999,6.73,3.8,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,1999,3.03,5.16,NA,7.96
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,1999,'0.18,3.3,NA,NA
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,1998,6.8,3.42,2.2,5.32
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,1998,1.93,4.5,5.31,6.92
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,1998,4.52,1.91,2.35,4.66
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,1998,2.51,2.3,1.21,5.68
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,1998,'0.63,3.65,1.57,5.66
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,1998,5.83,3.42,2.42,5.91
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,1998,3.79,2.81,4.06,4.92
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,1998,1.55,3.63,2.91,5.8
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,1998,1.64,3.09,1.15,5.34
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,1998,8.73,7.23,6.6,8.29
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,1998,2.45,4.44,3.92,6.12
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,1998,1.54,1.88,'0.94,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,1998,4.94,2.92,2.63,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,1998,5.31,3.67,4.72,6.32
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,1998,4.31,2.23,5.35,4.4
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,1998,1.47,'0.02,'0.47,6.57
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,1998,1.96,2.02,1.33,4.22
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,1998,2.84,3.46,4.67,7.33
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,1998,1.64,3.98,2.26,6.41
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,1998,1.55,4.95,4.45,9.12
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,1998,3.28,3.17,2.53,4.19
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,1998,2.58,5,4.04,6.26
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,1998,4.35,1.95,1.88,3.88
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,1998,2.46,5.47,5.22,6.89
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,1997,'0.92,5.2,1.99,6.55
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,1997,NA,6.91,3.21,8.09
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,1997,1.83,6.1,2.67,6.61
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,1997,1.21,5.54,1.48,6.13
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,1997,1.82,5.95,3.66,7.17
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,1997,'0.15,5.3,2.48,6.72
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,1997,1.11,4.59,2.35,5.47
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,1997,'0.63,4.57,3.13,6.19
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,1997,1.2,4.3,1.68,5.75
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,1997,4.42,7.86,6.25,8.07
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,1997,1.41,5.84,3.7,7.09
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,1997,'0.07,3.05,'0.55,4.45
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,1997,1.38,5.29,2.62,6.74
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,1997,1.33,6.87,3.39,7.85
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,1997,'0.48,3.7,'0.92,6.05
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,1997,'0.06,2.22,'0.46,4.58
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,1997,'0.44,2.8,1.5,4.39
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,1997,NA,6.58,4.58,7.92
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,1997,'0.69,6.13,2.33,8.69
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,1997,3.68,6.86,5.16,7.91
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,1997,1.16,6.98,3.03,8.52
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,1997,NA,5.94,4.07,7.11
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,1997,'0.81,2.61,'0.77,5.38
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,1997,NA,6.19,5.04,7.24
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,1996,6.41,4.73,2.98,7.55
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,1996,6.66,3.76,5.51,6.51
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,1996,5.32,3.63,4.09,5.24
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,1996,1.76,1.91,2.28,6.28
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,1996,5.56,4.32,5.22,7.02
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,1996,3.66,4.16,3.88,6.61
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,1996,2.63,3.09,3.6,6.01
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,1996,2.75,3.5,3.11,6.3
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,1996,1.81,3.78,1.92,6.26
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,1996,7.89,7.03,7.55,8
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,1996,5.34,3.54,4.28,6.63
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,1996,1.15,2.57,'0.83,NA
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,1996,4.82,3.14,3.54,6.97
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,1996,6.06,4.73,5.41,7.06
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,1996,'0.87,1.96,'0.84,4.28
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,1996,'0.37,'0.84,'0.88,3.46
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,1996,1.7,2.26,1.29,4.6
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,1996,6.92,4.78,5.28,7.25
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,1996,5.18,3.4,2.69,8.65
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,1996,6.67,4.98,5.37,7.77
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,1996,6.01,3.92,4.49,7.3
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,1996,5.31,5.02,4.44,7.04
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,1996,2.55,1.17,'0.28,4.26
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,1996,4.91,5.33,5.61,7.18
+OD,Bauda,Harbhanga,Harbhanga,20.67777778,84.38666667,Harekrishnapur1,"Dug Well",W09194,1995,1.76,3.76,2.76,5.2
+OD,Bauda,Harbhanga,Harbhanga,20.62222222,84.605,Harbanga,"Dug Well",W09192,1995,'0.77,3.93,1.97,6.13
+OD,Bauda,Harbhanga,Harbhanga,20.70194444,84.3675,Nuapada,"Dug Well",W09197,1995,NA,3.51,2.47,4.64
+OD,Bauda,Harbhanga,Harbhanga,20.62555556,84.42722222,Purnakatak1,"Dug Well",W09199,1995,1.41,1.82,1.71,5.41
+OD,Bauda,Kantamal,Kantamal,20.77777778,83.87666667,Damamunda,"Dug Well",W09200,1995,2.26,4.63,2.7,6.15
+OD,Bauda,Kantamal,Kantamal,20.64222222,83.74111111,Kantamal,"Dug Well",W09201,1995,'0.58,4.04,3.7,5.6
+OD,Bauda,Kantamal,Kantamal,20.72611111,83.80888889,Palasaguda,"Dug Well",W09202,1995,'0.85,3.4,2.56,4.49
+OD,Bauda,Kantamal,Kantamal,20.75388889,83.94027778,Sanrahajhar,"Dug Well",W09203,1995,1.53,5.01,1.67,5.54
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85111111,84.19416667,Telibandha,"Dug Well",W10047,1995,1.04,3.83,1.58,5.13
+OD,Bauda,Harbhanga,Harbhanga,20.675,84.44722222,Tilesar,"Dug Well",W10048,1995,5.25,5.63,5.43,9.03
+OD,Bauda,Harbhanga,Harbhanga,20.59666667,84.48416667,Tukulunda,"Dug Well",W10049,1995,2.06,4.71,2.74,6.19
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80666667,84.09583333,Ainlapali,"Dug Well",W09179,1995,NA,2.49,NA,5.25
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80416667,84.05277778,Baunsuni,"Dug Well",W09181,1995,1,3.98,2.04,5.44
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.82861111,83.92944444,Manamunda,"Dug Well",W09182,1995,2.79,3.58,3.63,5.45
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.85972222,84.23888889,Polam,"Dug Well",W09183,1995,'0.78,2.86,'0.85,5.18
+OD,Bauda,"Baudh Sadar","Baudh Sadar",20.80694444,84.12888889,Singrachhak,"Dug Well",W09184,1995,'0.46,'0.98,'0.56,3.8
+OD,Bauda,Harbhanga,Harbhanga,20.48555556,84.46888889,Adenegarh,"Dug Well",W09185,1995,'0.76,2.49,'0.76,4.47
+OD,Bauda,Harbhanga,Harbhanga,20.59833333,84.61916667,Arakhpadar,"Dug Well",W09186,1995,2.52,5.3,3.08,6.33
+OD,Bauda,Harbhanga,Harbhanga,20.58361111,84.52416667,Baispada,"Dug Well",W09187,1995,'0.7,3.58,1.25,7.08
+OD,Bauda,Harbhanga,Harbhanga,20.8375,84.325,Boudh,"Dug Well",W09188,1995,3.9,3.62,4.34,6.98
+OD,Bauda,Harbhanga,Harbhanga,20.58333333,84.42361111,Charichak,"Dug Well",W09189,1995,2.05,3.08,5.27,4.16
+OD,Bauda,Harbhanga,Harbhanga,20.59861111,84.57916667,Chatarang,"Dug Well",W09190,1995,3.2,5.11,4.06,6.49
+OD,Bauda,Harbhanga,Harbhanga,20.70138889,84.48611111,Dholpur,"Dug Well",W09191,1995,-0.13,1.7,'0.15,5.17
+OD,Bauda,Harbhanga,Harbhanga,20.58833333,84.65722222,Kusang,"Dug Well",W09195,1995,1.5,5.76,4.66,6.79

@@ -1,0 +1,413 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2018,NA,47.28,50.25,NA
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2018,NA,5.9,NA,NA
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2018,NA,7.83,11.38,NA
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2018,NA,7.42,8.15,NA
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2018,NA,58.05,65,NA
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2018,NA,20.28,17.47,NA
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2018,NA,50.05,49.61,NA
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2018,NA,56.19,57.52,NA
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2018,NA,60.21,62.73,NA
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2018,NA,23.04,22.16,NA
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2018,NA,54.15,53.78,NA
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2018,NA,32.49,33.72,NA
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2018,NA,3.69,9.75,NA
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2018,NA,60.06,61.78,NA
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2018,7.23,7.1,NA,NA
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2018,NA,NA,5.08,4.61
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2018,NA,5.51,7.82,NA
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2017,3.23,3.78,3.53,NA
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2017,59.65,57.81,59.81,59.95
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2017,3.78,4,4.54,5.09
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2017,NA,47.12,NA,99
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2017,48.64,47.24,47.78,50.3
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2017,5.11,5.82,5.26,6.37
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2017,6.59,5.88,6.78,7.05
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2017,8.07,7.88,7.91,8.68
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2017,7.29,7.42,7.21,7.9
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2017,56.53,49.69,56.3,54.13
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2017,17.35,18.05,18.24,28.26
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2017,48.58,47.89,49.02,50.61
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2017,56.65,55.84,56.55,55.25
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2017,60.75,58.94,60.06,78.1
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2017,24.26,28.67,23.62,26.98
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2017,64.25,55.69,54.91,61.2
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2017,33.16,33.35,32.81,33.32
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2017,4.72,6.95,NA,6.15
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2016,47.86,45.98,47.56,NA
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2016,57.44,NA,57.67,58.12
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2016,58.33,NA,58.63,58.89
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2016,48.63,NA,47.26,52.12
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2016,28.41,NA,28.53,30.49
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2016,46.61,NA,49.28,52
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2016,58.17,NA,58.09,58.39
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2016,47.34,NA,46.83,48.42
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2016,7.57,NA,7.5,8.75
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2016,8.04,NA,9.94,25.04
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2016,7.41,NA,7.8,8.17
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2016,3.44,NA,3.52,4.36
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2016,34.71,NA,34.32,35.03
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2016,56.23,NA,55.72,58.84
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2016,4.97,NA,5.01,6.24
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2016,6.19,NA,6.44,7.52
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2016,4.62,NA,5.29,6.18
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2016,3.19,NA,3.21,4.13
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2015,39.32,48.05,43.01,49.18
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2015,57.37,56.59,57.57,56.97
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2015,58.47,58.25,58.7,48.55
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2015,50.2,50.86,49.84,51.83
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2015,28.2,27.51,28.12,30.25
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2015,46.45,52.92,49.23,52.66
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2015,61.84,64,61.13,62.22
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2015,49.12,47.64,45.5,47.78
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2015,7.44,7.65,8.08,7.94
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2015,9.41,22.23,16.62,22.83
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2015,6.97,6.9,7.41,7.4
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2015,3.19,3.84,4.32,4.26
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2015,34.78,35.44,34.59,34.54
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2015,56.18,59.54,55.38,60.6
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2015,4.84,7.6,5.55,5.46
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2015,6.14,8.95,6.73,6.65
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2015,4.51,4.58,5.22,4.8
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2015,2.98,3.38,3.37,3.99
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2014,48.18,45.42,48.16,48.07
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2014,56.19,55.4,56.48,55.75
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2014,3.15,2.63,3.47,3.16
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2014,57.99,56.33,58.38,57.37
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2014,50.3,48.28,50.62,49.72
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2014,30.75,27.3,27.65,27.2
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2014,54.18,50.64,55.09,50.56
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2014,63.7,64.35,63.63,63.97
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2014,46.95,43.97,46.6,45.25
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2014,7.48,6.84,7.62,7.25
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2014,17.19,23,19.77,22.79
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2014,NA,52.82,NA,NA
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2014,6.87,5.75,6.93,6.2
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2014,3.58,2.66,3.82,3.24
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2014,34.82,33.69,33.97,33.37
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2014,59.34,55.19,59.63,58.49
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2014,5.54,4.3,5.1,5.4
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2014,6.36,6.11,6.38,6.26
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2014,4.64,4.44,4.46,4.59
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2014,47.32,44.91,NA,45.72
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2013,45.81,47.4,44.68,47.98
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2013,54.58,53.93,55.05,54.33
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2013,45.39,43.69,45.34,44.8
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2013,1,3.34,2.29,3.79
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2013,56.7,55.88,56.9,56.43
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2013,49.08,48.98,47.83,50.17
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2013,28.54,28.95,30.01,30.2
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2013,49.53,49.94,49.88,50.02
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2013,66.08,65.75,65.81,66.22
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2013,44.73,43.9,43.07,45.2
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2013,6.77,7.6,6.71,7.75
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2013,11.16,21,19.15,20.4
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2013,52.46,53.28,52.58,53.56
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2013,56.33,58.13,56.88,56.38
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2013,5.55,5.73,5.49,6.4
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2013,'0.71,3.8,3.66,4.335
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2013,34.93,35.17,34.39,35.15
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2013,53.78,55.13,54.89,55.15
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2013,2.65,4.62,4.57,5.65
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2013,4.5,5.56,5.46,6.6
+DL,South,"South Delhi","Defence Colony",28.54333333,77.31416667,"Kalindi Kunj Barrage Pz","Tube Well",W21608,2013,'0.56,4.9,NA,4.74
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2013,2.41,4.5,3.83,4.4
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2013,50.45,49.57,NA,50.63
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2012,NA,45.73,43,49.27
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2012,NA,50.02,53.96,53
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2012,NA,41.68,43.6,43.35
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2012,NA,2.65,3.23,3.6
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2012,NA,54.2,55.7,56
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2012,NA,45.55,48.85,48.95
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2012,NA,30.9,29.62,27.5
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2012,NA,48.7,49.84,48.9
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2012,NA,66.84,66.4,66.2
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2012,NA,38.95,42.96,42.54
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2012,NA,6.5,7.45,7.1
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2012,NA,21.5,20.3,26.8
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2012,NA,51.66,53.17,52.46
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2012,NA,59.53,57.43,57.68
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2012,NA,4.8,5.6,5.15
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2012,NA,2.81,3.71,3.71
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2012,NA,35.04,35.21,35.39
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2012,NA,52.17,54.87,53.75
+DL,South,"South Delhi","Defence Colony",28.56916667,77.29222222,"Batla House Pz","Tube Well",W21605,2012,NA,2,NA,2.15
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2012,NA,4.73,4.58,4.5
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2012,NA,5.42,5.4,5.3
+DL,South,"South Delhi","Defence Colony",28.54333333,77.31416667,"Kalindi Kunj Barrage Pz","Tube Well",W21608,2012,NA,4.62,4.75,4.15
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2012,NA,4.7,4.39,4.3
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2012,NA,51.02,50.44,52.2
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2011,42.8,41.77,45.15,45.75
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2011,50.98,49.35,49.7,50.88
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2011,42.99,38.55,41.51,43.65
+DL,South,"South Delhi","Defence Colony",28.57472222,77.2175,"Kidwai Nagar Pz","Tube Well",W18519,2011,22.45,23.24,NA,23.99
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2011,1.6,1.79,2.7,2.7
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2011,54.42,53.2,53.9,54.3
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2011,46.26,45.65,45.15,55.45
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2011,28.2,27.2,30.1,29.1
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2011,52.56,52.1,48.55,53.68
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2011,66.8,66.15,66.73,66.45
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2011,39.35,36.2,39.15,39.24
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2011,6.89,6.4,6.89,6.96
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2011,20.57,19.7,21.32,21
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2011,51.36,58.26,51.06,52.46
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2011,59.73,61.78,59.26,61.43
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2011,4.6,4.5,4.6,5.1
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2011,1.54,'0.76,2.78,NA
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2011,35.09,35.18,35.07,34.94
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2011,46.06,46.15,52.05,46.83
+DL,South,"South Delhi","Defence Colony",28.56916667,77.29222222,"Batla House Pz","Tube Well",W21605,2011,1.96,1.9,1.8,2.25
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2011,2.3,3.66,4.54,3.95
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2011,2,3,5.15,3.58
+DL,South,"South Delhi","Defence Colony",28.54333333,77.31416667,"Kalindi Kunj Barrage Pz","Tube Well",W21608,2011,1.55,3.11,4.3,3.65
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2011,3.83,4.15,4.45,5.3
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2011,49.45,56.35,50.6,47.7
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2010,42.55,46.77,38.95,47.31
+DL,South,"South Delhi","Defence Colony",28.53444444,77.28777778,"Sarita Vihar Pz","Tube Well",W21339,2010,NA,29.43,NA,26.89
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2010,NA,45.72,56.35,46.66
+DL,South,"South Delhi",Kalkaji,28.50888889,77.265,"Tuglakabad Pz","Tube Well",W17803,2010,NA,63.31,NA,62.76
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2010,NA,40.74,39.59,42.45
+DL,South,"South Delhi","Defence Colony",28.58694444,77.25888889,"Sarai Kale Khan Pz","Tube Well",W18756,2010,2.8,1.7,'0.75,2.8
+DL,South,"South Delhi","Defence Colony",28.57472222,77.2175,"Kidwai Nagar Pz","Tube Well",W18519,2010,21.57,20.44,22.8,21.29
+DL,South,"South Delhi","Hauz Khas",28.51861111,77.18,"Gandhak Ki Baori","Dug Well",W18538,2010,NA,24.92,23.01,24.12
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2010,3.63,3,1.78,3.68
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2010,53.8,53.14,53.93,53.78
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2010,50.35,48.01,44.08,49.75
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2010,27.3,23.86,25.9,29.6
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2010,55.1,55.12,57.5,56.4
+DL,South,"South Delhi","Hauz Khas",28.52194444,77.19194444,"Lado Sarai Pz","Tube Well",W18961,2010,NA,62.53,60.41,62.28
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2010,62.34,66.79,66.84,66.7
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2010,44.14,41.18,34.5,45.5
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2010,7.78,7.24,6.5,8.4
+DL,South,"South Delhi",Kalkaji,28.52194444,77.28638889,Tehkhund,"Tube Well",W18965,2010,NA,43.91,NA,44.14
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2010,NA,20.22,13.2,26.92
+DL,South,"South Delhi","Hauz Khas",28.46527778,77.15638889,"Jaunapur Hort Mid Pz","Tube Well",W20280,2010,NA,37.53,NA,34.32
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2010,NA,55.04,52.26,52.86
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2010,67.23,63.05,61.78,63.03
+DL,South,"South Delhi","Hauz Khas",28.49305556,77.18861111,"Chattarpur Temple Samadhi Tw","Tube Well",W20736,2010,NA,56.75,NA,59.64
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2010,4.87,5.96,4.45,6.8
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2010,2.09,3.75,1.26,3.49
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2010,37.07,36.91,36.25,37.37
+DL,South,"South Delhi","Hauz Khas",28.44944444,77.22472222,"Asola Farms RK Temple","Tube Well",W20939,2010,NA,51.22,NA,56.95
+DL,South,"South Delhi","Hauz Khas",28.42555556,77.2125,"Bhatti RWH","Tube Well",W20940,2010,NA,49.47,NA,52.09
+DL,South,"South Delhi","Hauz Khas",28.46138889,77.15361111,"Jaunapur Bapu Slum","Tube Well",W20941,2010,NA,44.93,NA,41.66
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2010,NA,49.03,46.61,49.13
+DL,South,"South Delhi","Defence Colony",28.56916667,77.29222222,"Batla House Pz","Tube Well",W21605,2010,NA,2,1.78,2.2
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2010,3.75,4.22,3.2,5.3
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2010,3.4,4.88,3.74,6.1
+DL,South,"South Delhi","Defence Colony",28.54333333,77.31416667,"Kalindi Kunj Barrage Pz","Tube Well",W21608,2010,4.58,4.6,2.57,4.62
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2010,4.51,3.95,2.44,4.45
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2010,49.2,47.07,49.6,48.1
+DL,South,"South Delhi","Defence Colony",28.58583333,77.26333333,"Transco Maharani Bagh","Tube Well",W21611,2010,NA,3.66,2.61,4.01
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2010,NA,21.87,19.86,NA
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2009,41.8,43.16,46.23,45.17
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2009,22.41,20.04,21.2,20.63
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2009,44.65,42.04,45,42.13
+DL,South,"South Delhi",Kalkaji,28.50888889,77.265,"Tuglakabad Pz","Tube Well",W17803,2009,63.32,62.53,63.17,62.7
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2009,39.35,37.11,40.35,37.32
+DL,South,"South Delhi","Defence Colony",28.58694444,77.25888889,"Sarai Kale Khan Pz","Tube Well",W18756,2009,1.4,2.04,1.26,2.44
+DL,South,"South Delhi","Defence Colony",28.57472222,77.2175,"Kidwai Nagar Pz","Tube Well",W18519,2009,22.74,20.84,21.21,21.67
+DL,South,"South Delhi","Hauz Khas",28.51861111,77.18,"Gandhak Ki Baori","Dug Well",W18538,2009,25.61,23.01,23.97,24.07
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2009,3.08,2.54,2.88,4.51
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2009,52.96,51.76,52.33,49.96
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2009,47.23,47.32,47.25,50.22
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2009,23.8,30.02,22.79,31.46
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2009,51.3,48.67,54.65,48.3
+DL,South,"South Delhi","Hauz Khas",28.52194444,77.19194444,"Lado Sarai Pz","Tube Well",W18961,2009,62.63,61.49,62.15,62.25
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2009,66.46,62.12,66.1,63.1
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2009,41.49,40.08,40.76,40.96
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2009,7.73,7.82,7.33,8.05
+DL,South,"South Delhi",Kalkaji,28.52194444,77.28638889,Tehkhund,"Tube Well",W18965,2009,44.67,44.07,43.54,44.11
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2009,20.33,20.2,19.4,26.2
+DL,South,"South Delhi","Hauz Khas",28.46527778,77.15638889,"Jaunapur Hort Mid Pz","Tube Well",W20280,2009,36.77,33.11,36.6,34.27
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2009,53.3,54.12,54.08,56.39
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2009,62.83,63.12,63,63.46
+DL,South,"South Delhi","Hauz Khas",28.49305556,77.18861111,"Chattarpur Temple Samadhi Tw","Tube Well",W20736,2009,59.54,54.17,56,54.31
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2009,6.42,6.29,5.87,7.26
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2009,4.5,4.78,2.39,5.69
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2009,36.93,35.7,36.59,35.89
+DL,South,"South Delhi","Hauz Khas",28.44944444,77.22472222,"Asola Farms RK Temple","Tube Well",W20939,2009,49.26,48.24,46.61,50.96
+DL,South,"South Delhi","Hauz Khas",28.42555556,77.2125,"Bhatti RWH","Tube Well",W20940,2009,50.65,48.73,47.67,51.67
+DL,South,"South Delhi","Hauz Khas",28.46138889,77.15361111,"Jaunapur Bapu Slum","Tube Well",W20941,2009,45.71,43.42,44.14,44.22
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2009,48.78,49.1,48.05,50.71
+DL,South,"South Delhi","Defence Colony",28.56916667,77.29222222,"Batla House Pz","Tube Well",W21605,2009,1.97,2.11,1.79,2.66
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2009,3.73,4.09,3.52,4.26
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2009,4.39,4.64,4.18,4.92
+DL,South,"South Delhi","Defence Colony",28.54333333,77.31416667,"Kalindi Kunj Barrage Pz","Tube Well",W21608,2009,3.97,4.14,3.76,4.95
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2009,3.56,3.68,3.18,4.12
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2009,41.75,41.76,46.8,43.42
+DL,South,"South Delhi","Defence Colony",28.58583333,77.26333333,"Transco Maharani Bagh","Tube Well",W21611,2009,3.16,3.78,2.78,3.96
+DL,South,"South Delhi","Defence Colony",28.53444444,77.28777778,"Sarita Vihar Pz","Tube Well",W21339,2009,27.96,26.04,28.76,26.86
+DL,South,"South Delhi","Hauz Khas",28.44944444,77.22472222,"Asola Farms RK Temple","Tube Well",W20939,2008,44.36,NA,46.39,48.82
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2008,1.66,3.49,2.2,3.83
+DL,South,"South Delhi","Hauz Khas",28.46138889,77.15361111,"Jaunapur Bapu Slum","Tube Well",W20941,2008,40.4,NA,41.32,42.35
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2008,46.17,NA,47.13,48.57
+DL,South,"South Delhi","Defence Colony",28.56916667,77.29222222,"Batla House Pz","Tube Well",W21605,2008,1.93,NA,2.05,2.52
+DL,South,"South Delhi",Kalkaji,28.515,77.335,"Jaitpur Khadar RD-2600","Tube Well",W21606,2008,3.62,NA,3.88,4.14
+DL,South,"South Delhi",Kalkaji,28.50888889,77.34055556,"Jaitpur Khadar RD-3500","Tube Well",W21607,2008,4.01,NA,4.24,4.83
+DL,South,"South Delhi","Defence Colony",28.54333333,77.31416667,"Kalindi Kunj Barrage Pz","Tube Well",W21608,2008,4.06,NA,4.22,4.76
+DL,South,"South Delhi",Kalkaji,28.52888889,77.32527778,"Madanpur Khadar","Tube Well",W21609,2008,3.22,NA,3.46,4.04
+DL,South,"South Delhi","Vasant Vihar",28.48944444,77.14583333,"Sultanpur IMS","Tube Well",W21610,2008,40.06,NA,40.48,41.75
+DL,South,"South Delhi","Defence Colony",28.58583333,77.26333333,"Transco Maharani Bagh","Tube Well",W21611,2008,3.11,NA,3.42,4.02
+DL,South,"South Delhi","Defence Colony",28.53444444,77.28777778,"Sarita Vihar Pz","Tube Well",W21339,2008,24.76,NA,25.31,26.32
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2008,51,NA,51.34,51.94
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2008,45.25,NA,46.98,51.23
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2008,28.4,NA,29.48,30.15
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2008,47.8,45.12,48.1,45.35
+DL,South,"South Delhi","Hauz Khas",28.52194444,77.19194444,"Lado Sarai Pz","Tube Well",W18961,2008,60.48,61.47,61.22,61.82
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2008,62.1,66.01,61.79,63.65
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2008,38.3,NA,39.46,41.45
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2008,7.96,NA,7.61,8.67
+DL,South,"South Delhi",Kalkaji,28.52194444,77.28638889,Tehkhund,"Tube Well",W18965,2008,43.76,NA,43.98,45.1
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2008,11.9,NA,17.22,21.15
+DL,South,"South Delhi","Hauz Khas",28.46527778,77.15638889,"Jaunapur Hort Mid Pz","Tube Well",W20280,2008,31.42,NA,32.6,33.91
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2008,51.4,NA,52.88,55.85
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2008,62.68,NA,62.93,63.4
+DL,South,"South Delhi","Hauz Khas",28.49305556,77.18861111,"Chattarpur Temple Samadhi Tw","Tube Well",W20736,2008,52.1,NA,53.22,53.77
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2008,6.21,NA,5.95,7.5
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2008,4.32,4.91,2.31,5.04
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2008,35.04,NA,35.62,36.15
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2008,39.9,NA,41.22,45.11
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2008,19.06,NA,19.73,20.2
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2008,41.9,NA,41.97,42
+DL,South,"South Delhi",Kalkaji,28.50888889,77.265,"Tuglakabad Pz","Tube Well",W17803,2008,61.43,NA,62.04,62
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2008,38.9,NA,35.32,36.25
+DL,South,"South Delhi","Defence Colony",28.58694444,77.25888889,"Sarai Kale Khan Pz","Tube Well",W18756,2008,1.4,2.46,1.78,3.23
+DL,South,"South Delhi","Defence Colony",28.57472222,77.2175,"Kidwai Nagar Pz","Tube Well",W18519,2008,21.54,NA,22.12,21.6
+DL,South,"South Delhi","Hauz Khas",28.51861111,77.18,"Gandhak Ki Baori","Dug Well",W18538,2008,21.67,NA,21.88,22.31
+DL,South,"South Delhi","Hauz Khas",28.42555556,77.2125,"Bhatti RWH","Tube Well",W20940,2008,46.32,NA,46.67,44.65
+DL,South,"South Delhi","Hauz Khas",28.44944444,77.22472222,"Asola Farms RK Temple","Tube Well",W20939,2007,NA,47.56,41.86,50.26
+DL,South,"South Delhi","Hauz Khas",28.42555556,77.2125,"Bhatti RWH","Tube Well",W20940,2007,NA,49.24,NA,50.6
+DL,South,"South Delhi","Hauz Khas",28.46138889,77.15361111,"Jaunapur Bapu Slum","Tube Well",W20941,2007,NA,42.45,NA,41.6
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2007,NA,47.01,NA,47.15
+DL,South,"South Delhi","Defence Colony",28.53444444,77.28777778,"Sarita Vihar Pz","Tube Well",W21339,2007,NA,NA,NA,25.84
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2007,48.13,48.6,48.86,48.95
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2007,NA,45.35,44.4,48.95
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2007,NA,33,NA,33.5
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2007,NA,48.66,NA,47.5
+DL,South,"South Delhi","Hauz Khas",28.52194444,77.19194444,"Lado Sarai Pz","Tube Well",W18961,2007,60.81,62.64,61.37,62.76
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2007,66.01,61.63,68.33,62.3
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2007,36.82,37.01,37.23,39.7
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2007,NA,8.98,NA,9.05
+DL,South,"South Delhi",Kalkaji,28.52194444,77.28638889,Tehkhund,"Tube Well",W18965,2007,NA,34.58,NA,40.58
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2007,NA,22.28,NA,26.3
+DL,South,"South Delhi","Hauz Khas",28.46527778,77.15638889,"Jaunapur Hort Mid Pz","Tube Well",W20280,2007,NA,32.37,NA,33.6
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2007,NA,53.89,NA,53.56
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2007,NA,62.45,NA,62.53
+DL,South,"South Delhi","Hauz Khas",28.49305556,77.18861111,"Chattarpur Temple Samadhi Tw","Tube Well",W20736,2007,NA,51.62,NA,52.98
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2007,NA,6.23,NA,6.8
+DL,South,"East Delhi","Gandhi Nagar",28.60472222,77.26611111,"Nizamuddin Bridge-2","Tube Well",W21396,2007,4.36,NA,4.57,4.89
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2007,33.76,33.87,34.6,34.84
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2007,NA,43.54,NA,45.15
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2007,18.97,18.37,19.53,20.1
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2007,40.06,40.56,40.43,41
+DL,South,"South Delhi",Kalkaji,28.50888889,77.265,"Tuglakabad Pz","Tube Well",W17803,2007,NA,61.93,NA,62.15
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2007,35.17,35.78,35.94,36.15
+DL,South,"South Delhi","Defence Colony",28.58694444,77.25888889,"Sarai Kale Khan Pz","Tube Well",W18756,2007,1.89,2.13,2.06,2.2
+DL,South,"South Delhi","Defence Colony",28.57472222,77.2175,"Kidwai Nagar Pz","Tube Well",W18519,2007,NA,22.45,NA,23.25
+DL,South,"South Delhi","Hauz Khas",28.51861111,77.18,"Gandhak Ki Baori","Dug Well",W18538,2007,NA,20.87,NA,21.85
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2007,2.83,3.43,3.03,3.58
+DL,South,"South Delhi","Hauz Khas",28.42555556,77.2125,"Bhatti RWH","Tube Well",W20940,2006,48.45,NA,49.33,50.15
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2006,3.3,3.54,3.26,3.85
+DL,South,"South Delhi","Hauz Khas",28.46805556,77.15,"Jaunapur DJB","Tube Well",W20942,2006,44.82,NA,44.95,45.13
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2006,46.23,46,46.55,46.22
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2006,38.09,40.29,43.2,40.25
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2006,32.7,33.5,32.45,34.3
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2006,41,46,45.59,46.5
+DL,South,"South Delhi","Hauz Khas",28.52194444,77.19194444,"Lado Sarai Pz","Tube Well",W18961,2006,61.47,60.12,62.53,62.81
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2006,59.26,57.13,60.6,59.03
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2006,34.17,37.1,34.2,40.7
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2006,9.33,9.37,9.36,9.7
+DL,South,"South Delhi",Kalkaji,28.52194444,77.28638889,Tehkhund,"Tube Well",W18965,2006,29.07,39.3,31.91,41.16
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2006,12.78,28.25,16.2,32.9
+DL,South,"South Delhi","Hauz Khas",28.46527778,77.15638889,"Jaunapur Hort Mid Pz","Tube Well",W20280,2006,30.15,23.05,30.6,30.55
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2006,51.88,55.99,54.08,56.56
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2006,61.77,60.81,62.29,61.69
+DL,South,"South Delhi","Hauz Khas",28.49305556,77.18861111,"Chattarpur Temple Samadhi Tw","Tube Well",W20736,2006,50.42,51.02,51.07,51.92
+DL,South,"South Delhi","Defence Colony",28.595,77.25083333,"Humayun Tomb","Dug Well",W20740,2006,6.25,6.53,7.2,6.95
+DL,South,"South Delhi","Hauz Khas",28.54527778,77.20222222,"Hauz Khas Pz","Tube Well",W20925,2006,32.94,NA,33.34,32.68
+DL,South,"South Delhi","Hauz Khas",28.44944444,77.22472222,"Asola Farms RK Temple","Tube Well",W20939,2006,40.5,NA,43.85,52.9
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2006,39.35,43.25,41.15,45.05
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2006,15.44,20.44,17.04,22.14
+DL,South,"South Delhi","Hauz Khas",28.43333333,77.21388889,"Indira Nagar","Tube Well",W01540,2006,44.98,48.5,NA,50.3
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2006,38.46,39.26,39.43,41.8
+DL,South,"South Delhi",Kalkaji,28.50888889,77.265,"Tuglakabad Pz","Tube Well",W17803,2006,58.34,59.05,61.3,61.6
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2006,34.74,32.59,35.25,34.45
+DL,South,"South Delhi","Defence Colony",28.58694444,77.25888889,"Sarai Kale Khan Pz","Tube Well",W18756,2006,2.45,2.1,2.08,2.9
+DL,South,"South Delhi","Defence Colony",28.57472222,77.2175,"Kidwai Nagar Pz","Tube Well",W18519,2006,18.71,19.64,21.54,20.84
+DL,South,"South Delhi","Hauz Khas",28.51861111,77.18,"Gandhak Ki Baori","Dug Well",W18538,2006,18.85,23.89,20.15,24.55
+DL,South,"South Delhi","Hauz Khas",28.46138889,77.15361111,"Jaunapur Bapu Slum","Tube Well",W20941,2006,40.32,NA,40.45,41.55
+DL,South,"South Delhi","Hauz Khas",28.47694444,77.15611111,"Gadaipur Pz","Tube Well",W18609,2005,45.67,44.4,44.96,45
+DL,South,"East Delhi","Preet Vihar",28.59444444,77.27333333,"Nagali Rajapur Pz","Tube Well",W18851,2005,3.21,3.76,3.72,4.15
+DL,South,"South Delhi","Hauz Khas",28.50611111,77.18222222,"Jamali Kamali","Dug Well",W18959,2005,31.03,32.7,32.3,32
+DL,South,"South Delhi","Hauz Khas",28.40888889,77.18944444,"Jheel Khoh","Dug Well",W18960,2005,47.06,51,50.13,53.8
+DL,South,"South Delhi","Hauz Khas",28.52194444,77.19194444,"Lado Sarai Pz","Tube Well",W18961,2005,56.28,53.64,58.37,54.74
+DL,South,"South Delhi","Hauz Khas",28.52777778,77.22666667,"Pusp Vihar Pz","Tube Well",W18962,2005,56.67,57.56,56.4,55.48
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.20444444,"Satbari Pz","Tube Well",W18963,2005,36.46,33.7,34.35,36.6
+DL,South,"South Delhi","Defence Colony",28.59611111,77.245,"Sundar Nursery Pz","Tube Well",W18964,2005,9.26,8.7,9.03,8.25
+DL,South,"South Delhi",Kalkaji,28.52194444,77.28638889,Tehkhund,"Tube Well",W18965,2005,30.76,34.67,39.62,36.01
+DL,South,"South Delhi","Hauz Khas",28.42,77.20777778,"Balbir Nagar-1","Dug Well",W19957,2005,18.3,20.8,24.54,27.2
+DL,South,"South Delhi","Hauz Khas",28.46527778,77.15638889,"Jaunapur Hort Mid Pz","Tube Well",W20280,2005,18.98,NA,17.78,24.15
+DL,South,"South Delhi","Hauz Khas",28.52888889,77.23222222,"Madan Gir","Tube Well",W20345,2005,48.64,NA,50.51,55.28
+DL,South,"South Delhi","Hauz Khas",28.52444444,77.20611111,"Saket D Block Pz","Tube Well",W20346,2005,61.21,NA,59.53,62.73
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.13666667,Ayanagar,"Dug Well",W01533,2005,31.86,30.1,31.98,NA
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2005,41.67,38.9,41.84,42.57
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2005,14.91,20.38,19.64,21.34
+DL,South,"South Delhi","Hauz Khas",28.43333333,77.21388889,"Indira Nagar","Tube Well",W01540,2005,46.9,NA,47.12,47.86
+DL,South,"South Delhi","Hauz Khas",28.44583333,77.14583333,Mandi,"Dug Well",W01543,2005,NA,19,NA,18.57
+DL,South,"South Delhi","Hauz Khas",28.48333333,77.19166667,Satbari1,"Dug Well",W01547,2005,35.68,34,28.57,35.82
+DL,South,"South Delhi","Hauz Khas",28.46027778,77.18333333,"Fatehpur Beri Pz","Tube Well",W17802,2005,38.12,38.42,38.76,39.89
+DL,South,"South Delhi",Kalkaji,28.50888889,77.265,"Tuglakabad Pz","Tube Well",W17803,2005,57.2,58.7,57.66,59.9
+DL,South,"South Delhi","Hauz Khas",28.47166667,77.12972222,"Ayanagar Pz","Tube Well",W18754,2005,32.31,30.55,32.43,31.75
+DL,South,"South Delhi","Defence Colony",28.58694444,77.25888889,"Sarai Kale Khan Pz","Tube Well",W18756,2005,2.68,1.99,1.96,2.8
+DL,South,"South Delhi","Defence Colony",28.57472222,77.2175,"Kidwai Nagar Pz","Tube Well",W18519,2005,18.84,17.44,19.56,19.18
+DL,South,"South Delhi","Hauz Khas",28.51861111,77.18,"Gandhak Ki Baori","Dug Well",W18538,2005,22.53,23.07,22.76,23.17
+DL,South,"South Delhi",Kalkaji,28.49583333,77.26666667,"Asola Pz","Tube Well",W18958,2005,41.21,39.57,39.51,40.15
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2004,36.97,34.27,35.77,41.17
+DL,South,"South Delhi","Hauz Khas",28.48333333,77.19166667,Satbari1,"Dug Well",W01547,2004,35.22,NA,31.42,NA
+DL,South,"South Delhi","Hauz Khas",28.44583333,77.14583333,Mandi,"Dug Well",W01543,2004,18.67,NA,15.66,NA
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2004,16.23,16,18.68,15.4
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2003,35.72,43.47,34.82,47.12
+DL,South,"South Delhi","Hauz Khas",28.43333333,77.21388889,"Indira Nagar","Tube Well",W01540,2003,56.35,58.08,NA,58.57
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2003,23.1,NA,14,21
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.13666667,Ayanagar,"Dug Well",W01533,2002,30.41,29.93,31.93,33.13
+DL,South,"South Delhi","Hauz Khas",28.43333333,77.21388889,"Indira Nagar","Tube Well",W01540,2002,58.9,NA,56.66,NA
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2002,25.27,NA,24.73,24.53
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2002,43.62,41.52,41.85,44.2
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.13666667,Ayanagar,"Dug Well",W01533,2001,31.76,29.43,30.83,32.53
+DL,South,"South Delhi","Hauz Khas",28.44166667,77.2,Bhati-2,"Dug Well",W01535,2001,NA,23.38,NA,NA
+DL,South,Sohana,"Hauz Khas",28.43472222,77.14722222,"Gwal Pahri","Tube Well",W16267,2001,16.78,16.02,17,17
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2001,NA,24.49,26.73,26.68
+DL,South,"South Delhi",Kalkaji,28.50416667,77.30833333,Molaraband,"Dug Well",W01544,2001,NA,9.58,NA,NA
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2001,34.57,37.3,39.45,40.95
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.13666667,Ayanagar,"Dug Well",W01533,2000,26.9,29.53,29.2,28.13
+DL,South,"South Delhi","Hauz Khas",28.44166667,77.2,Bhati-2,"Dug Well",W01535,2000,22.32,21.31,22.7,22.68
+DL,South,Sohana,"Hauz Khas",28.43472222,77.14722222,"Gwal Pahri","Tube Well",W16267,2000,NA,14.7,NA,15.69
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,2000,15.18,11.03,23.51,15.73
+DL,South,"South Delhi",Kalkaji,28.50416667,77.30833333,Molaraband,"Dug Well",W01544,2000,8.88,9.23,10.44,NA
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,2000,32.21,32.85,36.21,36.65
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,1999,28.45,26.45,28.81,28.44
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,1999,13.53,11.88,13.82,14.77
+DL,South,Sohana,"Hauz Khas",28.43472222,77.14722222,"Gwal Pahri","Tube Well",W16267,1999,13.17,13.28,14.28,13.9
+DL,South,"South Delhi",Kalkaji,28.50416667,77.30833333,Molaraband,"Dug Well",W01544,1999,8.98,8.38,9.75,8.93
+DL,South,"South Delhi","Hauz Khas",28.44166667,77.2,Bhati-2,"Dug Well",W01535,1999,20.02,18.88,19.88,19.3
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.13666667,Ayanagar,"Dug Well",W01533,1999,26.53,26.45,29.21,26.9
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,1998,24.01,27.25,22.35,30.71
+DL,South,"South Delhi",Kalkaji,28.50416667,77.30833333,Molaraband,"Dug Well",W01544,1998,8.48,9.73,8.18,10.56
+DL,South,"South Delhi","Hauz Khas",28.51944444,77.20694444,Khanpur,"Tube Well",W01541,1998,NA,22.67,NA,21.32
+DL,South,Sohana,"Hauz Khas",28.43472222,77.14722222,"Gwal Pahri","Tube Well",W16267,1998,14.28,NA,13.15,NA
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.13666667,Ayanagar,"Dug Well",W01533,1998,NA,NA,26.83,26.63
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,1998,14.64,15.53,11.43,24.88
+DL,South,"South Delhi","Hauz Khas",28.44166667,77.2,Bhati-2,"Dug Well",W01535,1998,18.78,18.08,17.35,19.48
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,1997,13.34,21.93,13.77,14
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,1997,23.83,24.05,24.05,27.91
+DL,South,"South Delhi","Hauz Khas",28.44166667,77.2,Bhati-2,"Dug Well",W01535,1997,21.38,17.39,22.18,18.58
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.13666667,Ayanagar,"Dug Well",W01533,1997,NA,24.5,NA,25.75
+DL,South,"South Delhi",Kalkaji,28.50416667,77.30833333,Molaraband,"Dug Well",W01544,1997,9.88,10.14,8.98,10.56
+DL,South,"South Delhi","Hauz Khas",28.51944444,77.20694444,Khanpur,"Tube Well",W01541,1997,24.77,23.56,22.95,24.22
+DL,South,"South Delhi",Kalkaji,28.50416667,77.30833333,Molaraband,"Dug Well",W01544,1996,8.67,7.6,9.17,NA
+DL,South,"South Delhi","Hauz Khas",28.47777778,77.13666667,Ayanagar,"Dug Well",W01533,1996,24.53,26.43,23.23,29.78
+DL,South,"South Delhi","Hauz Khas",28.42777778,77.20833333,Bhati-1,"Tube Well",W01536,1996,14.05,24.21,19.69,29.81
+DL,South,"South Delhi","Defence Colony",28.55,77.26194444,"Dhobi Ghat Park","Dug Well",W01537,1996,9.51,10.37,11.47,12.31
+DL,South,"South Delhi","Hauz Khas",28.44166667,77.2,Bhati-2,"Dug Well",W01535,1996,17.68,18.6,16.75,19.11
+DL,South,"South Delhi","Hauz Khas",28.51944444,77.20694444,Khanpur,"Tube Well",W01541,1996,22.74,22.58,22.11,22.41

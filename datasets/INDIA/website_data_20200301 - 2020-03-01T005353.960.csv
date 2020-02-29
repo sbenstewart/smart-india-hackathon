@@ -1,0 +1,537 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2018,NA,5.05,8.4,NA
+RJ,Sirohi,SHEOGANJ,Sheoganj,25.01527778,72.925,"Palri M","Dug Well",W33231,2018,NA,24.2,38.9,NA
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2018,NA,2.23,3.31,NA
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2018,NA,3.94,7.82,NA
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2018,NA,12.9,17.2,NA
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2018,NA,8.95,17.3,NA
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2018,NA,3.01,9.63,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2018,NA,13.68,10.48,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2018,NA,21.87,NA,NA
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2018,NA,6.87,NA,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2018,NA,7.48,NA,NA
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2018,NA,7.86,NA,NA
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2018,NA,2.35,NA,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2018,NA,8.2,NA,NA
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2018,NA,NA,20.52,16.58
+RJ,Sirohi,SIROHI,Sirohi,24.76944444,72.73611111,"Mera Kishanganj Pz","Tube Well",W33228,2018,NA,9.7,22.32,NA
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2018,NA,32.02,24.69,NA
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2017,NA,6.84,2.89,11.89
+RJ,Sirohi,SIROHI,Sirohi,24.76944444,72.73611111,"Mera Kishanganj Pz","Tube Well",W33228,2017,'0.8,NA,'0.95,20.1
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2017,4.55,6.6,5.7,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2017,2.27,7.76,6.07,20.52
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2017,3.15,7.93,4.55,10.35
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2017,'0.78,9.48,3.08,19.18
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2017,16.37,24.8,19.47,27.97
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2017,3.73,2.05,2.33,2.53
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2017,6.78,7.75,7.58,8.78
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2017,7.3,17.65,9.3,30.4
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2017,5.2,17.47,7.4,18.05
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2017,4.46,28.26,6.56,13.26
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2017,'0.85,1.83,1.15,7.75
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2017,1.41,3.11,2.01,5.81
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2017,2.68,16.15,15.38,14.63
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2017,2.7,12.67,5.5,25.6
+RJ,Sirohi,SHEOGANJ,Sheoganj,25.01527778,72.925,"Palri M","Dug Well",W33231,2017,19.1,30.35,23.5,34.95
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2017,2.67,11.62,5.07,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2016,7.18,NA,6.98,8.18
+RJ,Sirohi,SHEOGANJ,Sheoganj,25.01527778,72.925,"Palri M","Dug Well",W33231,2016,35.6,NA,23.12,NA
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2016,1.55,NA,1.23,14.95
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2016,6.49,NA,5.64,12.29
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2016,8.1,NA,NA,NA
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2016,6.36,NA,14.46,16.38
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2016,NA,NA,NA,7.44
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2016,1.83,NA,1.65,4.78
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2016,20.27,NA,24.12,27.22
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2016,3.78,NA,12.84,17.38
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2016,5.37,NA,6.34,17.77
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2016,2.31,NA,1.49,8.71
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2016,7.75,NA,7.65,13.55
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2016,'0.8,NA,NA,12.2
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2016,NA,NA,6.48,33.8
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2016,3.57,NA,6.16,21.97
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2016,15.9,NA,15.35,17.9
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2016,15.5,NA,17,18.4
+RJ,Sirohi,SIROHI,Sirohi,24.76944444,72.73611111,"Mera Kishanganj Pz","Tube Well",W33228,2016,3.5,NA,9.45,NA
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2016,1.98,NA,8.3,18.08
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2015,6.28,7.48,6.88,8.37
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2015,14.4,20.05,16.05,19.1
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2015,1.35,NA,NA,14.9
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2015,6.09,11.99,6.29,13.38
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2015,NA,10.8,NA,9.5
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2015,5.46,15.36,9.56,16.43
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2015,'0.64,3.94,4.39,6.59
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2015,1.83,3.53,2.03,5.38
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2015,18.07,NA,NA,26.44
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2015,3.78,10.98,5.78,17.27
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2015,3.51,NA,11.21,20.67
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2015,2.57,13.07,6.77,16.07
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2015,2.41,17.11,2.31,18.12
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2015,5.75,7.35,5.85,9.2
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2015,7.1,32.37,17.5,33.6
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2015,2.17,10.07,6.77,12.54
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2015,1.08,NA,17.38,19.16
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,2014,NA,2.67,NA,2.67
+RJ,Sirohi,Sheoganj,Sheoganj,25.01388889,72.92777778,Palri-2,"Tube Well",W22263,2014,36.8,NA,NA,NA
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2014,12.06,12.08,18.06,18.68
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2014,NA,4.82,NA,NA
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2014,11.08,10.14,7.96,13.54
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2014,8.58,13.25,6.95,15.55
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2014,13.62,16.26,11.73,24.11
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2014,NA,13,NA,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2014,4.43,NA,3.39,NA
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,2014,NA,15.26,NA,NA
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2014,'0.98,2.9,1.8,4.94
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2014,14.04,NA,19.04,21.07
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2014,NA,21.77,NA,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2014,14.86,12.33,14.08,14.68
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2014,4.35,NA,6.35,17.07
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2014,15.12,10.06,13.72,13.71
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2014,6.2,6.4,6.1,NA
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2014,NA,6.71,NA,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2014,33.5,24.7,32.6,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2014,7.49,10.47,7.87,NA
+RJ,Sirohi,Pindwara,Pindwara,24.75,73.025,Jhadoli,"Bore Well",W20252,2014,NA,11.7,6.3,NA
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2014,NA,18.9,21.6,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2014,6.86,6.48,6.57,8.58
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2013,NA,4.31,NA,NA
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2013,NA,16.3,17.5,20.4
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2013,7.2,7.38,NA,8.28
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2013,1.8,4.88,NA,5.88
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2013,4.82,2.65,4.9,8.15
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2013,10.39,7.19,7.09,6.69
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2013,8.39,9.8,8.8,16.6
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2013,10.36,NA,12.86,NA
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2013,17.29,16.09,NA,NA
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2013,13,NA,13,13
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2013,1.4,5.09,1.74,5.94
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,2013,15.26,NA,15.26,15.26
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2013,1.94,1.43,1.93,3.93
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2013,21.07,NA,21.42,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2013,21.77,NA,21.77,21.77
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2013,12.98,12.18,7.18,11.98
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2013,7.07,11.67,4.47,NA
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2013,7.57,2.41,8.11,8.26
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2013,8.15,5.25,22.1,8.5
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2013,8.58,4.9,9.8,6.04
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2013,20.7,9.4,28.25,28.25
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2013,6.07,NA,8.27,12.07
+RJ,Sirohi,Pindwara,Pindwara,24.75,73.025,Jhadoli,"Bore Well",W20252,2013,10.5,NA,NA,7.65
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2013,15.8,16.5,NA,18
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,2013,2.67,NA,2.67,2.67
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2012,NA,NA,4.01,6.01
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2012,NA,NA,16.4,18.6
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2012,NA,6.78,6.78,8.18
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2012,NA,2.88,3.72,15.18
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2012,NA,4.25,1.45,8.15
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2012,NA,6.69,5.69,9.39
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2012,NA,11.66,NA,20.56
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2012,NA,16.6,8.7,NA
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2012,NA,15.79,13.99,NA
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2012,NA,NA,13,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2012,NA,NA,4.24,6.39
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,2012,NA,15.26,NA,15.26
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2012,NA,4.13,2.03,2.83
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2012,NA,22.87,NA,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2012,NA,21.77,NA,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2012,NA,5.38,4.98,9.78
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2012,NA,6.47,NA,NA
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2012,NA,2.91,'0.51,6.71
+RJ,Sirohi,"Abu Road","Abu Road",24.49722222,72.92222222,Girwar1,"Bore Well",W18401,2012,NA,4.07,NA,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2012,NA,9.61,1.95,8.15
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2012,NA,1.9,NA,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2012,NA,7.3,9.8,20.4
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2012,NA,8.3,NA,NA
+RJ,Sirohi,Pindwara,Pindwara,24.75,73.025,Jhadoli,"Bore Well",W20252,2012,NA,NA,2.3,7.1
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2012,NA,13.4,12.7,17.6
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,2012,NA,2.67,2.67,NA
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2011,NA,5.31,NA,6.05
+RJ,Sirohi,Sheoganj,Sheoganj,25.01388889,72.92777778,Palri-2,"Tube Well",W22263,2011,45.8,NA,27.5,44.1
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2011,2.83,9.55,1.83,18.68
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2011,'0.85,2.4,1.8,5
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2011,10.09,12.04,6.39,14.09
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2011,9.06,21.56,9.29,24.36
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2011,NA,20,NA,10.8
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2011,NA,NA,14.49,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2011,4.04,4.44,2.99,6.35
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2011,1.63,2.13,5.04,4.13
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2011,24.83,25.97,20.97,27.61
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2011,3.03,6.58,14.58,13.43
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2011,14.67,40.02,3.72,17.07
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2011,8.91,10.56,'0.77,13.61
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2011,13.15,13.85,10.85,14.45
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2011,NA,3.25,'0.55,6.2
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2011,4.6,23.1,1.95,34.1
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2011,9.62,NA,8.02,NA
+RJ,Sirohi,Pindwara,Pindwara,24.75,73.025,Jhadoli,"Bore Well",W20252,2011,NA,2.6,NA,NA
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2011,8.7,17.15,9,20
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2011,NA,16.5,13.5,18.4
+RJ,Sirohi,Reodar,Reodar,24.725,72.68333333,Sandwara,"Bore Well",W20627,2011,NA,10.2,NA,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2011,5.88,7.23,17.13,8.88
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2010,NA,8.71,4.65,NA
+RJ,Sirohi,Reodar,Reodar,24.725,72.68333333,Sandwara,"Bore Well",W20627,2010,NA,NA,10.2,10.2
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2010,10.78,NA,9.2,19.38
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2010,1.35,14.98,1.65,17.35
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2010,8.99,15.85,10.82,17.53
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2010,10.2,11.2,9.04,12.4
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2010,26.16,23.63,17.96,25.71
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2010,5.24,NA,4.39,7.29
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2010,NA,NA,4.81,NA
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2010,25.66,23.56,23.97,26.47
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2010,5.88,NA,NA,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2010,5.28,12.92,4.63,10.58
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2010,40.27,NA,NA,21.39
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2010,10.41,NA,10.35,18.31
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2010,14.75,13.15,13.68,16
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2010,2.3,NA,3.69,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2010,10.8,NA,21.2,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2010,12.97,NA,12.67,NA
+RJ,Sirohi,Pindwara,Pindwara,24.75,73.025,Jhadoli,"Bore Well",W20252,2010,1.5,NA,2.65,NA
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2010,16.2,22.95,17.14,21.65
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2010,16.6,20.25,80.54,21.4
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2010,6.63,7.28,7.38,9.93
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2009,4.19,5.44,4.31,7.56
+RJ,Sirohi,Reodar,Reodar,24.725,72.68333333,Sandwara,"Bore Well",W20627,2009,7.1,7.99,8.57,8.02
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2009,17.14,18.09,10.48,17.18
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2009,10.63,10.83,11.15,17.55
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2009,10.99,11.14,15.39,14.59
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2009,8.98,9.82,10.6,NA
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2009,24.19,25.56,23.66,27.86
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2009,18.64,19.59,NA,21.94
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2009,4.12,5.47,6.16,8.24
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2009,5.32,6.24,NA,6.68
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2009,22.6,23.79,25.27,22.27
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2009,4.76,5.4,5.78,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2009,14.46,14.78,14.38,12.88
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2009,NA,NA,NA,10.26
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2009,16.53,18.67,18.72,NA
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2009,16.23,14.88,15.71,17.41
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2009,8.37,7.59,13.05,11.15
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2009,NA,8.11,NA,11.5
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2009,NA,NA,NA,22.65
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2009,NA,10.89,12.29,NA
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2009,18.18,19.5,20.95,20.4
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2009,18.1,18.13,19.95,19.8
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2009,7.13,6.56,8.43,8.24
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2008,4.11,2.61,5.31,5.01
+RJ,Sirohi,Reodar,Reodar,24.725,72.68333333,Sandwara,"Bore Well",W20627,2008,4.1,3.9,6.78,4.2
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2008,3.54,NA,17.02,7.38
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2008,5.55,8.2,9.94,16.45
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2008,3.11,3.99,8.82,7.34
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2008,10.98,23.11,16.16,19.46
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2008,8.62,8.95,9.6,9.3
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2008,10.34,13.39,17.43,19.14
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2008,12.62,11.39,NA,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2008,1.59,5.39,4.88,8.47
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2008,5.73,5.03,5.63,3.63
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2008,19.17,18.07,27.27,19.52
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2008,NA,NA,4.83,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2008,5.98,9.38,13.88,12.88
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2008,9.17,3.72,17.57,8.67
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2008,10.18,5.21,9.91,8.81
+RJ,Sirohi,"Abu Road","Abu Road",24.55,72.83333333,Kiwarli-1,"Bore Well",W18402,2008,NA,9.57,11.77,10.69
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2008,3.77,4.35,7.35,7.3
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2008,NA,3.55,7.1,5.2
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2008,21.7,3.05,NA,22.9
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.75,Doduwa,"Bore Well",W18406,2008,NA,4.15,NA,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2008,NA,NA,9.07,11.17
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2008,8.9,10,17.5,17.1
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2008,7.9,16.4,17.65,18.16
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2008,6.91,6.78,5.88,7.63
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2007,2.31,'0.91,2.46,4.42
+RJ,Sirohi,Reodar,Reodar,24.725,72.68333333,Sandwara,"Bore Well",W20627,2007,NA,3.35,NA,5.15
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2007,NA,NA,3.68,5.69
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2007,'0.63,'0.43,'0.88,5.03
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2007,3.4,2.28,3.75,8.58
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2007,2.69,4.19,3.29,5.87
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2007,11.76,12.36,12.16,15.96
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2007,7.75,8.84,8.5,10.02
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2007,10.89,13.19,10.84,16.64
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2007,10.5,NA,11.17,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2007,NA,5.39,5.59,6.02
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2007,1.13,4.83,4.98,6.83
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2007,14.67,14.47,15.27,19.49
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2007,NA,2.13,NA,3.23
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2007,4.78,15.1,5.13,17.3
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2007,NA,5.16,NA,5.87
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2007,2.97,8.35,3.82,10.67
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2007,1.41,3.84,3.51,6.71
+RJ,Sirohi,"Abu Road","Abu Road",24.49722222,72.92222222,Girwar1,"Bore Well",W18401,2007,4.67,NA,NA,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.55,72.83333333,Kiwarli-1,"Bore Well",W18402,2007,8.27,10.59,8.77,10.49
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2007,3.25,5.25,4.3,8.6
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2007,NA,1.62,3.35,4.14
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2007,NA,11.62,9.27,19.22
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.75,Doduwa,"Bore Well",W18406,2007,3.85,3.05,4.3,3.97
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2007,NA,8.17,NA,10.3
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2007,NA,9.3,9.1,12.55
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2007,13.2,15.4,13.63,17.41
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,2007,8.12,NA,NA,NA
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2006,1.01,3.03,'0.61,6.81
+RJ,Sirohi,Reodar,Reodar,24.725,72.68333333,Sandwara,"Bore Well",W20627,2006,2.3,6.06,1.15,6.15
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2006,NA,10.06,NA,10.73
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,2006,NA,9.5,NA,NA
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2006,2.08,21.98,'0.88,22.08
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2006,2.15,3.37,NA,4.15
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2006,2.49,10.2,1.09,10.59
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2006,19.36,23.51,19.16,23.51
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2006,6.3,12.98,NA,NA
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2006,NA,17.87,NA,20.19
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2006,NA,NA,NA,9.83
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2006,NA,6.39,NA,7.49
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2006,2.98,6.31,2.04,6.38
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2006,NA,26.37,NA,26.78
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2006,'0.38,NA,'0.08,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2006,NA,8.6,NA,8.78
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2006,3.91,9.93,2.66,9.97
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2006,1.17,12.85,'0.67,13.47
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2006,'0.61,14.79,'0.11,14.96
+RJ,Sirohi,"Abu Road","Abu Road",24.55,72.83333333,Kiwarli-1,"Bore Well",W18402,2006,9.82,15.8,8.57,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2006,3.85,10.6,2.76,11.75
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2006,NA,8.58,NA,8.61
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2006,2.1,27.45,1.3,27.57
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.75,Doduwa,"Bore Well",W18406,2006,NA,8.55,NA,8.75
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2006,3.87,19.27,3.07,19.34
+RJ,Sirohi,Pindwara,Pindwara,24.75,73.025,Jhadoli,"Bore Well",W20252,2006,NA,5.2,NA,5.3
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2006,3.4,18.82,1.1,20
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2006,11.6,18.93,10.4,19.5
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,2006,NA,NA,NA,15.27
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2005,6.93,6.23,6.64,11.54
+RJ,Sirohi,Reodar,Reodar,24.725,72.68333333,Sandwara,"Bore Well",W20627,2005,NA,NA,7.13,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2005,7.16,8.73,9.45,10.45
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,2005,NA,NA,5.66,NA
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2005,8.24,NA,15.28,23.15
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2005,3.94,10.32,2.9,15.93
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2005,11.85,10.28,6.71,15.07
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2005,16.75,14.77,15.69,25.8
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2005,13.07,13.22,12.55,13.84
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2005,15.87,15.92,14.76,21.39
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2005,NA,NA,15.77,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2005,2.46,3.6,2.17,7.98
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2005,8.61,11.2,8.05,7.89
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,2005,NA,NA,23.82,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2005,NA,19.25,NA,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2005,10.12,12.75,9.53,15.3
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2005,10.33,15.63,6.81,21.52
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2005,3.99,9.52,1.62,18.37
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2005,4.25,16.4,1.99,22.93
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.76666667,Chandrawati1,"Bore Well",W18400,2005,NA,22.18,NA,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.49722222,72.92222222,Girwar1,"Bore Well",W18401,2005,NA,4.69,NA,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.55,72.83333333,Kiwarli-1,"Bore Well",W18402,2005,13.5,14.77,13.33,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.48333333,72.68333333,Mungthalla,"Bore Well",W18403,2005,10.91,9.6,9.05,11.71
+RJ,Sirohi,Pindwara,Pindwara,24.8,73.06666667,Pindwara,"Bore Well",W18404,2005,9.02,8.49,5.77,11.76
+RJ,Sirohi,Sheoganj,Sheoganj,25.13333333,72.96666667,Posaliya,"Bore Well",W18405,2005,12.48,32.49,15.14,35.29
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.75,Doduwa,"Bore Well",W18406,2005,5.01,8,6.47,12.78
+RJ,Sirohi,"Abu Road","Abu Road",24.45,72.75,Manpur2,"Bore Well",W20251,2005,43.99,NA,42.19,50.01
+RJ,Sirohi,Pindwara,Pindwara,24.75,73.025,Jhadoli,"Bore Well",W20252,2005,7.52,NA,3.62,19.24
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.65,Anadara,"Bore Well",W20253,2005,15.92,NA,16.84,21.1
+RJ,Sirohi,Reodar,Reodar,24.63333333,72.53333333,Reodar,"Bore Well",W20254,2005,17.92,NA,17.63,19.6
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,2005,NA,NA,NA,21.07
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2003,NA,6.41,NA,13.51
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2003,NA,20.41,NA,20.51
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2003,NA,12.06,NA,12.55
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,2003,NA,12.71,NA,NA
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2003,NA,19.28,NA,20.98
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2003,NA,24.63,NA,23.79
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2003,NA,30.58,NA,31.06
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2003,NA,12.4,NA,13.2
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2003,NA,16.37,NA,22.79
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2003,NA,3.79,NA,100.49
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2003,NA,6.98,NA,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2003,NA,20.18,NA,21.18
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,2003,NA,NA,NA,11.99
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2003,NA,14.38,NA,14.08
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2003,NA,20.69,NA,21.31
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2003,NA,17.91,NA,NA
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,2003,NA,21.42,NA,17.32
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2002,5.81,4.4,NA,8.91
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2002,21.71,NA,20.01,20.71
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,2002,24.77,NA,23.47,23.67
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2002,13.98,11.34,10.68,11.68
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,2002,14.15,18.05,11.95,12.65
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2002,22.88,18.88,18.58,19.08
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2002,NA,15.3,15.85,NA
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2002,17.29,15.48,22.09,16.79
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2002,NA,29.86,13.16,31.06
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2002,12.7,10.53,12.2,11.1
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2002,15.49,16.79,21.24,11.99
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2002,NA,15.7,NA,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2002,3.49,5.36,NA,8.49
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2002,13.63,9.6,15.33,12.63
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2002,23.38,20.01,19.98,21.08
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,2002,15.69,12.89,NA,15.89
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2002,14.88,10.06,11.08,13.68
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2002,21.51,17.81,20.81,19.51
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2002,22.27,15.67,18.47,19.27
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,2002,NA,6.93,NA,NA
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2001,9.1,NA,6.54,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,2001,8.1,10.2,5.37,11.74
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,2001,19.4,21.3,20.74,19.9
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2001,13.7,14.5,13.83,10.56
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,2001,18.7,20.5,17.45,13.76
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2001,19,19.7,18.78,20.69
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2001,16.7,17.4,13.99,17.52
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2001,13.9,15.7,14.49,15.86
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2001,33,32.7,30.21,31.97
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2001,13.1,14,10.54,14.96
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2001,7,11.5,15.06,21.35
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2001,NA,NA,15.62,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2001,3.1,7.5,4.13,8.8
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2001,11,12,6.87,11.65
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2001,19.4,21,NA,22.6
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,2001,15.3,16.7,13.86,NA
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2001,15.3,16.8,9.15,16.28
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2001,17.9,18.6,15.8,17.64
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2001,17.4,18.7,12.19,18.85
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2001,19.1,19.5,10.36,10.6
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,2000,8.27,8.79,NA,NA
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,2000,9.39,21.48,17.4,21.3
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,2000,18.7,18.68,21,18.5
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,2000,13.85,13.36,14.05,13
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,2000,20.15,NA,20.3,NA
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,2000,20.15,20.75,16.1,22
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,2000,11.4,13.89,15.1,17
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,2000,12.72,13.53,15,19.8
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,2000,32.56,32.23,32.4,NA
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,2000,13.94,12.96,13.7,14.5
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,2000,16.88,20.2,11,21.5
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,2000,NA,NA,NA,12.1
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,2000,7.1,6.49,7.3,NA
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,2000,10.98,11.28,11.1,17.2
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,2000,20.65,20.1,20.7,28.1
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,2000,16.06,16.05,16.6,18.2
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,2000,13.58,9.97,16.5,14.3
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,2000,17.53,19.67,12.5,20.5
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,2000,4.4,NA,4.65,NA
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,2000,8.22,NA,9.5,NA
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,1999,15.1,14.1,20.2,16.4
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,1999,12.72,10.7,12.47,11.48
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,1999,NA,11.6,19.3,NA
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,1999,9.19,6.1,4.93,5.48
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,1999,NA,13.4,15.4,NA
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,1999,9.66,6.3,10.95,10.08
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,1999,NA,22.8,25.11,NA
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,1999,18.28,24.1,19.53,21.03
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,1999,14.49,11.9,15.5,14.7
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,1999,12.95,8.4,11.11,10.5
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,1999,NA,18.2,NA,NA
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,1999,14.19,6.15,19.83,14.1
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,1999,6.21,4.1,7.5,7.22
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,1999,6.4,4.8,NA,NA
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,1999,17.79,16.39,17.7,16.65
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,1999,10.33,4.8,11.08,8.6
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,1999,11.37,11.2,10.5,NA
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,1999,16.5,12.1,21.63,21.1
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,1999,9.69,9.3,14.32,12.5
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,1999,8.89,7.8,12.06,7.2
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,1999,31.95,NA,24,31.92
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,1999,16.44,14.4,19.46,17.48
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,1998,12.8,10.45,9.15,16
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,1998,11.4,10.15,10.32,10.9
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,1998,11.5,10.62,10.81,11.75
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,1998,NA,4.46,5.61,5.9
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,1998,15.5,13.3,12.73,NA
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,1998,10.8,6.52,5.74,7.6
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,1998,21.3,19.07,22.22,21.6
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,1998,22.3,20.39,12.93,16.4
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,1998,12.5,9.8,11.72,11.7
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,1998,9.8,5.94,7.97,7.4
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,1998,NA,20.24,5.65,21.66
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,1998,11.4,7.47,11.05,11.35
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,1998,5.6,2.13,5.12,5.1
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,1998,3.65,2.71,3.8,5
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,1998,NA,17.12,16.55,15.7
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,1998,11.2,8.18,3.45,NA
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,1998,10.8,8.32,10.03,10.1
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,1998,13.4,8.14,13.7,14.45
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,1998,7,7.34,4.18,13
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,1998,5.9,5.77,4.82,6.1
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,1998,NA,22,23.71,NA
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,1998,15,13.5,14.21,16.7
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,1997,7.85,14.38,7.42,19.44
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,1997,15,16.65,12.37,19.23
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,1997,2.5,4.94,4.08,9.99
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,1997,NA,13.37,13.19,NA
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,1997,4.6,7.35,7.2,14.39
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,1997,19.1,15.68,17.83,23.7
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,1997,15.8,16.78,18.68,16.83
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,1997,11.6,12.34,9.03,12.06
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,1997,4.3,8.6,10.21,9.84
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,1997,3.5,17.43,21.3,19.08
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,1997,11.1,14.97,6.29,15.8
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,1997,3,7.38,2.15,8.78
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,1997,1.9,5.18,2.36,14.96
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,1997,NA,12.18,14.99,16.43
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,1997,NA,10.04,9.92,10
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,1997,8.1,10.17,7.2,18.2
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,1997,8.7,3.93,12.55,18.64
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,1997,11.1,8.1,3.66,14.87
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,1997,4,8.54,3.25,12.06
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,1997,NA,NA,16.92,NA
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,1997,9.1,8.97,9.87,10.22
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,1997,9.8,11.28,10.36,11.88
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,1996,7.68,7.31,13.1,12.32
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,1996,9.28,9.38,10.7,10.29
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,1996,1.35,4.12,4.6,6.7
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,1996,12.1,12.37,NA,13.06
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,1996,1.7,7.31,3.7,7.67
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,1996,14.7,17.7,19.8,20.04
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,1996,15.4,18.6,16.2,16.73
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,1996,5.9,7.6,11.2,10.95
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,1996,8.95,8.67,10.4,10.93
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,1996,21.2,21.7,15.9,20.64
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,1996,5.1,9.17,13.1,12.8
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,1996,3.68,5.06,6.95,7.08
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,1996,3,4.98,4.7,6.37
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,1996,10.18,13.29,13.2,14.28
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,1996,5.98,9,8.3,8.43
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,1996,4.48,9.25,8.94,11.2
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,1996,2.88,6.48,9.1,11.33
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,1996,10.05,9.86,11.8,14.86
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,1996,5.1,6.18,6.6,10.86
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,1996,NA,17.69,24.8,24.79
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,1996,9.48,9.68,11.4,10.84
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,1996,14.2,14.12,15.2,17.05
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,1995,9.2,8.3,9.17,9.03
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,1995,9.16,8.2,8.14,9.23
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,1995,NA,NA,NA,15.1
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,1995,5.06,4.13,5.42,5.79
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,1995,9.76,11.02,5.3,13.58
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,1995,2.69,2.02,3.91,5.08
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,1995,4.02,4.27,6.7,7.13
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,1995,5.47,2.99,5.7,6.05
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,1995,9.98,8.17,10.96,9.75
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,1995,3.03,2.82,4.43,4.09
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,1995,3.63,2.21,4.32,4.06
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,1995,7.57,4.62,5.16,9.27
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,1995,5.07,5.36,6.52,7.5
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,1995,20.95,21.09,20.58,21.77
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,1995,9.02,5.22,9.8,10.09
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,1995,6.29,5.82,6.67,7.85
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,1995,15.28,16.2,15.38,15.45
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,1995,14.31,12.52,15.4,14.75
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,1995,1.85,5.28,4.22,8.37
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,1995,11.68,11.01,12.08,12.1
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,1995,1.4,4.97,4.6,6.55
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,1995,13.92,10.67,12.66,12.77
+RJ,Sirohi,Pindwara,Pindwara,24.65833333,72.93611111,Sarupganj,"Dug Well",W14502,1994,1.19,3.85,1.76,8.76
+RJ,Sirohi,Reodar,Reodar,24.55,72.38333333,Mandar,"Dug Well",W14507,1994,NA,10.34,7.6,11.2
+RJ,Sirohi,Bali,Sheoganj,25.14583333,73.06666667,Sumerpur,"Dug Well",W14389,1994,8.33,8.43,7.84,11.32
+RJ,Sirohi,Sirohi,Sirohi,24.8,72.67916667,Palri-1,"Dug Well",W14516,1994,1.67,9.56,3.4,11.48
+RJ,Sirohi,Pindwara,Pindwara,24.71138889,73.125,Malera,"Dug Well",W14501,1994,2.21,7.14,2.15,9.5
+RJ,Sirohi,Sirohi,Sirohi,24.76666667,72.73333333,"Mera Kishanganj","Dug Well",W14515,1994,3.22,NA,2.96,20.38
+RJ,Sirohi,Reodar,Reodar,24.675,72.675,Gulabganj,"Dug Well",W14504,1994,3.8,5.69,2.4,9.28
+RJ,Sirohi,Sirohi,Sirohi,24.925,72.6875,Kalandri,"Dug Well",W14514,1994,4.73,10.7,3.75,8.94
+RJ,Sirohi,"Abu Road","Abu Road",24.41666667,72.77638889,Siyana,"Dug Well",W14500,1994,3.02,7.43,2.29,8.3
+RJ,Sirohi,Sirohi,Sirohi,24.8875,72.74166667,Dudwa1,"Dug Well",W14513,1994,5.57,7.04,4.7,9.24
+RJ,Sirohi,Reodar,Reodar,24.60972222,72.57555556,Karaunti,"Dug Well",W14506,1994,10.84,13.85,9.21,17.7
+RJ,Sirohi,Sheoganj,Sheoganj,25.09305556,72.80416667,Sewra,"Dug Well",W14512,1994,12.5,17.56,11.95,16.83
+RJ,Sirohi,"Abu Road",Pindwara,24.55,72.84583333,Kiwarli-2,"Dug Well",W14499,1994,8.56,12.11,6.76,13.12
+RJ,Sirohi,Sheoganj,Sirohi,24.99527778,72.71666667,Barlot,"Dug Well",W14511,1994,12.43,14.26,NA,17.3
+RJ,Sirohi,Pindwara,Pindwara,24.84583333,72.9875,Virwara,"Dug Well",W14503,1994,2.31,11.98,3.05,15.08
+RJ,Sirohi,Sheoganj,Sheoganj,24.95555556,72.89166667,Ambeshwarji,"Dug Well",W14510,1994,4.25,NA,NA,8.66
+RJ,Sirohi,"Abu Road","Abu Road",24.50416667,72.70833333,Dhamsara,"Dug Well",W14498,1994,1.85,4.21,'0.77,5.1
+RJ,Sirohi,Reodar,Reodar,24.59583333,72.34166667,Warman,"Dug Well",W14509,1994,NA,12.56,15.5,13.57
+RJ,Sirohi,Reodar,Reodar,24.63472222,72.49166667,Jirawal,"Dug Well",W14505,1994,NA,16.3,NA,20.99
+RJ,Sirohi,Reodar,"Abu Road",24.63055556,72.70138889,"Mount Abu","Dug Well",W14508,1994,NA,NA,NA,8.08
+RJ,Sirohi,"Abu Road",Pindwara,24.58333333,72.78333333,"Abu Road1","Dug Well",W14497,1994,1.9,4.22,1.5,7.15
+RJ,Sirohi,Sirohi,Sirohi,24.88333333,72.86666667,Sirohi,"Dug Well",W14517,1994,5.52,7.63,1.3,10.81

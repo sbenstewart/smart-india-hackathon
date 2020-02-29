@@ -1,0 +1,750 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2018,NA,20.11,16.69,NA
+HR,Karnal,Karnal,Karnal,29.74027778,77.10416667,"Jaroli Khurd-Pz","Tube Well",W32071,2018,13.51,NA,NA,8.05
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2018,24.35,24.13,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2018,NA,26.01,25.15,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2018,NA,28.5,27.77,NA
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2018,NA,25.72,26.63,NA
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2018,NA,33.34,33.57,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2018,NA,8.41,10.13,NA
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2018,NA,4.29,15.87,NA
+HR,Karnal,Gharaunda,Gharaunda,29.50277778,76.92083333,"Dingar Majra-Pz","Tube Well",W22619,2018,NA,36.7,37.71,NA
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2018,NA,18.88,18.47,NA
+HR,Karnal,Karnal,Gharaunda,29.50222222,77.00138889,Mohidinpur-Pz,"Tube Well",W29979,2018,16.68,16.25,NA,NA
+HR,Karnal,Assandh,Assandh,29.63222222,76.63111111,Chochra-PZ,"Tube Well",W33010,2018,29.73,27.43,NA,NA
+HR,Karnal,Karnal,Assandh,29.62666667,76.67277778,Chorkharsa-Pz,"Tube Well",W32041,2018,33.16,32.03,NA,NA
+HR,Karnal,Karnal,Nissang,29.65833333,76.75,Gondar-Pz,"Tube Well",W32051,2018,33.17,28.17,NA,NA
+HR,Karnal,Assandh,Nissang,29.66944444,76.72361111,"Jalmana PZ","Tube Well",W32052,2018,28,27.02,NA,NA
+HR,Karnal,Karnal,Karnal,29.69388889,77.09861111,"Nalvi Kalan-Pz","Tube Well",W32059,2018,14.41,13.63,NA,NA
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2018,NA,10.7,NA,NA
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2018,NA,23.59,NA,NA
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2018,NA,4.26,NA,NA
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2018,NA,NA,22.33,21.31
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 2(d)","Tube Well",W21317,2018,NA,NA,297,NA
+HR,Karnal,Karnal,Karnal,29.78333333,77.11666667,"Chorpur 1(d)","Tube Well",W22025,2018,NA,NA,9.73,9.48
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2018,NA,NA,30,NA
+HR,Karnal,Nilokheri,Nilokheri,29.76583333,76.97222222,"Dadupur Khurd-Pz","Tube Well",W22620,2018,18.44,NA,NA,NA
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-M,"Tube Well",W32077,2018,NA,26.34,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-m,"Tube Well",W29977,2018,NA,8.07,15.25,NA
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur S","Tube Well",W29985,2018,NA,16.09,19.77,NA
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak S","Tube Well",W29987,2018,NA,24.97,25.61,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail S","Tube Well",W29988,2018,NA,25.22,24.89,NA
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 1(m)","Tube Well",W32069,2018,NA,NA,123,NA
+HR,Karnal,Karnal,Nissang,29.76,76.72583333,Amupur-PZ,"Tube Well",W33520,2018,NA,NA,28.41,NA
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-S,"Tube Well",W30014,2018,28.34,NA,NA,25.1
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan-B,"Dug Well",W32021,2018,25.5,NA,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2018,NA,23.05,23.54,NA
+HR,Karnal,Gharaunda,Gharaunda,29.50277778,76.92083333,"Dingar Majra-Pz","Tube Well",W22619,2017,39.45,NA,38.05,35.6
+HR,Karnal,Shahbad,Nilokheri,29.91666667,76.91666667,Umri-Pz,"Tube Well",W30048,2017,NA,NA,NA,37.18
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2017,NA,NA,29.92,26.11
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2017,NA,NA,25.98,25.03
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2017,NA,NA,28.48,26.48
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2017,NA,NA,19.43,22.34
+HR,Karnal,Karnal,Karnal,29.78333333,77.11666667,"Chorpur 1(d)","Tube Well",W22025,2017,NA,NA,10.26,10.06
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2017,NA,NA,33.47,34.07
+HR,Karnal,Nilokheri,Nilokheri,29.76583333,76.97222222,"Dadupur Khurd-Pz","Tube Well",W22620,2017,NA,NA,16.82,17.08
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2017,NA,NA,8.52,9.03
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2017,NA,NA,11.03,12.85
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2017,NA,NA,24.84,21.99
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2017,NA,NA,4.4,4.9
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2017,NA,NA,12.82,13.69
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2017,NA,NA,18.78,16.85
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2017,NA,NA,25.83,23.68
+HR,Karnal,Karnal,Karnal,29.74027778,77.10416667,"Jaroli Khurd-Pz","Tube Well",W32071,2017,8.2,NA,7.15,8
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-m,"Tube Well",W29977,2017,NA,NA,12.88,12.8
+HR,Karnal,Karnal,Gharaunda,29.50222222,77.00138889,Mohidinpur-Pz,"Tube Well",W29979,2017,NA,NA,16.3,16.25
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur S","Tube Well",W29985,2017,NA,NA,16.79,17.25
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak S","Tube Well",W29987,2017,NA,NA,24.35,22.12
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail S","Tube Well",W29988,2017,NA,NA,27.27,25.27
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound S","Tube Well",W29981,2017,NA,NA,28.98,25.7
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-S,"Tube Well",W30014,2017,NA,NA,27.9,24.86
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Shekhpur 2(d)","Tube Well",W30008,2017,NA,NA,19.95,19.45
+HR,Karnal,Assandh,Assandh,29.63222222,76.63111111,Chochra-PZ,"Tube Well",W33010,2017,NA,NA,29.02,25.72
+HR,Karnal,Karnal,Assandh,29.62666667,76.67277778,Chorkharsa-Pz,"Tube Well",W32041,2017,NA,NA,33.25,27.8
+HR,Karnal,Karnal,Nissang,29.65833333,76.75,Gondar-Pz,"Tube Well",W32051,2017,NA,NA,31.75,27.1
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-M,"Tube Well",W32077,2017,NA,NA,27.92,24.84
+HR,Karnal,Karnal,Karnal,29.69388889,77.09861111,"Nalvi Kalan-Pz","Tube Well",W32059,2017,NA,NA,12.69,12.98
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 1(m)","Tube Well",W32069,2017,NA,NA,16.3,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2017,NA,NA,27.71,25.61
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2016,NA,NA,29.23,26.2
+HR,Karnal,Karnal,Nissang,29.76,76.72583333,Amupur-PZ,"Tube Well",W33520,2016,NA,NA,27.02,NA
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2016,NA,NA,16.9,15.9
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2016,NA,NA,27.69,NA
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2016,NA,NA,25.26,21.15
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2016,NA,NA,4.38,5.51
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2016,NA,NA,8.39,9.76
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2016,NA,NA,24.95,21.28
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2016,NA,NA,33.44,31.49
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2016,NA,NA,19.59,NA
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2016,NA,NA,16.62,16.41
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2016,NA,NA,21.51,22.24
+HR,Karnal,Karnal,Karnal,29.78333333,77.11666667,"Chorpur 1(d)","Tube Well",W22025,2016,NA,NA,9.91,10.62
+HR,Karnal,Gharaunda,Gharaunda,29.50277778,76.92083333,"Dingar Majra-Pz","Tube Well",W22619,2016,39.3,NA,37.4,33.67
+HR,Karnal,Nilokheri,Nilokheri,29.76583333,76.97222222,"Dadupur Khurd-Pz","Tube Well",W22620,2016,NA,NA,15.75,16.4
+HR,Karnal,Shahbad,Nilokheri,29.91666667,76.91666667,Umri-Pz,"Tube Well",W30048,2016,NA,NA,NA,34.68
+HR,Karnal,Gharaunda,Gharaunda,29.46111111,77.0375,Faridpur-Pz,"Tube Well",W29974,2016,NA,25.7,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-m,"Tube Well",W29977,2016,NA,NA,12.17,11.6
+HR,Karnal,Karnal,Gharaunda,29.50222222,77.00138889,Mohidinpur-Pz,"Tube Well",W29979,2016,NA,NA,16.46,15.59
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound S","Tube Well",W29981,2016,NA,NA,28.82,25.82
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur S","Tube Well",W29985,2016,NA,NA,17.89,15.21
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak S","Tube Well",W29987,2016,NA,NA,23.5,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail S","Tube Well",W29988,2016,NA,NA,26.9,NA
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Shekhpur 2(d)","Tube Well",W30008,2016,NA,NA,NA,19.95
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-S,"Tube Well",W30014,2016,NA,NA,27.23,NA
+HR,Karnal,Assandh,Assandh,29.47777778,76.50388889,Gangateri-Pz,"Tube Well",W32017,2016,31.75,NA,NA,NA
+HR,Karnal,Karnal,Assandh,29.62666667,76.67277778,Chorkharsa-Pz,"Tube Well",W32041,2016,NA,NA,33.07,NA
+HR,Karnal,Karnal,Nissang,29.65833333,76.75,Gondar-Pz,"Tube Well",W32051,2016,NA,NA,30.78,NA
+HR,Karnal,Assandh,Nissang,29.66944444,76.72361111,"Jalmana PZ","Tube Well",W32052,2016,NA,NA,26.59,NA
+HR,Karnal,Karnal,Karnal,29.69388889,77.09861111,"Nalvi Kalan-Pz","Tube Well",W32059,2016,NA,NA,13.1,13.04
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 1(m)","Tube Well",W32069,2016,NA,NA,NA,15.14
+HR,Karnal,Karnal,Karnal,29.74027778,77.10416667,"Jaroli Khurd-Pz","Tube Well",W32071,2016,NA,8.06,NA,NA
+HR,Karnal,Karnal,Karnal,29.75083333,77.00166667,Salarpur-Pz,"Tube Well",W32073,2016,NA,NA,6.5,NA
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-M,"Tube Well",W32077,2016,NA,NA,27.43,NA
+HR,Karnal,Karnal,Karnal,29.62222222,77.04166667,"Kairiwali M","Tube Well",W33007,2016,NA,NA,NA,23.21
+HR,Karnal,Karnal,Karnal,29.62222222,77.04166667,"Kairiwali S","Tube Well",W33008,2016,NA,NA,NA,23.88
+HR,Karnal,Assandh,Assandh,29.62805556,76.67444444,"Choor Karsa-PZ","Tube Well",W33009,2016,NA,NA,NA,28.6
+HR,Karnal,Assandh,Assandh,29.63222222,76.63111111,Chochra-PZ,"Tube Well",W33010,2016,NA,NA,28.72,26.17
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2016,NA,NA,13.18,11.58
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2015,NA,NA,12.05,11.13
+HR,Karnal,Indri,Indri,29.94305556,77.04166667,Samora1,"Dug Well",W32104,2015,NA,7.72,8.82,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2015,NA,NA,7.48,7.75
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2015,NA,NA,20.94,18.52
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2015,NA,NA,23.91,21.93
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2015,NA,NA,15.11,23.08
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2015,28.75,NA,24.29,28.75
+HR,Karnal,Gharaunda,Gharaunda,29.50277778,76.92083333,"Dingar Majra-Pz","Tube Well",W22619,2015,39.8,34.15,35.86,39.8
+HR,Karnal,Nilokheri,Nilokheri,29.76583333,76.97222222,"Dadupur Khurd-Pz","Tube Well",W22620,2015,17.9,14.4,15.55,16
+HR,Karnal,Shahbad,Nilokheri,29.91666667,76.91666667,Umri-Pz,"Tube Well",W30048,2015,NA,NA,36.49,34.27
+HR,Karnal,Gharaunda,Gharaunda,29.46111111,77.0375,Faridpur-Pz,"Tube Well",W29974,2015,30.8,26.5,30.65,25.41
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-m,"Tube Well",W29977,2015,NA,NA,11.84,11.24
+HR,Karnal,Karnal,Gharaunda,29.50222222,77.00138889,Mohidinpur-Pz,"Tube Well",W29979,2015,NA,14.35,16.44,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound S","Tube Well",W29981,2015,NA,NA,26.59,24.14
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur S","Tube Well",W29985,2015,NA,NA,16.27,15.22
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak S","Tube Well",W29987,2015,NA,NA,22.27,20.53
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail S","Tube Well",W29988,2015,NA,NA,24.37,23.59
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Shekhpur 2(d)","Tube Well",W30008,2015,NA,20.85,NA,18.06
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-S,"Tube Well",W30014,2015,NA,21.9,24.6,22.27
+HR,Karnal,Assandh,Assandh,29.47777778,76.50388889,Gangateri-Pz,"Tube Well",W32017,2015,NA,NA,24.29,NA
+HR,Karnal,Panipat,Gharaunda,29.47916667,76.89916667,Baholi-Pz,"Tube Well",W32018,2015,NA,14.87,15.86,16.31
+HR,Karnal,Assandh,Assandh,29.49916667,76.71305556,Padhana-DW,"Dug Well",W32020,2015,NA,18.19,19.32,19.33
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan-B,"Dug Well",W32021,2015,NA,19.23,18.07,19.92
+HR,Karnal,Assandh,Assandh,29.50111111,76.50416667,Kurlan-Pz,"Tube Well",W32023,2015,NA,19.51,20.33,20.89
+HR,Karnal,Assandh,Assandh,29.50277778,76.75055556,"Balla- Pz","Tube Well",W32024,2015,NA,NA,17.64,NA
+HR,Karnal,Assandh,Assandh,29.50833333,76.65888889,Dupedi-DW,"Dug Well",W32027,2015,NA,15.85,15.07,NA
+HR,Karnal,Assandh,Assandh,29.52277778,76.60416667,Assandh-Pz,"Tube Well",W32029,2015,NA,15.05,NA,15.63
+HR,Karnal,Assandh,Assandh,29.54166667,76.63111111,"Jaisingh Pura-Dw","Dug Well",W32032,2015,NA,18.57,19.48,19.06
+HR,Karnal,Gharaunda,Gharaunda,29.55833333,77.0375,Chaura-Pz,"Tube Well",W32033,2015,NA,NA,19.72,NA
+HR,Karnal,Gharaunda,Gharaunda,29.57277778,76.84944444,Anchla-Pz,"Tube Well",W32034,2015,NA,10.75,10.87,11.95
+HR,Karnal,Assandh,Assandh,29.5825,76.62555556,Rattak-Pz,"Tube Well",W32036,2015,NA,24.96,25.11,24.99
+HR,Karnal,Karnal,Karnal,29.62222222,77.04166667,"Kairiwali D","Tube Well",W32040,2015,NA,NA,19.93,NA
+HR,Karnal,Karnal,Assandh,29.62666667,76.67277778,Chorkharsa-Pz,"Tube Well",W32041,2015,NA,27.21,31.76,28.13
+HR,Karnal,Karnal,Karnal,29.63527778,77.01861111,Ranwar-Pz,"Tube Well",W32043,2015,NA,NA,19.67,NA
+HR,Karnal,Karnal,Karnal,29.63722222,77.09388889,Andhera-PZ,"Tube Well",W32044,2015,NA,NA,9.59,NA
+HR,Karnal,Assandh,Nissang,29.64833333,76.75472222,Gondhar,"Bore Well",W32046,2015,NA,NA,27.44,NA
+HR,Karnal,Karnal,Nissang,29.65833333,76.75,Gondar-Pz,"Tube Well",W32051,2015,NA,23.49,25.89,24.69
+HR,Karnal,Assandh,Nissang,29.66944444,76.72361111,"Jalmana PZ","Tube Well",W32052,2015,NA,24.14,24.13,24.25
+HR,Karnal,Karnal,Karnal,29.67222222,77.12777778,Nasirpur-Pz,"Tube Well",W32053,2015,NA,9.85,10.38,11.13
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang-S,"Tube Well",W32056,2015,NA,28.53,NA,29.96
+HR,Karnal,Karnal,Nissang,29.69111111,76.84222222,Manjura-Pz,"Tube Well",W32057,2015,NA,22.3,NA,NA
+HR,Karnal,Karnal,Karnal,29.69388889,77.09861111,"Nalvi Kalan-Pz","Tube Well",W32059,2015,NA,NA,13.05,NA
+HR,Karnal,Karnal,Nissang,29.69444444,76.75416667,Nisang-Pz,"Tube Well",W32060,2015,NA,NA,31.76,NA
+HR,Karnal,Karnal,Karnal,29.69583333,77.11333333,Nalipur-Pz,"Tube Well",W32061,2015,NA,13.65,13.77,13.89
+HR,Karnal,Karnal,Karnal,29.69694444,77.03055556,Phusgarh-Pz,"Tube Well",W32062,2015,NA,20.3,20.86,21.53
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,"Kachhwa Pz","Tube Well",W32064,2015,NA,18.3,18.53,19.37
+HR,Karnal,Karnal,Karnal,29.725,77.11111111,Mehmadpur-Pz,"Tube Well",W32065,2015,NA,11.65,12.18,12.56
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 1(m)","Tube Well",W32069,2015,NA,16.05,17.8,17.56
+HR,Karnal,Karnal,Karnal,29.74027778,77.10416667,"Jaroli Khurd-Pz","Tube Well",W32071,2015,NA,NA,8.74,NA
+HR,Karnal,Nilokheri,Nilokheri,29.75694444,76.96944444,Jhanjari-Pz,"Tube Well",W32075,2015,NA,14.14,17.1,16.12
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-M,"Tube Well",W32077,2015,NA,NA,24.67,NA
+HR,Karnal,Nilokheri,Nilokheri,29.76944444,76.84166667,Sagga-Pz,"Tube Well",W32079,2015,NA,21.3,23.97,22.33
+HR,Karnal,Karnal,Karnal,29.77805556,77.09694444,Ghiar-Pz,"Tube Well",W32082,2015,NA,8.2,8.98,8.48
+HR,Karnal,Nilokheri,Karnal,29.79638889,76.97666667,Rambha-Pz,"Tube Well",W32084,2015,NA,7.75,7.11,8.57
+HR,Karnal,Nilokheri,Nilokheri,29.79833333,76.92944444,Taraori-Pz,"Tube Well",W32085,2015,NA,21.46,22.84,22.43
+HR,Karnal,Nilokheri,Nilokheri,29.82555556,76.87444444,Ajanthali-Pz,"Tube Well",W32088,2015,NA,NA,25.76,NA
+HR,Karnal,Indri,Indri,29.83388889,77.13611111,Randauli-Pz,"Tube Well",W32090,2015,NA,7.7,8.26,8.97
+HR,Karnal,Nilokheri,Nilokheri,29.84305556,76.88333333,Anjanthali-Pz,"Tube Well",W32091,2015,NA,23.1,25.76,24.27
+HR,Karnal,Nilokheri,Nilokheri,29.86583333,76.91111111,"Manak Majra-Pz","Tube Well",W32094,2015,NA,23.58,25.2,24.69
+HR,Karnal,Indri,Indri,29.89027778,77.01666667,Budanpur-Pz,"Tube Well",W32095,2015,NA,7.67,NA,8.87
+HR,Karnal,Shahbad,Nilokheri,29.90333333,76.7875,Kirmach-St-Pz,"Tube Well",W32096,2015,NA,NA,26.6,NA
+HR,Karnal,Karnal,Indri,29.92055556,76.96722222,"Badson- PZ","Tube Well",W32099,2015,NA,NA,32.48,NA
+HR,Karnal,Indri,Indri,29.94166667,76.98611111,Udana-Pz,"Tube Well",W32102,2015,NA,33.11,33.66,34.46
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2015,NA,NA,3.61,3.56
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2014,NA,NA,27.35,21.29
+HR,Karnal,Indri,Indri,29.94166667,77.05,Dhomsi(shallow),"Tube Well",W32103,2014,NA,NA,NA,23.38
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2014,NA,NA,12.36,15.52
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2014,NA,NA,24.97,22.93
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2014,NA,NA,26.22,19.6
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2014,10.95,NA,10.14,NA
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2014,NA,NA,2.31,3.9
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2014,NA,NA,6.75,7.07
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2014,NA,NA,NA,7.85
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2014,NA,NA,23.81,17.63
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2014,NA,NA,28.77,20.75
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2014,NA,NA,29.03,28.56
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2014,NA,NA,35.37,19.42
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2014,NA,NA,18.38,16.49
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2014,NA,NA,14.75,14.9
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2014,NA,NA,NA,22.07
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2014,29.2,NA,29.7,24.89
+HR,Karnal,Karnal,Karnal,29.73944444,76.97305556,"Sugar Cane Breeding Farm","Tube Well",W22521,2014,NA,NA,NA,23.07
+HR,Karnal,Karnal,Karnal,29.78333333,77.11666667,"Chorpur 1(d)","Tube Well",W22025,2014,NA,NA,NA,7.79
+HR,Karnal,Gharaunda,Gharaunda,29.50277778,76.92083333,"Dingar Majra-Pz","Tube Well",W22619,2014,42.9,34.2,35.34,32.78
+HR,Karnal,Nilokheri,Nilokheri,29.76583333,76.97222222,"Dadupur Khurd-Pz","Tube Well",W22620,2014,NA,NA,13.99,12.45
+HR,Karnal,Gharaunda,Gharaunda,29.46111111,77.0375,Faridpur-Pz,"Tube Well",W29974,2014,31,28.1,30.1,26
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-m,"Tube Well",W29977,2014,NA,NA,NA,4.45
+HR,Karnal,Karnal,Gharaunda,29.50222222,77.00138889,Mohidinpur-Pz,"Tube Well",W29979,2014,NA,NA,15.53,14.6
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound S","Tube Well",W29981,2014,NA,NA,24.02,20.67
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur S","Tube Well",W29985,2014,NA,NA,17.23,15.52
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak S","Tube Well",W29987,2014,NA,NA,22.45,19.58
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail S","Tube Well",W29988,2014,NA,NA,24.68,23.03
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-S,"Tube Well",W30014,2014,NA,NA,NA,21.31
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan-B,"Dug Well",W32021,2014,NA,13.9,NA,17.73
+HR,Karnal,Assandh,Assandh,29.50083333,76.50277778,Jabhala-Pz,"Tube Well",W32022,2014,NA,16.75,NA,15.67
+HR,Karnal,Karnal,Karnal,29.62222222,77.04166667,"Kairiwali D","Tube Well",W32040,2014,NA,NA,NA,19.75
+HR,Karnal,Karnal,Karnal,29.69388889,77.09861111,"Nalvi Kalan-Pz","Tube Well",W32059,2014,NA,NA,12.65,13.7
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 3(d)","Tube Well",W32068,2014,NA,NA,NA,14.37
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 1(m)","Tube Well",W32069,2014,NA,NA,NA,14.37
+HR,Karnal,Karnal,Karnal,29.74027778,77.10416667,"Jaroli Khurd-Pz","Tube Well",W32071,2014,NA,NA,6.6,6.42
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-M,"Tube Well",W32077,2014,NA,NA,NA,21.75
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,"Saunkra S","Tube Well",W32083,2014,NA,NA,NA,20.02
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2014,NA,NA,NA,5.24
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2013,NA,NA,22.64,20.9
+HR,Karnal,Indri,Indri,29.94166667,76.98611111,Udana-Pz,"Tube Well",W32102,2013,NA,NA,31.69,31.56
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2013,NA,NA,17.55,16.65
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2013,NA,NA,24.29,23.46
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2013,NA,NA,19.98,19.56
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2013,NA,NA,10.15,11.59
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2013,NA,NA,7.05,8.09
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2013,NA,NA,7.14,7.12
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2013,NA,NA,4.17,5.38
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2013,NA,NA,20.75,18.39
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2013,NA,NA,21.46,20.83
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2013,NA,NA,29.03,28.72
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2013,NA,NA,21,20.47
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2013,NA,NA,17.14,17.33
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2013,NA,NA,14.35,15.37
+HR,Karnal,Indri,Indri,29.84027778,77.11666667,Biana,"Tube Well",W21755,2013,NA,NA,7.43,8.79
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2013,NA,NA,23.75,23.2
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2013,26.3,25.2,26.85,23.65
+HR,Karnal,Karnal,Karnal,29.73944444,76.97305556,"Sugar Cane Breeding Farm","Tube Well",W22521,2013,NA,NA,23.03,23.1
+HR,Karnal,Karnal,Karnal,29.78333333,77.11666667,"Chorpur 1(d)","Tube Well",W22025,2013,NA,NA,8.03,9.19
+HR,Karnal,Gharaunda,Gharaunda,29.50277778,76.92083333,"Dingar Majra-Pz","Tube Well",W22619,2013,37.55,34.81,35.25,34.92
+HR,Karnal,Nilokheri,Nilokheri,29.76583333,76.97222222,"Dadupur Khurd-Pz","Tube Well",W22620,2013,13.12,NA,12.92,13.76
+HR,Karnal,Gharaunda,Gharaunda,29.46111111,77.0375,Faridpur-Pz,"Tube Well",W29974,2013,32,26.15,29.1,25.9
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-m,"Tube Well",W29977,2013,NA,NA,4.15,5.25
+HR,Karnal,Karnal,Gharaunda,29.50222222,77.00138889,Mohidinpur-Pz,"Tube Well",W29979,2013,NA,NA,16.45,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound S","Tube Well",W29981,2013,NA,NA,22.48,19.99
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur S","Tube Well",W29985,2013,NA,NA,16.35,15.93
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak S","Tube Well",W29987,2013,NA,11.4,24.17,22.84
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail S","Tube Well",W29988,2013,NA,NA,24.3,23.47
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-S,"Tube Well",W30014,2013,NA,NA,21.21,NA
+HR,Karnal,Assandh,Assandh,29.49916667,76.71305556,Padhana-DW,"Dug Well",W32020,2013,NA,NA,17.85,17.17
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan-B,"Dug Well",W32021,2013,17.1,14.2,19.88,17.58
+HR,Karnal,Assandh,Assandh,29.50083333,76.50277778,Jabhala-Pz,"Tube Well",W32022,2013,19.26,NA,17.35,19.27
+HR,Karnal,Assandh,Assandh,29.50111111,76.50416667,Kurlan-Pz,"Tube Well",W32023,2013,19.45,17.6,NA,19.55
+HR,Karnal,Gharaunda,Gharaunda,29.53611111,76.96944444,Gharaunda-Pz,"Tube Well",W32031,2013,NA,NA,32.27,30.03
+HR,Karnal,Assandh,Assandh,29.5825,76.62555556,Rattak-Pz,"Tube Well",W32036,2013,NA,NA,24.54,23.05
+HR,Karnal,Karnal,Karnal,29.62222222,77.04166667,"Kairiwali D","Tube Well",W32040,2013,NA,NA,19.4,19.58
+HR,Karnal,Assandh,Nissang,29.66944444,76.72361111,"Jalmana PZ","Tube Well",W32052,2013,NA,NA,24.42,NA
+HR,Karnal,Karnal,Karnal,29.69388889,77.09861111,"Nalvi Kalan-Pz","Tube Well",W32059,2013,NA,NA,13.88,NA
+HR,Karnal,Karnal,Karnal,29.69694444,77.03055556,Phusgarh-Pz,"Tube Well",W32062,2013,NA,NA,21.8,21.49
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,"Kachhwa Pz","Tube Well",W32064,2013,NA,17.32,NA,17.11
+HR,Karnal,Karnal,Karnal,29.74027778,77.10416667,"Jaroli Khurd-Pz","Tube Well",W32071,2013,NA,6.4,7.05,6.85
+HR,Karnal,Karnal,Karnal,29.75083333,77.00166667,Salarpur-Pz,"Tube Well",W32073,2013,NA,12.81,11.35,NA
+HR,Karnal,Karnal,Karnal,29.75638889,77.06611111,Baragaon-Pz,"Tube Well",W32074,2013,NA,NA,17,18.82
+HR,Karnal,Nilokheri,Nilokheri,29.75694444,76.96944444,Jhanjari-Pz,"Tube Well",W32075,2013,NA,NA,15.98,14.73
+HR,Karnal,Karnal,Nissang,29.75833333,76.8,Sambli-Pz-M,"Tube Well",W32077,2013,NA,NA,21.65,NA
+HR,Karnal,Nilokheri,Nilokheri,29.76944444,76.84166667,Sagga-Pz,"Tube Well",W32079,2013,NA,NA,22.47,19.71
+HR,Karnal,Karnal,Karnal,29.77805556,77.09694444,Ghiar-Pz,"Tube Well",W32082,2013,NA,NA,8.42,8.76
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,"Saunkra S","Tube Well",W32083,2013,NA,NA,22.11,20.58
+HR,Karnal,Nilokheri,Karnal,29.79638889,76.97666667,Rambha-Pz,"Tube Well",W32084,2013,NA,NA,7.01,7.56
+HR,Karnal,Nilokheri,Nilokheri,29.79833333,76.92944444,Taraori-Pz,"Tube Well",W32085,2013,NA,NA,21.51,20.48
+HR,Karnal,Nilokheri,Nilokheri,29.83111111,76.93333333,Nilokheri-Pz,"Tube Well",W32089,2013,NA,NA,21.64,21.26
+HR,Karnal,Indri,Indri,29.83388889,77.13611111,Randauli-Pz,"Tube Well",W32090,2013,NA,NA,7.96,9.87
+HR,Karnal,Nilokheri,Nilokheri,29.84305556,76.88333333,Anjanthali-Pz,"Tube Well",W32091,2013,NA,NA,21.22,NA
+HR,Karnal,Nilokheri,Nilokheri,29.86583333,76.91111111,"Manak Majra-Pz","Tube Well",W32094,2013,NA,NA,22.91,22.92
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2013,NA,NA,6,6.63
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2012,NA,NA,13.3,15.13
+HR,Karnal,Indri,Indri,29.94166667,76.98611111,Udana-Pz,"Tube Well",W32102,2012,NA,NA,32.75,NA
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2012,NA,NA,2.55,5.45
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2012,NA,16.95,17.35,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2012,NA,23.32,23.76,NA
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2012,NA,20.23,20.88,NA
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2012,NA,10.29,13.3,NA
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2012,NA,2.26,2.95,NA
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2012,NA,6.68,5.21,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2012,NA,7.18,9.27,NA
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2012,NA,18.41,18.31,NA
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2012,NA,17.1,18.45,NA
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2012,NA,NA,17.32,NA
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2012,NA,28.32,28.35,28.22
+HR,Karnal,Nilokheri,Nilokheri,29.9,76.99583333,"Buttan Kheri S","Tube Well",W16474,2012,NA,19.84,21.04,NA
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2012,NA,19.58,21.82,NA
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2012,NA,18.09,18.35,NA
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2012,NA,14.7,22.76,NA
+HR,Karnal,Indri,Indri,29.84027778,77.11666667,Biana,"Tube Well",W21755,2012,NA,8.96,9.74,NA
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2012,NA,23.65,22.48,22.35
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2012,NA,NA,18.55,NA
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 2(d)","Tube Well",W21317,2012,NA,13.84,14.94,NA
+HR,Karnal,Karnal,Karnal,29.73944444,76.97305556,"Sugar Cane Breeding Farm","Tube Well",W22521,2012,NA,NA,22.9,NA
+HR,Karnal,Gharaunda,Gharaunda,29.50277778,76.92083333,"Dingar Majra-Pz","Tube Well",W22619,2012,NA,NA,31.5,31.12
+HR,Karnal,Nilokheri,Nilokheri,29.76583333,76.97222222,"Dadupur Khurd-Pz","Tube Well",W22620,2012,NA,NA,14.8,13.24
+HR,Karnal,Gharaunda,Gharaunda,29.46111111,77.0375,Faridpur-Pz,"Tube Well",W29974,2012,NA,NA,24,NA
+HR,Karnal,Karnal,Gharaunda,29.50222222,77.00138889,Mohidinpur-Pz,"Tube Well",W29979,2012,NA,NA,15.21,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound S","Tube Well",W29981,2012,NA,NA,18.22,NA
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur S","Tube Well",W29985,2012,NA,NA,19.99,NA
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak S","Tube Well",W29987,2012,NA,NA,19.67,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail S","Tube Well",W29988,2012,NA,NA,22.29,NA
+HR,Karnal,Assandh,Assandh,29.49916667,76.71305556,Padhana-DW,"Dug Well",W32020,2012,NA,NA,18.32,NA
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan-B,"Dug Well",W32021,2012,NA,NA,15.33,NA
+HR,Karnal,Assandh,Assandh,29.50083333,76.50277778,Jabhala-Pz,"Tube Well",W32022,2012,NA,NA,14.8,NA
+HR,Karnal,Assandh,Assandh,29.50111111,76.50416667,Kurlan-Pz,"Tube Well",W32023,2012,NA,NA,18.78,NA
+HR,Karnal,Gharaunda,Gharaunda,29.53611111,76.96944444,Gharaunda-Pz,"Tube Well",W32031,2012,NA,NA,30.79,NA
+HR,Karnal,Assandh,Assandh,29.5825,76.62555556,Rattak-Pz,"Tube Well",W32036,2012,NA,NA,23.64,NA
+HR,Karnal,Karnal,Karnal,29.62222222,77.04166667,"Kairiwali D","Tube Well",W32040,2012,NA,NA,19.05,NA
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang-S,"Tube Well",W32056,2012,NA,NA,18.5,NA
+HR,Karnal,Karnal,Karnal,29.69388889,77.09861111,"Nalvi Kalan-Pz","Tube Well",W32059,2012,NA,NA,14.45,NA
+HR,Karnal,Karnal,Karnal,29.69694444,77.03055556,Phusgarh-Pz,"Tube Well",W32062,2012,NA,NA,20.42,NA
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,"Kachhwa Pz","Tube Well",W32064,2012,NA,NA,18.18,NA
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 3(d)","Tube Well",W32068,2012,NA,NA,16.03,NA
+HR,Karnal,Karnal,Karnal,29.74027778,77.10416667,"Jaroli Khurd-Pz","Tube Well",W32071,2012,NA,NA,6.5,NA
+HR,Karnal,Karnal,Karnal,29.75083333,77.00166667,Salarpur-Pz,"Tube Well",W32073,2012,NA,NA,12.92,NA
+HR,Karnal,Karnal,Karnal,29.75638889,77.06611111,Baragaon-Pz,"Tube Well",W32074,2012,NA,NA,18.38,NA
+HR,Karnal,Nilokheri,Nilokheri,29.75694444,76.96944444,Jhanjari-Pz,"Tube Well",W32075,2012,NA,NA,15.47,NA
+HR,Karnal,Nilokheri,Nilokheri,29.76944444,76.84166667,Sagga-Pz,"Tube Well",W32079,2012,NA,NA,21.91,NA
+HR,Karnal,Karnal,Karnal,29.77805556,77.09694444,Ghiar-Pz,"Tube Well",W32082,2012,NA,NA,10.62,NA
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,"Saunkra S","Tube Well",W32083,2012,NA,NA,18.38,NA
+HR,Karnal,Nilokheri,Karnal,29.79638889,76.97666667,Rambha-Pz,"Tube Well",W32084,2012,NA,NA,7.63,NA
+HR,Karnal,Nilokheri,Nilokheri,29.79833333,76.92944444,Taraori-Pz,"Tube Well",W32085,2012,NA,NA,22.38,NA
+HR,Karnal,Nilokheri,Nilokheri,29.83111111,76.93333333,Nilokheri-Pz,"Tube Well",W32089,2012,NA,NA,21.46,NA
+HR,Karnal,Indri,Indri,29.83388889,77.13611111,Randauli-Pz,"Tube Well",W32090,2012,NA,NA,8.6,NA
+HR,Karnal,Nilokheri,Nilokheri,29.84305556,76.88333333,Anjanthali-Pz,"Tube Well",W32091,2012,NA,NA,22.13,NA
+HR,Karnal,Nilokheri,Nilokheri,29.86583333,76.91111111,"Manak Majra-Pz","Tube Well",W32094,2012,NA,NA,23.83,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2012,NA,19.44,18.93,NA
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2011,15.35,13.32,16.82,14.62
+HR,Karnal,Karnal,Karnal,29.78333333,77.11666667,"Chorpur 1(d)","Tube Well",W22025,2011,8.02,13.95,7.87,8.04
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2011,3.07,2.75,2.75,5.48
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2011,17.5,14.9,15.69,14.68
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2011,24.31,20.87,22.4,20.77
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2011,20.66,17.8,19.73,17.72
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2011,10.78,10.65,10.66,11.25
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2011,3.55,3.93,2.68,3.34
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2011,7.55,6.97,6.64,5.05
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2011,8.83,8.58,7.88,7.81
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2011,18.09,16.97,18.21,16.62
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2011,21.06,NA,20.45,17.81
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2011,19.87,17.92,NA,17.42
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2011,27.15,27.59,28.18,26.91
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2011,20.21,16.54,19.11,17.15
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2011,17.02,15,16.33,15.24
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2011,15.78,13.02,13.52,13.78
+HR,Karnal,Indri,Indri,29.84027778,77.11666667,Biana,"Tube Well",W21755,2011,8.37,8.81,8.58,8.59
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2011,24.04,19.51,23.42,19.84
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2011,18.82,18.95,18.72,18.2
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 2(d)","Tube Well",W21317,2011,13.25,13.91,13.41,13.61
+HR,Karnal,Karnal,Karnal,29.73944444,76.97305556,"Sugar Cane Breeding Farm","Tube Well",W22521,2011,NA,NA,22.22,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2011,20.21,17.94,19.43,17.19
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2010,NA,14,15.06,14.65
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2010,19.49,16.68,19.27,16.63
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2010,2.35,NA,1.33,5.05
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2010,NA,15.56,15.6,16.15
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2010,24.31,21.32,21.61,22.11
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2010,20.88,17.88,18.8,18.18
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2010,13.27,11.26,11.09,12.9
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2010,4.86,NA,3.23,NA
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2010,8.35,7.67,5.85,9.1
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2010,8.96,NA,7.85,9.23
+HR,Karnal,Karnal,Karnal,29.68888889,77.075,Sharfabad1,"Tube Well",W16458,2010,40.1,NA,NA,NA
+HR,Karnal,Karnal,Karnal,29.65416667,77.03138889,Shekhpura,"Tube Well",W16459,2010,NA,16.94,NA,NA
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2010,NA,18.5,20,NA
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2010,17.86,16.75,17.14,16.51
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2010,19.48,16.78,18.3,17.78
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2010,20.04,18.89,18.92,22.35
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2010,NA,27.98,28.2,27.52
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2010,18.92,16.81,17.69,17.67
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2010,17.3,16.94,15.82,17.28
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2010,23.3,14.56,14.01,16.46
+HR,Karnal,Indri,Indri,29.84027778,77.11666667,Biana,"Tube Well",W21755,2010,9.45,9.29,9.1,10
+HR,Karnal,Karnal,Nissang,29.68333333,76.75,Nisang-1,"Tube Well",W21876,2010,NA,17.16,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.78472222,76.88,"Saunkra (deep)","Tube Well",W21877,2010,NA,17.45,NA,NA
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2010,24.09,NA,21.44,NA
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2010,NA,NA,NA,18.95
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 2(d)","Tube Well",W21317,2010,NA,NA,14.37,14.97
+HR,Karnal,Karnal,Karnal,29.78333333,77.11666667,"Chorpur 1(d)","Tube Well",W22025,2010,9.51,NA,8.12,NA
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2009,19.65,13.57,17.41,15.97
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2009,19.59,17.3,16.52,15.4
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2009,19.34,15.11,17.42,16.6
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2009,18.79,NA,14.84,14.91
+HR,Karnal,Indri,Indri,29.84027778,77.11666667,Biana,"Tube Well",W21755,2009,10.37,8.82,9.56,9.1
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2009,NA,NA,22.84,NA
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2009,18.9,17.2,NA,17.65
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 2(d)","Tube Well",W21317,2009,NA,NA,15,NA
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2009,20.41,17.16,17.69,17.39
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2009,17.56,14.41,16.75,14.66
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2009,19,13.7,17.81,15.4
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2009,17.84,16.82,18.89,16.67
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2009,28.16,26.69,28.33,26.22
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2009,24.34,20.11,22.45,20.98
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2009,19.91,16.62,18.81,18
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2009,13.18,11.25,11.82,12.48
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2009,NA,5.27,4.6,4.51
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2009,8.7,5.51,7.58,7
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2009,9.66,NA,8.48,NA
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2009,14.89,14.29,14.41,13.8
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2009,19.38,15.73,17.65,16.11
+HR,Karnal,Shahbad,Nilokheri,29.90527778,76.79,Kirmach,"Tube Well",W16501,2009,NA,19.35,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2008,15.77,13.19,14.82,13.24
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2008,18.25,18.37,15.28,NA
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2008,17.86,12.31,15.26,12.86
+HR,Karnal,Indri,Indri,29.84027778,77.11666667,Biana,"Tube Well",W21755,2008,NA,NA,9.5,NA
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2008,24.69,NA,22.53,NA
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2008,17,16.48,17.35,17.11
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 2(d)","Tube Well",W21317,2008,14.27,14.29,NA,NA
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2008,17.31,16.09,16.16,16.13
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2008,15.53,14.37,14.72,NA
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2008,17.88,12.03,15.13,11.88
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2008,17.47,15.92,17.87,15.72
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2008,NA,NA,26.97,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2008,22.61,19.93,21.06,NA
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2008,NA,NA,NA,17.79
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2008,12.4,9.66,12.25,12.19
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2008,NA,5.16,NA,5.96
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2008,8.7,6.98,8.15,6.43
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2008,8.63,9.08,8.15,NA
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2008,13.09,13.17,13.33,14.55
+HR,Karnal,Assandh,Assandh,29.54166667,76.63333333,Jaisinghpura,"Tube Well",W16426,2008,14.29,12.89,15.35,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2008,17.68,16.28,17.98,15.93
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2008,NA,NA,16.68,16
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,2007,NA,12.89,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2007,11.01,13.39,NA,13.95
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2007,16.78,NA,15.86,NA
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2007,NA,11.51,NA,13.56
+HR,Karnal,Indri,Indri,29.94166667,77.05,"Domsi D","Tube Well",W21483,2007,NA,NA,21.42,NA
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2007,NA,NA,16.69,NA
+HR,Karnal,Karnal,Karnal,29.73333333,77.05,"Newal 2(d)","Tube Well",W21317,2007,NA,NA,13.54,13.39
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2007,16.01,NA,16.49,14.46
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2007,14.71,13.07,14.06,12.51
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2007,14.65,11.15,12.51,12.18
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2007,15.97,14.72,16.19,18.38
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2007,NA,26.18,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2007,22.48,19.08,20.68,20.31
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2007,18.92,15.79,17.7,15.58
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2007,9.86,10.08,10.61,10.2
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2007,5.08,NA,6.49,4.36
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2007,6.38,NA,NA,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2007,NA,NA,7.81,9.63
+HR,Karnal,Karnal,Karnal,29.68888889,77.075,Sharfabad1,"Tube Well",W16458,2007,14.2,NA,NA,13
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2007,13.67,11.99,13.22,12.15
+HR,Karnal,Assandh,Assandh,29.54166667,76.63333333,Jaisinghpura,"Tube Well",W16426,2007,12.64,12.6,13.9,11.84
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,2007,NA,NA,NA,10.61
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2007,18.11,15.15,16.71,14.73
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2007,15.38,NA,13.49,12.37
+HR,Karnal,Nilokheri,Nilokheri,29.84944444,76.70416667,Nisang-2,"Tube Well",W16477,2006,NA,14.17,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,2006,NA,16.7,NA,NA
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2006,NA,13.28,NA,NA
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2006,13.09,10.11,11.8,11.06
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2006,14.88,12.79,15.05,13.11
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2006,13.49,10.5,13.32,11.11
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2006,12.69,9.02,11.33,10.2
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2006,14.17,12.72,15.32,13.49
+HR,Karnal,Karnal,Nissang,29.8,76.81666667,"Rambha M","Tube Well",W16469,2006,10.26,8.02,9.5,NA
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2006,NA,NA,NA,22.54
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2006,21.15,17.67,19.81,20.41
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2006,NA,13.97,16.32,15.58
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2006,9.84,9.3,9.79,10.15
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2006,NA,3.54,4.41,3.96
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2006,NA,NA,NA,6.55
+HR,Karnal,Karnal,Karnal,29.68888889,77.075,Sharfabad1,"Tube Well",W16458,2006,12.75,11.16,NA,NA
+HR,Karnal,Karnal,Karnal,29.65416667,77.03138889,Shekhpura,"Tube Well",W16459,2006,NA,13.25,NA,NA
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2006,12.76,10.32,12.23,11.45
+HR,Karnal,Assandh,Assandh,29.54166667,76.63333333,Jaisinghpura,"Tube Well",W16426,2006,12.41,11.2,13.19,NA
+HR,Karnal,Assandh,Assandh,29.55833333,76.54166667,"Kheri Sharfali","Dug Well",W16428,2006,NA,13.63,NA,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2006,16.97,13.44,16.03,13.65
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2006,16.08,11.69,13.72,12.35
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2006,14.09,10.4,12.3,12.07
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,2005,NA,12.55,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,2005,NA,12.93,NA,13.48
+HR,Karnal,Nilokheri,Nilokheri,29.84944444,76.70416667,Nisang-2,"Tube Well",W16477,2005,13.77,NA,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2005,12.06,10.2,10.54,11.49
+HR,Karnal,Karnal,Karnal,29.71666667,77.01666667,"Sekhpura 1(m)","Tube Well",W17834,2005,14.45,12.61,13.7,13.12
+HR,Karnal,Karnal,Nissang,29.68333333,76.95,"Karnal D","Tube Well",W17835,2005,11.74,9.72,11.23,NA
+HR,Karnal,Assandh,Assandh,29.46944444,76.4875,Gangatheri,"Dug Well",W20596,2005,NA,NA,16.1,NA
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2005,14.11,11.78,13.41,12.11
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2005,12.66,9.97,11.32,10.28
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2005,11.25,8.37,9.18,9.27
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2005,13.54,11.46,13.22,12.46
+HR,Karnal,Karnal,Nissang,29.8,76.81666667,"Rambha M","Tube Well",W16469,2005,9.35,7.85,8.2,8.87
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2005,24.41,21.54,24.33,21.27
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2005,20.08,17.01,18.63,18.01
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2005,16.23,NA,14.89,NA
+HR,Karnal,Indri,Indri,29.88055556,77.0625,Indri,"Tube Well",W16446,2005,9.76,9.14,9.07,9.83
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2005,3.79,3.62,3.43,3.79
+HR,Karnal,Indri,Indri,29.93333333,77.15416667,"Makhala S","Tube Well",W16450,2005,6.46,6.01,5.99,6.21
+HR,Karnal,Karnal,Karnal,29.68888889,77.075,Sharfabad1,"Tube Well",W16458,2005,11.91,10.55,11.25,NA
+HR,Karnal,Karnal,Karnal,29.65416667,77.03138889,Shekhpura,"Tube Well",W16459,2005,14.45,NA,NA,NA
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2005,12.1,9.95,10.82,10.74
+HR,Karnal,Assandh,Assandh,29.54166667,76.63333333,Jaisinghpura,"Tube Well",W16426,2005,11.62,10.31,12.09,10.38
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,2005,NA,11.95,NA,13.5
+HR,Karnal,Assandh,Assandh,29.55833333,76.54166667,"Kheri Sharfali","Dug Well",W16428,2005,NA,13.75,14.28,13.23
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2005,15.71,13.81,14.34,13.71
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2005,14.85,11.06,11.77,12.46
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,2005,NA,15.66,NA,16.56
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,2004,NA,12.95,NA,13.6
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,2004,17.62,15.4,16.55,15.83
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,2004,NA,12.15,13.47,12.44
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2004,10.92,9.77,9.58,10.37
+HR,Karnal,Shahbad,Nilokheri,29.90527778,76.79,Kirmach,"Tube Well",W16501,2004,NA,NA,NA,14.63
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2004,13.23,11.24,11.06,13.2
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2004,12.19,9.61,10.47,10.47
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2004,10.01,8.63,8.42,9.08
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2004,13.92,10.78,12.32,11.68
+HR,Karnal,Karnal,Nissang,29.8,76.81666667,"Rambha M","Tube Well",W16469,2004,8.77,7,7.87,7.65
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2004,23.76,20.44,23.42,20.04
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2004,19.26,16.81,18.03,18.48
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2004,15.38,12.65,14.5,12.9
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2004,NA,NA,NA,3.1
+HR,Karnal,Karnal,Karnal,29.65,77.11666667,"Chorpur 2(d)","Tube Well",W16455,2004,NA,NA,NA,5.86
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,2004,NA,11.2,12.3,12.37
+HR,Karnal,Karnal,Karnal,29.68888889,77.075,Sharfabad1,"Tube Well",W16458,2004,11.42,10.46,10.49,NA
+HR,Karnal,Assandh,Assandh,29.50277778,76.72472222,Bala,"Dug Well",W16425,2004,11.4,NA,10.16,NA
+HR,Karnal,Assandh,Assandh,29.54166667,76.63333333,Jaisinghpura,"Tube Well",W16426,2004,10.73,10.02,10.74,9.47
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,2004,NA,10.71,12.33,11.8
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2004,15.16,13.33,14.07,13.29
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,2004,NA,10.9,11.92,12.15
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2004,12.51,10.68,13.86,10.66
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,2004,NA,11.39,12.7,12.37
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,2003,NA,12.31,NA,12.7
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,2003,16.1,NA,16.05,15.05
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,2003,13.95,9.71,12.92,11.7
+HR,Karnal,Nilokheri,Nilokheri,29.85,76.95,"Raipur 1(m)","Tube Well",W16478,2003,NA,NA,NA,14.87
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2003,9.47,NA,9.27,11.35
+HR,Karnal,Shahbad,Nilokheri,29.90527778,76.79,Kirmach,"Tube Well",W16501,2003,16.5,12.71,15.22,14.53
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2003,12.18,10.71,11.69,11.07
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2003,11.47,8.91,10.36,9.78
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2003,10.13,6.47,8.63,8.73
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2003,13.12,9.37,11.62,10.65
+HR,Karnal,Karnal,Nissang,29.75694444,76.82638889,Motia,"Dug Well",W16466,2003,NA,9.51,NA,NA
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang,"Dug Well",W16467,2003,NA,6.82,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2003,23.19,NA,22.77,19.32
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2003,18.71,NA,17.69,17.51
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2003,14.58,NA,14.37,12.78
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2003,NA,2.96,NA,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2003,NA,NA,NA,5.63
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,2003,NA,9.76,12.2,10.42
+HR,Karnal,Karnal,Karnal,29.68888889,77.075,Sharfabad1,"Tube Well",W16458,2003,10.66,NA,10.2,10
+HR,Karnal,Assandh,Assandh,29.54166667,76.63333333,Jaisinghpura,"Tube Well",W16426,2003,10.9,NA,10.86,9.4
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,2003,12.53,7.96,10.88,10.83
+HR,Karnal,Assandh,Assandh,29.60277778,76.78888889,Kiwana,"Dug Well",W16429,2003,NA,8.95,NA,9.87
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2003,14.95,12.23,14.1,13.41
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,2003,11.11,9.79,11.31,10.26
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2003,NA,NA,NA,4.63
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2003,11.45,NA,10.9,11.22
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,2003,12.19,10.29,11.41,11.64
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,2002,11.94,NA,10.84,10.22
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,2002,15.37,NA,14.65,13.07
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2002,12.42,NA,NA,9.16
+HR,Karnal,Shahbad,Nilokheri,29.90527778,76.79,Kirmach,"Tube Well",W16501,2002,15.4,NA,13.52,NA
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2002,NA,9.11,11.01,NA
+HR,Karnal,Karnal,Nissang,29.65,76.875,Jundla,"Dug Well",W16462,2002,NA,6.49,NA,7.08
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2002,10.83,NA,9.61,8.17
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2002,9.47,NA,8.18,7.56
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2002,12.44,7.62,10.52,9.17
+HR,Karnal,Karnal,Nissang,29.75694444,76.82638889,Motia,"Dug Well",W16466,2002,9.55,NA,NA,9.01
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang,"Dug Well",W16467,2002,NA,4.51,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2002,22.67,NA,20.77,18.32
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,2002,13.29,11.15,13.15,11.7
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2002,18.81,NA,10.61,16.2
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2002,14.12,NA,12.88,11.32
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2002,4.52,NA,NA,3.26
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,2002,NA,8.6,NA,9.17
+HR,Karnal,Karnal,Karnal,29.68888889,77.075,Sharfabad1,"Tube Well",W16458,2002,11.1,NA,NA,8.9
+HR,Karnal,Assandh,Assandh,29.54166667,76.63333333,Jaisinghpura,"Tube Well",W16426,2002,10.35,NA,NA,8.04
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,2002,12.5,NA,NA,NA
+HR,Karnal,Assandh,Assandh,29.60277778,76.78888889,Kiwana,"Dug Well",W16429,2002,10.19,NA,8.95,8.5
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2002,14.8,NA,13.23,11.23
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,2002,11.06,8.2,10.21,8.45
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2002,3.5,NA,2.35,3.15
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2002,12.14,NA,10.45,9.65
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,2002,13.5,11.6,12.05,10.72
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,2001,8.48,8.84,8.54,9.32
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2001,NA,15.21,16.52,16.8
+HR,Karnal,Nilokheri,Nilokheri,29.85,76.95,"Raipur 1(m)","Tube Well",W16478,2001,NA,NA,16.6,NA
+HR,Karnal,Nilokheri,Nilokheri,29.78333333,76.98333333,Rambha,"Dug Well",W16479,2001,5.92,4.77,5.17,5.86
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,2001,NA,NA,7.82,9.45
+HR,Karnal,Karnal,Nissang,29.65,76.875,Jundla,"Dug Well",W16462,2001,7.45,6.14,NA,7.14
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2001,NA,6.06,8.68,7.85
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,2001,NA,NA,NA,7.3
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2001,7.93,7.12,7.56,7.91
+HR,Karnal,Karnal,Nissang,29.75694444,76.82638889,Motia,"Dug Well",W16466,2001,8.56,7.76,8.56,8.06
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang,"Dug Well",W16467,2001,8.54,4.75,6.66,NA
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,2001,NA,NA,19.3,NA
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,2001,11.65,10.3,11.6,10.76
+HR,Karnal,Gharaunda,Gharaunda,29.51805556,76.85138889,Munak,"Dug Well",W16440,2001,NA,2.5,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2001,NA,9.61,11.27,11.32
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,2001,NA,NA,4.6,4.9
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2001,NA,NA,NA,3.36
+HR,Karnal,Indri,Indri,29.94305556,77.04166667,Samora,"Dug Well",W16452,2001,NA,4.98,NA,NA
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,2001,9.09,8.9,8.91,8.89
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2001,9.47,8.56,8.94,8.96
+HR,Karnal,Panipat,Gharaunda,29.50833333,76.825,Asandh,"Dug Well",W16562,2001,NA,11.06,NA,NA
+HR,Karnal,Assandh,Assandh,29.54166667,76.63333333,Jaisinghpura,"Tube Well",W16426,2001,NA,NA,7.38,NA
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,2001,8.57,7.64,NA,8.47
+HR,Karnal,Assandh,Assandh,29.60277778,76.78888889,Kiwana,"Dug Well",W16429,2001,7.3,6.92,7.09,7.63
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2001,NA,10.5,13.27,11.52
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,2001,8.8,7.9,8.35,8.13
+HR,Karnal,Gharaunda,Gharaunda,29.475,77.0875,Balhera-s,"Tube Well",W16435,2001,NA,NA,3.24,3.55
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2001,NA,NA,10.32,9.6
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,2001,NA,11.95,14.02,13.16
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,2001,10.27,9.41,9.82,9.24
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,2000,8.79,5.72,8.41,8.89
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,2000,17.4,NA,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.78333333,76.98333333,Rambha,"Dug Well",W16479,2000,5.29,4.49,4.2,NA
+HR,Karnal,Karnal,Nissang,29.65,76.875,Jundla,"Dug Well",W16462,2000,6.99,5.34,6.09,6.52
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,2000,7.15,NA,NA,NA
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,2000,8.07,5.97,7.17,7.85
+HR,Karnal,Karnal,Nissang,29.75694444,76.82638889,Motia,"Dug Well",W16466,2000,8.04,6.44,7.95,7.4
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang,"Dug Well",W16467,2000,4.61,3.66,5.29,3.86
+HR,Karnal,Karnal,Nissang,29.78333333,76.76666667,Sitamarhi,"Dug Well",W16470,2000,NA,5.49,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,2000,10.7,9.55,10.7,10.69
+HR,Karnal,Gharaunda,Gharaunda,29.51805556,76.85138889,Munak,"Dug Well",W16440,2000,1.8,2.65,3.11,3.42
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,2000,12.45,NA,NA,NA
+HR,Karnal,Indri,Indri,29.92916667,77.19444444,Chaugawan,"Dug Well",W16444,2000,NA,3.59,NA,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,2000,4.6,NA,NA,NA
+HR,Karnal,Indri,Indri,29.94305556,77.04166667,Samora,"Dug Well",W16452,2000,2.8,2.45,NA,NA
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,2000,8.84,7.49,8.61,8.13
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,2000,8.81,7.81,8.66,8.08
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,2000,8.71,5.21,7.84,7.89
+HR,Karnal,Assandh,Assandh,29.60277778,76.78888889,Kiwana,"Dug Well",W16429,2000,7.2,6.35,7.15,7.5
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,2000,12.03,NA,NA,NA
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,2000,8.2,6.85,7.14,7.24
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,2000,10.15,NA,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,2000,10.2,8.5,9.4,8.74
+HR,Karnal,Karnal,Karnal,29.71666667,76.99166667,Baldi,"Dug Well",W16454,1999,NA,NA,7.78,NA
+HR,Karnal,Indri,Indri,29.94305556,77.04166667,Samora,"Dug Well",W16452,1999,2.92,2.24,2.61,5.16
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,1999,7.99,3.44,7.71,3.66
+HR,Karnal,Karnal,Nissang,29.65,76.875,Jundla,"Dug Well",W16462,1999,5.84,3.2,3.59,3.69
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,1999,NA,NA,5.1,NA
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,1999,7.1,3.62,5.82,5.04
+HR,Karnal,Karnal,Nissang,29.75694444,76.82638889,Motia,"Dug Well",W16466,1999,6.66,1.14,6.64,4.19
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang,"Dug Well",W16467,1999,3.76,4.08,3.86,5.4
+HR,Karnal,Karnal,Nissang,29.78333333,76.76666667,Sitamarhi,"Dug Well",W16470,1999,5.5,'0.9,4.89,4.99
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,1999,NA,NA,7.05,NA
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,1999,10.11,6.53,10.05,8.5
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,1999,7.65,6.06,6.42,NA
+HR,Karnal,Nilokheri,Nilokheri,29.9,76.99583333,"Buttan Kheri S","Tube Well",W16474,1999,NA,NA,6.9,NA
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,1999,8.66,6.27,8.55,7.35
+HR,Karnal,Nilokheri,Nilokheri,29.86666667,76.95833333,Kalsi,"Dug Well",W16476,1999,NA,9.16,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.85,76.95,"Raipur 1(m)","Tube Well",W16478,1999,NA,9.7,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.78333333,76.98333333,Rambha,"Dug Well",W16479,1999,4.44,2.24,3.84,4.64
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,1999,7.47,4.63,5.01,5.11
+HR,Karnal,Assandh,Assandh,29.60277778,76.78888889,Kiwana,"Dug Well",W16429,1999,6.39,3.06,NA,5.8
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,1999,11.07,NA,7.09,NA
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,1999,NA,3.02,6.5,NA
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,1999,10.08,NA,NA,NA
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,1999,14.19,NA,12.5,NA
+HR,Karnal,Gharaunda,Gharaunda,29.51805556,76.85138889,Munak,"Dug Well",W16440,1999,3.42,1.6,3,4.25
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,1999,10.65,NA,7.8,NA
+HR,Karnal,Gharaunda,Gharaunda,29.56944444,76.99166667,Sitaundi,"Dug Well",W16443,1999,NA,5.67,NA,NA
+HR,Karnal,Indri,Indri,29.92916667,77.19444444,Chaugawan,"Dug Well",W16444,1999,NA,2.17,NA,3.14
+HR,Karnal,Indri,Indri,29.85416667,77.1,Darar,"Dug Well",W16445,1999,NA,6.32,NA,NA
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,1999,NA,2.93,7.33,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,1999,NA,2.02,9.67,NA
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,1999,7.86,4.33,7.69,4.02
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,1998,NA,NA,5.25,NA
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,1998,7,7.24,2.92,7.96
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,1998,6.92,6.96,1.96,8.29
+HR,Karnal,Karnal,Nissang,29.65,76.875,Jundla,"Dug Well",W16462,1998,5.84,4.59,2.14,7.19
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,1998,NA,5.25,NA,NA
+HR,Karnal,Karnal,Nissang,29.7875,76.72916667,"Majra Roran","Tube Well",W16464,1998,NA,NA,5.7,NA
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,1998,5.9,6.57,3.92,8.22
+HR,Karnal,Karnal,Nissang,29.75694444,76.82638889,Motia,"Dug Well",W16466,1998,5.84,6.24,1.94,7.24
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang,"Dug Well",W16467,1998,9.16,4.21,5.56,6.66
+HR,Karnal,Karnal,Nissang,29.8,76.81666667,"Rambha M","Tube Well",W16469,1998,NA,NA,3.55,NA
+HR,Karnal,Karnal,Nissang,29.78333333,76.76666667,Sitamarhi,"Dug Well",W16470,1998,4,4.59,1.09,5.99
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,1998,NA,NA,3.7,NA
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,1998,9.62,7.85,5.65,9.55
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,1998,7.16,7.99,5.59,11.44
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,1998,9.03,8.7,6.7,9.9
+HR,Karnal,Nilokheri,Nilokheri,29.78333333,76.98333333,Rambha,"Dug Well",W16479,1998,2.14,NA,1.04,4.51
+HR,Karnal,Panipat,Gharaunda,29.48333333,76.8125,"Goli (s)","Tube Well",W16564,1998,NA,NA,8.9,NA
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,1998,7.14,5.96,4.61,7.51
+HR,Karnal,Assandh,Assandh,29.60277778,76.78888889,Kiwana,"Dug Well",W16429,1998,4.3,NA,'0.95,NA
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,1998,8.15,8.55,7.6,NA
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,1998,5.35,5.45,2.27,7.2
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,1998,17.05,8.15,8.3,NA
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,1998,NA,NA,10,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,1998,NA,15.15,15.6,NA
+HR,Karnal,Gharaunda,Gharaunda,29.51805556,76.85138889,Munak,"Dug Well",W16440,1998,'0.81,'0.65,'0.45,2.95
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,1998,10.17,8.7,8.3,NA
+HR,Karnal,Gharaunda,Gharaunda,29.56944444,76.99166667,Sitaundi,"Dug Well",W16443,1998,7.05,6.99,NA,7.01
+HR,Karnal,Indri,Indri,29.92916667,77.19444444,Chaugawan,"Dug Well",W16444,1998,NA,NA,2.71,NA
+HR,Karnal,Indri,Indri,29.85416667,77.1,Darar,"Dug Well",W16445,1998,NA,7.28,NA,NA
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,1998,NA,NA,4.8,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,1998,NA,3.85,6.83,NA
+HR,Karnal,Indri,Indri,29.94305556,77.04166667,Samora,"Dug Well",W16452,1998,1.53,2.41,1.66,NA
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,1997,NA,7.45,7.63,7.93
+HR,Karnal,Indri,Indri,29.94305556,77.04166667,Samora,"Dug Well",W16452,1997,1.83,3.04,2.28,4.09
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,1997,8.17,7.58,7.46,8.34
+HR,Karnal,Karnal,Nissang,29.65,76.875,Jundla,"Dug Well",W16462,1997,6.26,5.8,4.84,4.42
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,1997,5.3,6.35,5.13,7.12
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,1997,8.22,7.15,6.82,8.19
+HR,Karnal,Karnal,Nissang,29.75694444,76.82638889,Motia,"Dug Well",W16466,1997,NA,6.9,6.74,NA
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang,"Dug Well",W16467,1997,5.31,5.17,5.1,NA
+HR,Karnal,Karnal,Nissang,29.8,76.81666667,"Rambha M","Tube Well",W16469,1997,3.15,4.22,NA,NA
+HR,Karnal,Karnal,Nissang,29.78333333,76.76666667,Sitamarhi,"Dug Well",W16470,1997,5.53,4.15,4.84,6.67
+HR,Karnal,Nilokheri,Nilokheri,29.87222222,76.84444444,"Amin S","Tube Well",W16471,1997,6.1,NA,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,1997,9.47,10.01,8.65,9.79
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,1997,8.09,8.67,7.97,9.67
+HR,Karnal,Nilokheri,Nilokheri,29.9,76.99583333,"Buttan Kheri S","Tube Well",W16474,1997,58,10.36,NA,NA
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,1997,10.58,9.58,9.28,NA
+HR,Karnal,Nilokheri,Nilokheri,29.78333333,76.98333333,Rambha,"Dug Well",W16479,1997,1.69,5.37,3.74,5.68
+HR,Karnal,Panipat,Gharaunda,29.48333333,76.8125,"Goli (s)","Tube Well",W16564,1997,NA,NA,4.75,NA
+HR,Karnal,Panipat,Gharaunda,29.49166667,76.89722222,"Dadlana 1(m)","Tube Well",W16575,1997,3.89,NA,NA,NA
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,1997,7.2,7.57,6.13,7.87
+HR,Karnal,Assandh,Assandh,29.60277778,76.78888889,Kiwana,"Dug Well",W16429,1997,5.2,5.3,4.53,4.55
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,1997,3.93,9.52,8,8.91
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,1997,NA,6.2,5.66,6.89
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,1997,8.85,NA,9.59,NA
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,1997,17.25,15.38,15.36,NA
+HR,Karnal,Gharaunda,Gharaunda,29.51805556,76.85138889,Munak,"Dug Well",W16440,1997,1.19,2.52,1,3.62
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,1997,10.73,9.18,9.07,8.91
+HR,Karnal,Gharaunda,Gharaunda,29.56944444,76.99166667,Sitaundi,"Dug Well",W16443,1997,7.54,7.18,7.03,NA
+HR,Karnal,Indri,Indri,29.92916667,77.19444444,Chaugawan,"Dug Well",W16444,1997,2.21,2.78,NA,3.12
+HR,Karnal,Indri,Indri,29.85416667,77.1,Darar,"Dug Well",W16445,1997,NA,7.78,7.55,NA
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,1997,5.1,3.83,2.87,4.45
+HR,Karnal,Indri,Indri,29.875,77.09166667,"Kalri Khalsa","Dug Well",W16449,1997,8.59,4.74,4.28,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,1997,4.14,NA,4,NA
+HR,Karnal,Karnal,Karnal,29.73194444,76.93055556,"Tikri S","Tube Well",W16460,1997,61,NA,NA,NA
+HR,Karnal,Karnal,Karnal,29.725,76.89444444,Kachhwa,"Dug Well",W16456,1996,8.94,7.33,7.42,8.54
+HR,Karnal,Indri,Indri,29.94305556,77.04166667,Samora,"Dug Well",W16452,1996,3.48,2.85,1.57,4.32
+HR,Karnal,Karnal,Nissang,29.73611111,76.725,Bastali,"Dug Well",W16461,1996,7.78,7.69,7.28,9.18
+HR,Karnal,Karnal,Nissang,29.65,76.875,Jundla,"Dug Well",W16462,1996,8.64,5.67,5.4,7.86
+HR,Karnal,Karnal,Nissang,29.64305556,76.86666667,Jundla1,"Tube Well",W16463,1996,NA,6.32,NA,8.73
+HR,Karnal,Karnal,Nissang,29.69166667,76.84166667,Majura,"Dug Well",W16465,1996,9.65,7.03,6.91,9.53
+HR,Karnal,Karnal,Nissang,29.75694444,76.82638889,Motia,"Dug Well",W16466,1996,7.77,6.58,7.06,7.6
+HR,Karnal,Karnal,Nissang,29.6875,76.75,Nisang,"Dug Well",W16467,1996,6.53,6.49,4.98,5.7
+HR,Karnal,Karnal,Nissang,29.8,76.81666667,"Rambha M","Tube Well",W16469,1996,NA,4.29,3.21,NA
+HR,Karnal,Karnal,Nissang,29.78333333,76.76666667,Sitamarhi,"Dug Well",W16470,1996,6.24,5.26,5.26,6.54
+HR,Karnal,Nilokheri,Nilokheri,29.83,76.89166667,Anjanthali,"Dug Well",W16472,1996,10.2,9.39,8.58,11.12
+HR,Karnal,Nilokheri,Nilokheri,29.87083333,76.775,Badhera,"Dug Well",W16473,1996,9.85,8.25,8.14,10.6
+HR,Karnal,Nilokheri,Nilokheri,29.9,76.99583333,"Buttan Kheri S","Tube Well",W16474,1996,NA,10.72,NA,11.97
+HR,Karnal,Nilokheri,Nilokheri,29.81666667,76.76666667,Jamba,"Dug Well",W16475,1996,NA,9.72,7.15,11.67
+HR,Karnal,Nilokheri,Nilokheri,29.78333333,76.98333333,Rambha,"Dug Well",W16479,1996,4.49,2.57,2.59,NA
+HR,Karnal,Nilokheri,Nilokheri,29.7875,76.8875,Saunkra,"Tube Well",W16480,1996,NA,7.79,NA,10.61
+HR,Karnal,Panipat,Gharaunda,29.50833333,76.825,Asandh,"Dug Well",W16562,1996,6.86,NA,NA,NA
+HR,Karnal,Assandh,Assandh,29.59166667,76.70833333,Jalmana,"Dug Well",W16427,1996,10.99,7.49,7.36,8.99
+HR,Karnal,Assandh,Assandh,29.60277778,76.78888889,Kiwana,"Dug Well",W16429,1996,5.72,4.31,4.78,7.31
+HR,Karnal,Assandh,Assandh,29.51805556,76.54722222,"Mound M","Tube Well",W16430,1996,NA,9.19,NA,10.21
+HR,Karnal,Assandh,Assandh,29.5,76.73472222,Salwan,"Dug Well",W16433,1996,NA,6.21,5.75,7.1
+HR,Karnal,Gharaunda,Gharaunda,29.53333333,77.05694444,"Garhi Khajur M","Tube Well",W16436,1996,NA,8.86,NA,10.1
+HR,Karnal,Gharaunda,Gharaunda,29.50833333,76.98333333,"Kohnd S","Tube Well",W16437,1996,NA,12.21,NA,12.59
+HR,Karnal,Gharaunda,Gharaunda,29.58611111,77.02222222,"Kutail M","Tube Well",W16438,1996,NA,15.11,16.82,16.71
+HR,Karnal,Gharaunda,Gharaunda,29.51805556,76.85138889,Munak,"Dug Well",W16440,1996,NA,2.04,NA,3.5
+HR,Karnal,Gharaunda,Gharaunda,29.55,76.93333333,"Phurlak M","Tube Well",W16441,1996,NA,9.21,NA,11.05
+HR,Karnal,Gharaunda,Gharaunda,29.56944444,76.99166667,Sitaundi,"Dug Well",W16443,1996,NA,7.89,7.19,NA
+HR,Karnal,Indri,Indri,29.92916667,77.19444444,Chaugawan,"Dug Well",W16444,1996,NA,3.59,NA,4.16
+HR,Karnal,Indri,Indri,29.85416667,77.1,Darar,"Dug Well",W16445,1996,NA,NA,7.67,NA
+HR,Karnal,Indri,Indri,29.94722222,77.13333333,"Kalri Jagir S","Tube Well",W16447,1996,NA,3.72,NA,NA
+HR,Karnal,Indri,Indri,29.875,77.09166667,"Kalri Khalsa","Dug Well",W16449,1996,NA,NA,4.52,NA
+HR,Karnal,Indri,Indri,29.86944444,77.09166667,Nanhera,"Tube Well",W16451,1996,NA,4.73,4.28,NA
+HR,Karnal,Karnal,Karnal,29.68888889,77.075,Sharfabad1,"Tube Well",W16458,1996,NA,9.21,NA,10.23

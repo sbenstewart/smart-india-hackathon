@@ -1,0 +1,412 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2018,NA,2.47,1.85,NA
+WB,Haora,Shyampur-i,Shyampur-i,22.29833333,88.03,Shyampur1,"Bore Well",W27696,2018,NA,NA,1.4,NA
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2018,1,11.89,NA,NA
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2018,13.8,11.07,NA,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2018,'0.71,NA,NA,'0.65
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2018,NA,2.48,NA,NA
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2018,NA,8.65,NA,NA
+WB,Haora,Amta,Amta,22.57916667,88.00833333,Amta,"Dug Well",W10439,2018,NA,NA,2.73,2.38
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2018,NA,NA,'0.85,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2018,NA,NA,9,NA
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,2018,NA,NA,2.76,2.77
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2018,NA,'0.95,'0.74,NA
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2018,NA,'0.13,'0.25,NA
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2018,NA,'0.54,'0.58,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2018,NA,2.7,1.76,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2018,NA,10.9,13.05,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.3,88.02472222,Shyampur2,"Dug Well",W27697,2018,'0.73,1.22,NA,NA
+WB,Haora,Shyampur-i,Shyampur-i,22.22583333,88.03,"Shipbur (Gadiara)","Dug Well",W27601,2018,NA,1.56,'0.91,NA
+WB,Haora,Amta-ii,Amta-ii,22.595,87.95583333,Bhategori,"Dug Well",W27891,2018,NA,1.23,1.33,NA
+WB,Haora,Domjur,Domjur,22.58916667,88.28916667,Jagacha,"Dug Well",W27886,2018,NA,1.74,1.9,NA
+WB,Haora,Domjur,Domjur,22.58916667,88.2975,Ramrajatala,"Dug Well",W27887,2018,NA,2.06,1.69,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.68027778,88.11111111,Goalpota,"Dug Well",W27930,2018,NA,2.52,2.78,NA
+WB,Haora,Uluberiya-ii,Amta,22.53444444,88.06305556,Panchla1,"Dug Well",W27852,2018,NA,'0.7,1.22,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43166667,88.095,Kalinagar,"Tube Well",W10459,2018,'0.7,1.11,NA,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2017,1.37,3.57,NA,5.02
+WB,Haora,Shyampur-ii,Shyampur-ii,22.36611111,87.97444444,"Sasati (Deora)","Bore Well",W27747,2017,19.39,NA,NA,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2017,NA,NA,NA,8.24
+WB,Haora,Amta,Amta,22.57916667,88.00833333,Amta,"Dug Well",W10439,2017,1.33,2.45,1.62,2.7
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2017,'0.72,1.22,'0.84,2.05
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2017,13.55,14.9,14.7,16.69
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2017,NA,2.36,1.6,4
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43166667,88.095,Kalinagar,"Tube Well",W10459,2017,'0.78,NA,1.25,1.34
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2017,NA,NA,'0.17,1.18
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,2017,'0.6,2.6,2.2,NA
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2017,'0.25,NA,'0.55,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2017,12.65,NA,11.53,NA
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2017,'0.56,'0.6,NA,1.08
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2017,NA,2.78,NA,'0.02
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2017,8.49,NA,NA,18.72
+WB,Haora,Shyampur-i,Shyampur-i,22.22583333,88.03,"Shipbur (Gadiara)","Dug Well",W27601,2017,NA,2.36,1.44,1.76
+WB,Haora,Amta-ii,Amta-ii,22.595,87.95583333,Bhategori,"Dug Well",W27891,2017,NA,1.88,1.13,2.93
+WB,Haora,Jagatballavpur,Jagatballavpur,22.68027778,88.11111111,Goalpota,"Dug Well",W27930,2017,1.81,NA,2.51,19.14
+WB,Haora,Shyampur-ii,Shyampur-ii,22.3,88.02472222,Shyampur2,"Dug Well",W27697,2017,NA,NA,2.17,2.21
+WB,Haora,Uluberiya-ii,Amta,22.53444444,88.06305556,Panchla1,"Dug Well",W27852,2017,NA,NA,'0.45,3.22
+WB,Haora,Domjur,Domjur,22.58916667,88.28916667,Jagacha,"Dug Well",W27886,2017,1.26,1.6,NA,2.12
+WB,Haora,Domjur,Domjur,22.58916667,88.2975,Ramrajatala,"Dug Well",W27887,2017,1.18,NA,NA,2.26
+WB,Haora,Uluberiya-I,Uluberiya-i,22.43,88.1,"Kalinagar  DW","Dug Well",W33463,2017,NA,1.21,NA,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2017,'0.6,2.3,'0.8,15.63
+WB,Haora,Amta,Amta,22.57916667,88.00833333,Amta,"Dug Well",W10439,2016,NA,NA,1.65,NA
+WB,Haora,Uluberiya-I,Uluberiya-i,22.43,88.1,"Kalinagar  DW","Dug Well",W33463,2016,NA,NA,'0.86,NA
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2016,7.52,NA,11.3,NA
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2016,NA,NA,NA,12.39
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2016,NA,NA,1.23,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2016,NA,NA,NA,14.38
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2016,'0.14,NA,NA,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2016,1.39,NA,2.15,17.7
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2016,'0.24,NA,NA,15.49
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,2016,NA,NA,1.95,NA
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2016,1.25,NA,NA,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2016,'0.57,NA,2.7,3.96
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2016,NA,NA,NA,'0.32
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2016,'0.14,NA,'0.6,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2016,2.6,NA,'0.8,2.21
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2016,14.97,NA,9.65,NA
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.48083333,88.09472222,Sankrail1,"Tube Well",W27825,2016,NA,2.38,NA,NA
+WB,Haora,Uluberiya-ii,Amta,22.53444444,88.06305556,Panchla1,"Dug Well",W27852,2016,NA,1.64,NA,3.48
+WB,Haora,Amta,Amta,22.57222222,88.00138889,Amta2,"Tube Well",W27876,2016,NA,13.75,NA,NA
+WB,Haora,Domjur,Domjur,22.57805556,88.22027778,Sankrail1,"Tube Well",W27879,2016,NA,6.83,NA,NA
+WB,Haora,Domjur,Domjur,22.58916667,88.28916667,Jagacha,"Dug Well",W27886,2016,'0.97,2,1.7,2.21
+WB,Haora,Domjur,Domjur,22.58916667,88.2975,Ramrajatala,"Dug Well",W27887,2016,'0.6,1.72,1.87,1.42
+WB,Haora,Amta-ii,Amta-ii,22.59277778,87.97,Sehagori1,"Dug Well",W27890,2016,NA,1.39,NA,1.91
+WB,Haora,Amta-ii,Amta-ii,22.595,87.95583333,Bhategori,"Dug Well",W27891,2016,'0.46,2.18,NA,13.69
+WB,Haora,Domjur,Domjur,22.59777778,88.35444444,"Howrah Town1","Dug Well",W27893,2016,NA,'0.58,NA,'0.63
+WB,Haora,Jagatballavpur,Jagatballavpur,22.68027778,88.11111111,Goalpota,"Dug Well",W27930,2016,'0.57,2.68,2.7,3.12
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.68944444,87.97416667,Singti,"Tube Well",W27936,2016,NA,9.73,NA,NA
+WB,Haora,Shyampur-i,Shyampur-i,22.22583333,88.03,"Shipbur (Gadiara)","Dug Well",W27601,2016,'0.58,2.13,1,1.19
+WB,Haora,Shyampur-i,Shyampur-i,22.29833333,88.03,Shyampur1,"Bore Well",W27696,2016,NA,3.79,NA,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.3,88.02472222,Shyampur2,"Dug Well",W27697,2016,'0.7,1.72,NA,'0.97
+WB,Haora,Shyampur-ii,Shyampur-ii,22.36611111,87.97444444,"Sasati (Deora)","Bore Well",W27747,2016,NA,13.5,NA,NA
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2016,NA,NA,1.1,NA
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2015,14.25,2.5,NA,6.58
+WB,Haora,Shyampur-ii,Shyampur-ii,22.36611111,87.97444444,"Sasati (Deora)","Bore Well",W27747,2015,13.77,12.53,12.93,NA
+WB,Haora,Amta-ii,Amta-ii,22.55444444,87.95388889,Joypur-2,"Tube Well",W10443,2015,14.15,NA,NA,14.15
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2015,7.88,9.59,8.26,11.96
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2015,NA,12.12,NA,9.98
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2015,8.45,NA,NA,8.45
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2015,'0.39,3.56,1.11,4.45
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2015,7.34,6.49,7.39,6.46
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2015,6.57,10.08,NA,6.57
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2015,'0.71,3.97,2.34,4.6
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2015,'0.1,'0.33,'0.33,'0.2
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2015,'0.75,1.32,2.25,'0.75
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.48083333,88.09472222,Sankrail1,"Tube Well",W27825,2015,2.21,2.47,2.22,2.77
+WB,Haora,Uluberiya-ii,Amta,22.53444444,88.06305556,Panchla1,"Dug Well",W27852,2015,'0.54,1.55,'0.65,2.75
+WB,Haora,Amta,Amta,22.57222222,88.00138889,Amta2,"Tube Well",W27876,2015,12.41,12.9,11.3,6.96
+WB,Haora,Domjur,Domjur,22.57805556,88.22027778,Sankrail1,"Tube Well",W27879,2015,6.1,6.53,6.21,8.02
+WB,Haora,Domjur,Domjur,22.58916667,88.28916667,Jagacha,"Dug Well",W27886,2015,1.45,2.1,1.75,2.23
+WB,Haora,Domjur,Domjur,22.58916667,88.2975,Ramrajatala,"Dug Well",W27887,2015,1.09,2.32,1.67,1.65
+WB,Haora,Amta-ii,Amta-ii,22.59277778,87.97,Sehagori1,"Dug Well",W27890,2015,'0.2,1.65,NA,NA
+WB,Haora,Amta-ii,Amta-ii,22.595,87.95583333,Bhategori,"Dug Well",W27891,2015,1.01,2.58,1.22,NA
+WB,Haora,Domjur,Domjur,22.59777778,88.35444444,"Howrah Town1","Dug Well",W27893,2015,NA,'0.78,1.63,1.14
+WB,Haora,Jagatballavpur,Jagatballavpur,22.68027778,88.11111111,Goalpota,"Dug Well",W27930,2015,'0.76,14.18,'0.88,NA
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.68944444,87.97416667,Singti,"Tube Well",W27936,2015,6.09,10.26,6.66,NA
+WB,Haora,Shyampur-i,Shyampur-i,22.22583333,88.03,"Shipbur (Gadiara)","Dug Well",W27601,2015,'0.58,1.16,1.99,NA
+WB,Haora,Shyampur-i,Shyampur-i,22.29833333,88.03,Shyampur1,"Bore Well",W27696,2015,3.58,3.65,3.65,5.51
+WB,Haora,Shyampur-ii,Shyampur-ii,22.3,88.02472222,Shyampur2,"Dug Well",W27697,2015,'0.7,2.66,1.56,1.5
+WB,Haora,Shyampur-ii,Shyampur-ii,22.35361111,88.04944444,Bargram1,"Tube Well",W27732,2015,13.31,10.6,NA,11.98
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2015,NA,12.27,NA,13.49
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2014,'0.25,5.71,NA,12.98
+WB,Haora,Shyampur-ii,Shyampur-ii,22.36611111,87.97444444,"Sasati (Deora)","Bore Well",W27747,2014,12.87,NA,10.91,14.17
+WB,Haora,Amta-ii,Amta-ii,22.55444444,87.95388889,Joypur-2,"Tube Well",W10443,2014,11,9.84,NA,NA
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2014,8.7,7.69,NA,11.07
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2014,11.52,8.88,NA,14.04
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2014,NA,NA,NA,9.53
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2014,NA,4.44,NA,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2014,1.56,1.37,NA,3.66
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2014,NA,6.58,NA,6.93
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2014,NA,12.93,NA,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2014,NA,2.2,NA,4.34
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2014,NA,'0.28,NA,'0.41
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2014,'0.34,1.02,NA,2.28
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.48083333,88.09472222,Sankrail1,"Tube Well",W27825,2014,2.89,1.52,2.28,2.66
+WB,Haora,Uluberiya-ii,Amta,22.53444444,88.06305556,Panchla1,"Dug Well",W27852,2014,'0.18,5.85,'0.67,2.29
+WB,Haora,Amta,Amta,22.57222222,88.00138889,Amta2,"Tube Well",W27876,2014,12.17,9.29,8.92,13.85
+WB,Haora,Domjur,Domjur,22.57805556,88.22027778,Sankrail1,"Tube Well",W27879,2014,6.42,5.73,6.15,7.3
+WB,Haora,Domjur,Domjur,22.58916667,88.28916667,Jagacha,"Dug Well",W27886,2014,1.26,1.76,1.54,2.51
+WB,Haora,Domjur,Domjur,22.58916667,88.2975,Ramrajatala,"Dug Well",W27887,2014,1.05,1.82,2.61,2.48
+WB,Haora,Amta-ii,Amta-ii,22.59277778,87.97,Sehagori1,"Dug Well",W27890,2014,'0.29,1.08,'0.23,1.72
+WB,Haora,Amta-ii,Amta-ii,22.595,87.95583333,Bhategori,"Dug Well",W27891,2014,NA,1.61,1.64,3.54
+WB,Haora,Domjur,Domjur,22.59777778,88.35444444,"Howrah Town1","Dug Well",W27893,2014,NA,'0.63,'0.68,'0.56
+WB,Haora,Jagatballavpur,Jagatballavpur,22.68027778,88.11111111,Goalpota,"Dug Well",W27930,2014,NA,'0.68,2.36,'0.77
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.68944444,87.97416667,Singti,"Tube Well",W27936,2014,7.66,6.51,6.1,9.04
+WB,Haora,Shyampur-i,Shyampur-i,22.22583333,88.03,"Shipbur (Gadiara)","Dug Well",W27601,2014,'0.61,'0.75,'0.86,2.21
+WB,Haora,Shyampur-i,Shyampur-i,22.29833333,88.03,Shyampur1,"Bore Well",W27696,2014,2.9,3.48,1.94,3.74
+WB,Haora,Shyampur-ii,Shyampur-ii,22.3,88.02472222,Shyampur2,"Dug Well",W27697,2014,'0.79,1.59,1,1.21
+WB,Haora,Shyampur-ii,Shyampur-ii,22.35361111,88.04944444,Bargram1,"Tube Well",W27732,2014,NA,11.31,1.46,12.06
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2014,11.67,9.19,NA,13.35
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2013,NA,NA,4.93,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.36611111,87.97444444,"Sasati (Deora)","Bore Well",W27747,2013,12.84,NA,NA,12.91
+WB,Haora,Amta-ii,Amta-ii,22.55444444,87.95388889,Joypur-2,"Tube Well",W10443,2013,NA,NA,4.21,NA
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2013,6.86,8.88,1.45,11.59
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2013,NA,NA,NA,'0.54
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2013,6.76,7.73,9.24,9.3
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2013,8.63,10.69,NA,11.88
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2013,NA,3.02,NA,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2013,'0.68,2.24,'0.56,4.21
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2013,6.79,6.52,6.78,6.5
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2013,8.89,8.45,11.91,11.53
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2013,'0.69,2.24,'0.79,4.62
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2013,'0.09,'0.24,'0.05,'0.36
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2013,NA,NA,NA,1.77
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2013,'0.63,1.04,'0.37,2.57
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2013,NA,9.89,NA,11.28
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.48083333,88.09472222,Sankrail1,"Tube Well",W27825,2013,2.16,2.2,1.97,2.44
+WB,Haora,Uluberiya-ii,Amta,22.53444444,88.06305556,Panchla1,"Dug Well",W27852,2013,'0.17,1.64,NA,3.55
+WB,Haora,Amta,Amta,22.57222222,88.00138889,Amta2,"Tube Well",W27876,2013,11.46,12.1,10.22,13.49
+WB,Haora,Domjur,Domjur,22.57805556,88.22027778,Sankrail1,"Tube Well",W27879,2013,5.64,6.38,4.05,NA
+WB,Haora,Domjur,Domjur,22.58916667,88.28916667,Jagacha,"Dug Well",W27886,2013,1.19,NA,1.53,4.58
+WB,Haora,Domjur,Domjur,22.58916667,88.2975,Ramrajatala,"Dug Well",W27887,2013,1.28,NA,1.37,1.57
+WB,Haora,Amta-ii,Amta-ii,22.59277778,87.97,Sehagori1,"Dug Well",W27890,2013,'0.3,'0.97,'0.3,1.77
+WB,Haora,Amta-ii,Amta-ii,22.595,87.95583333,Bhategori,"Dug Well",W27891,2013,'0.75,NA,NA,6.13
+WB,Haora,Domjur,Domjur,22.59777778,88.35444444,"Howrah Town1","Dug Well",W27893,2013,'0.39,'0.63,'0.48,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.68027778,88.11111111,Goalpota,"Dug Well",W27930,2013,1.37,NA,'0.48,2.52
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.68944444,87.97416667,Singti,"Tube Well",W27936,2013,5.84,6.84,NA,8.98
+WB,Haora,Shyampur-i,Shyampur-i,22.22583333,88.03,"Shipbur (Gadiara)","Dug Well",W27601,2013,1.15,NA,1.39,'0.96
+WB,Haora,Shyampur-i,Shyampur-i,22.29833333,88.03,Shyampur1,"Bore Well",W27696,2013,3.31,NA,3.17,3.72
+WB,Haora,Shyampur-ii,Shyampur-ii,22.3,88.02472222,Shyampur2,"Dug Well",W27697,2013,'0.43,NA,'0.91,1.51
+WB,Haora,Shyampur-ii,Shyampur-ii,22.35361111,88.04944444,Bargram1,"Tube Well",W27732,2013,9.7,9.89,10.62,11.28
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2013,9.88,NA,9.96,12.2
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2012,NA,NA,NA,6.15
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2012,NA,10.67,12.32,12.39
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2012,NA,8.14,8.19,10.94
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2012,NA,8.27,6.71,9.59
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2012,NA,8.65,9.83,11.76
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2012,NA,1.95,2.16,2.94
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2012,NA,1.96,2.14,3.95
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2012,NA,5.89,5.93,5.89
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2012,NA,8.78,8.1,10.51
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2012,NA,1.97,1.78,3.75
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2012,NA,'0.13,'0.19,'0.47
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2012,NA,NA,'0.88,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2012,NA,1.12,'0.97,2.03
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2012,NA,NA,8.19,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2012,NA,NA,9.71,NA
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.48083333,88.09472222,Sankrail1,"Tube Well",W27825,2012,NA,NA,2.23,NA
+WB,Haora,Uluberiya-ii,Amta,22.53444444,88.06305556,Panchla1,"Dug Well",W27852,2012,NA,NA,1.01,NA
+WB,Haora,Amta,Amta,22.57222222,88.00138889,Amta2,"Tube Well",W27876,2012,NA,NA,11.15,NA
+WB,Haora,Domjur,Domjur,22.57805556,88.22027778,Sankrail1,"Tube Well",W27879,2012,NA,NA,5.75,NA
+WB,Haora,Amta-ii,Amta-ii,22.59277778,87.97,Sehagori1,"Dug Well",W27890,2012,NA,NA,'0.88,NA
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.68944444,87.97416667,Singti,"Tube Well",W27936,2012,NA,NA,6.14,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.35361111,88.04944444,Bargram1,"Tube Well",W27732,2012,NA,NA,9.71,NA
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2011,'0.06,NA,'0.35,'0.8
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2011,9.95,8.8,8.38,13.98
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2011,'0.25,1.02,1.14,2.48
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2011,NA,8.24,NA,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2011,NA,9.3,NA,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2011,'0.6,NA,1.97,2.46
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2011,'0.63,2.46,1.61,3.27
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2011,6.17,5.9,6.1,6.3
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2011,NA,7.6,9.12,19.63
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2011,'0.76,2.4,2.09,3.77
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2011,8.37,9.5,NA,10.72
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2011,10.58,9.25,10.44,12.73
+WB,Haora,Bali,Bali,22.65027778,88.35166667,Bally,"Dug Well",W10446,2011,NA,'0.4,NA,NA
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2011,8.19,8.24,7.12,11.18
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2011,NA,1.24,NA,'0.44
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2011,7.32,9,6.26,9.07
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2011,NA,1.4,NA,2.36
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2010,1,1.5,'0.6,1.98
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2010,9.76,7.69,7.63,10.87
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2010,10.68,8.49,9.58,10.97
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2010,1.02,2.32,2.09,2.19
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2010,10.06,8.32,8.63,12.71
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2010,7.99,8.5,5.55,10.22
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2010,'0.61,2.92,'0.78,3.77
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2010,8.78,8.81,9.52,12.94
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2010,11.26,9.83,10.5,13.41
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2010,6.22,5.52,5.99,6.22
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2009,'0.35,1.55,'0.95,1.18
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2009,8.52,7.14,6.82,10.12
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2009,9.52,7.7,8.84,7.13
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2009,1.18,2.15,2,2.3
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2009,9.08,9,8.05,10.42
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2009,13.26,8.08,11.81,15.03
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2009,'0.92,2.12,1.77,3.39
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2009,NA,9.2,9.32,7.46
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2009,NA,NA,8.25,NA
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2009,5.83,4.94,4.79,5.71
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2008,'0.3,1.25,'0.54,1.56
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2008,6.34,6.19,5.41,8.98
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2008,4.79,7.28,7.1,7.23
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2008,1.2,2,1.75,1.49
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2008,7.29,6.65,6.14,11
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2008,10,NA,NA,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2008,'0.92,2.24,1.16,2.89
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2008,5.82,8.55,5.55,7.31
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2008,5.27,6.12,4.98,5.35
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2007,8.12,NA,'0.56,9.1
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2007,'0.3,6.53,4.96,9.59
+WB,Haora,Shyampur-ii,Shyampur-ii,22.34166667,88.02805556,Bargram,"Tube Well",W21294,2007,NA,NA,5.9,9.18
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2007,1.18,2.56,1.96,4.92
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2007,5.78,9.9,6.45,9.59
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2007,1.27,9.42,9.54,4.92
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2007,1.13,3.53,1.57,3.42
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2007,'0.88,9.96,8.32,5.48
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2007,'0.83,9.44,NA,5.82
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2007,5.34,4.91,5.09,5.44
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2006,7.7,NA,8.09,9.34
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2006,7.97,5.89,5.71,9.82
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2006,'0.98,'0.8,2.2,1.65
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2006,5.19,4.57,5.01,5.29
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2006,8.3,6.25,6.75,11.83
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2006,'0.55,2.46,1.52,3.37
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2006,8.92,6.35,1.99,11.25
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2006,8.48,4.7,NA,10.8
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2006,8.92,2.59,NA,13.16
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2005,NA,8.16,NA,10.35
+WB,Haora,Domjur,Domjur,22.63027778,88.21916667,"Domjur Pz-2","Tube Well",W18441,2005,7.64,6.04,4.06,8.96
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2005,1.1,2.15,1.08,1.3
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2005,1.39,1.83,'0.86,2.65
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2005,4.93,5.32,3.74,5.31
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2005,11.6,8.82,7.46,3.7
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2005,7.82,8.82,NA,10.96
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2005,8.66,6.48,1.49,8.55
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2005,NA,6.93,6.09,10.73
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2005,9.06,7.48,3.27,6.6
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2005,7.64,6.04,4.06,8.96
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2005,1.12,2.49,1.23,1.86
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2005,NA,7.1,NA,10.58
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2005,'0.9,3.03,1.1,3.39
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2004,4.12,NA,7.91,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2004,6.25,5.35,7.22,11.28
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2004,2.34,1.26,1.96,1.62
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2004,1.42,1.63,1.05,2.39
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2004,4.53,5.51,5.01,4.94
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67916667,87.98277778,Kumirmora-1,"Dug Well",W10457,2004,9.62,3.1,7.22,3.3
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2004,1.43,2.16,1.59,3.57
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2004,NA,'0.4,NA,'0.95
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2004,3.2,5.71,6.22,8.17
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2004,4.93,3.03,6.71,7.03
+WB,Haora,Amta-ii,Amta-ii,22.58027778,87.94611111,Joypur-1,"Tube Well",W10442,2004,4.35,5.01,7.36,4.99
+WB,Haora,Amta-ii,Amta-ii,22.55444444,87.95388889,Joypur-2,"Tube Well",W10443,2004,NA,2.53,NA,4.99
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2004,6.3,5.42,4.79,8.57
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2004,1.51,2.04,1.72,2.16
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2004,6.52,6.12,7.05,11.88
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2004,NA,'0.99,NA,1.62
+WB,Haora,Amta-ii,Amta-ii,22.59138889,87.93111111,Sehagori,"Tube Well",W11186,2003,NA,NA,3.64,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2003,6.65,7.89,6.09,9.96
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2003,'0.76,'0.36,1.68,1.64
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2003,1.26,2.06,1.69,2.76
+WB,Haora,Ranihati,Ranihati,22.55833333,88.13833333,Panchla,"Tube Well",W10454,2003,NA,6.42,7.84,8.2
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2003,4.67,NA,5,4.76
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,2003,10.97,13.18,3.64,13.96
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2003,'0.76,3.52,1.41,3.18
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43166667,88.095,Kalinagar,"Tube Well",W10459,2003,NA,2.29,NA,NA
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2003,'0.25,'0.65,1.2,'0.94
+WB,Haora,Amta,Amta,22.57916667,88.00833333,Amta,"Dug Well",W10439,2003,2.8,NA,NA,NA
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2003,7.42,8.1,4.27,3.9
+WB,Haora,Amta,Amta,22.5825,88.02027778,Amta-1,"Tube Well",W10441,2003,NA,NA,3.37,NA
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2003,6.36,6.38,4.81,8.25
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2003,'0.8,1.85,1.6,'0.84
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2003,7.7,9.32,5.62,10.62
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2003,'0.76,'0.8,1,'0.74
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2002,'0.7,1.63,2.01,2.45
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2002,6.88,8.6,5.05,9.53
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2002,'0.97,1.26,1.6,3.79
+WB,Haora,Ranihati,Ranihati,22.55833333,88.13833333,Panchla,"Tube Well",W10454,2002,NA,7.05,7.35,8.66
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2002,6.43,NA,1.66,NA
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,2002,8.47,9.99,NA,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2002,NA,3.08,1.22,3.6
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2002,NA,1.53,1.11,1.28
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2002,7.9,8.4,3.45,8.9
+WB,Haora,Bagnan-i,Bagnan-i,22.48638889,87.92361111,Khadinan,"Tube Well",W10444,2002,'0.53,NA,NA,NA
+WB,Haora,Bali,Bali,22.65027778,88.35166667,Bally,"Dug Well",W10446,2002,1.45,2.08,2.21,'0.93
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2002,6.25,6.95,5.01,8.93
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2002,1.14,3.74,1.91,1.48
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2002,5.4,9.12,9.07,10.8
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2002,'0.78,2.5,2.35,2.44
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2001,'0.91,1.36,1.05,2.07
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2001,1.06,1.9,1.38,2.56
+WB,Haora,Ranihati,Ranihati,22.55833333,88.13833333,Panchla,"Tube Well",W10454,2001,6.73,6.93,7.07,8.75
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2001,4.49,5.18,4.67,NA
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,2001,10.23,9.62,10.1,10.53
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2001,1.45,3.23,6.88,4.08
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2001,'0.38,1,1.57,1.73
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2001,6.78,6.63,6.98,10.4
+WB,Haora,Bali,Bali,22.65027778,88.35166667,Bally,"Dug Well",W10446,2001,1.95,2.78,2.22,2.72
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2001,5.88,5.81,4.97,7.75
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2001,2.07,2.14,1.86,1.54
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2001,7.2,6.54,6.25,9.82
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2001,6.15,5.97,5.2,9.9
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2001,1.11,3.65,1.4,3.22
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,2000,'0.4,1.33,1.05,1.49
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,2000,1.23,3.5,3.23,3.41
+WB,Haora,Ranihati,Ranihati,22.55833333,88.13833333,Panchla,"Tube Well",W10454,2000,4,8.28,6.86,6.95
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,2000,NA,5.49,4.95,NA
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,2000,NA,10.69,9.52,NA
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,2000,NA,2.46,2.24,3.28
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43166667,88.095,Kalinagar,"Tube Well",W10459,2000,3.8,6.6,6.05,8.7
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,2000,'0.46,2.43,'0.65,2
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,2000,NA,5.8,5.43,NA
+WB,Haora,Bali,Bali,22.65027778,88.35166667,Bally,"Dug Well",W10446,2000,1.63,2.58,3.96,2.53
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,2000,4.3,4.38,4.89,8
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,2000,1.03,1.01,2.08,1.04
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,2000,NA,5.52,5.88,9.96
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,2000,NA,5.3,4.06,9.51
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,2000,'0.96,1.6,1.36,2.68
+WB,Haora,Ranihati,Ranihati,22.55833333,88.13833333,Panchla,"Tube Well",W10454,1999,6.19,6.11,5.31,8.02
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,1999,4.36,3.65,4.18,4.5
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,1999,6.07,8.85,4.38,10.72
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43166667,88.095,Kalinagar,"Tube Well",W10459,1999,7.4,7.03,6.7,NA
+WB,Haora,Bali,Bali,22.65027778,88.35166667,Bally,"Dug Well",W10446,1999,1.89,2.75,2.4,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,1999,'0.83,2.44,1.05,3.97
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,1999,6.72,8.86,5.46,11.27
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,1999,'0.77,1.28,1.02,1.99
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,1999,'0.31,1.06,'0.49,1.55
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,1999,1.04,'0.79,'0.47,1.06
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,1999,1.49,3.28,2.25,4.27
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,1999,'0.82,5.42,'0.62,11.3
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,1999,'0.86,3.31,2.04,2.98
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,1999,5,6.09,3.44,8.59
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,1999,8.77,12.53,8.45,13.31
+WB,Haora,Bagnan-i,Bagnan-i,22.48638889,87.92361111,Khadinan,"Tube Well",W10444,1998,NA,2.25,NA,8.06
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,1998,5.85,7.26,4.12,6.69
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,1998,'0.78,2.05,'0.93,2.13
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,1998,NA,1.2,1.56,3.65
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,1998,6.76,9.8,5.95,2.81
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,1998,'0.92,1.73,'0.79,1.57
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,1998,5.21,6.1,4.45,6.75
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,1998,6.2,4.05,5.72,2.73
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43166667,88.095,Kalinagar,"Tube Well",W10459,1998,NA,3.3,5.93,4.61
+WB,Haora,Bali,Bali,22.65027778,88.35166667,Bally,"Dug Well",W10446,1998,NA,2.5,1.64,NA
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,1998,NA,1.7,'0.5,'0.96
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,1998,1.38,2.06,1.6,2.2
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,1998,NA,2.11,3.86,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,1998,1.02,2.67,1.94,2.34
+WB,Haora,Ranihati,Ranihati,22.55833333,88.13833333,Panchla,"Tube Well",W10454,1998,NA,7.6,5.63,6.76
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.07861111,Maju,"Dug Well",W10453,1997,NA,5.97,NA,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,1997,'0.86,2,1.51,2.52
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,1997,1.65,2.17,2.2,3.08
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,1997,4.2,5.43,4.9,8.29
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.09444444,"Dakshin Maju Tw-1","Tube Well",W10449,1997,2.33,5.97,9.02,6.32
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,1997,'0.99,1.84,1.72,2.43
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,1997,3.08,5.36,4.64,7.3
+WB,Haora,Bali,Bali,22.65027778,88.35166667,Bally,"Dug Well",W10446,1997,'0.92,2.15,2.67,1.95
+WB,Haora,Bagnan-i,Bagnan-i,22.48638889,87.92361111,Khadinan,"Tube Well",W10444,1997,NA,1.2,1.95,2.11
+WB,Haora,Amta,Amta,22.57638889,88.00944444,"Amta Tw-1","Tube Well",W10440,1997,2.3,5.88,3.65,8.55
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,1997,1.1,1.67,1.9,1.52
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,1997,'0.6,1.16,'0.9,'0.82
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43166667,88.095,Kalinagar,"Tube Well",W10459,1997,4,5.82,4.77,7.54
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,1997,'0.4,3.56,1.1,3.25
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,1997,NA,9.25,NA,10.74
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,1997,'0.64,3.08,1.67,3.62
+WB,Haora,Ranihati,Ranihati,22.55833333,88.13833333,Panchla,"Tube Well",W10454,1997,5.05,5.48,7.5,6.98
+WB,Haora,Jagatballavpur,Jagatballavpur,22.65833333,88.08333333,Goalpata,"Dug Well",W10451,1996,'0.69,2.3,1.93,3.75
+WB,Haora,Ranihati,Ranihati,22.55833333,88.13833333,Panchla,"Tube Well",W10454,1996,5.72,5.05,5.26,7.4
+WB,Haora,Bagnan-i,Bagnan-i,22.48638889,87.92361111,Khadinan,"Tube Well",W10444,1996,1.22,1.45,1.54,3.4
+WB,Haora,Jagatballavpur,Jagatballavpur,22.63972222,88.08555556,"Garbalia Pz","Tube Well",W10450,1996,5.35,4.4,4.9,8.7
+WB,Haora,Domjur,Domjur,22.59166667,88.33333333,"Howrah Town-1","Dug Well",W10448,1996,1.16,1.04,2.18,'0.79
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43166667,88.095,Kalinagar,"Tube Well",W10459,1996,5.96,3.9,6.3,4.3
+WB,Haora,Uluberiya-i,Uluberiya-i,22.43333333,88.10416667,"Uluberia Dug-1","Dug Well",W11187,1996,'0.62,1.18,NA,2.33
+WB,Haora,Domjur,Domjur,22.60833333,88.25666667,"Domjur Pz-1","Tube Well",W10447,1996,4.64,4.34,4.37,7.64
+WB,Haora,Bali,Bali,22.65027778,88.35166667,Bally,"Dug Well",W10446,1996,1.25,2.33,1.95,3.38
+WB,Haora,Bagnan-ii,Bagnan-ii,22.42333333,87.98583333,Guninpara,"Tube Well",W10445,1996,NA,3.28,NA,4.98
+WB,Haora,Udaynarayanpur,Udaynarayanpur,22.67805556,87.98055556,Kumirmora,"Tube Well",W10456,1996,7.87,NA,7.83,NA
+WB,Haora,Jagatballavpur,Jagatballavpur,22.60694444,88.09833333,Jagatballavpur-1,"Dug Well",W10452,1996,'0.57,1.66,1.38,4.11
+WB,Haora,Jagatballavpur,Jagatballavpur,22.61555556,88.07861111,Maju,"Dug Well",W10453,1996,1.55,2.38,2.14,3.33
+WB,Haora,Amta,Amta,22.57916667,88.00833333,Amta,"Dug Well",W10439,1996,'0.94,1.88,1.75,5.12
+WB,Haora,Shyampur-ii,Shyampur-ii,22.30833333,88.00833333,Bardabar,"Tube Well",W10455,1996,NA,3.79,3.21,4.49
+WB,Haora,Uluberiya-ii,Uluberiya-ii,22.51361111,88.16194444,Bauria-2,"Dug Well",W10460,1996,'0.34,'0.78,'0.7,1.41
+WB,Haora,Uluberiya-i,Uluberiya-i,22.37,88.07666667,Baganda,"Dug Well",W10458,1996,1.07,2.58,NA,4.78

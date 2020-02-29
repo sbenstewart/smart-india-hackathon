@@ -1,0 +1,959 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2018,NA,NA,NA,4.9
+MS,Sindhudurg,Devgad,Devgad,16.49333333,73.53944444,Kumburla,"Dug Well",W25156,2018,NA,NA,10.35,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2018,NA,5.2,3.9,NA
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2018,NA,2.4,2.4,NA
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2018,NA,2,2.6,NA
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2018,NA,5,5,NA
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2018,NA,3.2,2.5,NA
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2018,NA,3,2.2,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2018,NA,1.6,1.1,NA
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2018,NA,7.4,8.15,NA
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2018,NA,3,3.3,NA
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2018,NA,6.5,7.4,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2018,NA,7.8,7.2,NA
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2018,NA,15,14.7,NA
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2018,NA,8.9,8.4,NA
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2018,NA,4.3,2.95,NA
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2018,NA,6,6.4,NA
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2018,NA,8,9,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2018,NA,2,2.2,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2018,NA,3.6,2.7,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2018,NA,6,6.7,NA
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2018,NA,'0.8,1.55,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2018,NA,4.4,4.8,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2018,NA,10,10.5,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2018,NA,5,3.9,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2018,NA,2,2,NA
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2018,NA,8.3,9.7,NA
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2018,NA,10.2,11,NA
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2018,NA,3.1,4.6,NA
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2018,NA,15.9,16,NA
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2018,NA,16.5,14.9,NA
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2018,NA,12.2,12.45,NA
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2018,NA,6.3,6.8,NA
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2018,NA,9.2,8.3,NA
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2018,NA,8,8.15,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.89277778,73.67055556,Math-1,"Dug Well",W24968,2018,NA,5.7,5.55,NA
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.85527778,73.78222222,Nirwad,"Dug Well",W24963,2018,NA,4.4,5.3,NA
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9275,73.88027778,Madkhol,"Dug Well",W24972,2018,NA,3.1,4.15,NA
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.73416667,73.77833333,Sasole,"Dug Well",W24941,2018,NA,7.2,10.15,NA
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.825,73.84861111,Sherley,"Dug Well",W24955,2018,NA,6.6,7.2,NA
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9625,74.00166667,Amboli-1,"Dug Well",W24982,2018,NA,3.4,2.4,NA
+MS,Sindhudurg,Sawantwadi,Kudal,15.92944444,73.77444444,Achare,"Dug Well",W24973,2018,NA,1.3,4.1,NA
+MS,Sindhudurg,Kudal,Kudal,15.95805556,73.68527778,Vardivarwade,"Dug Well",W24980,2018,NA,10.4,11.2,NA
+MS,Sindhudurg,Kudal,Kudal,16.00166667,73.63861111,Dewoolwada,"Dug Well",W24993,2018,NA,3.2,3.8,NA
+MS,Sindhudurg,Malwan,Malwan,16.05805556,73.54555556,Chouke,"Dug Well",W25011,2018,NA,5.7,6.4,NA
+MS,Sindhudurg,Kudal,Kudal,16.11388889,73.68861111,"Sindhudurg RH","Dug Well",W25033,2018,NA,6.1,6.5,NA
+MS,Sindhudurg,Kudal,Kudal,16.18972222,73.73805556,Ambrad,"Dug Well",W25053,2018,NA,3.6,4.7,NA
+MS,Sindhudurg,Devgad,Devgad,16.38333333,73.50222222,"Tale Bazar","Dug Well",W25110,2018,NA,9.3,10.35,NA
+MS,Sindhudurg,Kankavli,Kankavli,16.25583333,73.71361111,Kankavalli-1,"Dug Well",W25067,2018,NA,3,2.85,NA
+MS,Sindhudurg,Kankavli,Kankavli,16.38527778,73.635,Koloshe,"Dug Well",W25113,2018,NA,4.2,3.7,NA
+MS,Sindhudurg,Sawantwadi,Kankavli,16.38527778,73.635,Sindhunagari,"Dug Well",W25114,2018,NA,2.1,4.5,NA
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.44,73.75166667,Achirne,"Dug Well",W25138,2018,NA,2.7,4.1,NA
+MS,Sindhudurg,Devgad,Devgad,16.37194444,73.48583333,Wareri-1,"Dug Well",W31116,2018,NA,14.9,14.5,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2018,NA,1.8,2,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2017,7.1,10.2,8.77,NA
+MS,Sindhudurg,Devgad,Devgad,16.37194444,73.48583333,Wareri-1,"Dug Well",W31116,2017,10.1,13.9,11.85,16.7
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2017,1.85,1.3,1.05,5.1
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2017,6.5,5.2,3.92,9.6
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2017,2.1,2.4,1.15,5.7
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2017,2.15,1.5,2.4,3.15
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2017,2.8,4.9,3.35,8.65
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2017,1.65,3.9,1.04,7.2
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2017,1,2.3,2,6.7
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2017,'0.6,2,'0.15,4
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2017,7.2,7.4,'0.4,8.75
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2017,3.1,3.2,2.95,4.7
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2017,4.25,6.3,6.3,8
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2017,5,6.8,6.45,8.9
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2017,9,15.2,11,18
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2017,7,9.2,8,8.7
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2017,3.3,4.9,3.22,7.85
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2017,2.65,6.2,4.95,8
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2017,8.2,8.2,7.75,15.3
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2017,1.8,2.3,1.05,3.1
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2017,1.3,3.5,1,7.6
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2017,4.2,6.1,5.51,8.25
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2017,1.3,1.2,'0.47,5.4
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2017,18.5,5.4,3.9,6.4
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2017,4.95,6.1,5.4,7.55
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2017,1.3,2.5,'0.8,5.4
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2017,7,14.6,7.4,12.15
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2017,1.7,9.9,7.35,14.07
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2017,1.75,3.2,2.92,4
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2017,11.9,15.3,15,18
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2017,10.51,18.2,15.25,12
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2017,10.52,12.3,11.51,13.7
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2017,3.6,5.8,4.1,10.1
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2017,3.83,8.1,8.52,10.1
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2017,5.9,8.5,7.25,12.8
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2017,3.4,NA,3.95,6.8
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9275,73.88027778,Madkhol,"Dug Well",W24972,2017,2.35,NA,2.25,5.2
+MS,Sindhudurg,Kudal,Kudal,16.00166667,73.63861111,Dewoolwada,"Dug Well",W24993,2017,4,3.6,2.7,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.89277778,73.67055556,Math-1,"Dug Well",W24968,2017,3.5,6,4.65,8.6
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.85527778,73.78222222,Nirwad,"Dug Well",W24963,2017,6.75,5.6,4.45,8.6
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.73416667,73.77833333,Sasole,"Dug Well",W24941,2017,8.4,6.3,7.32,6.8
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.825,73.84861111,Sherley,"Dug Well",W24955,2017,5,6.5,5.95,6.65
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9625,74.00166667,Amboli-1,"Dug Well",W24982,2017,1.05,3.4,'0.8,6.5
+MS,Sindhudurg,Sawantwadi,Kudal,15.92944444,73.77444444,Achare,"Dug Well",W24973,2017,1.6,2.4,'0.75,4.2
+MS,Sindhudurg,Kudal,Kudal,15.95805556,73.68527778,Vardivarwade,"Dug Well",W24980,2017,9.75,11.2,10.65,8.2
+MS,Sindhudurg,Malwan,Malwan,16.05805556,73.54555556,Chouke,"Dug Well",W25011,2017,2.05,5.9,4.5,6.75
+MS,Sindhudurg,Devgad,Devgad,16.49333333,73.53944444,Kumburla,"Dug Well",W25156,2017,6,NA,4.35,NA
+MS,Sindhudurg,Kudal,Kudal,16.11388889,73.68861111,"Sindhudurg RH","Dug Well",W25033,2017,4.6,6.5,5.4,9
+MS,Sindhudurg,Kudal,Kudal,16.18972222,73.73805556,Ambrad,"Dug Well",W25053,2017,2.35,4.1,3.45,6.15
+MS,Sindhudurg,Devgad,Devgad,16.38333333,73.50222222,"Tale Bazar","Dug Well",W25110,2017,6.85,11.8,10.05,16.19
+MS,Sindhudurg,Kankavli,Kankavli,16.25583333,73.71361111,Kankavalli-1,"Dug Well",W25067,2017,3.1,3.8,2,6.45
+MS,Sindhudurg,Kankavli,Kankavli,16.38527778,73.635,Koloshe,"Dug Well",W25113,2017,'0.6,4.2,2.05,5.8
+MS,Sindhudurg,Sawantwadi,Kankavli,16.38527778,73.635,Sindhunagari,"Dug Well",W25114,2017,1.98,1.7,1.05,4
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.44,73.75166667,Achirne,"Dug Well",W25138,2017,1.3,5.2,2.7,3.4
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2017,1.86,NA,1.05,NA
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2016,5,NA,6,8
+MS,Sindhudurg,Devgad,Devgad,16.37194444,73.48583333,Wareri-1,"Dug Well",W31116,2016,10.4,6.4,14.2,16.8
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2016,1.3,NA,1.3,5.6
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2016,5,NA,5.9,8.2
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2016,1.75,NA,'0.85,5.3
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2016,6.6,NA,7,9
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2016,11.5,NA,12.3,13.65
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2016,2.4,NA,3,4.05
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2016,11.4,NA,16.4,12.1
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2016,8.25,NA,8.3,8.9
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2016,11.75,NA,14.2,18.3
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2016,7.25,NA,9,10.22
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2016,4.4,NA,5.3,10.13
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2016,6.7,NA,7.5,12.9
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2016,1.05,NA,1.8,6.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2016,1.4,NA,'0.2,4.08
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2016,1.25,NA,1.8,7.6
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2016,7.9,NA,7.6,8.8
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2016,'0.3,NA,1.8,3.1
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2016,11.6,NA,7.8,15.5
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2016,1.7,NA,1.8,3.08
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2016,1.65,NA,1.5,5.65
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2016,2.35,NA,3.6,8.6
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2016,3.75,NA,7,14.07
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2016,3.2,NA,4.6,7.95
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2016,3.2,NA,NA,6.7
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2016,2.65,NA,5.3,8.05
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2016,2.55,NA,1.3,5.7
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2016,8.55,NA,9.4,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2016,2.75,NA,4.4,9.5
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2016,10.2,NA,11.8,18.6
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2016,1.05,NA,1.8,7.85
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2016,8.5,NA,9,12.98
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2016,5.45,NA,5.6,7.6
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2016,2.1,NA,3.7,6.88
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.73416667,73.77833333,Sasole,"Dug Well",W24941,2016,7.5,7.25,7.5,6.9
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.825,73.84861111,Sherley,"Dug Well",W24955,2016,1.9,5.34,5.7,6.5
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.85527778,73.78222222,Nirwad,"Dug Well",W24963,2016,4.6,5.3,4.6,8.6
+MS,Sindhudurg,Vengurla,Vengurla,15.89277778,73.67055556,Math-1,"Dug Well",W24968,2016,3.65,6.2,4.8,8.4
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9275,73.88027778,Madkhol,"Dug Well",W24972,2016,1.4,3.55,2.8,5.4
+MS,Sindhudurg,Sawantwadi,Kudal,15.92944444,73.77444444,Achare,"Dug Well",W24973,2016,'0.6,2.26,'0.7,4.3
+MS,Sindhudurg,Kudal,Kudal,15.95805556,73.68527778,Vardivarwade,"Dug Well",W24980,2016,3.7,12,10,8.9
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9625,74.00166667,Amboli-1,"Dug Well",W24982,2016,1,4.08,1,6.4
+MS,Sindhudurg,Kudal,Kudal,16.00166667,73.63861111,Dewoolwada,"Dug Well",W24993,2016,4,NA,3,NA
+MS,Sindhudurg,Malwan,Malwan,16.05805556,73.54555556,Chouke,"Dug Well",W25011,2016,3.15,3.48,5,6.75
+MS,Sindhudurg,Kudal,Kudal,16.11388889,73.68861111,"Sindhudurg RH","Dug Well",W25033,2016,4.75,8.05,5.1,9.3
+MS,Sindhudurg,Kudal,Kudal,16.18972222,73.73805556,Ambrad,"Dug Well",W25053,2016,1.1,3.83,3.4,6.35
+MS,Sindhudurg,Kankavli,Kankavli,16.25583333,73.71361111,Kankavalli-1,"Dug Well",W25067,2016,3.1,4.55,3,6.65
+MS,Sindhudurg,Devgad,Devgad,16.38333333,73.50222222,"Tale Bazar","Dug Well",W25110,2016,6.05,11.72,9.6,16.1
+MS,Sindhudurg,Kankavli,Kankavli,16.38527778,73.635,Koloshe,"Dug Well",W25113,2016,'0.65,5,3,6.1
+MS,Sindhudurg,Sawantwadi,Kankavli,16.38527778,73.635,Sindhunagari,"Dug Well",W25114,2016,'0.95,2.53,1.4,4.07
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.44,73.75166667,Achirne,"Dug Well",W25138,2016,1.7,3.78,3.7,3.25
+MS,Sindhudurg,Devgad,Devgad,16.49333333,73.53944444,Kumburla,"Dug Well",W25156,2016,6.5,11.9,NA,NA
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2016,2.95,NA,3.2,4.8
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2015,6.1,6.7,6.2,7.1
+MS,Sindhudurg,Devgad,Devgad,16.37194444,73.48583333,Wareri-1,"Dug Well",W31116,2015,NA,NA,11.9,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2015,1.1,2.1,1,4.34
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2015,6.2,7.25,6,7.45
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2015,1.2,'0.7,'0.5,3.32
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2015,6.5,12.3,3.3,13
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2015,11.7,12.6,12.2,12.11
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2015,2.6,3.4,2.8,3.27
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2015,13,14.35,14.9,17.9
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2015,5.2,8.55,8.2,8.15
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2015,11.95,15.8,15,17.1
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2015,2.7,9.25,3.7,9.3
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2015,4.5,5.5,4.8,8.45
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2015,NA,9.1,7.9,10.8
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2015,1.3,3,2.1,6.5
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2015,'0.6,'0.8,'0.2,3.25
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2015,1.3,3.15,1,7.15
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2015,7.5,8,7.5,8.1
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2015,1.5,2.65,1.8,3.85
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2015,NA,8,6,9.15
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2015,2.1,2.05,1.75,2.15
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2015,1.9,2.05,1.3,4.15
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2015,2.4,4.75,3.4,6.95
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2015,5.1,9.4,7.3,14.07
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2015,2.3,2,3,3.32
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2015,1.9,2.15,NA,5.45
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2015,3.6,6,4.1,6.15
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2015,NA,2.4,1,2.6
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2015,NA,NA,9.5,12.97
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2015,'0.9,5,4.4,7.52
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2015,8.5,14.2,13.2,16.8
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2015,1.35,2.7,1.4,5.9
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2015,8.05,9.2,8,11.6
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2015,5.1,6.3,5.8,7.2
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2015,1.7,4.6,3.4,6.55
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.73416667,73.77833333,Sasole,"Dug Well",W24941,2015,8.2,6.8,9.6,7.4
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.825,73.84861111,Sherley,"Dug Well",W24955,2015,4.9,6.25,4.8,7.35
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.85527778,73.78222222,Nirwad,"Dug Well",W24963,2015,4.75,4.7,4.4,7.1
+MS,Sindhudurg,Vengurla,Vengurla,15.89277778,73.67055556,Math-1,"Dug Well",W24968,2015,3.6,5.35,4.8,7.5
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9275,73.88027778,Madkhol,"Dug Well",W24972,2015,2.1,3.8,2.5,4.85
+MS,Sindhudurg,Sawantwadi,Kudal,15.92944444,73.77444444,Achare,"Dug Well",W24973,2015,'0.8,1,'0.4,NA
+MS,Sindhudurg,Kudal,Kudal,15.95805556,73.68527778,Vardivarwade,"Dug Well",W24980,2015,10,NA,10.3,13.15
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9625,74.00166667,Amboli-1,"Dug Well",W24982,2015,'0.9,3,'0.7,4.85
+MS,Sindhudurg,Kudal,Kudal,16.00166667,73.63861111,Dewoolwada,"Dug Well",W24993,2015,2.3,2.7,3,5
+MS,Sindhudurg,Malwan,Malwan,16.05805556,73.54555556,Chouke,"Dug Well",W25011,2015,3.2,6.15,5.2,6.75
+MS,Sindhudurg,Kudal,Kudal,16.11388889,73.68861111,"Sindhudurg RH","Dug Well",W25033,2015,4.9,6.8,4.4,9.1
+MS,Sindhudurg,Kudal,Kudal,16.18972222,73.73805556,Ambrad,"Dug Well",W25053,2015,2.6,2.75,2,6.85
+MS,Sindhudurg,Kankavli,Kankavli,16.25583333,73.71361111,Kankavalli-1,"Dug Well",W25067,2015,2.4,3.8,2.9,9.5
+MS,Sindhudurg,Devgad,Devgad,16.38333333,73.50222222,"Tale Bazar","Dug Well",W25110,2015,4.25,9.55,9.7,14.45
+MS,Sindhudurg,Kankavli,Kankavli,16.38527778,73.635,Koloshe,"Dug Well",W25113,2015,'0.5,3.75,1.25,5.2
+MS,Sindhudurg,Sawantwadi,Kankavli,16.38527778,73.635,Sindhunagari,"Dug Well",W25114,2015,1.35,2.65,1.3,4.95
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.44,73.75166667,Achirne,"Dug Well",W25138,2015,1.8,2.7,3.3,3
+MS,Sindhudurg,Devgad,Devgad,16.49333333,73.53944444,Kumburla,"Dug Well",W25156,2015,8.4,NA,NA,NA
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2015,3.2,3.2,3,3.7
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2014,'0.7,6.55,6.3,8
+MS,Sindhudurg,Devgad,Devgad,16.49333333,73.53944444,Kumburla,"Dug Well",W25156,2014,4.55,2.05,10.85,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2014,'0.05,2.05,'0.55,5.5
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2014,4.95,7.26,5.96,7.5
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2014,'0.32,'0.67,'0.42,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2014,1.7,12.05,3.05,8.2
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2014,7.71,11.11,11.51,13
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2014,1.27,3.17,2.97,3.15
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2014,4.85,13.65,13.85,14.8
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2014,3.25,7.95,8.05,8.1
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2014,11.3,16,13.9,16.7
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2014,'0.92,6.12,8.42,8.2
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2014,1.4,5.6,4.45,9
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2014,3.6,7.8,7.15,11
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2014,'0.3,3.05,1.9,4.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2014,'0.01,'0.85,'0.25,4
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2014,'0.39,3.94,'0.39,7.5
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2014,7.1,7.75,7.25,8.2
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2014,1.95,4.15,3.35,7.5
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2014,'0.15,5.21,1.85,5.6
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2014,NA,8.15,NA,8.7
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2014,'0.01,'0.9,NA,1.8
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2014,1.45,1.95,1.7,2
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2014,'0.8,1.9,'0.85,3.7
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2014,1.95,3.85,2.75,7.1
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2014,3.05,9.95,6.15,13.8
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2014,1.32,2.12,1.62,3
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2014,'0.2,2.4,2.55,5.6
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2014,'0.9,7.6,4.25,6.7
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2014,NA,7.55,2.3,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2014,7.77,10.07,8.67,12.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2014,'0.02,5.72,3.77,5
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2014,NA,NA,NA,5.9
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2014,7.3,12.3,11.3,17.3
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2014,'0.18,2.8,'0.9,7.5
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2014,6.3,9.01,6.7,12.1
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2014,4.8,6.1,5.6,7
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2014,1,5.25,1.05,6.4
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.73416667,73.77833333,Sasole,"Dug Well",W24941,2014,6.5,5.2,8.3,8.4
+MS,Sindhudurg,Vengurla,Vengurla,15.89277778,73.67055556,Math-1,"Dug Well",W24968,2014,3.15,5.55,3.65,7.5
+MS,Sindhudurg,Sawantwadi,Kudal,15.92944444,73.77444444,Achare,"Dug Well",W24973,2014,'0.25,2.75,'0.85,3
+MS,Sindhudurg,Kudal,Kudal,15.95805556,73.68527778,Vardivarwade,"Dug Well",W24980,2014,1.2,4.1,3.55,13.5
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9625,74.00166667,Amboli-1,"Dug Well",W24982,2014,'0.3,3.3,'0.7,3.7
+MS,Sindhudurg,Kudal,Kudal,16.00166667,73.63861111,Dewoolwada,"Dug Well",W24993,2014,1.2,6.02,2.2,4.9
+MS,Sindhudurg,Kudal,Kudal,16.11388889,73.68861111,"Sindhudurg RH","Dug Well",W25033,2014,4.7,6.35,3.6,9
+MS,Sindhudurg,Kudal,Kudal,16.18972222,73.73805556,Ambrad,"Dug Well",W25053,2014,'0.45,3.35,'0.85,4.9
+MS,Sindhudurg,Kankavli,Kankavli,16.25583333,73.71361111,Kankavalli-1,"Dug Well",W25067,2014,1.75,3.8,1.5,4.9
+MS,Sindhudurg,Devgad,Devgad,16.38333333,73.50222222,"Tale Bazar","Dug Well",W25110,2014,1.05,10.65,12,13.15
+MS,Sindhudurg,Kankavli,Kankavli,16.38527778,73.635,Koloshe,"Dug Well",W25113,2014,'0.6,4.05,2.25,5.1
+MS,Sindhudurg,Sawantwadi,Kankavli,16.38527778,73.635,Sindhunagari,"Dug Well",W25114,2014,'0.01,NA,3.6,4
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.44,73.75166667,Achirne,"Dug Well",W25138,2014,'0.05,3.85,3.3,2.9
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2014,1.85,3.2,2.9,4
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2013,1.7,7.5,6.3,NA
+MS,Sindhudurg,Devgad,Devgad,16.49333333,73.53944444,Kumburla,"Dug Well",W25156,2013,NA,10.1,NA,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2013,'0.1,6.64,1.05,5
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2013,3.4,7.26,6.43,7.9
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2013,'0.5,2.32,'0.5,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2013,5.05,6.17,4.35,8.4
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2013,NA,13.2,11.8,11.7
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2013,1.82,3.65,3,3.1
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2013,11.15,12.86,13.5,13.85
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2013,7.25,8.63,7.93,8.8
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2013,8.2,17.55,14.9,17.15
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2013,7,6.38,8.9,9.65
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2013,2.8,6.82,5.3,8.5
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2013,4.8,13.3,6.8,11.9
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2013,'0.3,5.05,2.6,6
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2013,'0.1,3.72,'0.15,4.1
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2013,'0.44,5.64,1.95,7.9
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2013,6.8,8.35,7.6,8.7
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2013,'0.75,6.52,4.15,6.6
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2013,1.25,NA,2.05,3.8
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2013,9.8,7,7.85,13.2
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2013,'0.1,5.32,NA,4.2
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2013,'0.95,3.42,1.85,3.2
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2013,'0.65,3.57,1.3,5.9
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2013,'0.9,6.6,3.35,6
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2013,4.8,11.9,7.25,NA
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2013,1.3,3.15,1.9,3.5
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2013,1.55,3.76,1.45,5.7
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2013,2,7.32,4.45,7
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2013,1,NA,2.05,3.4
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2013,7,11.55,9.23,13
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2013,1.96,4.67,4.5,8.3
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2013,NA,7.12,3.6,NA
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2013,NA,16.6,11,17.4
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2013,'0.1,5.3,1.75,5.7
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2013,5.7,11.1,8.4,12
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2013,4.15,3.65,5.9,7
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2013,1.25,5.82,4.15,6.3
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.73416667,73.77833333,Sasole,"Dug Well",W24941,2013,NA,6.9,NA,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.89277778,73.67055556,Math-1,"Dug Well",W24968,2013,NA,6.52,NA,NA
+MS,Sindhudurg,Sawantwadi,Kudal,15.92944444,73.77444444,Achare,"Dug Well",W24973,2013,NA,2.11,NA,NA
+MS,Sindhudurg,Kudal,Kudal,15.95805556,73.68527778,Vardivarwade,"Dug Well",W24980,2013,NA,12.55,NA,NA
+MS,Sindhudurg,Sawantwadi,Sawantwadi,15.9625,74.00166667,Amboli-1,"Dug Well",W24982,2013,'0.95,5.32,3.1,NA
+MS,Sindhudurg,Kudal,Kudal,16.00166667,73.63861111,Dewoolwada,"Dug Well",W24993,2013,1.55,NA,2.8,5.1
+MS,Sindhudurg,Kudal,Kudal,16.11388889,73.68861111,"Sindhudurg RH","Dug Well",W25033,2013,3.2,NA,5.7,8.6
+MS,Sindhudurg,Kudal,Kudal,16.18972222,73.73805556,Ambrad,"Dug Well",W25053,2013,1.2,5.05,NA,NA
+MS,Sindhudurg,Kankavli,Kankavli,16.25583333,73.71361111,Kankavalli-1,"Dug Well",W25067,2013,1.8,NA,3.05,5
+MS,Sindhudurg,Devgad,Devgad,16.38333333,73.50222222,"Tale Bazar","Dug Well",W25110,2013,NA,12.4,NA,NA
+MS,Sindhudurg,Kankavli,Kankavli,16.38527778,73.635,Koloshe,"Dug Well",W25113,2013,NA,4.7,NA,NA
+MS,Sindhudurg,Sawantwadi,Kankavli,16.38527778,73.635,Sindhunagari,"Dug Well",W25114,2013,3.4,4.3,NA,NA
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.44,73.75166667,Achirne,"Dug Well",W25138,2013,1,NA,3.6,3.2
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2013,1.5,NA,3.2,4
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2012,NA,7.45,6.1,7.9
+MS,Sindhudurg,Kankavli,Kankavli,16.25583333,73.71361111,Kankavalli-1,"Dug Well",W25067,2012,NA,NA,1.3,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2012,NA,2.9,'0.9,5.76
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2012,NA,7.05,'0.85,8.66
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2012,NA,2.78,NA,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2012,NA,7.91,3.75,6.79
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2012,NA,12.35,12.1,12.95
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2012,NA,2.2,2.3,NA
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2012,NA,NA,14.21,13.33
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2012,NA,7.12,5.1,NA
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2012,NA,16.39,14.1,17.44
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2012,NA,9.05,4.63,9.77
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2012,NA,6.72,3.8,9.09
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2012,NA,10.4,7.25,13.45
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2012,NA,3.17,'0.9,7.55
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2012,NA,2.9,1.85,NA
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2012,NA,3.9,1.3,6.71
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2012,NA,3,6.8,9.92
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2012,NA,6.3,5.75,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2012,NA,2,'0.6,4.09
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2012,NA,7.01,2.8,11.02
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2012,NA,2.52,1.4,5.93
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2012,NA,3.52,3.15,3.99
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2012,NA,3.35,1.35,6.29
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2012,NA,4.36,1.41,8.37
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2012,NA,11.45,3,NA
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2012,NA,2.05,1.4,4.55
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2012,NA,7.21,NA,5.9
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2012,NA,6.35,4.4,7.88
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2012,NA,2.7,NA,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2012,NA,11.3,10.3,13.72
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2012,NA,5.62,'0.9,6.02
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2012,NA,6.45,NA,7.22
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2012,NA,16.51,6.9,18.67
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2012,NA,5.3,1.8,7.39
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2012,NA,11.7,5.9,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2012,NA,6.88,4.3,7.65
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2012,NA,NA,15.47,NA
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2012,NA,3.51,3.15,4.92
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2011,1.9,7.4,3.34,6.8
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2011,19,NA,NA,7
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2011,'0.1,1.85,2.78,4.5
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2011,2.96,7.25,6.61,7.51
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2011,'0.42,'0.9,2.78,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2011,4.75,7.05,8.82,7.85
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2011,5.41,10.8,13.1,11.11
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2011,1.22,3.7,3.7,2.17
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2011,1.85,13.75,NA,18.9
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2011,7.65,8.45,4.28,8.85
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2011,1.2,14.25,7.9,16.75
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2011,3.17,6.4,9,9.72
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2011,2.5,5.5,5.75,7.2
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2011,3.15,7.25,8.9,11.55
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2011,1,2.9,2.1,7.4
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2011,'0.65,'0.65,1.06,3.25
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2011,'0.14,2.05,2.1,7.44
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2011,6.2,9.05,2.98,7.85
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2011,'0.4,2.85,6.07,6.05
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2011,2.65,2.35,2.03,4.85
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2011,10.35,11.95,5.02,12.95
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2011,NA,'0.5,1.9,1.7
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2011,'0.8,2.2,2.05,1.65
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2011,'0.35,2.05,4.05,4.95
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2011,1.15,4.1,3.32,5.75
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2011,1.25,9.45,5.4,NA
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2011,1.12,1.9,2.85,NA
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2011,'0.2,2.05,3.74,5.15
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2011,1.65,5.5,3.98,8.7
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2011,1.45,3,2.98,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2011,5.8,9.75,10.4,12.37
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2011,1.82,6.82,7.4,7.12
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2011,'0.9,6.2,5.9,7.7
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2011,5.1,15.5,14.49,16.3
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2011,5.9,2.8,1.9,5.25
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2011,6.7,7.1,9.58,13.6
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2011,3.15,6.2,3.72,7.1
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2011,1.9,2,3.34,3.4
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2010,3.7,6.4,6.86,6.75
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2010,2.9,3.25,1.55,3.5
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2010,NA,2.25,1.61,4.25
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2010,3.16,6.35,5.8,7.16
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2010,'0.62,'0.75,2.38,2.46
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2010,5.1,6.55,6.84,7.65
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2010,3.11,4.8,3.6,10.81
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2010,1.62,1.5,3.83,3.22
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2010,10.15,12.3,8.69,17.95
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2010,4.55,5.35,8.54,8.65
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2010,11,15.3,13.8,15.8
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2010,1.82,8,7.48,9.37
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2010,2.8,6.3,4.6,7.1
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2010,4,8.15,8.01,9.95
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2010,'0.6,2.9,1.2,6.1
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2010,NA,3.1,'0.8,2.9
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2010,'0.6,3.1,1.6,6.94
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2010,7.15,7.9,8,7.9
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2010,'0.9,5.75,3.63,7.35
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2010,NA,4.7,NA,4.55
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2010,7.3,7.6,5.7,9.25
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2010,NA,'0.5,'0.79,1.15
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2010,1,2.75,2.55,2.4
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2010,'0.95,2.25,2,5.15
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2010,1.1,5,3.86,5.65
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2010,1.3,9.5,3.21,11.4
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2010,1.98,2.15,1.58,3.17
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2010,NA,3.1,2.89,5.5
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2010,1.6,6.2,5,6.95
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2010,1,NA,2.79,2.35
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2010,6.82,10.25,10.05,12.12
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2010,2.3,4.8,3.89,7.62
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2010,NA,5.75,5.55,6.8
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2010,3.2,15.8,14.6,16.2
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2010,1.35,4.4,2.12,5.3
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2010,5.8,10.6,6.51,12.8
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2010,4.7,6.05,5.16,4
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2010,1.55,5.25,NA,6.5
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2009,1.9,5.85,4.2,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2009,3.85,8.1,6.9,6.3
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2009,'0.4,3.9,2,4
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2009,7.5,5.1,7.7,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2009,4.9,2.1,2.4,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2009,NA,NA,NA,19.4
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2009,2.5,9.9,4.5,12.7
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2009,1.52,2.22,1.7,4.5
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2009,1.7,2.6,2,5
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2009,2.5,6.35,4.1,7.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2009,1.55,1.3,1.5,8.8
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2009,3.97,10.52,9.2,14.05
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2009,1.67,4.07,4,6.35
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2009,1.75,3.1,1.35,NA
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2009,7,8.2,7.7,9.85
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2009,NA,'0.2,NA,3.5
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2009,1.7,2.35,1.6,3.45
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2009,1.1,2.65,1.4,7.35
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2009,1.45,5.3,3,8.7
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2009,3.15,8.7,7.3,11.35
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2009,1.2,4.35,'0.9,7.45
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2009,NA,1.85,'0.5,5.5
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2009,'0.14,3.17,1.3,8.55
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2009,7.5,7.95,7.2,9.4
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2009,1.65,4.53,3.9,8.8
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2009,5.11,11.36,10.1,NA
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2009,'0.62,3.52,2.1,3.75
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2009,3.75,12.3,15.8,15.1
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2009,4,5.35,8,NA
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2009,13.8,17.2,13.7,17.45
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2009,2.2,7.92,5.4,8.95
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2009,1.9,5.9,5,7.8
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2009,2.3,6.83,6.1,NA
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2009,2.2,3.6,2.9,4.9
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2009,'0.45,2.12,'0.75,5.8
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2009,4.46,6.66,5.7,8.15
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2009,1.72,1.72,'0.4,NA
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2009,7.9,14.65,12.4,18.45
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2008,3.95,5.82,5.2,7
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2008,6.28,5.28,6.88,7.7
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2008,NA,3.95,2.52,6.5
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2008,7.7,11.35,9.38,13.45
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2008,5.5,5.88,2.45,5.05
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2008,3.82,NA,4.6,NA
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2008,2.45,9.8,6.95,12.9
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2008,1.85,2.4,2.05,4.3
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2008,1.98,4.63,3.65,10.1
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2008,2.85,6.35,5.25,7.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2008,'0.85,2.2,'0.65,3.1
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2008,8.95,10.08,9.95,13.5
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2008,'0.97,10.08,3.24,9.4
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2008,1.08,2.68,'0.35,3.9
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2008,7.55,7.9,8.45,9.75
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2008,'0.01,1.4,'0.01,4.2
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2008,1.95,2.1,2.15,2.6
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2008,1.25,3.15,1.95,5.55
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2008,2.35,5.05,4.3,7.1
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2008,5.32,7.9,7.1,12.5
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2008,1.02,3.56,2.45,6.1
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2008,1.38,1.85,'0.24,4.2
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2008,'0.5,2.6,1.65,8
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2008,7.3,8.22,7.8,9
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2008,2.45,5.3,3.28,7.55
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2008,5.6,10.78,10.18,9.7
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2008,1.3,2.2,1.98,3
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2008,3.25,6.38,12.4,4.8
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2008,4.92,5.82,4.92,9
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2008,12.35,15.95,14.25,17.3
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2008,6.26,7.85,7.26,10.58
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2008,3.7,6.35,5.22,8.25
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2008,6.05,6.6,6.65,7.5
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2008,2.79,2.2,3.44,4
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2008,'0.37,2.52,2.15,5.35
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2008,4.71,6.4,6.16,7.7
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2008,'0.01,'0.8,'0.67,2.47
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2008,7.6,15.1,13.05,18.1
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2007,1.95,6.2,NA,7.35
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2007,5.62,8.1,5.85,7.18
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2007,2.42,4.8,1.5,7.3
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2007,4.95,12.05,8.17,14.15
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2007,4.25,2.55,2.3,7
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2007,3.68,NA,NA,7.82
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2007,1.4,9.54,1.32,11.7
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2007,2.77,2.21,1.5,3.47
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2007,1.87,4.1,3.35,4.55
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2007,1.77,5.92,4.15,7.2
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2007,'0.85,2.1,1.15,3.5
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2007,5.9,10.22,8.72,6.65
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2007,'0.01,5.1,3.78,4.92
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2007,'0.94,'0.8,1.83,4.35
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2007,4.47,8.03,7.85,9
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2007,'0.01,'0.9,'0.01,1.94
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2007,1.17,2.26,1,2.45
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2007,'0.98,2.45,1.35,6.65
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2007,1.05,4.26,2.85,13.45
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2007,NA,7.75,NA,12.06
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2007,'0.22,3.52,1.67,6.18
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2007,'0.45,1.6,'0.01,3.48
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2007,'0.01,2.7,1,4.79
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2007,6.95,8.12,7.07,8.55
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2007,3.82,4.27,5.62,7.45
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2007,5.32,11.5,7.2,11.99
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2007,1.12,2.97,1.02,2.02
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2007,2.97,16.82,14.85,14.07
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2007,4.78,6.7,5.1,5.85
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2007,11.5,16.25,14.3,16.65
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2007,3.46,7.55,5.6,7.47
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2007,2.35,5.97,3.45,6.85
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2007,5.22,6.3,5.9,7.1
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2007,1.61,3.98,2.65,3.7
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2007,'0.57,2.88,'0.45,5.1
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2007,2.78,6.52,5.15,7.51
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2007,'0.01,'0.6,1,2.47
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2007,2.92,15.62,11.65,17.4
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2006,2.9,6.7,4.3,'0.8
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2006,5.65,7.5,6.82,2.35
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2006,'0.65,5.8,2.23,2.4
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2006,8,13.3,8.49,5.3
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2006,5.1,2.9,2.32,1.83
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2006,1.95,11.2,4.43,10.85
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2006,NA,3,NA,'0.9
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2006,2.55,5.3,3.6,2.85
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2006,2.55,7.1,3.36,'0.65
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2006,1.05,1.55,'0.58,'0.8
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2006,5.45,11.3,9.17,9.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2006,'0.42,4.6,3.91,1.59
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2006,1.75,3.2,'0.3,1.95
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2006,7.25,8.9,7.88,3.8
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2006,'0.2,'0.9,'0.01,'0.3
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2006,1.6,3.5,1.7,2.63
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2006,'0.95,2,1.34,'0.65
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2006,1.85,5,3.38,2.55
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2006,5.3,9.7,6.45,2.3
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2006,1.25,5.4,1.45,1
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2006,'0.1,2.2,'0.19,2.5
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2006,'0.14,3.6,1.05,'0.88
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2006,7.7,8.9,7.73,6.5
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2006,2.05,4.9,3.8,'0.95
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2006,6.31,11.2,11.15,2.21
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2006,'0.97,1.9,2.57,1.42
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2006,12.4,14,15.34,6.15
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2006,4.85,5.8,4.47,5
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2006,12.1,17.8,13.97,5.4
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2006,5.76,9,5.67,3.36
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2006,3.1,5.8,4.16,1.5
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2006,5.05,6.7,5.93,1.05
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2006,2.39,2.7,2.9,2.19
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2006,'0.35,3.3,'0.73,3.05
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2006,4.66,7.25,5.6,2.96
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2006,'0.52,1.7,'0.94,'0.02
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2006,8.2,16.7,12.25,10
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2005,1.3,5.48,4.65,7.6
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2005,3.2,6.85,7.03,8.15
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2005,1.37,4.87,2.5,6.7
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2005,6,11.3,9.4,13.93
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2005,4.28,6.72,5.6,7.17
+MS,Sindhudurg,Sawantwadi,Kudal,16.18861111,73.73333333,"Ambrad (Parabwadi)","Bore Well",W20330,2005,1.64,NA,NA,6.72
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2005,1.45,2.22,2.2,3.47
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2005,1.6,4.05,3.25,5.82
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2005,1.3,6.25,4.83,7.05
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2005,1.1,2.32,1.35,4.12
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2005,5,10.95,9.93,12.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2005,'0.01,6.22,2.72,5.95
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2005,1,4.32,1.36,4.53
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2005,6.85,8.75,8.35,9.33
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2005,'0.01,'0.55,'0.01,3.42
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2005,1.4,2.15,2.2,3.35
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2005,'0.85,8.85,1.35,6.1
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2005,1.15,6.15,3.75,7.42
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2005,1.8,2.75,5.85,11.93
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2005,3.6,10.5,7.34,11.6
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2005,'0.63,4.15,1.8,6.5
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2005,'0.45,1.64,'0.38,3.65
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2005,'0.6,3.6,1.8,8.08
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2005,6.95,8.3,8.2,11.35
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2005,1.1,5.8,4.25,8.14
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2005,1.85,10.36,7.12,11.15
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2005,'0.5,1.72,1.85,1.93
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2005,3.35,14.05,10.97,13.67
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2005,4.26,5.87,5.08,5.57
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2005,8.75,14.34,15.05,16.17
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2005,2.2,8.3,7.88,8.55
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2005,2.4,5.85,4.42,9.89
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2005,'0.45,6.8,6.8,7
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2005,2.2,3.39,3.43,4.78
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2005,'0.55,2.45,1.55,5.12
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2005,3,6.78,5.81,8.48
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2005,'0.22,1.02,1.37,2.47
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2005,4.2,16,13.5,19.25
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2004,NA,6.57,NA,7.6
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2004,NA,7.22,NA,8.2
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2004,NA,5.3,NA,7.45
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2004,NA,13.03,NA,13.65
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2004,NA,6.22,NA,3.75
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2004,NA,2.64,NA,4.58
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2004,NA,4.85,NA,6.1
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2004,NA,6.54,NA,6.6
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2004,NA,1.45,NA,3.2
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2004,NA,10.42,NA,13.05
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2004,NA,4.25,NA,5.47
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2004,NA,2.93,NA,4.25
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2004,NA,8.35,NA,9.55
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2004,NA,1.05,NA,'0.86
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2004,NA,3,NA,2.35
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2004,NA,2.88,NA,6.65
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2004,NA,5.44,NA,6.75
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2004,NA,10.5,NA,11.45
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2004,NA,8.43,NA,11.4
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2004,NA,4.48,NA,7.5
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2004,NA,1.97,NA,3.91
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2004,NA,5.55,NA,7.84
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2004,NA,8.05,NA,8.8
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2004,NA,5.57,NA,8.14
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2004,NA,10.32,NA,10.41
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2004,NA,1.7,NA,2.12
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2004,NA,12.3,NA,11.25
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2004,NA,5.15,NA,5.65
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2004,NA,17.6,NA,16
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2004,NA,8,NA,8.51
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2004,NA,6.27,NA,7.3
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2004,NA,6.37,NA,7.6
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2004,NA,3.56,NA,3.94
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2004,NA,3.14,NA,5.2
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2004,NA,6.67,NA,7.06
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2004,NA,1.78,NA,2.47
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2004,NA,16.54,NA,16.8
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2003,3.15,5.75,4.81,NA
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2003,7.65,16.5,13.58,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2003,1.68,NA,4.65,NA
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2003,7.55,7.1,9.48,13.95
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2003,4.7,6.2,5.63,6.9
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2003,2.8,2.2,1.67,4.7
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2003,2.3,4.7,3.14,7.1
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2003,2.05,6.4,5.02,7.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2003,2.58,2.4,'0.85,NA
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2003,7.9,7.6,9.73,13.25
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2003,4.32,2.74,2.68,9
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2003,1.6,2.46,2.14,NA
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2003,7.05,8.7,7.95,9.15
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2003,'0.45,'0.6,'0.01,5.4
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2003,1.85,2.11,1.53,2.9
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2003,1.9,3.66,1.2,7.05
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2003,1.95,5.1,2.37,NA
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2003,2.55,10,5.79,12.8
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2003,4.33,8.2,8.27,9.85
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2003,1.45,4.26,1.8,7.15
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2003,1.45,2.6,1.97,NA
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2003,1.4,NA,1.21,6.05
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2003,7.2,9.16,8.17,10.2
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2003,3.1,5.2,4.37,NA
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2003,1.97,2,3.14,2.15
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2003,11.65,NA,NA,9.85
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2003,4.85,5.35,3.06,NA
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2003,3.8,15.7,15.54,15.75
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2003,3.06,8.15,7.82,NA
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2003,2.7,6,4.3,9.1
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2003,3.8,6.47,6.6,NA
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2003,2.46,3.2,2.05,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2003,'0.25,2.7,1.23,5.15
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2003,4.01,6.85,5.7,7.5
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2003,'0.57,1.24,'0.52,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2003,5.7,7.1,6.84,NA
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2003,3.31,10.2,9.79,13.35
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2002,1.91,5.86,4.24,NA
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2002,6.17,10.23,NA,11.34
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2002,1.22,3.49,1.51,6.36
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2002,7.58,9.86,8.61,12.54
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2002,4.36,6.02,5.73,4.04
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2002,'0.82,2.26,1.62,3.93
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2002,2.86,4.92,3.41,6.61
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2002,2.27,6.41,3.83,7.53
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2002,1.41,1.17,1.34,3.45
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2002,7.47,10.71,9.17,13.47
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2002,'0.94,3.93,2.11,7.08
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2002,1.97,2.32,1.38,4.52
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2002,6.76,8.29,7.93,9.18
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2002,'0.51,'0.79,'0.12,3.62
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2002,1.91,1.74,1.73,2.68
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2002,1.5,2.47,1.31,6.56
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2002,1.58,4.87,3.68,6.69
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2002,1.52,9.53,4.62,11.66
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2002,2.66,5.72,3.86,8.39
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2002,4.12,8.06,6.83,9.84
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2002,'0.71,5.07,1.28,7.06
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2002,'0.56,1.32,'0.72,4.09
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2002,1.43,4.56,'0.94,7.75
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2002,7.51,8.05,7.62,9.2
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2002,1.79,5.29,3.39,7.29
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2002,1.75,2.13,1.36,4.47
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2002,8.97,12.31,11.91,13.96
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2002,7.21,5.01,4.63,NA
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2002,11.07,16.23,13.86,15.31
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2002,3.61,7.99,7.06,8.93
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2002,2.98,6.39,6.27,7.08
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2002,1.28,3.31,2.86,4.48
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2002,1.12,2.64,'0.84,4.78
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2002,3.24,6.21,5.56,7.13
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2002,'0.68,1.14,'0.36,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2002,3.81,7.1,6.64,8.5
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2002,6.24,15.72,13.01,17.17
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2001,1.4,5.76,4.82,7.6
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2001,4.67,10.37,11.39,NA
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2001,'0.9,3.26,1.75,6.8
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2001,6.82,12.22,8.51,12.52
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2001,3.44,6.01,5.59,5.95
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2001,1.55,2.17,3.2,3.4
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2001,1.42,4.93,3.37,6.75
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2001,1.28,6.27,5.06,7.1
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2001,'0.55,1.29,1.11,3.15
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2001,6.15,10.79,6.31,13.35
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2001,'0.18,4.59,2.87,6
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2001,5.31,8.29,7.94,9.2
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2001,'0.1,'0.41,'0.24,3.45
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2001,'0.76,1.83,1.75,2.52
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2001,'0.63,2.36,1.22,5.62
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2001,'0.78,5.32,3.07,7.57
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2001,1.88,9.26,5.05,11.1
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2001,1.83,5.83,NA,7.2
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2001,2.98,7.89,7.2,9.9
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2001,'0.31,3.56,1.81,6.92
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2001,'0.23,1.46,'0.42,3.15
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2001,'0.07,3.89,1.19,7.65
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2001,6.94,8.16,7.81,10.6
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2001,'0.81,5.3,4.38,7.6
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2001,'0.79,2.08,1.51,4.27
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2001,'0.53,1.82,1.7,2.65
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2001,5.7,13.53,11.97,14
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2001,3.77,4.99,5.17,5.42
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2001,10.75,14.08,15.12,16.7
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2001,2.03,8.12,7.29,9.3
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2001,1.07,6.44,6.46,6.68
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2001,1.99,3.23,2.78,3.6
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2001,'0.2,2.48,1.02,5.05
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2001,3.36,6.48,5.8,7.5
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2001,'0.53,'0.91,'0.54,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2001,3.17,6.97,6.95,7.7
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2001,4,15.06,1.33,17.45
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,2000,1.57,6.02,4.4,6.9
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,2000,5.26,10.27,11,9.1
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,2000,'0.01,3.62,3.1,NA
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,2000,5.16,10.62,10.7,NA
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,2000,4.02,6.18,5.8,6.2
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,2000,1.46,1.34,1.8,2.3
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,2000,1.92,4.78,3.7,5.8
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,2000,1.37,6.41,4.15,6.6
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,2000,'0.95,1.33,1.4,1.6
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,2000,3.91,10.82,9.6,14.7
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,2000,'0.1,3.91,3,5
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,2000,5.7,8.2,8,8.4
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,2000,'0.34,'0.55,'0.3,NA
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,2000,'0.23,1.96,1.7,1.8
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,2000,'0.86,2.44,1.2,4.1
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,2000,'0.81,5.96,3.8,6.3
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,2000,1.99,10.17,4.6,7.6
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,2000,3.49,8.1,7.25,10.5
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,2000,'0.37,4.09,1.3,6
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,2000,'0.58,1.73,'0.65,3.2
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,2000,'0.56,4.69,'0.9,NA
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,2000,6.57,8.13,8,9.2
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,2000,'0.54,5.49,4.5,6.4
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,2000,'0.67,3.41,1.4,NA
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,2000,'0.82,1.91,2.2,2.3
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,2000,3.62,14.71,12.1,13
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,2000,4.04,5.21,5.7,5.3
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,2000,11.65,13.82,16.5,11.5
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,2000,2.36,8.12,7.3,8.4
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,2000,2.17,5.91,4.55,6.9
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,2000,2.75,6.44,5.8,6.7
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,2000,2.26,2.97,2.85,3.1
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,2000,'0.49,3.26,1.2,4.25
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,2000,1.83,6.86,5.8,6.5
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,2000,'0.27,'0.89,'0.4,3.4
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,2000,3.72,7.07,7.25,6.5
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,2000,2.94,12.63,14.3,16.5
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,1999,3.08,6.4,5.11,4.98
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,1999,'0.54,2.7,2.16,7.2
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,1999,1.34,3,2.42,NA
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,1999,8.27,9.9,9.44,9.37
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,1999,1.54,5.7,5.86,6.01
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,1999,7.52,7.8,8.02,7.53
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,1999,2.99,5.1,4.75,5.48
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,1999,1.32,2.4,1.89,2.63
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,1999,6.03,6.5,6.36,6.45
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,1999,7.59,8,7.83,8.1
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,1999,'0.23,'0.65,'0.51,'0.43
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,1999,1.53,1.75,1.61,1.49
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,1999,'0.77,2,1.27,2.11
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,1999,2.45,4.4,3.92,5.99
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,1999,3.04,9,6.73,10.15
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,1999,1.57,2.1,1.86,2.75
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,1999,3.17,4.4,3.7,5.02
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,1999,3.16,5.8,5.1,6.03
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,1999,'0.96,'0.7,1.29,1.23
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,1999,8.73,6.9,9.92,12.61
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,1999,1.22,3.4,2.73,4.87
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,1999,2.55,3.3,3.12,2.53
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,1999,'0.71,2,1.49,4.01
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,1999,5.12,6.16,6.1,4.85
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,1999,'0.47,'0.6,'0.49,2.4
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,1999,6.56,6.9,6.83,6.06
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,1999,4.05,10.2,9.92,11.98
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,1999,1.17,3,1.81,1.74
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,1999,10.57,14.3,14.75,11.68
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,1999,4.89,5.2,4.91,4.67
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,1999,13.5,15,15.02,12.22
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,1999,6.05,8,7.7,7.41
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,1999,3.23,5.45,5.03,5.7
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,1999,5.85,7.8,7.41,7.78
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,1999,'0.6,3,2.09,5.61
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,1999,'0.59,1,'0.73,2.4
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,1999,8.17,14.8,14.11,16.11
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,1998,2.25,6.15,4.83,7.6
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,1998,'0.7,1.9,'0.77,6.65
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,1998,1.65,2.9,2.57,5.55
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,1998,8.1,8.85,8.25,12.6
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,1998,2,7.7,5.37,6.9
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,1998,7.2,7.4,7.59,11.3
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,1998,1.8,1.85,3.43,7.65
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,1998,1.3,1.9,1.43,3.75
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,1998,5.25,1.65,6.35,6.5
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,1998,7.15,3.3,7.8,9.25
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,1998,'0.4,'0.3,'0.66,2.5
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,1998,1.1,1.65,1.6,2.8
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,1998,1.2,2.15,1.2,6.4
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,1998,2.1,4.15,3.2,8
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,1998,2.3,9.2,4.06,11.25
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,1998,1.6,2.1,1.8,3.75
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,1998,2.85,2.9,3.5,6.1
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,1998,2.15,3.9,4,7.6
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,1998,1.6,2.65,1.2,3.2
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,1998,7.5,11.05,9.23,13.45
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,1998,5.65,8,2.2,5.3
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,1998,3,2.85,2.87,3.1
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,1998,'0.5,1.85,'0.95,4.5
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,1998,5.05,6.3,5.37,7.45
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,1998,'0.55,1.05,'0.48,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,1998,5.55,3.85,6.82,8.3
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,1998,7.55,8.15,9.6,10.9
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,1998,'0.9,3.45,1.54,3.25
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,1998,8.5,2.75,11.8,16.7
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,1998,4.55,5.2,4.9,9.5
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,1998,11.75,9.5,12.53,16
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,1998,3.75,9.9,6.91,9.65
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,1998,3.1,5.2,4,7
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,1998,5.4,7.8,6.8,12.2
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,1998,'0.45,1.9,1.1,6.65
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,1998,'0.6,1.3,'0.78,3.5
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,1998,7.45,7.1,11.91,16.5
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,1997,2,5.6,3.1,7.6
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,1997,5,14.82,6.1,16.8
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,1997,1.1,2.75,1.8,5.1
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,1997,7,10.74,7.9,13.2
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,1997,1.1,5.92,2,3.45
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,1997,6.5,7.7,NA,12.2
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,1997,'0.6,5,1.2,7.2
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,1997,'0.35,1.8,1.3,3.2
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,1997,'0.25,6.35,1.3,6.6
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,1997,5.85,7.9,6.7,9.2
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,1997,'0.3,1.43,'0.3,3.2
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,1997,'0.3,1.9,1.7,2.7
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,1997,2.3,2.68,4.4,7.1
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,1997,1.1,5.1,1.8,7
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,1997,1.85,9.42,2.3,11.9
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,1997,1.25,2.2,1.8,4.5
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,1997,2,4.65,2.3,6.6
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,1997,1.3,5.85,5.7,8.1
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,1997,1.5,4,2.2,4.9
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,1997,4.8,10.2,9.6,13
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,1997,'0.05,3.9,3.8,5.6
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,1997,1.85,2.95,2.1,4.1
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,1997,'0.15,2.5,1.1,4.9
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,1997,1.4,6.3,NA,7.8
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,1997,'0.05,'0.55,'0.9,4.1
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,1997,2,6.9,3.2,7.1
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,1997,4.8,10.4,7.1,9.1
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,1997,1.2,2.1,3.3,2
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,1997,2.75,16,4.4,12.2
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,1997,3.8,5.1,4.1,5.5
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,1997,11.1,15.8,12.02,16.65
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,1997,1.95,8,7.45,9.1
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,1997,1.4,5.7,1.9,8.65
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,1997,3.5,7.75,7.5,11.95
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,1997,'0.35,4,1.3,6.55
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,1997,'0.45,1.35,1.2,3.45
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,1997,'0.05,3.1,1,4.95
+MS,Sindhudurg,Vaibhavvadi,Vaibhavvadi,16.48194444,73.72361111,Kokisare,"Dug Well",W17665,1996,4.3,6.17,4.55,7.52
+MS,Sindhudurg,Sawantwadi,Kudal,15.93333333,73.75,Zarap,"Dug Well",W07500,1996,'0.9,1.88,3.41,7.05
+MS,Sindhudurg,Vengurla,Vengurla,15.9,73.73333333,"Adeli (Bomderwadi)","Dug Well",W17667,1996,'0.8,2.88,2.82,5.35
+MS,Sindhudurg,Vengurla,Malwan,16.1375,73.47055556,"Hadi (Gaonkarwadi)","Dug Well",W17668,1996,7.8,10.9,8.61,13.27
+MS,Sindhudurg,Vengurla,Malwan,16.08833333,73.57916667,Kunkaule,"Dug Well",W17669,1996,5,5.82,5.27,6.72
+MS,Sindhudurg,Vengurla,Malwan,16.06111111,73.45833333,Malwan,"Dug Well",W07501,1996,7.5,8.06,7.79,11.46
+MS,Sindhudurg,Vengurla,Vengurla,15.89861111,73.68055556,Math,"Dug Well",W07502,1996,1.5,5.11,3.68,7.34
+MS,Sindhudurg,Vengurla,Vengurla,15.82777778,73.74861111,"Matond (Ghodemukh)","Dug Well",W07503,1996,1.8,2.43,1.34,3.55
+MS,Sindhudurg,Vengurla,Malwan,16.24222222,73.54222222,Palsamb,"Dug Well",W07504,1996,5,6.41,6.15,6.45
+MS,Sindhudurg,Kankavli,Dodamarg,15.775,73.93333333,"Adali (Dewalwadi)","Dug Well",W17653,1996,7.8,7.98,7.75,9.2
+MS,Sindhudurg,Kankavli,Sawantwadi,15.95,74.00277778,Amboli,"Dug Well",W17654,1996,'0.4,'0.95,'0.41,3.66
+MS,Sindhudurg,Kankavli,Sawantwadi,15.93333333,73.93333333,Danoli,"Dug Well",W17655,1996,1.5,1.78,1.57,2.72
+MS,Sindhudurg,Kankavli,Dodamarg,15.66666667,73.96666667,Dodamarga,"Dug Well",W17656,1996,1.2,2.26,1.4,6.65
+MS,Sindhudurg,Kankavli,Sawantwadi,15.86666667,73.83333333,Insuli,"Dug Well",W17657,1996,1.8,4.94,3.39,6.8
+MS,Sindhudurg,Kudal,Devgad,16.38027778,73.38027778,Deogarh,"Dug Well",W17658,1996,2.1,9.48,4.04,11.6
+MS,Sindhudurg,Malwan,Kankavli,16.22777778,73.80833333,"Kanedi Bazar","Dug Well",W17659,1996,1.7,1.9,1.63,4.02
+MS,Sindhudurg,Malwan,Kankavli,16.26388889,73.71416667,Kankavalli,"Dug Well",W17660,1996,3.1,4.63,3.38,6.9
+MS,Sindhudurg,Malwan,Kankavli,16.55,73.61666667,"Khare Patan","Dug Well",W17661,1996,2.8,6.34,4,7.48
+MS,Sindhudurg,Sawantwadi,Kudal,16.01111111,73.58611111,Chendwan,"Dug Well",W17662,1996,1.2,1.06,1.29,2.7
+MS,Sindhudurg,Sawantwadi,Kudal,16.15,73.68333333,Kasal,"Dug Well",W17663,1996,8.2,10.51,9.28,13
+MS,Sindhudurg,Sawantwadi,Kudal,16.02111111,73.69027778,Kudal,"Dug Well",W17664,1996,'0.6,3.92,2.34,5.45
+MS,Sindhudurg,Vengurla,Malwan,16.24166667,73.6,Ramgarh,"Dug Well",W07505,1996,2.8,2.89,2.76,4.45
+MS,Sindhudurg,Vengurla,Malwan,16.08888889,73.63888889,Sawarwad,"Dug Well",W07506,1996,'0.6,2.2,'0.91,4.87
+MS,Sindhudurg,Vengurla,Vengurla,15.85,73.65,Vengurla,"Dug Well",W07507,1996,3.9,6.29,5.52,7.44
+MS,Sindhudurg,Kankavli,Sawantwadi,15.90944444,73.82638889,Sawanthwadi,"Dug Well",W07488,1996,'0.2,1.07,'0.95,NA
+MS,Sindhudurg,Kudal,Devgad,16.3,73.45,Narange,"Dug Well",W07489,1996,6.2,7.15,6.62,8
+MS,Sindhudurg,Kudal,Devgad,16.48611111,73.595,Phanasgaon,"Dug Well",W07490,1996,8.6,10.36,9.31,12.05
+MS,Sindhudurg,Kudal,Devgad,16.38333333,73.58333333,"Shirgaon (Shirgar)","Dug Well",W07491,1996,1,1.74,1.56,2
+MS,Sindhudurg,Kudal,Devgad,16.48333333,73.41666667,Vagothan,"Dug Well",W07492,1996,12,15.24,11.62,15.95
+MS,Sindhudurg,Kudal,Devgad,16.54888889,73.33083333,Vijayadurga,"Dug Well",W07493,1996,4.7,5.08,4.84,5.62
+MS,Sindhudurg,Kudal,Devgad,16.39027778,73.52222222,Wareri,"Dug Well",W07494,1996,12.2,16.06,12.86,15.95
+MS,Sindhudurg,Malwan,Kankavli,16.37777778,73.6875,Nandgaon,"Dug Well",W07495,1996,5,8.11,6.99,9.13
+MS,Sindhudurg,Malwan,Kankavli,16.36666667,73.8,Phonda,"Dug Well",W07496,1996,3.6,5.76,3.8,8.9
+MS,Sindhudurg,Malwan,Kankavli,16.45,73.66666667,Terela,"Dug Well",W07497,1996,6.7,8.02,6.66,12.15
+MS,Sindhudurg,Sawantwadi,Kudal,15.97722222,73.78555556,"Mangaon Bazar","Dug Well",W07498,1996,'0.8,3.89,1.66,6.75
+MS,Sindhudurg,Sawantwadi,Kudal,16.00277778,73.825,Vados,"Dug Well",W07499,1996,'0.7,3.6,1.22,3.65
+MS,Sindhudurg,Vengurla,Devgad,16.23333333,73.46666667,Achra,"Dug Well",W17666,1996,5.8,14.9,11.5,16.74

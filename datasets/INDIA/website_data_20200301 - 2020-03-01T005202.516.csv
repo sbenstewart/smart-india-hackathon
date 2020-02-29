@@ -1,0 +1,318 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2018,2.57,5.66,NA,NA
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2018,5.76,8.29,NA,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2018,9.2,10.25,NA,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2018,10.11,9.52,NA,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2018,1.89,9.45,NA,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2018,'0.1,4.83,NA,NA
+MP,Umaria,Manpur,Manpur,23.63,80.92222222,Dhamokhar,"Dug Well",W28587,2018,8.2,8.43,NA,NA
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2018,12.04,13.96,NA,NA
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2018,5.07,7.92,NA,NA
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2018,7.47,8.48,NA,NA
+MP,Umaria,Pali,Pali,23.34861111,81.19027778,"Ghunghuti New","Dug Well",W28395,2018,11.87,12.62,NA,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46444444,80.90638889,"Karkeli New","Dug Well",W28488,2018,8.34,9.51,NA,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46555556,80.74666667,Bichua,"Dug Well",W28489,2018,'0.7,5.82,NA,NA
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2018,6.07,7.28,NA,NA
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2017,2.34,2.97,3.74,8.62
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpurpalli(S),"Bore Well",W28411,2017,NA,28.4,NA,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2017,8.28,7.78,8.8,8.85
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2017,9.86,8.85,9.87,10.2
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2017,3.37,6.62,9.39,7.44
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2017,3.7,4.35,4.14,7.2
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2017,4.97,4.75,5.62,5.4
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2017,9.73,9.97,13.04,14.42
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2017,5.07,7.3,6.68,7.01
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2017,8.14,6.81,7.44,7.76
+MP,Umaria,Pali,Pali,23.34861111,81.19027778,"Ghunghuti New","Dug Well",W28395,2017,4.53,11.3,11.52,11.9
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46444444,80.90638889,"Karkeli New","Dug Well",W28488,2017,9.03,8.5,9.17,9.62
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46555556,80.74666667,Bichua,"Dug Well",W28489,2017,5.25,4.3,4.32,8.93
+MP,Umaria,Manpur,Manpur,23.63,80.92222222,Dhamokhar,"Dug Well",W28587,2017,7.13,6.3,7.43,7.72
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2017,5.77,6.8,7.37,7.71
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2016,4.7,8.8,5.52,NA
+MP,Umaria,Manpur,Manpur,23.63,80.92222222,Dhamokhar,"Dug Well",W28587,2016,3.92,9.8,2.85,9.79
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2016,NA,9.1,NA,NA
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2016,1.85,6,2.52,NA
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2016,4.11,8.73,4.97,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2016,12.05,10.23,7.5,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2016,8.5,9.77,6.57,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2016,1.9,7.2,1.13,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2016,6.12,8.22,5.34,NA
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2016,'0.27,7.33,'0.69,NA
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2016,12.22,14.3,11.15,NA
+MP,Umaria,Pali,Pali,23.34861111,81.19027778,"Ghunghuti New","Dug Well",W28395,2016,11.2,13.24,10.92,13.4
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpurpalli(S),"Bore Well",W28411,2016,26.08,24.97,23.3,29.25
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46444444,80.90638889,"Karkeli New","Dug Well",W28488,2016,8.03,10,6.62,10
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46555556,80.74666667,Bichua,"Dug Well",W28489,2016,'0.7,7.48,1.13,10.1
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2016,3.5,8.3,5.96,NA
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2015,5.5,6.2,6.8,7
+MP,Umaria,Manpur,Manpur,23.63,80.92222222,Dhamokhar,"Dug Well",W28587,2015,8.9,8.5,9.2,9.1
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2015,7.2,6.55,8.5,7.65
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2015,9.1,8.25,9.1,8.8
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2015,5.23,6.57,5.5,5.95
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2015,7.41,7.31,8.01,8.26
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2015,9.4,10.35,9.65,11.05
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2015,8.75,9.76,9.08,11.43
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2015,NA,9.11,NA,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2015,1.5,4.85,3.9,4.9
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2015,7.72,7.47,7.62,7.62
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2015,4.17,4.87,5.17,6.57
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2015,13.37,12.87,13.77,13.72
+MP,Umaria,Pali,Pali,23.34861111,81.19027778,"Ghunghuti New","Dug Well",W28395,2015,12.8,12.2,12.3,13.15
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpurpalli(S),"Bore Well",W28411,2015,27.2,20.84,28.9,25.22
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46444444,80.90638889,"Karkeli New","Dug Well",W28488,2015,9.65,9.23,9.65,9.68
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46555556,80.74666667,Bichua,"Dug Well",W28489,2015,1.5,5.15,4,8.55
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-S,"Bore Well",W28518,2015,NA,9.79,NA,NA
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2015,NA,11.73,NA,NA
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2014,4.83,5.34,5.15,6.85
+MP,Umaria,Manpur,Manpur,23.63,80.92222222,Dhamokhar,"Dug Well",W28587,2014,7.2,5.88,7.92,7.04
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2014,7.18,6.71,6.02,7.23
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2014,4.91,3.14,7.37,6.41
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2014,6.08,5.35,5.89,6.14
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2014,6.84,6.41,7.03,8.11
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2014,9.63,7.27,9.52,9.61
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2014,9.68,6.55,12.61,14.23
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2014,10.26,7.4,10.26,10.26
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2014,'0.95,3.8,3.95,7.2
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2014,5.87,5.2,4.74,5.43
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2014,3.73,2.37,4.05,3.99
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2014,10.47,8.12,10.11,10.87
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpurpalli(S),"Bore Well",W28411,2014,29.5,NA,NA,30.18
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46555556,80.74666667,Bichua,"Dug Well",W28489,2014,1.37,3.62,3.26,11.7
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-S,"Bore Well",W28518,2014,8.78,7.95,9.2,8.9
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2014,8.56,7.95,5.96,6.71
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2013,3.75,4.6,4.58,7
+MP,Umaria,Manpur,Manpur,23.63,80.92222222,Dhamokhar,"Dug Well",W28587,2013,'0.6,8.2,4.31,8.97
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2013,4.9,9.3,5.21,6.55
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2013,2.26,5.2,3.66,7.3
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2013,2.7,6.3,4.4,6.82
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2013,4.81,7.01,5.56,7.73
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2013,7.3,7.15,6.9,7.83
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2013,6.21,NA,NA,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2013,3.5,7.58,6.02,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2013,1,4.6,4.5,6.1
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2013,1.78,6.52,2.37,6.77
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2013,'0.25,NA,1.58,5.05
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2013,8.72,12.62,6.92,NA
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpurpalli(S),"Bore Well",W28411,2013,NA,NA,5.28,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46555556,80.74666667,Bichua,"Dug Well",W28489,2013,2.57,4.3,11.7,7.82
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-S,"Bore Well",W28518,2013,NA,6.2,5.7,7.45
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2013,6.3925,9.03,5.305,8.31
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2012,NA,4.8,4.65,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-S,"Bore Well",W28518,2012,NA,NA,5.36,NA
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2012,NA,5.05,4.7,10.2
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2012,NA,4.95,3.55,7.37
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2012,NA,5.5,5.75,6.3
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2012,NA,6.11,6.31,7.33
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2012,NA,5.55,6.6,7.38
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2012,NA,5.35,6.33,7.26
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2012,NA,6.58,6.63,9.51
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2012,NA,3.9,2.9,3.36
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2012,NA,4.72,5.62,6.32
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2012,NA,2.62,2.42,4.92
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2012,NA,12.82,10.57,16.77
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpurpalli(S),"Bore Well",W28411,2012,NA,NA,17.86,NA
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2012,NA,NA,7.53,10.38
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2011,2.3,NA,4.5,8.8
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2011,11.15,11.15,NA,11.15
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2011,4.6,9.71,4.05,12.24
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2011,2.1,5.65,3.35,8.05
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2011,2.6,5.75,4.4,7.14
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2011,2.95,7.34,5.46,8.39
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2011,8.7,12.06,12.02,12.57
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2011,4.51,7.48,4.37,7.55
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2011,3.55,8.93,4.38,10.26
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2011,1.55,4.5,2.5,7.2
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2011,3.05,6.67,3.42,8.01
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2011,2.1,4.54,1.97,7.11
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2011,5.7,7.85,4.45,9.01
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2010,6.8,NA,NA,9.2
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2010,NA,10.38,10.38,NA
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2010,6.6,5.4,5.55,7.7
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2010,4.8,6.25,4.6,7.9
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2010,6.65,6.8,5.9,6.95
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2010,7.06,8.3,6.71,8.11
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2010,14.42,14.4,14.67,12.37
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2010,NA,NA,NA,7.53
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2010,7.88,11.08,7.58,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2010,2.8,5.15,2.3,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2010,6.72,6.25,6.22,NA
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2010,4.67,6.2,3.37,5.55
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2010,8.85,9.1,7.3,8.65
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2009,7.3,4.3,NA,7.9
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2009,7.15,5.9,6.2,7.1
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2009,6.67,4.15,4.7,8.3
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2009,7,6.7,6.1,6.1
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2009,7.21,7.05,7.76,8.26
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2009,13.87,13.15,13.52,13.77
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2009,NA,5.87,NA,7.03
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2009,7.63,9.3,8.38,10.26
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2009,5.4,5.05,3.42,7.2
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2009,7.42,6.7,5.32,6.52
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2009,5.07,4.6,4.47,4.87
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2009,10.3,8.4,8.95,9.55
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2008,2.75,2.95,3.8,8.8
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2008,7.98,8.31,NA,10.38
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2008,6.05,5.23,5.6,8.45
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2008,2.62,4.42,3.8,8.05
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2008,7.05,6.55,5.65,7.2
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2008,5.81,6.86,6.7,7.91
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2008,8.65,7.95,7.75,7.25
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2008,7.98,5.45,4.79,9.78
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2008,6.88,7.58,8.1,10.26
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2008,'0.2,7.2,3.45,7.2
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2008,5.72,5.65,6.1,7.72
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2008,'0.77,4.72,4.15,7.47
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2008,12.62,12.95,12.65,13.57
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2007,2.15,NA,2.68,5.98
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2007,7.2,6.25,7.3,8.2
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2007,7.68,9.73,7.93,10.38
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2007,12.2,10.09,12.59,11.69
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2007,6.11,6.01,6.58,6.59
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2007,'0.85,4.9,3.28,7.2
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2007,4.55,4.82,5.15,6.3
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2007,4.83,4.48,5.03,5.68
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2007,5.5,6.02,5.07,7.22
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2007,3.95,3.95,4.03,5.2
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2007,3.43,7.48,6.18,10.26
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2007,3.22,3.37,4.05,4.47
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2007,5.8,6.2,5.85,6.75
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2006,1.5,3.6,5.4,5.7
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2006,11.07,8.26,9.57,10.69
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2006,'0.52,2.94,2.87,4.44
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2006,3.67,5.27,4.97,6.62
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2006,3.85,5,3.93,7.2
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2006,2,6.46,6.08,8.78
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2006,5.2,4.38,5.37,6.83
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2006,4.97,4.45,5.75,6.75
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2006,4.23,5.03,5.66,6.36
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2006,3.82,5.3,5.35,6.36
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2006,1.8,4.9,3.4,7.79
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2006,2.43,5.8,4.3,6.6
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2006,5.75,9.11,10.38,9.42
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2005,'0.97,4.69,2.44,4.29
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2005,3.12,5.17,4.2,6.7
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2005,1.92,5.13,3.43,7.41
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2005,2.02,5.9,3.58,7.27
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2005,3.85,5.81,4.84,7.06
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2005,2.63,5.27,3.63,7.77
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2005,6.87,9.73,9.03,10.38
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2005,7.54,11.42,7.19,12.92
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2005,'0.45,4.76,1,7.2
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2005,3.8,7.1,4,9.1
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2005,1.9,4.26,2.2,8.1
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2005,1.43,8.48,4.91,10.26
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2005,1.65,6.37,3.48,7.02
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2004,7.18,2.9,6.48,10.26
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2004,5.52,3.9,7.2,7.2
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2004,4.85,4.67,5.1,6.85
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2004,1.69,2.57,1.85,5.65
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2004,11.21,9.77,10.62,14.02
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2004,2.9,6.8,NA,6.05
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2004,7.15,7.73,10.33,10.38
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2004,6.1,4.8,6.4,7.65
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2004,3.78,4.7,3.35,7.37
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2004,3.65,5.1,3.92,6.67
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2004,5.03,5.41,5.05,7.07
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2004,4.35,4.05,4.53,6.37
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2004,3.33,3.98,4.13,6.18
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2003,4.04,6.17,2.92,6.47
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2003,2.9,7.6,5.54,NA
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2003,4.5,6.1,2.75,7.52
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2003,6.25,6.75,3.15,8.4
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2003,5.62,6.3,3.62,6.9
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2003,13.49,11.97,9.17,14.12
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2003,5.79,6.73,4.76,7.48
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2003,2.74,7.88,4.03,NA
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2003,7.87,7.5,2.9,8.8
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2003,'0.67,2.97,1.72,4.45
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2003,4.55,4.62,2.1,NA
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2003,9.78,10.13,7.23,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2003,6.83,5.85,3.17,6.68
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2002,6.98,5.9,5.13,6.6
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2002,NA,7.5,NA,NA
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2002,13.17,10.53,12.05,12.37
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2002,6.41,5.93,5.99,6.91
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2002,'0.97,2.71,1.57,4.47
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2002,5.68,7.28,5.96,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2002,7.42,6.32,4.85,7.52
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2002,7.25,7.6,5.95,8.35
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2002,10.67,9.73,11.85,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2002,5.82,4.6,NA,NA
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2002,7.5,7.42,8,8.3
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2002,7.33,7.48,5.21,8.43
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2002,3.2,5.08,3.7,7.4
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2001,2.45,6.35,3.09,7.6
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2001,6.15,5.82,6.19,8.72
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2001,10.83,10.19,9.31,NA
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2001,2.15,3.07,3.72,8.33
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2001,11.37,NA,9.81,14.67
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2001,1.22,NA,1.67,4.97
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2001,4.94,6.31,4.05,8.12
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2001,1.35,NA,3.13,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2001,3.36,8.81,5.45,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2001,3.68,4.32,5.61,6.17
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2001,3.7,5.28,5.5,7.55
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2001,3.66,6.17,5.25,7.01
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2001,2.65,6.03,4.37,6.9
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,2000,1.98,2.48,2.94,4.02
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,2000,5.8,NA,5.54,6.51
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,2000,NA,NA,3.46,NA
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,2000,13.42,NA,NA,NA
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,2000,2.57,NA,NA,NA
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,2000,6.8,4.86,4.39,7.12
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,2000,2.6,3.72,4.86,6.67
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,2000,NA,4.78,6.12,7.06
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,2000,8.4,11.07,12.48,11.73
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,2000,3.63,3.68,NA,NA
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,2000,3.88,3.81,5.13,6.5
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,2000,4.8,5.89,5.96,7.8
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,2000,NA,6.98,6.58,9.38
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,1999,6.2,5.78,6.37,6.59
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,1999,5.69,5.59,4.66,6.93
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,1999,'0.32,NA,1.27,5.95
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,1999,4.7,4.38,1.87,7.2
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,1999,2.15,2.7,NA,5.83
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,1999,1.76,2.1,1.99,3.78
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,1999,2.39,4.02,2.96,7.12
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,1999,4.55,4.58,2.92,5.71
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,1999,13.42,4.09,10.67,16.77
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,1999,9.96,6.96,10.25,9.94
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,1999,6.94,5.03,4.02,7.37
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.82083333,Umaria-D,"Bore Well",W01298,1999,NA,NA,22,NA
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,1999,8.77,7.36,5.46,9.07
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,1998,4.25,4.89,2.72,6.27
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,1998,1.37,3.08,3.59,4.77
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,1998,5.44,4.34,5.21,6.45
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,1998,NA,2.9,NA,3.75
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,1998,1.9,4.26,2.21,4.26
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,1998,5.51,5.16,6.23,7.42
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,1998,4.45,3.86,4.01,6.51
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,1998,2.06,3.96,2.79,5.17
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,1998,'0.9,2.24,1.59,3.82
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,1998,3.9,3.18,3.52,4.82
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,1998,2.79,6.92,6.75,7.72
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,1998,NA,10.15,NA,12.41
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,1997,1.85,6.95,4.39,7.08
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,1997,4.1,6.54,3.79,7.45
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,1997,4.05,5.91,2.43,7.29
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,1997,3.2,6.1,2.08,6.8
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,1997,1.7,NA,2.22,2.9
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,1997,2.9,5.62,2.93,8.05
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,1997,11.7,7.1,2.41,11.38
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,1997,2.5,4.93,1.63,5.6
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,1997,12.12,12.17,11.24,14.53
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,1997,2.93,3.15,1.59,4.14
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,1997,4,7.5,3.98,7.47
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,1997,1.5,7.01,3.11,10.6
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.39277778,80.98277778,Nowrozabad,"Dug Well",W01302,1996,2.72,5.73,4.54,6.92
+MP,Umaria,Manpur,Manpur,23.86944444,81.00472222,Panpatha,"Dug Well",W01304,1996,13.33,13.17,12.6,15.87
+MP,Umaria,Bandhavgarh,Manpur,23.66444444,80.94361111,Parasi,"Dug Well",W01295,1996,3,6.2,4.43,6.9
+MP,Umaria,Bandhavgarh,Manpur,23.76111111,81.1225,Manpura1,"Dug Well",W01294,1996,1,NA,2.9,4.98
+MP,Umaria,Manpur,Manpur,23.95527778,80.92638889,Mahroi,"Dug Well",W01303,1996,'0.38,2.97,2.01,5.27
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.46472222,80.90972222,Karkeli,"Dug Well",W01300,1996,3.13,7.69,4.88,9.03
+MP,Umaria,Sohagpur,Pali,23.32194444,81.29777778,Amiliya2,"Dug Well",W00479,1996,2.62,5.8,4.12,7.35
+MP,Umaria,Bandhavgarh,Manpur,23.72138889,81.02083333,Tala,"Dug Well",W01296,1996,4.71,5.72,5.61,7.46
+MP,Umaria,Bandhavgarh,"Karkeli (umariya)",23.525,80.83944444,Umaria,"Dug Well",W01297,1996,5.85,6.56,5.33,7.6
+MP,Umaria,Pali,Pali,23.35,81.19388889,Gungutti,"Dug Well",W00476,1996,NA,NA,NA,7.93
+MP,Umaria,"Karkeli (umariya)","Karkeli (umariya)",23.40888889,80.68333333,Nigari,"Dug Well",W01301,1996,2.8,NA,6.6,7.78
+MP,Umaria,Pali,Pali,23.36666667,81.04,Birsinghpur1,"Dug Well",W00473,1996,1.9,NA,3,6

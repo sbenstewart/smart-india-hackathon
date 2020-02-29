@@ -1,0 +1,355 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2018,NA,NA,NA,2.5
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2018,NA,NA,NA,5.54
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2018,3.24,3.3,NA,NA
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2018,3.62,2.64,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2018,8.56,8.47,NA,NA
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka-Shashola,"Dug Well",W29841,2018,NA,NA,25.7,NA
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2018,4.45,4.33,NA,NA
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2018,4.09,3.73,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2018,5.12,3.48,NA,NA
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2018,'0.81,NA,NA,1.28
+HR,Mewat,Gurgaon,Taoru,28.22777778,76.87083333,"Jaraon Pz","Tube Well",W29842,2018,14.02,14.74,NA,NA
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2018,3.11,2.16,NA,NA
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2017,4.18,NA,4.34,4.12
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2017,5.3,NA,7.73,4.47
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2017,NA,NA,'0.7,'0.87
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2017,NA,NA,5.94,5.2
+HR,Mewat,Gurgaon,Taoru,28.22777778,76.87083333,"Jaraon Pz","Tube Well",W29842,2017,NA,NA,13.8,14.03
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2017,2.18,NA,NA,NA
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2017,NA,NA,3.84,3.43
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2017,NA,NA,NA,3.09
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2017,NA,NA,NA,7.91
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2016,NA,NA,7.59,6.23
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2016,NA,NA,6.08,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2016,NA,NA,6.83,6.71
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2016,4.07,NA,6,5.56
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2016,NA,NA,1.46,NA
+HR,Mewat,Gurgaon,Taoru,28.22777778,76.87083333,"Jaraon Pz","Tube Well",W29842,2016,NA,NA,16.01,14.52
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2016,NA,NA,2.28,2.8
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2016,NA,NA,NA,3.48
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2016,NA,NA,1.5,'0.8
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2016,NA,NA,NA,4.53
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2016,NA,NA,NA,4.15
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2016,3.58,NA,3.68,3.93
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2015,NA,NA,5.46,5.89
+HR,Mewat,Gurgaon,Taoru,28.22777778,76.87083333,"Jaraon Pz","Tube Well",W29842,2015,NA,NA,12.88,13.22
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2015,NA,1.05,NA,'0.91
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2015,NA,NA,2.4,3.67
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2015,NA,NA,3.71,4.48
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2015,NA,NA,2.55,2.85
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2015,NA,NA,'0.36,'0.28
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2015,NA,NA,4.37,4.35
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2015,NA,NA,4.15,3.45
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.73055556,76.96527778,Agaon-Pz,"Tube Well",W31810,2015,NA,NA,NA,11.65
+HR,Mewat,Punhana,Punhana,27.79722222,77.21527778,Aminabad-DW,"Dug Well",W31814,2015,NA,NA,3.05,3
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.81666667,77.02083333,Naharika-Pz,"Tube Well",W31815,2015,NA,NA,19.1,19
+HR,Mewat,Punhana,Punhana,27.86111111,77.20555556,Punhana-Pz,"Tube Well",W31818,2015,NA,NA,11.32,11.15
+HR,Mewat,Punhana,Punhana,27.92777778,77.10416667,Pinangwan-Pz,"Tube Well",W31827,2015,NA,NA,2.38,2.15
+HR,Mewat,Punhana,Punhana,27.93611111,77.16944444,Sarauli-DW,"Dug Well",W31829,2015,NA,NA,1.85,1.7
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.94166667,77.01666667,Bhadas-DW,"Dug Well",W31830,2015,NA,NA,5.6,5.8
+HR,Mewat,Taoru,Taoru,28.24027778,76.86944444,Rathiwas,"Bore Well",W31847,2015,NA,NA,13.72,13.6
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,"Firozepur Jhirka","Dug Well",W29790,2015,NA,NA,13.25,13.95
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka-Shashola,"Dug Well",W29841,2015,NA,NA,33.1,33.95
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2015,NA,6.6,5.8,5.96
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2014,NA,NA,5.65,4.16
+HR,Mewat,Gurgaon,Taoru,28.22777778,76.87083333,"Jaraon Pz","Tube Well",W29842,2014,NA,NA,11.77,11.95
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2014,5.7,NA,1.4,5.3
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2014,'0.45,NA,'0.82,1.2
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2014,5.6,NA,3.1,NA
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2014,4.04,NA,4.3,3.15
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2014,NA,NA,NA,3.08
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2014,NA,NA,'0.02,-0.5
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2014,NA,NA,4.42,3.94
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2014,NA,NA,3.23,2.46
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2014,NA,NA,NA,34.46
+HR,Mewat,Taoru,Taoru,28.21527778,76.88277778,"Khori Kalan","Dug Well",W22408,2014,NA,NA,18.26,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.81666667,77.02083333,Naharika-Pz,"Tube Well",W31815,2014,NA,NA,29.07,29.71
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,"Firozepur Jhirka","Dug Well",W29790,2014,11.05,NA,12.95,11.1
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka-Shashola,"Dug Well",W29841,2014,NA,NA,34.68,33.95
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2014,NA,NA,4.78,3.62
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2013,NA,NA,NA,11
+HR,Mewat,Gurgaon,Taoru,28.22777778,76.87083333,"Jaraon Pz","Tube Well",W29842,2013,NA,NA,12.87,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2013,NA,NA,3.64,6.6
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2013,5.8,4.3,5,6.4
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2013,NA,NA,'0.47,1.8
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2013,2.2,NA,3.28,3.34
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2013,3.74,NA,3.94,6.7
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2013,NA,NA,1.34,3.69
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2013,-1.2,NA,NA,-0.3
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2013,NA,NA,3.05,4.91
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2013,NA,NA,'0.94,4.1
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2013,NA,NA,33.05,30.1
+HR,Mewat,Taoru,Taoru,28.21527778,76.88277778,"Khori Kalan","Dug Well",W22408,2013,NA,NA,15.06,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.81666667,77.02083333,Naharika-Pz,"Tube Well",W31815,2013,NA,NA,28.95,NA
+HR,Mewat,Taoru,Taoru,28.22777778,76.87083333,"Rangla Dhani-Pz","Tube Well",W31845,2013,NA,NA,27.3,31.7
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,"Firozepur Jhirka","Dug Well",W29790,2013,10.75,11.7,9.4,13.25
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka-Shashola,"Dug Well",W29841,2013,NA,NA,33.05,30.1
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2013,NA,NA,2.68,4.05
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2012,NA,NA,3.98,NA
+HR,Mewat,Gurgaon,Taoru,28.22777778,76.87083333,"Jaraon Pz","Tube Well",W29842,2012,NA,NA,11.71,NA
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2012,NA,NA,5.32,NA
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2012,NA,'0.94,'0.14,NA
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2012,NA,NA,3.33,NA
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2012,NA,1.18,3.19,2.2
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2012,NA,NA,3.08,NA
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2012,NA,NA,3.45,NA
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2012,NA,NA,31.47,NA
+HR,Mewat,Taoru,Taoru,28.21527778,76.88277778,"Khori Kalan","Dug Well",W22408,2012,NA,NA,13.37,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.81666667,77.02083333,Naharika-Pz,"Tube Well",W31815,2012,NA,NA,18.98,NA
+HR,Mewat,Taoru,Taoru,28.22777778,76.87083333,"Rangla Dhani-Pz","Tube Well",W31845,2012,NA,NA,23.9,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,"Firozepur Jhirka","Dug Well",W29790,2012,NA,NA,10.7,NA
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka-Shashola,"Dug Well",W29841,2012,NA,NA,31.47,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2012,NA,NA,4.16,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2011,9.47,8.46,4.95,9.99
+HR,Mewat,Taoru,Taoru,28.21527778,76.88277778,"Khori Kalan","Dug Well",W22408,2011,13.4,NA,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2011,5.95,3.1,3.41,4.16
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2011,5.55,3.62,4.35,6.87
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2011,'0.42,'0.73,'0.46,'0.53
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2011,2,1.19,1.31,2.94
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2011,4,3.08,2.43,3.55
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2011,2.74,NA,1.38,NA
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2011,'0.99,NA,'0.98,1.98
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2011,NA,NA,NA,1.17
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2011,3.47,3.89,3.18,3.87
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2011,NA,NA,12.9,NA
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2011,4.77,2.14,1.91,3.37
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2011,20.55,NA,26.73,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.8,76.93333333,Ravali,"Tube Well",W22295,2011,NA,NA,NA,9.99
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2011,1.87,'0.49,NA,2.56
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2010,NA,12.85,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2010,3.86,NA,4.83,11
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2010,1.2,NA,NA,4.11
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2010,3.51,4.31,3.54,4.82
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2010,3.67,NA,4.5,7.76
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2010,'0.83,1.41,'0.75,1.61
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2010,NA,NA,26.9,NA
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2010,4.45,4.44,2.53,4.84
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2010,'0.56,4.02,'0.64,3.86
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2010,NA,NA,1.22,NA
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2010,2.09,4.61,3.28,NA
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2010,NA,NA,13,NA
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2010,2.52,3.3,1.67,3.8
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2010,1.93,2.71,'0.94,3.45
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2009,NA,12.74,13.08,13.35
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2009,6.85,9.54,9.29,10.59
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2009,3.49,1.27,2.23,3.72
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2009,4.91,3.97,3.62,5.28
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2009,5.43,1.38,1.16,NA
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2009,1.94,'0.62,1.26,'0.73
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2009,3.4,2.55,1.61,3.51
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2009,5.45,4.93,4.2,5.33
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2009,3.8,3.16,2.29,4.2
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2009,3.51,3.33,NA,3.98
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2009,2.1,NA,NA,NA
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2009,NA,4.2,4.24,NA
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2009,NA,NA,NA,9.25
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2009,2.24,2.21,3.01,3.55
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2009,20.23,NA,NA,NA
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2008,4.07,4.89,4.57,5.42
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2008,1.93,3.58,2.01,4.36
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2008,8.3,8.17,8.56,NA
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2008,'0.39,'0.6,NA,1.03
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2008,3.31,5.86,3.46,6.25
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2008,12.8,12,12.55,NA
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2008,1.47,3.73,3.31,4.51
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2008,1.22,4.7,NA,4.48
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2008,'0.2,'0.92,'0.42,'0.35
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2008,4.93,5.83,4.83,5.63
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2008,3.35,8.99,6.25,9.25
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2008,NA,2.8,1.3,3.85
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2008,2.35,3.8,3,3.6
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,2008,NA,5.44,NA,NA
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2008,NA,NA,NA,32.3
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2008,3.56,NA,3.75,2.82
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2007,4.47,5.28,3.79,4.84
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2007,1.4,'0.6,'0.08,1.89
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2007,2.98,3.05,3.56,3.07
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2007,3.32,3.07,3.5,3.49
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2007,5.08,5.03,5.19,5.21
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2007,2.91,2.69,2.61,3.43
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2007,2.53,3.1,1.95,3.5
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2007,'0.24,1.09,2.28,1.44
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2007,4.69,5.12,4.6,5.33
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2007,3.93,5.88,4.31,5.84
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2007,3.6,3.06,3.07,4.07
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2007,NA,8.39,6.8,8.92
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2007,11.75,11.6,11.69,11.88
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2007,8.16,8.32,NA,8.99
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2006,4.69,4.79,4.92,5.21
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2006,2.48,2.76,2.33,3.53
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2006,2.64,5.71,3.38,4.57
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2006,'0.53,'0.92,1.72,1.58
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2006,4.81,5.29,4.85,5.62
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2006,4.01,4.42,4.71,5.06
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2006,7.8,7.4,7.63,8
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2006,2.09,2.58,2.91,3.28
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2006,'0.07,'0.9,'0.79,1.6
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2006,2.8,2.21,2.67,3.81
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2006,10.63,12.05,10.45,11.25
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2006,4.64,3.97,4.12,4.3
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2006,2.19,2.35,1.89,3.25
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2006,7.19,5.39,6.85,6.99
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2005,1.69,2.25,2.15,2.85
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2005,2.34,2.61,2.41,2.71
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2005,4.82,5.53,5.23,5.79
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2005,1.83,3.2,2.27,3.42
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2005,2.18,2.93,2.83,3.98
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2005,'0.4,'0.5,1,1.4
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2005,3.36,4.07,2.77,NA
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2005,7.11,6.8,7.2,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2005,8.48,8.75,8.45,9.81
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,2005,NA,5.5,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2005,1.21,4.19,4.99,5.45
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2005,3.03,3.58,3.87,4.22
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2005,3.34,4.46,3.79,4.71
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2005,2.09,4,4.5,5.05
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2005,'0.82,2.02,1.22,1.42
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2004,2.31,2.71,'0.98,3.16
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2004,'0.22,2.12,'0.33,1.48
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2004,3,3.4,2.47,3.64
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2004,3.58,5.38,2.71,3.35
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2004,'0.3,'0.7,1.49,1.4
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2004,4.27,3.17,2.77,4.12
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2004,7.7,7.1,6.78,7.8
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2004,2.25,2.45,1.74,2.83
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2004,9.55,8.65,8.61,9.65
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,2004,NA,NA,3.79,4.99
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2004,7.59,NA,1.81,6.74
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2004,3.98,3.58,3.41,4.26
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2004,4.96,5.46,3.75,5.76
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2004,2.6,5,2.52,5.18
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2004,5.63,5.33,5.21,5.78
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2003,NA,NA,20.8,21.1
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2003,'0.22,1.12,1.92,2.07
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2003,4.66,6.57,4.96,6.55
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2003,1.79,4.1,3.6,5.6
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2003,'0.73,4.5,3.28,4.64
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2003,1.5,'0.7,1.23,3.9
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2003,3.28,4.67,3.62,5.84
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2003,7.94,7.63,6.5,9.22
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2003,'0.75,2.46,2.15,2.91
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2003,8.07,10.34,8.15,9.35
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,2003,5.52,NA,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2003,2.44,9.14,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2003,2.22,5.74,2.78,6.18
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2003,4.49,8.16,4.46,8.29
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2003,2.49,5.11,3.1,7.35
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2003,'0.45,3.62,1.71,4.11
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2002,NA,22.15,NA,23.96
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2002,4.1,3.35,3.59,4.13
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2002,4.79,4.1,4.33,4.55
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2002,4.58,3.98,4.21,NA
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2002,1.2,2.5,1.46,3.86
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2002,5.19,4.47,4.47,4.92
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2002,7.95,7.2,8.3,7.9
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2002,3.25,3.35,2.6,3.47
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2002,NA,7.85,8.4,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,2002,NA,5.34,6.1,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2002,7.64,6.75,8.59,7.75
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2002,5.71,5.84,5.8,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2002,7.49,7.47,7.91,7.42
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2002,5.62,6.15,6.04,5
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2002,1.23,NA,'0.92,2.04
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2002,6.43,7.47,6.25,7.13
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2001,NA,21.4,NA,NA
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2001,2.48,3.57,3.2,4
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2001,3.63,8.02,6,6.25
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2001,3.1,3.92,4.08,4.22
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,2001,3.91,NA,4.5,5.21
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2001,1.41,2.07,1.32,1.94
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2001,3.56,4.03,3.76,4.67
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2001,5.92,5.92,6.85,6.71
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2001,2.32,2.61,3.3,3.21
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2001,NA,5.58,6.65,6.49
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,2001,5.42,4.37,5.22,5.43
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2001,2.01,6.69,5.29,6.95
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2001,4.88,NA,NA,5.98
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2001,6.35,7.26,5.46,7.16
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2001,3.99,5.8,4.48,6.51
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2001,'0.53,1.22,'0.47,2.12
+HR,Mewat,Taoru,Taoru,28.2,76.95,Taoru,"Dug Well",W16280,2001,19.23,18.17,19.72,20.67
+HR,Mewat,Taoru,Taoru,28.22638889,77.02916667,Pipaka,"Tube Well",W16279,2000,21.75,NA,NA,21.84
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,2000,1.96,2.9,3.11,3.85
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,2000,4.68,4.09,6.56,5.74
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,2000,3.11,2.93,3.84,3.81
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,2000,1.04,'0.45,2.3,1.85
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,2000,2.47,3.25,3.35,NA
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,2000,4.9,4.07,5.5,4.82
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,2000,1.49,2.36,2.11,2.61
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,2000,5.35,NA,NA,5.6
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,2000,3.91,3.08,3.87,2.85
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,2000,3.47,4.77,5.79,7.69
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,2000,NA,5.23,4.08,6.78
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,2000,4.69,4.82,6.16,5.12
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,2000,4.41,4.34,4.1,5.3
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,2000,'0.24,1.37,NA,2.12
+HR,Mewat,Taoru,Taoru,28.2,76.95,Taoru,"Dug Well",W16280,2000,17.64,16.6,17.91,17.32
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,1999,1.91,'0.65,1.54,3.04
+HR,Mewat,Taoru,Taoru,28.2,76.95,Taoru,"Dug Well",W16280,1999,16.44,15.37,16.55,16.3
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,1999,'0.96,'0.98,'0.98,2.14
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,1999,4.35,2.96,2.74,5.59
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,1999,3.85,2.82,3.3,5.08
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,1999,3.15,1.71,2.48,NA
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,1999,1.45,'0.29,'0.48,1.53
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,1999,3.88,2.78,3.89,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,1999,4.38,3.57,4.74,4.47
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,1999,3.76,1.32,2.38,2.71
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,1999,2.89,2.19,2.62,3.28
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,1999,4.14,4.49,4.2,6.29
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,1999,2.79,NA,3.28,2.78
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,1999,2.59,1.4,2.05,3.28
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,1999,3.71,2.34,3.91,3.66
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,1998,2.1,3.07,1.7,3.49
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,1998,'0.41,1.67,'0.09,2.53
+HR,Mewat,Punhana,Punhana,27.84166667,77.28333333,Nimka,"Dug Well",W16258,1998,8.59,NA,NA,NA
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,1998,2.45,3.87,2.01,5.38
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,1998,'0.06,1.09,-0.39,2.26
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,1998,NA,2.5,NA,NA
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,1998,'0.39,'0.94,1.18,2.22
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,1998,4.18,3.17,3.81,8.87
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,1998,'0.54,1.11,'0.24,2.75
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,1998,'0.14,'0.85,'0.1,2.05
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,1998,1.56,1.71,1.17,3
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,1998,3.37,4.26,2.98,4.88
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,1998,8.18,1.86,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,1998,2.5,2.75,2.2,3.26
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,1998,2.22,3.13,1.89,3.63
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,1998,2.82,2.54,2.35,4.1
+HR,Mewat,Taoru,Taoru,28.2,76.95,Taoru,"Dug Well",W16280,1998,15.3,13.86,15.53,15.44
+HR,Mewat,Nuh,Nuh,28.1375,77.09861111,Chhapar,"Dug Well",W16245,1998,NA,1.72,NA,NA
+HR,Mewat,Taoru,Taoru,28.2,76.95,Taoru,"Dug Well",W16280,1997,13.82,13.56,14.45,15.42
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,1997,3.33,NA,2.96,3.14
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,1997,3.13,2.53,2.75,2.63
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,1997,3.24,2.62,2.09,4.49
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,1997,NA,1.99,NA,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,1997,3.71,2.9,3.93,4.28
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,1997,1.51,2.4,1.63,2.9
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,1997,2.05,1.59,'0.82,2.75
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,1997,2.82,1.87,1.24,3.42
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,1997,4.54,3.06,3.92,6.18
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,1997,'0.7,1.63,2.2,3.58
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,1997,2.26,2.44,2.38,3.87
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,1997,'0.95,1.3,1.07,NA
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,1997,NA,2.77,4.33,1.5
+HR,Mewat,Punhana,Punhana,27.84166667,77.28333333,Nimka,"Dug Well",W16258,1997,NA,7.64,NA,NA
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,1997,3.23,3.12,2.07,2.92
+HR,Mewat,Punhana,Punhana,27.8625,77.20416667,Punhana,"Dug Well",W16260,1997,NA,8.14,NA,NA
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,1997,1.59,1.36,1.57,3.14
+HR,Mewat,Taoru,Taoru,28.2,76.95,Taoru,"Dug Well",W16280,1996,14.14,15.14,13.42,15.62
+HR,Mewat,Punhana,Punhana,27.95416667,77.14444444,Sikarwa,"Dug Well",W16262,1996,'0.23,2.4,NA,'0.77
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.85416667,76.97222222,Naoli,"Dug Well",W16234,1996,1.06,3,2.11,NA
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.7,76.93333333,Raoli,"Dug Well",W16235,1996,'0.86,2.94,2.29,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.97777778,77.0125,Kheri1,"Dug Well",W16236,1996,NA,2.13,'0.43,NA
+HR,Mewat,"Ferozepur Jhirka",Nagina,27.91666667,76.98333333,Nagina,"Dug Well",W16237,1996,NA,3.48,2.56,NA
+HR,Mewat,Nuh,Nuh,28.00833333,77.00416667,Akaira,"Dug Well",W16243,1996,NA,2.83,NA,NA
+HR,Mewat,Nuh,Nuh,28.14583333,77.14166667,Akbarpur,"Dug Well",W16244,1996,'0.39,1.8,1.17,1.48
+HR,Mewat,Nuh,Nuh,28.18611111,77.09861111,Indri,"Dug Well",W16246,1996,'0.57,2.61,1.55,NA
+HR,Mewat,Nuh,Nuh,28.04166667,77.01111111,Malab,"Dug Well",W16247,1996,1.21,4.13,3.04,NA
+HR,Mewat,Nuh,Nuh,28.10416667,77.00416667,Nuh,"Dug Well",W16248,1996,'0.48,1.58,1,2.8
+HR,Mewat,Nuh,Nuh,28.10416667,77.07083333,Nuh1,"Tube Well",W16249,1996,NA,2.93,2.15,2
+HR,Mewat,Punhana,Punhana,27.91666667,77.17916667,Gulaltha,"Dug Well",W16256,1996,NA,'0.7,'0.55,NA
+HR,Mewat,Punhana,Punhana,27.83194444,77.1375,Luhingakalan,"Dug Well",W16257,1996,1.07,3.48,NA,NA
+HR,Mewat,Punhana,Punhana,27.84166667,77.28333333,Nimka,"Dug Well",W16258,1996,NA,NA,7.24,NA
+HR,Mewat,Punhana,Punhana,27.89583333,77.1,Pinangwan,"Dug Well",W16259,1996,3.12,4.73,3.07,3.44
+HR,Mewat,"Ferozepur Jhirka",Kaman,27.79166667,76.95,Ferozepurzhirka,"Tube Well",W16231,1996,NA,5.68,NA,NA

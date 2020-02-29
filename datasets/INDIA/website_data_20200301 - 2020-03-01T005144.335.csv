@@ -1,0 +1,632 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2018,'0.56,11.39,NA,NA
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-s,"Bore Well",W28148,2018,2.25,5.92,NA,NA
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2018,'0.37,4.41,NA,NA
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2018,'0.9,3.02,NA,NA
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2018,1.02,7.2,NA,NA
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2018,1.59,5.07,NA,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2018,3.14,4.76,NA,NA
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2018,'0.45,6.58,NA,NA
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2018,'0.38,3.98,NA,NA
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2018,9.78,8.45,NA,NA
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2018,8.91,12.47,NA,NA
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2018,3.53,4.54,NA,NA
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2018,'0.85,5.12,NA,NA
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2018,2.1,6.36,NA,NA
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2018,1.27,2.45,NA,NA
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2018,'0.6,2.22,NA,NA
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2018,2.48,5.75,NA,NA
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2018,9.67,13.7,NA,NA
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2018,'0.41,2.87,NA,NA
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2018,3.2,5.4,NA,NA
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2018,2.2,5.85,NA,NA
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2018,'0.68,3.23,NA,NA
+MP,Mandla,Nainpur,Nainpur,22.40861111,80.26416667,"Rampuri New","Dug Well",W27782,2018,2.63,3.78,NA,NA
+MP,Mandla,Nainpur,Nainpur,22.47638889,80.36777778,"Bamhni New","Dug Well",W27822,2018,'0.49,4.27,NA,NA
+MP,Mandla,Nainpur,Nainpur,22.52083333,80.1375,Surajpura,"Dug Well",W27846,2018,'0.51,3.65,NA,NA
+MP,Mandla,Nainpur,Nainpur,22.52611111,80.27083333,Subhariya,"Dug Well",W27849,2018,'0.77,2.77,NA,NA
+MP,Mandla,Mandla,Mandla,22.57527778,80.355,Mahrajpur,"Dug Well",W27878,2018,-0.1,3.62,NA,NA
+MP,Mandla,Mandla,Mohgaon,22.74944444,80.57722222,Rehgaon,"Dug Well",W27976,2018,'0.89,5.65,NA,NA
+MP,Mandla,Narayanganj,Narayanganj,22.87916667,80.21333333,"Kudomali New","Dug Well",W28035,2018,'0.67,2.32,NA,NA
+MP,Mandla,Narayanganj,Narayanganj,22.75027778,80.31055556,Mangalganj,"Dug Well",W27977,2018,'0.6,4.78,NA,NA
+MP,Mandla,Bijadandi,Bijadandi,22.98194444,80.15055556,"Khamher Kheda","Dug Well",W28098,2018,'0.93,2.52,NA,NA
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2018,'0.77,4.57,NA,NA
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2017,3.6,NA,NA,4.6
+MP,Mandla,Narayanganj,Narayanganj,22.75027778,80.31055556,Mangalganj,"Dug Well",W27977,2017,2.9,4.51,NA,6.35
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2017,2.05,3.95,2.72,6.74
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2017,'0.75,3.77,2.72,4.02
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2017,1.05,1.92,1.57,2.12
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2017,'0.45,5.69,4.38,6.43
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2017,3.25,3.02,3.56,6.3
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2017,'0.94,4.92,2.91,6.15
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2017,1.8,6.22,3.29,8.22
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2017,'0.6,3.52,2.64,5.42
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2017,7.53,6.87,7.72,8.6
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2017,11.07,9.75,11.7,11.6
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2017,4.3,4.38,4.12,4.77
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2017,3.75,6.03,4.37,8.47
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2017,2.35,5.57,5.02,7.55
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2017,1.62,2.22,1.92,3.72
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2017,'0.73,1.18,'0.92,10.4
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2017,2.69,5.07,4.52,6.51
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2017,10,9.55,13.7,9.57
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2017,'0.37,2.77,2.02,3.43
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2017,3.78,5.6,4.24,6.56
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2017,2.83,6.06,4.14,6.9
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2017,'0.56,3.17,1.74,4.25
+MP,Mandla,Nainpur,Nainpur,22.40861111,80.26416667,"Rampuri New","Dug Well",W27782,2017,2.58,3.03,2.92,3.77
+MP,Mandla,Nainpur,Nainpur,22.47638889,80.36777778,"Bamhni New","Dug Well",W27822,2017,'0.75,1.83,3.34,1.87
+MP,Mandla,Nainpur,Nainpur,22.52083333,80.1375,Surajpura,"Dug Well",W27846,2017,1.98,3.9,2.99,7.13
+MP,Mandla,Nainpur,Nainpur,22.52611111,80.27083333,Subhariya,"Dug Well",W27849,2017,'0.55,2.62,2.07,3.65
+MP,Mandla,Mandla,Mandla,22.57527778,80.355,Mahrajpur,"Dug Well",W27878,2017,'0.08,2.18,2.77,3.92
+MP,Mandla,Mandla,Mohgaon,22.74944444,80.57722222,Rehgaon,"Dug Well",W27976,2017,3.45,2.22,3.27,6.63
+MP,Mandla,Narayanganj,Narayanganj,22.87916667,80.21333333,"Kudomali New","Dug Well",W28035,2017,2.77,1.97,3.92,4.32
+MP,Mandla,Bijadandi,Bijadandi,22.98194444,80.15055556,"Khamher Kheda","Dug Well",W28098,2017,'0.92,1.97,1.62,2.72
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-s,"Bore Well",W28148,2017,2.76,6.4,4.24,6.82
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2017,11.35,8.44,11.39,8.33
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2016,1.42,4.8,5.09,NA
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-s,"Bore Well",W28148,2016,NA,4.73,4.21,6.62
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2016,'0.11,1.79,'0.73,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2016,NA,4.38,4.96,NA
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2016,4.06,3.81,5.26,NA
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2016,1.8,5.58,4.66,NA
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2016,'0.68,3.8,2.4,NA
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2016,'0.55,1.69,2.17,NA
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2016,5.59,11.39,7.63,NA
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2016,1.32,2.12,1.99,NA
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2016,1.33,4.02,1.68,2.34
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2016,7.2,9.99,8.8,NA
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2016,1.09,4.86,2.59,NA
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2016,3.36,4.49,4.31,NA
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2016,'0.98,5.94,3.69,NA
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2016,'0.28,3.16,2.9,NA
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2016,'0.66,3.02,2.04,NA
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2016,2.17,4.9,4.48,NA
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2016,2.05,4.9,4.53,NA
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2016,1.4,4.47,2.71,NA
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2016,'0.94,6.2,3.53,NA
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2016,1.37,NA,NA,6.37
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2016,'0.55,NA,3.59,8.32
+MP,Mandla,Nainpur,Nainpur,22.40861111,80.26416667,"Rampuri New","Dug Well",W27782,2016,2.51,2.93,3.16,3.59
+MP,Mandla,Nainpur,Nainpur,22.47638889,80.36777778,"Bamhni New","Dug Well",W27822,2016,'0.4,1.2,1.23,2.18
+MP,Mandla,Nainpur,Nainpur,22.52083333,80.1375,Surajpura,"Dug Well",W27846,2016,'0.33,5.8,1.32,8
+MP,Mandla,Nainpur,Nainpur,22.52611111,80.27083333,Subhariya,"Dug Well",W27849,2016,'0.6,2.3,1.92,3.61
+MP,Mandla,Mandla,Mandla,22.57527778,80.355,Mahrajpur,"Dug Well",W27878,2016,NA,'0.63,1.31,4.12
+MP,Mandla,Mandla,Mohgaon,22.74944444,80.57722222,Rehgaon,"Dug Well",W27976,2016,'0.15,6.99,1.35,7.19
+MP,Mandla,Narayanganj,Narayanganj,22.75027778,80.31055556,Mangalganj,"Dug Well",W27977,2016,'0.4,4.36,2.45,6.28
+MP,Mandla,Narayanganj,Narayanganj,22.87916667,80.21333333,"Kudomali New","Dug Well",W28035,2016,'0.72,1.06,1.88,4.18
+MP,Mandla,Bijadandi,Bijadandi,22.98194444,80.15055556,"Khamher Kheda","Dug Well",W28098,2016,1.04,1.75,1.42,2.3
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2016,9.52,NA,9.5,9.52
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2015,2.98,4.7,3.58,6.61
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-s,"Bore Well",W28148,2015,3.17,4.7,3.72,5.3
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2015,'0.5,2.7,'0.9,3.31
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2015,2.72,5.6,3.92,4.49
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2015,4.86,5.5,5.65,9.31
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2015,3.07,5.4,2.45,8.15
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2015,1.57,3.9,2.48,3.81
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2015,1.25,2.2,1.01,3.13
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2015,4.56,12.06,3.7,6.64
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2015,1.88,8.5,1.74,3.11
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2015,1.7,7.5,2.62,4.36
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2015,8.67,17.5,9.27,11.36
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2015,1.61,3.8,1.79,6.54
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2015,3.84,4.9,4.33,4.81
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2015,1.71,4.5,2.13,8.2
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2015,2.77,12.85,2.78,10.54
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2015,NA,2.8,NA,NA
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2015,'0.7,7,'0.83,3.45
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2015,3.14,9,3.63,6.18
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2015,3.2,5.7,4.03,5.86
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2015,2.06,3.4,3.1,5.67
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2015,3.5,6.95,2.63,6.2
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2015,2.11,3.1,2.27,5.31
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2015,1.8,6.3,2.75,4.53
+MP,Mandla,Nainpur,Nainpur,22.40861111,80.26416667,"Rampuri New","Dug Well",W27782,2015,2.71,3.8,2.95,3.54
+MP,Mandla,Nainpur,Nainpur,22.47638889,80.36777778,"Bamhni New","Dug Well",W27822,2015,'0.97,1.2,1.63,1.89
+MP,Mandla,Nainpur,Nainpur,22.52083333,80.1375,Surajpura,"Dug Well",W27846,2015,1.11,5.4,2.26,4.99
+MP,Mandla,Nainpur,Nainpur,22.52611111,80.27083333,Subhariya,"Dug Well",W27849,2015,2.3,5.2,1.66,5.56
+MP,Mandla,Mandla,Mandla,22.57527778,80.355,Mahrajpur,"Dug Well",W27878,2015,'0.22,10,'0.8,2.5
+MP,Mandla,Mandla,Mohgaon,22.74944444,80.57722222,Rehgaon,"Dug Well",W27976,2015,3.35,6.4,3.97,8.61
+MP,Mandla,Narayanganj,Narayanganj,22.75027778,80.31055556,Mangalganj,"Dug Well",W27977,2015,1.27,7,2.68,5.68
+MP,Mandla,Narayanganj,Narayanganj,22.87916667,80.21333333,"Kudomali New","Dug Well",W28035,2015,1.06,8,2.38,3.53
+MP,Mandla,Bijadandi,Bijadandi,22.98194444,80.15055556,"Khamher Kheda","Dug Well",W28098,2015,1.17,6,3.92,3.15
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2015,2.21,10.3,13.7,13
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2014,4.1,5.62,5.53,6.62
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-s,"Bore Well",W28148,2014,3.77,4.3,4.08,6.3
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2014,2.83,5.57,4.76,7.58
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2014,'0.74,2.74,2.16,4.45
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2014,'0.86,1.85,1.77,3
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2014,1.82,2.14,1.93,3.65
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2014,2.04,1.7,2.13,4.24
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2014,8.34,8.12,8.77,9.95
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2014,2.49,3.67,2.56,6.67
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2014,2.68,4.08,4.26,4.7
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2014,2.97,4.62,3.87,7.97
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2014,'0.17,3.27,3.05,4.18
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2014,'0.73,1.84,1.1,2.9
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2014,3.53,4.39,4.23,6.3
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2014,4.3,4.62,4.2,6.42
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2014,1.69,3.44,2.49,5.69
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2014,1.14,5.32,4.73,6.2
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2014,2.35,3.38,3.18,6.24
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2014,'0.56,4.56,3.15,8.1
+MP,Mandla,Nainpur,Nainpur,22.40861111,80.26416667,"Rampuri New","Dug Well",W27782,2014,2.71,2.91,3.02,3.48
+MP,Mandla,Nainpur,Nainpur,22.47638889,80.36777778,"Bamhni New","Dug Well",W27822,2014,'0.73,1.5,1.35,2.3
+MP,Mandla,Nainpur,Nainpur,22.52083333,80.1375,Surajpura,"Dug Well",W27846,2014,'0.5,2.83,2.48,6.93
+MP,Mandla,Nainpur,Nainpur,22.52611111,80.27083333,Subhariya,"Dug Well",W27849,2014,'0.73,4.45,1.89,3.62
+MP,Mandla,Mandla,Mandla,22.57527778,80.355,Mahrajpur,"Dug Well",W27878,2014,'0.08,1.68,1.74,1.84
+MP,Mandla,Mandla,Mohgaon,22.74944444,80.57722222,Rehgaon,"Dug Well",W27976,2014,5.87,4.31,2.15,8.35
+MP,Mandla,Narayanganj,Narayanganj,22.75027778,80.31055556,Mangalganj,"Dug Well",W27977,2014,'0.7,6.53,2.6,4.93
+MP,Mandla,Narayanganj,Narayanganj,22.87916667,80.21333333,"Kudomali New","Dug Well",W28035,2014,'0.61,1.1,5.35,2.8
+MP,Mandla,Bijadandi,Bijadandi,22.98194444,80.15055556,"Khamher Kheda","Dug Well",W28098,2014,1.02,1.6,1.98,3.1
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2014,5.5,5.34,6.52,8.7
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2013,2.34,5.59,4.97,6.74
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,*Mandla-s,"Bore Well",W31551,2013,NA,26.96,4.8,NA
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2013,1.7,6,4.07,8.43
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2013,'0.47,2.96,1.9,7.23
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2013,NA,'0.9,NA,NA
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2013,NA,1.92,'0.79,3.95
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2013,1.08,4.2,2.03,4.45
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2013,'0.3,2.26,'0.7,4.4
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2013,4.7,8.9,6.97,10.75
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2013,1.55,NA,NA,NA
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2013,'0.27,3.81,1.06,4.78
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2013,3.2,3.8,4.92,4.4
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2013,'0.85,5.4,2.68,7.7
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2013,'0.28,3.315,2.323333,4.205
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2013,'0.5,3.095,2.6,3.59
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2013,NA,NA,NA,2.65
+MP,Mandla,Narayanganj,Narayanganj,22.81944444,80.23277778,Malara,"Dug Well",W00916,2013,3.75,NA,3.19,NA
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2013,'0.7,2.3,'0.69,5.5
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2013,1.86,4.75,3.58,6.5
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2013,2.3,5,3.55,6.6
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2013,'0.54,5.16,2.06,8.4
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2013,1.2,5,2.72,6.2
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2013,1.3,3.3,2.25,5.9
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2013,'0.59,5.125,2.75,9.125
+MP,Mandla,Nainpur,Nainpur,22.40861111,80.26416667,"Rampuri New","Dug Well",W27782,2013,2.55,2.89,2.76,3.55
+MP,Mandla,Nainpur,Nainpur,22.47638889,80.36777778,"Bamhni New","Dug Well",W27822,2013,'0.61,1.25,1.32,2.35
+MP,Mandla,Mandla,Mandla,22.57527778,80.355,Mahrajpur,"Dug Well",W27878,2013,NA,2.35,1.08,3.46
+MP,Mandla,Mandla,Mohgaon,22.74944444,80.57722222,Rehgaon,"Dug Well",W27976,2013,'0.03,NA,2.94,7.2
+MP,Mandla,Narayanganj,Narayanganj,22.87916667,80.21333333,"Kudomali New","Dug Well",W28035,2013,'0.6,'0.9,1.46,2.7
+MP,Mandla,Bijadandi,Bijadandi,22.98194444,80.15055556,"Khamher Kheda","Dug Well",W28098,2013,1.6,NA,2.9,2.8
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-s,"Bore Well",W28148,2013,1.8,4.55,3.22,6.3
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2013,3.885,6.14,4.02,8.51
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2012,NA,4.66,1.5,NA
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2012,NA,4.57,4.7,7.5
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2012,NA,'0.4,3.4,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2012,NA,6.42,3.34,9.59
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2012,NA,6.18,4.95,8.75
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2012,NA,5.44,4.5,10.7
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2012,NA,2.78,'0.3,4.2
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2012,NA,10.06,NA,5.2
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2012,NA,1.45,NA,NA
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2012,NA,2.71,2.63,6.03
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2012,NA,2.11,NA,6.7
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2012,NA,1.24,2.9,NA
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2012,NA,8.69,5.05,9.75
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2012,NA,3.15,NA,5.55
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2012,NA,3.81,'0.5,4.45
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2012,NA,5.48,2.65,8.15
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2012,NA,3.62,'0.7,4.5
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2012,NA,3.08,2.5,4.2
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2012,NA,'0.87,NA,NA
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2012,NA,1.25,'0.9,3
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2012,NA,4.66,2.8,6.2
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2012,NA,4.04,3.4,5.9
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2012,NA,5.05,NA,6.2
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2012,NA,1.21,'0.1,1.9
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2012,NA,NA,7.5,NA
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2011,1.6,NA,3.16,7.52
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2011,'0.5,4.43,2.5,7.68
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2011,1.2,NA,2.07,7.85
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2011,2.64,4.6,5.04,8.63
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2011,1.97,7.47,4.37,9.85
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2011,1.96,5.95,4.2,10.26
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2011,'0.45,2.57,2,8.81
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2011,8.88,10.32,10.1,10.9
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2011,'0.5,2.35,1.75,3.23
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2011,'0.68,2.1,'0.53,3.55
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2011,1.22,2.22,2.03,6
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2011,'0.23,2.4,1.25,6.1
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2011,6.92,11.67,6.15,12.55
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2011,4.9,10.48,8.35,13
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2011,1.18,3.79,1.95,NA
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2011,2.74,NA,3.75,5.01
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2011,'0.47,3.41,2.8,10.34
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2011,'0.18,3.57,3.07,5.55
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2011,1.6,5.33,3.4,5.08
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2011,'0.42,NA,'0.95,3.22
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2011,'0.72,1.7,1,4.65
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2011,2.29,4.65,4,7.23
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2011,1.92,7.67,4.3,8.88
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2011,'0.59,3.49,2.7,8.31
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2011,'0.51,6.05,3.65,6.2
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2011,1.89,1.99,1.8,NA
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2011,10.6,NA,9.5,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2010,3.54,5.59,4.9,7.83
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2010,1.04,3.15,2.48,7.15
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2010,9.48,5.5,3.8,12
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2010,1.23,2.88,2,6.07
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2010,8.28,10.3,9.9,10.77
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2010,1.87,1.88,NA,3.05
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2010,3.48,'0.93,'0.65,NA
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2010,1.29,2.12,1.62,5.4
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2010,'0.56,2,'0.8,2.26
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2010,10.8,9.57,8.05,12.3
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2010,NA,7.4,NA,NA
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2010,2.19,3.11,1.8,NA
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2010,4.04,3.93,3.62,5.27
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2010,3.38,6.05,3,9.63
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2010,'0.87,3.56,3,5.13
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2010,3.37,3.52,3.2,4.54
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2010,NA,1.25,'0.65,3.01
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2010,'0.79,1.9,NA,4.34
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2010,2.64,4.7,3.7,6.98
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2010,NA,4.82,NA,8
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2010,5.24,6.5,2.92,8.08
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2010,'0.6,3.05,2.15,NA
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2010,2.24,3.9,1.58,NA
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2010,8.95,8.99,5.35,NA
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2009,4.8,5.01,NA,7.45
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2009,1.1,4.4,3.14,7.9
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2009,'0.1,6.14,NA,8.9
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2009,4.84,5.85,5.29,7.31
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2009,8.95,3.71,8.45,9.63
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2009,2.4,6.12,5.17,9.52
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2009,1.7,3.05,2.55,4.59
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2009,10.1,10.28,10.24,10.7
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2009,2.05,1.61,2.67,4.57
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2009,'0.43,NA,'0.73,11.39
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2009,'0.9,4.54,2.45,6.6
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2009,'0.7,1.79,2,6.4
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2009,11.25,8.28,10.4,11.7
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2009,2.45,3.71,4.61,6.09
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2009,3.9,4.09,4.72,4.89
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2009,5.55,5.11,6.42,9.4
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2009,'0.7,4.11,3.4,4.9
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2009,4.3,3.54,3.63,4.12
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2009,NA,'0.81,3.6,6.57
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2009,'0.2,2.18,2.22,4.13
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2009,2,4.95,5.05,7.01
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2009,NA,4.3,NA,6.36
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2009,5,5.97,6.46,7.85
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2009,4.75,3.73,3.4,5.95
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2009,3.1,3.19,3.59,6.1
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2009,NA,10.8,NA,13.7
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2008,2.46,5,NA,8
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2008,'0.92,3.6,2.8,7.4
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2008,'0.18,1,NA,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2008,3.65,5.64,5.44,6.94
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2008,5.66,5.95,6.25,NA
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2008,3.18,6.3,5,11.9
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2008,'0.88,3.6,2.4,5.4
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2008,7.12,10.3,10.9,10.9
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2008,'0.81,1.75,1.25,4.65
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2008,3.01,4.73,3.13,11.39
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2008,1.52,2.4,2.1,4.3
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2008,1.94,4.6,2.3,5.2
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2008,9.63,11.55,12.85,14.45
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2008,6,NA,7.1,NA
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2008,'0.83,2.35,1.65,4.25
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2008,2.26,4.4,4.1,4.9
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2008,2.45,4.85,3.05,9.05
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2008,1.24,4.2,3.2,5
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2008,1.68,2.6,2.1,4
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2008,NA,1.35,1.5,3.65
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2008,'0.7,1.45,1.1,3.9
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2008,2.63,4.8,4.4,6.9
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2008,2.68,4.4,NA,5.9
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2008,1.1,6.8,5,8.9
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2008,'0.6,3.05,NA,6.2
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2008,2.62,3.5,3,6.4
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2008,NA,11,10.5,9.8
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2007,3.8,5,4.9,7.7
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2007,'0.73,4.53,3.07,7.4
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2007,'0.11,1.1,'0.9,5.7
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,2007,24.22,27.6,NA,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2007,3.79,5.56,5.34,7.54
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2007,7.29,6.8,5.5,9.45
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2007,2.51,6.83,5.4,11.92
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2007,'0.56,3.71,3.2,7.25
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2007,7.06,10.43,10.05,10.9
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2007,'0.2,1.5,1.25,4.65
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2007,6.73,6.5,4.23,11.39
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2007,1.1,2.35,2,4.2
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2007,2.34,4.24,3.57,6
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2007,8.17,12.02,10.25,12.65
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2007,1.35,2.31,2.05,4.55
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2007,3.05,4.18,4.12,5
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2007,NA,4.9,4.11,8.25
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2007,'0.28,4.33,3.9,4.7
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2007,3.39,2.2,2.6,3.05
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2007,3.65,5,'0.85,3.55
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2007,'0.61,1.38,1.45,2.1
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2007,2.5,4.63,4.3,6.2
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2007,4.28,5.3,4.18,5.7
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2007,4.83,6.86,6.65,8.8
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2007,'0.31,NA,2.56,NA
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2007,'0.56,3.21,2.95,7.7
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2007,NA,11.39,10.73,13.3
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2006,3.45,5.73,4,7.84
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2006,'0.66,5.1,2.55,6.8
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2006,1,NA,'0.85,5.56
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,2006,25.5,28.7,13.15,25.32
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2006,3.57,5.24,4.74,6.28
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2006,7.63,7.15,5.7,8.8
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2006,1.74,5.95,5.9,14.76
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2006,'0.76,3.29,2.35,4.79
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2006,8.49,6.55,9.75,NA
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2006,'0.38,3.17,'0.84,3.23
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2006,6.54,4.83,4.72,8.27
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2006,1.37,2.25,2,3.48
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2006,2.69,1.4,2.65,NA
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2006,10.27,10.07,9.15,12.06
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2006,1.22,2.58,1.45,4.1
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2006,3.38,4,4,4.7
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2006,2.53,4.94,2.25,7.77
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2006,'0.63,4.43,1.44,4.55
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2006,1.36,3.6,2.31,3.92
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2006,'0.85,'0.71,1.05,3.66
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2006,'0.8,2.4,'0.65,2.88
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2006,2.7,4.62,3.45,5.74
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2006,3.1,3.98,3.58,7.94
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2006,6.28,3.72,5.65,7.82
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2006,1.15,2.27,NA,6.95
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2006,2.07,3.53,2.69,5.1
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2006,11.72,10.85,10.8,12.2
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2005,2.09,5.34,2.93,9.24
+MP,Mandla,Nainpur,Nainpur,22.51944444,80.19888889,Dithori,"Dug Well",W20065,2005,'0.31,5.34,'0.92,7.32
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2005,1.02,1.25,'0.86,5.15
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,2005,NA,23.6,24.4,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2005,3.39,5.74,4.46,7.37
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2005,2.32,8.8,3.55,9.7
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2005,2.9,6.1,5.38,12.97
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2005,'0.83,3.8,1.91,5.9
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2005,8.1,10.2,9.5,10.9
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2005,'0.45,2.9,1.22,3.47
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2005,1.25,8.38,2.48,11.39
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2005,1.29,2.34,2.15,4.05
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2005,'0.5,2.4,1.52,5.5
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2005,NA,11.08,9.49,13.15
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2005,'0.89,2.05,1.49,4.25
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2005,5.45,4.35,3.94,5.52
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2005,NA,5.4,3.08,9.19
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2005,'0.8,4.9,2.9,5.16
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2005,1.3,2.92,3.3,4.1
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2005,'0.55,'0.95,'0.92,3.8
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2005,'0.9,2.33,'0.97,4.05
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2005,2.7,4.6,3.77,6.5
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2005,2.65,4.7,NA,6.1
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2005,3.47,7.05,3.45,8.75
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2005,'0.8,2.65,1.58,5.45
+MP,Mandla,Nainpur,Nainpur,22.5125,80.04833333,Pindrai,"Dug Well",W20507,2005,1.87,NA,2.74,NA
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2005,NA,11.2,10.43,12.8
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2004,2.22,NA,3.68,8.2
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2004,'0.99,2.14,2,3.9
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2004,'0.92,4.96,'0.85,5.15
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,2004,NA,NA,18.2,25.6
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2004,2.07,5.58,5.04,7.14
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2004,3.79,6.2,5.27,9.4
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2004,7.58,6.67,2.25,14.45
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2004,'0.91,4.6,2.7,6.62
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2004,8.37,10.1,NA,10.9
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2004,'0.74,1.45,1.07,4.35
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2004,1.54,8.68,6.88,11.39
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2004,1.48,2.54,2.93,5.2
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2004,9.43,10.35,10.05,NA
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2004,NA,9.09,NA,NA
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2004,1.04,2.3,1.05,4.81
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2004,2.98,4.26,4.09,5.2
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2004,1.31,5,3.15,6.95
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2004,'0.16,4.1,3.53,6.9
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2004,1.22,2.52,3.12,3.2
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2004,'0.51,1.25,1.9,3.85
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2004,'0.66,1.6,1.06,2.85
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2004,2.14,4.4,3.75,6.4
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2004,2.48,4.5,3.11,6.45
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2004,1.08,6.05,3.87,4.4
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2004,'0.77,2.44,2.95,5.4
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2004,NA,10.85,10.43,12.4
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2003,8.8,NA,NA,NA
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2003,'0.8,3.27,1.68,4.71
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2003,'0.15,1.76,'0.83,5.48
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,2003,1.55,NA,24.66,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2003,2.05,5.12,4.66,7.66
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2003,5.3,9.07,NA,10.94
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2003,1.85,7.56,5.75,10.53
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2003,'0.8,4.82,2.48,6.89
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2003,8.35,9.91,9.57,10.42
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2003,'0.25,NA,1.21,2.99
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2003,2.1,4.05,2.5,NA
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2003,'0.2,3.38,1.21,5.4
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2003,8.95,10.88,8.31,12.25
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2003,8.97,10.33,8.92,12.02
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2003,1.05,3.41,1.31,7.13
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2003,2.6,4.42,4,5.27
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2003,'0.6,3,2.36,8
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2003,'0.35,4.12,3.02,4.77
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2003,'0.4,3.62,2.8,4.77
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2003,'0.3,'0.86,1.19,2.97
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2003,'0.6,1.65,'0.68,3.32
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2003,1.55,4.86,3.51,6.76
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2003,'0.93,4.12,3.59,6.42
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2003,1.95,6.02,1.88,8.03
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2003,'0.1,3.07,1.56,NA
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2003,10.9,NA,5.11,10.32
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2002,NA,3.8,NA,1.64
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2002,NA,11.2,10.89,NA
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2002,'0.5,3.4,'0.94,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,2002,13.5,13.4,NA,27.37
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2002,3.34,5.64,5.06,6.95
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2002,9.05,6.75,2.83,8.54
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2002,4.1,4.3,7.29,8.7
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2002,'0.34,3.7,2.91,6.32
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2002,'0.05,9.1,9.79,10.24
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2002,1.07,1.4,1.63,2.68
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2002,6.6,6.23,1.71,NA
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2002,NA,3.4,1.63,5.49
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2002,9.21,9.65,9.58,11.62
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2002,9.67,9.1,9.8,10.77
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2002,1.33,2.45,2.05,6.63
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2002,2.14,3.8,4.02,4.95
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2002,2.05,5.65,1.4,7.69
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2002,'0.32,4.4,3.01,5.71
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2002,2.52,3.9,2.96,3.17
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2002,'0.26,'0.55,2.39,2.73
+MP,Mandla,Narayanganj,Narayanganj,22.81944444,80.23277778,Malara,"Dug Well",W00916,2002,NA,NA,1.46,NA
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2002,'0.4,1.5,'0.91,2.69
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2002,1.95,4.5,3.74,6.31
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2002,3.01,4.6,3.74,6.26
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2002,2.76,7,1.61,7.78
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2002,'0.11,3.15,1.48,5.57
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2002,'0.78,2.2,2.27,3.88
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2001,7.69,9.5,8.51,12.7
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2001,1.18,2.13,2.04,3.95
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2001,9.71,11.6,4.64,11.3
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2001,'0.72,4.18,1.74,6.2
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2001,'0.41,3.73,3,5.5
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2001,1.83,4.3,3.76,6.4
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2001,'0.97,9.21,5.05,10.4
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2001,1.85,4.88,4.66,6.36
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2001,'0.77,NA,6.25,8.58
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2001,'0.18,1.49,'0.68,3.4
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2001,'0.17,2.04,'0.41,5.6
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2001,'0.17,1.63,2.18,4.91
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2001,NA,2.14,1.45,4.31
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2001,2.08,5.69,5.07,6.64
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2001,3.26,3.35,3.32,4.1
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2001,7.83,10.15,9.63,9.8
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2001,'0.41,4.3,3.25,4.5
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2001,'0.53,1.6,1.54,1.87
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2001,'0.85,6.13,2.28,9.5
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2001,'0.56,3.8,3.08,4.58
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2001,2.56,4.48,3.85,4.82
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,2001,NA,25.3,24.45,20.5
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2001,'0.7,4.21,2.03,6.81
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2001,1.96,10.4,3.24,7.96
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2001,8.2,9.56,8.04,10.9
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2001,'0.99,3.39,1.29,4.45
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,2000,1.05,1.91,2.04,2.8
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,2000,'0.95,3.27,1.97,4.35
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,2000,2.78,3.62,3.5,5.55
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,2000,NA,NA,3.4,NA
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,2000,2.4,4.01,4.26,5.75
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,2000,1.4,1.31,1.14,2.64
+MP,Mandla,Narayanganj,Narayanganj,22.81944444,80.23277778,Malara,"Dug Well",W00916,2000,8.4,NA,NA,NA
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,2000,1,'0.96,'0.95,3.75
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,2000,1.4,2.76,3.08,3.73
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,2000,1.45,4.07,3.87,5.1
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,2000,2.45,4.54,4.55,8.55
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,2000,2.96,3.92,3.9,4.5
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,2000,1.46,3.22,2.67,6.33
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,2000,8.4,8.23,9,10.11
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,2000,'0.6,1.4,2.36,5.2
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,2000,2.4,7.1,6.37,8.93
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,2000,'0.87,2.87,2.71,NA
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,2000,8.6,9.89,10.02,10.3
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,2000,1.4,5.79,2.99,4.88
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,2000,5,5.06,6.48,8.4
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,2000,3.98,5.89,8.27,8.95
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,2000,3.56,5.58,7.53,6.19
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,2000,NA,NA,25.24,NA
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,2000,NA,1.11,1.1,NA
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,2000,NA,6.15,8.25,12.1
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,2000,'0.68,2.24,1.52,1.42
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,2000,NA,NA,9.03,NA
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,1999,1.02,4.22,2.11,4.86
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,1999,1.11,4.48,2.18,7.21
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,1999,'0.86,'0.97,1.25,2.28
+MP,Mandla,Narayanganj,Narayanganj,22.81944444,80.23277778,Malara,"Dug Well",W00916,1999,NA,2.31,NA,NA
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,1999,'0.49,1.02,'0.64,3.98
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,1999,2.13,3.38,3.34,5.61
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,1999,1.81,4.56,1.62,6.2
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,1999,1.02,3.46,3.04,4.93
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,1999,1.06,1.83,1.72,2.96
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,1999,'0.38,1.55,'0.99,2.41
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,1999,NA,4.06,5.02,11.63
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,1999,NA,12.32,'0.89,4.4
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,1999,3.42,5.65,4.52,6.45
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,1999,6.01,6.03,3.8,8.6
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,1999,5.21,5.86,3.24,7.98
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,1999,1.02,7.53,2.26,NA
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,1999,8.79,9.88,9.01,10.21
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,1999,'0.03,2.21,1.07,4.23
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,1999,1.91,7.37,NA,8.87
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,1999,1.21,1.64,3.94,1.7
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,1999,8.27,8.43,7.13,10.06
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,1999,1.67,3.2,'0.73,6.5
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,1999,3.42,3.97,2.04,4.75
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,1999,1.32,2.87,2.34,4.04
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,1998,'0.47,1.37,3.14,4.04
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,1998,'0.83,1.95,2.42,3.68
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,1998,1.12,1.87,2.03,4.13
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,1998,'0.67,'0.88,'0.79,2.1
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,1998,2.46,3.09,3.23,5.03
+MP,Mandla,Niwas,Niwas,23.03916667,80.43944444,Niwas-d,"Bore Well",W00919,1998,NA,NA,87.41,NA
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,1998,1.17,1.84,2.58,4.61
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,1998,1.01,1.58,3.42,3.9
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,1998,'0.8,1.65,1.89,2.14
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,1998,'0.41,'0.76,1.22,2.6
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,1998,10.76,3.61,2.92,5.76
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,1998,'0.5,'0.42,1.58,2.45
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.66666667,Bichhia,"Bore Well",W00276,1998,NA,NA,24.3,NA
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,1998,3.65,3.76,4.4,6.16
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,1998,3.61,4.53,5.17,6.64
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,1998,4.46,3.55,2.39,6.31
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,1998,1.16,1.76,3.08,5.71
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,1998,8.5,9.08,9.58,10.07
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,1998,'0.11,1.95,2.26,3.24
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,1998,5.79,5.67,6.32,9.05
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,1998,NA,'0.82,1.59,3.1
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,1998,7.67,7.79,6.97,10.76
+MP,Mandla,Mandla,Mandla,22.61111111,80.36888889,Mandla-d,"Bore Well",W00906,1998,NA,NA,7.7,NA
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,1998,2.43,1.77,2.28,4.91
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,1998,3.6,3.78,3.71,4.78
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,1998,1.99,2.88,2.87,5.9
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,1997,3.7,5.05,4.76,7.09
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,1997,1.13,2.95,3.02,5.05
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,1997,NA,1.24,'0.66,2.8
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,1997,3.45,4.04,2.28,5.1
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,1997,1.35,1.2,2.14,4.4
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,1997,1.35,1.2,2.07,7.25
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,1997,6.65,6.1,2.42,8.1
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,1997,10.1,9.01,9.47,11.83
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,1997,12.7,11.01,2.81,12.5
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,1997,'0.65,1.05,2.09,5.18
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,1997,'0.55,2.12,2.61,4.12
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,1997,2.6,8.28,6.72,12.06
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,1997,1,1.82,1.19,2.05
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,1997,'0.8,1.25,1.77,4.95
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,1997,NA,3.81,3.6,6.05
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,1997,8.85,9.05,8.74,10.3
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,1997,'0.95,1.26,2.58,3.45
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,1997,1.95,3.85,2.72,9.2
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,1997,1.35,1.9,1.78,3.2
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,1997,5.6,4.11,2.21,8.5
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,1997,1.45,1.75,3.17,5.95
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,1997,8.2,5.95,5.42,9.15
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,1997,2.7,4.11,2.24,8.95
+MP,Mandla,Nainpur,Nainpur,22.42777778,80.10972222,Nainpur,"Dug Well",W00911,1996,'0.35,2.05,3,8
+MP,Mandla,Mandla,Mandla,22.61388889,80.52083333,Ramnagar1,"Dug Well",W00910,1996,3.35,NA,4.85,7.91
+MP,Mandla,Mandla,Mandla,22.60833333,80.47055556,"Pathiri patpara","Dug Well",W00909,1996,3,4.52,3.97,4.76
+MP,Mandla,Mandla,Mandla,22.55,80.41027778,"Padmi choraha","Dug Well",W00908,1996,2.47,2.97,1,6.25
+MP,Mandla,Mandla,Mandla,22.6,80.36888889,Mandla1,"Dug Well",W00905,1996,10.35,9.06,9.15,11.3
+MP,Mandla,Mandla,Mandla,22.68472222,80.47694444,"Mahania patpara","Dug Well",W00904,1996,'0.4,2.94,1.22,5.5
+MP,Mandla,Mawai,Mawai,22.34527778,80.90333333,Motinala,"Dug Well",W00760,1996,7.53,4.24,8.5,9.16
+MP,Mandla,Narayanganj,Narayanganj,22.88277778,80.41444444,Babaliya,"Dug Well",W00282,1996,'0.2,NA,1,2.51
+MP,Mandla,Nainpur,Nainpur,22.48638889,80.37027778,Bamhni,"Dug Well",W00281,1996,8.5,3.3,9.37,10.25
+MP,Mandla,Nainpur,Nainpur,22.49361111,80.50916667,Anjania,"Dug Well",W00280,1996,'0.9,3.05,3.24,7
+MP,Mandla,Mandla,Mandla,22.7125,80.34166667,Gwari,"Dug Well",W00279,1996,4.8,7.93,4.2,7.33
+MP,Mandla,Bichhiya,Bichhiya,22.45166667,80.7,Bichhia1,"Dug Well",W00277,1996,5.04,4.77,4.74,6.7
+MP,Mandla,Mohgaon,Mohgaon,22.76111111,80.59722222,Indira,"Dug Well",W00162,1996,'0.7,NA,1,4.4
+MP,Mandla,Mohgaon,Mohgaon,22.67777778,80.69,Ghugari,"Dug Well",W00161,1996,NA,NA,11.1,12.2
+MP,Mandla,Mohgaon,Mohgaon,22.825,80.7,Chabi,"Dug Well",W00160,1996,'0.6,1.91,1.5,4.2
+MP,Mandla,Mandla,Mandla,22.79277778,80.41111111,Khari,"Dug Well",W00903,1996,'0.65,1.7,1.6,2.75
+MP,Mandla,Bijadandi,Bijadandi,22.91888889,80.19722222,Kalpi,"Dug Well",W00902,1996,'0.95,1.55,1.35,5.15
+MP,Mandla,Bichhiya,Bichhiya,22.42611111,80.77722222,Sijhora,"Dug Well",W00901,1996,4.95,3.65,5.65,7.5
+MP,Mandla,Niwas,Niwas,23.03916667,80.44222222,Niwas,"Dug Well",W00918,1996,2.4,NA,3.32,5.58
+MP,Mandla,Niwas,Niwas,23.09166667,80.5,Manikpur,"Dug Well",W00917,1996,'0.55,NA,'0.6,2.45
+MP,Mandla,Narayanganj,Narayanganj,22.86944444,80.22222222,Kudomaili,"Dug Well",W00915,1996,'0.75,2.13,1.4,2.95
+MP,Mandla,Nainpur,Nainpur,22.40583333,80.24722222,Rampuri,"Dug Well",W00914,1996,'0.9,2.98,2.6,4
+MP,Mandla,Mandla,Mandla,22.73916667,80.525,Devgaon,"Dug Well",W00278,1996,6.85,5.45,5.25,8.9

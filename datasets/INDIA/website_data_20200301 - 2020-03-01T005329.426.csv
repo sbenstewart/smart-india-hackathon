@@ -1,0 +1,393 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2018,NA,NA,NA,31.26
+PB,Sangrur,"Maler Kotla","Malerkotla- I",30.525,75.9,Malerkotla-DW,"Dug Well",W30256,2018,NA,NA,38.65,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2018,33.82,31.9,NA,NA
+PB,Sangrur,Sunam,Sunam,30.12333333,75.81472222,Sunam-Pz,"Tube Well",W30106,2018,39.03,36.17,NA,NA
+PB,Sangrur,Sangrur,Sangrur,30.19166667,75.675,Longowal-Pz,"Tube Well",W30130,2018,31.8,29.52,NA,NA
+PB,Sangrur,Dhuri,Dhuri,30.37333333,75.85555556,Ladda-Pz,"Tube Well",W30205,2018,36.98,34.75,NA,NA
+PB,Sangrur,Dhuri,Dhuri,30.33777778,75.92472222,Bhojowali-Pz,"Tube Well",W30181,2018,40.4,37.85,NA,NA
+PB,Sangrur,Dhuri,Sherpur,30.42388889,75.77666667,"Ghanauri Kalan-Pz","Tube Well",W30219,2018,42.18,40.97,NA,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.45888889,76.02083333,Bagarian-Pz,"Tube Well",W30233,2018,33.06,31.1,NA,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.5475,76.01694444,Manvi-Pz,"Tube Well",W30269,2018,26.01,23.58,NA,NA
+PB,Sangrur,Sunam,Sunam,30.04583333,75.68277778,Dharamgarh-Pz,"Tube Well",W30076,2018,NA,32.15,NA,NA
+PB,Sangrur,Sangrur,Sangrur,30.16555556,75.85694444,"Kuler Khurd-Pz","Tube Well",W30120,2018,NA,35.25,NA,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.27055556,75.98555556,"Kala Jhar-Pz","Tube Well",W30157,2018,NA,35.6,NA,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98416667,Mehsampur-Pz,"Tube Well",W30185,2018,NA,34.95,NA,NA
+PB,Sangrur,Dhuri,Dhuri,30.34111111,75.75888889,Hassanpur-Pz,"Tube Well",W30182,2018,NA,32.1,NA,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.45777778,76.05138889,"Rampur Channa-Pz","Tube Well",W30232,2018,NA,29.5,NA,NA
+PB,Sangrur,Dhuri,Sherpur,30.52222222,75.70444444,"Panjgaraian- Pz","Tube Well",W30252,2018,NA,40.4,NA,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.56388889,76.01805556,"Rurki Kalan-Pz","Tube Well",W30273,2018,NA,24.7,NA,NA
+PB,Sangrur,Moonak,Amargarh,30.56388889,76.01805556,"Lehal Kalan-Pz","Tube Well",W30274,2018,NA,31.9,NA,NA
+PB,Sangrur,Raikot,"Maler Kotla - Ii",30.63333333,75.67916667,Kalsian,"Tube Well",W30304,2018,NA,30.55,NA,NA
+PB,Sangrur,Moonak,Lehragaga,29.98,75.86944444,Sekhwas-PZ,"Tube Well",W33524,2018,NA,27.9,NA,NA
+PB,Sangrur,Moonak,Lehragaga,29.98277778,75.805,Kokahar-PZ,"Tube Well",W33525,2018,NA,27.65,NA,NA
+PB,Sangrur,Sunam,Sunam,30.02166667,75.97777778,"Kheri Naran-PZ","Tube Well",W33529,2018,NA,34.95,NA,NA
+PB,Sangrur,Sunam,Sunam,30.06805556,75.88333333,"Chatha Nanhera-PZ","Tube Well",W33531,2018,NA,30.05,NA,NA
+PB,Sangrur,Sunam,Sunam,30.09222222,75.78333333,Bakshiwala-PZ,"Tube Well",W33533,2018,NA,35.3,NA,NA
+PB,Sangrur,Sangrur,Sangrur,30.2375,75.90694444,Khurni-PZ,"Tube Well",W33541,2018,NA,36.65,NA,NA
+PB,Sangrur,Sunam,Bhawanigarh,30.15,75.99166667,"Khanpur Fakiran-PZ","Tube Well",W33537,2018,NA,32.35,NA,NA
+PB,Sangrur,Dhuri,Dhuri,30.35416667,75.94583333,Bhunerheri-PZ,"Tube Well",W33549,2018,NA,39.7,NA,NA
+PB,Sangrur,Dhuri,Dhuri,30.37083333,75.79722222,"Rajo Majra-PZ","Tube Well",W33550,2018,NA,32.6,NA,NA
+PB,Sangrur,Sunam,Sherpur,30.31805556,75.72361111,"Kila Hakima","Tube Well",W33546,2018,NA,28.6,NA,NA
+PB,Sangrur,Dhuri,Sherpur,30.47361111,75.77083333,Rurgarh-PZ,"Tube Well",W33558,2018,NA,43.65,NA,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.54611111,75.69555556,Bopla-PZ,"Tube Well",W33563,2018,NA,40.7,NA,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.5575,75.80555556,"Sekhpur Khurd-PZ","Tube Well",W33564,2018,NA,38.25,NA,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.57222222,75.82083333,Sikandarpur-PZ,"Tube Well",W33565,2018,NA,40.7,NA,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra 1","Tube Well",W30162,2018,NA,32.54,33.75,NA
+PB,Sangrur,Sangrur,Sangrur,30.25416667,75.825,"Badrukhan (m)","Tube Well",W30148,2018,NA,NA,36.97,NA
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2018,31.31,29.66,NA,NA
+PB,Sangrur,Sunam,Sunam,30.04583333,75.68277778,Dharamgarh-Pz,"Tube Well",W30076,2017,NA,28.45,30.35,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.54611111,75.69555556,Bopla-PZ,"Tube Well",W33563,2017,NA,37.6,NA,NA
+PB,Sangrur,Sunam,Sunam,30.12333333,75.81472222,Sunam-Pz,"Tube Well",W30106,2017,36.43,34.75,36.21,34.97
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2017,31.05,28.16,30.48,28.38
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2017,32.39,30.82,32.57,30.7
+PB,Sangrur,Dhuri,Dhuri,30.37333333,75.85555556,Ladda-Pz,"Tube Well",W30205,2017,35.65,33.51,35.28,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.27055556,75.98555556,"Kala Jhar-Pz","Tube Well",W30157,2017,NA,30.7,34.25,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98416667,Mehsampur-Pz,"Tube Well",W30185,2017,NA,33.85,35.05,NA
+PB,Sangrur,Dhuri,Dhuri,30.34111111,75.75888889,Hassanpur-Pz,"Tube Well",W30182,2017,NA,30.6,33.3,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.45777778,76.05138889,"Rampur Channa-Pz","Tube Well",W30232,2017,NA,28.1,30.7,NA
+PB,Sangrur,Dhuri,Sherpur,30.52222222,75.70444444,"Panjgaraian- Pz","Tube Well",W30252,2017,NA,38.7,41.4,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.56388889,76.01805556,"Rurki Kalan-Pz","Tube Well",W30273,2017,NA,23.4,25.4,NA
+PB,Sangrur,Moonak,Amargarh,30.56388889,76.01805556,"Lehal Kalan-Pz","Tube Well",W30274,2017,NA,28.55,31.35,NA
+PB,Sangrur,Raikot,"Maler Kotla - Ii",30.63333333,75.67916667,Kalsian,"Tube Well",W30304,2017,NA,29.15,23.75,NA
+PB,Sangrur,Moonak,Lehragaga,29.98,75.86944444,Sekhwas-PZ,"Tube Well",W33524,2017,NA,25.05,27.75,NA
+PB,Sangrur,Moonak,Lehragaga,29.98277778,75.805,Kokahar-PZ,"Tube Well",W33525,2017,NA,25.3,26.75,NA
+PB,Sangrur,Sunam,Sunam,30.02166667,75.97777778,"Kheri Naran-PZ","Tube Well",W33529,2017,NA,31.6,34.35,NA
+PB,Sangrur,Sunam,Sunam,30.06805556,75.88333333,"Chatha Nanhera-PZ","Tube Well",W33531,2017,NA,28,29.2,NA
+PB,Sangrur,Sunam,Sunam,30.09222222,75.78333333,Bakshiwala-PZ,"Tube Well",W33533,2017,NA,32.85,34.75,NA
+PB,Sangrur,Sangrur,Sangrur,30.2375,75.90694444,Khurni-PZ,"Tube Well",W33541,2017,NA,33.5,36.05,NA
+PB,Sangrur,Sunam,Bhawanigarh,30.15,75.99166667,"Khanpur Fakiran-PZ","Tube Well",W33537,2017,NA,30.55,32.05,NA
+PB,Sangrur,Dhuri,Dhuri,30.35416667,75.94583333,Bhunerheri-PZ,"Tube Well",W33549,2017,NA,35.4,39.6,NA
+PB,Sangrur,Dhuri,Dhuri,30.37083333,75.79722222,"Rajo Majra-PZ","Tube Well",W33550,2017,NA,31,35.7,NA
+PB,Sangrur,Sunam,Sherpur,30.31805556,75.72361111,"Kila Hakima","Tube Well",W33546,2017,NA,27,29.3,NA
+PB,Sangrur,Dhuri,Sherpur,30.47361111,75.77083333,Rurgarh-PZ,"Tube Well",W33558,2017,NA,41.85,44,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.5575,75.80555556,"Sekhpur Khurd-PZ","Tube Well",W33564,2017,NA,37.2,38.7,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.57222222,75.82083333,Sikandarpur-PZ,"Tube Well",W33565,2017,NA,39.55,41.15,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra 1","Tube Well",W30162,2017,32.66,30.2,32.34,30.34
+PB,Sangrur,Sangrur,Sangrur,30.19166667,75.675,Longowal-Pz,"Tube Well",W30130,2017,29.9,28.15,29.42,28.48
+PB,Sangrur,Dhuri,Dhuri,30.33777778,75.92472222,Bhojowali-Pz,"Tube Well",W30181,2017,39.7,35.1,38.52,35.6
+PB,Sangrur,Dhuri,Sherpur,30.42388889,75.77666667,"Ghanauri Kalan-Pz","Tube Well",W30219,2017,41.37,39.6,41.14,40.64
+PB,Sangrur,"Maler Kotla",Amargarh,30.45888889,76.02083333,Bagarian-Pz,"Tube Well",W30233,2017,31.33,30,31.05,32.72
+PB,Sangrur,"Maler Kotla",Amargarh,30.5475,76.01694444,Manvi-Pz,"Tube Well",W30269,2017,24.44,23.8,23.8,23.07
+PB,Sangrur,"Maler Kotla","Malerkotla- I",30.525,75.9,Malerkotla-DW,"Dug Well",W30256,2017,38.33,37.12,38.19,37.74
+PB,Sangrur,Moonak,Lehragaga,29.84166667,75.85,Balang-PZ,"Tube Well",W33521,2017,NA,31.35,NA,NA
+PB,Sangrur,Moonak,Lehragaga,29.9375,75.96666667,"Patiala Kalan-PZ","Tube Well",W33523,2017,NA,35.05,NA,NA
+PB,Sangrur,Sangrur,Sangrur,30.21527778,75.86388889,Ghaghlo-PZ,"Tube Well",W33540,2017,NA,35.2,NA,NA
+PB,Sangrur,Sangrur,Sangrur,30.16555556,75.85694444,"Kuler Khurd-Pz","Tube Well",W30120,2017,NA,32.85,34.75,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2016,30.87,NA,30.54,29.04
+PB,Sangrur,Sunam,Bhawanigarh,30.15,75.99166667,"Khanpur Fakiran-PZ","Tube Well",W33537,2016,NA,NA,30.25,NA
+PB,Sangrur,Sunam,Sunam,30.04583333,75.68277778,Dharamgarh-Pz,"Tube Well",W30076,2016,NA,NA,28.8,NA
+PB,Sangrur,Sunam,Sunam,30.12333333,75.81472222,Sunam-Pz,"Tube Well",W30106,2016,34.46,33.43,34.79,33.67
+PB,Sangrur,Sangrur,Sangrur,30.16555556,75.85694444,"Kuler Khurd-Pz","Tube Well",W30120,2016,NA,NA,33.15,NA
+PB,Sangrur,Sangrur,Sangrur,30.19166667,75.675,Longowal-Pz,"Tube Well",W30130,2016,27.96,27.13,28.11,27.29
+PB,Sangrur,Sangrur,Bhawanigarh,30.27055556,75.98555556,"Kala Jhar-Pz","Tube Well",W30157,2016,NA,NA,31.25,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra 1","Tube Well",W30162,2016,NA,29.32,31.09,29.13
+PB,Sangrur,Dhuri,Dhuri,30.33777778,75.92472222,Bhojowali-Pz,"Tube Well",W30181,2016,37.8,33.51,36.6,33.08
+PB,Sangrur,Dhuri,Dhuri,30.34111111,75.75888889,Hassanpur-Pz,"Tube Well",W30182,2016,NA,NA,31.2,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98416667,Mehsampur-Pz,"Tube Well",W30185,2016,NA,NA,33.95,NA
+PB,Sangrur,Dhuri,Dhuri,30.37333333,75.85555556,Ladda-Pz,"Tube Well",W30205,2016,33.41,NA,33.51,NA
+PB,Sangrur,Dhuri,Sherpur,30.42388889,75.77666667,"Ghanauri Kalan-Pz","Tube Well",W30219,2016,43.58,38.57,39.9,38.91
+PB,Sangrur,"Maler Kotla",Amargarh,30.45888889,76.02083333,Bagarian-Pz,"Tube Well",W30233,2016,30.45,29.18,30.48,29.06
+PB,Sangrur,Dhuri,Sherpur,30.52222222,75.70444444,"Panjgaraian- Pz","Tube Well",W30252,2016,NA,NA,39.7,NA
+PB,Sangrur,"Maler Kotla","Malerkotla- I",30.525,75.9,Malerkotla-DW,"Dug Well",W30256,2016,36.93,35.15,NA,34.85
+PB,Sangrur,"Maler Kotla",Amargarh,30.5475,76.01694444,Manvi-Pz,"Tube Well",W30269,2016,23.1,20.94,23.18,19.6
+PB,Sangrur,"Maler Kotla",Amargarh,30.56388889,76.01805556,"Rurki Kalan-Pz","Tube Well",W30273,2016,NA,NA,24.6,NA
+PB,Sangrur,Moonak,Amargarh,30.56388889,76.01805556,"Lehal Kalan-Pz","Tube Well",W30274,2016,NA,NA,28.85,NA
+PB,Sangrur,Raikot,"Maler Kotla - Ii",30.63333333,75.67916667,Kalsian,"Tube Well",W30304,2016,NA,NA,29.15,NA
+PB,Sangrur,Sangrur,Sangrur,30.21527778,75.86388889,Ghaghlo-PZ,"Tube Well",W33540,2016,NA,NA,35.65,NA
+PB,Sangrur,Sangrur,Sangrur,30.2375,75.90694444,Khurni-PZ,"Tube Well",W33541,2016,NA,NA,33.45,NA
+PB,Sangrur,Sunam,Sherpur,30.31805556,75.72361111,"Kila Hakima","Tube Well",W33546,2016,NA,NA,27.4,NA
+PB,Sangrur,Dhuri,Dhuri,30.35416667,75.94583333,Bhunerheri-PZ,"Tube Well",W33549,2016,NA,NA,35.5,NA
+PB,Sangrur,Dhuri,Dhuri,30.37083333,75.79722222,"Rajo Majra-PZ","Tube Well",W33550,2016,NA,NA,30.9,NA
+PB,Sangrur,Dhuri,Sherpur,30.47361111,75.77083333,Rurgarh-PZ,"Tube Well",W33558,2016,NA,NA,41.85,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.54611111,75.69555556,Bopla-PZ,"Tube Well",W33563,2016,NA,NA,37.7,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.5575,75.80555556,"Sekhpur Khurd-PZ","Tube Well",W33564,2016,NA,NA,37.2,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.57222222,75.82083333,Sikandarpur-PZ,"Tube Well",W33565,2016,NA,NA,39.75,NA
+PB,Sangrur,Moonak,Lehragaga,29.84166667,75.85,Balang-PZ,"Tube Well",W33521,2016,NA,NA,31.7,NA
+PB,Sangrur,Moonak,Lehragaga,29.9375,75.96666667,"Patiala Kalan-PZ","Tube Well",W33523,2016,NA,NA,35.7,NA
+PB,Sangrur,Moonak,Lehragaga,29.98,75.86944444,Sekhwas-PZ,"Tube Well",W33524,2016,NA,NA,25.35,NA
+PB,Sangrur,Moonak,Lehragaga,29.98277778,75.805,Kokahar-PZ,"Tube Well",W33525,2016,NA,NA,25.15,NA
+PB,Sangrur,Sunam,Sunam,30.02166667,75.97777778,"Kheri Naran-PZ","Tube Well",W33529,2016,NA,NA,31.8,NA
+PB,Sangrur,Sunam,Sunam,30.06805556,75.88333333,"Chatha Nanhera-PZ","Tube Well",W33531,2016,NA,NA,28.35,NA
+PB,Sangrur,Sunam,Sunam,30.09222222,75.78333333,Bakshiwala-PZ,"Tube Well",W33533,2016,NA,NA,33.1,NA
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2016,28.58,NA,28.66,26.78
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2015,30.61,28.78,29.6,30.74
+PB,Sangrur,Raikot,"Maler Kotla - Ii",30.63333333,75.67916667,Kalsian,"Tube Well",W30304,2015,NA,26.75,28.85,27.1
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2015,25.51,25.66,27.21,25.61
+PB,Sangrur,Sunam,Sunam,30.04583333,75.68277778,Dharamgarh-Pz,"Tube Well",W30076,2015,NA,25.34,25.97,25.58
+PB,Sangrur,Sunam,Sunam,30.12333333,75.81472222,Sunam-Pz,"Tube Well",W30106,2015,33.38,32.2,32.38,32.31
+PB,Sangrur,Sangrur,Sangrur,30.16555556,75.85694444,"Kuler Khurd-Pz","Tube Well",W30120,2015,NA,31.37,32.29,31.72
+PB,Sangrur,Sangrur,Sangrur,30.19166667,75.675,Longowal-Pz,"Tube Well",W30130,2015,26.8,25.89,26.95,25.99
+PB,Sangrur,Sangrur,Sangrur,30.25416667,75.825,"Badrukhan (m)","Tube Well",W30148,2015,NA,31.45,NA,NA
+PB,Sangrur,Sangrur,Sangrur,30.26666667,75.77916667,Mastuana-Pz,"Tube Well",W30151,2015,NA,NA,27.35,26.9
+PB,Sangrur,Sangrur,Bhawanigarh,30.27055556,75.98555556,"Kala Jhar-Pz","Tube Well",W30157,2015,NA,28.79,29.1,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra 1","Tube Well",W30162,2015,29.43,NA,30.17,29.51
+PB,Sangrur,Dhuri,Dhuri,30.33777778,75.92472222,Bhojowali-Pz,"Tube Well",W30181,2015,35.32,32.25,34.1,32.4
+PB,Sangrur,Dhuri,Dhuri,30.34111111,75.75888889,Hassanpur-Pz,"Tube Well",W30182,2015,NA,26.1,26.6,26.22
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98416667,Mehsampur-Pz,"Tube Well",W30185,2015,NA,31.78,32.1,31.86
+PB,Sangrur,Dhuri,Dhuri,30.37333333,75.85555556,Ladda-Pz,"Tube Well",W30205,2015,29.97,30.96,NA,30.16
+PB,Sangrur,Dhuri,Sherpur,30.42388889,75.77666667,"Ghanauri Kalan-Pz","Tube Well",W30219,2015,38.72,37.44,37.6,37.01
+PB,Sangrur,"Maler Kotla",Amargarh,30.45777778,76.05138889,"Rampur Channa-Pz","Tube Well",W30232,2015,NA,25.65,26.25,25.9
+PB,Sangrur,"Maler Kotla",Amargarh,30.45888889,76.02083333,Bagarian-Pz,"Tube Well",W30233,2015,28.01,28.68,30.95,28.05
+PB,Sangrur,Dhuri,Sherpur,30.52222222,75.70444444,"Panjgaraian- Pz","Tube Well",W30252,2015,NA,34.95,35.25,34.78
+PB,Sangrur,"Maler Kotla","Malerkotla- I",30.525,75.9,Malerkotla-DW,"Dug Well",W30256,2015,NA,NA,33.73,34.63
+PB,Sangrur,"Maler Kotla",Amargarh,30.5475,76.01694444,Manvi-Pz,"Tube Well",W30269,2015,37.08,NA,21.1,21.43
+PB,Sangrur,"Maler Kotla",Amargarh,30.56388889,76.01805556,"Rurki Kalan-Pz","Tube Well",W30273,2015,NA,21.3,22,21.78
+PB,Sangrur,Moonak,Amargarh,30.56388889,76.01805556,"Lehal Kalan-Pz","Tube Well",W30274,2015,NA,24.78,25.22,24.85
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2015,34.34,NA,NA,34.34
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2014,NA,26,29.01,26.5
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.54611111,75.69555556,Bapla-Pz,"Tube Well",W32161,2014,30.28,NA,NA,29.86
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2014,24.32,22.75,25.51,23.42
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98472222,"Mehsampur 07pz","Tube Well",W21491,2014,NA,NA,NA,30.03
+PB,Sangrur,Sunam,Sunam,30.04583333,75.68277778,Dharamgarh-Pz,"Tube Well",W30076,2014,24.77,NA,25.28,24.1
+PB,Sangrur,Sunam,Sunam,30.12333333,75.81472222,Sunam-Pz,"Tube Well",W30106,2014,32.23,30.65,32.35,30.75
+PB,Sangrur,Sangrur,Sangrur,30.16555556,75.85694444,"Kuler Khurd-Pz","Tube Well",W30120,2014,29.33,NA,30.87,28.97
+PB,Sangrur,Sangrur,Sangrur,30.19166667,75.675,Longowal-Pz,"Tube Well",W30130,2014,25.99,24.46,25.99,24.6
+PB,Sangrur,Sangrur,Sangrur,30.25416667,75.825,"Badrukhan (m)","Tube Well",W30148,2014,NA,NA,31.65,NA
+PB,Sangrur,Sangrur,Sangrur,30.26666667,75.77916667,Mastuana-Pz,"Tube Well",W30151,2014,26.32,NA,26.82,25.96
+PB,Sangrur,Sangrur,Bhawanigarh,30.27055556,75.98555556,"Kala Jhar-Pz","Tube Well",W30157,2014,28.8,NA,29,28.1
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra 1","Tube Well",W30162,2014,32.2,26.26,29.01,26.83
+PB,Sangrur,Dhuri,Dhuri,30.33777778,75.92472222,Bhojowali-Pz,"Tube Well",W30181,2014,33.86,30.05,33.12,31.27
+PB,Sangrur,Dhuri,Dhuri,30.34111111,75.75888889,Hassanpur-Pz,"Tube Well",W30182,2014,25.6,NA,26.25,25.18
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98416667,Mehsampur-Pz,"Tube Well",W30185,2014,30.72,32.99,NA,NA
+PB,Sangrur,Dhuri,Dhuri,30.37333333,75.85555556,Ladda-Pz,"Tube Well",W30205,2014,NA,28.7,31.12,28.97
+PB,Sangrur,Dhuri,Sherpur,30.42388889,75.77666667,"Ghanauri Kalan-Pz","Tube Well",W30219,2014,36.23,37,37.9,34.85
+PB,Sangrur,"Maler Kotla",Amargarh,30.45777778,76.05138889,"Rampur Channa-Pz","Tube Well",W30232,2014,24.52,NA,25.72,24
+PB,Sangrur,"Maler Kotla",Amargarh,30.45888889,76.02083333,Bagarian-Pz,"Tube Well",W30233,2014,29.67,27.51,28.77,26.78
+PB,Sangrur,Dhuri,Sherpur,30.52222222,75.70444444,"Panjgaraian- Pz","Tube Well",W30252,2014,33.15,NA,34.85,32.79
+PB,Sangrur,"Maler Kotla","Malerkotla- I",30.525,75.9,Malerkotla-DW,"Dug Well",W30256,2014,33.12,31.83,NA,32.3
+PB,Sangrur,"Maler Kotla",Amargarh,30.5475,76.01694444,Manvi-Pz,"Tube Well",W30269,2014,21.48,12.49,NA,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.56388889,76.01805556,"Rurki Kalan-Pz","Tube Well",W30273,2014,18.89,NA,20.55,18.58
+PB,Sangrur,Moonak,Amargarh,30.56388889,76.01805556,"Lehal Kalan-Pz","Tube Well",W30274,2014,24.1,NA,24.92,23.76
+PB,Sangrur,Raikot,"Maler Kotla - Ii",30.63333333,75.67916667,Kalsian,"Tube Well",W30304,2014,26.85,NA,27.35,24.65
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2014,NA,NA,NA,15.09
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2013,27.92,25.39,27.24,25.45
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.54611111,75.69555556,Bapla-Pz,"Tube Well",W32161,2013,NA,NA,NA,29.89
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2013,NA,13.95,NA,NA
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2013,24.3,22.56,23.81,22.74
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98472222,"Mehsampur 07pz","Tube Well",W21491,2013,NA,NA,NA,32.58
+PB,Sangrur,Sunam,Sunam,30.04583333,75.68277778,Dharamgarh-Pz,"Tube Well",W30076,2013,NA,23.79,NA,23.82
+PB,Sangrur,Sunam,Sunam,30.12333333,75.81472222,Sunam-Pz,"Tube Well",W30106,2013,30.75,29.59,30.78,35.03
+PB,Sangrur,Sangrur,Sangrur,30.16555556,75.85694444,"Kuler Khurd-Pz","Tube Well",W30120,2013,NA,28.8,NA,28.95
+PB,Sangrur,Sangrur,Sangrur,30.19166667,75.675,Longowal-Pz,"Tube Well",W30130,2013,24.82,23.73,24.56,23.79
+PB,Sangrur,Sangrur,Bhawanigarh,30.27055556,75.98555556,"Kala Jhar-Pz","Tube Well",W30157,2013,NA,27.15,NA,27.4
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra 1","Tube Well",W30162,2013,27.86,31.77,27.71,26.38
+PB,Sangrur,Dhuri,Dhuri,30.33777778,75.92472222,Bhojowali-Pz,"Tube Well",W30181,2013,33.34,NA,31.7,29.61
+PB,Sangrur,Dhuri,Dhuri,30.34111111,75.75888889,Hassanpur-Pz,"Tube Well",W30182,2013,NA,24.86,NA,24.96
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98416667,Mehsampur-Pz,"Tube Well",W30185,2013,NA,29.8,NA,29.94
+PB,Sangrur,Dhuri,Dhuri,30.37333333,75.85555556,Ladda-Pz,"Tube Well",W30205,2013,29.99,27.78,30.06,27.7
+PB,Sangrur,Dhuri,Sherpur,30.42388889,75.77666667,"Ghanauri Kalan-Pz","Tube Well",W30219,2013,43.89,NA,37.05,38.18
+PB,Sangrur,"Maler Kotla",Amargarh,30.45777778,76.05138889,"Rampur Channa-Pz","Tube Well",W30232,2013,NA,NA,NA,23.32
+PB,Sangrur,"Maler Kotla",Amargarh,30.45888889,76.02083333,Bagarian-Pz,"Tube Well",W30233,2013,27.28,25.91,27.74,NA
+PB,Sangrur,Dhuri,Sherpur,30.52222222,75.70444444,"Panjgaraian- Pz","Tube Well",W30252,2013,NA,NA,NA,32.52
+PB,Sangrur,"Maler Kotla","Malerkotla- I",30.525,75.9,Malerkotla-DW,"Dug Well",W30256,2013,28.86,30.83,32.2,31.19
+PB,Sangrur,"Maler Kotla",Amargarh,30.5475,76.01694444,Manvi-Pz,"Tube Well",W30269,2013,20.15,NA,19.67,21.36
+PB,Sangrur,"Maler Kotla",Amargarh,30.56388889,76.01805556,"Rurki Kalan-Pz","Tube Well",W30273,2013,NA,NA,NA,18.78
+PB,Sangrur,Moonak,Amargarh,30.56388889,76.01805556,"Lehal Kalan-Pz","Tube Well",W30274,2013,NA,23.75,NA,23.88
+PB,Sangrur,Raikot,"Maler Kotla - Ii",30.63333333,75.67916667,Kalsian,"Tube Well",W30304,2013,NA,NA,NA,22.8
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2013,28.86,30.83,32.2,31.19
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2012,NA,24.7,23.92,24.22
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.54611111,75.69555556,Bapla-Pz,"Tube Well",W32161,2012,NA,NA,29.78,NA
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2012,NA,12.49,16.13,12.75
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2012,NA,21.36,23.05,21.79
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98472222,"Mehsampur 07pz","Tube Well",W21491,2012,NA,30.36,32.98,30.62
+PB,Sangrur,Sunam,Sunam,30.04583333,75.68277778,Dharamgarh-Pz,"Tube Well",W30076,2012,NA,NA,23.7,NA
+PB,Sangrur,Sunam,Sunam,30.12333333,75.81472222,Sunam-Pz,"Tube Well",W30106,2012,NA,NA,29.45,NA
+PB,Sangrur,Sangrur,Sangrur,30.16555556,75.85694444,"Kuler Khurd-Pz","Tube Well",W30120,2012,NA,NA,28.72,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.27055556,75.98555556,"Kala Jhar-Pz","Tube Well",W30157,2012,NA,NA,27.12,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra 1","Tube Well",W30162,2012,NA,NA,26.35,NA
+PB,Sangrur,Dhuri,Dhuri,30.34111111,75.75888889,Hassanpur-Pz,"Tube Well",W30182,2012,NA,NA,24.9,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98416667,Mehsampur-Pz,"Tube Well",W30185,2012,NA,NA,29.65,NA
+PB,Sangrur,Dhuri,Dhuri,30.37333333,75.85555556,Ladda-Pz,"Tube Well",W30205,2012,NA,NA,28.27,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.45777778,76.05138889,"Rampur Channa-Pz","Tube Well",W30232,2012,NA,NA,23,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.45888889,76.02083333,Bagarian-Pz,"Tube Well",W30233,2012,NA,NA,26.14,NA
+PB,Sangrur,Dhuri,Sherpur,30.52222222,75.70444444,"Panjgaraian- Pz","Tube Well",W30252,2012,NA,NA,32.25,NA
+PB,Sangrur,"Maler Kotla","Malerkotla- I",30.525,75.9,Malerkotla-DW,"Dug Well",W30256,2012,NA,NA,31.03,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.56388889,76.01805556,"Rurki Kalan-Pz","Tube Well",W30273,2012,NA,NA,18.58,NA
+PB,Sangrur,Moonak,Amargarh,30.56388889,76.01805556,"Lehal Kalan-Pz","Tube Well",W30274,2012,NA,NA,23.64,NA
+PB,Sangrur,Raikot,"Maler Kotla - Ii",30.63333333,75.67916667,Kalsian,"Tube Well",W30304,2012,NA,NA,22.47,NA
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2012,NA,28.61,31.03,29.98
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2011,24.48,22.45,25.17,23.17
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2011,29.25,27.5,29.48,29.15
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98472222,"Mehsampur 07pz","Tube Well",W21491,2011,NA,30.8,NA,29.6
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2011,22.91,20.11,21.85,23.11
+PB,Sangrur,"Maler Kotla",Amargarh,30.38944444,76.02083333,Chhantanwala-07pz,"Tube Well",W21490,2011,NA,23.83,NA,24.8
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2011,13.3,12.25,13.8,12.25
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2010,NA,21.25,NA,22.8
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2010,29.05,27.35,28.43,28.93
+PB,Sangrur,Dhuri,"Malerkotla- I",30.51666667,75.8875,"Malerkotla (d)","Tube Well",W13542,2010,NA,NA,28.43,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98472222,"Mehsampur 07pz","Tube Well",W21491,2010,30.42,29.87,31.01,29.88
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2010,12.5,11.9,12.65,12.23
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2010,21.11,19.27,20.84,19.9
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2010,NA,NA,NA,19.5
+PB,Sangrur,Moonak,Andana,29.7625,76.00972222,Bhulan,"Dug Well",W13546,2010,NA,NA,NA,10.05
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2009,NA,20.19,22.35,20.91
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2009,28.47,26.76,27.08,27.66
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2009,11.95,10.56,12.1,11.25
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2009,20.08,17.18,19.86,18.74
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2009,NA,15.05,NA,NA
+PB,Sangrur,Barnala,Sherpur,30.4375,75.70833333,Sherpur,"Tube Well",W21489,2009,NA,31.95,NA,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.38944444,76.02083333,Chhantanwala-07pz,"Tube Well",W21490,2009,NA,23.61,NA,23.36
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98472222,"Mehsampur 07pz","Tube Well",W21491,2009,30.55,28.57,30.53,27.62
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98472222,"Mehsampur 07pz","Tube Well",W21491,2008,30.22,NA,29.63,28.4
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2008,NA,16.6,NA,17.27
+PB,Sangrur,"Maler Kotla",Amargarh,30.38944444,76.02083333,Chhantanwala-07pz,"Tube Well",W21490,2008,NA,25.1,23.56,23.67
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2008,11.55,9.95,10.9,11.03
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2008,16.02,14.82,NA,15.39
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2008,27.38,26.23,27.23,26.75
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2008,NA,19.02,20.54,18.83
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2008,18.38,17.04,17.74,17.09
+PB,Sangrur,Barnala,Sherpur,30.4375,75.70833333,Sherpur,"Tube Well",W21489,2008,NA,NA,NA,30.64
+PB,Sangrur,Sangrur,Bhawanigarh,30.34583333,75.98472222,"Mehsampur 07pz","Tube Well",W21491,2007,NA,NA,29.29,NA
+PB,Sangrur,"Maler Kotla",Amargarh,30.38944444,76.02083333,Chhantanwala-07pz,"Tube Well",W21490,2007,NA,NA,24.65,NA
+PB,Sangrur,Barnala,Sherpur,30.4375,75.70833333,Sherpur,"Tube Well",W21489,2007,NA,NA,34.65,NA
+PB,Sangrur,Sunam,Sunam,30.02916667,76.02083333,"Khetla (d)","Tube Well",W21173,2007,NA,22.06,NA,NA
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,2007,NA,18.5,NA,18.45
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2007,16.65,15.05,16.85,15.25
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2007,14.97,13.77,15.37,13.59
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2007,17.61,15.66,21.34,15.8
+PB,Sangrur,Moonak,Lehragaga,29.84722222,75.79166667,Chotian,"Dug Well",W13553,2007,NA,11.65,NA,11.43
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2007,10.46,9.3,12,9.33
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2007,NA,24.13,26.05,24.79
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2007,19.95,NA,18.72,16.6
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2006,6.95,8.25,9.95,8.77
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2006,16.72,14.66,15.73,14.66
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2006,15.46,NA,15.35,14.22
+PB,Sangrur,Moonak,Lehragaga,29.84722222,75.79166667,Chotian,"Dug Well",W13553,2006,NA,NA,11.77,NA
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2006,NA,NA,24.54,23.84
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,2006,18.8,18,17.75,16.97
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2006,13.71,13.82,13.49,12.37
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2006,17.75,16.87,17.22,16.72
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2005,14.36,13.43,14.13,14
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,2005,17.2,16.75,17.34,17.54
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2005,17.7,15.27,15.65,17.07
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2005,8.63,8.32,8.61,8.15
+PB,Sangrur,Moonak,Lehragaga,29.84722222,75.79166667,Chotian,"Dug Well",W13553,2005,11.84,NA,NA,NA
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2005,15.86,14.43,15.16,14.36
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,2005,NA,9.19,NA,NA
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2005,12.92,11.73,12.12,12.12
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,2004,NA,10.9,NA,NA
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,2004,9.65,8.49,9.09,10.95
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2004,NA,14.97,15.53,14.87
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2004,9.65,7.75,8.32,7.56
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2004,15.02,13.44,14.52,13.72
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2004,NA,NA,11.6,10.92
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,2004,17,12.61,NA,15.35
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2004,13.45,12.37,13.4,12.71
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,2004,16.86,15.85,16.98,15.8
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2004,NA,16.53,NA,22.23
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2003,NA,NA,14.51,14.27
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2003,7.35,6.95,7.27,7.08
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,2003,11.25,11.1,11.43,NA
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,2003,15.3,15.15,15.3,15.11
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2003,19.78,20.58,21.83,21.38
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,2003,8.1,8.25,8.75,8.32
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2003,11.3,11.22,12.31,11.67
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2003,13.01,12.96,14.21,13.36
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,2003,13.8,13.65,14.25,NA
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2003,9.82,9.48,10.63,9.91
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2002,6.75,5.88,7.11,6.05
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2002,9.76,NA,9.58,7.7
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,2002,8.39,7.45,8.34,7.65
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2002,20.72,19.31,20.73,20.28
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2002,11.5,9.94,11.42,10.2
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,2002,NA,9.41,11.3,9.7
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,2002,15.02,14.36,15.22,13.55
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,2002,NA,13.48,13.9,14.3
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2002,13.63,NA,13.06,11.66
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2002,14.2,NA,14.62,11.92
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,2001,14.57,12.5,13.5,13.71
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2001,5.63,5.15,5.6,5.45
+PB,Sangrur,Moonak,Andana,29.7625,76.00972222,Bhulan,"Dug Well",W13546,2001,10.03,9.47,NA,9.7
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.67083333,75.87916667,Akarpura,"Dug Well",W13545,2001,NA,9.25,NA,NA
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2001,18.93,NA,19.44,19.38
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2001,NA,11.42,NA,NA
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,2001,13.7,12.1,13.25,12.35
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2001,9.74,8.58,9.88,9.35
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,2001,7.85,7.02,8.06,NA
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,2001,NA,8.42,9.7,9
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,2001,7.22,6.7,7.45,7.1
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2001,11.75,10.16,11.46,NA
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,2000,6.25,5.8,5.15,5.75
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,2000,8.9,8.15,NA,8.18
+PB,Sangrur,Moonak,Andana,29.7625,76.00972222,Bhulan,"Dug Well",W13546,2000,8,7.6,8.3,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.67083333,75.87916667,Akarpura,"Dug Well",W13545,2000,NA,9.37,NA,NA
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,2000,18.13,NA,18.68,17.86
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,2000,NA,7.58,NA,NA
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,2000,9.36,NA,NA,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,2000,14.9,NA,NA,NA
+PB,Sangrur,Sunam,Sunam,30.10833333,75.98333333,Dndolikhurd,"Dug Well",W13567,2000,8.36,7.68,NA,7.63
+PB,Sangrur,Moonak,Andana,29.83333333,75.87777778,Haryao,"Dug Well",W13548,2000,4.6,NA,5.15,NA
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,2000,14.15,11.66,12.7,13.24
+PB,Sangrur,Moonak,Lehragaga,29.84722222,75.79166667,Chotian,"Dug Well",W13553,2000,5.4,6.46,NA,6.62
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,2000,13.5,10.55,11.2,11.05
+PB,Sangrur,Sangrur,Bhawanigarh,30.16666667,76.00138889,"Akbar Pur M","Tube Well",W13562,2000,15.13,NA,NA,NA
+PB,Sangrur,Sunam,Sunam,30.10833333,75.98333333,Dndolikhurd,"Dug Well",W13567,1999,7.22,6.56,7.66,6.76
+PB,Sangrur,Moonak,Lehragaga,29.84722222,75.79166667,Chotian,"Dug Well",W13553,1999,5.04,4.14,6.25,4.7
+PB,Sangrur,Moonak,Andana,29.81111111,75.98055556,Mandevi,"Dug Well",W13552,1999,10.35,NA,NA,7.04
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,1999,8,6.71,7.81,7.18
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,1999,9.8,9.9,11,NA
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,1999,6.7,5.8,6.8,NA
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,1999,13.1,10.65,11.75,NA
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,1999,8.08,5.95,7.46,NA
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,1999,16.78,16.78,NA,17.03
+PB,Sangrur,Moonak,Andana,29.7625,76.00972222,Bhulan,"Dug Well",W13546,1999,8.69,4.71,7.61,NA
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,1999,5.9,4.08,5.55,4.35
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,1999,7.52,6.65,11.45,9.1
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,1999,8.96,6.8,9.11,NA
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.67083333,75.87916667,Akarpura,"Dug Well",W13545,1999,8,NA,8.9,9.33
+PB,Sangrur,Sangrur,Bhawanigarh,30.16666667,76.00138889,"Akbar Pur M","Tube Well",W13562,1999,NA,NA,13.96,NA
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,1998,8.02,6.45,7.6,NA
+PB,Sangrur,Sangrur,Bhawanigarh,30.16666667,76.00138889,"Akbar Pur M","Tube Well",W13562,1998,11.76,11.46,NA,NA
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,1998,9.08,-1.07,8.85,8.95
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,1998,6.37,5.79,NA,6.3
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,1998,7.63,6.2,7.6,6.45
+PB,Sangrur,Moonak,Lehragaga,29.93888889,75.79583333,Gaga,"Dug Well",W13557,1998,NA,NA,NA,7.37
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,1998,5.36,3.85,5.1,4.45
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,1998,8.81,7.02,NA,7
+PB,Sangrur,Moonak,Lehragaga,29.84722222,75.79166667,Chotian,"Dug Well",W13553,1998,6.18,4.45,5.55,4.55
+PB,Sangrur,Moonak,Andana,29.81111111,75.98055556,Mandevi,"Dug Well",W13552,1998,9.47,9.27,9.55,9.5
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,1998,11.75,11.34,11.65,11.6
+PB,Sangrur,Moonak,Andana,29.7625,76.00972222,Bhulan,"Dug Well",W13546,1998,8.08,6.17,7.95,8
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.67083333,75.87916667,Akarpura,"Dug Well",W13545,1998,7.89,8.05,7.9,7.95
+PB,Sangrur,Dhuri,Sherpur,30.40833333,75.78333333,"Ghanauri Kalan","Dug Well",W13544,1998,NA,NA,16.7,NA
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,1998,17.53,16.35,17.18,16.63
+PB,Sangrur,Dhuri,Dhuri,30.39861111,75.91388889,Dhandra,"Dug Well",W13540,1998,NA,10.45,10.35,10.4
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,1998,9.47,9.6,NA,9.55
+PB,Sangrur,Sunam,Sunam,30.05,75.825,Chajli,"Dug Well",W13566,1998,NA,10.37,NA,NA
+PB,Sangrur,Sunam,Sunam,30.10833333,75.98333333,Dndolikhurd,"Dug Well",W13567,1998,6.44,7,6.76,7.01
+PB,Sangrur,Sunam,Sunam,30.10833333,75.98333333,Dndolikhurd,"Dug Well",W13567,1997,6.67,6.96,6.53,7.15
+PB,Sangrur,Dhuri,Dhuri,30.39861111,75.91388889,Dhandra,"Dug Well",W13540,1997,NA,10.2,NA,10.53
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,1997,17.12,16.66,16.97,17.17
+PB,Sangrur,Dhuri,"Malerkotla- I",30.51666667,75.8875,"Malerkotla (d)","Tube Well",W13542,1997,NA,NA,268,268
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.67083333,75.87916667,Akarpura,"Dug Well",W13545,1997,8.36,5.65,8.71,8.92
+PB,Sangrur,Moonak,Andana,29.7625,76.00972222,Bhulan,"Dug Well",W13546,1997,8.1,6.22,8.06,8.15
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,1997,11.57,9.61,11.5,11.65
+PB,Sangrur,Moonak,Andana,29.81111111,75.98055556,Mandevi,"Dug Well",W13552,1997,9.48,8.71,9.6,9.52
+PB,Sangrur,Moonak,Lehragaga,29.84722222,75.79166667,Chotian,"Dug Well",W13553,1997,4.85,4.13,4.64,4.53
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,1997,7.13,6.12,7.21,7.18
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,1997,4.41,4.07,4.05,8.73
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,1997,6.56,6.18,6.24,6.66
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,1997,6.11,6.02,5.53,6.24
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,1997,6.78,6.55,6.68,6.86
+PB,Sangrur,Sangrur,Bhawanigarh,30.16666667,76.00138889,"Akbar Pur M","Tube Well",W13562,1997,12.62,NA,12.47,12.78
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,1997,9.19,8.96,9.11,9.31
+PB,Sangrur,Sunam,Sunam,30.05,75.825,Chajli,"Dug Well",W13566,1997,NA,20.72,NA,NA
+PB,Sangrur,Sunam,Sunam,30.10833333,75.98333333,Dndolikhurd,"Dug Well",W13567,1996,NA,7.16,6.83,6.65
+PB,Sangrur,Sunam,Sunam,30.09166667,75.65833333,Birkalan,"Dug Well",W13565,1996,NA,8.4,9.38,8.63
+PB,Sangrur,Dhuri,Dhuri,30.39861111,75.91388889,Dhandra,"Dug Well",W13540,1996,NA,NA,10.63,10.59
+PB,Sangrur,Dhuri,"Malerkotla- I",30.525,75.9,Malerkotla,"Dug Well",W13541,1996,15.43,15.43,17.1,16.04
+PB,Sangrur,Dhuri,"Malerkotla- I",30.51666667,75.8875,"Malerkotla (d)","Tube Well",W13542,1996,NA,268,268,268
+PB,Sangrur,"Maler Kotla","Maler Kotla - Ii",30.67083333,75.87916667,Akarpura,"Dug Well",W13545,1996,3.76,8,8.05,8.39
+PB,Sangrur,Moonak,Andana,29.7625,76.00972222,Bhulan,"Dug Well",W13546,1996,6.72,6.13,6.56,6.61
+PB,Sangrur,Moonak,Andana,29.82361111,76.09722222,"Kachi Khanauri","Dug Well",W13551,1996,13.4,9.35,10.32,10.4
+PB,Sangrur,Moonak,Andana,29.81111111,75.98055556,Mandevi,"Dug Well",W13552,1996,9.78,8.72,9.11,9.04
+PB,Sangrur,Moonak,Lehragaga,29.84722222,75.79166667,Chotian,"Dug Well",W13553,1996,4.68,3.7,4.49,4.33
+PB,Sangrur,Moonak,Lehragaga,29.81944444,75.8,"Chural Kalan M","Tube Well",W13555,1996,5.99,5.2,6.12,6.13
+PB,Sangrur,Moonak,Lehragaga,29.94166667,75.67916667,Daska,"Dug Well",W13556,1996,4.53,3.85,4.09,4.63
+PB,Sangrur,Moonak,Lehragaga,29.96111111,75.75,Ganduan,"Dug Well",W13558,1996,6.52,5.95,6.25,5.7
+PB,Sangrur,Moonak,Lehragaga,29.9625,75.87916667,"Ghorenab (d)","Tube Well",W13559,1996,5.96,5.25,5.97,NA
+PB,Sangrur,Moonak,Lehragaga,29.93194444,75.85833333,Khandebad,"Dug Well",W13561,1996,NA,5.75,6.52,6
+PB,Sangrur,Sangrur,Bhawanigarh,30.16666667,76.00138889,"Akbar Pur M","Tube Well",W13562,1996,NA,13.2,NA,11.81
+PB,Sangrur,Sangrur,Sangrur,30.25416667,75.825,"Badrukhan (d)","Tube Well",W13563,1996,9.85,NA,NA,NA
+PB,Sangrur,Dhuri,Sangrur,30.28611111,75.76111111,"Bugra (main)","Tube Well",W13538,1996,NA,NA,9.44,9.39

@@ -1,0 +1,511 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+HR,Kaithal,Kaithal,Rajound,29.65833333,76.42916667,Jakhauli-Pz,"Tube Well",W22616,2018,15.09,8.96,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.88333333,76.35388889,Siwan-Pz,"Tube Well",W30039,2018,44.57,NA,NA,43.1
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2018,28.03,28.64,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.6875,76.66666667,Sirsal-Pz,"Tube Well",W22615,2018,31.53,27.88,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.74722222,76.41666667,Peoda_Pz,"Tube Well",W22614,2018,16.15,12.76,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2018,30.06,28.75,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2018,22.73,17.44,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2018,10.06,11.74,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2018,8.76,6.51,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.54583333,76.39305556,Kathana-Pz,"Tube Well",W22617,2018,16.87,21.29,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2018,45.24,44.63,NA,NA
+HR,Kaithal,Jind,Rajound,29.51861111,76.48194444,"Dorana Pz","Tube Well",W29982,2018,29.35,34.03,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(s),"Tube Well",W30018,2018,28.9,27.72,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.66138889,Kaul-Pz,"Tube Well",W30027,2018,30.55,29.08,NA,NA
+HR,Kaithal,Gulha,Pundri,29.84722222,76.66138889,Balbehra-Pz,"Tube Well",W30028,2018,36.01,30.48,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.82916667,76.32916667,Manaspatti-Pz,"Tube Well",W30025,2018,41.76,39.84,NA,NA
+HR,Kaithal,Gulha,Kaithal,29.85138889,76.37222222,Khanpur-Pz,"Tube Well",W30031,2018,42.24,38.2,NA,NA
+HR,Kaithal,Gulha,Gulha,29.91416667,76.26055556,"Rasulpur Ghamri-Pz","Tube Well",W30047,2018,45.91,41.9,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2018,NA,NA,22,NA
+HR,Kaithal,Kaithal,Rajound,29.65277778,76.52222222,Bhana-Pz,"Tube Well",W29997,2018,NA,15.7,NA,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 2(d)","Tube Well",W32111,2018,NA,NA,22.89,NA
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2018,2.49,2.93,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.54583333,76.39305556,Kathana-Pz,"Tube Well",W22617,2017,NA,17.1,16.45,16.35
+HR,Kaithal,Kaithal,Kaithal,29.75777778,76.3,Dhunderheri-DW,"Dug Well",W32076,2017,NA,16.72,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.6875,76.66666667,Sirsal-Pz,"Tube Well",W22615,2017,NA,27.6,29.16,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2017,NA,27,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.81805556,76.3375,Manas,"Dug Well",W16404,2017,NA,37.8,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.65833333,76.42916667,Jakhauli-Pz,"Tube Well",W22616,2017,15,12.96,13.79,13.3
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2017,8.96,9.1,7.71,8.41
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2017,NA,5.25,2.31,4.98
+HR,Kaithal,Kaithal,Kaithal,29.74722222,76.41666667,Peoda_Pz,"Tube Well",W22614,2017,NA,15.7,13.4,16.3
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2017,NA,23,21.13,19.9
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2017,NA,10.25,8.68,9.06
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2017,31.03,NA,29.26,28.18
+HR,Kaithal,Jind,Rajound,29.51861111,76.48194444,"Dorana Pz","Tube Well",W29982,2017,NA,30.05,30.13,26.6
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.66138889,Kaul-Pz,"Tube Well",W30027,2017,NA,28.9,29.68,27.3
+HR,Kaithal,Kaithal,Kaithal,29.82916667,76.32916667,Manaspatti-Pz,"Tube Well",W30025,2017,40.45,NA,40.25,38.4
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2017,15.02,14.4,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.50972222,Rajaund-Pz,"Tube Well",W22618,2017,NA,16.3,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2017,NA,25.83,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.87,76.47222222,Keorak-Pz,"Tube Well",W22613,2017,NA,36.72,NA,NA
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2017,NA,42.1,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.61666667,Tik,"Dug Well",W16418,2017,NA,32.88,NA,NA
+HR,Kaithal,Gulha,Gulha,29.92,76.4,"Rasulpur pz","Bore Well",W30050,2017,NA,39.7,NA,NA
+HR,Kaithal,Gulha,Gulha,30.04861111,76.34388889,Chika-Pz,"Tube Well",W30077,2017,NA,43.75,NA,NA
+HR,Kaithal,Gulha,Gulha,30.06111111,76.4,"Harigarh Kingan-Pz","Tube Well",W30083,2017,NA,36.23,NA,NA
+HR,Kaithal,Gulha,Kaithal,29.85138889,76.37222222,Khanpur-Pz,"Tube Well",W30031,2017,NA,NA,39.1,39.35
+HR,Kaithal,Gulha,Gulha,29.91416667,76.26055556,"Rasulpur Ghamri-Pz","Tube Well",W30047,2017,NA,NA,42.67,40.95
+HR,Kaithal,Gulha,Pundri,29.84722222,76.66138889,Balbehra-Pz,"Tube Well",W30028,2017,NA,32.54,45.6,NA
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,"Kalayat S","Tube Well",W29999,2017,3,5.6,3.62,5.55
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 2(d)","Tube Well",W32111,2017,NA,NA,23.13,NA
+HR,Kaithal,Gulha,Kaithal,29.85388889,76.37055556,Khanpur,"Bore Well",W33012,2017,NA,NA,NA,37.76
+HR,Kaithal,Gulha,Kaithal,29.8,76.38,"Balbahera pz","Bore Well",W32086,2017,NA,NA,NA,34.55
+HR,Kaithal,Kaithal,Rajound,29.5875,76.43277778,"Kheri Raowali-DW","Dug Well",W29989,2017,NA,13.1,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.65277778,76.52222222,Bhana-Pz,"Tube Well",W29997,2017,NA,20.3,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.59111111,76.28805556,Kalesar-DW,"Dug Well",W29990,2017,NA,14.2,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.60055556,76.32777778,Kamalpur-DW,"Dug Well",W29992,2017,NA,11.58,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.62222222,76.37777778,Songri-DW,"Dug Well",W29995,2017,NA,16.8,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.65694444,76.29027778,"Ram Garh-DW","Dug Well",W29998,2017,NA,6.18,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.70694444,76.22916667,"Kheri Lamba-DW","Dug Well",W30004,2017,NA,5.4,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.71527778,76.59722222,Barsana-Pz,"Tube Well",W30006,2017,NA,25.8,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.71638889,76.52777778,Pai-DW,"Dug Well",W30007,2017,NA,23.8,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.76666667,76.26,"Guhna pz","Bore Well",W30017,2017,NA,25.2,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.81166667,76.53111111,Dhons-Pz,"Tube Well",W30022,2017,NA,30.15,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.86527778,76.57916667,"Solu Majra-Pz","Tube Well",W30032,2017,NA,29.46,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.88333333,76.35388889,Siwan-Pz,"Tube Well",W30039,2017,NA,43.1,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.62916667,76.49861111,Serdha-DW,"Dug Well",W32042,2017,NA,18.9,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.65416667,76.58055556,Bakal-DW,"Dug Well",W32049,2017,NA,20.42,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.65138889,76.36944444,Balu-DW,"Dug Well",W32048,2017,NA,8.9,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2017,41.54,NA,44.45,42.17
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2016,NA,NA,29.36,NA
+HR,Kaithal,Gulha,Kaithal,29.85388889,76.37055556,Khanpur,"Bore Well",W33012,2016,NA,NA,38.45,37.2
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2016,NA,NA,43.77,NA
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2016,NA,NA,3.25,NA
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2016,NA,NA,8.68,9.38
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2016,8.61,NA,8.53,8.21
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2016,NA,NA,NA,25.6
+HR,Kaithal,Kaithal,Kaithal,29.74722222,76.41666667,Peoda_Pz,"Tube Well",W22614,2016,14.85,NA,18.5,14.15
+HR,Kaithal,Kaithal,Pundri,29.6875,76.66666667,Sirsal-Pz,"Tube Well",W22615,2016,NA,NA,28.11,25.83
+HR,Kaithal,Kaithal,Rajound,29.65833333,76.42916667,Jakhauli-Pz,"Tube Well",W22616,2016,14.13,NA,13.66,12.76
+HR,Kaithal,Kaithal,Rajound,29.54583333,76.39305556,Kathana-Pz,"Tube Well",W22617,2016,NA,NA,16.08,15.4
+HR,Kaithal,Gulha,Gulha,29.91416667,76.26055556,"Rasulpur Ghamri-Pz","Tube Well",W30047,2016,NA,NA,42.68,39.2
+HR,Kaithal,Jind,Rajound,29.51861111,76.48194444,"Dorana Pz","Tube Well",W29982,2016,NA,NA,NA,25.76
+HR,Kaithal,Kaithal,Rajound,29.65277778,76.52222222,Bhana-Pz,"Tube Well",W29997,2016,NA,NA,NA,17.37
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,"Kalayat S","Tube Well",W29999,2016,NA,NA,4.6,4.8
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(s),"Tube Well",W30018,2016,NA,NA,NA,25.1
+HR,Kaithal,Kaithal,Kaithal,29.82916667,76.32916667,Manaspatti-Pz,"Tube Well",W30025,2016,38.4,NA,39.42,38.8
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.66138889,Kaul-Pz,"Tube Well",W30027,2016,NA,NA,28.66,25.5
+HR,Kaithal,Gulha,Kaithal,29.85138889,76.37222222,Khanpur-Pz,"Tube Well",W30031,2016,NA,NA,39.95,39.2
+HR,Kaithal,Kaithal,Kaithal,29.88333333,76.35388889,Siwan-Pz,"Tube Well",W30039,2016,NA,NA,NA,39.2
+HR,Kaithal,Gulha,Kaithal,29.8,76.38,"Balbahera pz","Bore Well",W32086,2016,NA,NA,45.68,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2016,NA,NA,20.55,18.8
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2015,NA,26.68,31.08,25.09
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 2(d)","Tube Well",W32111,2015,NA,NA,23.05,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2015,NA,NA,19.3,17.54
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2015,NA,NA,44.11,39.11
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2015,18.86,NA,14.25,18.86
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2015,1.95,NA,2.4,1.95
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2015,NA,NA,9.3,8.28
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2015,7.81,NA,7.81,8.31
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2015,NA,NA,NA,21.2
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2015,NA,NA,NA,23.7
+HR,Kaithal,Kaithal,Kaithal,29.87,76.47222222,Keorak-Pz,"Tube Well",W22613,2015,NA,NA,35.2,32.8
+HR,Kaithal,Kaithal,Kaithal,29.74722222,76.41666667,Peoda_Pz,"Tube Well",W22614,2015,NA,NA,9.52,12.72
+HR,Kaithal,Kaithal,Pundri,29.6875,76.66666667,Sirsal-Pz,"Tube Well",W22615,2015,NA,NA,26.87,25.94
+HR,Kaithal,Kaithal,Rajound,29.65833333,76.42916667,Jakhauli-Pz,"Tube Well",W22616,2015,13.16,11.36,12.75,11.47
+HR,Kaithal,Kaithal,Rajound,29.54583333,76.39305556,Kathana-Pz,"Tube Well",W22617,2015,14.75,NA,15.3,14.28
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.50972222,Rajaund-Pz,"Tube Well",W22618,2015,NA,NA,14.7,14.1
+HR,Kaithal,Gulha,Gulha,29.91416667,76.26055556,"Rasulpur Ghamri-Pz","Tube Well",W30047,2015,NA,NA,41.3,41.1
+HR,Kaithal,Gulha,Gulha,29.92,76.4,"Rasulpur pz","Bore Well",W30050,2015,NA,NA,38.5,36.1
+HR,Kaithal,Gulha,Gulha,30.04861111,76.34388889,Chika-Pz,"Tube Well",W30077,2015,NA,NA,42.3,40.25
+HR,Kaithal,Gulha,Gulha,30.06111111,76.4,"Harigarh Kingan-Pz","Tube Well",W30083,2015,NA,NA,35.25,33.1
+HR,Kaithal,Jind,Rajound,29.51861111,76.48194444,"Dorana Pz","Tube Well",W29982,2015,NA,NA,NA,24.96
+HR,Kaithal,Kaithal,Rajound,29.5875,76.43277778,"Kheri Raowali-DW","Dug Well",W29989,2015,NA,NA,12.65,11.84
+HR,Kaithal,Kaithal,Kalayat,29.59111111,76.28805556,Kalesar-DW,"Dug Well",W29990,2015,NA,NA,11,10.36
+HR,Kaithal,Kaithal,Kalayat,29.60055556,76.32777778,Kamalpur-DW,"Dug Well",W29992,2015,NA,NA,NA,9.5
+HR,Kaithal,Kaithal,Kalayat,29.62222222,76.37777778,Songri-DW,"Dug Well",W29995,2015,NA,NA,13.95,13.8
+HR,Kaithal,Kaithal,Rajound,29.65277778,76.52222222,Bhana-Pz,"Tube Well",W29997,2015,NA,NA,16.08,14.78
+HR,Kaithal,Kaithal,Kalayat,29.65694444,76.29027778,"Ram Garh-DW","Dug Well",W29998,2015,NA,NA,NA,2.3
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,"Kalayat S","Tube Well",W29999,2015,NA,NA,3.72,3.73
+HR,Kaithal,Kaithal,Kalayat,29.70694444,76.22916667,"Kheri Lamba-DW","Dug Well",W30004,2015,NA,NA,3.15,3.52
+HR,Kaithal,Kaithal,Pundri,29.71527778,76.59722222,Barsana-Pz,"Tube Well",W30006,2015,NA,NA,23.8,22.6
+HR,Kaithal,Kaithal,Pundri,29.71638889,76.52777778,Pai-DW,"Dug Well",W30007,2015,NA,NA,21.15,19.85
+HR,Kaithal,Kaithal,Kaithal,29.76666667,76.26,"Guhna pz","Bore Well",W30017,2015,NA,NA,27,25.8
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(s),"Tube Well",W30018,2015,NA,NA,NA,23.39
+HR,Kaithal,Kaithal,Kaithal,29.81166667,76.53111111,Dhons-Pz,"Tube Well",W30022,2015,NA,NA,28.9,27.9
+HR,Kaithal,Kaithal,Kaithal,29.82916667,76.32916667,Manaspatti-Pz,"Tube Well",W30025,2015,36.3,37.1,37.36,39.4
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.66138889,Kaul-Pz,"Tube Well",W30027,2015,NA,NA,37.1,28.1
+HR,Kaithal,Gulha,Pundri,29.84722222,76.66138889,Balbehra-Pz,"Tube Well",W30028,2015,NA,NA,NA,31.89
+HR,Kaithal,Gulha,Kaithal,29.85138889,76.37222222,Khanpur-Pz,"Tube Well",W30031,2015,NA,NA,NA,35.73
+HR,Kaithal,Kaithal,Kaithal,29.86527778,76.57916667,"Solu Majra-Pz","Tube Well",W30032,2015,NA,NA,29,26.9
+HR,Kaithal,Kaithal,Pundri,29.88,76.61527778,Dhandh-Pz,"Tube Well",W30037,2015,NA,NA,31,28.9
+HR,Kaithal,Kaithal,Kaithal,29.88333333,76.35388889,Siwan-Pz,"Tube Well",W30039,2015,NA,NA,41.93,40.48
+HR,Kaithal,Kaithal,Rajound,29.62916667,76.49861111,Serdha-DW,"Dug Well",W32042,2015,NA,NA,16,NA
+HR,Kaithal,Kaithal,Kalayat,29.65138889,76.36944444,Balu-DW,"Dug Well",W32048,2015,NA,NA,7.9,NA
+HR,Kaithal,Kaithal,Rajound,29.65416667,76.58055556,Bakal-DW,"Dug Well",W32049,2015,NA,NA,NA,18
+HR,Kaithal,Kaithal,Kaithal,29.75777778,76.3,Dhunderheri-DW,"Dug Well",W32076,2015,NA,NA,17,NA
+HR,Kaithal,Gulha,Kaithal,29.8,76.38,"Balbahera pz","Bore Well",W32086,2015,NA,NA,34.2,33.1
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2015,NA,NA,25.9,24.9
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2014,NA,NA,40.1,37.69
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 2(d)","Tube Well",W32111,2014,NA,NA,21.55,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2014,27.38,25.58,NA,23.98
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2014,NA,NA,NA,4.17
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2014,NA,NA,14.35,16.14
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2014,NA,NA,NA,37.09
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2014,NA,NA,2.4,3.22
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2014,NA,NA,8.38,6.36
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2014,NA,NA,7.41,6.44
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2014,NA,NA,21.05,18.92
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2014,NA,NA,NA,21.93
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2014,NA,10.7,NA,12.85
+HR,Kaithal,Kaithal,Kaithal,29.87,76.47222222,Keorak-Pz,"Tube Well",W22613,2014,NA,NA,34.1,29.36
+HR,Kaithal,Kaithal,Kaithal,29.74722222,76.41666667,Peoda_Pz,"Tube Well",W22614,2014,NA,10.7,13.35,12.13
+HR,Kaithal,Kaithal,Pundri,29.6875,76.66666667,Sirsal-Pz,"Tube Well",W22615,2014,NA,NA,27.25,22.25
+HR,Kaithal,Kaithal,Rajound,29.65833333,76.42916667,Jakhauli-Pz,"Tube Well",W22616,2014,12.5,10.4,14.7,NA
+HR,Kaithal,Kaithal,Rajound,29.54583333,76.39305556,Kathana-Pz,"Tube Well",W22617,2014,15.45,13.15,NA,13.4
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.50972222,Rajaund-Pz,"Tube Well",W22618,2014,NA,NA,12.55,10.07
+HR,Kaithal,Gulha,Gulha,29.91416667,76.26055556,"Rasulpur Ghamri-Pz","Tube Well",W30047,2014,NA,NA,40.76,NA
+HR,Kaithal,Jind,Rajound,29.51861111,76.48194444,"Dorana Pz","Tube Well",W29982,2014,NA,NA,22.75,21.94
+HR,Kaithal,Kaithal,Rajound,29.65277778,76.52222222,Bhana-Pz,"Tube Well",W29997,2014,NA,NA,14.8,12.66
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,"Kalayat S","Tube Well",W29999,2014,NA,NA,4.35,4.77
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(s),"Tube Well",W30018,2014,NA,NA,23.82,21.89
+HR,Kaithal,Kaithal,Kaithal,29.82916667,76.32916667,Manaspatti-Pz,"Tube Well",W30025,2014,36.5,34.7,37.25,34.08
+HR,Kaithal,Gulha,Kaithal,29.85138889,76.37222222,Khanpur-Pz,"Tube Well",W30031,2014,NA,NA,37.31,NA
+HR,Kaithal,Kaithal,Kaithal,29.76583333,76.26055556,Guhna-Pz,"Tube Well",W32078,2014,NA,NA,26.9,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2014,NA,NA,NA,21.34
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2013,NA,NA,39.94,36.74
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 2(d)","Tube Well",W32111,2013,NA,NA,NA,20.57
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2013,26.18,21.98,26.355,23.59
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2013,17.25,15.65,16.76,16.85
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2013,NA,NA,39.41,36.81
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2013,NA,2.21,2.31,3.49
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2013,7.61,6.98,6.35,6.9
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2013,7.21,6.81,6.31,7.35
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2013,21.35,19,21.81,19.73
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2013,NA,NA,22.74,23.65
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2013,NA,NA,12.45,11.62
+HR,Kaithal,Kaithal,Kaithal,29.87,76.47222222,Keorak-Pz,"Tube Well",W22613,2013,NA,NA,32.75,28.85
+HR,Kaithal,Kaithal,Kaithal,29.74722222,76.41666667,Peoda_Pz,"Tube Well",W22614,2013,14.16,NA,10.85,12.92
+HR,Kaithal,Kaithal,Pundri,29.6875,76.66666667,Sirsal-Pz,"Tube Well",W22615,2013,NA,21.46,25.16,21.5
+HR,Kaithal,Kaithal,Rajound,29.65833333,76.42916667,Jakhauli-Pz,"Tube Well",W22616,2013,11.6,9.2,10.755,10.23
+HR,Kaithal,Kaithal,Rajound,29.54583333,76.39305556,Kathana-Pz,"Tube Well",W22617,2013,13.2,NA,12.92,11.92
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.50972222,Rajaund-Pz,"Tube Well",W22618,2013,NA,10.49,12.65,12.22
+HR,Kaithal,Jind,Rajound,29.51861111,76.48194444,"Dorana Pz","Tube Well",W29982,2013,NA,NA,25.75,21.3
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,"Kalayat S","Tube Well",W29999,2013,NA,NA,3.66,4.27
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(s),"Tube Well",W30018,2013,NA,NA,22.82,23.67
+HR,Kaithal,Kaithal,Kaithal,29.82916667,76.32916667,Manaspatti-Pz,"Tube Well",W30025,2013,34.15,33.54,34.82,33.22
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2013,NA,NA,21.5,20.72
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2012,NA,NA,17.46,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2012,NA,24.2,24.33,22.04
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2012,NA,16.31,16.83,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2012,NA,NA,17,14.25
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2012,NA,39.37,36.15,NA
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2012,NA,NA,2.14,4.12
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2012,NA,NA,4.89,6.31
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2012,NA,NA,5.75,6.42
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2012,NA,NA,19.3,19.57
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2012,NA,19,19.1,23.42
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2012,NA,NA,10.09,NA
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2012,NA,12.6,10.6,NA
+HR,Kaithal,Kaithal,Kaithal,29.87,76.47222222,Keorak-Pz,"Tube Well",W22613,2012,NA,NA,25.4,25.25
+HR,Kaithal,Kaithal,Kaithal,29.74722222,76.41666667,Peoda_Pz,"Tube Well",W22614,2012,NA,NA,11.6,11.36
+HR,Kaithal,Kaithal,Pundri,29.6875,76.66666667,Sirsal-Pz,"Tube Well",W22615,2012,NA,NA,21.47,19.27
+HR,Kaithal,Kaithal,Rajound,29.65833333,76.42916667,Jakhauli-Pz,"Tube Well",W22616,2012,NA,NA,11.19,8.46
+HR,Kaithal,Kaithal,Rajound,29.54583333,76.39305556,Kathana-Pz,"Tube Well",W22617,2012,NA,NA,12.35,11.15
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.50972222,Rajaund-Pz,"Tube Well",W22618,2012,NA,NA,11.25,10.55
+HR,Kaithal,Jind,Rajound,29.51861111,76.48194444,"Dorana Pz","Tube Well",W29982,2012,NA,NA,23.97,NA
+HR,Kaithal,Kaithal,Rajound,29.65277778,76.52222222,Bhana-Pz,"Tube Well",W29997,2012,NA,NA,15.3,NA
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,"Kalayat S","Tube Well",W29999,2012,NA,NA,1.86,NA
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(s),"Tube Well",W30018,2012,NA,NA,18.2,NA
+HR,Kaithal,Kaithal,Kaithal,29.82916667,76.32916667,Manaspatti-Pz,"Tube Well",W30025,2012,NA,NA,34.1,NA
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2011,10.09,9.95,10.32,9.69
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2011,20.13,16.92,19.25,18.2
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2011,NA,18.38,NA,17.82
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2011,19.64,18.7,18.99,18.18
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2011,14.8,13.7,14.55,16.6
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2011,36.25,35.01,36.68,35.39
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2011,17,16.4,17.1,16.69
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2011,5.56,5.06,5.17,5.63
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2011,6.1,5.55,5.46,5.97
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2011,NA,NA,NA,18.17
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2011,NA,35.5,NA,35.92
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2011,17.07,16.95,17.63,17.74
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2011,22.78,21.84,22.78,24.1
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2011,1.85,1.9,1.67,3.92
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2010,NA,10.55,9.83,10.2
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2010,17.1,16.66,16.68,16.9
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2010,21.3,18.27,19.24,19
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2010,NA,NA,NA,20.35
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2010,17.75,NA,19.59,18.84
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2010,14.7,NA,14.02,14.5
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2010,37.49,NA,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2010,2.26,NA,1.7,4.85
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2010,7.18,NA,5.6,7.48
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2010,6.71,NA,5.68,6.71
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2010,NA,NA,24.32,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2010,NA,NA,36.44,32.57
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2010,16.96,NA,16.86,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2010,22.88,NA,24.32,20.63
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2010,10.35,NA,NA,10.14
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2009,NA,NA,10.65,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2009,17.82,14.8,16.49,15.68
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2009,21,17,19.26,17.28
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2009,16.76,16.73,20.35,16.73
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2009,21.28,15.92,19.13,18.1
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2009,NA,NA,NA,4.62
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2009,14.28,11.05,14.01,12.24
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2009,22.92,NA,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2009,1.37,7.9,NA,6.25
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2009,3.02,1.51,2.67,3.93
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2009,6.82,4.93,7.06,5.54
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2009,7.3,6.56,5.65,5.09
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2009,38.18,27.98,36.08,31.18
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2009,NA,NA,35.61,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2009,20.6,18.65,21.18,18.78
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2009,10.4,7.88,10.65,9.8
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2008,9.7,9.11,8.09,9.95
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2008,19.85,17.88,18.01,17.16
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2008,17.74,16.54,17.34,16.32
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2008,18.91,16.52,19.53,19.29
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2008,7.23,6.32,5.87,8.17
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2008,12.85,11.18,10.9,12.28
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2008,16,15.37,15.36,15.4
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2008,1.55,4.1,NA,4.45
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2008,7.08,5.9,4.93,6.23
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2008,6.02,6.24,4.56,7.19
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2008,32.6,NA,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2008,19.98,19.49,19.48,18.78
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2008,NA,11.6,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2007,7.71,6.74,NA,6.24
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2007,NA,14.52,NA,15.4
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2007,18.85,16.75,15.2,16.4
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2007,16.88,15.81,17.05,15.18
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2007,NA,NA,17.66,14.94
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,2007,NA,8.74,NA,8.35
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2007,2.32,4.76,5.77,5.12
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2007,11.6,11.12,11.37,NA
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2007,11.45,10.24,NA,10.15
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2007,3.8,3.28,3.25,4.55
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2007,6.43,6.26,5.78,5.48
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2007,6.66,6.84,6.46,5.11
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2007,NA,25.23,21.58,25.88
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2007,NA,NA,14.48,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2007,NA,18.03,19.38,16.48
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2007,11.8,8.42,8.35,8.36
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2006,6.33,5.82,6.59,6.14
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2006,7.89,7.44,7.34,7.65
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2006,18.58,14.75,17.65,14.85
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2006,14.68,13.76,15.93,13.98
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2006,17.22,13.55,16.32,NA
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,2006,8.38,6.97,8.16,7.85
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2006,5.13,4.96,5.45,5.32
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2006,10.75,8.65,10.25,9.05
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2006,3.77,2.42,3.89,4.05
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2006,5.59,4.73,5.97,5.63
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2006,5,4.41,5.27,4.96
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2006,NA,22.58,NA,23.73
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2006,NA,23.26,NA,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2006,13.31,11.35,13.57,12.76
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2006,17.28,15.78,17.53,17.18
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2006,14.55,13.65,14.73,13.9
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2006,10.6,9.6,11.12,10.4
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2005,NA,7.39,6.47,7.45
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2005,10.16,9.06,9.69,9.42
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2005,14.76,13.38,14.27,12.88
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2005,NA,13.3,15.04,13.95
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,2005,7.81,7.57,6.75,7.58
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2005,4.42,5.02,4.34,4.77
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2005,5.75,5.89,5.61,5.94
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2005,NA,22.19,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2005,10.13,9.29,8.72,9.49
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2005,2.27,4.12,1.7,3.77
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2005,5.73,5.7,4.48,5.57
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2005,4.73,5.59,4.11,5.46
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2005,26.68,22.1,23.68,23.14
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2005,NA,22.19,25.6,23.31
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2005,NA,10.4,10.47,11.01
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2005,15.68,15.68,16.13,15.18
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2005,14.11,13.34,13.84,13.61
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2005,17.74,13.69,16.12,13.86
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2004,5.93,6.14,7.25,5.88
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2004,8.93,8.24,8.88,9
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2004,14.2,12.48,13.64,12.72
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2004,15.09,12.71,13.82,13.24
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,2004,7.18,7.27,7.29,7.5
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2004,4.02,3.93,4.42,4.33
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2004,5.66,5.61,5.62,5.67
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2004,NA,20.73,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2004,9.93,8.9,9.29,9.45
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2004,3.36,3.85,3.48,4.77
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2004,5.7,4.96,5.63,4.51
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2004,5.18,4.96,5.21,5.21
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2004,25.54,21.42,22.53,21.74
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2004,NA,20.73,23.66,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2004,NA,NA,9.39,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2004,NA,13.22,15.9,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2004,13.62,13.37,13.72,13.9
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2004,15.21,13.1,14.42,14.08
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2003,6.61,6,6.81,6.86
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2003,8.51,7.45,16.22,8.37
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2003,13.3,11.5,13.29,11.74
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2003,15.25,NA,13.64,12.92
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,2003,6.94,7.35,6.45,7.87
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2003,2.91,4.35,3.43,4.67
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2003,4.96,5.16,5.25,5.38
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2003,NA,NA,NA,21.21
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2003,9.16,9.15,8.4,10.11
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2003,4,4.43,3.74,5.15
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2003,4.48,5.37,4.99,NA
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2003,4.91,4.74,5.1,5.18
+HR,Kaithal,Kaithal,Kalayat,29.64166667,76.21666667,Shimla,"Dug Well",W16412,2003,6.64,7.25,7.8,NA
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2003,24.71,9.18,21.41,21.8
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2003,NA,20.41,NA,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2003,NA,NA,NA,10.12
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2003,15.23,13.9,14.23,14.53
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2003,14.39,13.54,13.71,NA
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2003,NA,12.28,14.88,13.68
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2002,5.48,4.67,NA,4.82
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2002,7.9,5.59,7.17,6.26
+HR,Kaithal,Kaithal,Pundri,29.83472222,76.58472222,Pharal,"Dug Well",W16414,2002,19.01,19.28,15.91,16.81
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2002,12.46,8.98,11.38,9.32
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2002,10.88,9.7,11.84,8.92
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,2002,7.93,6.18,7.54,NA
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2002,4.02,2.66,4.24,3.31
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2002,4.84,4.27,5.78,4.64
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2002,10.05,6.82,9.39,8.25
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2002,5.11,2.84,3.98,3.93
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2002,5.88,3.49,5.03,4.35
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2002,5.01,3.08,5.13,NA
+HR,Kaithal,Kaithal,Kalayat,29.64166667,76.21666667,Shimla,"Dug Well",W16412,2002,6.45,6.42,6.53,NA
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2002,22.38,NA,20.31,19.58
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2002,NA,NA,21.24,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2002,NA,8.38,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2002,14.2,13.55,14.75,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2002,12.7,NA,13.04,11.85
+HR,Kaithal,Kaithal,Kaithal,29.81805556,76.3375,Manas,"Dug Well",W16404,2002,NA,14.2,NA,15.28
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2002,14.64,9.92,11.53,10.03
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2001,NA,5.38,5.54,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2001,3.86,7.22,5.08,5.6
+HR,Kaithal,Kaithal,Pundri,29.83472222,76.58472222,Pharal,"Dug Well",W16414,2001,16.21,19.36,21.01,19.01
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2001,9.08,9.12,9.31,8.28
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2001,NA,8.5,10.8,NA
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.61666667,Tik,"Dug Well",W16418,2001,NA,16.05,NA,NA
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,2001,5.01,6.25,6.09,6.65
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2001,1.89,5.21,2.57,NA
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2001,4.14,5.13,4.12,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2001,NA,NA,19.27,NA
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2001,7.53,7.8,7.52,8.1
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2001,2.47,3.56,2.94,3.75
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2001,2.78,4.35,3.37,4.78
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2001,4.07,5.21,2.98,NA
+HR,Kaithal,Kaithal,Kalayat,29.64166667,76.21666667,Shimla,"Dug Well",W16412,2001,5.95,NA,6.25,5.9
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,2001,NA,16.63,18.62,18.28
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2001,NA,8.24,NA,9.26
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2001,12.96,NA,13.23,11.98
+HR,Kaithal,Kaithal,Kaithal,29.81805556,76.3375,Manas,"Dug Well",W16404,2001,14.33,12.7,14.23,13.1
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2001,11.3,9.6,10.35,10.1
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,2000,5.07,4.73,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,2000,4,4.35,4.9,4.1
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,2000,8.18,7.23,8.48,7.4
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,2000,10.1,NA,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.61666667,Tik,"Dug Well",W16418,2000,15.45,NA,15.4,NA
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,2000,5.25,4.85,5.55,5.55
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,2000,3.02,2.97,3.24,3.22
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,2000,3.79,3.29,4.02,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,2000,NA,14.38,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,2000,7.45,6.81,7.05,7.15
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,2000,2.02,2.85,2.55,3.25
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,2000,3.76,4.03,NA,4.6
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,2000,2.91,1.67,3.11,1.6
+HR,Kaithal,Kaithal,Kalayat,29.64166667,76.21666667,Shimla,"Dug Well",W16412,2000,5.3,5,5.57,3.8
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,2000,11,8.8,10.15,9.74
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,2000,18.57,NA,NA,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,2000,7.46,7.35,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,2000,NA,11.03,11.98,10.68
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,2000,NA,9.33,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.93333333,76.46888889,Kamoda,"Dug Well",W16403,2000,NA,5.56,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.81805556,76.3375,Manas,"Dug Well",W16404,2000,12.25,10.15,13.05,11.5
+HR,Kaithal,Kaithal,Pundri,29.83472222,76.58472222,Pharal,"Dug Well",W16414,2000,19.81,18.36,20.41,18.46
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,1999,8.28,4.81,7.1,16.41
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,1999,9.3,5.38,9.11,7.03
+HR,Kaithal,Kaithal,Kalayat,29.64166667,76.21666667,Shimla,"Dug Well",W16412,1999,3.8,'0.7,4.56,4.75
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,1999,2.41,'0.61,1.85,1.31
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,1999,3.88,2,3.37,3.4
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,1999,3.55,NA,2.67,2.9
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,1999,5.6,3.58,5.85,6.1
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,1999,4.1,2.14,4.37,3.73
+HR,Kaithal,Kaithal,Kaithal,29.81805556,76.3375,Manas,"Dug Well",W16404,1999,12.2,NA,11.59,9.28
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,1999,9.2,7.73,9.7,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,1999,11.18,NA,10.85,7.93
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,1999,NA,7.9,7.46,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,1999,16.41,NA,16.37,NA
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,1999,17.3,15.27,17.3,NA
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,1999,5.27,2.3,4.27,NA
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,1999,3.24,'0.86,2.94,1.99
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,1999,4,'0.13,2.57,2.82
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,1999,2.9,1.53,4,3.2
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.61666667,Tik,"Dug Well",W16418,1999,9.55,11.28,12.9,11.4
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,1999,9,5.76,8.22,NA
+HR,Kaithal,Kaithal,Pundri,29.83472222,76.58472222,Pharal,"Dug Well",W16414,1999,16.71,NA,18.91,16.74
+HR,Kaithal,Kaithal,Kalayat,29.64166667,76.21666667,Shimla,"Dug Well",W16412,1998,3.25,2.33,NA,3.59
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,1998,6.97,6.48,5.2,6.97
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,1998,NA,7.82,NA,6.1
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,1998,1.1,1.36,NA,2.97
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,1998,NA,8.24,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,1998,7.43,7.02,NA,8.5
+HR,Kaithal,Gulha,Gulha,30.1,76.3,"Padla 2(d)","Tube Well",W16398,1998,NA,NA,12.05,NA
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,1998,NA,3.91,2.9,5.34
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,1998,NA,15.23,15.45,NA
+HR,Kaithal,Kaithal,Kaithal,29.95,76.45416667,Nauch,"Dug Well",W16406,1998,NA,12.63,11.05,NA
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,1998,NA,3.13,NA,NA
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,1998,1.6,1.55,NA,2.37
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,1998,1.96,1.63,'0.69,2.43
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,1998,1.7,2.16,NA,4.04
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,1998,NA,'0.24,NA,NA
+HR,Kaithal,Kaithal,Pundri,29.83472222,76.58472222,Pharal,"Dug Well",W16414,1998,18.51,17.58,NA,18.13
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,1998,NA,1.49,NA,2.64
+HR,Kaithal,Kaithal,Kaithal,29.81805556,76.3375,Manas,"Dug Well",W16404,1998,11.01,8.52,8.75,NA
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.61666667,Tik,"Dug Well",W16418,1998,13.43,12.44,11.75,12.64
+HR,Kaithal,Kaithal,Kaithal,29.93333333,76.46888889,Kamoda,"Dug Well",W16403,1998,NA,7.01,3.11,NA
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,1998,6.86,7.88,NA,7.89
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,1998,2.03,NA,1.68,3.12
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,1998,8.54,7.44,NA,8.33
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,1997,NA,NA,NA,7.44
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,1997,9.95,8.01,9.84,8.72
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.61666667,Tik,"Dug Well",W16418,1997,14.08,12.91,13.93,NA
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,1997,2.63,2.63,2.05,6.78
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,1997,-0.23,1.41,'0.04,2.06
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,1997,NA,NA,NA,2.37
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,1997,3.48,3.67,3.17,NA
+HR,Kaithal,Gulha,Gulha,30.05,76.34166667,Bhagal,"Dug Well",W16395,1997,NA,NA,NA,12.7
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,1997,NA,NA,NA,18.05
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,1997,NA,NA,NA,9.13
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,1997,NA,NA,NA,8.8
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,1997,6.01,7.32,7.41,NA
+HR,Kaithal,Kaithal,Kaithal,29.81805556,76.3375,Manas,"Dug Well",W16404,1997,9.18,11.48,NA,9.42
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,1997,2.08,3,1.66,4.01
+HR,Kaithal,Kaithal,Kaithal,29.95,76.45416667,Nauch,"Dug Well",W16406,1997,NA,6.01,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,1997,NA,NA,NA,12.12
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,1997,NA,NA,3.61,6.13
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,1997,NA,NA,NA,3.71
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,1997,NA,2.56,1.79,3.46
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,1997,NA,4.59,NA,3.31
+HR,Kaithal,Kaithal,Kalayat,29.64166667,76.21666667,Shimla,"Dug Well",W16412,1997,NA,NA,NA,4.03
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,1997,8.18,8.18,9.24,7.9
+HR,Kaithal,Kaithal,Pundri,29.83472222,76.58472222,Pharal,"Dug Well",W16414,1997,15.28,19.33,13.69,NA
+HR,Kaithal,Kaithal,Pundri,29.77777778,76.575,Pundri(d),"Tube Well",W16416,1996,9.96,NA,8.64,9.02
+HR,Kaithal,Kaithal,Pundri,29.75416667,76.56666667,Pundri,"Dug Well",W16415,1996,NA,7.08,7.28,NA
+HR,Kaithal,Kaithal,Rajound,29.66666667,76.52083333,Hibana,"Dug Well",W16420,1996,2.65,2.02,2.08,5.45
+HR,Kaithal,Kaithal,Rajound,29.63333333,76.4375,Kachana,"Dug Well",W16421,1996,'0.35,1.13,'0.67,'0.72
+HR,Kaithal,Kaithal,Rajound,29.57777778,76.4875,Rajaund,"Dug Well",W16423,1996,NA,NA,1.87,2.89
+HR,Kaithal,Kaithal,Rajound,29.6,76.48333333,"Rajaund S","Tube Well",W16424,1996,NA,NA,3.46,NA
+HR,Kaithal,Gulha,Gulha,30.05,76.34166667,Bhagal,"Dug Well",W16395,1996,NA,NA,12.2,NA
+HR,Kaithal,Gulha,Gulha,30.04027778,76.3,"Gulha 1(m)","Tube Well",W16396,1996,NA,15.67,17.53,NA
+HR,Kaithal,Gulha,Gulha,30.1,76.33333333,"Titiana 1(s)","Tube Well",W16399,1996,NA,9.07,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.775,76.26666667,Guhna,"Dug Well",W16401,1996,NA,NA,7.08,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.4,"Kaithal S","Tube Well",W16402,1996,6.22,6.58,7.26,7.42
+HR,Kaithal,Kaithal,Kaithal,29.93333333,76.46888889,Kamoda,"Dug Well",W16403,1996,NA,7.28,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.81805556,76.3375,Manas,"Dug Well",W16404,1996,9.29,NA,7.55,8.15
+HR,Kaithal,Kaithal,Kaithal,29.775,76.50555556,Mundri,"Dug Well",W16405,1996,2.37,3.08,2.63,4.22
+HR,Kaithal,Kaithal,Kaithal,29.95,76.45416667,Nauch,"Dug Well",W16406,1996,5.48,13.24,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.8,76.3,"Padla 1(s)","Tube Well",W16407,1996,NA,10.41,NA,NA
+HR,Kaithal,Kaithal,Kaithal,29.74583333,76.42083333,Peoda,"Dug Well",W16408,1996,NA,NA,4.05,5.47
+HR,Kaithal,Kaithal,Kalayat,29.67916667,76.25277778,Kalayat,"Dug Well",W16409,1996,2.47,1.72,2.23,3.25
+HR,Kaithal,Kaithal,Kalayat,29.7,76.36666667,Kelaram,"Dug Well",W16410,1996,NA,2.69,1.97,3.6
+HR,Kaithal,Kaithal,Kalayat,29.60833333,76.25833333,Mataur,"Dug Well",W16411,1996,3.14,1.98,2.29,2.89
+HR,Kaithal,Kaithal,Kalayat,29.64166667,76.21666667,Shimla,"Dug Well",W16412,1996,4.72,1.37,3.32,2.78
+HR,Kaithal,Kaithal,Pundri,29.74166667,76.55,Jateri,"Dug Well",W16413,1996,10.04,9.61,8.41,8.78
+HR,Kaithal,Kaithal,Pundri,29.83472222,76.58472222,Pharal,"Dug Well",W16414,1996,13.29,12.86,18.95,13.42
+HR,Kaithal,Kaithal,Pundri,29.84722222,76.61666667,Tik,"Dug Well",W16418,1996,14.05,12.27,13.23,12.76

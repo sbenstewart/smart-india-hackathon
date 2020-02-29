@@ -1,0 +1,1312 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29416667,75.96055556,Nayarkuzhi,"Dug Well",W23708,2018,NA,6.52,5.86,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30083333,75.93861111,Chulur,"Dug Well",W23709,2018,NA,4.02,3.11,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30527778,75.87888889,Kunnamangalam,"Dug Well",W23710,2018,NA,11.4,8.79,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.32027778,75.96583333,Manassery,"Dug Well",W23712,2018,NA,3.48,2.52,NA
+KL,Kozhikode,Koduvally,Kunnamangalam,11.43111111,76.00666667,Kodencherry,"Dug Well",W23725,2018,NA,1.05,'0.99,NA
+KL,Kozhikode,Kunnamangalam,Koduvaly,11.40611111,76.01138889,Murampathy,"Dug Well",W23723,2018,NA,5.78,5.48,NA
+KL,Kozhikode,Chelannur,Panthalayani,11.47138889,75.64777778,Moodali,"Dug Well",W23731,2018,NA,2.45,1.5,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.36666667,75.91027778,"Koduvalli North","Dug Well",W23716,2018,NA,4.95,1.42,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.36777778,75.95027778,Puthur,"Dug Well",W23717,2018,NA,7.8,6.81,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.44416667,75.95555556,Perumpally,"Dug Well",W23726,2018,NA,3.83,3.16,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.48111111,75.98138889,"West Pudupadi","Dug Well",W23732,2018,NA,2.87,3.63,NA
+KL,Kozhikode,Melady,Melady,11.51111111,75.62166667,"Melady 1","Dug Well",W23740,2018,NA,1.64,1.4,NA
+KL,Kozhikode,"Koilandi Municipality",Balusseri,11.44555556,75.73694444,Kannoor,"Dug Well",W23727,2018,NA,4.69,4.32,NA
+KL,Kozhikode,Balusseri,Balusseri,11.44805556,75.85916667,Thenamkuzhi,"Dug Well",W23728,2018,NA,4.1,2.62,NA
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Karuvannur,"Dug Well",W23736,2018,NA,3.44,3.22,NA
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Kurachund,"Dug Well",W23737,2018,NA,5.6,5.4,NA
+KL,Kozhikode,Balusseri,Balusseri,11.50416667,75.9,Atholi,"Dug Well",W23738,2018,NA,3.82,3.66,NA
+KL,Kozhikode,Balusseri,Balusseri,11.53861111,75.89666667,Kariyathumpara,"Dug Well",W23750,2018,NA,2.95,2.82,NA
+KL,Kozhikode,Vadakara,Thodannur,11.58638889,75.64777778,Thodannur,"Dug Well",W23765,2018,NA,6.35,6.27,NA
+KL,Kozhikode,Koduvally,Perambra,11.53416667,75.77333333,Muliyangal,"Dug Well",W23746,2018,NA,2.5,1.45,NA
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.57833333,75.6,Pudupanam,"Dug Well",W23760,2018,NA,5.43,4.83,NA
+KL,Kozhikode,Chelannur,Vadakara,11.57833333,75.6,Nanminda,"Dug Well",W23761,2018,NA,6.33,5.26,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.63833333,75.805,Mullankunnu,"Dug Well",W23780,2018,NA,1.5,1.08,NA
+KL,Kozhikode,Vadakara,Vadakara,11.65361111,75.60361111,Orkattery,"Dug Well",W23789,2018,NA,NA,1.87,5.81
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.7,Bhumivathukkal,"Dug Well",W23828,2018,NA,NA,6.78,9.47
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w4),"Tube Well",W23806,2018,1.65,NA,NA,NA
+KL,Kozhikode,Koduvally,Kunnamangalam,11.36027778,76.00777778,Thiruvambady,"Dug Well",W23715,2018,NA,NA,2.91,5.34
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(west),"Bore Well",W23764,2018,NA,NA,5.25,6.67
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.13944444,75.83388889,Kottakadavu,"Dug Well",W30951,2018,NA,14.05,12.4,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.17194444,75.87027778,Azhinjilam,"Dug Well",W30952,2018,NA,1.61,1.04,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.19583333,75.80333333,Naduvattom,"Dug Well",W30955,2018,NA,7.07,5.75,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.23,75.82888889,Iringallur,"Dug Well",W30959,2018,NA,3.33,2.72,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.23333333,75.78916667,Kallai,"Dug Well",W30960,2018,NA,4.4,3.71,NA
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2018,1.45,2.38,NA,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2018,NA,NA,5.99,7.67
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2018,NA,NA,6.29,6.82
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2018,NA,NA,7.1,7.35
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2018,NA,NA,2.9,3.6
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2018,NA,NA,8.26,6.94
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2018,NA,19.55,19.17,NA
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2018,NA,2.54,1.98,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2018,NA,9.27,8.69,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2018,NA,1.43,'0.4,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2018,NA,7.21,6.88,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2018,NA,25.04,20.23,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2018,NA,12.45,10.71,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2018,NA,2.6,1.47,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2018,NA,6.78,5.2,NA
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2018,NA,7.34,5.73,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2018,NA,10.03,8.62,NA
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2018,NA,2.78,2.03,NA
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2018,NA,5.78,4.72,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2018,NA,6.04,2.06,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2018,NA,8.7,6.67,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2018,NA,1.06,'0.86,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2018,NA,3.43,2.91,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2018,NA,2.35,2.56,NA
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2018,NA,1.54,1.53,NA
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2018,NA,4.57,3.78,NA
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2018,NA,3.37,3.17,NA
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2018,NA,7.22,6.13,NA
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2018,NA,8.2,5.4,NA
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2018,NA,'0.85,'0.47,NA
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2018,NA,3.23,2.28,NA
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2018,NA,1.95,1.41,NA
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2018,NA,6.73,6.48,NA
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2018,NA,8.9,8.16,NA
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2018,NA,4.7,4.57,NA
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2018,NA,3.33,2.26,NA
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2018,NA,4.78,2.71,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2018,NA,4.7,3.69,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2018,NA,4.28,3.12,NA
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2018,NA,5.59,6.05,NA
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2018,NA,4.36,3.85,NA
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2018,NA,8.19,7.54,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67277778,75.58055556,Kunnumakkara,"Dug Well",W23803,2018,NA,2.04,1.31,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w2),"Tube Well",W23804,2018,NA,4.25,2.95,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w3),"Tube Well",W23805,2018,NA,4.48,3.25,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.6625,75.73333333,Kuttiyadi,"Dug Well",W23794,2018,NA,7.54,7.54,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.67416667,75.71333333,Vattoli,"Dug Well",W23807,2018,NA,4.74,4.36,NA
+KL,Kozhikode,Thuneri,Kunnummal,11.68916667,75.66666667,Kallachi,"Dug Well",W23812,2018,NA,1,1.75,NA
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Tuneri1,"Dug Well",W23825,2018,NA,4.25,3.76,NA
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Kayapanachi,"Dug Well",W23826,2018,NA,4.56,4.12,NA
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.67083333,Valayam,"Dug Well",W23827,2018,NA,6.51,5.91,NA
+KL,Kozhikode,Thuneri,Tuneri,11.735,75.68861111,"Chiulavi (Niravamal)","Dug Well",W23834,2018,NA,7.73,7.1,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.175,75.85833333,"Ramanattukara (R1)","Dug Well",W23690,2018,NA,2.25,2.08,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke DW","Dug Well",W23692,2018,NA,12.46,12.02,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.18527778,75.82194444,"Cheruvannur West","Dug Well",W23693,2018,NA,4.52,3.82,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Nallalam,"Dug Well",W23704,2018,NA,2.3,1.35,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Karaparamba,"Dug Well",W23705,2018,NA,3.02,2.49,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Vellimadakunnu,"Dug Well",W23706,2018,NA,12.63,12.87,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Chevayur,"Dug Well",W23707,2018,NA,11.45,12.94,NA
+KL,Kozhikode,"Kozhikode Corporation",Chelannur,11.31166667,75.75861111,Pavangad,"Dug Well",W23711,2018,NA,2.4,1.14,NA
+KL,Kozhikode,Chelannur,Chelannur,11.37166667,75.85611111,Narikunni,"Dug Well",W23719,2018,NA,2.92,2.09,NA
+KL,Kozhikode,Kozhikode,Chelannur,11.37166667,75.85611111,"Kozhikkod Beach","Dug Well",W23720,2018,NA,2.88,2.34,NA
+KL,Kozhikode,Chelannur,Chelannur,11.39305556,75.825,Kakkur,"Dug Well",W23722,2018,NA,5.67,4.52,NA
+KL,Kozhikode,Balusseri,Chelannur,11.40944444,75.78611111,Naduvannur,"Dug Well",W23724,2018,NA,7.24,6.71,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.48111111,75.98138889,"West Pudupadi","Dug Well",W23732,2017,1.23,2.9,2.59,3.52
+KL,Kozhikode,"Koilandi Municipality",Balusseri,11.44555556,75.73694444,Kannoor,"Dug Well",W23727,2017,4.08,4.97,4.26,5.44
+KL,Kozhikode,Balusseri,Balusseri,11.44805556,75.85916667,Thenamkuzhi,"Dug Well",W23728,2017,1.27,4.4,2.65,4.64
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Karuvannur,"Dug Well",W23736,2017,2.86,3.98,3,4.47
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Kurachund,"Dug Well",W23737,2017,4.46,5.66,5.18,4.1
+KL,Kozhikode,Balusseri,Balusseri,11.50416667,75.9,Atholi,"Dug Well",W23738,2017,2.17,4.52,3.02,5.65
+KL,Kozhikode,Balusseri,Balusseri,11.53861111,75.89666667,Kariyathumpara,"Dug Well",W23750,2017,2,2.97,2.69,3
+KL,Kozhikode,Vadakara,Thodannur,11.58638889,75.64777778,Thodannur,"Dug Well",W23765,2017,5.37,6.45,6.24,7.98
+KL,Kozhikode,Koduvally,Perambra,11.53416667,75.77333333,Muliyangal,"Dug Well",W23746,2017,1.27,2.67,1.41,2.64
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.57833333,75.6,Pudupanam,"Dug Well",W23760,2017,4.04,5.76,4.79,5.78
+KL,Kozhikode,Chelannur,Vadakara,11.57833333,75.6,Nanminda,"Dug Well",W23761,2017,3.48,6.56,5.4,7.16
+KL,Kozhikode,Kunnummal,Kunnummal,11.63833333,75.805,Mullankunnu,"Dug Well",W23780,2017,'0.13,1.67,1.05,1.67
+KL,Kozhikode,Chelannur,Panthalayani,11.47138889,75.64777778,Moodali,"Dug Well",W23731,2017,'0.48,2.97,'0.95,NA
+KL,Kozhikode,Melady,Melady,11.51111111,75.62166667,"Melady 1","Dug Well",W23740,2017,'0.75,1.81,'0.75,NA
+KL,Kozhikode,Vadakara,Vadakara,11.65361111,75.60361111,Orkattery,"Dug Well",W23789,2017,1.27,3.83,2.79,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w3),"Tube Well",W23805,2017,NA,NA,3.7,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67277778,75.58055556,Kunnumakkara,"Dug Well",W23803,2017,'0.95,2.18,1.44,3.02
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w2),"Tube Well",W23804,2017,1.83,4.31,3.61,5.22
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w4),"Tube Well",W23806,2017,1.77,4.55,3.68,4.42
+KL,Kozhikode,Kunnummal,Kunnummal,11.6625,75.73333333,Kuttiyadi,"Dug Well",W23794,2017,7.1,7.45,7.94,7.13
+KL,Kozhikode,Kunnummal,Kunnummal,11.67416667,75.71333333,Vattoli,"Dug Well",W23807,2017,2.77,5.32,4.18,4.83
+KL,Kozhikode,Thuneri,Kunnummal,11.68916667,75.66666667,Kallachi,"Dug Well",W23812,2017,1.12,2.25,'0.63,2.15
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Tuneri1,"Dug Well",W23825,2017,3.08,4.2,3.63,4.67
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Kayapanachi,"Dug Well",W23826,2017,3.2,4.63,5.4,4.7
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.67083333,Valayam,"Dug Well",W23827,2017,4.78,6.6,5.74,7.62
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.7,Bhumivathukkal,"Dug Well",W23828,2017,5.18,6.98,8.65,9.1
+KL,Kozhikode,Thuneri,Tuneri,11.735,75.68861111,"Chiulavi (Niravamal)","Dug Well",W23834,2017,5.36,7.76,6.63,9.28
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.13944444,75.83388889,Kottakadavu,"Dug Well",W30951,2017,13.95,15.46,11.97,15.51
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.17194444,75.87027778,Azhinjilam,"Dug Well",W30952,2017,1.48,2.54,'0.63,3.93
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.19583333,75.80333333,Naduvattom,"Dug Well",W30955,2017,5.7,7.9,5.93,8.92
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.23,75.82888889,Iringallur,"Dug Well",W30959,2017,1.68,3.56,2.44,3.96
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.23333333,75.78916667,Kallai,"Dug Well",W30960,2017,3.08,4.84,3.6,5.37
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.18527778,75.82194444,"Cheruvannur West","Dug Well",W23693,2017,3.08,4.94,NA,6.43
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.325,75.885,Pathimangalam,"Dug Well",W23713,2017,8.73,9.88,NA,9.14
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(west),"Bore Well",W23764,2017,3.76,5.86,NA,6.28
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2017,'0.72,1.57,1.06,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2017,NA,NA,4.88,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2017,19.16,19.93,20.65,24.67
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2017,1.1,3.32,1.79,4.4
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2017,6.96,9.58,9.22,9.6
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2017,'0.22,2.17,'0.58,1.13
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2017,5.55,7.4,8.97,7.67
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2017,15.52,25.76,18.87,25.16
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2017,7.55,15.2,10.53,15.64
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2017,'0.95,3.77,1.85,5.1
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2017,3.94,7.81,5.45,9.56
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2017,4.72,7.82,6.43,8.18
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2017,4.25,6.78,5.92,7
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2017,7.8,10.13,6.6,11.2
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2017,1.1,3.33,3.67,4.49
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2017,3.72,6.37,4.58,7.23
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2017,2.37,6.4,3.41,7.75
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2017,1.14,4.77,3.8,4.87
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2017,5.01,9.03,7.08,8.87
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2017,'0.59,1.2,'0.83,1.86
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2017,2.05,3.33,2.44,3.95
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2017,1.45,2.42,2.75,2.98
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2017,3.03,4.33,3.77,4.33
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2017,2.85,3.51,3.26,3.53
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2017,3.98,7.49,6.4,7.35
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2017,6.75,9.28,6.81,7.38
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2017,1.46,2.5,2.21,2.83
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2017,5.35,7.87,6.47,8.58
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2017,2.17,3.54,2.78,3.67
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2017,'0.08,1.09,1.05,1.07
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2017,1.41,3.55,2.12,4.88
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2017,'0.53,2.16,1.34,1.52
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2017,5.8,6.82,6.44,7.93
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2017,6.22,9.25,7.71,9.1
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2017,2.52,5.28,4.33,4.3
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2017,1.06,3.34,3.41,2.66
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2017,2,4.76,3.81,5.26
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2017,2.6,4.96,4.74,5.5
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2017,1.78,4.4,3.62,4.88
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2017,3.92,5.66,5.01,6.09
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2017,4.88,8.01,8.19,6.42
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2017,1.85,4.36,4.48,4.86
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2017,6.33,8.04,7.72,9.35
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.175,75.85833333,"Ramanattukara (R1)","Dug Well",W23690,2017,1.43,2.57,1.57,3.73
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke DW","Dug Well",W23692,2017,11.58,13.12,12.08,14.82
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Nallalam,"Dug Well",W23704,2017,'0.76,3.95,1.33,4.87
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Karaparamba,"Dug Well",W23705,2017,1.5,2.06,2.63,3.05
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Vellimadakunnu,"Dug Well",W23706,2017,12.7,14.36,13.9,13.43
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Chevayur,"Dug Well",W23707,2017,10.85,12.07,11.4,13.21
+KL,Kozhikode,"Kozhikode Corporation",Chelannur,11.31166667,75.75861111,Pavangad,"Dug Well",W23711,2017,'0.65,3.73,1.35,3.34
+KL,Kozhikode,Chelannur,Chelannur,11.37166667,75.85611111,Narikunni,"Dug Well",W23719,2017,'0.5,4.36,3.3,4
+KL,Kozhikode,Kozhikode,Chelannur,11.37166667,75.85611111,"Kozhikkod Beach","Dug Well",W23720,2017,1.88,3.04,2.19,3.1
+KL,Kozhikode,Chelannur,Chelannur,11.39305556,75.825,Kakkur,"Dug Well",W23722,2017,3.32,5.97,4.52,6.69
+KL,Kozhikode,Balusseri,Chelannur,11.40944444,75.78611111,Naduvannur,"Dug Well",W23724,2017,5.75,8.33,6.35,7.86
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29416667,75.96055556,Nayarkuzhi,"Dug Well",W23708,2017,5.32,6.8,5.94,7.35
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30083333,75.93861111,Chulur,"Dug Well",W23709,2017,2.78,4.28,3.14,5.12
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30527778,75.87888889,Kunnamangalam,"Dug Well",W23710,2017,7.48,13.03,8.58,11.73
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.32027778,75.96583333,Manassery,"Dug Well",W23712,2017,1.5,3.58,2.82,3.76
+KL,Kozhikode,Koduvally,Kunnamangalam,11.36027778,76.00777778,Thiruvambady,"Dug Well",W23715,2017,2.5,4.13,3.77,4.17
+KL,Kozhikode,Koduvally,Kunnamangalam,11.43111111,76.00666667,Kodencherry,"Dug Well",W23725,2017,'0.74,1.3,'0.96,1.44
+KL,Kozhikode,Kunnamangalam,Koduvaly,11.40611111,76.01138889,Murampathy,"Dug Well",W23723,2017,4.7,5.74,5.6,5.88
+KL,Kozhikode,Koduvally,Koduvaly,11.36666667,75.91027778,"Koduvalli North","Dug Well",W23716,2017,2.02,5.57,1.78,6.45
+KL,Kozhikode,Koduvally,Koduvaly,11.36777778,75.95027778,Puthur,"Dug Well",W23717,2017,5.9,8.04,6.9,8.48
+KL,Kozhikode,Koduvally,Koduvaly,11.44416667,75.95555556,Perumpally,"Dug Well",W23726,2017,1.13,3.87,2.84,4.85
+KL,Kozhikode,Koduvally,Koduvaly,11.44416667,75.95555556,Perumpally,"Dug Well",W23726,2016,2.15,3.68,3.23,4.5
+KL,Kozhikode,"Koilandi Municipality",Balusseri,11.44555556,75.73694444,Kannoor,"Dug Well",W23727,2016,4.09,4.66,4.62,5.32
+KL,Kozhikode,Balusseri,Balusseri,11.44805556,75.85916667,Thenamkuzhi,"Dug Well",W23728,2016,1.85,3.63,3.34,4.6
+KL,Kozhikode,Chelannur,Panthalayani,11.47138889,75.64777778,Moodali,"Dug Well",W23731,2016,'0.46,2.09,1.62,4.26
+KL,Kozhikode,Koduvally,Koduvaly,11.48111111,75.98138889,"West Pudupadi","Dug Well",W23732,2016,2.46,2.82,2.66,3.37
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Karuvannur,"Dug Well",W23736,2016,2.84,3.36,3.23,4.36
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Kurachund,"Dug Well",W23737,2016,4.58,5.51,5.54,4.22
+KL,Kozhikode,Balusseri,Balusseri,11.50416667,75.9,Atholi,"Dug Well",W23738,2016,2.38,4.55,3.43,4.71
+KL,Kozhikode,Melady,Melady,11.51111111,75.62166667,"Melady 1","Dug Well",W23740,2016,'0.85,1.58,1.67,2.16
+KL,Kozhikode,Koduvally,Perambra,11.53416667,75.77333333,Muliyangal,"Dug Well",W23746,2016,'0.9,2.12,1.93,2.59
+KL,Kozhikode,Balusseri,Balusseri,11.53861111,75.89666667,Kariyathumpara,"Dug Well",W23750,2016,2.38,2.93,2.95,3.05
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.57833333,75.6,Pudupanam,"Dug Well",W23760,2016,4.26,5.25,4.66,5.65
+KL,Kozhikode,Chelannur,Vadakara,11.57833333,75.6,Nanminda,"Dug Well",W23761,2016,4.14,6.11,6.01,7.08
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(west),"Bore Well",W23764,2016,4.68,5.85,5.44,6.41
+KL,Kozhikode,Vadakara,Thodannur,11.58638889,75.64777778,Thodannur,"Dug Well",W23765,2016,5.63,6.22,6.22,6.68
+KL,Kozhikode,Kunnummal,Kunnummal,11.63833333,75.805,Mullankunnu,"Dug Well",W23780,2016,'0.6,1.56,1.34,1.74
+KL,Kozhikode,Vadakara,Vadakara,11.65361111,75.60361111,Orkattery,"Dug Well",W23789,2016,1.13,3.18,2.56,4.63
+KL,Kozhikode,Kunnummal,Kunnummal,11.6625,75.73333333,Kuttiyadi,"Dug Well",W23794,2016,6.85,7.14,7.58,7.3
+KL,Kozhikode,Vadakara,Vadakara,11.67277778,75.58055556,Kunnumakkara,"Dug Well",W23803,2016,'0.97,1.99,1.35,2.83
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w2),"Tube Well",W23804,2016,1.8,4.28,3.11,5.07
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w4),"Tube Well",W23806,2016,1.94,NA,3.81,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.67416667,75.71333333,Vattoli,"Dug Well",W23807,2016,3.1,5,4.06,5.09
+KL,Kozhikode,Thuneri,Kunnummal,11.68916667,75.66666667,Kallachi,"Dug Well",W23812,2016,'0.75,1.79,1.55,1.26
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Tuneri1,"Dug Well",W23825,2016,3.14,4.08,NA,4.67
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Kayapanachi,"Dug Well",W23826,2016,3.64,4.63,4.4,5.13
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.67083333,Valayam,"Dug Well",W23827,2016,5.62,8.17,7.6,8.39
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.7,Bhumivathukkal,"Dug Well",W23828,2016,5.34,6.9,6.55,7.39
+KL,Kozhikode,Thuneri,Tuneri,11.735,75.68861111,"Chiulavi (Niravamal)","Dug Well",W23834,2016,5.57,7.63,6.68,8.71
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.13944444,75.83388889,Kottakadavu,"Dug Well",W30951,2016,13.2,15.45,16.55,16.01
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.17194444,75.87027778,Azhinjilam,"Dug Well",W30952,2016,'0.86,'0.92,4.38,3.03
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.19583333,75.80333333,Naduvattom,"Dug Well",W30955,2016,5.87,6.82,7.2,8.07
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.23,75.82888889,Iringallur,"Dug Well",W30959,2016,2.36,3.26,3.53,3.68
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.23333333,75.78916667,Kallai,"Dug Well",W30960,2016,3.48,4.35,4.38,5.11
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2016,5.22,NA,7.12,7.95
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2016,5.61,NA,7.18,10.35
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2016,3.23,NA,2.98,3.59
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2016,6.68,NA,8.23,7.32
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2016,7.56,NA,8.6,9.17
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2016,2.45,NA,3.73,4.41
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2016,2.18,NA,3.13,3.69
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2016,2.13,NA,2.37,2.98
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2016,1.5,NA,2.43,3.67
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2016,5.34,NA,7.45,8.2
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2016,6.56,NA,8.01,9.05
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2016,1.75,NA,4.04,5.04
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2016,2.05,NA,2.67,4.01
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2016,2.11,NA,2.45,3.15
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2016,'0.98,NA,'0.9,2.09
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2016,4.1,NA,5.86,6.78
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2016,1.14,NA,2.71,4.52
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2016,4.47,NA,6.65,8.33
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2016,10.48,NA,12.48,16.52
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2016,19.32,NA,23.19,20.02
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2016,8.38,NA,8.47,9.8
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2016,'0.5,NA,1.65,2
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2016,4.61,NA,5.27,5.55
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2016,8.07,NA,9.45,10.21
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2016,5.27,NA,6.3,5.96
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2016,6.4,NA,6.95,6.82
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2016,'0.73,NA,1.17,2.1
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2016,1.54,NA,2.39,4.98
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2016,3.9,NA,4.17,6.7
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2016,1.31,NA,2.58,4.14
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2016,2.8,NA,4.56,4.91
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2016,1.1,NA,1.43,1.67
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2016,5.9,NA,6.42,7.62
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2016,6.67,NA,7.46,9.01
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2016,2.85,NA,NA,5.12
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2016,2.63,NA,4.26,5.53
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2016,NA,NA,3.16,5.09
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2016,2.56,NA,4.26,5.32
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2016,2.3,NA,2.34,3.59
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2016,4.45,NA,5.37,6.12
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2016,'0.38,NA,'0.32,1.85
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2016,23.42,NA,24.34,25.61
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.175,75.85833333,"Ramanattukara (R1)","Dug Well",W23690,2016,1.59,2.17,2.27,3.99
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke DW","Dug Well",W23692,2016,11.94,12.45,12.7,13.54
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.18527778,75.82194444,"Cheruvannur West","Dug Well",W23693,2016,3.4,4.24,NA,5.83
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Nallalam,"Dug Well",W23704,2016,'0.95,2.8,2.47,3.95
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Karaparamba,"Dug Well",W23705,2016,2.49,2.92,1.95,3.1
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Vellimadakunnu,"Dug Well",W23706,2016,12.8,12.94,12.9,13.25
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Chevayur,"Dug Well",W23707,2016,11,11.31,11.57,14.3
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29416667,75.96055556,Nayarkuzhi,"Dug Well",W23708,2016,5.63,6.5,6.2,7.49
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30083333,75.93861111,Chulur,"Dug Well",W23709,2016,5.11,5.63,5.43,6.02
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30527778,75.87888889,Kunnamangalam,"Dug Well",W23710,2016,9.43,10.55,10.13,12.64
+KL,Kozhikode,"Kozhikode Corporation",Chelannur,11.31166667,75.75861111,Pavangad,"Dug Well",W23711,2016,1.1,2.5,2.57,3.31
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.32027778,75.96583333,Manassery,"Dug Well",W23712,2016,2.54,3.51,3.03,4.38
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.325,75.885,Pathimangalam,"Dug Well",W23713,2016,8.98,9.94,7.18,10.52
+KL,Kozhikode,Koduvally,Kunnamangalam,11.36027778,76.00777778,Thiruvambady,"Dug Well",W23715,2016,6.11,4.02,3.73,4.22
+KL,Kozhikode,Koduvally,Koduvaly,11.36666667,75.91027778,"Koduvalli North","Dug Well",W23716,2016,1.16,4.62,4.63,6.47
+KL,Kozhikode,Koduvally,Koduvaly,11.36777778,75.95027778,Puthur,"Dug Well",W23717,2016,6.13,7.87,7.5,8.4
+KL,Kozhikode,Chelannur,Chelannur,11.37166667,75.85611111,Narikunni,"Dug Well",W23719,2016,1.76,4.22,2.43,3.96
+KL,Kozhikode,Kozhikode,Chelannur,11.37166667,75.85611111,"Kozhikkod Beach","Dug Well",W23720,2016,2.11,2.82,2.49,2.98
+KL,Kozhikode,Chelannur,Chelannur,11.39305556,75.825,Kakkur,"Dug Well",W23722,2016,3.9,5.5,5.16,6.59
+KL,Kozhikode,Kunnamangalam,Koduvaly,11.40611111,76.01138889,Murampathy,"Dug Well",W23723,2016,5.31,5.77,5.4,6.02
+KL,Kozhikode,Balusseri,Chelannur,11.40944444,75.78611111,Naduvannur,"Dug Well",W23724,2016,5.47,8.25,7.06,7.52
+KL,Kozhikode,Koduvally,Kunnamangalam,11.43111111,76.00666667,Kodencherry,"Dug Well",W23725,2016,'0.84,'0.97,1.06,1.33
+KL,Kozhikode,Kunnamangalam,Koduvaly,11.40611111,76.01138889,Murampathy,"Dug Well",W23723,2015,3.4,NA,5.41,5.72
+KL,Kozhikode,Balusseri,Chelannur,11.40944444,75.78611111,Naduvannur,"Dug Well",W23724,2015,7.25,7.3,5.28,7.68
+KL,Kozhikode,Koduvally,Kunnamangalam,11.43111111,76.00666667,Kodencherry,"Dug Well",W23725,2015,3.9,1.17,'0.78,1.2
+KL,Kozhikode,Koduvally,Koduvaly,11.44416667,75.95555556,Perumpally,"Dug Well",W23726,2015,2.8,NA,2.65,4.12
+KL,Kozhikode,"Koilandi Municipality",Balusseri,11.44555556,75.73694444,Kannoor,"Dug Well",W23727,2015,4.5,4.6,3.68,5.35
+KL,Kozhikode,Balusseri,Balusseri,11.44805556,75.85916667,Thenamkuzhi,"Dug Well",W23728,2015,2.25,2.97,1.75,4.41
+KL,Kozhikode,Chelannur,Panthalayani,11.47138889,75.64777778,Moodali,"Dug Well",W23731,2015,'0.75,NA,'0.54,3.74
+KL,Kozhikode,Koduvally,Koduvaly,11.48111111,75.98138889,"West Pudupadi","Dug Well",W23732,2015,2.55,4.59,2.52,2.68
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Karuvannur,"Dug Well",W23736,2015,3.15,3.27,2.72,4.18
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Kurachund,"Dug Well",W23737,2015,5.15,5.38,5.09,3.87
+KL,Kozhikode,Balusseri,Balusseri,11.50416667,75.9,Atholi,"Dug Well",W23738,2015,2.7,3.45,3.42,4.57
+KL,Kozhikode,Melady,Melady,11.51111111,75.62166667,"Melady 1","Dug Well",W23740,2015,'0.94,1.45,1.02,2.02
+KL,Kozhikode,Koduvally,Perambra,11.53416667,75.77333333,Muliyangal,"Dug Well",W23746,2015,1.3,1.98,'0.95,2.3
+KL,Kozhikode,Balusseri,Balusseri,11.53861111,75.89666667,Kariyathumpara,"Dug Well",W23750,2015,2.7,2.88,2.7,2.83
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.57833333,75.6,Pudupanam,"Dug Well",W23760,2015,4.3,5.38,4.33,5.84
+KL,Kozhikode,Chelannur,Vadakara,11.57833333,75.6,Nanminda,"Dug Well",W23761,2015,4.7,5.9,3.8,6.92
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(west),"Bore Well",W23764,2015,6,5.82,5.47,6.51
+KL,Kozhikode,Vadakara,Thodannur,11.58638889,75.64777778,Thodannur,"Dug Well",W23765,2015,6.19,6.23,6.1,6.48
+KL,Kozhikode,Kunnummal,Kunnummal,11.63833333,75.805,Mullankunnu,"Dug Well",W23780,2015,'0.8,1.49,1.05,1.64
+KL,Kozhikode,Vadakara,Vadakara,11.65361111,75.60361111,Orkattery,"Dug Well",W23789,2015,1.25,2.63,1.8,3.31
+KL,Kozhikode,Kunnummal,Kunnummal,11.6625,75.73333333,Kuttiyadi,"Dug Well",W23794,2015,6.1,7.67,7.48,7.82
+KL,Kozhikode,Vadakara,Vadakara,11.67277778,75.58055556,Kunnumakkara,"Dug Well",W23803,2015,1.15,1.82,1.05,2.62
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w2),"Tube Well",W23804,2015,1.87,3.51,NA,5.02
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w3),"Tube Well",W23805,2015,2.01,4.29,NA,5.27
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w4),"Tube Well",W23806,2015,1.93,4.24,NA,5.29
+KL,Kozhikode,Kunnummal,Kunnummal,11.67416667,75.71333333,Vattoli,"Dug Well",W23807,2015,2.5,4.81,4.3,4.88
+KL,Kozhikode,Thuneri,Kunnummal,11.68916667,75.66666667,Kallachi,"Dug Well",W23812,2015,'0.1,1.52,1.6,1.8
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Tuneri1,"Dug Well",W23825,2015,2.4,3.96,3.4,4.6
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Kayapanachi,"Dug Well",W23826,2015,2.9,4.54,3.83,4.96
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.67083333,Valayam,"Dug Well",W23827,2015,4.15,6.47,6.27,7.5
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.7,Bhumivathukkal,"Dug Well",W23828,2015,3.6,6.77,6.44,6.72
+KL,Kozhikode,Thuneri,Tuneri,11.735,75.68861111,"Chiulavi (Niravamal)","Dug Well",W23834,2015,6,NA,6.82,8.37
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.13944444,75.83388889,Kottakadavu,"Dug Well",W30951,2015,NA,NA,12.8,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.17194444,75.87027778,Azhinjilam,"Dug Well",W30952,2015,NA,NA,1.95,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.19583333,75.80333333,Naduvattom,"Dug Well",W30955,2015,NA,NA,6.1,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.23,75.82888889,Iringallur,"Dug Well",W30959,2015,NA,NA,2.18,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.23333333,75.78916667,Kallai,"Dug Well",W30960,2015,NA,NA,3.43,NA
+KL,Kozhikode,Chelannur,Chelannur,11.33083333,75.74166667,"Elattur (R1)","Dug Well",W30964,2015,NA,NA,1.33,NA
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2015,5.88,7.08,4.31,7.31
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2015,6.35,7.19,2.25,7.99
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2015,3.25,3.2,3.33,3.35
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2015,7.1,7.03,6.65,7.34
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2015,7.98,8.75,8.05,9.06
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2015,3.5,3.89,2.89,4.33
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2015,2.55,3.08,1.97,3.56
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2015,2.15,2.32,1.9,2.42
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2015,1.9,NA,1.33,3.66
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2015,5.9,7.25,5.97,8.17
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2015,7.15,7.85,6.9,7.62
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2015,2.6,4.55,3.75,4.6
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2015,2.32,2.78,1.98,3.48
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2015,2.35,2.33,2.19,2.47
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2015,'0.99,1.13,1.04,1.77
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2015,4.43,5.5,4.41,6.83
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2015,1.45,2.31,1.35,4.3
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2015,5,6.23,4.65,8.39
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2015,11.4,13.09,14.2,16.52
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2015,19.66,19.5,19.54,19.6
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2015,8.3,9.37,8.59,9.47
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2015,NA,4.43,4.85,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2015,NA,'0.99,'0.2,1.8
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2015,6.32,5.24,4.64,5.58
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2015,7.73,9.04,8.25,9.54
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2015,5.6,6.6,5.78,6.69
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2015,6.7,8.2,7.21,6.6
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2015,1.47,1.38,'0.93,1.96
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2015,'0.47,2.77,2.09,4.15
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2015,3.85,7.07,4.22,6.48
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2015,1.58,2.6,1.63,4.08
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2015,3.95,4.47,4.3,4.46
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2015,'0.6,1.12,'0.6,1.81
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2015,6.2,6.57,6.23,7.49
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2015,6.65,7.87,7.4,8.99
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2015,2.75,4.06,3.33,4.75
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2015,2.88,4.55,3.47,5.4
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2015,1.71,4.08,2.8,5.05
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2015,2.6,4.48,3.42,5.25
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2015,NA,3.31,3.01,3.56
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2015,4.49,5.44,4.54,6.03
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2015,'0.55,'0.78,'0.27,1.55
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2015,18.17,24.59,24.93,24.94
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2015,NA,9.72,NA,10.48
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.175,75.85833333,"Ramanattukara (R1)","Dug Well",W23690,2015,1.4,2.07,1.64,4.16
+KL,Kozhikode,Balusseri,Kozhikode,11.17916667,75.83888889,"Atholi pz","Bore Well",W23691,2015,NA,4.85,NA,5.32
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke DW","Dug Well",W23692,2015,11.2,12.26,12.08,12.8
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.18527778,75.82194444,"Cheruvannur West","Dug Well",W23693,2015,3,4.14,3.65,5.4
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Nallalam,"Dug Well",W23704,2015,'0.8,2.21,1.15,3.87
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Karaparamba,"Dug Well",W23705,2015,2.5,2.64,2.48,2.68
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Vellimadakunnu,"Dug Well",W23706,2015,13.3,12.97,13.98,13.01
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Chevayur,"Dug Well",W23707,2015,9.51,12.16,11.6,12.78
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29416667,75.96055556,Nayarkuzhi,"Dug Well",W23708,2015,6,6.3,6,6.54
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30083333,75.93861111,Chulur,"Dug Well",W23709,2015,5.2,5.55,5.26,5.88
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30527778,75.87888889,Kunnamangalam,"Dug Well",W23710,2015,8.99,10.22,9.02,11.22
+KL,Kozhikode,"Kozhikode Corporation",Chelannur,11.31166667,75.75861111,Pavangad,"Dug Well",W23711,2015,1.65,2.38,'0.93,3.43
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.32027778,75.96583333,Manassery,"Dug Well",W23712,2015,2.8,3.23,2.73,2.9
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.325,75.885,Pathimangalam,"Dug Well",W23713,2015,7.1,10.75,9.69,11.37
+KL,Kozhikode,Koduvally,Kunnamangalam,11.36027778,76.00777778,Thiruvambady,"Dug Well",W23715,2015,5.5,3.85,3.02,4.48
+KL,Kozhikode,Koduvally,Koduvaly,11.36666667,75.91027778,"Koduvalli North","Dug Well",W23716,2015,1.4,4.23,1.28,5.85
+KL,Kozhikode,Koduvally,Koduvaly,11.36777778,75.95027778,Puthur,"Dug Well",W23717,2015,7.1,7.57,6.86,8.22
+KL,Kozhikode,Chelannur,Chelannur,11.37166667,75.85611111,Narikunni,"Dug Well",W23719,2015,2.03,1.25,1.86,3.18
+KL,Kozhikode,Kozhikode,Chelannur,11.37166667,75.85611111,"Kozhikkod Beach","Dug Well",W23720,2015,2,2.62,2.17,2.93
+KL,Kozhikode,Chelannur,Chelannur,11.39305556,75.825,Kakkur,"Dug Well",W23722,2015,3.73,5.24,3.42,6.3
+KL,Kozhikode,"Koilandi Municipality",Balusseri,11.44555556,75.73694444,Kannoor,"Dug Well",W23727,2014,NA,3.02,4.39,NA
+KL,Kozhikode,Balusseri,Balusseri,11.44805556,75.85916667,Thenamkuzhi,"Dug Well",W23728,2014,1.4,4.58,1.56,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.48111111,75.98138889,"West Pudupadi","Dug Well",W23732,2014,1.9,4.39,2.54,2.5
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Karuvannur,"Dug Well",W23736,2014,2.35,3.62,3.24,1.1
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Kurachund,"Dug Well",W23737,2014,3.95,5.89,5.32,4.2
+KL,Kozhikode,Balusseri,Balusseri,11.50416667,75.9,Atholi,"Dug Well",W23738,2014,1.65,3.81,3,4.7
+KL,Kozhikode,Melady,Melady,11.51111111,75.62166667,"Melady 1","Dug Well",W23740,2014,1.35,1.7,'0.82,NA
+KL,Kozhikode,Balusseri,Balusseri,11.53861111,75.89666667,Kariyathumpara,"Dug Well",W23750,2014,1.85,3.02,3,2.9
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.57833333,75.6,Pudupanam,"Dug Well",W23760,2014,3.5,5.57,4.5,NA
+KL,Kozhikode,Chelannur,Vadakara,11.57833333,75.6,Nanminda,"Dug Well",W23761,2014,2.5,6.24,3.87,6.95
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(west),"Bore Well",W23764,2014,NA,NA,5.31,NA
+KL,Kozhikode,Vadakara,Thodannur,11.58638889,75.64777778,Thodannur,"Dug Well",W23765,2014,3.9,2.56,6.35,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.63833333,75.805,Mullankunnu,"Dug Well",W23780,2014,NA,NA,1.02,NA
+KL,Kozhikode,Vadakara,Vadakara,11.65361111,75.60361111,Orkattery,"Dug Well",W23789,2014,NA,NA,1.15,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.6625,75.73333333,Kuttiyadi,"Dug Well",W23794,2014,6.4,7.72,7.88,7.3
+KL,Kozhikode,Vadakara,Vadakara,11.67277778,75.58055556,Kunnumakkara,"Dug Well",W23803,2014,NA,NA,1.28,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w2),"Tube Well",W23804,2014,NA,4.79,2.82,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w3),"Tube Well",W23805,2014,NA,NA,3.04,5.03
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w4),"Tube Well",W23806,2014,NA,4.35,2.97,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.67416667,75.71333333,Vattoli,"Dug Well",W23807,2014,2.5,4.27,3.7,4.6
+KL,Kozhikode,Thuneri,Kunnummal,11.68916667,75.66666667,Kallachi,"Dug Well",W23812,2014,'0.7,NA,'0.8,1.3
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Tuneri1,"Dug Well",W23825,2014,3,4.06,3.49,4.47
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Kayapanachi,"Dug Well",W23826,2014,3,4.16,3.9,4.69
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.67083333,Valayam,"Dug Well",W23827,2014,4.5,7.62,5.92,8.13
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.7,Bhumivathukkal,"Dug Well",W23828,2014,'0.87,6.91,5.98,6.67
+KL,Kozhikode,Chelannur,Kozhikode,11.215,75.83416667,Kodinattumukku,"Dug Well",W30958,2014,1.6,3.58,'0.71,3.5
+KL,Kozhikode,Kozhikode,Kozhikode,11.25,75.79166667,Koodathumpara,"Dug Well",W30961,2014,'0.37,2.56,'0.42,3.7
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25472222,75.78194444,"Kozhikode City-I","Dug Well",W30962,2014,1,3,1.28,NA
+KL,Kozhikode,Chelannur,Chelannur,11.33083333,75.74166667,"Elattur (R1)","Dug Well",W30964,2014,'0.25,NA,NA,NA
+KL,Kozhikode,Balusseri,Chelannur,11.4025,75.85416667,Kuttampur,"Dug Well",W30966,2014,1.85,4.75,2.02,4.95
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2014,2.43,7.38,5.46,7.38
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2014,3.95,8.79,6.08,NA
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2014,2.7,3.41,3.21,3.55
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2014,6.75,7.65,7.03,8.25
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2014,6.7,9.1,8.14,9.2
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2014,'0.8,4,3.41,'0.8
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2014,1.55,3.19,2.48,3.6
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2014,'0.95,2.59,1.27,1.5
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2014,NA,3.04,1.7,4.25
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2014,4.55,7.62,5.3,7.9
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2014,2.05,8.8,6.17,8.95
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2014,1.02,5.42,1.22,5.2
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2014,1.15,2.97,2.26,5.4
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2014,2.05,2.47,2.37,2.55
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2014,'0.77,1.48,1.19,1.72
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2014,3.13,5.85,4.64,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2014,'0.45,3,'0.86,4.05
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2014,NA,NA,4.08,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2014,NA,3.72,NA,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2014,8.7,15.45,10.41,16.4
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2014,7,20,20,13.4
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2014,2.4,8.3,8.5,5.9
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2014,NA,5.6,5.63,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2014,'0.4,1.77,'0.34,1.6
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2014,2.75,5.49,6.53,5.35
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2014,5.7,8.85,8.07,9.45
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2014,2.77,6.07,5.23,6.3
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2014,4.7,5.9,7.07,6
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2014,NA,1.78,'0.86,NA
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2014,1.3,3.08,1.86,NA
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2014,2,6.17,4.3,6.75
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2014,'0.73,2.84,1.65,NA
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2014,2.5,4.76,2.58,4.7
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2014,'0.65,1.31,'0.62,1.5
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2014,1.59,5.73,NA,5.44
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2014,5.1,6.84,6.31,7.65
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2014,6.8,8.14,7.08,9.16
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2014,2.6,4.25,3.55,5.12
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2014,NA,4.3,3.11,5.21
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2014,2.23,4.6,3.53,5.27
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2014,3.05,3.47,2.84,3.6
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2014,3.94,5.68,4.81,5.76
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2014,NA,'0.95,'0.47,1.25
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2014,18.5,24.8,23.61,26
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2014,7.45,11.07,8.92,3.55
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.175,75.85833333,"Ramanattukara (R1)","Dug Well",W23690,2014,'0.85,NA,1.69,NA
+KL,Kozhikode,Balusseri,Kozhikode,11.17916667,75.83888889,"Atholi pz","Bore Well",W23691,2014,2.9,4.11,4.03,5.5
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke DW","Dug Well",W23692,2014,10.82,12.52,11.83,12.9
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.18527778,75.82194444,"Cheruvannur West","Dug Well",W23693,2014,2.5,5.43,3.25,5.3
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Nallalam,"Dug Well",W23704,2014,'0.7,2.61,'0.99,4.5
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Karaparamba,"Dug Well",W23705,2014,2,2.8,2.48,2.8
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Vellimadakunnu,"Dug Well",W23706,2014,7,12.66,13.42,13.3
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Chevayur,"Dug Well",W23707,2014,8.05,12.05,9.75,13.65
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29416667,75.96055556,Nayarkuzhi,"Dug Well",W23708,2014,3.2,6.52,5.78,7.15
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30083333,75.93861111,Chulur,"Dug Well",W23709,2014,1.55,5.76,NA,6.1
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30527778,75.87888889,Kunnamangalam,"Dug Well",W23710,2014,5.23,12.32,8.43,12.1
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.325,75.885,Pathimangalam,"Dug Well",W23713,2014,5.8,11.36,10.1,12.1
+KL,Kozhikode,Koduvally,Kunnamangalam,11.36027778,76.00777778,Thiruvambady,"Dug Well",W23715,2014,NA,NA,3.2,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.36777778,75.95027778,Puthur,"Dug Well",W23717,2014,5.35,8.02,6.64,8.4
+KL,Kozhikode,Chelannur,Chelannur,11.37166667,75.85611111,Narikunni,"Dug Well",W23719,2014,'0.6,4.94,1,4.7
+KL,Kozhikode,Kozhikode,Chelannur,11.37166667,75.85611111,"Kozhikkod Beach","Dug Well",W23720,2014,1.15,3.56,2.18,2.8
+KL,Kozhikode,Chelannur,Chelannur,11.39305556,75.825,Kakkur,"Dug Well",W23722,2014,2.45,5.71,3.99,6.8
+KL,Kozhikode,Balusseri,Chelannur,11.40944444,75.78611111,Naduvannur,"Dug Well",W23724,2014,3.85,6.8,6.18,7.4
+KL,Kozhikode,Koduvally,Kunnamangalam,11.43111111,76.00666667,Kodencherry,"Dug Well",W23725,2014,NA,NA,1.08,NA
+KL,Kozhikode,Balusseri,Balusseri,11.50416667,75.9,Atholi,"Dug Well",W23738,2013,NA,NA,2.71,NA
+KL,Kozhikode,Melady,Melady,11.51111111,75.62166667,"Melady 1","Dug Well",W23740,2013,1.2,NA,1.01,2.35
+KL,Kozhikode,Balusseri,Balusseri,11.53861111,75.89666667,Kariyathumpara,"Dug Well",W23750,2013,NA,NA,2.67,2.7
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.57833333,75.6,Pudupanam,"Dug Well",W23760,2013,NA,NA,4.68,NA
+KL,Kozhikode,Chelannur,Vadakara,11.57833333,75.6,Nanminda,"Dug Well",W23761,2013,4.6,NA,5.38,7.4
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(west),"Bore Well",W23764,2013,5.2,5.9,5.3,7.4
+KL,Kozhikode,Kunnummal,Kunnummal,11.6625,75.73333333,Kuttiyadi,"Dug Well",W23794,2013,7.55,NA,7.6,7.8
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w2),"Tube Well",W23804,2013,2.45,4.75,2.37,5.45
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w3),"Tube Well",W23805,2013,1.5,4.3,NA,4.9
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w4),"Tube Well",W23806,2013,NA,4.55,2.54,2.25
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Tuneri1,"Dug Well",W23825,2013,3.8,4.3,3.52,5.1
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Kayapanachi,"Dug Well",W23826,2013,4.4,4.4,3.52,4.33
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.67083333,Valayam,"Dug Well",W23827,2013,8,NA,6.73,8.55
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.7,Bhumivathukkal,"Dug Well",W23828,2013,NA,NA,6.2,9.16
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara,"Dug Well",W30953,2013,1.15,NA,NA,NA
+KL,Kozhikode,Chelannur,Kozhikode,11.215,75.83416667,Kodinattumukku,"Dug Well",W30958,2013,NA,NA,'0.53,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.25,75.79166667,Koodathumpara,"Dug Well",W30961,2013,1.75,2.8,'0.77,3.75
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25472222,75.78194444,"Kozhikode City-I","Dug Well",W30962,2013,1,NA,1.91,3.39
+KL,Kozhikode,Balusseri,Chelannur,11.4025,75.85416667,Kuttampur,"Dug Well",W30966,2013,NA,NA,2.14,NA
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2013,2.58,7.48,5.5,5.58
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2013,8.35,6.85,5.84,7.35
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2013,NA,3.35,3.11,3.75
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2013,NA,7.05,6.47,7.65
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2013,8.3,9.4,8.3,9.4
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2013,2.7,4.3,2.99,3.55
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2013,2.4,3.7,2.48,3.95
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2013,2.1,2.4,2.14,3.25
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2013,1.6,3.7,1.68,4.9
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2013,5.2,7.6,6.34,8.4
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2013,5.95,9.05,6.2,9.75
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2013,1.55,5.4,1.33,5.6
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2013,1.85,3.85,2.33,3.7
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2013,2.25,2.45,2.03,3.45
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2013,'0.37,'0.77,1.01,1.87
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2013,3.63,5.93,4.58,5.83
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2013,'0.85,3.55,1.14,5.7
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2013,NA,7.1,5.03,8.6
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2013,1.15,2.9,1.33,4
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2013,11.1,NA,11.78,8.55
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2013,11.3,19.3,19.53,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2013,4.59,6,8.71,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2013,4.5,NA,4.9,5.5
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2013,'0.4,1.65,NA,1.8
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2013,NA,8.1,NA,7.5
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2013,3.95,5.55,7.87,5.35
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2013,6.9,9.15,7,9.85
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2013,4.6,6.6,5.09,7
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2013,6.1,7.1,6.6,6.5
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2013,'0.7,1.5,'0.92,2.7
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2013,NA,NA,NA,1.4
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2013,1.75,3.35,1.83,4.45
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2013,2.95,5.25,4.59,8.35
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2013,1.08,2.98,1.73,2.53
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2013,4.56,4.9,3.99,4.9
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2013,1,1.6,'0.58,2.45
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2013,5.29,6.69,NA,7.09
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2013,3.1,6.8,6.21,8.1
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2013,6.8,8.3,7.3,10.5
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2013,2.95,4.55,3.41,7.25
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2013,2.5,NA,NA,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2013,1.7,4.7,2.5,5.1
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2013,1.6,5.1,3.5,4.95
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2013,6.35,3.35,NA,3.65
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2013,4.34,5.64,4.72,6.77
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2013,NA,2.05,'0.4,2.05
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2013,NA,26.5,23.93,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2013,8.18,6.9,9.13,12.05
+KL,Kozhikode,Balusseri,Kozhikode,11.17916667,75.83888889,"Atholi pz","Bore Well",W23691,2013,NA,NA,3.45,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke DW","Dug Well",W23692,2013,8.12,12.6,11.93,11.36
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.18527778,75.82194444,"Cheruvannur West","Dug Well",W23693,2013,3.9,NA,3.33,5
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Nallalam,"Dug Well",W23704,2013,4.1,3.3,'0.97,4.83
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Karaparamba,"Dug Well",W23705,2013,2.4,2.9,2.44,2.6
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Vellimadakunnu,"Dug Well",W23706,2013,10.2,13.4,12.89,16.4
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Chevayur,"Dug Well",W23707,2013,9.25,11.65,11.44,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29416667,75.96055556,Nayarkuzhi,"Dug Well",W23708,2013,5.9,NA,5.62,7.5
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30527778,75.87888889,Kunnamangalam,"Dug Well",W23710,2013,8.4,NA,8.57,8.2
+KL,Kozhikode,Kozhikode,Chelannur,11.37166667,75.85611111,"Kozhikkod Beach","Dug Well",W23720,2013,NA,NA,NA,3
+KL,Kozhikode,Chelannur,Chelannur,11.39305556,75.825,Kakkur,"Dug Well",W23722,2013,4.05,NA,4.63,7
+KL,Kozhikode,Balusseri,Chelannur,11.40944444,75.78611111,Naduvannur,"Dug Well",W23724,2013,NA,NA,5.82,NA
+KL,Kozhikode,Balusseri,Balusseri,11.44805556,75.85916667,Thenamkuzhi,"Dug Well",W23728,2013,NA,NA,2.57,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.48111111,75.98138889,"West Pudupadi","Dug Well",W23732,2013,NA,NA,2.8,3.9
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Karuvannur,"Dug Well",W23736,2013,3.2,NA,NA,2.2
+KL,Kozhikode,Balusseri,Balusseri,11.50222222,75.77333333,Kurachund,"Dug Well",W23737,2013,3.41,NA,5.14,4.1
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2012,NA,7.23,5.88,7.43
+KL,Kozhikode,Kozhikode,Kozhikode,11.25,75.79166667,Koodathumpara,"Dug Well",W30961,2012,NA,NA,3,NA
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2012,NA,3.55,3.15,3.75
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2012,NA,7.05,6.55,7.35
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2012,NA,4.13,8.6,9.3
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2012,NA,3.8,3.1,4.2
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2012,NA,3.09,2.6,3.6
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2012,NA,2.38,2.2,2.7
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2012,NA,2.47,1.35,4.1
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2012,NA,7.3,6.2,8
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2012,NA,8.85,7.35,9.25
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2012,NA,5.31,3.8,5.05
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2012,NA,2.77,2.15,3.05
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2012,NA,2.19,2.15,2.75
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2012,NA,1.23,'0.27,1.37
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2012,NA,5.41,4.35,6.73
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2012,NA,2.72,2.1,4.45
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2012,NA,5.5,NA,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2012,NA,2.1,1.9,3.6
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2012,NA,15.1,NA,13.3
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2012,NA,19.65,19.6,19.3
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2012,NA,9.46,7.3,6.2
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2012,NA,5.2,7.9,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2012,NA,3.03,'0.75,1.7
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2012,NA,8.15,7.2,7.2
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2012,NA,5.68,5.25,5.75
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2012,NA,8.81,7.85,9.35
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2012,NA,5.66,5.2,5.7
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2012,NA,7.67,6.2,6.2
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2012,NA,'0.37,'0.4,NA
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2012,NA,'0.35,1.3,NA
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2012,NA,2.8,2.05,4.15
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2012,NA,4.25,2.6,6.75
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2012,NA,2.59,1.98,4.08
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2012,NA,4.83,3.85,4.7
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2012,NA,1.16,'0.3,1.5
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2012,NA,5.59,5.09,7.29
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2012,NA,6.67,6.4,7.6
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2012,NA,7.76,7.7,8.9
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2012,NA,4.25,3.45,4.65
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2012,NA,4.65,2.05,5.2
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2012,NA,4.28,3.5,5.2
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2012,NA,3.01,2.95,3.35
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2012,NA,5.03,4.44,6.64
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2012,NA,1.51,'0.55,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2012,NA,24.49,25.2,35.5
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2012,NA,NA,NA,10.45
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke DW","Dug Well",W23692,2012,NA,NA,12.3,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Nallalam,"Dug Well",W23704,2012,NA,NA,'0.95,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Karaparamba,"Dug Well",W23705,2012,NA,NA,2.7,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Vellimadakunnu,"Dug Well",W23706,2012,NA,NA,13.2,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Chevayur,"Dug Well",W23707,2012,NA,NA,10.75,NA
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(west),"Bore Well",W23764,2012,NA,NA,4.09,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w2),"Tube Well",W23804,2012,NA,NA,2.85,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w3),"Tube Well",W23805,2012,NA,NA,3,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w4),"Tube Well",W23806,2012,NA,NA,2.65,NA
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Tuneri1,"Dug Well",W23825,2012,NA,NA,3.5,NA
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.63361111,Kayapanachi,"Dug Well",W23826,2012,NA,NA,2,NA
+KL,Kozhikode,Thuneri,Tuneri,11.72,75.67083333,Valayam,"Dug Well",W23827,2012,NA,NA,7.5,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara,"Dug Well",W30953,2012,NA,NA,1.9,NA
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2012,NA,6.45,6.35,7.55
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2011,3.48,6.78,4.38,7.33
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2011,NA,13.35,13.65,14.64
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2011,1.17,2.17,2.35,3.17
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2011,NA,7.66,6.95,8.25
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2011,7.7,8.8,8.12,9.22
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2011,1.87,3.52,1.7,3.84
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2011,1.83,2.92,1.88,NA
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2011,1.88,2.3,1.75,2.4
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2011,'0.8,2.68,2.34,3.81
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2011,4.9,6.81,5.02,7.45
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2011,3.39,9.27,4.15,7.99
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2011,1.07,5.01,1.12,4.82
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2011,1.45,2.26,1.7,2.48
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2011,2.1,1.89,2.05,2.36
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2011,'0.17,'0.87,'0.26,'0.73
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2011,2.88,5.47,4.62,6.64
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2011,'0.4,3.32,2.41,3.68
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2011,NA,7.56,3.73,5.53
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2011,'0.18,2.31,2.72,2.41
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2011,8.8,11.78,10.62,16.11
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2011,19.2,19.47,15.9,17.7
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2011,6.15,8.84,7.89,9.3
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2011,NA,5.16,5.99,6.5
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2011,'0.76,2.12,'0.5,1.32
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2011,5.5,7.37,6.62,7.37
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2011,3.55,8.25,4.45,5.79
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2011,5.78,8.96,7.55,9.07
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2011,2.75,7.3,2.9,5.6
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2011,3.75,7.2,4.1,5.92
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2011,NA,1.96,NA,NA
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2011,1.4,2.67,1.4,4.3
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2011,2.4,5.27,4.79,6.97
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2011,'0.7,2.62,1.6,3.7
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2011,1.85,4.4,3.9,5
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2011,'0.34,1.05,'0.3,1.1
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2011,3.97,7.4,2.43,2.59
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2011,5.62,6.6,6,7.05
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2011,6.08,7.65,6.2,8.52
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2011,NA,4.77,3.31,3.44
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2011,NA,3.9,NA,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2011,1.5,4.1,2.8,5.32
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2011,2.12,3.65,1.37,1.54
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2011,3.39,6.24,4.72,5.88
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2011,'0.5,1.14,NA,2.45
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2011,8.45,23.6,20.68,24.38
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2011,NA,NA,6.59,6.86
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2010,3.3,4.65,3.43,8.23
+KL,Kozhikode,Kozhikode,Chelannur,11.40555556,75.78333333,"Kulathur pz","Bore Well",W21000,2010,6.53,7.2,NA,NA
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2010,1.25,2.71,1.69,3.25
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2010,6.82,8.02,6.75,6.25
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2010,5.03,9.14,7.55,9.35
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2010,1.81,5.02,2.87,3.95
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2010,2.34,2.83,2.01,NA
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2010,1.59,1.83,1.75,2.7
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2010,1.46,2.42,1.43,2.9
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2010,5.35,6.89,4.85,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2010,5.29,8.78,NA,9.69
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2010,1.25,4.98,1.02,5.1
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2010,1.23,3.31,1.1,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2010,2.16,1.55,2.16,2.7
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2010,'0.79,1.39,'0.23,1.35
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2010,3.28,5.8,4.15,6.63
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2010,2.09,2.85,1.15,4.38
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2010,4.74,7.63,4.91,8.3
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2010,1.47,2.3,1.02,3.9
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2010,7.92,11.9,10.2,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2010,15.62,17.64,12.73,13.47
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2010,3.62,8.48,6.4,6.15
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2010,5.94,6.24,4.91,5.4
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2010,'0.9,1.8,1.12,1.4
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2010,7.03,7.92,5.85,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2010,5.37,5.99,4.02,5.62
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2010,3.19,7.84,6.7,9.35
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2010,3.4,5.54,2.72,5.8
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2010,4.33,7.54,5.5,NA
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2010,1.7,2.03,1.11,NA
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2010,NA,NA,'0.53,NA
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2010,1.69,2.29,1.58,4.23
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2010,3.76,5.32,3.15,7.35
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2010,'0.41,2.5,1.36,3.98
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2010,1.53,3.46,2.84,4.5
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2010,'0.84,1.66,'0.5,1.3
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2010,2.12,7.22,3.19,7.04
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2010,5.44,7.2,5.73,6.55
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2010,5.99,7.4,6.8,8.75
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2010,2.82,4.62,3.26,5.15
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2010,4.32,3.9,3.21,5.2
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2010,2.19,4.42,3.13,4.9
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2010,4.22,2.82,2.25,7.18
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2010,4.33,5.26,4.56,6.14
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2010,1.49,1.45,NA,3.64
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2010,22.6,22.31,7.07,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2010,6.55,13.45,4.2,10.65
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2010,6.45,7.45,NA,7.35
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2009,2.85,7.46,3.37,8.19
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2009,5.78,6.52,6.19,6.69
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2009,1.61,2.95,1.81,3.77
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2009,6.53,7.04,6.01,7.79
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2009,5.86,9.27,6.23,9.68
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2009,1.87,3.96,1.19,4.05
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2009,1.71,3.13,1.96,NA
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2009,1.91,2.34,1.74,2.63
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2009,1.3,2.61,1.32,4.2
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2009,5.4,7.27,5.68,8.16
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2009,5.01,9.45,5.34,9.86
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2009,1.36,4.73,1.24,4.81
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2009,1.12,2.84,1.19,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2009,1.84,2.3,1.87,3.15
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2009,1.08,'0.85,'0.84,1.51
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.45,75.71388889,Kuruvangad,"Bore Well",W03395,2009,NA,3.58,NA,NA
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2009,3.49,5.55,3.3,6.93
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2009,'0.82,2.84,1.76,4.77
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2009,5.61,6.39,6.32,5.24
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2009,2.14,1.13,1.24,2.75
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2009,8.27,10.78,10.06,16.4
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2009,17.42,19.52,18.67,16.72
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2009,3.96,8.59,4.47,9.17
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2009,5.56,5.21,6.72,6.64
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2009,'0.57,1.33,'0.72,2.12
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2009,6.76,8.16,6.39,7.84
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2009,4.67,6.01,5.12,5.85
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2009,6.32,9.18,6.46,9.51
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2009,3.11,5.77,2.82,5.87
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2009,3.89,7.4,5.54,6.57
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2009,NA,1.39,1.72,1.97
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2009,1.81,3.06,1.67,4.75
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2009,5.58,NA,5.99,NA
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2009,'0.66,2.74,1.48,3.33
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2009,'0.99,4.46,'0.92,4.18
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2009,1.03,1.33,1.2,2.22
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2009,2.78,6.56,3.41,2.48
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2009,5.23,6.7,4.77,7.9
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2009,6.44,8.14,5.99,9.2
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2009,3.06,4.19,3.25,3.34
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2009,4.44,4.06,4.08,5.04
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2009,2.19,4.2,1.28,5.27
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2009,4.19,NA,3.55,4.54
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2009,3.31,5.47,4.28,6.3
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2009,1.48,'0.79,1.72,1.84
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2009,21.64,22.04,20.99,24.66
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2009,11.72,9.85,10.82,14.29
+KL,Kozhikode,Kozhikode,Chelannur,11.40555556,75.78333333,"Kulathur pz","Bore Well",W21000,2009,5.8,NA,6.58,6.73
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2008,3.87,3.93,2.14,4.57
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2008,2.26,3.11,2.51,3.29
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2008,3.45,3.45,3.06,NA
+KL,Kozhikode,"Vadakara Municipality",Vadakara,11.59166667,75.5875,Badagara,"Dug Well",W21533,2008,4.7,5.64,4.75,5.21
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2008,1.7,1.18,'0.5,2.77
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2008,22.34,23,21.66,26.52
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2008,9.05,12.75,9.14,9.42
+KL,Kozhikode,Kozhikode,Chelannur,11.40555556,75.78333333,"Kulathur pz","Bore Well",W21000,2008,5.84,NA,NA,8.41
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2008,3.3,4.21,3.98,4.35
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2008,'0.41,1.44,'0.71,1.46
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2008,6.44,7.09,5.67,4.69
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2008,6.1,6.88,6.42,6.62
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2008,6.75,7.96,7.38,8.62
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2008,NA,4.3,3.33,3.64
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2008,4.15,6,5.27,5.67
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2008,5.9,7.25,6.41,6.23
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2008,'0.72,NA,'0.8,NA
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2008,NA,NA,NA,1.08
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2008,1.77,3.11,2.04,3.46
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2008,2.86,4.94,4.47,6.77
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2008,1.46,2.46,1.52,3.38
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2008,19.72,NA,19.57,23.94
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2008,5.79,8.92,7.3,9.33
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2008,5.83,6.02,4.99,5.78
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2008,2.17,NA,'0.32,'0.82
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2008,5.66,7.7,7.43,8.24
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2008,5.21,6.18,5.32,5.59
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2008,6.68,8.95,6.93,9.31
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2008,2.07,1.81,2.28,2.37
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2008,'0.52,1.04,'0.28,1.12
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2008,3.58,5.4,4.04,6.55
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2008,1.99,2.55,1.17,3.23
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2008,4.3,6.99,4.34,7.75
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2008,'0.3,2.18,1.66,'0.17
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2008,11.5,13.17,10.34,13.97
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2008,1.9,1.71,2.02,2.21
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2008,1.3,2.71,1.51,3.44
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2008,5.3,7.2,5.41,7.07
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2008,6.8,8.65,7.03,9.4
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2008,1.7,5.5,1.89,4.82
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2008,1.75,3.15,2.23,2.98
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2008,3.34,4.3,5.9,7.46
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2008,6.23,NA,3.9,7.76
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2008,2.9,3.33,1.52,2.65
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2008,6.65,NA,7.14,5.29
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2008,7.85,10.14,8.32,9.05
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2008,2.5,3.85,3.01,3.73
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2008,2.86,3.73,2.78,4.66
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2007,1.14,3.38,1.59,4.89
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2007,2.25,2.77,2.55,3.5
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2007,2.54,3.4,2.51,2.62
+KL,Kozhikode,Balusseri,Balusseri,11.5,75.77361111,"Karuvannur pz","Bore Well",W21251,2007,'0.55,1.97,'0.65,1.25
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2007,21.1,24.31,25.8,25.4
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2007,NA,9.7,9.2,10.65
+KL,Kozhikode,Kozhikode,Chelannur,11.40555556,75.78333333,"Kulathur pz","Bore Well",W21000,2007,5.59,4.68,6.04,6.74
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2007,3.03,3.6,3.26,3.52
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2007,'0.44,1.01,'0.39,2.22
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2007,4.43,5.36,3.95,7.14
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2007,6.12,6.37,5.86,7.24
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2007,6.41,7.43,6.98,8.79
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2007,2.36,3.96,2.77,5.11
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2007,NA,3.47,NA,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2007,3.87,5.66,4.75,6.05
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2007,4.82,7.38,6.12,6.3
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2007,'0.45,1.2,'0.95,2.9
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2007,'0.45,'0.4,'0.9,1.05
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2007,1.59,2.55,'0.91,4.23
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2007,2.55,4.75,3.85,6.85
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2007,1.28,2.29,1.58,4.13
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2007,19.6,19.58,19.5,21.9
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2007,6.95,8.47,8.05,9.35
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2007,4.7,4.83,4.6,5.9
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2007,'0.35,1.26,'0.8,1.35
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2007,6.9,7.92,7.35,8.45
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2007,5.12,5.47,5.62,6.4
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2007,6.25,8.5,7.58,9.15
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2007,'0.32,1.24,'0.47,1.57
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2007,3.13,5.05,3.88,6.78
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2007,'0.55,1.87,1.2,4.2
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2007,4.95,5.5,5.2,8.25
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2007,1.25,1.86,1.55,3
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2007,10,15.52,10.55,16.8
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2007,1.95,2.08,2.08,2.8
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2007,1.1,2.22,1.4,3.9
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2007,5.05,6.9,5.65,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2007,5.9,6.91,7,10.15
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2007,1.3,5.07,2.5,5.15
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2007,1.68,2.51,1.61,3.87
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2007,2.14,2.07,2.27,3.09
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2007,5.03,6.86,6.13,8.63
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2007,5.5,5.97,5.9,7.75
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2007,1.57,2.85,2.88,3.65
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2007,4.9,6.01,6.75,7.55
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2007,7.6,8.82,7.7,9.3
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2007,2,3.52,3,3.85
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2007,1.62,4.04,2.38,5.12
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2006,1.2,4.01,1.85,4.9
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2006,1.85,3.03,2.4,3.4
+KL,Kozhikode,Perambra,Perambra,11.59861111,75.75972222,"Kalikadavu pz","Bore Well",W21132,2006,NA,NA,2.85,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.26944444,75.82638889,"Chevayur pz","Bore Well",W20998,2006,20.6,NA,24.05,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.17916667,75.83888889,"Feroke pz","Bore Well",W20999,2006,8.25,NA,9.3,NA
+KL,Kozhikode,Kozhikode,Chelannur,11.40555556,75.78333333,"Kulathur pz","Bore Well",W21000,2006,5.35,NA,6.25,NA
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2006,2.65,4.53,3.3,4.1
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2006,'0.47,1.66,'0.65,2
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2006,3.59,5.48,4.34,7.04
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2006,6.07,6.2,6.3,7.3
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2006,6.24,8.3,6.7,8.95
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2006,2.24,7.97,3.1,5.23
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2006,NA,4.53,NA,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2006,3.05,6.16,4.2,6.3
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2006,4.89,7.09,5.3,6.4
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2006,'0.68,1.91,'0.85,1.9
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2006,NA,3.46,'0.9,1.4
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2006,1.07,3.25,1.65,4.45
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2006,3.12,5.89,NA,6.55
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2006,1.45,4.98,1.58,4.18
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2006,19.45,19.66,19.65,19.7
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2006,6.51,7.18,8.45,9.1
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2006,4.77,5.38,4.55,5.95
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2006,'0.38,1.62,'0.55,1.45
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2006,6.06,8.16,7.4,8.6
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2006,4.77,4.57,5.25,6
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2006,5.43,9.07,7.25,9.2
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2006,1.43,1.82,1.4,2.8
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.45,75.71388889,Kuruvangad,"Bore Well",W03395,2006,NA,2.36,NA,1.67
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2006,3.49,5.83,4.18,6.78
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2006,'0.47,2.36,1.05,3.92
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2006,NA,7.96,4.55,8.2
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2006,1.15,3.21,1.45,2.8
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2006,9.08,15.28,11.4,16.05
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2006,1.87,1.78,2.55,3
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2006,1.39,2.5,1.75,3.9
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2006,4.92,5.3,5.6,8
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2006,3.27,8.67,6.55,10.05
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2006,1.1,4.72,1.45,5.08
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2006,1.83,2.66,1.9,3.3
+KL,Kozhikode,Koduvally,Koduvaly,11.43777778,75.94166667,Perambra1,"Bore Well",W03392,2006,NA,4.16,NA,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2006,2.13,2.64,2.15,2.9
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2006,3.1,7.69,4.83,9.03
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2006,4.86,7.51,5.65,8.75
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2006,1.76,2.87,2.5,3.63
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2006,6.05,7.05,6.7,7.45
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2006,7.08,9.3,8.1,9.25
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2006,2.13,4.02,2.65,4
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2006,1.66,4.38,2.55,5.25
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2005,1.74,NA,'0.72,NA
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2005,2.49,3.15,2.41,3.38
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2005,3.54,4.45,2.06,5.93
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2005,'0.66,1.3,'0.2,1.98
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2005,5.26,6.49,4.11,5.69
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2005,6.18,6.7,6.16,7.02
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2005,6.86,7.7,7.16,8.21
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2005,3.01,4.35,3.28,4.77
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2005,NA,4.12,3.63,3.77
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2005,4.71,6.1,5.11,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2005,4.5,7.1,7.3,5.31
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2005,'0.86,1.45,1.26,1.86
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2005,NA,1.95,2.92,1.11
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2005,2.12,2.8,'0.98,3.9
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2005,3.85,4.4,3.36,5.87
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2005,1.72,2.8,2.31,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2005,19.44,NA,18.46,19.73
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2005,8.14,-0.5,7.11,9.12
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2005,5.07,NA,5.11,6
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2005,'0.33,2.1,1.36,1.23
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2005,7.22,NA,6.89,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2005,5.57,5.95,4.83,5.98
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2005,7.32,9.25,7.76,9.78
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2005,1.2,1.55,'0.9,2.91
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.45,75.71388889,Kuruvangad,"Bore Well",W03395,2005,'0.58,1.45,1.66,1.31
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2005,4.03,5.58,4.84,6.63
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2005,'0.99,2.45,'0.75,4.11
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2005,4.44,NA,NA,NA
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2005,1.63,2.25,1.53,2.96
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2005,11.84,15.1,12.72,16.86
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2005,NA,1.8,1.33,2.11
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2005,1.78,2.8,1.61,3.88
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2005,5.48,7.25,1.51,7.82
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2005,6.83,8.5,6.86,9.6
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2005,2.4,5.25,2.41,4.9
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2005,1.85,2.7,1.11,3.05
+KL,Kozhikode,Koduvally,Koduvaly,11.43777778,75.94166667,Perambra1,"Bore Well",W03392,2005,NA,NA,2.51,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2005,2.23,2.15,2.03,3.23
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2005,5.83,7.73,5.46,7.78
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2005,5.66,6.2,5.51,NA
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2005,1.69,3.6,3.26,3.82
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2005,6.71,7,4.97,8.14
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2005,8.11,8.15,8.58,8.83
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2005,3.68,4.55,2.92,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2005,2.34,4.4,2.83,5.21
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2004,2.44,4.8,3.25,5.36
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2004,2.2,3.14,1.98,3.57
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2004,'0.7,1.78,'0.63,3.06
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2004,2.03,5.57,4.11,7.29
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2004,5.99,6.4,6.05,6.96
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2004,6.42,7.98,6.62,8.24
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2004,2.91,5.01,3.43,NA
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2004,NA,5.52,NA,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2004,1.41,5.12,NA,5.37
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2004,3.32,6.83,2.85,6.07
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2004,4.97,7.1,5.91,6.14
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2004,'0.71,1.4,'0.8,2
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2004,NA,NA,'0.74,1.28
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2004,1.5,2.97,1.42,3.79
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2004,2.71,6.78,3.12,7.04
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2004,'0.88,2.34,1.53,4.46
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2004,3.48,6.28,5.61,8.72
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2004,2.86,5.19,4.97,6.24
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2004,'0.88,1.81,'0.34,1.69
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2004,6.73,8.02,NA,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2004,6.04,5.14,4.92,6.24
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2004,3.54,9.33,7.84,10.19
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2004,1.75,2.1,1.83,3.32
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.45,75.71388889,Kuruvangad,"Bore Well",W03395,2004,1.14,1.6,'0.41,1.58
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2004,3.06,5.71,4.32,6.99
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2004,'0.66,2.77,1.08,5
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2004,5.34,NA,NA,9.77
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2004,1.28,1.86,1.23,3.34
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2004,8.61,15.64,14.33,16.8
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2004,14.97,19.96,20.6,19.76
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2004,1.52,2.78,1.17,2.17
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2004,1.34,2.06,1.53,4.38
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2004,2.57,6.33,5.18,8.49
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2004,5.71,8.55,4.15,9.96
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2004,1.27,3.73,2.13,5.54
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2004,1.15,2.86,2.12,4.2
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2004,2.28,2.24,2.1,3.04
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2004,2.68,7.06,4.29,3.5
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2004,3.87,6.98,NA,NA
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2004,2.07,3.75,2.67,3.77
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2004,3.01,6.33,7.27,8.18
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2004,4.51,9.16,7.7,10.25
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2004,2.67,4.36,NA,NA
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2004,1.47,5.16,4.58,4.5
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2003,2.08,4.23,4.03,5.31
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2003,2.08,4.63,2.19,4.42
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2003,'0.31,1.18,1.51,2.24
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2003,3.3,6.06,3.1,7.16
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2003,5.73,6.5,5.88,6.99
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2003,4.62,7.47,6.16,8.86
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2003,2.75,4.99,4.14,5.11
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2003,NA,NA,4.31,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2003,2.03,NA,3.18,5.65
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2003,1.33,6.93,2.36,6.34
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2003,4.02,7.41,6.02,6.36
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2003,'0.86,2.09,1.38,7.02
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2003,'0.88,2.46,2.37,4.56
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2003,2.64,6.61,5.28,6.84
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2003,1.18,2.82,2.13,3.92
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.3125,75.93222222,Chathamangalam(e),"Bore Well",W03402,2003,2.23,NA,NA,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2003,7.58,8.11,6.13,8.26
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2003,3.23,5.93,4.22,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2003,'0.4,1.66,1.6,1.53
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2003,4.52,8.52,8.02,6.2
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2003,3.57,5.61,4.22,5.81
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2003,7.66,9.68,7.58,10.45
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2003,3.12,1.73,2.62,1.3
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.45,75.71388889,Kuruvangad,"Bore Well",W03395,2003,'0.6,2,1.42,1.95
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2003,2.62,6.51,4.75,6.85
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2003,'0.35,2.17,1.48,3.87
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2003,1.32,3.1,1.62,3.43
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2003,12.23,15.28,13.38,15.92
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2003,19.57,20.32,19.31,20.08
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2003,'0.59,2.43,1.71,2.01
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2003,1.41,2.48,2.06,3.96
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2003,3.83,8.12,5.98,7.83
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2003,2.86,8.43,7.18,9.46
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2003,1.02,4.71,3.03,4.96
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2003,1.51,4,2.16,2.71
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2003,2.26,3.26,2.68,2.15
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2003,2.91,7.84,6.39,8.19
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2003,5.06,6.96,5.45,1.74
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2003,1.86,3.75,3.43,3.77
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2003,5.15,NA,6.16,7.4
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2003,7.23,9.11,7.43,9.19
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2003,2.6,3.62,3.93,4.36
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2003,2.26,3.66,2.86,3.61
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2002,1.08,4.51,2.78,5.2
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2002,2.15,3.04,2.7,3.6
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2002,2.69,6.58,5.4,5.59
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2002,5.7,6.54,6.19,6.7
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2002,5.45,7.9,5.99,9
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2002,2.92,4.68,3.32,5.35
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2002,2.2,'0.22,NA,5.22
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2002,1.5,4.37,NA,5.1
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2002,3.03,6.16,4.32,6.6
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2002,5.18,7.12,5.42,6.5
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2002,NA,1.44,'0.79,1.95
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2002,'0.71,NA,NA,'0.9
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2002,1.1,2.99,1.39,4.15
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2002,NA,6.08,3.84,6.45
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2002,1.23,2.81,1.71,4.1
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2002,2.07,4.83,2.19,4.5
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.3125,75.93222222,Chathamangalam(e),"Bore Well",W03402,2002,NA,1.22,NA,1.29
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2002,6.55,8.38,7.94,8.3
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2002,4.88,4.99,5.25,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2002,'0.25,1.33,'0.73,1.6
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2002,4.74,8.19,6.12,8.7
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2002,4.97,5.61,5.55,6.65
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2002,6.32,9.25,7.63,10.55
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2002,'0.62,'0.42,'0.25,1.37
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.45,75.71388889,Kuruvangad,"Bore Well",W03395,2002,NA,1.79,'0.75,1.4
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2002,4.12,5.76,4.56,6.83
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2002,'0.46,2.64,'0.78,4.45
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2002,NA,6.85,NA,8.96
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2002,1.36,2.79,1.92,4.02
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2002,NA,11.99,12.49,13.8
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.28861111,75.82833333,Vellimadakunnu,"Bore Well",W03401,2002,19.48,NA,19.65,19.3
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2002,1.45,1.82,1.78,2.1
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2002,1.15,2.64,1.74,4.1
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2002,4.98,7.22,5.9,7.9
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2002,5.93,8.48,6.03,9.65
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2002,NA,4.26,2.32,5.2
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2002,1.65,2.69,2.1,2.45
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2002,2.27,2.37,2.38,3.35
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2002,4.16,7.49,6.12,6.88
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2002,5.29,6.61,6.01,6.75
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2002,NA,3.7,3.47,3.95
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2002,6.65,7.19,6.62,7.35
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2002,7.34,9.2,8.33,9.2
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2002,2.95,4.57,3.78,4.6
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2002,'0.45,1.38,'0.79,2.1
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2001,2.12,5.34,3.7,5.12
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2001,1.93,4.1,2.02,3.64
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2001,2.85,6.29,4.79,7.07
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2001,5.71,7.7,6.12,7.23
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2001,4.73,9,7.65,8.75
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2001,3.04,4.4,3.69,5.36
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2001,2.5,5.56,4.18,5.39
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2001,1.69,5.06,3.32,4.88
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2001,3.78,8.2,6.37,6.5
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2001,'0.51,1.08,'0.86,NA
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2001,'0.67,2.45,NA,1.2
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2001,1.16,NA,2.1,3.92
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2001,3.43,6.92,5.08,7
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2001,1.12,3.54,1.87,3.88
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2001,1.88,5.65,2.75,4.72
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.3125,75.93222222,Chathamangalam(e),"Bore Well",W03402,2001,NA,2,'0.12,1.25
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2001,5.92,9.63,7.81,9.1
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2001,4.59,6.2,4.67,6.02
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2001,'0.28,2.27,'0.33,1.84
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2001,5.46,7.2,7.82,7.86
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2001,4.73,6.68,5.37,6.21
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2001,6.71,9.65,7.89,10.67
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2001,3.02,7.03,4.12,6.45
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2001,'0.25,1.93,'0.85,2.77
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.45,75.71388889,Kuruvangad,"Bore Well",W03395,2001,'0.35,2.38,NA,1.85
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2001,3.71,6.63,4.75,6.75
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2001,'0.37,3.31,1.28,4.18
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2001,4.34,5.93,NA,8.08
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2001,NA,3.16,1.52,4.2
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2001,9.29,14.48,10.68,15.72
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2001,1.3,2.9,1.57,2.34
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2001,'0.95,3.5,1.59,3.75
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2001,4.76,6.3,5.71,7.92
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2001,2.58,9.15,3.81,9.65
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2001,1.1,5.55,1.43,5.1
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2001,1.34,3.7,2.24,3.37
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2001,2.06,3.35,1.78,3.34
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2001,3.14,8.72,4.67,9.59
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2001,NA,NA,4.36,7.78
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2001,1.41,3.9,1.61,3.51
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2001,6.92,6.91,7.2,7.51
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2001,7.33,10.1,8.5,9.45
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2001,2.87,4.24,3.27,3.41
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2001,'0.42,2.4,'0.85,2.48
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,2000,2.32,3.51,3.37,5.5
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,2000,'0.48,1.88,1.67,2.6
+KL,Kozhikode,Thodannur,Thodannur,11.58333333,75.65944444,Thodannur(east),"Bore Well",W03420,2000,2.46,NA,6.29,6.8
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,2000,5.03,8.08,4.47,9.6
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,2000,3.47,9.4,NA,8.8
+KL,Kozhikode,Thuneri,Tuneri,11.70611111,75.63694444,Thuneri,"Bore Well",W03424,2000,2.32,NA,1.67,5.9
+KL,Kozhikode,Vadakara,Vadakara,11.66666667,75.56111111,Chombala(pz),"Tube Well",W03425,2000,2.34,NA,3.49,NA
+KL,Kozhikode,Vadakara,Vadakara,11.67305556,75.55583333,Chombala(w1),"Tube Well",W03426,2000,NA,NA,1.98,NA
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,2000,3.07,7.06,4.36,6.7
+KL,Kozhikode,Kunnummal,Kunnummal,11.68333333,75.7,Kunnummel,"Bore Well",W03412,2000,3.07,NA,NA,NA
+KL,Kozhikode,Melady,Melady,11.50972222,75.62361111,Meladi,"Tube Well",W03413,2000,'0.42,NA,'0.92,2.15
+KL,Kozhikode,Melady,Melady,11.52916667,75.7125,Meppayur1,"Bore Well",W03414,2000,'0.17,NA,2.3,1.45
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,2000,'0.12,2.9,1.87,4.85
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,2000,4.43,5.04,4.82,5.15
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,2000,1.07,2.82,2.87,3.9
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,2000,'0.4,5.26,4.27,5
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.3125,75.93222222,Chathamangalam(e),"Bore Well",W03402,2000,NA,NA,NA,1.5
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,2000,5.62,8.32,8.67,11.2
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25694444,75.95527778,Cheruvannur-2,"Bore Well",W03405,2000,6.3,NA,5.49,NA
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,2000,'0.53,1.61,'0.97,1.5
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.305,75.87972222,Kunnamangalam,"Bore Well",W03407,2000,15.16,NA,1.85,8.65
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,2000,3.02,4.66,5.29,6.65
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,2000,7.42,8.14,8.24,11.15
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,2000,2.72,5.31,5.25,6.6
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,2000,'0.34,'0.69,'0.4,1.57
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.45,75.71388889,Kuruvangad,"Bore Well",W03395,2000,'0.37,NA,'0.75,1.6
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,2000,4.2,6.27,4.72,7.13
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,2000,'0.37,2.43,1.22,4.45
+KL,Kozhikode,Kozhikode,Kozhikode,11.20777778,75.82055556,Cheruvannur-1,"Bore Well",W03398,2000,5.03,NA,4.98,8.6
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,2000,1.17,NA,'0.87,NA
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,2000,10.02,12.77,11.79,16.5
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,2000,1.37,2.3,2.07,4.2
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,2000,1.48,6.42,6.29,8.4
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,2000,1.37,7.75,7.42,9.55
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,2000,1.02,2.2,3.92,4.9
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,2000,'0.82,NA,2.18,8.5
+KL,Kozhikode,Koduvally,Koduvaly,11.43777778,75.94166667,Perambra1,"Bore Well",W03392,2000,9.43,NA,9.8,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,2000,2.02,2.85,2.33,2.9
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,2000,2.32,6.89,6.57,9.38
+KL,Kozhikode,Balusseri,Balusseri,11.45277778,75.80277778,Balusseri-2,"Bore Well",W03380,2000,NA,NA,5.84,8.9
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,2000,'0.64,3.31,3.07,3.85
+KL,Kozhikode,Balusseri,Balusseri,11.44527778,75.79111111,Kokallur,"Bore Well",W03382,2000,6.22,NA,6.83,8.2
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,2000,8.02,10.12,8.42,9.4
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,2000,1.27,5.12,4.12,4.7
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,2000,1.47,3.51,2.78,3.3
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,2000,'0.37,1.24,'0.92,3.5
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,1999,10.42,11.39,11.35,15
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,1999,1.1,1.2,'0.5,1.96
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,1999,'0.61,1.3,'0.6,1.53
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,1999,4.15,5.81,3.25,6.55
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,1999,6.14,9.06,7.55,10.89
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,1999,3.25,5.32,4.5,5.52
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,1999,4.7,6.84,6.5,6.91
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,1999,2.98,3.06,2.95,4.48
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,1999,4.29,5.85,4.55,6.99
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,1999,1.16,2.66,1.8,3.94
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,1999,2.31,5.01,4.05,4.31
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,1999,'0.51,1.61,1.1,2.9
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,1999,5.64,6.52,6.5,7.42
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,1999,5.21,7.7,7.05,8.68
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,1999,1.69,4.27,3.3,5.19
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,1999,2.8,7.62,6.03,9.97
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,1999,2.56,3.26,2.85,3.55
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,1999,6.94,8.92,8.7,9.26
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,1999,2.26,4.32,4,4.41
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,1999,1.19,3.06,2.6,3.41
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,1999,1.38,1.83,1.5,2.56
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,1999,2.99,2.42,1.6,3.65
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,1999,5.31,7.18,6.1,7.78
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,1999,4.33,7.33,6.8,9.17
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,1999,1.84,4.68,1.3,5.07
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,1999,NA,2.09,6.4,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,1999,2.79,2.53,2.45,3.17
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,1999,'0.15,'0.83,'0.82,1.99
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,1999,2.25,5.51,5.13,6.91
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,1999,'0.55,4.83,1.15,4.08
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,1999,6.39,8.64,8,9.2
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,1998,9.32,11.99,10.06,14.1
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,1998,6.22,8.37,8.1,8.82
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,1998,'0.37,1.5,'0.44,1.52
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,1998,4.56,5.11,5.14,8.19
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,1998,5.88,7.46,7.32,11.11
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,1998,2.98,4.41,4.23,5.52
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,1998,4.09,5.47,6.82,6.65
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,1998,1.37,1.15,2.05,NA
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,1998,3.56,4.04,3.99,6.9
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,1998,1.26,2.68,1.69,3.8
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,1998,1.68,2.98,4,4.74
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,1998,'0.8,3.08,1.13,2.77
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,1998,6.5,6.12,6.32,7.25
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,1998,5.93,5.28,6.2,8.64
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,1998,2.52,2.49,2.64,5.16
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,1998,3.52,7.26,6.07,9.33
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,1998,1.49,2.65,2.56,3.5
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,1998,7.59,10.57,6.8,9.37
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,1998,2.69,3.11,3.4,4.03
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,1998,2.02,3.37,2.65,3.34
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,1998,1.56,2.02,1.67,2.57
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,1998,1.28,2.7,1.72,3.8
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,1998,5.03,6.09,5.68,6.23
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,1998,3.43,7.13,6.74,NA
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,1998,1.25,3.72,3.66,5.08
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,1998,'0.76,2.96,1.23,2.44
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,1998,2.25,3.02,2.44,2.93
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,1998,'0.43,1.24,'0.61,1.94
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,1998,3.75,6.11,4.03,6.89
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,1998,'0.43,3.34,'0.89,4.02
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,1998,'0.21,1.02,'0.54,2.67
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,1997,1.38,5.34,3.09,5.2
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,1997,'0.3,1.65,1.01,2.35
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,1997,3.83,7.29,4.47,7.85
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,1997,2.95,5.07,4.4,6.96
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,1997,4.99,8.12,5.37,8.53
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,1997,'0.64,1.85,1.04,2.32
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,1997,3.65,7.07,4.41,6.42
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,1997,2,2.89,2.32,2.98
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,1997,5.2,8.04,5.82,7.19
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,1997,'0.73,2.51,1.81,2.2
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,1997,6.05,9.9,8.07,8.75
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,1997,1.21,4.94,3.15,5.02
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,1997,'0.75,2.15,1.54,2.5
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,1997,3.04,7.37,6.87,8.9
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,1997,2.85,7.34,3.82,5.41
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,1997,4.71,7.37,5.82,7.75
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,1997,1.51,4.19,2.71,4.9
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,1997,'0.72,4.81,1.99,3.57
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,1997,'0.4,2.54,1.57,1.5
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,1997,1.28,2.4,1.81,2.27
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,1997,1.01,3.25,3.61,3.88
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,1997,1.85,3.36,3.06,3.37
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,1997,5.8,9.29,6.45,10.75
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,1997,2.09,4.51,1.54,4.25
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,1997,2.4,5.87,3.86,6.95
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,1997,7.38,9.5,9.54,9.37
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,1997,9.66,13.2,11.41,15.66
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,1997,1.27,3.16,2.52,3.36
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,1997,NA,3.2,1.22,3.2
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,1997,2.83,7.94,6.19,9.83
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,1997,'0.3,3.01,2.52,3.95
+KL,Kozhikode,Kozhikode,Kozhikode,11.175,75.85833333,Ramanattukara1,"Dug Well",W03399,1996,1.05,1.95,'0.67,2.29
+KL,Kozhikode,Kozhikode,Kozhikode,11.17166667,75.80694444,Beypore,"Dug Well",W03397,1996,'0.93,2.65,'0.84,4.17
+KL,Kozhikode,"Koilandi Municipality",Panthalayani,11.44,75.69416667,Quilandy,"Dug Well",W03396,1996,4.58,6.53,4.78,7.11
+KL,Kozhikode,Koduvally,Koduvaly,11.42166667,75.93833333,Tamarasseri,"Dug Well",W03394,1996,'0.22,1.74,'0.77,2.62
+KL,Kozhikode,Koduvally,Koduvaly,11.49722222,75.98472222,Pudupadi,"Dug Well",W03393,1996,2.5,2.27,2.56,3.16
+KL,Kozhikode,Koduvally,Koduvaly,11.4375,75.94166667,Perambra,"Dug Well",W03391,1996,1.01,2.13,1.47,2.23
+KL,Kozhikode,Koduvally,Koduvaly,11.35,75.93333333,Malayamma,"Dug Well",W03390,1996,1.88,5.25,1.96,5.1
+KL,Kozhikode,Koduvally,Koduvaly,11.35833333,75.90972222,Koduvalli,"Dug Well",W03389,1996,4.09,8.37,6.04,9.61
+KL,Kozhikode,Chelannur,Chelannur,11.375,75.86388889,Punnasseri,"Dug Well",W03388,1996,5.91,7.41,5.27,6.3
+KL,Kozhikode,Chelannur,Chelannur,11.3375,75.74444444,Elattur,"Dug Well",W03387,1996,1.48,3.1,1.85,4.15
+KL,Kozhikode,Balusseri,Balusseri,11.45,75.88333333,Unnikulam,"Dug Well",W03386,1996,1.48,1.78,1.7,2.47
+KL,Kozhikode,Balusseri,Balusseri,11.45833333,75.775,Ulliyeri,"Dug Well",W03385,1996,2.45,3.1,2.39,3.38
+KL,Kozhikode,Balusseri,Balusseri,11.53333333,75.83333333,Meppayur,"Dug Well",W03384,1996,2.48,4.43,2.37,4.18
+KL,Kozhikode,Balusseri,Perambra,11.55,75.83333333,Mattanad,"Dug Well",W03383,1996,8.44,9.4,8.86,9.32
+KL,Kozhikode,Balusseri,Balusseri,11.54861111,75.89861111,Kakkayam,"Dug Well",W03381,1996,1.5,3.23,1.86,3.27
+KL,Kozhikode,Vadakara,Vadakara,11.67083333,75.55555556,Mukkali,"Dug Well",W03430,1996,2.67,4.82,3.67,5.43
+KL,Kozhikode,Thuneri,Tuneri,11.75833333,75.73055556,Pudukayam,"Dug Well",W03423,1996,3.35,7.88,5.37,8.61
+KL,Kozhikode,Thodannur,Thodannur,11.61666667,75.65,Villyapalli,"Dug Well",W03422,1996,6.15,6.67,8.97,7.28
+KL,Kozhikode,Thodannur,Thodannur,11.56666667,75.675,Thiruvallur,"Dug Well",W03419,1996,1.85,2.18,1.91,3.03
+KL,Kozhikode,Perambra,Perambra,11.58333333,75.78333333,Koothali,"Dug Well",W03418,1996,1.51,4.93,2.21,4.81
+KL,Kozhikode,Panthalayani,Panthalayani,11.40833333,75.725,Chemencheri,"Dug Well",W03417,1996,1.3,3.18,2.07,4.36
+KL,Kozhikode,Melady,Panthalayani,11.48861111,75.64694444,Tikkodi,"Dug Well",W03416,1996,2.21,7.1,4.17,6.7
+KL,Kozhikode,Melady,Thodannur,11.53333333,75.66666667,Nadapuram,"Dug Well",W03415,1996,1.56,2.55,1.72,4.67
+KL,Kozhikode,Kunnummal,Kunnummal,11.66666667,75.75,Devarkoil,"Dug Well",W03411,1996,3.85,7.05,5.11,6.58
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.26388889,75.88333333,Peruvayal,"Dug Well",W03410,1996,3.96,5.9,4.41,5.92
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25,75.94222222,Mavoor-2,"Dug Well",W03409,1996,7.96,10.1,8.76,11.7
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.25722222,75.95555556,Mavoor-1,"Dug Well",W03408,1996,5.39,6.61,5.22,7.27
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.30833333,75.83333333,Kannankara,"Dug Well",W03406,1996,'0.46,1.85,'0.79,1.58
+KL,Kozhikode,Kunnamangalam,Kunnamangalam,11.29972222,75.88277778,Chelavur,"Dug Well",W03404,1996,7.35,8.4,7.65,8.9
+KL,Kozhikode,"Kozhikode Corporation",Kozhikode,11.25,75.79166667,Kozhikode,"Dug Well",W03400,1996,10.89,12.45,12.39,15.77
+KL,Kozhikode,Balusseri,Balusseri,11.445,75.83,Balusseri-1,"Dug Well",W03379,1996,5.53,8.2,6.59,9.7

@@ -1,0 +1,688 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2018,5.87,5.22,NA,NA
+RJ,Ganganagar,Padampur,Padampur,29.68277778,73.85833333,Narsinghpur,"Dug Well",W30000,2018,NA,NA,17.12,17.03
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2018,NA,15.2,14.57,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2018,NA,6.68,7.15,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2018,NA,25.72,24.63,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2018,NA,40.81,39.5,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2018,NA,6.43,6.91,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2018,NA,19.36,18.47,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2018,NA,2.1,1.33,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2018,NA,39.11,39.13,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2018,NA,18.14,17.92,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2018,NA,7.93,7.79,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2018,NA,10.83,9.93,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2018,NA,8.25,10.25,NA
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2018,NA,14.02,13.77,NA
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2018,NA,12.12,11.27,NA
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2018,NA,15.91,15.95,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2018,NA,10.09,11.86,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2018,NA,8.58,8.49,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2018,NA,8.57,9.17,NA
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2018,NA,10.66,9.94,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2018,NA,16.17,17.57,NA
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2018,NA,3.03,NA,NA
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2018,NA,7.34,7.64,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2018,NA,9.61,9.69,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2018,NA,6.97,6.4,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2018,NA,10.75,9.46,NA
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2018,NA,6.54,5.47,NA
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2018,NA,5.34,4.83,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2018,NA,12.48,12.22,NA
+RJ,Ganganagar,SURATGARH,Suratgarh,29.185,73.95083333,"Rayanwali Deep","Tube Well",W33333,2018,NA,16.49,16.95,NA
+RJ,Ganganagar,SURATGARH,Suratgarh,29.185,73.95083333,"Rayanwali Shallow","Tube Well",W33334,2018,NA,17.1,16.45,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.26388889,73.59166667,"22GB CHAK","Dug Well",W29945,2018,NA,NA,NA,10.15
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2018,NA,5.7,NA,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2018,NA,15.34,NA,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2018,NA,16.85,NA,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2018,17.93,19.27,NA,NA
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2017,6.45,8.1,6.6,6.4
+RJ,Ganganagar,Padampur,Padampur,29.68277778,73.85833333,Narsinghpur,"Dug Well",W30000,2017,NA,17.35,NA,17.93
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2017,7.27,6.6,6.87,7.07
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2017,2.57,2.05,3.01,8.35
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2017,10.39,10.58,10.71,11.53
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2017,5.42,4.2,6.36,6.3
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2017,5,4.5,5.33,6.78
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2017,12.52,12.01,12.47,13.36
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2017,14.39,15.66,14.67,15.29
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2017,6.84,6.45,6.83,6.7
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2017,13.15,13.35,15.28,14.75
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2017,24.67,25.05,24.73,25.1
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2017,39.68,41.45,39.97,41.5
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2017,6.34,10.07,6.4,6.35
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2017,18.52,19.7,18.66,17.9
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2017,1.4,2.18,2.03,2.9
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2017,38.28,37.15,38.87,37.68
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2017,5,5.74,5.18,5.8
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2017,7.93,8.24,7.91,11.22
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2017,10.16,10.23,10.09,10.43
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2017,8.15,10.28,8.17,10.63
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2017,13.32,13.1,13.52,11.5
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2017,11.61,11.6,11.55,11.45
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2017,15.73,17.5,15.78,17.62
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2017,9.92,12.51,9.88,12.77
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2017,7.87,7.5,8.22,7.95
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2017,6.23,9.19,8.43,9.22
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2017,10,10.25,10.13,10.05
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2017,16.44,18.35,15.78,18.75
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2017,NA,18.91,18.05,18.51
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2017,NA,15.67,18.41,15.88
+RJ,Ganganagar,SURATGARH,Suratgarh,29.185,73.95083333,"Rayanwali Deep","Tube Well",W33333,2017,16.85,16.42,16.41,16.75
+RJ,Ganganagar,SURATGARH,Suratgarh,29.185,73.95083333,"Rayanwali Shallow","Tube Well",W33334,2017,16.35,16.92,16.9,16.3
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2017,NA,'0.5,NA,'0.57
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2017,NA,NA,NA,6.93
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2017,NA,NA,NA,17.6
+RJ,Ganganagar,Anupgarh,Anupgarh,29.26388889,73.59166667,"22GB CHAK","Dug Well",W29945,2017,NA,9.51,NA,9.7
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2017,9.4,9.22,9.59,9.43
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2016,13.8,NA,9.81,14.17
+RJ,Ganganagar,SURATGARH,Suratgarh,29.185,73.95083333,"Rayanwali Shallow","Tube Well",W33334,2016,16.77,NA,16.89,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2016,12.84,NA,12.71,13.76
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2016,5.64,NA,NA,6.1
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2016,4.81,NA,5.56,5.7
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2016,9.33,NA,9.36,11.25
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2016,11.67,NA,11.45,11.8
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2016,NA,NA,NA,19
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2016,8.17,NA,8.11,9.32
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2016,10.71,NA,10.42,11.63
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2016,NA,NA,15.54,19.5
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2016,11.94,NA,13.17,13.8
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2016,9.67,NA,11.61,9.43
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2016,6.11,NA,6.49,6.1
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2016,2.37,NA,4.47,2.45
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2016,7.22,NA,7.55,7.4
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2016,14.01,NA,15.27,14.74
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2016,4.5,NA,5.07,4.25
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2016,13.55,NA,13.07,12.2
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2016,8.81,NA,9.1,10.22
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2016,9.88,NA,10.29,10.83
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2016,8.27,NA,8.35,10.78
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2016,16.61,NA,18.16,16.3
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2016,1.8,NA,1.93,1.55
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2016,39.37,NA,39.87,41.1
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2016,5,NA,5.42,5.3
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2016,19.51,NA,19,19.35
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2016,24.47,NA,24.45,24.8
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2016,1.05,NA,2.03,1.6
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2016,32.77,NA,33.75,33.08
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2016,7.33,NA,9.37,7.45
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2016,17.92,NA,17.91,18.19
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2016,'0.05,NA,'0.24,'0.72
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2016,5.47,NA,7.73,6.05
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2016,NA,NA,NA,17.3
+RJ,Ganganagar,Anupgarh,Anupgarh,29.26388889,73.59166667,"22GB CHAK","Dug Well",W29945,2016,8.15,8.86,9.14,9.31
+RJ,Ganganagar,Padampur,Padampur,29.68277778,73.85833333,Narsinghpur,"Dug Well",W30000,2016,17.07,17.38,18.69,17.65
+RJ,Ganganagar,SURATGARH,Suratgarh,29.185,73.95083333,"Rayanwali Deep","Tube Well",W33333,2016,17.93,NA,16.5,NA
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2016,16.03,NA,17.39,16.17
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2015,12.37,13.12,12.25,13.47
+RJ,Ganganagar,Padampur,Padampur,29.68277778,73.85833333,Narsinghpur,"Dug Well",W30000,2015,17.3,17.5,17.34,17.52
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2015,'0.6,NA,NA,'0.94
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2015,13.26,13.42,13.15,12.96
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2015,7.85,7.65,9.52,9.03
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2015,4.85,5.05,4.82,6.25
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2015,7.05,10.7,10.62,10.75
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2015,11.8,12.05,11.68,11.9
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2015,NA,16.99,NA,17.02
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2015,8.12,7.82,7.46,8.14
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2015,8.63,10.58,10.68,11.43
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2015,17.7,18,16.54,19.1
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2015,14.45,13.7,13.51,16.15
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2015,5.08,8.84,8.96,9.08
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2015,6.55,6.65,8.8,8.7
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2015,2.7,6.65,2.37,2.7
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2015,6.2,8.74,7.9,7.2
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2015,14.49,14.49,14,15.19
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2015,4.95,4.95,4.05,8.65
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2015,13.6,13.9,13.49,13.8
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2015,6.87,10.17,9.11,9.11
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2015,10.33,9.75,10.61,10.63
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2015,10.68,10.48,10.64,11.06
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2015,16.6,18.55,9.22,19.8
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2015,1.65,2.05,1.94,1.55
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2015,41.6,41.1,40.43,41.4
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2015,5,5.4,5.22,5.1
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2015,19.65,19.65,19.37,19.75
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2015,24.45,25.01,24.47,24.9
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2015,NA,NA,'0.04,'0.11
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2015,39.08,38.78,38.45,38.76
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2015,6.05,7.15,6.11,8.45
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2015,16.71,18.26,18.08,18.36
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2015,NA,NA,NA,'0.08
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2015,5.9,6.4,5.24,7.02
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2015,17.4,20,NA,17.4
+RJ,Ganganagar,Anupgarh,Anupgarh,29.26388889,73.59166667,"22GB CHAK","Dug Well",W29945,2015,NA,8.96,9.48,9.81
+RJ,Ganganagar,Suratgarh,Suratgarh,29.33333333,73.9,Suratgarh1,"Tube Well",W29951,2015,NA,5.6,NA,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.53333333,73.45,Raisinghnagar,"Tube Well",W29984,2015,NA,NA,NA,11.9
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2015,16.12,16.39,16.31,15.35
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2014,12.87,13.12,13.07,12.87
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.85,"22 L G W","Tube Well",W31962,2014,8.1,NA,NA,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2014,'0.55,1.21,'0.66,1.05
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2014,13.5,13.76,13.96,13.96
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2014,8.83,7.4,8.1,8.18
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2014,14.5,14.5,NA,14.5
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2014,NA,5.3,NA,5.51
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2014,7.42,11.25,11.15,11.32
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2014,3.4,5.23,4.1,5.6
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2014,7.2,NA,8.1,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2014,8.22,8.26,8.02,8.07
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2014,11.18,11.47,10.93,11.64
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2014,17.6,19.75,19.3,20.65
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2014,40.5,40.5,NA,40.5
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2014,9.16,13.31,12.15,13.16
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2014,4.48,8.2,6.28,8.33
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2014,6.5,8.2,8.5,8.5
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2014,NA,7.3,NA,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2014,NA,7.4,NA,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2014,14.69,15.04,15.89,15.69
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2014,4.65,4.95,5.45,5.45
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2014,11.11,13.9,12.1,14.1
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2014,5.22,10.34,9.57,10.97
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2014,10.13,11.08,10.83,11.03
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2014,10.98,12.11,11.16,13.08
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2014,NA,18.4,NA,19
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2014,2.15,3.97,3.9,3.75
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2014,42.7,41.9,43,43.8
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2014,3.28,5.5,5,5.7
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2014,16.55,19.85,17.45,20.35
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2014,20.75,25.32,22.4,23.75
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2014,'0.01,1,'0.61,'0.06
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2014,37.88,39.88,38.33,40.08
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2014,5.15,7.18,6.45,7.45
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2014,14.86,18.24,14.11,19.12
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2014,NA,'0.02,NA,'0.02
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2014,5.9,6.1,6.4,7.6
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2014,16.1,NA,18.7,17.9
+RJ,Ganganagar,Anupgarh,Anupgarh,29.26388889,73.59166667,"22GB CHAK","Dug Well",W29945,2014,7.91,9.49,10.31,9.78
+RJ,Ganganagar,Padampur,Padampur,29.68277778,73.85833333,Narsinghpur,"Dug Well",W30000,2014,17.3,17.8,17.6,18.6
+RJ,Ganganagar,Ganganagar,Ganganagar,30.14638889,73.91527778,"Hindumal Kot","Dug Well",W32116,2014,15.2,NA,15.8,NA
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2014,14.62,16.67,16.92,18.12
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2013,13.44,11.27,12.97,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,30.14638889,73.91527778,"Hindumal Kot","Dug Well",W32116,2013,NA,6.46,NA,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2013,1.17,1.45,2.7,2.05
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2013,13.79,13.96,13.71,14.31
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2013,8.33,9.3,8.27,8.2
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2013,NA,NA,14.5,NA
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2013,5.41,5.95,5.05,6.35
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2013,9.34,11.35,11.25,11.75
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2013,1.2,13.06,4.1,12.1
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2013,NA,8.42,8.02,9.72
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2013,11.43,11.54,11.03,12.63
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2013,NA,19.7,28.4,19.7
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2013,25.5,NA,40.5,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2013,13.39,13.6,15.3,12.9
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2013,8.68,8.85,8.88,9.07
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2013,7.3,7.46,7.35,17.9
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2013,7.34,7.22,NA,7.85
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2013,7.36,7.6,7.4,7.66
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2013,14.8,15.04,14.69,14.89
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2013,5.1,5.05,4.9,5.05
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2013,13.64,14.4,14.2,14.5
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2013,6.81,10.02,9.62,10.57
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2013,10.77,11.09,10.73,11.34
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2013,10.42,11.96,11.53,12.28
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2013,18.48,18.75,19.5,18.8
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2013,1.77,2.21,2.35,1.75
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2013,40.59,42.3,41.58,40.6
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2013,4.96,5.5,5.7,7.5
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2013,19.93,20.45,21.55,20.62
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2013,24.27,24.75,48.4,25.99
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2013,'0.25,NA,1.56,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2013,38.83,38.89,38.48,38.88
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2013,6.03,5.93,7.46,8.05
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2013,18.3,18.53,18.36,30.37
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2013,'0.24,'0.01,2,'0.02
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2013,NA,6.59,5.75,7.9
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2013,17.77,17.87,NA,17.75
+RJ,Ganganagar,Anupgarh,Anupgarh,29.26388889,73.59166667,"22GB CHAK","Dug Well",W29945,2013,11.16,9.18,8.31,NA
+RJ,Ganganagar,Padampur,Padampur,29.68277778,73.85833333,Narsinghpur,"Dug Well",W30000,2013,17.57,17.84,17.55,18.4
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2013,16.5,16.51,17.22,16.62
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2012,NA,9.82,NA,12.98
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2012,NA,18.15,18.56,18.03
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2012,NA,1.35,1.1,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2012,NA,14.29,14.68,14.24
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2012,NA,NA,9.21,9.62
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2012,NA,8.95,14.5,8.73
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2012,NA,6.05,6.81,6.53
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2012,NA,11.75,11.55,11.89
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2012,NA,14.4,12.14,10.39
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2012,NA,NA,NA,17.58
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2012,NA,8.82,8.74,8.74
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2012,NA,11.63,11.83,12.27
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2012,NA,20.8,21.3,20.18
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2012,NA,NA,NA,25
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2012,NA,14.5,13.35,11.97
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2012,NA,9.25,9,8.81
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2012,NA,8.15,8.5,7.82
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2012,NA,7.42,7.5,7.45
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2012,NA,8.75,7.98,7.9
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2012,NA,15.04,14.89,14.93
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2012,NA,5.18,6.67,5.43
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2012,NA,14.32,5.8,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2012,NA,10.31,10.61,10.29
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2012,NA,11.33,11.85,10.67
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2012,NA,11.94,12.03,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2012,NA,35.2,35.2,35.2
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2012,NA,2.9,1.65,5.73
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2012,NA,42.75,41.55,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2012,NA,6.6,5.7,5.18
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2012,NA,20.76,20.55,20.62
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2012,NA,25.12,25.59,26.35
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2012,NA,'0.93,'0.29,1.17
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2012,NA,39.7,38.93,39.2
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2012,NA,7.09,5.98,6.06
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2012,NA,18.83,19.11,18.54
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2012,NA,'0.34,'0.5,'0.15
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2012,NA,6.1,6.62,6.32
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2012,NA,17.42,17.57,16.97
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2011,13.38,14.77,13.31,13.45
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2011,18.24,18.4,NA,18.25
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2011,'0.85,'0.95,'0.6,'0.9
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2011,14.28,14.36,14.22,14.36
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2011,9.21,9.27,9.35,10.25
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2011,9.29,9.5,10.04,9.36
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2011,7.06,7.01,3.75,7.21
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2011,11.86,11.15,11.63,8.27
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2011,10.27,11.1,13.13,21.97
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2011,17.45,17.4,17.59,17.52
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2011,9.46,9.82,9.27,9.68
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2011,12.47,14.53,12.65,12.55
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2011,20.1,20.2,19.8,20.05
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2011,24.69,NA,NA,25.1
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2011,12.35,14.25,14.12,12.54
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2011,9.65,9.88,9.29,9.78
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2011,8.26,9,8.09,9.4
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2011,7.1,8.3,5.75,8.06
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2011,4.04,8.8,4.16,8.76
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2011,15.07,15.02,15.01,14.99
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2011,5.63,5.75,5.29,5.55
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2011,4.81,15.5,15.24,4.95
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2011,6.7,10.47,9.37,12.49
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2011,11.92,12.03,11.81,11.93
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2011,12.24,12.48,12.04,12.32
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2011,18.68,18.8,NA,18.92
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2011,1.71,2.35,3.55,2.04
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2011,43.07,44.43,43.34,43.2
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2011,5.57,5.8,6.47,5.7
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2011,21.13,22,21.26,26.24
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2011,26.46,27.15,25.91,21.5
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2011,1.41,1.51,1.55,1.61
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2011,38.82,39.21,39.12,38.98
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2011,6.39,6.45,6.79,6.63
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2011,18.41,10.11,18.74,19.01
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2011,'0.42,NA,NA,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2011,7.64,8.75,7.31,6.9
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2011,16.89,17.27,17.03,15.97
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2010,14.81,14.74,14.25,14.85
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2010,20.48,18.55,13.5,18.47
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2010,NA,'0.55,1.92,'0.93
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2010,14.45,14.51,14.5,14.4
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2010,9.34,NA,9.45,9.48
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2010,12.9,9.6,9.5,9.64
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2010,7.25,7.06,6.93,7.2
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2010,NA,12.25,12.87,12.28
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2010,10.36,14.35,10.42,12.64
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2010,17.7,17.78,17.85,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2010,9.92,9.98,9.97,10.32
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2010,12.07,12.63,13.18,13.33
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2010,21.3,20.52,20.5,20.33
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2010,NA,24.21,NA,25.23
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2010,14.58,14.88,15.15,14.2
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2010,3.68,9.93,3.85,10.23
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2010,8.8,12.09,9,9.23
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2010,8.45,8.23,8.93,8.55
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2010,8.86,NA,8.6,8.89
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2010,9.19,15.23,9.49,15.31
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2010,6.05,5.86,6.15,6.32
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2010,13.18,NA,14.92,14.64
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2010,2.97,10.57,10.34,10.67
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2010,11.93,12.03,11.93,12.13
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2010,12.5,12.48,12.38,13.14
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2010,19.02,19.75,20.57,19.13
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2010,2.73,1.13,2.52,2.19
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2010,43.45,14.29,43.76,43.71
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2010,5.72,4.13,6,6.23
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2010,21.6,21.89,22.15,21.92
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2010,26.8,27.1,26.88,26.9
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2010,2.56,2.09,3.48,2.75
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2010,39.78,39.44,39.28,38.66
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2010,9,6.69,6.85,7.05
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2010,9.17,19.39,9.21,19.31
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2010,'0.92,NA,1.65,1.04
+RJ,Ganganagar,Suratgarh,Suratgarh,28.96666667,73.86666667,Mokalsar,"Tube Well",W20488,2010,NA,NA,NA,45.06
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2010,8.65,8.02,8.87,8.3
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2010,20.47,17.22,20.92,17.35
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2009,14.72,14.91,12.75,14.77
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2009,18.59,18.76,18.6,18.65
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2009,2.26,NA,'0.98,1.32
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2009,15.49,14.59,14.48,14.53
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2009,10.35,10,8.38,9.5
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2009,9.61,10.8,9.61,9.62
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2009,7.09,7.11,4.88,7.06
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2009,9.87,12.45,12.28,12.33
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2009,11.9,13.15,14.3,13.08
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2009,NA,17.92,NA,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2009,10.34,9.31,10,10.02
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2009,12.75,12.49,12.47,12.62
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2009,20.66,20.7,20.41,20.46
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2009,24.94,25.32,26.3,24.9
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2009,13.9,13.88,14.05,14.05
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2009,9.64,9.56,9.83,9.53
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2009,9.03,9.25,9.13,9.17
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2009,8.32,8.32,8.34,8.28
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2009,8.41,8.35,8.56,8.28
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2009,15.25,15.32,15.23,15.24
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2009,5.83,5.97,5.83,5.93
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2009,14.44,14.95,14.48,14.93
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2009,10.39,10.37,10.52,10.34
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2009,12.01,11.95,12.08,11.94
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2009,12.5,12.64,12.53,12.53
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2009,7.73,19.26,19.08,19.33
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2009,1.67,1.1,2.19,1.5
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2009,44.4,44.08,43.85,44
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2009,5.74,5.32,5.87,5.48
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2009,22.07,22.2,22.4,22.15
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2009,27.12,27.19,27.25,27
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2009,2.27,1.59,2.42,1.84
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2009,39.7,39.42,38.71,39.53
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2009,7.51,6.31,6.72,6.53
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2009,19.64,20,19.5,19.66
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2009,'0.74,'0.43,'0.95,'0.66
+RJ,Ganganagar,Suratgarh,Suratgarh,28.96666667,73.86666667,Mokalsar,"Tube Well",W20488,2009,NA,NA,45.13,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2009,7.9,6.96,7.83,7.3
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2009,16.34,17.41,16.93,17.27
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2008,15.03,15.15,14.99,13.47
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2008,18.9,19.01,18.8,18.93
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2008,NA,4.85,NA,1.33
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2008,14.65,14.75,14.62,14.69
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2008,9.55,9.74,9.23,10.23
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2008,9.81,9.97,10.77,9.9
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2008,7.15,7.17,7.05,7.29
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2008,9.68,12.69,12.49,11.23
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2008,11.55,13.5,13.45,14.45
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2008,NA,18.1,17.95,20.05
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2008,10.13,10.09,10.24,10.52
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2008,12.89,13.08,12.69,13.49
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2008,20.78,20.97,20.76,20.75
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2008,25.68,25.54,25.38,25.72
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2008,15.1,13.71,13.87,16.07
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2008,10.61,9.58,9.6,9.8
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2008,9.35,10.18,9.26,9.68
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2008,8.5,8.45,8.38,8.72
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2008,NA,8.4,8.37,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2008,15.4,15.39,15.31,15.47
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2008,6.17,6.09,5.93,6.37
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2008,14.64,14.47,14.38,13.93
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2008,10.31,10.52,10.43,10.49
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2008,12.12,12.26,12.07,12.27
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2008,12.78,12.95,12.67,10.24
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2008,19.36,19.47,19.28,20
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2008,1.24,1.37,1.21,1.43
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2008,44.17,44.37,44.2,44.68
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2008,2.87,5.55,5.63,6.4
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2008,19.35,22.72,22.37,20.57
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2008,27.4,27.68,27.25,28.55
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2008,1.98,2.18,1.67,2.16
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2008,37.69,40.48,39.45,39.93
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2008,6.15,6.17,6.25,6.5
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2008,20.26,20.86,20.11,20.66
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2008,'0.93,'0.38,'0.66,'0.78
+RJ,Ganganagar,Suratgarh,Suratgarh,28.96666667,73.86666667,Mokalsar,"Tube Well",W20488,2008,NA,45.5,NA,44.29
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2008,7.29,7.79,6.82,8.09
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2008,17.4,17.02,17.43,16.72
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2007,14.99,15.43,15.17,15.35
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2007,16.25,17.82,16.72,16.9
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2007,1.15,NA,1.22,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2007,14.62,14.88,14.75,14.86
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2007,9.88,10.14,9.82,10
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2007,10.14,10.4,9.1,10.29
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2007,7.36,7.55,NA,7.56
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2007,10.66,12.98,12.65,12.72
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2007,13.26,10.86,9.2,14.68
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2007,18.15,NA,NA,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2007,9.99,10.1,10.3,10.04
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2007,12.91,13.04,12.93,13.16
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2007,21.05,22.14,21.42,18.2
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2007,25.25,26.46,25.36,25.68
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2007,13.69,13.14,15.97,13.9
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2007,9.57,10.66,9.5,10.88
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2007,10.34,10.28,10.1,10
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2007,8.34,8.67,8.6,8.7
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2007,8.9,8.72,8.28,8.58
+RJ,Ganganagar,Anupgarh,Gharsana,29.05,73.03333333,Naranwali,"Dug Well",W18208,2007,NA,15.03,NA,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2007,15.42,15.53,15.67,15.44
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2007,6.27,6.33,6.03,6.51
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2007,14.2,15.09,14.4,15.05
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2007,6.87,10.79,10.17,10.7
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2007,12.35,12.25,12.23,12.48
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2007,13.05,13.26,13.08,13.15
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2007,19.4,19.72,NA,16.28
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2007,1.47,1.58,1.34,1.66
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2007,44.5,44.66,44.28,44.6
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2007,5.47,5.76,5.7,5.67
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2007,22.82,20.25,21.95,22.12
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2007,28.05,28.34,27.75,24.14
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2007,1.31,2.61,NA,2.39
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2007,39.12,39.2,44.88,39.16
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2007,6.03,6.23,8.32,6.35
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2007,20.81,21.81,20.91,21.41
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2007,'0.46,18.55,1.03,'0.91
+RJ,Ganganagar,Suratgarh,Suratgarh,28.96666667,73.86666667,Mokalsar,"Tube Well",W20488,2007,47.5,44.8,45.68,45.4
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2007,7.92,8.4,7.76,8.33
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2007,19.15,19.23,19.35,19.17
+RJ,Ganganagar,Suratgarh,Suratgarh,29.03333333,73.85,Rajiyasar,"Tube Well",W20223,2007,NA,44.82,NA,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2006,'0.65,'0.77,'0.79,1.05
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2006,9.9,10.12,10.21,10.46
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2006,8.27,8.62,8.42,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2006,19.36,19.61,19.37,19.35
+RJ,Ganganagar,Suratgarh,Suratgarh,29.03333333,73.85,Rajiyasar,"Tube Well",W20223,2006,42.6,41.95,41.61,41.7
+RJ,Ganganagar,Anupgarh,Anupgarh,29.24583333,73.52361111,Srivijaynagar,"Tube Well",W20724,2006,11.84,10.82,NA,11.58
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2006,13.32,13.53,13.09,13.61
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2006,21.35,21.38,NA,21.44
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2006,26.4,26.62,26.03,25.68
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2006,15.4,15.51,15.42,15.51
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2006,13.78,13.75,13.93,15.94
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2006,9.78,10.36,9.79,9.78
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2006,10.57,10.82,10.34,10.49
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2006,NA,8.76,NA,8.78
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2006,7.37,8.92,8.77,8.72
+RJ,Ganganagar,Anupgarh,Gharsana,29.05,73.03333333,Naranwali,"Dug Well",W18208,2006,14.11,NA,NA,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2006,15.32,15.87,15.46,15.67
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2006,5.19,6.65,6.55,6.83
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2006,15.09,15.1,15.11,14.05
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2006,10.81,11.02,10.81,10.75
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2006,12.57,12.77,12.59,12.57
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2006,13.25,13.48,13.37,13.33
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2006,NA,20.45,19.84,NA
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2006,1.87,1.93,1.9,1.98
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2006,45.58,45,44.69,48.8
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2006,3.41,6.02,5.81,6.16
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2006,23.44,23.91,23.4,21.65
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2006,28.45,28.65,28.26,28.51
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2006,2.75,2.93,2.89,2.85
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2006,NA,40.2,39.36,38.96
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2006,5.25,6.07,6.33,6.17
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2006,22.11,22.87,26.01,22.48
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2006,16.77,17.7,17.51,17.16
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2006,2.35,1.62,NA,1.23
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2006,14.88,15.01,14.88,14.8
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2006,8.85,10.26,10.24,10.29
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2006,12.23,10.43,10.19,10.32
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2006,6.93,7.95,7.64,7.93
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2006,6.75,13.15,12.91,12.73
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2006,'0.44,14.74,14.68,14.64
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2006,NA,19.87,NA,NA
+RJ,Ganganagar,Suratgarh,Suratgarh,28.96666667,73.86666667,Mokalsar,"Tube Well",W20488,2006,45.8,42.84,45.8,45.76
+RJ,Ganganagar,Suratgarh,Suratgarh,29.225,73.77916667,Sangita,"Dug Well",W18225,2005,1.14,'0.95,1,1.02
+RJ,Ganganagar,Suratgarh,Suratgarh,28.96666667,73.86666667,Mokalsar,"Tube Well",W20488,2005,42.9,NA,43.22,NA
+RJ,Ganganagar,Anupgarh,Anupgarh,29.33611111,73.6875,Jaitsar-1,"Tube Well",W20221,2005,7.87,NA,NA,7.88
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.85555556,73.9875,Lalgarh,"Tube Well",W20222,2005,19.59,NA,19.57,19.62
+RJ,Ganganagar,Suratgarh,Suratgarh,29.03333333,73.85,Rajiyasar,"Tube Well",W20223,2005,42.06,NA,42.13,42.7
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2005,13.56,13.89,13.46,13.89
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2005,22.16,22.4,21.36,22.47
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2005,26.37,26.29,26.5,26.23
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2005,15.41,15.54,15.49,15.56
+RJ,Ganganagar,Anupgarh,Anupgarh,29.2,73.2,Anupgarh1,"Dug Well",W18203,2005,15.95,15.5,13.87,13.62
+RJ,Ganganagar,Anupgarh,Anupgarh,29.30833333,73.22916667,"Banda Colony","Tube Well",W18204,2005,9.96,10.15,9.98,10.06
+RJ,Ganganagar,Anupgarh,Anupgarh,29.03333333,73.43333333,Gomanwali,"Dug Well",W18205,2005,10.93,11.24,10.87,11.09
+RJ,Ganganagar,Anupgarh,Anupgarh,29.35416667,73.63333333,Jaitsar-2,"Dug Well",W18206,2005,8.83,8.8,8.85,9.02
+RJ,Ganganagar,Anupgarh,Anupgarh,29.08333333,73.36666667,Khal,"Dug Well",W18207,2005,8.99,8.94,8.89,9.96
+RJ,Ganganagar,Anupgarh,Gharsana,29.05,73.03333333,Naranwali,"Dug Well",W18208,2005,14.35,16.63,NA,16.66
+RJ,Ganganagar,Anupgarh,Anupgarh,29.16666667,73.375,Ramsinghpura,"Dug Well",W18209,2005,15.77,15.85,15.64,16.61
+RJ,Ganganagar,Karanpur,Karanpur,29.81666667,73.45,Karanpur1,"Dug Well",W18210,2005,6.95,6.71,6.73,6.86
+RJ,Ganganagar,Padampur,Padampur,29.63333333,73.76666667,Binjbalia,"Dug Well",W18211,2005,15.14,15.65,15.06,15.69
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.49166667,73.62916667,Dabla,"Dug Well",W18212,2005,10.54,11.03,10.89,11.1
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.5125,73.61666667,Jagatsinghwala,"Dug Well",W18213,2005,12.78,12.98,12.74,12.95
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.52083333,73.58333333,Muklawa,"Dug Well",W18214,2005,13.53,13.64,13.46,13.87
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.69583333,73.91666667,Suranwali,"Dug Well",W18215,2005,20.4,20.37,NA,20.24
+RJ,Ganganagar,Suratgarh,Anupgarh,29.03333333,73.525,Bhopalpura,"Dug Well",W18216,2005,2.25,2.35,2.44,2.14
+RJ,Ganganagar,Suratgarh,Suratgarh,29.11666667,73.91944444,Birdhwal1,"Dug Well",W18217,2005,44.98,45.13,44.96,45.04
+RJ,Ganganagar,Suratgarh,Suratgarh,29.16666667,73.71666667,Birmana,"Dug Well",W18218,2005,3.61,3.8,6.23,5.97
+RJ,Ganganagar,Suratgarh,Suratgarh,29.12916667,73.7875,Harisinghpura,"Dug Well",W18219,2005,23.88,24.23,23.83,23.81
+RJ,Ganganagar,Suratgarh,Suratgarh,29.1,73.71666667,Lalgariya,"Dug Well",W18220,2005,28.68,28.88,28.91,28.78
+RJ,Ganganagar,Suratgarh,Suratgarh,29.275,73.775,Padampura,"Dug Well",W18221,2005,3.34,3.64,3.23,3.41
+RJ,Ganganagar,Suratgarh,Suratgarh,29.05,73.85416667,Pipasar,"Dug Well",W18222,2005,NA,40.76,39.88,40.57
+RJ,Ganganagar,Suratgarh,Suratgarh,29.24833333,73.9,Piperan,"Dug Well",W18223,2005,6.22,5.94,6.1,6.11
+RJ,Ganganagar,Suratgarh,Suratgarh,29.18333333,73.95,Rayanwali,"Dug Well",W18224,2005,23.11,23.71,22.98,23.7
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2005,17.48,16.38,17.56,16.63
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2005,'0.38,1.43,NA,8.49
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2005,14.69,14.98,15.02,15.03
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2005,10.62,11.1,10.5,10.99
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2005,10.58,10.63,10.43,10.68
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2005,7.06,8.17,7.93,8.1
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2005,13.1,12.38,13.11,13.25
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2005,14.84,14.81,14.89,14.96
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2005,19.85,18.4,18.15,18.46
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2005,10.25,10.34,10.21,10.4
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2003,NA,18.56,NA,18.44
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2003,NA,8.69,NA,7.9
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2003,NA,15.1,NA,15.08
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2003,NA,18.3,NA,17.95
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2003,NA,22.88,NA,22.23
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2003,NA,15.4,NA,15.05
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2003,NA,11.43,NA,11.3
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2003,NA,24.48,NA,26.12
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2003,NA,13.52,NA,13.48
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2003,NA,8.33,NA,8.36
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2003,NA,14.17,NA,14.11
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2003,NA,15.81,NA,15.35
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2003,NA,11.2,NA,10.98
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2003,NA,10.98,NA,10.78
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2002,3.2,9.64,8.25,NA
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2002,17.47,17.73,17.88,18.95
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2002,15.37,15.11,15.07,16.57
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2002,26.2,26.25,26.03,27.45
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2002,NA,22.75,22.37,25.65
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2002,14.3,14.43,14.09,15.18
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2002,11.28,11.17,10.97,12.22
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2002,19.65,18.75,18.63,NA
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2002,13.9,14.98,15.28,15.67
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2002,13.6,13.6,13.49,15.18
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2002,8.33,8.17,8.39,9.32
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2002,11,11.1,10.99,12.22
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2002,11.67,11.9,11.5,12.66
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2002,14.36,15.01,15.24,15.92
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2001,12.27,12.58,11.04,12.4
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2001,15.82,15.99,14.98,15.92
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2001,13.4,13.09,13.01,14.92
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2001,18.81,18.84,17.57,18.96
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2001,14.63,15.12,14.18,14.96
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2001,20.56,22.77,18.75,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2001,27.25,27.47,26.18,27.73
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2001,15.51,15.82,14.65,15.65
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2001,25.24,25.54,23.71,25.4
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2001,14.05,15.04,13.49,14.48
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2001,16.3,16.35,15.05,16.49
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2001,9.22,9.08,8.12,9.34
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2001,12,11.95,10.98,12.04
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2001,11.25,9.64,10.44,11.85
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,2000,12.3,12.1,12.44,12.18
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,2000,15.52,16,15.74,14.15
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,2000,16.22,16.35,16.47,16.2
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,2000,27.54,27.9,27.78,27.68
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,2000,8.14,7,5.16,NA
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,2000,15.04,15.25,15.23,15.15
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,2000,12.34,12.35,12.05,12.02
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,2000,25.04,25.7,25.8,25.68
+RJ,Ganganagar,Padampur,Padampur,29.68333333,73.85833333,Narsinghpur,"Tube Well",W14051,2000,22.91,23.28,23.17,21.25
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,2000,9.04,9.1,9.21,8.95
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,2000,18.25,19.2,18.85,19.15
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,2000,16,16.2,16.37,16.02
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,2000,15.3,15.3,17.08,15.2
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,2000,13.77,14.49,13.65,14.06
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,1999,16.2,16.46,16.21,16.31
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,1999,12.3,12,12.34,12.17
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,1999,16.33,16.56,16.37,16.42
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,1999,16.27,15.95,15.99,16.11
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,1999,NA,17.32,NA,9.17
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,1999,15.37,15.6,16.34,15.45
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,1999,15.51,15.15,15.44,15.5
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,1999,9.13,9.2,9.19,8.98
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,1999,19.28,19.18,18.27,18.7
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,1999,12.28,14.77,12.33,12.26
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,1999,28.71,27.78,28.18,28.94
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,1999,15.78,15.49,14.65,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,1999,25.97,26,25.93,26
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,1998,15.55,16.4,15.72,13.69
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,1998,12.2,12.07,11.45,12.14
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,1998,16.48,16.75,16.15,16.52
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,1998,15.75,15.93,15.61,15.84
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,1998,9.39,9.56,8.18,9.37
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,1998,13.19,13.29,13.18,11.81
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,1998,16.64,16.86,16.54,16.69
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,1998,NA,17.9,NA,NA
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,1998,19.75,20.11,20.18,19.88
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,1998,16.8,17.09,16.76,16.69
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,1998,28.71,28.6,28.4,28.83
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,1998,26.43,26,25.28,26.51
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,1998,14.85,NA,NA,14.9
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,1997,29.54,30.59,29.07,30.18
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,1997,17.52,17.7,17.23,17.66
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,1997,18.83,20.77,20.27,20.35
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,1997,16.8,18.49,17.98,18.16
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,1997,17.08,NA,13.8,17.15
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,1997,15.73,17.83,NA,NA
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,1997,13.58,13.76,13.15,13.1
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,1997,9.75,9.79,9.78,9.8
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,1997,11.25,16.35,12.02,16.06
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,1997,17.05,16.3,17,17.08
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,1997,12.59,12.48,12.53,12.6
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,1997,16.8,17.27,17.02,16.96
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,1997,26.94,27.17,26.13,26.88
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,1996,NA,18.84,NA,NA
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,1996,NA,17.67,17.06,17.44
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,1996,NA,14.55,13.09,15.31
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,1996,NA,NA,NA,17.3
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,1996,NA,12.8,12.25,12.8
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,1996,NA,18.01,17.8,17.68
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,1996,NA,9.32,9.87,10.1
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,1996,NA,NA,27.24,27.32
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,1996,NA,21.06,20.8,20.92
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,1996,NA,NA,16.19,16.4
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,1996,NA,34.85,30.96,31.58
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,1996,NA,NA,18.49,NA
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,1996,NA,NA,17.24,15.49
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,1995,19.38,18.9,17.77,19.68
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,1995,17.46,17.59,17.42,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,1995,NA,18.94,NA,18.8
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,1995,19,21.53,21.12,21.38
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,1995,18.08,18.14,18.04,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,1995,31.8,32.52,31.94,31.8
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,1995,27.7,27.9,27.62,27.75
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,1995,17.98,19.5,17.72,17.95
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,1995,13.07,13.18,12.95,13.15
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,1995,17.83,18.19,17.78,17.97
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,1995,13.78,16.9,16.68,16.78
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,1995,10.2,10.38,9.99,10.16
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,1995,14.08,13.77,14.64,14.37
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80416667,73.85833333,Mahiyanwali,"Dug Well",W14044,1994,19.64,19.23,22,NA
+RJ,Ganganagar,Padampur,Padampur,29.59583333,73.61666667,Ganguwala,"Dug Well",W14050,1994,18.2,18.1,18.04,18.38
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.84166667,74.02222222,"Lalgaarh Jatan","Dug Well",W14040,1994,28.27,29.01,28.06,28.52
+RJ,Ganganagar,Ganganagar,Sadulshahar,29.74583333,73.9,Ganeshgarh,"Dug Well",W14043,1994,21.73,22.41,21.52,21.82
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.63333333,73.45,Gajsinghpura,"Dug Well",W14052,1994,13.3,13.81,13.1,13.6
+RJ,Ganganagar,Raisinghnagar,Raisinghnagar,29.54166667,73.45,Raisinghnagar1,"Dug Well",W14053,1994,18.4,18.42,18.19,18.75
+RJ,Ganganagar,Karanpur,Karanpur,29.80833333,73.55833333,Kharla,"Dug Well",W14047,1994,14.38,13.69,15.07,14.55
+RJ,Ganganagar,Ganganagar,Ganganagar,29.80833333,73.73333333,Tatarsar,"Dug Well",W14045,1994,17.62,NA,17.57,NA
+RJ,Ganganagar,Ganganagar,Ganganagar,29.825,73.72916667,Chunawad,"Dug Well",W14042,1994,18.42,18.2,18.27,18.08
+RJ,Ganganagar,Karanpur,Karanpur,29.79583333,73.44583333,Rupanagar,"Dug Well",W14048,1994,10.41,9.95,10.27,10.47
+RJ,Ganganagar,Gharsana,Gharsana,28.8,73.06666667,Rojari,"Dug Well",W14046,1994,20.21,21.08,NA,NA
+RJ,Ganganagar,Sadulshahar,Sadulshahar,29.76666667,74.08333333,"Morjhand Kheri","Dug Well",W14041,1994,32.28,32.91,32.62,32.55
+RJ,Ganganagar,Padampur,Padampur,29.725,73.59583333,Delwan,"Dug Well",W14049,1994,17.95,16.93,16.93,17.08

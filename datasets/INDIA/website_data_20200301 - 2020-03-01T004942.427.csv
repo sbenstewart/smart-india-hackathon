@@ -1,0 +1,709 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2018,2.01,5.47,NA,NA
+GJ,Surat,Mandvi,Mandvi,21.41472222,73.42777778,Katradevi,"Dug Well",W32848,2018,NA,3.4,NA,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2018,1.83,3.53,NA,NA
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2018,1.34,1.85,NA,NA
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2018,1.01,3,NA,NA
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2018,2.29,4.81,NA,NA
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2018,1.62,5.98,NA,NA
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2018,12.66,8.82,NA,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2018,3.18,5.45,NA,NA
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2018,1.55,3.94,NA,NA
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2018,3.96,4.32,NA,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2018,5.27,9.75,NA,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2018,2.31,7.18,NA,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2018,7.24,11.54,NA,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2018,2.03,3.08,NA,NA
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2018,1.02,4.01,NA,NA
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2018,1.23,4.97,NA,NA
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2018,1.69,6.7,NA,NA
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2018,2.33,2.73,NA,NA
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2018,1.28,2.16,NA,NA
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2018,NA,3.26,NA,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2018,3.49,NA,NA,5.83
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2018,1.35,NA,NA,4.3
+GJ,Surat,Mahuva,Mahuva,20.83722222,73.28777778,Vaheval,"Dug Well",W26744,2018,'0.67,8.76,NA,NA
+GJ,Surat,Palsana,Palsana,21.11861111,73.07527778,Gangadhra,"Dug Well",W26934,2018,4.89,5.77,NA,NA
+GJ,Surat,Bardoli,Bardoli,21.17027778,73.06861111,Mota,"Dug Well",W26968,2018,1.45,5,NA,NA
+GJ,Surat,Bardoli,Bardoli,21.22138889,73.21888889,"Kadod 1","Dug Well",W27011,2018,4.34,5.5,NA,NA
+GJ,Surat,Kamrej,Kamrej,21.24833333,73.02555556,Digas,"Dug Well",W27022,2018,3.82,8.27,NA,NA
+GJ,Surat,Mangrol,Mangrol,21.38027778,73.00416667,Bhatkol,"Dug Well",W27093,2018,3.48,3.77,NA,NA
+GJ,Surat,Mangrol,Mangrol,21.45416667,73.19833333,Paneshwar,"Dug Well",W27150,2018,5.29,10.31,NA,NA
+GJ,Surat,Kamrej,Kamrej,21.30555556,72.91083333,Sayan,"Dug Well",W27047,2018,5.74,7.7,NA,NA
+GJ,Surat,Mandvi,Mandvi,21.27916667,73.34972222,"Moti Sarkui","Dug Well",W27038,2018,1.58,5.52,NA,NA
+GJ,Surat,Umarpada,Umarpada,21.44916667,73.48666667,"Juna Umarpada2","Dug Well",W32857,2018,'0.78,3.26,NA,NA
+GJ,Surat,Bardoli,Bardoli,21.11527778,73.1,Bardoli,"Tube Well",W26930,2018,1.52,NA,NA,8.75
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2018,15.57,17.18,NA,NA
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2017,NA,6.12,4.2,6.9
+GJ,Surat,Bardoli,Bardoli,21.13361111,73.24861111,"Madhi 1","Dug Well",W26941,2017,NA,NA,3.8,NA
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2017,NA,1.8,NA,4.3
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2017,2.9,5.1,4.4,7.4
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2017,14.85,17.55,16.8,17.75
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2017,4.87,5.56,5.21,5.74
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2017,1.68,2.82,1.9,2.4
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2017,1.19,1.95,1.49,2.89
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2017,2.85,5.65,4.9,3.3
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2017,2.61,4.65,3.55,3.98
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2017,12.5,13.4,13.6,14
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2017,3.45,5.6,4.45,9.61
+GJ,Surat,Mandvi,Mandvi,21.38083333,73.07638889,Tadkeshwar,"Dug Well",W27094,2017,NA,NA,5.5,8.8
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2017,1.35,6.35,4,10.6
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2017,3.6,7.55,2.25,11.4
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2017,6.65,9.74,8.3,12.76
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2017,4.25,8.25,6.3,10.2
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2017,9.3,13.4,11.2,11.98
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2017,2.68,3.28,2.48,3.48
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2017,1.74,4.54,'0.84,3.78
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2017,1.95,5.26,2.9,8.9
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2017,3.05,7.9,5.8,5.44
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2017,'0.65,2.35,1.8,2.46
+GJ,Surat,Mahuva,Mahuva,20.83722222,73.28777778,Vaheval,"Dug Well",W26744,2017,1.5,6.95,5.25,9.61
+GJ,Surat,Palsana,Palsana,21.11861111,73.07527778,Gangadhra,"Dug Well",W26934,2017,5.43,10.85,8.35,10.85
+GJ,Surat,Bardoli,Bardoli,21.17027778,73.06861111,Mota,"Dug Well",W26968,2017,2.2,4.3,1.05,3.07
+GJ,Surat,Kamrej,Kamrej,21.24833333,73.02555556,Digas,"Dug Well",W27022,2017,4.6,8.8,3.8,10.16
+GJ,Surat,Mangrol,Mangrol,21.38027778,73.00416667,Bhatkol,"Dug Well",W27093,2017,3.55,3.57,3.65,3.9
+GJ,Surat,Mangrol,Mangrol,21.45416667,73.19833333,Paneshwar,"Dug Well",W27150,2017,5.8,12.02,4.6,12.99
+GJ,Surat,Mandvi,Mandvi,21.27916667,73.34972222,"Moti Sarkui","Dug Well",W27038,2017,2.3,5.35,4.45,8.67
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2017,NA,NA,'0.25,'0.98
+GJ,Surat,Bardoli,Bardoli,21.11527778,73.1,Bardoli,"Tube Well",W26930,2017,NA,5.77,3.35,6.83
+GJ,Surat,Umarpada,Umarpada,21.44916667,73.48666667,"Juna Umarpada2","Dug Well",W32857,2017,'0.75,2.98,'0.5,6.43
+GJ,Surat,Bardoli,Bardoli,21.22138889,73.21888889,"Kadod 1","Dug Well",W27011,2017,4.55,5.45,NA,5.72
+GJ,Surat,Kamrej,Kamrej,21.30555556,72.91083333,Sayan,"Dug Well",W27047,2017,NA,7.7,NA,7.8
+GJ,Surat,"Surat City",Chorasi,21.24555556,72.78555556,Surat_DW,"Dug Well",W31344,2017,6.25,NA,1.3,NA
+GJ,Surat,Mandvi,Mandvi,21.41472222,73.42777778,Katradevi,"Dug Well",W32848,2017,NA,NA,2.4,NA
+GJ,Surat,Olpad,Olpad,21.39944444,72.85583333,Anita,"Dug Well",W32847,2017,NA,NA,6.3,NA
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2017,'0.7,NA,3.5,5.96
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2016,1.72,NA,2.55,5.04
+GJ,Surat,Umarpada,Umarpada,21.44916667,73.48666667,"Juna Umarpada2","Dug Well",W32857,2016,2.58,NA,3,8.38
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2016,4.69,NA,5.1,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2016,3.74,NA,4.3,11.34
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2016,3.27,NA,3.4,NA
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2016,NA,NA,NA,4.77
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2016,2.8,NA,2.8,7.64
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2016,5.14,NA,4.1,10.8
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2016,2.6,NA,2.5,4.92
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2016,4.85,NA,4.91,6.77
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2016,11.18,NA,11.5,12.85
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2016,3.28,NA,3.08,4.56
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2016,14.63,NA,16.05,17.75
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2016,1.45,NA,1.6,2.57
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2016,'0.2,NA,'0.15,'0.7
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2016,1.53,NA,1.74,2.84
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2016,8.1,NA,7.53,12.75
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2016,5.89,NA,5.3,10.05
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2016,3.34,NA,3.85,7.6
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2016,12.8,NA,13.5,14.19
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2016,2.75,NA,2.6,8.9
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2016,2.3,NA,1.14,3.69
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2016,3.48,NA,4.8,5.83
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2016,1.73,NA,2.41,4.28
+GJ,Surat,Bardoli,Bardoli,21.11527778,73.1,Bardoli,"Tube Well",W26930,2016,5.55,4.85,3.55,7.16
+GJ,Surat,Palsana,Palsana,21.11861111,73.07527778,Gangadhra,"Dug Well",W26934,2016,6.99,9.25,6.45,10.85
+GJ,Surat,Bardoli,Bardoli,21.13361111,73.24861111,"Madhi 1","Dug Well",W26941,2016,2.97,4.6,3.6,8.47
+GJ,Surat,Bardoli,Bardoli,21.17027778,73.06861111,Mota,"Dug Well",W26968,2016,3.3,3.5,2.6,3.17
+GJ,Surat,Bardoli,Bardoli,21.22138889,73.21888889,"Kadod 1","Dug Well",W27011,2016,4.65,12.15,9.1,5.72
+GJ,Surat,Kamrej,Kamrej,21.24833333,73.02555556,Digas,"Dug Well",W27022,2016,6.28,2.38,7.5,11
+GJ,Surat,Mandvi,Mandvi,21.27916667,73.34972222,"Moti Sarkui","Dug Well",W27038,2016,2.57,2.55,4.65,9.87
+GJ,Surat,Kamrej,Kamrej,21.30555556,72.91083333,Sayan,"Dug Well",W27047,2016,6.96,5.8,7,7.78
+GJ,Surat,Mangrol,Mangrol,21.38027778,73.00416667,Bhatkol,"Dug Well",W27093,2016,2.57,3.35,2.95,3.6
+GJ,Surat,Mandvi,Mandvi,21.38083333,73.07638889,Tadkeshwar,"Dug Well",W27094,2016,NA,6.73,NA,NA
+GJ,Surat,Mangrol,Mangrol,21.45416667,73.19833333,Paneshwar,"Dug Well",W27150,2016,9.4,11.5,11.9,14.62
+GJ,Surat,Mangrol,Mangrol,21.46666667,72.95277778,Kosamba,"Tube Well",W27164,2016,NA,21.3,NA,NA
+GJ,Surat,Mahuva,Mahuva,20.83722222,73.28777778,Vaheval,"Dug Well",W26744,2016,4.36,6.35,4.58,11.42
+GJ,Surat,"Surat City",Chorasi,21.24555556,72.78555556,Surat_DW,"Dug Well",W31344,2016,NA,6.6,3.3,4.16
+GJ,Surat,Palsana,Palsana,21.15833333,72.98888889,Bagumda,"Dug Cum Bore Well",W32827,2016,4.42,NA,1.6,5.54
+GJ,Surat,Olpad,Olpad,21.39944444,72.85583333,Anita,"Dug Well",W32847,2016,NA,NA,3.2,1.81
+GJ,Surat,Mandvi,Mandvi,21.41472222,73.42777778,Katradevi,"Dug Well",W32848,2016,1.67,NA,1.91,7.44
+GJ,Surat,Mangrol,Mangrol,21.44416667,73.04861111,Velachha,"Dug Well",W32856,2016,5.16,NA,NA,5.66
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2016,8.72,NA,4.25,11.44
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2015,2.75,2.97,2.9,5.93
+GJ,Surat,"Surat City",Chorasi,21.24555556,72.78555556,Surat_DW,"Dug Well",W31344,2015,NA,NA,2,NA
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2015,4.7,5.84,5.8,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2015,4.15,4.45,4.65,9.7
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2015,2.8,3.78,4.15,2.8
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2015,1.8,2.82,2.3,18.3
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2015,5.2,4.85,5.8,7.5
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2015,2.7,3.53,3,8.52
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2015,4.81,5.56,5.51,8.64
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2015,9.8,12.07,10.1,10.1
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2015,1.68,2.83,2.43,9.55
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2015,16.85,17.45,17.05,17.75
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2015,2,2,3.1,9.45
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2015,'0.55,1.15,1.25,9.06
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2015,1.29,2.13,1.59,10.1
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2015,8.4,8.78,9.3,12.08
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2015,8.1,7.73,9,10.2
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2015,6.2,3.96,7.3,13.17
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2015,13.5,13.28,8.4,31.6
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2015,3.8,6.4,4.7,31.51
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2015,'0.94,3.86,2.04,11.99
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2015,4.2,6,5,12.26
+GJ,Surat,Bardoli,Bardoli,21.22083333,73.225,Kadod,"Dug Well",W20372,2015,NA,NA,NA,6.38
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2015,1.7,2.02,2.4,4.09
+GJ,Surat,Bardoli,Bardoli,21.11527778,73.1,Bardoli,"Tube Well",W26930,2015,5.05,4.55,5.95,5.5
+GJ,Surat,Palsana,Palsana,21.11861111,73.07527778,Gangadhra,"Dug Well",W26934,2015,6.35,10.02,9.3,10.34
+GJ,Surat,Bardoli,Bardoli,21.13361111,73.24861111,"Madhi 1","Dug Well",W26941,2015,3.4,6.66,4.3,7.89
+GJ,Surat,Bardoli,Bardoli,21.17027778,73.06861111,Mota,"Dug Well",W26968,2015,1.9,NA,3,19.5
+GJ,Surat,Bardoli,Bardoli,21.22138889,73.21888889,"Kadod 1","Dug Well",W27011,2015,4.55,NA,5.15,5.53
+GJ,Surat,Kamrej,Kamrej,21.24833333,73.02555556,Digas,"Dug Well",W27022,2015,1.1,NA,6.9,14.94
+GJ,Surat,Mandvi,Mandvi,21.27916667,73.34972222,"Moti Sarkui","Dug Well",W27038,2015,4.05,4.55,4.75,18.68
+GJ,Surat,Kamrej,Kamrej,21.30555556,72.91083333,Sayan,"Dug Well",W27047,2015,5.1,4.8,5.9,NA
+GJ,Surat,Mangrol,Mangrol,21.38027778,73.00416667,Bhatkol,"Dug Well",W27093,2015,2.45,3.7,3.15,6.3
+GJ,Surat,Mandvi,Mandvi,21.38083333,73.07638889,Tadkeshwar,"Dug Well",W27094,2015,6.1,8.1,7.3,8.8
+GJ,Surat,Mangrol,Mangrol,21.45416667,73.19833333,Paneshwar,"Dug Well",W27150,2015,9.8,8.6,11.3,8.52
+GJ,Surat,Mangrol,Mangrol,21.46666667,72.95277778,Kosamba,"Tube Well",W27164,2015,20.4,19.2,20.5,21.67
+GJ,Surat,Mahuva,Mahuva,20.83722222,73.28777778,Vaheval,"Dug Well",W26744,2015,4.35,NA,5.45,10.3
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2015,4.45,3.6,4.75,31.9
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2014,4.35,4.13,2.49,3.52
+GJ,Surat,Mahuva,Mahuva,20.83722222,73.28777778,Vaheval,"Dug Well",W26744,2014,NA,7.85,6.57,12.01
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2014,2.71,5.28,5.45,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2014,3.4,5.33,5.39,9.2
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2014,NA,3.2,3.32,5.96
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2014,3.11,4.37,NA,5.16
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2014,3.29,2.47,2.39,2.96
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2014,3.76,4.52,3.92,5.59
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2014,NA,3.56,3.41,4.23
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2014,NA,4.88,5.41,5.49
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2014,10.5,10.52,11.79,14.4
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2014,2.41,2.75,2.78,3.02
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2014,15.83,17.15,16.51,17.75
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2014,1.06,2.85,1.9,2.2
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2014,NA,4.07,'0.89,'0.05
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2014,1.04,1.65,1.73,2.45
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2014,7.8,9.28,8.61,12.84
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2014,5.29,6.28,6.9,10.2
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2014,4.57,4.22,3.63,6.3
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2014,13,11.95,13.1,13.45
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2014,2.41,3.82,6.22,6.82
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2014,1.41,3.66,3.33,3.66
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2014,2.6,6.12,5.76,5.64
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2014,1.35,NA,1.89,4.04
+GJ,Surat,Bardoli,Bardoli,21.11527778,73.1,Bardoli,"Tube Well",W26930,2014,4.05,4.9,4.49,5.88
+GJ,Surat,Palsana,Palsana,21.11861111,73.07527778,Gangadhra,"Dug Well",W26934,2014,NA,7.6,8.1,9.27
+GJ,Surat,Bardoli,Bardoli,21.13361111,73.24861111,"Madhi 1","Dug Well",W26941,2014,NA,6.09,6.21,8.26
+GJ,Surat,Bardoli,Bardoli,21.17027778,73.06861111,Mota,"Dug Well",W26968,2014,2.15,3.15,3.7,2.84
+GJ,Surat,Bardoli,Bardoli,21.22138889,73.21888889,"Kadod 1","Dug Well",W27011,2014,4.72,3.83,5.09,5.01
+GJ,Surat,Kamrej,Kamrej,21.24833333,73.02555556,Digas,"Dug Well",W27022,2014,4.65,6.55,5.79,8
+GJ,Surat,Mandvi,Mandvi,21.27916667,73.34972222,"Moti Sarkui","Dug Well",W27038,2014,2.68,6.14,4.97,9.33
+GJ,Surat,Kamrej,Kamrej,21.30555556,72.91083333,Sayan,"Dug Well",W27047,2014,NA,4.3,4.68,6.2
+GJ,Surat,Mangrol,Mangrol,21.38027778,73.00416667,Bhatkol,"Dug Well",W27093,2014,NA,3.83,3.57,4.26
+GJ,Surat,Mandvi,Mandvi,21.38083333,73.07638889,Tadkeshwar,"Dug Well",W27094,2014,NA,7.88,7.24,NA
+GJ,Surat,Mangrol,Mangrol,21.45416667,73.19833333,Paneshwar,"Dug Well",W27150,2014,7.91,8.52,8.32,11.25
+GJ,Surat,Mangrol,Mangrol,21.46666667,72.95277778,Kosamba,"Tube Well",W27164,2014,18.13,NA,18.67,19.94
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2014,NA,4.15,4.09,9.99
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2013,3.33,3.09,2.55,2.98
+GJ,Surat,Mahuva,Mahuva,20.83722222,73.28777778,Vaheval,"Dug Well",W26744,2013,2.24,NA,NA,12.02
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2013,3.05,5.76,5.6,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2013,3.5,5.41,NA,9.62
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2013,1.44,3.43,2.28,5.96
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2013,2.97,4.48,4.1,5.62
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2013,3.44,4.52,2.2,4.15
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2013,2.62,4.02,3.4,5.6
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2013,2.04,2.96,2,4.3
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2013,3.59,5.79,3.72,6
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2013,5.79,12.2,8.6,14.68
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2013,2.33,3.52,2.58,3.22
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2013,12.57,17.73,16.05,17.75
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2013,1.87,2.48,2.4,'0.94
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2013,'0.05,1.27,1.55,NA
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2013,1.12,2.13,2.27,2.36
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2013,2.25,14.8,NA,15.7
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2013,6.49,8.84,9,12.57
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2013,3.35,8.36,8.5,10.2
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2013,1.38,3.75,5.4,9.24
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2013,10.06,13.75,11.2,14.09
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2013,2.68,6.69,3.97,8.73
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2013,1.99,2.47,1.54,2.77
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2013,3.55,5.85,5.4,4.76
+GJ,Surat,Bardoli,Bardoli,21.22083333,73.225,Kadod,"Dug Well",W20372,2013,4.2,NA,NA,NA
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2013,1.58,3.13,2.6,3.91
+GJ,Surat,Bardoli,Bardoli,21.11527778,73.1,Bardoli,"Tube Well",W26930,2013,2.84,NA,3.05,5.74
+GJ,Surat,Palsana,Palsana,21.11861111,73.07527778,Gangadhra,"Dug Well",W26934,2013,3.98,NA,8.25,8.7
+GJ,Surat,Bardoli,Bardoli,21.13361111,73.24861111,"Madhi 1","Dug Well",W26941,2013,NA,NA,4.95,NA
+GJ,Surat,Bardoli,Bardoli,21.17027778,73.06861111,Mota,"Dug Well",W26968,2013,2.5,NA,2.1,3.15
+GJ,Surat,Bardoli,Bardoli,21.22138889,73.21888889,"Kadod 1","Dug Well",W27011,2013,3.35,NA,12.25,5.64
+GJ,Surat,Kamrej,Kamrej,21.24833333,73.02555556,Digas,"Dug Well",W27022,2013,3.48,NA,2.98,8.9
+GJ,Surat,Mandvi,Mandvi,21.27916667,73.34972222,"Moti Sarkui","Dug Well",W27038,2013,2.64,NA,5.3,8.78
+GJ,Surat,Kamrej,Kamrej,21.30555556,72.91083333,Sayan,"Dug Well",W27047,2013,NA,NA,3.4,NA
+GJ,Surat,Mangrol,Mangrol,21.38027778,73.00416667,Bhatkol,"Dug Well",W27093,2013,2.52,NA,2.95,5.25
+GJ,Surat,Mandvi,Mandvi,21.38083333,73.07638889,Tadkeshwar,"Dug Well",W27094,2013,4.91,NA,6.28,8.8
+GJ,Surat,Mangrol,Mangrol,21.45416667,73.19833333,Paneshwar,"Dug Well",W27150,2013,6.42,NA,8.24,13.61
+GJ,Surat,Mangrol,Mangrol,21.46666667,72.95277778,Kosamba,"Tube Well",W27164,2013,16.88,18.93,15.8,20.98
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2013,1.25,7.88,2.35,16.25
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2012,NA,3.35,2.75,4.06
+GJ,Surat,Mangrol,Mangrol,21.46666667,72.95277778,Kosamba,"Tube Well",W27164,2012,NA,NA,18.11,NA
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2012,NA,5.92,5.03,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2012,NA,5.76,5.09,9.5
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2012,NA,3.52,2.86,5.96
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2012,NA,4.9,4.03,5.43
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2012,NA,5.61,3.84,4.13
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2012,NA,5.05,3.65,6.77
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2012,NA,2.7,2.71,3.59
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2012,NA,5.61,5.65,5.84
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2012,NA,11.7,11,12.83
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2012,NA,2.53,10.11,3.75
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2012,NA,17.28,16.77,17.75
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2012,NA,9.63,8.45,12.81
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2012,NA,2.4,2.14,2.67
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2012,NA,1.75,1.12,2.08
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2012,NA,1.84,1.79,2.48
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2012,NA,14.02,NA,15.1
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2012,NA,8.35,7.28,10.2
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2012,NA,4.25,3.37,6.15
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2012,NA,13.1,6.36,13.89
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2012,NA,4,6.07,5.99
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2012,NA,2.39,2.06,3.66
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2012,NA,5.1,5.5,5.26
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2012,NA,1.91,1.76,4.3
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2012,NA,5.95,7.12,3.76
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2011,1.07,2.91,2.93,3.8
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2011,1.5,1.75,1.7,2.48
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2011,2.4,5.58,3.06,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2011,3.2,5.26,3.42,9.15
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2011,'0.52,2.45,'0.85,4.5
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2011,2.4,4.52,3.26,NA
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2011,2.3,2.64,2.41,3.29
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2011,'0.75,5.65,'0.86,5.87
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2011,1.4,2.32,1.31,3.3
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2011,3.31,5.21,3.54,5.81
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2011,9.1,8.42,9.01,12.3
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2011,1.78,2.68,2,2.66
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2011,14.16,16.9,14.77,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2011,6.25,8.82,7.26,11.6
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2011,1.3,2.74,1.56,1.8
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2011,'0.1,4.82,'0.39,4.55
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2011,1.04,1.61,1.11,2.79
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2011,13.97,NA,13.83,15.05
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2011,1.25,7.26,2.85,9.6
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2011,'0.87,3.51,'0.93,9
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2011,12.22,12.87,12.18,NA
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2011,1.85,6.02,2.09,5.7
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2011,1.18,3.2,1.67,1.59
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2011,1.63,5.94,3.16,6
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2011,'0.22,4.45,'0.93,11.05
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2010,'0.9,5.95,4.2,3.26
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2010,1.97,3.95,1.8,3.1
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2010,3.2,7.4,5,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2010,3.25,5.91,4.3,9.5
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2010,2.1,3.4,2.3,4.24
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2010,2.64,5.6,3.82,5.77
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2010,2.54,4.16,2.38,4.64
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2010,1.2,4.13,4.1,7.1
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2010,1.05,2.35,1.85,3.36
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2010,4.06,6.83,4.31,6.01
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2010,11.25,9.4,8.8,12.92
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2010,2.06,3.08,2.28,3.22
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2010,13.75,16.88,15.75,17.75
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2010,NA,9.4,8.22,12.35
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2010,'0.88,2.7,2,3.26
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2010,NA,1.17,'0.75,2.12
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2010,'0.99,1.94,1.34,2.99
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2010,NA,9.68,NA,15.45
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2010,3.3,7.5,3.76,9.65
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2010,1.43,3.23,1.1,10.6
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2010,12.55,13.05,12.25,13.75
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2010,1.48,5.02,3.1,4.87
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2010,1.03,3.02,2.04,2.99
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2010,1.29,4.3,5.1,5.72
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2010,1.35,3.95,2.65,11.43
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2009,1.3,7.08,4.75,4.95
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2009,1.8,3.47,1.75,2.8
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2009,NA,3.15,NA,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2009,4.95,5.34,4.7,NA
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2009,NA,2.41,2.25,5.21
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2009,3.2,4.54,4.01,NA
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2009,2.9,2.56,3.63,3.48
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2009,2,4.83,3.37,6.15
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2009,1.65,2.97,2.14,4
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2009,4.49,5.58,5.28,5.84
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2009,6.8,8.41,7.8,12.28
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2009,2.18,2.84,2.44,2.84
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2009,15.2,16.99,15.94,17.75
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2009,6.9,9.51,8.17,NA
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2009,'0.15,2.59,2.16,1.18
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2009,'0.1,'0.86,'0.71,1.13
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2009,1.17,1.93,1.49,2.69
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2009,NA,11.96,NA,14.63
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2009,5.04,7.54,6.37,9.4
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2009,'0.1,2.84,1.4,8.6
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2009,12.8,12.48,12.8,13.72
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2009,2.15,4.44,4.4,8.29
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2009,1.14,2.38,2.2,2.85
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2009,NA,5.01,NA,5.66
+GJ,Surat,Olpad,Olpad,21.34027778,72.74638889,Olpad-3,"Tube Well",W19119,2009,NA,NA,3.56,NA
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2009,NA,5.3,3.75,10.05
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2008,3,3.36,NA,2.7
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2008,2.09,NA,2.4,2.5
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2008,'0.37,NA,2.49,11.85
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2008,3.71,5.46,1.81,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2008,3.58,NA,5.18,8.45
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2008,2.19,4.8,2.01,4.2
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2008,3.14,4.75,3.95,5.77
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2008,1.76,3.77,2.48,3
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2008,2.48,4.53,3.67,10.05
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2008,1.85,3.16,2.26,4.5
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2008,3.96,5.32,4.81,6.01
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2008,6.12,7.71,6.59,11.07
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2008,1.25,2.61,3.35,2.88
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2008,13.53,17.04,16.06,17.75
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2008,6.9,NA,8.41,11.95
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2008,'0.41,'0.71,2.7,3.08
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2008,NA,1.46,2.08,1.25
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2008,'0.77,1.23,1.53,2.43
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2008,11.97,NA,12.37,13.95
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2008,3.31,7.05,NA,8.9
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2008,3.22,6.2,1.44,8.95
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2008,11.61,12.45,11.74,13.6
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2008,2.44,4.18,3.89,4.26
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2008,1.35,2.11,2.15,2.74
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2008,1.71,5.17,4.96,5.5
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2008,NA,NA,NA,6.92
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2007,2.14,1.75,1.38,2.7
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2007,NA,5.6,NA,6.25
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2007,'0.15,5.83,3.55,14.65
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2007,2.41,6.41,5.2,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2007,3.27,6.35,5.29,7.99
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2007,1.67,4.48,1.63,4.2
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2007,2.9,5.77,5.32,5.77
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2007,2.16,3.64,3.64,6.22
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2007,NA,5.02,4,5.55
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2007,1.6,4.33,2.7,5.24
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2007,3.68,3.31,2.32,6.17
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2007,1.9,8.45,6.62,10.31
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,2007,NA,NA,NA,9.45
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2007,1.97,2.76,1.6,3.04
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2007,14.65,17.5,16.85,17.75
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2007,6.9,10.35,9.53,12.19
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2007,'0.17,1.93,2.25,1.02
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2007,'0.15,2.81,2.18,4.51
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2007,'0.64,3.35,1.35,2.44
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2007,NA,12.85,11.5,13.95
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2007,3.53,7.92,6.87,8.95
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2007,2.72,7.37,5.63,9.12
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2007,11.3,12.71,12.25,13.3
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,2007,NA,2.2,NA,NA
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2007,2.1,6.07,3.1,5.65
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2007,1.93,1.46,1.26,1.49
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2007,1.77,5.08,4.04,5.42
+GJ,Surat,Olpad,Olpad,21.34027778,72.74638889,Olpad-3,"Tube Well",W19119,2007,NA,3.45,NA,NA
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2007,1.23,3.46,1.48,3.86
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2006,2.65,1.65,2.86,2.04
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2006,2.89,4.97,4.33,5.77
+GJ,Surat,Olpad,Olpad,21.34027778,72.74638889,Olpad-3,"Tube Well",W19119,2006,NA,2.72,NA,NA
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2006,2.17,NA,1.61,3.86
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2006,1.28,1.78,'0.63,'0.73
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2006,'0.16,1.73,1.35,'0.85
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2006,'0.79,2.51,1.44,2.28
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2006,NA,13.07,11.45,16.55
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2006,3.41,7.05,6.05,8.69
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2006,'0.58,6.18,5.52,7.5
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2006,8.76,12.45,11.47,12.6
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,2006,'0.25,1.75,1.7,2.3
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2006,2.73,4.33,4.72,4.6
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2006,1.81,4.15,2.66,1.83
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2006,2.6,4.12,4.08,5.83
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2006,1.93,2.88,3.28,5.23
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2006,NA,3.23,5.26,5.05
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2006,3.31,8.31,5.85,10.87
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,2006,2.31,NA,9.45,9.45
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2006,2.03,2.66,2.58,2.98
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2006,12.85,17.27,16.51,17.65
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2006,6.5,10.02,8.74,11.97
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2006,NA,2.57,4.17,2.95
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2006,'0.5,6.8,NA,NA
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2006,2.37,6.35,5.41,12.25
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2006,1.41,5.68,5.4,7.4
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2006,1.86,5.57,4.63,8.32
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2006,1.4,2.66,2.15,4.37
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2006,2.98,5.17,5.16,4.41
+GJ,Surat,Mandvi,Mandvi,21.34055556,73.09777778,Ushker-2,"Dug Well",W19113,2005,3.9,3.99,5.07,5.49
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2005,2.75,5.22,5,7.29
+GJ,Surat,Bardoli,Bardoli,21.22083333,73.225,Kadod,"Dug Well",W20372,2005,NA,NA,NA,13.88
+GJ,Surat,Umarpada,Umarpada,21.47472222,73.595,Chavada-2,"Dug Well",W20374,2005,2.88,NA,NA,2.66
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2005,'0.3,'0.01,1.5,1.4
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2005,'0.69,'0.06,1.25,1.06
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2005,'0.29,'0.73,1.69,3.03
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2005,7.2,11.95,12.95,14.99
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2005,3.6,5.33,6.2,8.58
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2005,3.9,NA,5.4,NA
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2005,10.48,11.74,11.44,13.62
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,2005,'0.01,1.92,1.6,2.41
+GJ,Surat,Mandvi,Mandvi,21.32222222,73.12694444,Kasal-2,"Dug Well",W19111,2005,3.17,2.49,1.2,5.41
+GJ,Surat,Mandvi,Mandvi,21.29083333,73.21444444,Nogama-1,"Dug Well",W19112,2005,1.6,'0.61,2.94,1.66
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2005,2.34,2.9,4.04,5.4
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2005,1.32,1.56,2.6,3.74
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2005,NA,3.19,2.69,5.38
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2005,6.25,8.93,7.35,12.88
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,2005,NA,NA,9.45,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2005,1.2,2.19,2.58,2.87
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2005,14.66,16.5,16.75,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2005,7.82,NA,9.62,8.58
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2005,2.95,1.72,2.38,2.27
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,2005,5.58,NA,NA,10.77
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2005,3.12,4.9,6.1,6.15
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2005,3.82,4.82,5.3,12.82
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2005,4.13,4.96,5.24,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2005,3.85,4.68,4.75,8.83
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2005,1.9,3.4,2.16,3.94
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2005,3.25,3.86,4.22,NA
+GJ,Surat,Olpad,Olpad,21.34027778,72.74638889,Olpad-3,"Tube Well",W19119,2005,1.75,1.74,2.15,1.92
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2004,'0.8,'0.65,'0.9,1.26
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2004,2.67,5.25,2.3,6.9
+GJ,Surat,Sachin,Palsana,21.17916667,72.9625,Kadodra,"Dug Well",W08899,2004,NA,NA,6.4,NA
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2004,1.47,1.93,'0.59,1.99
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2004,NA,10.9,13.25,NA
+GJ,Surat,Sayan,"Surat City",21.175,72.79166667,Surat-2,"Dug Well",W08904,2004,NA,NA,9.5,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2004,2.94,8.65,5.4,8.5
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2004,NA,5.65,1.4,8.92
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2004,11.22,12.4,11.1,13.4
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,2004,'0.79,2.88,'0.5,NA
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2004,2.31,4.22,2.9,5.7
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2004,1.9,2.3,3.1,4.68
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2004,3.27,NA,5.51,6.26
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2004,5.45,9.04,7.47,10.5
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,2004,8.21,NA,9.45,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2004,2.18,1.88,2.58,2.84
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2004,14.27,17.45,7.85,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2004,NA,8.98,8.9,NA
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2004,2.03,'0.87,2.95,2.93
+GJ,Surat,Chalthan,Bardoli,21.16666667,73.08333333,Baben,"Dug Well",W08104,2004,NA,NA,7.58,NA
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,2004,NA,7.75,NA,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.24388889,72.77805556,Jahangirpura,"Dug Well",W08107,2004,NA,NA,11.61,NA
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2004,1.23,5.26,1.74,7.2
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2004,2.12,6.4,3.18,NA
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2004,3.62,5.85,2.4,8.53
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2004,NA,5.23,4.65,8.31
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2004,2.01,4.4,1.5,NA
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2004,2.67,4.7,3.75,NA
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2004,'0.7,NA,1.25,1.35
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2003,'0.5,'0.74,'0.18,1.8
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2003,'0.2,1.32,1.07,2.6
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2003,'0.29,2.12,1.2,2.77
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2003,8.45,NA,13.18,15.39
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2003,3.5,8.4,4.88,9.6
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2003,'0.5,6.88,4.86,8.3
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2003,11.68,12.89,6.65,17.4
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,2003,NA,2.58,1.36,3.28
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2003,2.25,4.54,3.26,5.2
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2003,2.8,2.52,1.97,4.25
+GJ,Surat,Chhaprabhatha,Chorasi,21.08333333,72.91666667,"Sachin town-1","Dug Well",W08872,2003,NA,NA,3.57,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2003,4.31,NA,5.24,6.61
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2003,2.4,9.84,6.1,13.1
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,2003,7.35,NA,8.91,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2003,1.28,2.45,2.19,3.08
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2003,NA,17.87,15.9,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2003,5.2,11.4,8.7,NA
+GJ,Surat,Kosamba,Mangrol,21.45,72.97916667,Kosamba-2,"Dug Well",W08891,2003,1.22,NA,NA,NA
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2003,2.65,1.77,'0.65,4.15
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,2003,4.31,8.12,6.64,6.7
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2003,'0.44,5.32,4.13,7.2
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2003,1.37,NA,4.04,15.65
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2003,1.55,6.45,4.89,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2003,5.15,7.11,4.37,9.75
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2003,1.1,5.24,2.65,NA
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2003,2.98,5.13,3.55,NA
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2003,2.66,2,4.63,3.4
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2002,NA,1.06,'0.73,1.95
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2002,NA,4.3,3.25,4.8
+GJ,Surat,Sachin,Palsana,21.17916667,72.9625,Kadodra,"Dug Well",W08899,2002,3.27,NA,NA,NA
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2002,2.94,2.3,1.89,NA
+GJ,Surat,Sayan,"Surat City",21.175,72.79166667,Surat-2,"Dug Well",W08904,2002,'0.47,NA,NA,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2002,3.88,7.9,7.5,8.22
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2002,6.83,8.2,6.73,NA
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2002,NA,NA,13,NA
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,2002,'0.25,NA,NA,NA
+GJ,Surat,Kosamba,Mangrol,21.3875,72.96666667,Kimroad-1,"Dug Well",W08888,2002,NA,NA,2.7,4.02
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2002,2.71,4.38,4.27,5.03
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2002,NA,2.89,2.04,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.08333333,72.91666667,"Sachin town-1","Dug Well",W08872,2002,NA,4.68,2.96,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2002,3.61,3.93,4.81,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2002,5.53,14.31,9.37,15.09
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,2002,3.48,NA,NA,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2002,6.71,2.5,2.45,NA
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2002,5.98,17.77,17.25,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2002,8.34,10.99,8.99,11.45
+GJ,Surat,Kosamba,Mangrol,21.45,72.97916667,Kosamba-2,"Dug Well",W08891,2002,1.55,NA,NA,NA
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2002,3.7,3.65,2.11,4.07
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,2002,NA,9.06,10.06,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.24388889,72.77805556,Jahangirpura,"Dug Well",W08107,2002,5.65,7.82,NA,9.08
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2002,2.65,5.21,6.1,5.51
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2002,2.2,8.98,9.98,10.85
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2002,5,6.53,6.68,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2002,6.3,5.91,5.27,8.35
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2002,2.59,5.4,4.53,NA
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2002,3.55,5.25,4.58,NA
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2002,-0.77,1.15,1.1,NA
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2001,'0.38,1,'0.79,1.08
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2001,1.52,7.2,4.82,9.2
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2001,'0.38,2.34,'0.59,2.71
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2001,NA,NA,15.5,NA
+GJ,Surat,Sayan,"Surat City",21.175,72.79166667,Surat-2,"Dug Well",W08904,2001,NA,14,NA,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2001,4.06,8.08,6.19,8.95
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2001,4.08,9.5,6.3,10
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2001,11.82,13.3,11.58,13.8
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,2001,1.1,NA,NA,4.6
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2001,1.93,6.05,1.76,7.03
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2001,1.28,4.35,1.5,4.38
+GJ,Surat,Chhaprabhatha,Chorasi,21.08333333,72.91666667,"Sachin town-1","Dug Well",W08872,2001,1.89,4.7,NA,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2001,3.09,6.21,4.87,6.18
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2001,11.42,11.53,15.34,16.2
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,2001,7.72,NA,8.1,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2001,2.25,2.72,1.73,2.78
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2001,15.06,NA,15.02,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2001,5.48,11.35,9.84,12.82
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2001,3.93,3.05,1.95,3.85
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,2001,4.62,NA,8.31,NA
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2001,3.34,5.63,5.42,6.21
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2001,2.82,12.4,6.92,NA
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2001,3.47,NA,5.63,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2001,3.83,NA,4.92,10.65
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2001,3.88,4.95,1.6,NA
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2001,3.11,NA,3.7,NA
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2001,'0.21,3.56,'0.4,1.6
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,2000,NA,1.05,4.94,'0.86
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,2000,3.14,5.49,6.05,4.81
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,2000,1.4,1.88,1.87,1.83
+GJ,Surat,Sayan,"Surat City",21.175,72.80555556,Surat-1,"Tube Well",W08902,2000,NA,NA,14.77,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,2000,4.71,6.52,6.15,7.5
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,2000,7.17,7.8,8.1,9.85
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,2000,12.85,12.9,13.08,13.41
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,2000,1.04,3.49,2.66,3.68
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,2000,2.08,4.33,3.56,4.86
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,2000,1.63,2.56,2.33,3.3
+GJ,Surat,Chhaprabhatha,Chorasi,21.08333333,72.91666667,"Sachin town-1","Dug Well",W08872,2000,NA,3.36,4,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,2000,5.45,5.65,5.97,5.92
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,2000,11.67,10.76,12.3,14.3
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,2000,NA,NA,9.36,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,2000,2.56,2.72,2.75,2.69
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,2000,18.77,16.86,17.07,16.93
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,2000,8.4,9.99,9.44,10.09
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,2000,'0.4,1,'0.82,'0.94
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,2000,3.55,2.86,2.25,1.95
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,2000,7.88,9.38,9.56,8.99
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,2000,4.4,4.8,4.89,5.18
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,2000,8.18,9.15,10,NA
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,2000,5.62,5.6,7.03,8.69
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,2000,5.8,5.74,7.27,8.72
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,2000,4.32,4.93,NA,6.12
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,2000,4.47,4.72,4.61,5.24
+GJ,Surat,Sachin,Palsana,21.17916667,72.9625,Kadodra,"Dug Well",W08899,2000,4.83,NA,NA,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,1999,2.6,NA,2.65,3.03
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,1999,8.44,NA,NA,10.2
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,1999,8.23,9.52,10.17,12.02
+GJ,Surat,Kosamba,Mangrol,21.46666667,73.00416667,Kosamba-1,"Dug Well",W08890,1999,NA,NA,NA,5.62
+GJ,Surat,Kosamba,Mangrol,21.45,72.97916667,Kosamba-2,"Dug Well",W08891,1999,NA,NA,NA,5.64
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,1999,'0.51,'0.95,1,1.07
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,1999,'0.11,1.2,'0.51,1.53
+GJ,Surat,Sachin,Palsana,21.17916667,72.9625,Kadodra,"Dug Well",W08899,1999,7.15,NA,NA,7.15
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,1999,1.35,1.84,1.54,2.52
+GJ,Surat,Sayan,"Surat City",21.175,72.79166667,Surat-2,"Dug Well",W08904,1999,11.5,11.5,NA,11.5
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,1999,4.91,6.53,6.14,8.04
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,1999,6.15,6.86,7.49,8.52
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,1999,12.46,12.62,12.71,13.15
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,1999,2.62,NA,3.26,4.01
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,1999,2.16,1.7,3.89,3.49
+GJ,Surat,Chalthan,Bardoli,21.16666667,73.08333333,Baben,"Dug Well",W08104,1999,NA,1.34,NA,NA
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,1999,6.77,9.28,9.19,9.81
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,1999,3.95,5.05,4.5,6.4
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,1999,7.52,5.74,1.88,10.21
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,1999,4.03,5.29,5.44,7.76
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,1999,4.08,5.14,NA,7.81
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,1999,2.49,4.8,4.44,5.93
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,1999,3.55,4.32,4.44,5.65
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,1999,3.28,2.45,4.33,7
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,1999,2.58,3.76,2.5,5.87
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,1999,2.16,2.45,2.56,4.4
+GJ,Surat,Chhaprabhatha,Chorasi,21.08333333,72.91666667,"Sachin town-1","Dug Well",W08872,1999,NA,NA,3.36,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,1999,5.38,5.61,5.65,6
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,1999,10,NA,10.76,10.05
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,1999,15.87,17.25,16.62,17.68
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,1998,3.58,6.51,5.9,NA
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,1998,NA,9.3,NA,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,1998,7.91,9.63,8.15,11.85
+GJ,Surat,Kosamba,Mangrol,21.46666667,73.00416667,Kosamba-1,"Dug Well",W08890,1998,NA,5.62,NA,5.62
+GJ,Surat,Kosamba,Mangrol,21.45,72.97916667,Kosamba-2,"Dug Well",W08891,1998,NA,5.64,NA,5.64
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,1998,'0.44,1.01,'0.67,2.88
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,1998,NA,1.5,'0.7,NA
+GJ,Surat,Sachin,Palsana,21.17916667,72.9625,Kadodra,"Dug Well",W08899,1998,NA,7.15,NA,NA
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,1998,'0.59,2.15,1.37,2.39
+GJ,Surat,Sayan,"Surat City",21.175,72.79166667,Surat-2,"Dug Well",W08904,1998,11.5,10.9,11.5,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,1998,4.83,6.5,5.05,8.62
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,1998,5.75,6.94,5.32,8.37
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,1998,12.46,12.7,11.25,13.22
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,1998,NA,'0.88,NA,NA
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,1998,1.39,1.82,2.2,1.25
+GJ,Surat,Chalthan,Bardoli,21.16666667,73.08333333,Baben,"Dug Well",W08104,1998,'0.85,1.34,1.49,1.58
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,1998,5.88,8.23,6.72,9.68
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,1998,3.83,5.13,5.05,5.56
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,1998,8.63,8.01,2.17,11.53
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,1998,3.87,5.69,4.33,7.98
+GJ,Surat,Kosamba,Mangrol,21.46666667,72.95277778,Jhankhavav-2,"Bore Well",W08112,1998,3.8,NA,4.06,NA
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,1998,2.94,5.17,NA,8.67
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,1998,4.91,4.97,3.54,6.47
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,1998,1.97,4.97,3.25,8.52
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,1998,1.73,4.33,3.51,4.8
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,1998,1.56,2.96,2.15,3.69
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,1998,4.87,5.76,4.85,6.32
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,1998,12.45,12.87,7.12,9.66
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,1998,15.61,17.28,15.71,17.67
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,1997,3.21,3.25,2.98,2.82
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,1997,8.48,9.89,9.9,10.2
+GJ,Surat,Ichchhapor,Mahuva,20.92361111,73.23333333,Puna-2,"Bore Well",W08878,1997,NA,NA,8.02,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,73.00416667,Kosamba-1,"Dug Well",W08890,1997,5.62,5.62,NA,5.62
+GJ,Surat,Kosamba,Mangrol,21.45,72.97916667,Kosamba-2,"Dug Well",W08891,1997,1.07,NA,NA,2.5
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,1997,'0.51,1.67,2.8,2.02
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,1997,NA,1.25,1.3,1.51
+GJ,Surat,Sachin,Palsana,21.17916667,72.9625,Kadodra,"Dug Well",W08899,1997,7.15,7.15,7.15,7.15
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,1997,'0.9,1.26,2.59,3.82
+GJ,Surat,Sayan,"Surat City",21.175,72.79166667,Surat-2,"Dug Well",W08904,1997,NA,12.32,11.5,NA
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,1997,4.76,6.64,5.98,8.6
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,1997,4.78,6.31,5.5,8.72
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,1997,11.64,12.84,12.32,13.01
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,1997,3.05,NA,NA,4.28
+GJ,Surat,Kosamba,Mangrol,21.3875,72.96666667,Kimroad-1,"Dug Well",W08888,1997,5.3,5.3,'0.85,4.28
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,1997,1.07,2.08,'0.28,1.67
+GJ,Surat,Chalthan,Bardoli,21.16666667,73.08333333,Baben,"Dug Well",W08104,1997,'0.76,1.78,1.01,2.02
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,1997,4.76,8.06,7.33,8.43
+GJ,Surat,Chhaprabhatha,Chorasi,21.24388889,72.77805556,Jahangirpura,"Dug Well",W08107,1997,5.53,7.58,NA,6.96
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,1997,3.67,4.88,4.44,6.3
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,1997,6.35,8.88,6.87,10.21
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,1997,3.87,5.17,5,6.93
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,1997,2.46,4.72,4.14,5.86
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,1997,3.15,4.47,3.95,5.86
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,1997,1.98,5.61,4.27,7.02
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,1997,2.14,4.51,3.87,5.11
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,1997,1.57,4.23,2.53,3.96
+GJ,Surat,Chhaprabhatha,Chorasi,21.08333333,72.91666667,"Sachin town-1","Dug Well",W08872,1997,2.18,5.03,NA,5.41
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,1997,4.32,6,7.56,6.02
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,1997,8.88,10.45,11.6,15.25
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,1997,15.46,17.01,16.73,17.36
+GJ,Surat,Ichchhapor,Mahuva,21.02083333,73.14583333,Mahuva2,"Dug Well",W08877,1996,15.49,16.83,16.31,17.01
+GJ,Surat,Kosamba,Mangrol,21.45,72.97916667,Kosamba-2,"Dug Well",W08891,1996,NA,2.33,5.64,5.64
+GJ,Surat,Parvat,Olpad,21.34166667,72.75833333,Olpad-2,"Dug Well",W08897,1996,1.46,1.88,1.05,2.26
+GJ,Surat,Parvat,Olpad,21.425,72.82916667,Wadoli,"Dug Well",W08898,1996,'0.59,1.81,1.46,2.76
+GJ,Surat,Sachin,Palsana,21.17916667,72.9625,Kadodra,"Dug Well",W08899,1996,2.88,7.13,5.56,8.06
+GJ,Surat,Sachin,Palsana,21.07777778,72.99166667,Palsana,"Dug Well",W08900,1996,'0.51,1.77,1.87,2.71
+GJ,Surat,Sayan,"Surat City",21.175,72.79166667,Surat-2,"Dug Well",W08904,1996,9.17,11.01,10.22,10.92
+GJ,Surat,Ichchhapor,Mahuva,20.92916667,73.22916667,Puna-1,"Dug Well",W08879,1996,4.24,7.02,5.68,8.33
+GJ,Surat,Kadodara,Mandvi,21.36666667,73.35,Malda,"Dug Well",W08881,1996,4.53,7.12,6.51,8.91
+GJ,Surat,Kadodara,Mandvi,21.25416667,73.29583333,Mandvi2,"Dug Well",W08882,1996,12.82,13.03,12.43,13.66
+GJ,Surat,Kosamba,Mangrol,21.38333333,72.95833333,Kimroad-2,"Dug Well",W08886,1996,NA,NA,1.43,3.82
+GJ,Surat,Kosamba,Mangrol,21.3875,72.96666667,Kimroad-1,"Dug Well",W08888,1996,'0.48,3.84,1.43,NA
+GJ,Surat,Kosamba,Mangrol,21.46666667,73.00416667,Kosamba-1,"Dug Well",W08890,1996,NA,6.91,5.62,6.91
+GJ,Surat,Chalthan,Bardoli,21.0625,73.19166667,Allu,"Dug Well",W08103,1996,'0.98,2.24,1.65,1.94
+GJ,Surat,Chalthan,Bardoli,21.16666667,73.08333333,Baben,"Dug Well",W08104,1996,'0.99,1.91,1.4,1.57
+GJ,Surat,Chalthan,Bardoli,21.10833333,73.18333333,Hindoliya,"Dug Well",W08106,1996,6.12,9.07,7.47,10.06
+GJ,Surat,Chhaprabhatha,Chorasi,21.24388889,72.77805556,Jahangirpura,"Dug Well",W08107,1996,7.41,7.26,7.04,7.63
+GJ,Surat,Kosamba,Mangrol,21.45833333,73.05833333,Asarma,"Dug Well",W08108,1996,3.14,5.01,4.44,4.96
+GJ,Surat,Kosamba,Mangrol,21.40833333,73.13333333,Dungri,"Dug Well",W08109,1996,2.19,10.21,6.93,11.45
+GJ,Surat,Kosamba,Mangrol,21.45,73.32916667,Jhankhavav-1,"Dug Well",W08111,1996,3.56,5.39,4.86,8.16
+GJ,Surat,Surat,Umarpada,21.45833333,73.49166667,"Juna umarpada","Dug Well",W08117,1996,2.36,4.95,4.03,6.21
+GJ,Surat,Chalthan,Bardoli,21.14166667,73.25416667,Madhi,"Dug Well",W08867,1996,3.11,4.73,4.24,5.9
+GJ,Surat,Chalthan,Bardoli,21.05833333,73.09166667,Sarbhon,"Dug Well",W08868,1996,2.38,5.86,4.86,10.08
+GJ,Surat,Chalthan,Bardoli,21.11666667,73.1,Ten-bardoli,"Dug Well",W08869,1996,2.77,4.64,3.61,5.76
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.875,"Sachin town-2","Dug Well",W08871,1996,NA,NA,3.86,3.32
+GJ,Surat,Chhaprabhatha,Chorasi,21.08333333,72.91666667,"Sachin town-1","Dug Well",W08872,1996,1.98,2.17,3.86,NA
+GJ,Surat,Chhaprabhatha,Chorasi,21.09166667,72.725,Sultanabad,"Dug Well",W08873,1996,3.61,5.74,5.57,6.21
+GJ,Surat,"Hajira Ina",Kamrej,21.29166667,72.92916667,Kathor,"Dug Well",W08874,1996,8.17,10.37,9.38,12.01
+GJ,Surat,"Hajira Ina",Kamrej,21.24583333,72.92916667,Laskana,"Dug Well",W08875,1996,6.49,9.28,9.16,11.02
+GJ,Surat,"Hajira Ina",Kamrej,21.32222222,72.97083333,"Navi pardi","Dug Well",W08876,1996,5.92,7.2,7.34,9.04

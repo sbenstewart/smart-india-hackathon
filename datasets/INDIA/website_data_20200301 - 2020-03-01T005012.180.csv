@@ -1,0 +1,779 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2018,NA,3.8,2.42,NA
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,"Mundlana- Pz","Tube Well",W31966,2018,8.01,NA,NA,7.5
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2018,6.21,6.45,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2018,7.89,6.23,NA,NA
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2018,NA,NA,2.05,4.44
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2018,NA,NA,29,NA
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2018,NA,NA,7.56,NA
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2018,20.22,13.95,NA,NA
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Mohana Pzm-2","Tube Well",W22409,2018,4.07,3.9,NA,NA
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2018,3.05,3.35,NA,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2018,1.83,2.06,NA,NA
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2018,1.14,2.27,NA,NA
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2018,3.34,3.37,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2018,5.1,3.32,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2018,5.99,5.96,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2018,3.26,3.94,NA,NA
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2018,NA,5.38,NA,NA
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2018,NA,5,NA,NA
+HR,Sonipat,Sonipat,Rai,28.90277778,77.11388889,"Rasoi Pz","Tube Well",W29910,2018,19.96,13.52,NA,NA
+HR,Sonipat,Sonipat,Rai,28.93194444,77.16388889,"Jhakauli- Pz","Tube Well",W29912,2018,24.48,8.5,NA,NA
+HR,Sonipat,Sonipat,Rai,28.96666667,77.12083333,Kheora1,"Tube Well",W29918,2018,29.26,28.88,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 2(d)","Tube Well",W29919,2018,10.62,8.28,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29.04055556,77.09111111,Murthal-Pz,"Tube Well",W29923,2018,35.72,34.96,NA,NA
+HR,Sonipat,Ganaur,Ganaur,29.15972222,77.08055556,Datauli-Pz,"Tube Well",W29933,2018,28.5,30.17,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29.02916667,77.01666667,"Kami- PZ","Tube Well",W31944,2018,40.5,40.4,NA,NA
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2018,1.1,NA,NA,2.9
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2018,'0.18,NA,NA,2.45
+HR,Sonipat,Sonipat,Rai,28.84583333,77.15833333,"Janti Khurd-Pz","Tube Well",W29904,2018,NA,14.43,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29.01944444,77.02944444,Barauli-Pz,"Tube Well",W29922,2018,NA,9.86,NA,NA
+HR,Sonipat,Ganaur,Sonepat,29.06527778,76.83194444,Purkhas-Pz,"Tube Well",W29926,2018,NA,14.88,NA,NA
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Bega Pz","Tube Well",W29931,2018,NA,12.3,NA,NA
+HR,Sonipat,Sonipat,Kathura,29.08388889,76.675,Rukhi-Pz,"Tube Well",W29927,2018,NA,'0.6,NA,NA
+HR,Sonipat,Sonipat,Rai,28.90833333,77.18055556,Manauli-Pz,"Tube Well",W31927,2018,NA,8.9,NA,NA
+HR,Sonipat,Sonipat,Gohana,29.15972222,76.82777778,"Khanpur Kalan-Pz","Tube Well",W29932,2018,2.89,NA,NA,3.44
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2018,8.03,8.88,NA,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2017,2.32,NA,1.97,3.39
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,2017,NA,NA,4.5,NA
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2017,'0.65,NA,1.1,2.35
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2017,NA,1.85,NA,NA
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2017,NA,NA,18.55,18.95
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2017,NA,NA,'0.62,4.13
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2017,NA,NA,1.69,2.82
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2017,NA,NA,'0.95,2.31
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2017,NA,NA,2.82,5.08
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2017,NA,NA,5.6,6.22
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2017,NA,NA,4.57,4.97
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2017,3.6,NA,2.76,5.1
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2017,NA,NA,6.92,NA
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2017,NA,NA,7.04,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2017,7.13,7.25,8.1,7.9
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2017,6.46,NA,6.21,6.04
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2017,NA,NA,8.02,6.88
+HR,Sonipat,Sonipat,Sonepat,29.01944444,77.02944444,Barauli-Pz,"Tube Well",W29922,2017,10.48,9.74,9.07,10.18
+HR,Sonipat,Sonipat,Sonepat,29.04055556,77.09111111,Murthal-Pz,"Tube Well",W29923,2017,35.4,NA,35.6,34.35
+HR,Sonipat,Ganaur,Ganaur,29.15972222,77.08055556,Datauli-Pz,"Tube Well",W29933,2017,27.68,NA,27.85,25.85
+HR,Sonipat,Sonipat,Rai,28.90277778,77.11388889,"Rasoi Pz","Tube Well",W29910,2017,NA,NA,17.96,18.58
+HR,Sonipat,Sonipat,Rai,28.93194444,77.16388889,"Jhakauli- Pz","Tube Well",W29912,2017,NA,NA,20.96,22.4
+HR,Sonipat,Sonipat,Rai,28.96666667,77.12083333,Kheora1,"Tube Well",W29918,2017,NA,NA,29.06,31
+HR,Sonipat,Sonipat,Gohana,29.15972222,76.82777778,"Khanpur Kalan-Pz","Tube Well",W29932,2017,NA,NA,2.69,3.7
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,"Mundlana- Pz","Tube Well",W31966,2017,NA,NA,6.4,4.2
+HR,Sonipat,Sonipat,Rai,28.84583333,77.15833333,"Janti Khurd-Pz","Tube Well",W29904,2017,NA,NA,14.34,NA
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai-Bahalgarh-Pz,"Tube Well",W29914,2017,NA,NA,27.29,NA
+HR,Sonipat,Sonipat,Kathura,29.08388889,76.675,Rukhi-Pz,"Tube Well",W29927,2017,NA,NA,'0.57,NA
+HR,Sonipat,Sonipat,Sonepat,29.02916667,77.01666667,"Kami- PZ","Tube Well",W31944,2017,40,NA,NA,38.4
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 2(d)","Tube Well",W29919,2017,NA,NA,NA,9.28
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Mohana Pzm-2","Tube Well",W22409,2017,NA,NA,3.75,NA
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2017,3.38,NA,3.03,5.11
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2016,3.97,NA,4.41,5.11
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,"Mundlana- Pz","Tube Well",W31966,2016,NA,NA,6.9,NA
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,2016,NA,NA,NA,5.8
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2016,7.22,NA,7.4,7.35
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2016,NA,NA,1.81,2.34
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2016,NA,NA,7.4,NA
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2016,3,NA,4.67,4.7
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2016,NA,NA,18.75,19
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2016,NA,NA,1.6,NA
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2016,NA,NA,NA,5.51
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2016,NA,NA,7.62,6.05
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2016,NA,NA,8.33,7.03
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2016,NA,NA,6.2,NA
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2016,NA,NA,4.27,5.6
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2016,NA,NA,6.8,5.75
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2016,1.82,NA,2.76,3.22
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2016,NA,NA,3.58,3.73
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2016,1.47,NA,1.97,2.87
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2016,NA,NA,NA,6.44
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2016,1.57,NA,1.53,3
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Mohana Pzm-2","Tube Well",W22409,2016,NA,NA,4,3.95
+HR,Sonipat,Sonipat,Rai,28.84583333,77.15833333,"Janti Khurd-Pz","Tube Well",W29904,2016,NA,NA,NA,15.95
+HR,Sonipat,Sonipat,Rai,28.90277778,77.11388889,"Rasoi Pz","Tube Well",W29910,2016,NA,NA,18.9,16.2
+HR,Sonipat,Sonipat,Rai,28.93194444,77.16388889,"Jhakauli- Pz","Tube Well",W29912,2016,NA,12.4,20,21.35
+HR,Sonipat,Sonipat,Rai,28.96666667,77.12083333,Kheora1,"Tube Well",W29918,2016,NA,NA,29.45,26.8
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 2(d)","Tube Well",W29919,2016,NA,NA,9.26,8.43
+HR,Sonipat,Sonipat,Sonepat,29.01944444,77.02944444,Barauli-Pz,"Tube Well",W29922,2016,10.2,8.48,9.5,9.16
+HR,Sonipat,Sonipat,Sonepat,29.04055556,77.09111111,Murthal-Pz,"Tube Well",W29923,2016,33.85,32.88,34.87,33.02
+HR,Sonipat,Ganaur,Sonepat,29.06527778,76.83194444,Purkhas-Pz,"Tube Well",W29926,2016,NA,15.4,NA,15.8
+HR,Sonipat,Sonipat,Kathura,29.08388889,76.675,Rukhi-Pz,"Tube Well",W29927,2016,NA,2.2,'0.25,NA
+HR,Sonipat,Sonipat,Gohana,29.15972222,76.82777778,"Khanpur Kalan-Pz","Tube Well",W29932,2016,NA,NA,3.42,3.6
+HR,Sonipat,Ganaur,Ganaur,29.15972222,77.08055556,Datauli-Pz,"Tube Well",W29933,2016,26.4,24.24,33.1,NA
+HR,Sonipat,Sonipat,Sonepat,29.02916667,77.01666667,"Kami- PZ","Tube Well",W31944,2016,40.05,36.3,NA,36.2
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2016,NA,NA,1.35,2.9
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2015,3.85,NA,3.33,5.2
+HR,Sonipat,Gohana,Mundlana,29.25444444,76.70083333,Mattand-DW,"Dug Well",W31980,2015,NA,4.79,3.28,4.17
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2015,NA,NA,1.05,2.13
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,2015,NA,5.06,4.77,5.7
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2015,NA,NA,6.95,7.48
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2015,NA,NA,'0.94,1.42
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2015,NA,NA,5.4,6.27
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2015,NA,NA,2.4,3.29
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2015,NA,NA,18.05,18.2
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2015,NA,NA,1.23,1.54
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2015,3.26,NA,4.38,5.38
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2015,NA,NA,5.41,9.53
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2015,NA,NA,1.98,3.32
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2015,4.59,NA,3.75,5.45
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2015,NA,NA,5.19,5.58
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2015,3.75,NA,3.6,2.77
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2015,NA,NA,2.22,2.72
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2015,NA,NA,1.83,2.47
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2015,NA,NA,8.99,8.55
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2015,NA,NA,8,6.25
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2015,1.69,2.14,1.65,2.64
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Mohana Pzm-2","Tube Well",W22409,2015,NA,NA,3.96,3.84
+HR,Sonipat,Sonipat,Rai,28.84583333,77.15833333,"Janti Khurd-Pz","Tube Well",W29904,2015,NA,NA,18,12.79
+HR,Sonipat,Sonipat,Rai,28.90277778,77.11388889,"Rasoi Pz","Tube Well",W29910,2015,NA,NA,14.06,13.96
+HR,Sonipat,Sonipat,Rai,28.93194444,77.16388889,"Jhakauli- Pz","Tube Well",W29912,2015,NA,19.84,22.36,19.9
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai-Bahalgarh-Pz,"Tube Well",W29914,2015,NA,24.11,NA,23.77
+HR,Sonipat,Sonipat,Rai,28.96666667,77.12083333,Kheora1,"Tube Well",W29918,2015,NA,26.91,27.4,26.2
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 2(d)","Tube Well",W29919,2015,NA,NA,8.31,7.16
+HR,Sonipat,Sonipat,Sonepat,29.01944444,77.02944444,Barauli-Pz,"Tube Well",W29922,2015,NA,NA,'0.92,8.75
+HR,Sonipat,Sonipat,Sonepat,29.04055556,77.09111111,Murthal-Pz,"Tube Well",W29923,2015,32.65,33.79,33.37,36.2
+HR,Sonipat,Ganaur,Sonepat,29.06527778,76.83194444,Purkhas-Pz,"Tube Well",W29926,2015,NA,16.06,NA,16.04
+HR,Sonipat,Sonipat,Kathura,29.08388889,76.675,Rukhi-Pz,"Tube Well",W29927,2015,'0.48,1.77,1.6,1.95
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Bega Pz","Tube Well",W29931,2015,NA,9.41,10.04,12.73
+HR,Sonipat,Sonipat,Gohana,29.15972222,76.82777778,"Khanpur Kalan-Pz","Tube Well",W29932,2015,NA,NA,2.86,3.95
+HR,Sonipat,Ganaur,Ganaur,29.15972222,77.08055556,Datauli-Pz,"Tube Well",W29933,2015,24.63,NA,26.7,23.43
+HR,Sonipat,Ganaur,Ganaur,29.1675,76.8875,Pugthala-Pz,"Tube Well",W29934,2015,NA,6.28,5.48,6.39
+HR,Sonipat,Kharkhoda,Kharhauda,28.86444444,76.94305556,Pipli-DW,"Dug Well",W31921,2015,NA,6.25,6.47,6.52
+HR,Sonipat,Sonipat,Rai,28.88222222,77.07722222,Safiabad-Pz,"Tube Well",W31925,2015,NA,7.41,8.52,8.06
+HR,Sonipat,Sonipat,Rai,28.90833333,77.18055556,Rathdhana-Pz,"Tube Well",W31928,2015,NA,21.68,22.94,22.39
+HR,Sonipat,Sonipat,Rai,28.91444444,77.03944444,Ladpur-Pz,"Tube Well",W31930,2015,NA,7.74,9.88,8.64
+HR,Sonipat,Kharkhoda,Kharhauda,28.91638889,76.93694444,Anandpur-Jarot-DW,"Dug Well",W31931,2015,NA,4.91,4.82,5.28
+HR,Sonipat,Kharkhoda,Kharhauda,28.92,76.9,Khanda-DW,"Dug Well",W31932,2015,NA,3.06,3.3,3.36
+HR,Sonipat,Kharkhoda,Kharhauda,28.94777778,76.8125,Gorar-DW,"Dug Well",W31935,2015,NA,2.53,1.71,2.79
+HR,Sonipat,Kharkhoda,Kharhauda,28.95361111,76.86333333,Bidhlan-DW,"Dug Well",W31936,2015,NA,'0.8,2.74,2.57
+HR,Sonipat,Sonipat,Sonepat,28.99,76.93555556,Bagru-DW,"Dug Well",W31940,2015,NA,2.71,2.45,3.12
+HR,Sonipat,Sonipat,Sonepat,29.00138889,77.02083333,Sonepat,"Dug Well",W31941,2015,NA,26.9,27.85,27.6
+HR,Sonipat,Sonipat,Gohana,29.00277778,76.75833333,Anwali-Pz,"Tube Well",W31942,2015,NA,'0.8,2.22,3.15
+HR,Sonipat,Sonipat,Sonepat,29.03777778,76.94194444,Chitana-DW,"Dug Well",W31945,2015,NA,4.36,4.03,5.07
+HR,Sonipat,Gohana,Sonepat,29.04722222,76.82361111,"Tihar Malikpur-DW","Dug Well",W31946,2015,NA,4.84,5.39,5.21
+HR,Sonipat,Sonipat,Sonepat,29.0625,76.90055556,Juan-DW,"Dug Well",W31949,2015,NA,7.18,8.75,7.68
+HR,Sonipat,Ganaur,Ganaur,29.0925,77.03472222,Larsauli-Pz,"Tube Well",W31951,2015,NA,27.91,32.06,30.14
+HR,Sonipat,Ganaur,Ganaur,29.13333333,77.01444444,Ganaur-Pz,"Tube Well",W31953,2015,NA,26.14,28.64,26.44
+HR,Sonipat,Gohana,Kathura,29.13472222,76.55888889,Chhapra-DW,"Dug Well",W31954,2015,NA,1.88,1.91,2.29
+HR,Sonipat,Gohana,Mundlana,29.14666667,76.62861111,"Baroda Mor-DW","Dug Well",W31957,2015,NA,NA,2.56,NA
+HR,Sonipat,Gohana,Kathura,29.15833333,76.56555556,Banwasa-DW,"Dug Well",W31960,2015,NA,4.72,3.91,4.39
+HR,Sonipat,Ganaur,Ganaur,29.16277778,76.97138889,"Kheri Gujjar-Pz","Tube Well",W31961,2015,NA,23.63,23.86,23.43
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,"Mundlana- Pz","Tube Well",W31966,2015,NA,3.7,3.76,NA
+HR,Sonipat,Gohana,Mundlana,29.21777778,76.69194444,"Ahmadpur Majra-DW","Dug Well",W31968,2015,NA,6.32,7.35,4.7
+HR,Sonipat,Gohana,Mundlana,29.24277778,76.61194444,Gangana-DW,"Dug Well",W31976,2015,NA,2.77,2.01,3.12
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2015,NA,NA,4.42,7
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2014,2.73,2.86,3.56,4.43
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,"Mundlana- Pz","Tube Well",W31966,2014,8.6,NA,6.27,3.32
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2014,NA,NA,1.17,1.77
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,2014,8.3,NA,NA,6.27
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2014,6.6,NA,6.3,7
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2014,1.04,NA,4.39,1.42
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2014,NA,NA,5.95,6.14
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2014,NA,2.38,1.85,2.7
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2014,NA,NA,17.95,NA
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2014,2.03,NA,1.78,1.67
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2014,5.63,4.43,4.21,5.28
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2014,NA,NA,25.85,23.42
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2014,NA,NA,6.3,5.96
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2014,NA,NA,6.66,5.49
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2014,NA,NA,1.44,2.44
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2014,NA,3.85,2.13,3.78
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2014,NA,4.15,5.3,4.37
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2014,1.97,1.65,1.07,1.22
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2014,NA,NA,2.13,1.82
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2014,NA,NA,2.32,2.19
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2014,NA,6.85,7.46,6.86
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2014,NA,NA,7.55,NA
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2014,1.82,1.46,2.01,2.54
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Mohana Pzm-2","Tube Well",W22409,2014,NA,NA,3.66,2.77
+HR,Sonipat,Sonipat,Rai,28.84583333,77.15833333,"Janti Khurd-Pz","Tube Well",W29904,2014,NA,NA,12.3,NA
+HR,Sonipat,Sonipat,Rai,28.90277778,77.11388889,"Rasoi Pz","Tube Well",W29910,2014,NA,NA,13.89,NA
+HR,Sonipat,Sonipat,Rai,28.93194444,77.16388889,"Jhakauli- Pz","Tube Well",W29912,2014,NA,NA,20.15,18.92
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai-Bahalgarh-Pz,"Tube Well",W29914,2014,NA,NA,27.35,NA
+HR,Sonipat,Sonipat,Rai,28.96666667,77.12083333,Kheora1,"Tube Well",W29918,2014,NA,NA,27.2,24.5
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 2(d)","Tube Well",W29919,2014,NA,NA,10.77,11.04
+HR,Sonipat,Sonipat,Sonepat,29.01944444,77.02944444,Barauli-Pz,"Tube Well",W29922,2014,9.41,NA,7.85,NA
+HR,Sonipat,Sonipat,Sonepat,29.04055556,77.09111111,Murthal-Pz,"Tube Well",W29923,2014,32.4,31.8,32.45,32.36
+HR,Sonipat,Ganaur,Sonepat,29.06527778,76.83194444,Purkhas-Pz,"Tube Well",W29926,2014,11.48,11.65,14.25,13.06
+HR,Sonipat,Sonipat,Kathura,29.08388889,76.675,Rukhi-Pz,"Tube Well",W29927,2014,1.2,NA,2.9,1.84
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Bega Pz","Tube Well",W29931,2014,NA,NA,12.1,NA
+HR,Sonipat,Sonipat,Gohana,29.15972222,76.82777778,"Khanpur Kalan-Pz","Tube Well",W29932,2014,NA,NA,5.55,3.66
+HR,Sonipat,Ganaur,Ganaur,29.15972222,77.08055556,Datauli-Pz,"Tube Well",W29933,2014,NA,22.64,25.3,22.42
+HR,Sonipat,Ganaur,Ganaur,29.1675,76.8875,Pugthala-Pz,"Tube Well",W29934,2014,6.65,NA,6.55,5.95
+HR,Sonipat,Sonipat,Rai,28.90833333,77.18055556,Manauli-Pz,"Tube Well",W31927,2014,10.1,NA,12.5,NA
+HR,Sonipat,Sonipat,Rai,28.90833333,77.18055556,Rathdhana-Pz,"Tube Well",W31928,2014,23,20.85,21.55,21.36
+HR,Sonipat,Sonipat,Sonepat,29.02916667,77.01666667,"Kami- PZ","Tube Well",W31944,2014,NA,32.54,34.1,31.75
+HR,Sonipat,Gohana,Gohana,29.13944444,76.71527778,Gohana-Pz,"Tube Well",W31956,2014,NA,NA,19.3,NA
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2014,6,NA,NA,3.5
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2013,'0.83,3.92,2,4.04
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,"Mundlana- Pz","Tube Well",W31966,2013,NA,3.1,2.65,NA
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2013,NA,NA,1.24,1.97
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2013,NA,3.1,NA,NA
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,2013,NA,NA,3.03,4.73
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2013,6.9,7.7,6.415,7.64
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2013,NA,1.68,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2013,'0.86,1.26,'0.58,6.51
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2013,NA,NA,5.42,7.02
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2013,1.6,2.75,2.04,3.63
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2013,NA,NA,16.57,17.66
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2013,NA,1.43,1.33,1.67
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2013,4.04,3.98,3.88,4.01
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2013,NA,NA,23.54,22.75
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2013,NA,NA,3.94,5.14
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2013,NA,NA,4.77,NA
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2013,NA,NA,1.09,3.99
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2013,NA,3.13,1.6,3.11
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2013,5.85,6,4.375,6.47
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2013,1.98,3.15,1.72,2.9
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2013,1.68,2.47,1.86,2.06
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2013,NA,1.62,1.79,2.75
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2013,NA,8,6.18,7.86
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2013,NA,NA,7.43,6.73
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2013,'0.56,1.7,1.32,2.35
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Mohana Pzm-2","Tube Well",W22409,2013,NA,NA,2.25,NA
+HR,Sonipat,Sonipat,Rai,28.84583333,77.15833333,"Janti Khurd-Pz","Tube Well",W29904,2013,NA,NA,10.9,12.9
+HR,Sonipat,Sonipat,Rai,28.93194444,77.16388889,"Jhakauli- Pz","Tube Well",W29912,2013,NA,NA,20.73,NA
+HR,Sonipat,Sonipat,Rai,28.96666667,77.12083333,Kheora1,"Tube Well",W29918,2013,NA,NA,27.11,NA
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 2(d)","Tube Well",W29919,2013,NA,NA,9.45,NA
+HR,Sonipat,Sonipat,Sonepat,29.01944444,77.02944444,Barauli-Pz,"Tube Well",W29922,2013,8.5,8.8,7.9,8.32
+HR,Sonipat,Sonipat,Sonepat,29.04055556,77.09111111,Murthal-Pz,"Tube Well",W29923,2013,29.4,30.85,31.85,31.13
+HR,Sonipat,Ganaur,Sonepat,29.06527778,76.83194444,Purkhas-Pz,"Tube Well",W29926,2013,11.48,11.43,13.02,12.65
+HR,Sonipat,Sonipat,Kathura,29.08388889,76.675,Rukhi-Pz,"Tube Well",W29927,2013,NA,3.55,1.3,3.37
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Bega Pz","Tube Well",W29931,2013,NA,NA,12.65,NA
+HR,Sonipat,Sonipat,Gohana,29.15972222,76.82777778,"Khanpur Kalan-Pz","Tube Well",W29932,2013,2.44,8.42,3.34,6.05
+HR,Sonipat,Ganaur,Ganaur,29.15972222,77.08055556,Datauli-Pz,"Tube Well",W29933,2013,24.05,22.41,23.66,22.22
+HR,Sonipat,Ganaur,Ganaur,29.1675,76.8875,Pugthala-Pz,"Tube Well",W29934,2013,6.55,6,5.56,6.05
+HR,Sonipat,Sonipat,Rai,28.90833333,77.18055556,Manauli-Pz,"Tube Well",W31927,2013,12.35,11.37,11.69,NA
+HR,Sonipat,Sonipat,Rai,28.90833333,77.18055556,Rathdhana-Pz,"Tube Well",W31928,2013,15.8,20.3,21.27,20.25
+HR,Sonipat,Sonipat,Gohana,29.00277778,76.75833333,Anwali-Pz,"Tube Well",W31942,2013,NA,NA,NA,2.55
+HR,Sonipat,Sonipat,Sonepat,29.02916667,77.01666667,"Kami- PZ","Tube Well",W31944,2013,32.65,31.7,32.91,32
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2013,2.55,NA,1.98,2.65
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2012,NA,NA,3.83,NA
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,"Mundlana- Pz","Tube Well",W31966,2012,NA,NA,4.03,NA
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2012,NA,NA,'0.72,NA
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2012,NA,NA,3.73,NA
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,2012,NA,3.17,3.73,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2012,NA,7.45,8.04,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2012,NA,1.82,1.48,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2012,NA,NA,1.44,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2012,NA,NA,6.53,NA
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2012,NA,NA,2.42,NA
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2012,NA,15.71,18.56,NA
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2012,NA,NA,1.01,NA
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2012,NA,NA,1.94,NA
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2012,NA,5.95,3.44,NA
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2012,NA,22.06,23.18,NA
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2012,NA,4.7,7.74,NA
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2012,NA,NA,1.76,NA
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2012,NA,NA,1.63,NA
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2012,NA,5.95,6.1,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2012,NA,NA,2.6,NA
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2012,NA,NA,2.43,NA
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2012,NA,NA,1.71,NA
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2012,NA,NA,7.19,NA
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2012,NA,NA,7.45,NA
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2012,NA,1.56,1.67,2.74
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Mohana Pzm-2","Tube Well",W22409,2012,NA,NA,4.1,NA
+HR,Sonipat,Sonipat,Sonepat,29.0375,76.87361111,"Mohana Pzm-1","Tube Well",W22411,2012,NA,3.78,3.9,NA
+HR,Sonipat,Sonipat,Rai,28.84583333,77.15833333,"Janti Khurd-Pz","Tube Well",W29904,2012,NA,NA,12.84,NA
+HR,Sonipat,Sonipat,Rai,28.90277778,77.11388889,"Rasoi Pz","Tube Well",W29910,2012,NA,NA,12.81,NA
+HR,Sonipat,Sonipat,Rai,28.93194444,77.16388889,"Jhakauli- Pz","Tube Well",W29912,2012,NA,NA,21.26,NA
+HR,Sonipat,Sonipat,Rai,28.96666667,77.12083333,Kheora1,"Tube Well",W29918,2012,NA,NA,27,NA
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 2(d)","Tube Well",W29919,2012,NA,NA,10.92,NA
+HR,Sonipat,Sonipat,Sonepat,29.01944444,77.02944444,Barauli-Pz,"Tube Well",W29922,2012,NA,NA,8.42,NA
+HR,Sonipat,Sonipat,Sonepat,29.04055556,77.09111111,Murthal-Pz,"Tube Well",W29923,2012,NA,NA,31.59,NA
+HR,Sonipat,Ganaur,Sonepat,29.06527778,76.83194444,Purkhas-Pz,"Tube Well",W29926,2012,NA,NA,12.88,NA
+HR,Sonipat,Sonipat,Kathura,29.08388889,76.675,Rukhi-Pz,"Tube Well",W29927,2012,NA,NA,2.3,NA
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Bega Pz","Tube Well",W29931,2012,NA,NA,11.7,NA
+HR,Sonipat,Sonipat,Gohana,29.15972222,76.82777778,"Khanpur Kalan-Pz","Tube Well",W29932,2012,NA,NA,5.53,NA
+HR,Sonipat,Ganaur,Ganaur,29.15972222,77.08055556,Datauli-Pz,"Tube Well",W29933,2012,NA,NA,24.24,NA
+HR,Sonipat,Ganaur,Ganaur,29.1675,76.8875,Pugthala-Pz,"Tube Well",W29934,2012,NA,NA,6.34,NA
+HR,Sonipat,Sonipat,Rai,28.90833333,77.18055556,Manauli-Pz,"Tube Well",W31927,2012,NA,NA,12.09,NA
+HR,Sonipat,Sonipat,Rai,28.90833333,77.18055556,Rathdhana-Pz,"Tube Well",W31928,2012,NA,NA,21.21,NA
+HR,Sonipat,Sonipat,Gohana,29.00277778,76.75833333,Anwali-Pz,"Tube Well",W31942,2012,NA,NA,1.05,NA
+HR,Sonipat,Sonipat,Sonepat,29.02916667,77.01666667,"Kami- PZ","Tube Well",W31944,2012,NA,NA,33.37,NA
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2012,NA,3.63,1.9,NA
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2011,3.21,2.12,2.43,3
+HR,Sonipat,Sonipat,Sonepat,29.0375,76.87361111,"Mohana Pzm-1","Tube Well",W22411,2011,6.23,NA,3.68,NA
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2011,'0.33,'0.65,'0.98,2.55
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2011,4.63,2.44,4.37,3.37
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,2011,NA,NA,2.96,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2011,8.26,8.2,8.77,8.02
+HR,Sonipat,Kharkhoda,Kharhauda,28.87916667,76.9125,Kharkhauda,"Dug Well",W16728,2011,NA,NA,NA,1.57
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2011,1.42,'0.73,1.53,1.57
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2011,1.26,'0.84,'0.64,1.86
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2011,5.68,5.3,5.35,6.27
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2011,1.46,3.22,2.48,4.45
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2011,16.82,15.94,16.13,15.98
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2011,'0.3,'0.29,1.19,2.5
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2011,1.53,1.4,1.5,2.38
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2011,5.24,2.31,5.39,4.44
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2011,22.48,22.73,22.46,22
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2011,4.54,2.68,6.5,3.82
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2011,5.03,2.58,5.44,4.33
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2011,3.13,1.81,1.82,3.4
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2011,'0.92,1.03,1.69,3.15
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2011,5.56,4.75,5.56,5.75
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2011,1.91,1.55,1.97,2.57
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2011,3.68,3.12,3.14,3.58
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2011,2.09,1.57,1.59,3.08
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2011,7.13,6.13,6.63,7.45
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2011,7.19,2.4,6.07,5.76
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2011,1.12,'0.86,1.81,2.42
+HR,Sonipat,Ganaur,Ganaur,29.15416667,77.1125,"Mohana Pzm-2","Tube Well",W22409,2011,6.23,NA,3.68,NA
+HR,Sonipat,Sonipat,Rai,28.9625,77.125,Kheaora-2,"Dug Well",W22410,2011,24.95,NA,NA,NA
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2011,3.49,1.5,2.57,3.37
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2010,'0.51,2.66,NA,3.82
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2010,3.3,3.69,1.65,4.88
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2010,'0.23,1.67,1.03,3.26
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2010,4.3,5.25,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2010,5.62,7.79,8.5,8.58
+HR,Sonipat,Kharkhoda,Kharhauda,28.87916667,76.9125,Kharkhauda,"Dug Well",W16728,2010,NA,1.64,'0.76,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2010,NA,1.66,'0.76,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2010,1.62,'0.92,'0.54,1.99
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2010,6.62,6.09,4.6,7.35
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2010,NA,4.08,3.2,4.87
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2010,NA,NA,3.26,NA
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2010,NA,1.18,'0.7,2.26
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2010,NA,1.85,1.6,NA
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2010,4.3,3.2,1.61,4.61
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2010,NA,22.7,23.32,NA
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2010,3.54,3.37,2.66,NA
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2010,2.03,3.55,2.78,NA
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2010,'0.2,2.88,2.05,4.03
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2010,'0.82,1.84,1.53,3.5
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2010,5.92,5.5,5.4,6.25
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2010,2.86,2.67,2.17,3.6
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2010,3.85,3.6,3.38,4.75
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2010,'0.07,1.87,3.07,3.04
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2010,8.4,7.4,6.1,8.34
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2010,NA,NA,NA,3.6
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2010,3.7,16.25,5.1,5.08
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2010,NA,1.84,NA,2.68
+HR,Sonipat,Sonipat,Rai,28.875,77.00833333,Nahara,"Tube Well",W21880,2010,NA,7.4,NA,NA
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2009,8.7,6.56,6.85,7.2
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2009,1.98,1.98,1.41,2.74
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2009,2.32,1.52,1.65,2.06
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2009,NA,8.42,NA,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2009,3.42,2.14,2.45,2.77
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2009,5.06,2.28,3.43,3.24
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2009,4.81,1.45,1.86,3.4
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2009,NA,1.6,1.56,NA
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2009,3.17,1.37,1.67,2.3
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2009,4.66,2.72,2.51,4.59
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2009,24.42,23.57,24.93,23.86
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2009,4.36,3.05,3.28,4.1
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2009,3.88,3.33,3.07,4.04
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2009,2.8,1.94,1.97,3.69
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2009,1.85,1.33,1.45,2.33
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2009,6.07,5.17,5.39,5.74
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2009,1.37,'0.9,'0.87,1.76
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2009,6.37,5.34,5.41,5.97
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2009,4.88,3.05,4.5,4.69
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2009,17.23,15.45,16.57,15.75
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2009,1.7,'0.92,'0.88,1.8
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2009,3.73,1.93,1.85,3.16
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2009,6.06,2.96,3.06,4.41
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2009,1.75,'0.75,1.13,2.09
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2009,5.7,3.09,4.13,4.44
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2009,8.43,7.89,7.64,8.9
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2009,4.7,4.38,6.15,5.21
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2008,1.56,2.55,1.16,2.92
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2008,1.3,3.28,1.78,3.45
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2008,'0.87,NA,1.01,1.6
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2008,2.07,2.98,2.12,3.3
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2008,3.06,4.35,3.22,4.85
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2008,1.58,4.47,1.63,3.05
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2008,1.14,NA,NA,NA
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2008,6.64,7.9,6.13,8.66
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2008,NA,3,1.65,2.64
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2008,'0.41,4.94,2.36,4.28
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2008,NA,24.57,23.69,24.77
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2008,2.71,4.64,2.9,4.91
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2008,3.93,2.54,3.36,4.41
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2008,NA,2.05,1.01,3.9
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2008,'0.91,3.29,1.66,4.02
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2008,5.32,5.92,5.2,6.19
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2008,'0.37,1.15,'0.8,1.57
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2008,3.77,6.85,5,7.54
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2008,1.57,4.43,2.75,5.05
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2008,16.18,15.87,15.85,16.58
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2008,'0.19,1.25,1.61,1.38
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2008,1.88,2.37,1.28,3.4
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2008,NA,4.4,2.2,5.09
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2008,1.76,1.52,'0.49,NA
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2008,4.93,4.65,2.4,5.69
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2008,7.93,9.31,8.06,9.4
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2008,4.9,4.17,4.55,5.33
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2007,1.74,3.16,2.15,2.7
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2007,2.78,1.11,3.08,3.43
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2007,NA,'0.76,NA,1.49
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2007,NA,8.31,NA,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2007,3.95,3.36,3.19,3.52
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2007,4.36,4.48,4.32,4.23
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2007,2.02,3.07,4.27,3.37
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2007,2.43,NA,NA,3.59
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2007,8.65,NA,7.65,8.1
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2007,2.52,2.53,2.7,3.4
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2007,3.53,4.09,5.66,NA
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2007,24.22,22.87,24.52,22.92
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2007,4.05,4.55,4.51,5.5
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2007,4.83,NA,2.43,5.13
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2007,2.96,3.38,1.92,3.9
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2007,2.5,2.15,2.65,3.6
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2007,5.68,5.75,5.84,6.25
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2007,'0.97,'0.89,1.04,1.77
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2007,7.05,6.54,7.15,NA
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2007,NA,NA,4.06,5.6
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,2007,18.55,15.9,NA,17.8
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2007,16.4,16.95,16.25,15.75
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2007,'0.11,1.5,'0.09,'0.35
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2007,3.09,4.11,2.04,4.01
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2007,4.17,3.72,3.93,4.25
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2007,'0.91,1.75,1.25,1.97
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2007,5.35,NA,4.59,4.6
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2007,9.07,8.9,9.14,9.45
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2007,5.27,5.48,3.72,4.65
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2006,2.56,1.77,3.08,2.95
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2006,2.66,2.02,2.95,2.54
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2006,1.07,1.49,1.38,2.01
+HR,Sonipat,Ganaur,Ganaur,29.10083333,77.07833333,Larsauli,"Tube Well",W20904,2006,24.13,NA,NA,20.88
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2006,8.33,7.59,8.42,8.27
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2006,3.36,3.06,3.61,3.25
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2006,4.18,4.5,4.2,4.53
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2006,2.77,2.25,2.79,3.07
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2006,7.53,6.42,7.35,7.17
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2006,3.52,2.87,3.96,4.38
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2006,24.55,21.97,23.56,22.88
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2006,4.2,3.6,5.7,4.5
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2006,2.36,2.25,2.93,3.42
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2006,2.68,2.02,2.82,2.96
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2006,5.15,5.05,5.64,5.34
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2006,'0.84,1.15,'0.99,2.14
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2006,6.78,6.35,6.84,6.96
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2006,3.38,2.94,4,4.5
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,2006,17.72,15.8,17.75,16.42
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2006,15.88,16.13,15.91,15.76
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2006,'0.76,1.33,1.25,1.41
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2006,1.05,1.5,2.75,1.75
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2006,3.71,3.21,3.71,3.91
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2006,2.84,2.43,3.14,3.42
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2006,1.28,1.44,2.48,2.16
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2006,3.52,2.65,3.15,4.63
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2006,8.68,8.46,8.4,9.32
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2006,4.03,2.87,4.29,4.35
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2005,1.85,2.96,1.6,3.23
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2005,5.6,5.04,3.56,4.97
+HR,Sonipat,"North West Delhi",Rai,28.83472222,77.0225,"Qatlupur Pz","Tube Well",W19459,2005,1.01,1.21,1.54,2.16
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2005,NA,7.92,7.62,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2005,3.67,3.99,3.02,4.17
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2005,4.36,4.88,4.08,4.58
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2005,'0.4,3.16,2.12,2.97
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2005,1.69,3.46,NA,3.64
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2005,7.15,7.55,5.87,7.5
+HR,Sonipat,Sonipat,Rai,28.96666667,77.12083333,Kheaora-1,"Tube Well",W16742,2005,NA,NA,NA,21.95
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2005,5.05,4.11,2.57,4.74
+HR,Sonipat,Sonipat,Rai,28.94166667,77.09583333,Rai(Bahalgarh),"Tube Well",W16746,2005,23.2,NA,22.62,NA
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2005,4.2,2.94,3.65,3.75
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2005,1.5,1.93,1.43,3.3
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2005,2.1,1.7,1.8,2.9
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2005,4.65,4.82,4.95,5.25
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2005,'0.95,'0.81,'0.95,2.12
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2005,6.55,5.83,5.92,6.5
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2005,3.85,4.9,2.43,5.05
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,2005,NA,15.56,16.16,NA
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2005,16.85,16,16.68,16.35
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2005,1.3,1.46,'0.8,1.8
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2005,NA,2.02,1.72,2.35
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2005,4.28,4.11,1.01,4.26
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2005,3.22,2.2,1.87,3.06
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2005,1.6,1.98,1.39,2.57
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2005,5.1,4.22,2.7,4.65
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2005,8.65,8.38,8,8.9
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2005,2.03,1.65,1.78,2.48
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2004,2.77,2.05,2.71,2.93
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2004,1.85,2.28,1.44,3.08
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2004,8.53,8.19,7.67,8.78
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2004,3.9,4.45,3.82,4.81
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2004,5.2,4.98,4.41,5.36
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2004,1.57,2.4,2.14,3.42
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2004,2.08,2.91,3.5,3.89
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2004,8.81,7.5,6.93,8.33
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2004,NA,3.56,4.23,4.74
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2004,3.66,2.89,2.7,3.8
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2004,1.16,1.93,'0.82,3.12
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2004,1.85,2.02,1.45,3.35
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2004,5.23,4.93,4.78,5.24
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2004,6.28,1.17,'0.61,2.29
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2004,6.28,6.5,5.4,6.56
+HR,Sonipat,Sonipat,Gohana,29.125,76.725,Barota,"Dug Well",W16733,2004,5.9,NA,5.36,6.2
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2004,5.15,3.05,3.47,4.35
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,2004,16.63,15.32,15.84,15.92
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2004,15.4,15.75,15.52,16.22
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2004,1.16,2.1,1.14,2.09
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2004,2.11,1.99,1.93,2.85
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2004,4.66,4.49,4.03,4.97
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2004,'0.65,4.14,2.72,4.74
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2004,2.85,1.97,1.7,2.87
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2004,5.7,NA,NA,5.43
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2004,9.18,9.45,8.38,10.23
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2004,6.79,4.93,4.98,5.42
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2003,2.09,2.29,2.18,2.97
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2003,NA,3.58,2.13,3.2
+HR,Sonipat,Ganaur,Ganaur,29.18472222,76.87916667,Pugthala,"Dug Well",W16709,2003,10.7,7.33,NA,NA
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2003,9.39,7.79,9.25,8.73
+HR,Sonipat,Ganaur,Ganaur,29.13333333,76.9625,Sheikhpura,"Dug Well",W16711,2003,6.5,NA,NA,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2003,4.29,4.43,4.42,4.77
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2003,4.9,5.49,4.5,NA
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2003,2.67,NA,3.02,4.92
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2003,2.54,NA,2.91,3.64
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2003,7.98,7.66,7.16,8.3
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2003,3.06,NA,3.01,5
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2003,2.8,2.94,2.9,3.77
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2003,'0.3,2.24,1,3.41
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2003,1.35,NA,2.03,3.73
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2003,4.98,5.17,5,5.85
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2003,1.52,'0.97,1.08,2.07
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2003,6.43,6.29,5.4,6.83
+HR,Sonipat,Sonipat,Gohana,29.125,76.725,Barota,"Dug Well",W16733,2003,8.52,5.09,NA,NA
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2003,1.38,3.74,2.61,4.39
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,2003,15.5,14.3,15.6,14.81
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2003,NA,14.85,15.85,15.18
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2003,'0.8,NA,1.83,2.92
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2003,2.7,2.24,2.18,3.04
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2003,20.4,4.55,4.69,5.76
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2003,4.68,5.92,3.93,5.4
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2003,1.53,2.34,1.85,3.3
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2003,6.75,NA,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2003,9.07,9.21,9.8,10.05
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2003,5.75,5.77,5.2,5.95
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2002,3.05,2.3,2.45,2.72
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2002,4.45,NA,3.38,4.63
+HR,Sonipat,Ganaur,Ganaur,29.18472222,76.87916667,Pugthala,"Dug Well",W16709,2002,NA,7.7,NA,8.03
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2002,8.92,7.02,7.87,8.37
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2002,4.87,3.87,4.27,6.3
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2002,5.58,4.63,5.38,5.18
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2002,4.27,4.07,3.67,4.87
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2002,NA,2.74,2.84,3.31
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2002,8.82,7.12,7.55,7.48
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2002,6.01,2.21,NA,6.36
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2002,3.95,3.14,7.1,3.83
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2002,3.7,2.2,1.4,3.13
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2002,5.68,2.9,3.4,4.2
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2002,5.73,5,NA,5.4
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2002,1.99,1.24,'0.44,2.49
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2002,7.07,6,NA,6.45
+HR,Sonipat,Sonipat,Gohana,29.125,76.725,Barota,"Dug Well",W16733,2002,NA,NA,NA,5
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2002,5.88,5.3,3.65,4.78
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,2002,14.24,12.55,NA,13.85
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2002,14.9,NA,12.65,14.35
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2002,3.4,NA,7.6,NA
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2002,3.6,NA,NA,3.06
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2002,5.41,4.11,4.41,4.56
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2002,5.75,5.4,4.6,5.27
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2002,2.89,2.49,1.97,3.27
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2002,NA,NA,NA,5.1
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2002,10.25,7.92,8.8,11.2
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2002,6.3,5.8,6,6.74
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2001,1.82,1.6,2.25,2.78
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2001,'0.79,1.05,'0.49,2.12
+HR,Sonipat,Ganaur,Ganaur,29.18472222,76.87916667,Pugthala,"Dug Well",W16709,2001,7.64,6.69,6.58,7.53
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2001,5.95,5.97,5.99,6.94
+HR,Sonipat,Ganaur,Ganaur,29.13333333,76.9625,Sheikhpura,"Dug Well",W16711,2001,NA,NA,10.01,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2001,3.63,4.19,3.08,4.77
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2001,4.92,4.88,4.22,5.32
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2001,3.47,4.12,4.02,4.89
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2001,7.52,NA,2.81,NA
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2001,7.07,2.66,7.08,7.34
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2001,NA,2.95,3.43,4.6
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,2001,NA,NA,NA,6.68
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2001,'0.13,1.81,'0.47,3.09
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2001,1.2,NA,2.02,3.4
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2001,4.76,4.44,4.65,5.09
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2001,4.55,4.5,5.03,6.4
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,2001,3.28,NA,4.68,5.3
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,2001,11.18,12.1,NA,12.55
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,2001,15.99,13.2,16.26,14.95
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2001,1.72,NA,NA,3.12
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2001,3.01,4.24,4.71,5.01
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2001,4.58,4.45,3.93,5.28
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2001,1.7,3.02,2.2,4.97
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2001,NA,2.79,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.99583333,76.80416667,Bhatgaon,"Dug Well",W16726,2001,NA,2.97,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2001,9.35,8.84,8.25,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,2001,4.64,3.98,3.65,5.72
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2001,5.39,5.85,6.6,5.73
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,2000,1.26,2.26,1.63,3.1
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,2000,'0.54,'0.84,1.56,2.08
+HR,Sonipat,Ganaur,Ganaur,29.18472222,76.87916667,Pugthala,"Dug Well",W16709,2000,7.63,6.66,7.07,6.98
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,2000,NA,5.17,5.73,5.84
+HR,Sonipat,Ganaur,Ganaur,29.13333333,76.9625,Sheikhpura,"Dug Well",W16711,2000,9.7,6.75,10.12,NA
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,2000,4.12,3.77,4.32,4.32
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,2000,5.28,4.43,5.43,4.92
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,2000,3.37,4.22,4.05,5.42
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,2000,1.39,2.84,NA,3.14
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,2000,6.18,6.2,6.5,6.8
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,2000,1.86,4.06,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,2000,3.4,5.9,3.32,3.58
+HR,Sonipat,Sonipat,Sonepat,28.97666667,77.00833333,Bayanpur-2,"Dug Well",W16752,2000,7.61,8.16,NA,8.33
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,2000,NA,3.19,1.5,3.27
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,2000,NA,2.15,NA,2.67
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,2000,5.1,5.35,4.55,5.2
+HR,Sonipat,Sonipat,Sonepat,29.05611111,76.98472222,"Sandal Kalan","Dug Well",W16757,2000,'0.97,NA,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,2000,4,5.7,4.7,5.8
+HR,Sonipat,Sonipat,Gohana,29.125,76.725,Barota,"Dug Well",W16733,2000,NA,4.3,NA,NA
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,2000,12.1,10.25,12.05,11.35
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,2000,NA,3.38,NA,NA
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,2000,NA,4.03,2.18,NA
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,2000,4.19,4.06,4.71,4.85
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,2000,4,3.55,4.78,4.71
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,2000,3.42,3.12,2.98,3.95
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,2000,2.09,5.8,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.99583333,76.80416667,Bhatgaon,"Dug Well",W16726,2000,2.34,2.69,2.06,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,2000,8.5,7.35,8.85,8.93
+HR,Sonipat,Kharkhoda,Kharhauda,28.87916667,76.9125,Kharkhauda,"Dug Well",W16728,2000,NA,NA,NA,4.04
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,2000,6.5,6.1,5.32,5.85
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,1999,2.49,1.25,3.04,5.79
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,1999,NA,NA,5.08,3.13
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,1999,2.44,'0.85,2.36,5.33
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,1999,5.18,2.33,6.3,5.4
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,1999,5.6,1.15,4.85,3.77
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,1999,2.26,3.49,3.46,2.55
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,1999,2.97,1.46,5.8,2.2
+HR,Sonipat,Sonipat,Sonepat,28.97666667,77.00833333,Bayanpur-2,"Dug Well",W16752,1999,7.1,3.21,7.4,2.9
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,1999,'0.74,1.04,3.06,NA
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,1999,1.71,1.32,1.65,3.08
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,1999,5.06,3.42,5.3,4.4
+HR,Sonipat,Ganaur,Ganaur,29.18472222,76.87916667,Pugthala,"Dug Well",W16709,1999,NA,4.12,6.07,NA
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,1999,5.17,NA,4.97,4.64
+HR,Sonipat,Ganaur,Ganaur,29.13333333,76.9625,Sheikhpura,"Dug Well",W16711,1999,NA,6.3,NA,2.93
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,1999,4.25,2.67,4.07,3.72
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,1999,3.95,2.38,4.18,5.41
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,1999,NA,1.55,4.42,3.97
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,1999,3.67,1.47,3.71,4.31
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,1999,3.96,2.27,3.75,3.6
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,1999,3.2,1.5,2.77,2.67
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,1999,1.24,'0.39,NA,3.57
+HR,Sonipat,Kharkhoda,Kharhauda,28.99583333,76.80416667,Bhatgaon,"Dug Well",W16726,1999,2.82,1.16,2.34,4.47
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,1999,7.79,5.93,7.1,4
+HR,Sonipat,Kharkhoda,Kharhauda,28.87916667,76.9125,Kharkhauda,"Dug Well",W16728,1999,3.77,2.47,NA,3.35
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,1999,4.65,3.5,5,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.83333333,76.95833333,Kundal,"Dug Well",W16730,1999,NA,2.91,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,1999,1.53,'0.66,'0.94,1.64
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,1999,NA,3.07,5.6,4.4
+HR,Sonipat,Sonipat,Gohana,29.125,76.725,Barota,"Dug Well",W16733,1999,4.17,2.91,4.3,5.73
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,1999,NA,8.61,NA,NA
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,1999,12.2,11.33,11.4,NA
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,1999,NA,4.53,6.1,NA
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,1998,1.04,1.84,1.74,2.23
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,1998,4.38,4.12,4.4,5.15
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,1998,1.13,1.26,2.96,2.29
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,1998,4.86,1.6,1.35,3.57
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,1998,2.48,1.86,1.21,3.03
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,1998,NA,NA,4.08,1.72
+HR,Sonipat,Sonipat,Rai,28.96666667,77.075,Joshijat,"Dug Well",W16741,1998,NA,6.37,NA,NA
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,1998,2.13,1.06,2.36,3.76
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,1998,NA,2,1.1,2.67
+HR,Sonipat,Sonipat,Sonepat,28.97666667,77.00833333,Bayanpur-2,"Dug Well",W16752,1998,6.5,6.85,NA,7.05
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,1998,'0.36,1.89,2.79,2.19
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,1998,1.23,'0.55,1.1,2.23
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,1998,5.1,2.95,2.65,3.87
+HR,Sonipat,Sonipat,Sonepat,29.05611111,76.98472222,"Sandal Kalan","Dug Well",W16757,1998,NA,2.52,NA,NA
+HR,Sonipat,Ganaur,Ganaur,29.18472222,76.87916667,Pugthala,"Dug Well",W16709,1998,NA,4.37,3.49,4.83
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,1998,4.13,NA,2.87,4.91
+HR,Sonipat,Ganaur,Ganaur,29.13333333,76.9625,Sheikhpura,"Dug Well",W16711,1998,NA,6.98,5.7,7.12
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,1998,3.39,2.32,2.57,3.42
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,1998,2.64,2.38,1.98,3.83
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,1998,2.17,2.12,2.22,3.77
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,1998,1.2,1.9,3.67,3.23
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,1998,1.32,1.17,1.07,2.54
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,1998,'0.14,NA,3.29,NA
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,1998,NA,NA,4.9,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.99583333,76.80416667,Bhatgaon,"Dug Well",W16726,1998,1.23,1.84,2.47,2.7
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,1998,7.02,5.4,5,7.05
+HR,Sonipat,Kharkhoda,Kharhauda,28.87916667,76.9125,Kharkhauda,"Dug Well",W16728,1998,2.3,NA,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,1998,3.44,NA,3.3,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.83333333,76.95833333,Kundal,"Dug Well",W16730,1998,NA,4.81,NA,5.23
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,1998,'0.3,'0.54,'0.64,3.07
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,1998,2.1,3.42,2.9,4.62
+HR,Sonipat,Sonipat,Gohana,29.125,76.725,Barota,"Dug Well",W16733,1998,2.59,2.1,1.33,4.6
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,1998,NA,1.75,'0.95,2.55
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,1998,11.84,NA,11.7,NA
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,1998,1.81,2.13,1.33,2.01
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,1997,4.5,4.22,4.7,5.1
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,1997,NA,NA,1.23,1.95
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,1997,4.68,3.72,4.2,5.45
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,1997,5.56,2.76,2.66,3.79
+HR,Sonipat,Sonipat,Rai,28.9,77.09166667,Bayanpur-1,"Dug Well",W16740,1997,17.9,12.37,NA,15.3
+HR,Sonipat,Sonipat,Rai,28.87083333,77.11666667,Kundli,"Dug Well",W16744,1997,6.81,NA,NA,NA
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,1997,3.66,2.96,2.99,5.94
+HR,Sonipat,Sonipat,Sonepat,29.02944444,77.13666667,Asadpur,"Dug Well",W16748,1997,NA,3.36,NA,NA
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,1997,5.82,1.57,4.61,2.25
+HR,Sonipat,Sonipat,Sonepat,29,76.96666667,"Barwasni 1(s)","Tube Well",W16750,1997,4.55,NA,NA,NA
+HR,Sonipat,Sonipat,Sonepat,28.97666667,77.00833333,Bayanpur-2,"Dug Well",W16752,1997,6.97,6.32,NA,9.8
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,1997,NA,1.21,'0.55,2.11
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,1997,1.9,1.62,1.07,2.19
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,1997,3.47,2.84,3.34,2.27
+HR,Sonipat,Sonipat,Sonepat,29.05611111,76.98472222,"Sandal Kalan","Dug Well",W16757,1997,2.82,NA,NA,NA
+HR,Sonipat,Ganaur,Ganaur,29.12638889,77.02222222,Ganaur,"Dug Well",W16707,1997,5.86,NA,NA,NA
+HR,Sonipat,Ganaur,Ganaur,29.18472222,76.87916667,Pugthala,"Dug Well",W16709,1997,5.37,4.21,5.17,4.69
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,1997,NA,3.41,4.57,NA
+HR,Sonipat,Ganaur,Ganaur,29.13333333,76.9625,Sheikhpura,"Dug Well",W16711,1997,4.95,6.64,7,9.2
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,1997,NA,2.75,2.65,3.77
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,1997,2.55,3.18,2.25,3.33
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,1997,3.89,2.75,3.24,3.28
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,1997,2.46,2.74,1.87,3.42
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,1997,NA,2.68,2.14,4.25
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,1997,1.75,3.06,1.67,3.87
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,1997,'0.94,'0.49,1.04,1.65
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,1997,1.9,NA,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.99583333,76.80416667,Bhatgaon,"Dug Well",W16726,1997,2.01,3.2,2.04,2.64
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,1997,5.47,5.44,1.07,4.36
+HR,Sonipat,Kharkhoda,Kharhauda,28.87916667,76.9125,Kharkhauda,"Dug Well",W16728,1997,5.47,NA,NA,4.8
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,1997,5.2,5.08,4.4,6.12
+HR,Sonipat,Kharkhoda,Kharhauda,28.83333333,76.95833333,Kundal,"Dug Well",W16730,1997,4.71,4.41,4.68,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,1997,'0.86,'0.7,1.14,2.44
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,1997,7.25,3.52,3.27,5.54
+HR,Sonipat,Sonipat,Gohana,29.125,76.725,Barota,"Dug Well",W16733,1997,2.9,2.8,2.65,2.88
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,1997,3.6,2.02,2.16,4.71
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,1997,9.2,7.47,NA,6.28
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,1997,11.22,9.98,11.38,9.44
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,1997,1.45,2.46,1.31,2.54
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,1997,3.29,2.11,1.6,2.49
+HR,Sonipat,Gohana,Kathura,29.10833333,76.58333333,Kathura,"Dug Well",W16716,1996,NA,1.79,3.29,1.71
+HR,Sonipat,Sonipat,Gohana,28.99666667,76.76111111,"Rithal Phogat","Dug Well",W16739,1996,NA,1.56,3.75,3.12
+HR,Sonipat,Gohana,Kathura,29.22916667,76.50555556,Nizaimpur,"Dug Well",W16719,1996,1.28,1.54,1.75,2.39
+HR,Sonipat,Gohana,Mundlana,29.20777778,76.66527778,Bichpuri1,"Dug Well",W16720,1996,2.68,2.78,3.45,4.33
+HR,Sonipat,Gohana,Mundlana,29.1875,76.625,Butana,"Dug Well",W16721,1996,2.55,1.8,2.94,3.18
+HR,Sonipat,Sonipat,Rai,28.9,77.09166667,Bayanpur-1,"Dug Well",W16740,1996,NA,NA,2.36,13.7
+HR,Sonipat,Sonipat,Rai,28.86666667,77.04722222,Nahri,"Dug Well",W16745,1996,NA,2.87,2.67,4.21
+HR,Sonipat,Sonipat,Sonepat,29.02944444,77.13666667,Asadpur,"Dug Well",W16748,1996,NA,NA,2.8,NA
+HR,Sonipat,Sonipat,Sonepat,29.0125,76.9625,Barswani,"Dug Well",W16749,1996,4.7,2.22,3.8,3.18
+HR,Sonipat,Sonipat,Sonepat,28.97666667,77.00833333,Bayanpur-2,"Dug Well",W16752,1996,6.63,6.52,1.65,7.13
+HR,Sonipat,Sonipat,Sonepat,29.08055556,76.85611111,Bohela,"Dug Well",W16753,1996,NA,'0.95,NA,2.88
+HR,Sonipat,Sonipat,Sonepat,29.05416667,76.85833333,Machhri,"Dug Well",W16754,1996,'0.7,1.18,1.9,2.75
+HR,Sonipat,Sonipat,Sonepat,29.0375,77.0875,Murthal,"Dug Well",W16755,1996,NA,NA,2.4,NA
+HR,Sonipat,Sonipat,Sonepat,29.06111111,76.83333333,Pinana,"Dug Well",W16756,1996,3.36,2.31,NA,4.55
+HR,Sonipat,Sonipat,Sonepat,29.05611111,76.98472222,"Sandal Kalan","Dug Well",W16757,1996,NA,NA,3.27,NA
+HR,Sonipat,Ganaur,Ganaur,29.11527778,77.10972222,Omaidgarh,"Dug Well",W16708,1996,NA,NA,1.66,NA
+HR,Sonipat,Ganaur,Ganaur,29.18472222,76.87916667,Pugthala,"Dug Well",W16709,1996,6.98,4.5,1.27,5.25
+HR,Sonipat,Ganaur,Ganaur,29.10833333,76.91666667,Purkhas,"Dug Well",W16710,1996,NA,4.37,3.13,5.65
+HR,Sonipat,Ganaur,Ganaur,29.13333333,76.9625,Sheikhpura,"Dug Well",W16711,1996,7.39,NA,5.53,8.3
+HR,Sonipat,Gohana,Kathura,29.11944444,76.64583333,Ahulana,"Dug Well",W16713,1996,2.43,1.6,1.22,3.07
+HR,Sonipat,Gohana,Kathura,29.1,76.61527778,Bhunderi,"Dug Well",W16714,1996,3.35,2.06,2.13,3.58
+HR,Sonipat,Gohana,Kathura,29.18333333,76.53888889,Garhwal,"Dug Well",W16715,1996,2.23,2.39,3.25,3.74
+HR,Sonipat,Gohana,Mundlana,29.20833333,76.78333333,Chirana,"Dug Well",W16722,1996,3.12,2.42,2.1,3.66
+HR,Sonipat,Gohana,Mundlana,29.25,76.66111111,Jagsi,"Dug Well",W16723,1996,2.27,2.12,2.9,2.86
+HR,Sonipat,Gohana,Mundlana,29.20416667,76.76666667,Mundlana,"Dug Well",W16724,1996,-0.31,'0.73,5.94,1.75
+HR,Sonipat,Gohana,Mundlana,29.2125,76.77083333,Mundlana1,"Tube Well",W16725,1996,'0.86,NA,NA,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.99583333,76.80416667,Bhatgaon,"Dug Well",W16726,1996,1.19,1.97,2.92,2.89
+HR,Sonipat,Kharkhoda,Kharhauda,28.98472222,76.8125,Farmana,"Dug Well",W16727,1996,5.39,5.46,2.65,7.09
+HR,Sonipat,Kharkhoda,Kharhauda,28.87916667,76.9125,Kharkhauda,"Dug Well",W16728,1996,NA,3.61,NA,3.42
+HR,Sonipat,Kharkhoda,Kharhauda,28.87777778,76.9125,Kharkhauda1,"Tube Well",W16729,1996,4.03,3.83,NA,5.04
+HR,Sonipat,Kharkhoda,Kharhauda,28.83333333,76.95833333,Kundal,"Dug Well",W16730,1996,NA,NA,4.16,NA
+HR,Sonipat,Kharkhoda,Kharhauda,28.93333333,76.975,Rohat,"Dug Well",W16731,1996,'0.23,1.51,1.19,4.26
+HR,Sonipat,Kharkhoda,Kharhauda,28.9,76.85833333,Sisnah,"Dug Well",W16732,1996,1.56,3.26,2.92,4.86
+HR,Sonipat,Sonipat,Gohana,29.125,76.725,Barota,"Dug Well",W16733,1996,NA,2.7,NA,3.3
+HR,Sonipat,Sonipat,Gohana,29.03333333,76.79166667,Bhainswal,"Dug Well",W16735,1996,2.06,2.09,2.74,3.92
+HR,Sonipat,Sonipat,Gohana,29.13888889,76.71388889,Garhi-ujle-khan,"Dug Well",W16736,1996,11.18,6.42,NA,7.52
+HR,Sonipat,Sonipat,Gohana,29.13944444,76.71527778,Gohana1,"Tube Well",W16737,1996,NA,9.86,10.04,9.07
+HR,Sonipat,Sonipat,Gohana,29.075,76.77916667,Lath,"Dug Well",W16738,1996,'0.67,2.04,3.28,2.87
+HR,Sonipat,Gohana,Gohana,29.09861111,76.68472222,Mahara,"Dug Well",W16718,1996,3.53,3.15,2.65,4.37

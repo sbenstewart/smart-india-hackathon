@@ -1,0 +1,226 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2018,18.79,NA,NA,19.08
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.9,Nadha-DW,"Dug Well",W30323,2018,1.47,NA,NA,2.72
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2018,10.53,10.77,NA,NA
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2018,29.35,29.01,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2018,NA,NA,9.98,NA
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2018,NA,NA,92,NA
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2018,NA,NA,14.66,NA
+HR,Panchkula,Panchkula,Pinjore,30.73222222,76.975,Dhakwala-Dw,"Dug Well",W33034,2018,1.59,2.05,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.505,76.98611111,Golpura-DW,"Dug Well",W32156,2018,3.97,4.53,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.48333333,76.95,Jaspur-DW,"Dug Well",W30242,2018,17.05,17.75,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.53277778,77.03111111,Hangola,"Dug Well",W30261,2018,6.48,4.35,NA,NA
+HR,Panchkula,Panchkula,Pinjore,30.75722222,76.99305556,Nandpur-Dw,"Dug Well",W33575,2018,'0.55,NA,NA,1.61
+HR,Panchkula,Panchkula,Barwala,30.55277778,76.94972222,Batour,"Dug Well",W32162,2018,NA,NA,12,NA
+HR,Panchkula,Panchkula,Pinjore,30.77888889,76.93805556,Bahoriyan-Dw,"Dug Well",W33036,2018,NA,NA,2.85,10
+HR,Panchkula,Panchkula,Pinjore,30.73916667,76.99861111,Thapli-Dw,"Dug Well",W33035,2018,5.09,NA,NA,7.44
+HR,Panchkula,Panchkula,Barwala,30.56555556,76.9975,Kheri-DW,"Dug Well",W30276,2018,13.83,NA,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.58333333,77.01666667,"Raipur Rani-Pz","Tube Well",W30283,2018,17.02,NA,NA,NA
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2018,8.66,NA,NA,9.69
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2017,NA,NA,11.23,5.78
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2017,NA,NA,18,18.92
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2017,NA,NA,9.53,16.6
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2017,NA,NA,9.34,NA
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2017,NA,NA,28.78,NA
+HR,Panchkula,Panchkula,Pinjore,30.75722222,76.99305556,Nandpur-Dw,"Dug Well",W33575,2017,NA,NA,'0.68,1.35
+HR,Panchkula,Panchkula,Barwala,30.56555556,76.9975,Kheri-DW,"Dug Well",W30276,2017,NA,NA,9.88,NA
+HR,Panchkula,Panchkula,Pinjore,30.73916667,76.99861111,Thapli-Dw,"Dug Well",W33035,2017,NA,NA,5.7,7.65
+HR,Panchkula,Panchkula,Pinjore,30.77888889,76.93805556,Bahoriyan-Dw,"Dug Well",W33036,2017,NA,NA,3.59,9.1
+HR,Panchkula,Panchkula,Barwala,30.505,76.98611111,Golpura-DW,"Dug Well",W32156,2017,NA,NA,4.15,3.45
+HR,Panchkula,Panchkula,Barwala,30.48333333,76.95,Jaspur-DW,"Dug Well",W30242,2017,NA,NA,16.35,16.64
+HR,Panchkula,Panchkula,Barwala,30.53277778,77.03111111,Hangola,"Dug Well",W30261,2017,NA,NA,4.72,6.4
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.9,Nadha-DW,"Dug Well",W30323,2017,NA,NA,2.32,3.1
+HR,Panchkula,Panchkula,Pinjore,30.73222222,76.975,Dhakwala-Dw,"Dug Well",W33034,2017,NA,NA,2.22,2.7
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2016,NA,NA,NA,15.84
+HR,Panchkula,Panchkula,Pinjore,30.77888889,76.93805556,Bahoriyan-Dw,"Dug Well",W33036,2016,NA,NA,3.05,9.59
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2016,NA,NA,NA,18.11
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2016,NA,NA,18,18.3
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2016,5.48,NA,5.56,NA
+HR,Panchkula,Panchkula,Barwala,30.47972222,76.95194444,Jaspur-Pz,"Tube Well",W30240,2016,NA,NA,NA,16.71
+HR,Panchkula,Panchkula,Barwala,30.48333333,76.95,Jaspur-DW,"Dug Well",W30242,2016,NA,NA,17.01,NA
+HR,Panchkula,Panchkula,Barwala,30.53277778,77.03111111,Hangola,"Dug Well",W30261,2016,NA,NA,6.18,NA
+HR,Panchkula,Panchkula,Barwala,30.58333333,77.01666667,"Raipur Rani-Pz","Tube Well",W30283,2016,NA,NA,NA,12.33
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.9,Nadha-DW,"Dug Well",W30323,2016,NA,NA,2.16,2.65
+HR,Panchkula,Panchkula,Pinjore,30.75722222,76.99305556,Nandpur-Dw,"Dug Well",W33575,2016,NA,NA,'0.81,NA
+HR,Panchkula,Panchkula,Barwala,30.505,76.98611111,Golpura-DW,"Dug Well",W32156,2016,NA,NA,2.93,3.81
+HR,Panchkula,Panchkula,Pinjore,30.73222222,76.975,Dhakwala-Dw,"Dug Well",W33034,2016,NA,NA,1.83,2
+HR,Panchkula,Panchkula,Pinjore,30.73916667,76.99861111,Thapli-Dw,"Dug Well",W33035,2016,NA,NA,6.67,7.07
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2016,NA,NA,NA,29.56
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2015,NA,NA,8.94,13.6
+HR,Panchkula,Panchkula,Pinjore,30.89138889,76.82888889,Maranwala,"Dug Well",W32187,2015,NA,NA,20.5,NA
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2015,NA,NA,18.3,18.22
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2015,NA,NA,17.3,5.13
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2015,8.76,8.75,9.52,9.77
+HR,Panchkula,Panchkula,Barwala,30.47972222,76.95194444,Jaspur-Pz,"Tube Well",W30240,2015,NA,NA,NA,18.3
+HR,Panchkula,Panchkula,Barwala,30.48333333,76.95,Jaspur-DW,"Dug Well",W30242,2015,NA,17.66,NA,15.5
+HR,Panchkula,Panchkula,Barwala,30.53277778,77.03111111,Hangola,"Dug Well",W30261,2015,NA,7.23,5.49,8.25
+HR,Panchkula,Panchkula,Barwala,30.56555556,76.9975,Kheri-DW,"Dug Well",W30276,2015,NA,8.22,10.82,10.2
+HR,Panchkula,Panchkula,Barwala,30.58333333,77.01666667,"Raipur Rani-Pz","Tube Well",W30283,2015,NA,5.62,NA,6.13
+HR,Panchkula,Panchkula,Barwala,30.61666667,76.96666667,Toka-DW,"Dug Well",W30296,2015,NA,7.97,NA,8.37
+HR,Panchkula,Panchkula,Pinjore,30.65,76.88333333,Ramgarh-DW,"Dug Well",W30312,2015,NA,11.9,NA,12.71
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.9,Nadha-DW,"Dug Well",W30323,2015,NA,3.6,NA,4.6
+HR,Panchkula,Panchkula,Pinjore,30.85,76.86666667,"Ram Nagar-DW","Dug Well",W30401,2015,NA,16.5,NA,18
+HR,Panchkula,Panchkula,Barwala,30.505,76.98611111,Golpura-DW,"Dug Well",W32156,2015,NA,NA,3.02,NA
+HR,Panchkula,Panchkula,Barwala,30.52861111,76.97666667,Mauli-DW,"Dug Well",W32158,2015,NA,NA,23.15,NA
+HR,Panchkula,Panchkula,Barwala,30.55277778,76.94972222,Batour,"Dug Well",W32162,2015,NA,8.15,6.93,NA
+HR,Panchkula,Panchkula,Barwala,30.58333333,77.06666667,Rehna-DW,"Dug Well",W32163,2015,NA,16.35,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.60305556,77.04777778,Rampur-DW,"Dug Well",W32166,2015,NA,NA,7.14,NA
+HR,Panchkula,Panchkula,Barwala,30.62777778,76.94972222,"Bunga At Dabkhori-DW","Dug Well",W32169,2015,NA,NA,34.75,NA
+HR,Panchkula,Panchkula,Barwala,30.63805556,76.94222222,"Jaswant Garh-DW","Dug Well",W32170,2015,NA,NA,3.89,NA
+HR,Panchkula,Panchkula,Pinjore,30.66472222,76.85166667,Kundi-DW,"Dug Well",W32171,2015,NA,NA,18.9,NA
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2015,NA,NA,28.3,29.52
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2014,NA,NA,9.47,13.95
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2014,NA,NA,NA,66.83
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2014,NA,NA,28.69,30.25
+HR,Panchkula,Panchkula,Barwala,30.58333333,77.01666667,"Raipur Rani-Pz","Tube Well",W30283,2014,4.88,NA,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2014,4.56,5.2,13.63,11.67
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2014,NA,NA,9.12,9.86
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2014,NA,16.84,17.36,18.35
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2013,NA,NA,8.6,13.7
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2013,NA,NA,64.62,66.6
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2013,NA,NA,27.67,30.06
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2013,8.36,8.9,9.17,9
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2013,NA,17.7,16.35,17.2
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2013,7.88,6.38,4.5,6.73
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2013,NA,NA,16.45,28.41
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2012,NA,NA,10.55,14.3
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2012,NA,NA,65.25,63.6
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2012,NA,NA,28.61,NA
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2012,NA,NA,9.07,9.97
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2012,NA,NA,16.2,NA
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2012,NA,NA,12.53,NA
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2012,NA,NA,14,15.21
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2011,9.15,7.58,7.9,12.39
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2011,63.62,59.95,63.2,61.03
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2011,30.46,28.71,29,29.43
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2011,9.77,8.95,10.32,8.83
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2011,16.75,16.52,16.5,17.59
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2011,6.33,6.4,6.78,8.11
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2011,13.21,14.21,14.18,15.81
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2010,9.4,10.25,3.34,NA
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2010,NA,NA,62.02,NA
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2010,29.71,28.91,28.65,29.16
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2010,8.32,9.72,9.18,NA
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2010,18.73,19.65,16.58,20.5
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2010,7.26,NA,6.12,10.13
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2010,15.41,15.71,13.33,18.53
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2009,13.04,7.58,8.4,12.35
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2009,26.86,28.49,28.59,NA
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2009,NA,NA,9.85,NA
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2009,20.14,19.5,19.51,20.04
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2009,15.42,14.07,15.13,14.63
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2009,15.11,13.31,14.71,14.86
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2008,7.75,9.76,NA,NA
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2008,30.21,29.96,28.17,29.99
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2008,7.77,NA,10.07,NA
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2008,20.32,21.9,19.6,20.43
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2008,15.88,15.08,14.73,16.03
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2008,12.58,15.57,12.15,NA
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2007,9.42,11.18,10.3,13.5
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2007,29.86,29.18,29.26,29.56
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2007,NA,9.67,9.79,9.67
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2007,19.33,19.72,20.15,19.8
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2007,14.83,14.88,15.23,14.28
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2007,14.91,16.54,15.81,NA
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2006,12.57,9.82,10.07,13.25
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2006,NA,49.7,NA,NA
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2006,29.49,28.41,28.89,29.26
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2006,15.3,14.82,15.03,15.76
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2006,9.59,9.47,10.74,9.67
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2006,19.58,19.19,19.32,18.9
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2006,14.33,12.98,14.73,14.33
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,2006,NA,14.47,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,2006,NA,10.51,NA,10.41
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2005,9.04,9.97,7.96,13.19
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2005,48.3,47.49,48.8,48.32
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2005,28.97,27.76,28.07,28.81
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2005,13.33,14.21,13.89,15.05
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2005,9.25,9.55,9.6,9.61
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2005,19.04,19.44,18.79,19.78
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2005,13.43,13.07,12.49,13.13
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,2005,14.7,14,14.12,NA
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,2005,9.2,8.89,8.83,9.99
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2004,10.7,6.99,9,11.9
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2004,46.33,42.4,47.86,46.57
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2004,27.76,27.66,27.25,28.39
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2004,12.76,11.27,13.36,13.44
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2004,8.96,10.7,9.52,10.7
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,2004,9.51,8.34,8.35,9.5
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2004,19.42,18.79,19.11,19.32
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2004,14.86,12.32,14,13.03
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,2004,13.73,12.49,13.58,13.29
+HR,Panchkula,Panchkula,Pinjore,30.75833333,76.90694444,Surajpur,"Dug Well",W16555,2004,NA,5.6,NA,5.6
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2003,5.74,9.52,2.61,12.65
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2003,46.05,41.82,55.9,44
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2003,28.4,28.29,27.27,29.26
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2003,11.94,14.51,11.5,15.21
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2003,NA,9.65,10.7,NA
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,2003,8.91,9.55,7.12,10.09
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2003,18.99,18.78,18.41,19.18
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2003,NA,16.33,18.57,NA
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,2003,13.53,16.33,12.2,12.95
+HR,Panchkula,Panchkula,Pinjore,30.75833333,76.90694444,Surajpur,"Dug Well",W16555,2003,NA,NA,5.6,NA
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2002,11.08,8.8,8.38,10.14
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2002,NA,39.3,42.68,40.26
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2002,28.86,27.7,27.61,29.04
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2002,13.97,12.77,13.68,14.01
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2002,9.52,9.6,9.53,9.37
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2002,19.28,17.89,18.44,18.39
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2002,18.1,15.8,16.48,13.2
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,2002,13.33,11.77,11.94,12.21
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,2002,11.81,8.19,8.85,9.47
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2001,4.63,8.79,5.1,12.65
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2001,39.07,37.17,39.58,37.7
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2001,27.95,27.66,27.09,NA
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2001,10.88,11.8,12.06,13.46
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,2001,6.31,7.01,6.91,NA
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2001,17.9,17.68,17.68,18.1
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2001,15.23,14.93,15.38,16.38
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,2001,10.95,11.23,11.32,12.1
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2001,NA,8.94,8.57,9.1
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,2000,8.85,8.05,5.36,11.55
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,2000,7.68,9.65,8.55,9
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,2000,28.27,27.8,27.06,28.55
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,2000,18.05,18.11,17.5,18.1
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,2000,15.08,13.38,14.13,15.53
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,2000,37.27,NA,NA,NA
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,2000,11.15,10.85,10.8,11.7
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,2000,NA,12.18,NA,NA
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,2000,6.21,6.74,5.97,8.55
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,1999,27.55,27.99,27.01,28.98
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,1999,4,7.75,3.56,11.68
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,1999,13.33,14.03,13.01,15.63
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,1999,10.46,11.49,10.83,13.21
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,1999,18.2,18.64,17.88,19.05
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,1999,29.5,31.6,35.21,NA
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,1999,5.71,5.89,5.62,8.26
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,1999,8.8,8.77,8.47,NA
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,1999,10.2,11.12,10.19,11.82
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,1998,6.34,6.86,5.5,8.66
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,1998,19.1,19.07,18.59,19.7
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,1998,14.93,13.56,13.68,16.08
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,1998,33.39,32.63,32.36,NA
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,1998,12.08,12.38,10.53,13.77
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,1998,9.99,9.17,5.22,12.55
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,1998,28.89,28.2,27.83,29.71
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,1998,11.91,12.72,10.75,13.25
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,1998,6.87,9.88,7.76,9.18
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,1997,13.33,12.98,12.58,NA
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,1997,16.61,15.29,15.1,16.56
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,1997,19.2,18.73,18.84,19.19
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,1997,6.82,6.39,6.77,9.12
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,1997,11.22,11.08,11.95,11.96
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,1997,28.9,27.69,27.58,29.2
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,1997,30.74,30.59,31.55,32.58
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,1997,9.27,7.67,5.24,11.96
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,1997,8.3,8.75,8.82,NA
+HR,Panchkula,Panchkula,Pinjore,30.69666667,76.87333333,Devnagar(Panchkula),"Dug Well",W16549,1996,8.16,8.88,8.65,8.96
+HR,Panchkula,Panchkula,Pinjore,30.825,76.87777778,Khera,"Dug Well",W16553,1996,28.62,28.29,27.2,28.93
+HR,Panchkula,Panchkula,Barwala,30.63333333,76.925,Bhanun,"Dug Well",W16544,1996,5.29,6.46,5.76,7.69
+HR,Panchkula,Panchkula,Pinjore,30.75833333,76.90694444,Surajpur,"Dug Well",W16555,1996,NA,NA,4.36,NA
+HR,Panchkula,Panchkula,Morni,30.65416667,77.09166667,Bhurewala,"Dug Well",W16548,1996,13.33,7.29,NA,13.54
+HR,Panchkula,Panchkula,Pinjore,30.81111111,76.91944444,Dharampur,"Dug Well",W16550,1996,8.86,8.68,2.9,14.98
+HR,Panchkula,Panchkula,Pinjore,30.68333333,76.88333333,"Fatehpur-2 (s)","Tube Well",W16551,1996,31.68,29.49,31.38,32.19
+HR,Panchkula,Panchkula,Barwala,30.64166667,77.00833333,Parwala,"Dug Well",W16545,1996,17.99,20.47,18.43,19.38
+HR,Panchkula,Panchkula,Barwala,30.5875,77.02222222,Raipurrani,"Dug Well",W16547,1996,16.93,17.32,14.96,7.35
+HR,Panchkula,Panchkula,Pinjore,30.9,76.79583333,Mehranwali,"Dug Well",W16554,1996,9.07,11.98,9.83,13.5

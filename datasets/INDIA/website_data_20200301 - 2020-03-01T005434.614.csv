@@ -1,0 +1,56 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Baghpat,Khekra,Khekra,28.87361111,77.275,"Khekhra Pz","Tube Well",W20008,2016,NA,NA,NA,24.35
+UP,Baghpat,Khekra,Khekra,28.87361111,77.275,"Khekhra Pz","Tube Well",W20008,2015,22.07,NA,19.05,22.58
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2014,NA,21.95,NA,25.47
+UP,Baghpat,Khekra,Khekra,28.87361111,77.275,"Khekhra Pz","Tube Well",W20008,2014,NA,21.5,NA,NA
+UP,Baghpat,Khekra,Khekra,28.87361111,77.275,"Khekhra Pz","Tube Well",W20008,2013,22.4,19.5,NA,NA
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2013,27.19,22.3,25.3,26.75
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2012,NA,20.4,24.98,25.2
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2011,25,NA,3.14,25.11
+UP,Baghpat,Khekra,Khekra,28.87361111,77.275,"Khekhra Pz","Tube Well",W20008,2011,NA,17.3,NA,NA
+UP,Baghpat,Khekra,Khekra,28.87361111,77.275,"Khekhra Pz","Tube Well",W20008,2010,20.25,NA,16.95,NA
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2010,27.2,24.31,25.54,26.76
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2009,23.85,20.35,24.26,23.53
+UP,Baghpat,Baghpat,Baghpat,28.93888889,77.22222222,"Baghpat Pz","Tube Well",W20006,2009,NA,14.65,NA,NA
+UP,Baghpat,Baghpat,Baghpat,28.93888889,77.22222222,"Baghpat Pz","Tube Well",W20006,2008,NA,15.07,14.72,15.51
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2008,NA,19,NA,19
+UP,Baghpat,Khekra,Khekra,28.87361111,77.275,"Khekhra Pz","Tube Well",W20008,2008,NA,NA,12.8,NA
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2007,18.82,17.9,19.9,18.8
+UP,Baghpat,Baghpat,Baghpat,28.93888889,77.22222222,"Baghpat Pz","Tube Well",W20006,2007,14.25,14.55,15.33,15.05
+UP,Baghpat,Binauli,Binauli,29.18333333,77.41944444,"Daha Pz","Tube Well",W20007,2007,30,27.9,30.5,29.25
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2006,NA,16.54,18.2,NA
+UP,Baghpat,Binauli,Binauli,29.18333333,77.41944444,"Daha Pz","Tube Well",W20007,2006,30,23.05,30.52,28.9
+UP,Baghpat,Baghpat,Baghpat,28.93888889,77.22222222,"Baghpat Pz","Tube Well",W20006,2006,12.65,13.4,14.43,14.31
+UP,Baghpat,Binauli,Binauli,29.13333333,77.3375,Binauli,"Dug Well",W14687,2005,18.72,NA,NA,NA
+UP,Baghpat,Binauli,Binauli,29.18333333,77.41944444,"Daha Pz","Tube Well",W20007,2005,26.71,24.65,26,25.48
+UP,Baghpat,Baghpat,Baghpat,28.93888889,77.22222222,"Baghpat Pz","Tube Well",W20006,2005,13.62,13.3,13.15,14.33
+UP,Baghpat,Baghpat,Baghpat,28.93333333,77.21666667,Baghpat,"Dug Well",W14685,2005,15.74,NA,NA,NA
+UP,Baghpat,Chhaprauli,Chhaprauli,29.26666667,77.15833333,Tanda2,"Dug Well",W15503,2005,12.48,NA,NA,NA
+UP,Baghpat,Pilana,Pilana,28.885,77.36,"Khaspur panchi","Dug Well",W14690,2005,15.42,NA,NA,NA
+UP,Baghpat,Pilana,Pilana,28.95138889,77.41805556,"Pilana Pz","Tube Well",W20009,2005,16.47,15.43,16.64,16.18
+UP,Baghpat,Khekra,Khekra,28.87361111,77.275,"Khekhra Pz","Tube Well",W20008,2005,NA,12.89,NA,NA
+UP,Baghpat,Baghpat,Baghpat,28.93333333,77.21666667,Baghpat,"Dug Well",W14685,2003,NA,NA,15.74,NA
+UP,Baghpat,Chhaprauli,Chhaprauli,29.26666667,77.15833333,Tanda2,"Dug Well",W15503,2003,NA,NA,12.48,NA
+UP,Baghpat,Pilana,Pilana,28.885,77.36,"Khaspur panchi","Dug Well",W14690,2002,NA,12.98,NA,NA
+UP,Baghpat,Pilana,Pilana,28.885,77.36,"Khaspur panchi","Dug Well",W14690,2001,11.97,NA,12.76,12.37
+UP,Baghpat,Binauli,Binauli,29.13333333,77.3375,Binauli,"Dug Well",W14687,2000,17.58,17.26,NA,17.6
+UP,Baghpat,Pilana,Pilana,28.885,77.36,"Khaspur panchi","Dug Well",W14690,2000,11.44,10.42,NA,11.45
+UP,Baghpat,Chhaprauli,Chhaprauli,29.26666667,77.15833333,Tanda2,"Dug Well",W15503,2000,8.48,NA,8.16,NA
+UP,Baghpat,Baghpat,Baghpat,28.93333333,77.21666667,Baghpat,"Dug Well",W14685,2000,11.2,11.22,12.71,12.01
+UP,Baghpat,Baghpat,Baghpat,28.93333333,77.21666667,Baghpat,"Dug Well",W14685,1999,11.31,10.76,11.24,10.96
+UP,Baghpat,Pilana,Pilana,28.885,77.36,"Khaspur panchi","Dug Well",W14690,1999,10.72,8.8,10.31,9.96
+UP,Baghpat,Chhaprauli,Chhaprauli,29.26666667,77.15833333,Tanda2,"Dug Well",W15503,1999,8.28,7.6,8.54,8.86
+UP,Baghpat,Binauli,Binauli,29.13333333,77.3375,Binauli,"Dug Well",W14687,1999,17.73,NA,17.61,NA
+UP,Baghpat,Pilana,Pilana,28.885,77.36,"Khaspur panchi","Dug Well",W14690,1998,15.42,8.68,8.2,10.4
+UP,Baghpat,Chhaprauli,Chhaprauli,29.26666667,77.15833333,Tanda2,"Dug Well",W15503,1998,7.6,2.93,7.2,8.99
+UP,Baghpat,Baghpat,Baghpat,28.93333333,77.21666667,Baghpat,"Dug Well",W14685,1998,10.85,10.66,8.8,11.71
+UP,Baghpat,Baraut,Baraut,29.1,77.26166667,Baraut,"Dug Well",W14686,1997,13.04,13.04,NA,13.04
+UP,Baghpat,Pilana,Pilana,28.885,77.36,"Khaspur panchi","Dug Well",W14690,1997,9.6,9.1,9.5,10.3
+UP,Baghpat,Chhaprauli,Chhaprauli,29.26666667,77.15833333,Tanda2,"Dug Well",W15503,1997,8.19,8.95,8.03,12.48
+UP,Baghpat,Binauli,Binauli,29.10833333,77.42666667,Burnawa,"Dug Well",W14688,1997,NA,11.6,NA,11.6
+UP,Baghpat,Baghpat,Baghpat,28.93333333,77.21666667,Baghpat,"Dug Well",W14685,1997,12.01,11.06,10.84,11.96
+UP,Baghpat,Pilana,Pilana,28.885,77.36,"Khaspur panchi","Dug Well",W14690,1996,8.3,15.42,8.75,9.07
+UP,Baghpat,Chhaprauli,Chhaprauli,29.26666667,77.15833333,Tanda2,"Dug Well",W15503,1996,7.3,7.85,8.69,9.15
+UP,Baghpat,Baghpat,Baghpat,28.93333333,77.21666667,Baghpat,"Dug Well",W14685,1996,10.81,11.31,10.96,12.69
+UP,Baghpat,Binauli,Binauli,29.10833333,77.42666667,Burnawa,"Dug Well",W14688,1996,11.6,11.6,11.6,NA
+UP,Baghpat,Baraut,Baraut,29.1,77.26166667,Baraut,"Dug Well",W14686,1996,9.27,10.25,10.3,10.4

@@ -1,0 +1,606 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2018,NA,32.76,43.11,NA
+KA,Chikkaballapura,Chikballapur,Gudibanda,13.67611111,77.68416667,Gudibandeii,"Dug Well",W24538,2018,NA,1.8,4.6,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2018,NA,14.28,15.22,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2018,NA,3.77,4.92,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2018,NA,3,3.75,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2018,NA,3.5,2.95,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2018,NA,1.4,3.46,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2018,NA,29.35,30.36,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2018,NA,10.35,12.5,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2018,NA,29.6,43.88,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2018,NA,10.51,45.77,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2018,NA,10.96,2.23,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2018,NA,1.28,5.02,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.31527778,78.06666667,Gajahalli,"Dug Well",W24423,2018,NA,1.14,1.13,NA
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.74305556,77.75138889,Hampasandra,"Dug Well",W24560,2018,NA,1.75,2.55,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2018,NA,54.48,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2018,NA,NA,13.3,13.3
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2018,NA,NA,54.51,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2018,NA,NA,NA,68.95
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,"Dibburahalli PZ","Bore Well",W24503,2018,NA,22.51,22.76,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.40555556,78.05527778,"Chintamani A","Dug Well",W24458,2018,NA,1.33,1.9,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2018,NA,3.57,12.72,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2017,45.36,40.73,36.54,NA
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.74305556,77.75138889,Hampasandra,"Dug Well",W24560,2017,9.7,7.38,1.12,10
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2017,12.72,7.82,1.22,12.72
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2017,4.97,4.27,2.37,5.26
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2017,6.7,1.19,'0.8,13.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2017,8.6,4.75,2.65,7.56
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2017,1.77,1.46,'0.65,1.74
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2017,10.59,9.39,10.35,9.5
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2017,1.28,1.38,'0.85,1.16
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2017,6,6.55,1.82,7.42
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2017,67.98,67.98,57.41,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2017,4.61,4.44,2.92,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2017,32.6,31.2,28.44,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2017,54.11,53.74,37.62,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2017,47.14,44.82,40.82,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2017,48.09,48.91,6.11,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2017,68.95,68.95,68.95,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2017,NA,6.47,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.40555556,78.05527778,"Chintamani A","Dug Well",W24458,2017,3.4,2.69,1.1,3.11
+KA,Chikkaballapura,Chikballapur,Gudibanda,13.67611111,77.68416667,Gudibandeii,"Dug Well",W24538,2017,1.35,1.75,1.22,3.1
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,"Dibburahalli PZ","Bore Well",W24503,2017,24.4,24.4,17.74,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.31527778,78.06666667,Gajahalli,"Dug Well",W24423,2017,1.1,1.21,'0.9,1.37
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2017,15.1,15.08,14.28,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2016,9.09,NA,8.29,12.72
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.74305556,77.75138889,Hampasandra,"Dug Well",W24560,2016,4.26,2.38,6.26,5.17
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2016,41.97,NA,51,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2016,29.84,NA,30.76,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2016,35.86,NA,35.48,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2016,68.95,NA,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2016,9.65,NA,8.44,9.4
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2016,1.06,NA,1.43,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2016,13.81,NA,14.27,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2016,3.5,NA,4.71,7.86
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2016,1.97,NA,3.4,5.68
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2016,37.86,NA,38.58,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2016,4.8,NA,NA,6.9
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2016,3.22,NA,4.32,4.32
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2016,1.25,NA,1.61,2.3
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,Dibburahalli1,"Bore Well",W18705,2016,19.51,NA,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2016,43.72,NA,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2016,63.15,60.02,57.81,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.31527778,78.06666667,Gajahalli,"Dug Well",W24423,2016,1.04,'0.86,1.05,'0.88
+KA,Chikkaballapura,Chintamani,Chintamani,13.40555556,78.05527778,"Chintamani A","Dug Well",W24458,2016,1.3,1.35,2,1.9
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,"Dibburahalli PZ","Bore Well",W24503,2016,NA,16.96,23.54,NA
+KA,Chikkaballapura,Chikballapur,Gudibanda,13.67611111,77.68416667,Gudibandeii,"Dug Well",W24538,2016,1.24,1.18,5.25,2.37
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2016,3.53,NA,4.2,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2015,9.52,12.72,12.72,12.72
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.74305556,77.75138889,Hampasandra,"Dug Well",W24560,2015,8.21,6.7,8.78,9.3
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,2015,NA,NA,NA,58.55
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2015,13.45,13.45,13.45,13.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2015,NA,28.25,NA,42.4
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2015,31.42,32.2,NA,41.37
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2015,NA,47.74,NA,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2015,40.25,38.75,NA,40.75
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2015,9.15,11.05,9.4,8.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2015,9,2.72,2.4,9
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2015,14.87,15.18,NA,14.87
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2015,8.64,NA,7.35,8.64
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2015,NA,6.47,4.41,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2015,46.47,41.96,NA,46.47
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2015,7.3,13.3,4.88,8.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2015,5.83,2.57,3.52,5.82
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2015,1.29,2.15,1.23,1.9
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2015,44.7,37.16,NA,43.61
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2015,NA,NA,67.98,NA
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2015,NA,19.21,NA,19.21
+KA,Chikkaballapura,Chintamani,Chintamani,13.31527778,78.06666667,Gajahalli,"Dug Well",W24423,2015,'0.97,1.1,'0.78,1.14
+KA,Chikkaballapura,Chintamani,Chintamani,13.40555556,78.05527778,"Chintamani A","Dug Well",W24458,2015,4.69,5,2.97,6.5
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,"Dibburahalli PZ","Bore Well",W24503,2015,NA,26.6,24.57,33.9
+KA,Chikkaballapura,Chikballapur,Gudibanda,13.67611111,77.68416667,Gudibandeii,"Dug Well",W24538,2015,'0.71,4.5,1.75,3.45
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2015,56.31,45.58,NA,56.31
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2014,8.5,8.89,8.2,8.7
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.74305556,77.75138889,Hampasandra,"Dug Well",W24560,2014,4.93,NA,5,5.8
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2014,51.43,47.28,57.9,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2014,13.45,13.45,13.45,13.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2014,29.07,27.65,28.49,29.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2014,30.83,28.29,31.42,29.8
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2014,42.55,42.59,46.31,47.04
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2014,36.85,37.46,37.52,38.05
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2014,8.95,12.65,9.48,9.95
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2014,9,9,9,6
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2014,14.65,14.14,14.78,14.42
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2014,5.9,3,4.85,5.12
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2014,41.65,38.46,41.96,38.26
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2014,4.2,5.85,3.6,6.58
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2014,5.35,3.37,3.28,4.8
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2014,1.95,2.15,1.37,3
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2014,44.76,40.29,NA,43.11
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2014,19.21,8.46,19.21,19.21
+KA,Chikkaballapura,Chintamani,Chintamani,13.31527778,78.06666667,Gajahalli,"Dug Well",W24423,2014,1.1,NA,'0.85,4.55
+KA,Chikkaballapura,Chintamani,Chintamani,13.40555556,78.05527778,"Chintamani A","Dug Well",W24458,2014,3.89,NA,3.24,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,"Dibburahalli PZ","Bore Well",W24503,2014,24.3,24.35,24.49,24.12
+KA,Chikkaballapura,Chikballapur,Gudibanda,13.67611111,77.68416667,Gudibandeii,"Dug Well",W24538,2014,6.08,2.1,5.9,2.6
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2014,12.72,12.72,12.72,12.72
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,77.79166667,Bagepalli,"Dug Well",W05407,2013,NA,NA,NA,15.95
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,78.08333333,Puligallu-A,"Dug Well",W31065,2013,NA,14,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,2013,NA,16.35,NA,16.35
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2013,10.62,10.08,8.2,10.32
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2013,NA,6.96,NA,7.01
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2013,NA,NA,NA,19.04
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.81944444,Ganjigunte,"Dug Well",W05628,2013,NA,NA,NA,16.9
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2013,NA,NA,NA,89.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2013,NA,NA,NA,8.81
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2013,57.28,48.77,44.68,55.23
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,2013,NA,NA,NA,69.05
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2013,NA,NA,NA,10.41
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2013,13.45,NA,13.45,13.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2013,49.3,25.29,27.72,28.14
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2013,28.3,25.95,28.19,26.97
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2013,NA,48.69,47.97,58.94
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2013,NA,NA,NA,7.41
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2013,24.65,25.53,25.33,25.33
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2013,NA,47.01,NA,59.3
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2013,NA,19.1,NA,19.1
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,2013,NA,NA,NA,68.98
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2013,13.35,11.37,13.05,12.52
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2013,9,1.6,9,5.74
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2013,14.63,12.68,14.28,14.4
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2013,NA,NA,NA,12.6
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2013,3.47,2.17,2.04,3.56
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2013,39.26,37.85,37.08,39.19
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.39888889,77.92472222,PIndipapanahalli,"Dug Well",W06310,2013,NA,8.91,NA,8.91
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2013,NA,13.3,2.5,13.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2013,NA,3.55,2.83,4.21
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2013,NA,NA,NA,9.5
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2013,3.1,1.43,1.64,3.1
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,2013,NA,NA,NA,59.16
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2013,NA,NA,NA,11.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2013,NA,17.46,37.38,41.99
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2013,NA,64.63,NA,67.98
+KA,Chikkaballapura,Chintamani,Chintamani,13.58472222,78.13888889,Munganahalli,"Dug Well",W21643,2013,NA,NA,NA,'0.89
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2013,6.59,NA,8.59,6.59
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70277778,78.10277778,Chelur1,"Dug Well",W22298,2013,NA,NA,NA,13.94
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45,77.625,Bandammanahalli,"Dug Well",W22299,2013,NA,NA,NA,12.5
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,"Dibburahalli PZ","Bore Well",W24503,2013,24.4,25.55,24.35,NA
+KA,Chikkaballapura,Chikballapur,Gudibanda,13.67611111,77.68416667,Gudibandeii,"Dug Well",W24538,2013,5.2,1.1,1.8,2.55
+KA,Chikkaballapura,Chintamani,Chintamani,13.44166667,78.01666667,Dalasanur1,"Dug Well",W31058,2013,NA,NA,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yagavakote-A,"Dug Well",W31059,2013,NA,7.18,NA,NA
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda2,"Dug Well",W31062,2013,4.32,4.77,NA,8.25
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2013,7,8.85,7.92,19
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,77.79166667,Bagepalli,"Dug Well",W05407,2012,NA,15.95,NA,NA
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda2,"Dug Well",W31062,2012,NA,NA,3.14,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,2012,NA,16.35,16.35,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2012,NA,9.56,5.35,8.32
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2012,NA,2.7,4.4,3.76
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2012,NA,NA,NA,8.81
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2012,NA,23.64,38.77,30.33
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.6,Gowdagere1,"Dug Well",W05633,2012,NA,12.35,NA,12.35
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2012,NA,13.45,13.45,13.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2012,NA,26.8,25.07,24.7
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2012,NA,25.77,26.17,26.15
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2012,NA,NA,NA,7.41
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2012,NA,34.1,22.46,32.5
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2012,NA,5.19,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2012,NA,19.1,19.1,19.1
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2012,NA,10.97,10.65,11.21
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2012,NA,4.44,'0.9,'0.61
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2012,NA,9.84,12.17,11.87
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2012,NA,12.6,NA,12.6
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2012,NA,2.67,1.48,2.83
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2012,NA,23.42,37.19,35.54
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.39888889,77.92472222,PIndipapanahalli,"Dug Well",W06310,2012,NA,NA,NA,8.91
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2012,NA,NA,NA,13.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2012,NA,3.69,2.01,3.99
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2012,NA,5.3,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.63333333,78.075,Yenigadale,"Dug Well",W06622,2012,NA,19.22,19.22,19.22
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2012,NA,1.27,1.21,1.36
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2012,NA,11.25,NA,11.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2012,NA,14.91,11.94,14.89
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2012,NA,53.4,64.37,63.58
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2012,NA,3.85,4.13,19.21
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70277778,78.10277778,Chelur1,"Dug Well",W22298,2012,NA,NA,NA,13.94
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45,77.625,Bandammanahalli,"Dug Well",W22299,2012,NA,12.5,NA,NA
+KA,Chikkaballapura,Sidlaghatta,"Chik Ballapur",13.48611111,77.81972222,Ganjikunte-A,"Dug Well",W22302,2012,NA,12,NA,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,"Dibburahalli PZ","Bore Well",W24503,2012,NA,NA,24.93,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yagavakote-A,"Dug Well",W31059,2012,NA,NA,7.18,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2012,NA,4.04,7.52,7.64
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2011,4.29,2.98,2.85,3.8
+KA,Chikkaballapura,Sidlaghatta,"Chik Ballapur",13.48611111,77.81972222,Ganjikunte-A,"Dug Well",W22302,2011,NA,NA,NA,2.1
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2011,5.59,6.06,6.36,7.23
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2011,1.85,NA,1.32,3.14
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2011,NA,8.81,NA,8.81
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2011,24.18,17.93,21.71,22.88
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.6,Gowdagere1,"Dug Well",W05633,2011,NA,12.35,NA,12.35
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2011,NA,NA,NA,10.41
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2011,12.71,NA,11.35,13.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2011,22.94,19.95,21.88,21.66
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2011,26.81,28.55,26.99,26.32
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2011,7.41,7.41,NA,7.41
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2011,18.49,25.6,16.8,16.35
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2011,NA,NA,NA,5.19
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2011,NA,19.1,19.1,19.1
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2011,10.61,10.61,9.43,8.85
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2011,2.38,1.1,3.7,5
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2011,11.3,7.78,9.81,9.59
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2011,NA,NA,NA,6.7
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2011,3.07,1.58,1.19,2.37
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2011,35.64,25.12,30.31,28.01
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.39888889,77.92472222,PIndipapanahalli,"Dug Well",W06310,2011,NA,NA,NA,8.91
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2011,NA,13.3,NA,5.9
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2011,3.62,2.81,2.71,3.95
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2011,9.5,9.5,9.5,9.5
+KA,Chikkaballapura,Chintamani,Chintamani,13.63333333,78.075,Yenigadale,"Dug Well",W06622,2011,NA,19.22,19.22,19.22
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2011,'0.79,1.05,'0.87,1.8
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2011,NA,11.25,NA,11.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2011,10.59,5.86,7.77,8.01
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2011,54.66,46.64,45.66,67.98
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2011,4.17,2.23,2.47,4.42
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70277778,78.10277778,Chelur1,"Dug Well",W22298,2011,NA,NA,NA,13.94
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45,77.625,Bandammanahalli,"Dug Well",W22299,2011,NA,NA,NA,12.5
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,2011,NA,NA,NA,17.25
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2010,4.1,NA,2.93,6.53
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.62638889,77.57083333,Gauribidanur1,"Dug Well",W21902,2010,NA,10.18,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2010,4.94,7.56,5.62,10.32
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2010,NA,1.84,NA,3.28
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2010,NA,8.81,8.81,8.81
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2010,25.35,22.18,22.7,33.7
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.6,Gowdagere1,"Dug Well",W05633,2010,NA,12.35,12.35,12.35
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2010,NA,10.41,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2010,13.45,9.94,12.51,11.51
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2010,23.14,18.9,23.87,20.97
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2010,29.19,25.77,29.27,32.73
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2010,NA,7.41,7.41,7.41
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2010,37.15,19.1,24.36,26.1
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2010,NA,5.19,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2010,19.1,19.1,19.1,19.1
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2010,11.48,NA,NA,11.48
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2010,2.33,8.66,2.8,4.03
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2010,9.85,NA,10.55,10.87
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2010,12.6,12.6,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2010,1.27,2.43,1.03,3.49
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2010,14.54,NA,19.61,30.35
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2010,2.04,13.3,13.3,13.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2010,3.43,9.45,3.01,4.74
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2010,9.5,9.5,9.5,9.5
+KA,Chikkaballapura,Chintamani,Chintamani,13.63333333,78.075,Yenigadale,"Dug Well",W06622,2010,NA,19.22,19.22,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2010,'0.64,10.96,'0.53,1.93
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2010,NA,NA,11.25,11.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2010,9.35,6.75,8.21,10.06
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2010,54.21,49.07,42.5,59.67
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2010,2.91,19.21,2.13,5.91
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,2010,16.35,NA,NA,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2009,6.32,3.48,3.9,5.48
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2009,NA,NA,2.91,19.21
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2009,19.04,1.25,19.04,19.04
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2009,NA,8.81,8.81,8.81
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2009,25.73,22.97,21.83,26.78
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.6,Gowdagere1,"Dug Well",W05633,2009,12.35,12.35,NA,12.35
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2009,10.41,10.41,NA,10.41
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2009,13.45,12.88,13.45,13.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2009,21.83,19.58,19.75,20.64
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2009,29.97,26.88,26.55,29.58
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2009,7.41,7.41,NA,7.41
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2009,33.21,20.49,20.75,21.85
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2009,NA,NA,8.59,12.7
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,78.08333333,Puligal,"Dug Well",W06290,2009,19.06,NA,3.26,5.76
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2009,19.1,19.1,19.1,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2009,9,8.29,9.95,8.08
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2009,4.25,2.64,2,4.43
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2009,11.4,9.86,10.28,10.78
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2009,4.62,NA,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2009,NA,2.23,1.57,2.64
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2009,31.43,28.19,29.56,30.34
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2009,NA,13.3,2.1,2.4
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2009,4.92,2.82,3.2,4.85
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2009,9.5,9.5,9.5,9.5
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2009,NA,1.48,'0.78,1.1
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2009,NA,11.25,11.25,11.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2009,6.3,5.55,5.01,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2009,58.98,60.4,60.48,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2009,10.32,9.4,8.37,5.42
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2008,6.15,NA,3.34,5.7
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2008,'0.36,NA,NA,1.03
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2008,NA,10.88,NA,12.61
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2008,NA,NA,1.12,19.04
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2008,NA,8.81,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2008,37.58,31.51,27.05,45.56
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.6,Gowdagere1,"Dug Well",W05633,2008,NA,12.35,NA,12.35
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,2008,20.9,NA,NA,28.95
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2008,NA,NA,10.41,10.41
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2008,NA,12.11,12.37,13.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2008,23.67,22,15.26,24.07
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2008,30.57,27.38,26.18,31.02
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2008,NA,NA,40.02,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2008,NA,7.41,NA,7.41
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2008,20.1,16.24,8.42,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,78.08333333,Puligal,"Dug Well",W06290,2008,NA,NA,3.3,19.06
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2008,NA,NA,5.19,5.19
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2008,NA,NA,17.08,19.1
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2008,NA,NA,9.46,8.88
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2008,4.4,3.52,2.11,8.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2008,12.76,12.92,9.02,12.96
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2008,5.8,NA,NA,7.4
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2008,2.03,2.26,1.69,3.17
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2008,31.73,NA,16.35,32.49
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2008,5.15,13.3,13.3,5.52
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2008,3.45,3.29,2.48,4.67
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2008,9.5,9.5,9.5,9.5
+KA,Chikkaballapura,Chintamani,Chintamani,13.63333333,78.075,Yenigadale,"Dug Well",W06622,2008,NA,NA,NA,19.22
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2008,10.96,1.72,'0.47,10.96
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2008,11.25,11.25,11.25,11.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2008,8.48,8.07,6.37,24.81
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2008,NA,NA,58.47,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.58472222,78.13888889,Munganahalli,"Dug Well",W21643,2008,NA,NA,NA,3.48
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2008,NA,8.7,6.96,10.32
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,77.79166667,Bagepalli,"Dug Well",W05407,2007,NA,NA,15.95,NA
+KA,Chikkaballapura,Malur,Bagepalli,13.74166667,77.84,Yellampalli,"Dug Well",W21373,2007,NA,NA,NA,6.32
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,2007,NA,NA,16.35,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2007,8.32,8.84,6.91,10.32
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2007,NA,10.74,10.81,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2007,2.56,NA,2.65,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2007,NA,NA,8.81,8.81
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2007,56.98,NA,30.9,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.6,Gowdagere1,"Dug Well",W05633,2007,12.35,NA,12.35,12.35
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2007,NA,6.21,NA,10.41
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2007,NA,13.45,13.45,12.21
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2007,22.82,21.8,22.83,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2007,30.8,29.4,27.61,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2007,NA,NA,7.41,7.41
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2007,32.95,NA,19.39,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2007,19.1,NA,19.1,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2007,NA,10.35,8.06,10.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2007,7,6.3,2.43,6.66
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2007,14.16,13.53,13.17,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2007,1.37,3.57,1.69,3.52
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2007,31.76,25.16,33.55,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2007,13.3,NA,13.3,13.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2007,7.57,7.85,2.99,5.5
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2007,9.5,9.5,9.5,9.5
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2007,'0.7,2.35,1.02,10.96
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,2007,NA,15.66,NA,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2007,11.25,11.25,11.25,11.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2007,7.91,18.24,5.53,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2007,58.98,48.98,60.92,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2007,NA,NA,NA,7.71
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2006,5.45,3.1,3.75,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.38416667,77.69833333,Nandi,"Bore Well",W20945,2006,48.98,NA,NA,48.98
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2006,10.09,5.81,10.31,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2006,5.75,NA,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2006,49.28,NA,49.28,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.6,Gowdagere1,"Dug Well",W05633,2006,NA,NA,12.35,12.35
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2006,NA,2.21,4.71,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2006,9.8,5.5,10.16,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2006,30.35,20.6,20.3,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2006,29.54,28.3,29.25,29.18
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2006,4.63,NA,NA,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2006,NA,33.95,NA,33.95
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2006,NA,7.14,NA,12.8
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,78.08333333,Puligal,"Dug Well",W06290,2006,6.36,NA,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2006,NA,19.1,19.1,19.1
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2006,13.35,9.85,NA,12.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2006,6.23,4.24,5.86,7.12
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2006,13.78,13.18,13.17,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2006,3.55,3.07,1.69,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2006,24.21,19.01,24.43,22.66
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2006,NA,5.1,NA,6.6
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2006,NA,NA,8.07,6.94
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2006,NA,9.5,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2006,2.3,3.1,1.3,3.88
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,2006,NA,10.24,12.16,2.36
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2006,NA,11.25,11.25,11.25
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66833333,77.50333333,Vidhuraswath,"Bore Well",W20746,2006,10.76,4.66,11.81,10.75
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2006,NA,6.72,7.72,7.58
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2005,NA,6.25,NA,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55583333,77.90916667,Dibburahalli1,"Bore Well",W18705,2005,NA,26.12,NA,26.18
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2005,16.01,17.38,5.31,19.21
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2005,NA,NA,19.04,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2005,-0.7,NA,-0.7,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2005,NA,2.57,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2005,67.38,NA,59.65,69.18
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.6,Gowdagere1,"Dug Well",W05633,2005,NA,NA,10.35,NA
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,2005,NA,NA,-0.95,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2005,NA,NA,4.01,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2005,NA,9.84,8,12.2
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2005,23.42,19.93,20.92,23.4
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2005,29.5,26.66,28.94,28.2
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2005,NA,NA,-1.06,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2005,NA,4.63,'0.61,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2005,67.85,NA,42.95,64.95
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2005,31.3,45.69,19.7,37.3
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,78.08333333,Puligal,"Dug Well",W06290,2005,NA,7.63,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2005,NA,NA,17.24,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,2005,NA,NA,-1.02,68.98
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2005,NA,11.86,7.35,11.85
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2005,NA,5.2,1.1,7.6
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2005,15.91,14.42,13.4,15.58
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2005,NA,6.39,1.67,8.64
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2005,25.26,22.34,16.76,25.26
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2005,NA,5.31,3.7,7.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2005,NA,7.55,5.2,9.05
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2005,NA,NA,9.5,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2005,NA,1.96,1.3,3.7
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,2005,15.86,NA,13.66,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2005,NA,NA,11.24,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2005,NA,8.78,6.47,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2004,16.08,5.25,5.32,5.51
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,2004,NA,NA,NA,3.2
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.49166667,77.47083333,Bevinahalli,"Dug Well",W05416,2004,NA,7.41,8.68,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2004,NA,NA,16.52,16.17
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.81944444,Ganjigunte,"Dug Well",W05628,2004,15.25,NA,NA,14.37
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2004,7.59,2.1,2.04,2.54
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2004,29.28,55.85,67.49,60.49
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2004,12.05,10.95,10.61,11.52
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2004,21.5,25.34,19.59,19.91
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2004,26.8,23.87,26.62,25.62
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2004,52.34,55.35,NA,49.69
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2004,7.66,NA,2.71,6.02
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2004,NA,29.8,25.8,32.39
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2004,NA,24.53,25.32,27.35
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,78.08333333,Puligal,"Dug Well",W06290,2004,NA,NA,7.41,8.08
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2004,3.18,NA,1.74,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,2004,50.48,40.65,47.66,27.28
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2004,NA,NA,8.95,9.34
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2004,5.8,6.34,4.24,6.82
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2004,14.76,14.02,13.95,15.06
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2004,8.07,7,5.08,7.02
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2004,24.46,20.06,21.88,23.39
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.39888889,77.92472222,PIndipapanahalli,"Dug Well",W06310,2004,NA,NA,NA,4.49
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2004,6.4,9.84,3.78,8.42
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2004,4.9,4.38,6.96,7.3
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2004,NA,5.98,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2004,2.15,2.75,1.02,1.71
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2004,NA,11.5,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2003,NA,10.64,10.2,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2003,NA,11.24,NA,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2003,NA,16.88,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2003,8.3,8.55,6.2,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,77.99166667,Upparpet,"Dug Well",W06620,2003,4.25,NA,7.55,8.45
+KA,Chikkaballapura,Chintamani,Chintamani,13.49305556,78.15972222,Yegavakote,"Dug Well",W06621,2003,NA,NA,4.34,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.63333333,78.075,Yenigadale,"Dug Well",W06622,2003,NA,NA,NA,12.95
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2003,NA,3.46,2,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,2003,NA,4.71,NA,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.3875,77.87083333,Sidlaghatta,"Dug Well",W06631,2003,NA,NA,11.65,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.85416667,78.00416667,Billur,"Dug Well",W05408,2003,NA,NA,3.95,8.25
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2003,NA,14.85,NA,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2003,NA,4.14,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2003,NA,3.82,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.06666667,Chintamani1,"Dug Well",W05630,2003,NA,NA,1.35,4.78
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2003,NA,49.28,NA,NA
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,2003,NA,19.2,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.48611111,77.80277778,Jayanti,"Dug Well",W05960,2003,NA,NA,6.71,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.5375,78.13333333,Iragampalli,"Dug Well",W05961,2003,12.15,NA,10.5,12.6
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2003,NA,13.73,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2003,NA,19.41,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2003,NA,26.58,NA,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.33333333,77.82638889,Kaiwara1,"Dug Well",W05973,2003,NA,NA,1.06,7.25
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2003,NA,26.4,NA,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2003,NA,19.85,NA,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,78.08333333,Puligal,"Dug Well",W06290,2003,NA,NA,4.56,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2003,1.7,5.32,4.4,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.40277778,77.725,Nandi1,"Dug Well",W06294,2003,NA,NA,17.4,16.22
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,2003,NA,22.93,NA,NA
+KA,Chikkaballapura,Chintamani,Chintamani,13.6,78.075,Motamakalahalli,"Dug Well",W06297,2003,10.9,NA,7.55,12.41
+KA,Chikkaballapura,Chintamani,Chintamani,13.43333333,78.12638889,Murugamalla,"Dug Well",W06298,2003,7.4,NA,5.62,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2003,NA,7.65,5.94,8.77
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2002,9.65,3.85,10.59,8.7
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2002,5.27,2.87,6.32,6.27
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2002,15.97,NA,16.02,15.39
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2002,6.75,5,7.46,6.41
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2002,2.43,2.05,2.81,3.2
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,2002,2.22,NA,4.01,2.66
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2002,11.98,NA,13.41,10.31
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2002,3.34,NA,3.72,2.64
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2002,3.4,NA,2.36,3.3
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2002,30.98,NA,38.08,31.78
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,2002,17.79,NA,18.4,16.48
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2002,12.57,NA,12.8,11.8
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2002,18.71,NA,19.1,17.5
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2002,23.06,NA,25.14,21.94
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2002,25.6,NA,22.25,26.95
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2002,15.13,NA,16.96,12.67
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2002,3.88,1.5,4.18,3.22
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,2002,21.28,NA,21.53,19.63
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2002,10.08,NA,10.48,10.22
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2001,2.77,3.94,1.09,4.35
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2001,NA,10.27,NA,10.31
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,2001,19.25,17.65,18.05,18.19
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2001,4.24,1.59,1,4.1
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2001,26.25,26.68,17.42,24.7
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2001,20.78,28.95,10.15,18.05
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2001,27.76,22.54,19.44,24.29
+KA,Chikkaballapura,Chintamani,Chintamani,13.30833333,78.1,Kuruburu,"Bore Well",W05963,2001,NA,NA,17.7,19.6
+KA,Chikkaballapura,Chintamani,Chintamani,13.3375,77.99166667,Kaiwara,"Bore Well",W05962,2001,13.11,NA,10.18,13
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,2001,18.25,16.5,14.5,18.95
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2001,29.08,36.73,23.18,27.38
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2001,4.25,3.05,3.3,3.72
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2001,15.29,10.62,8.97,14.04
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,2001,NA,11.53,NA,12.72
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,2001,5.2,3.44,6.66,8.36
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2001,1.8,2,'0.75,2.63
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2001,7.23,5.5,2.05,8.33
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2001,19.77,15.02,13.37,16.47
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2001,7.12,4.55,2.5,8.02
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,2000,NA,27.1,23.94,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,2000,3,3.62,1.24,6.12
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,2000,5.87,NA,6.34,9.14
+KA,Chikkaballapura,Chintamani,Chintamani,13.4,78.05833333,Chintamani,"Bore Well",W05629,2000,3.61,3.1,3.07,3.65
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,2000,3.25,NA,'0.3,4.55
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,2000,18.94,22.15,17.59,26.31
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,2000,18.21,12.52,9.5,14.37
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,2000,19.58,16.18,18.76,18.51
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,2000,NA,NA,8.3,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,77.79166667,Bagepalli,"Dug Well",W05407,2000,NA,NA,6,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,2000,32.93,25.84,24.57,32.12
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,2000,8.73,3.56,3.74,6.9
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,2000,10.15,9.58,9.53,10.85
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,2000,'0.78,2.5,1.15,2.7
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,2000,1.55,NA,'0.7,2.2
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,2000,5.74,7.1,4.05,8.01
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.58333333,77.74166667,Peresandra,"Dug Well",W06296,2000,NA,3.45,NA,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,2000,17.84,17.92,18.14,18.45
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,2000,17.62,11.38,15.38,17.9
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,2000,NA,31.78,28.1,36.05
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,1999,4.94,2.42,1.2,2.25
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,1999,NA,5.48,5.9,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.61666667,77.86666667,Sadali,"Dug Well",W06630,1999,NA,6.73,8.38,7.63
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,77.79166667,Bagepalli,"Dug Well",W05407,1999,12.11,8.01,NA,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,1999,NA,10.59,NA,14.5
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,1999,11.93,8.3,13.61,11.85
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,1999,1.95,'0.97,NA,2.35
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.51111111,77.7625,Doddapayalagurki,"Dug Well",W05627,1999,3.76,NA,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,1999,42.84,30.9,37.45,33.08
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,1999,16.08,14.4,16.44,19.57
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55555556,77.90277778,Dibburahalli,"Dug Well",W05641,1999,NA,11.08,NA,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.77083333,77.775,Kadehalli,"Dug Well",W05955,1999,NA,13.15,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,1999,35.25,25.27,NA,30.5
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.70833333,77.86944444,Mittemari,"Bore Well",W06287,1999,26.4,NA,23.2,24.8
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.76388889,77.96666667,Pathapalya-2,"Bore Well",W06288,1999,NA,NA,23.7,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,1999,2.43,'0.97,NA,4.75
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,1999,15.6,15.24,17.5,15.72
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.58333333,77.74166667,Peresandra,"Dug Well",W06296,1999,NA,2.76,3.95,4.75
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.5,77.53333333,Machenahalli,"Bore Well",W06299,1999,9.96,9.76,9.61,9.37
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,1999,5.92,3.36,5.2,4.3
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,1999,4.71,2.76,3.02,3.27
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,1999,19.87,17.85,19.8,18.6
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.69444444,77.63611111,Vatadahosahalli,"Bore Well",W06625,1999,3.26,2.78,3.65,3.1
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,1998,2.48,4.08,1.25,5.72
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.61666667,77.86666667,Sadali,"Dug Well",W06630,1998,NA,7.7,7.81,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,77.79166667,Bagepalli,"Dug Well",W05407,1998,NA,7.31,7.35,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,1998,13.6,8.52,8.1,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.7,78.1,Chelur,"Bore Well",W05624,1998,NA,NA,7.35,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,1998,1.38,4.03,'0.3,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.51111111,77.7625,Doddapayalagurki,"Dug Well",W05627,1998,NA,2.82,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.63194444,77.57083333,Gauribidanur,"Bore Well",W05632,1998,NA,NA,31.85,NA
+KA,Chikkaballapura,Gudibanda,Gudibanda,13.66666667,77.75,Gudibanda1,"Bore Well",W05634,1998,NA,NA,13.05,NA
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55555556,77.90277778,Dibburahalli,"Dug Well",W05641,1998,NA,10.72,NA,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.77083333,77.775,Kadehalli,"Dug Well",W05955,1998,NA,9.16,NA,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.66666667,77.425,Hampasandra,"Bore Well",W05964,1998,NA,NA,24.07,NA
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.75416667,77.79444444,Pathapalya-3,"Dug Well",W06289,1998,4.45,3.97,2.15,5.3
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,1998,'0.94,1.22,1.82,3.73
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.45833333,77.69166667,Pathapalya-1,"Bore Well",W06295,1998,NA,NA,16.6,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.58333333,77.74166667,Peresandra,"Dug Well",W06296,1998,NA,6.22,1.9,10.28
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,1998,5.74,4.48,2.6,8.22
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,1998,1.13,2.13,1.12,4.37
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.50833333,77.95833333,Madivala,"Bore Well",W06309,1998,NA,NA,16.62,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,1998,3.54,6.04,3.06,8.79
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.61666667,77.86666667,Sadali,"Dug Well",W06630,1997,NA,NA,7.84,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,1997,7.95,5.02,5.45,8.06
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,1997,11.26,5.32,4.54,8.34
+KA,Chikkaballapura,Sidlaghatta,Sidlaghatta,13.55555556,77.90277778,Dibburahalli,"Dug Well",W05641,1997,NA,10.04,10.94,11.62
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,1997,5.11,3.36,1.22,5.19
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.51111111,77.7625,Doddapayalagurki,"Dug Well",W05627,1997,5.06,3.46,2.38,5.49
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,1997,6.82,2.63,4.61,6.38
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,77.79166667,Bagepalli,"Dug Well",W05407,1997,12.36,3.94,7.53,10.26
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.58333333,77.74166667,Peresandra,"Dug Well",W06296,1997,8.58,8.97,2.79,10.84
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,1997,5.34,2.69,4.16,4.82
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,1997,3.56,1.88,1.28,3.35
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.77083333,77.775,Kadehalli,"Dug Well",W05955,1997,NA,6.83,9.38,6.13
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,1997,14.14,9.58,NA,13.49
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.75416667,77.79444444,Pathapalya-3,"Dug Well",W06289,1997,6.48,2.54,3.27,NA
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.48333333,77.44166667,Taridal,"Dug Well",W06623,1997,NA,NA,NA,4.48
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.58333333,Thondebhavi,"Dug Well",W06624,1996,3.86,6.54,3.02,7.38
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55,77.75833333,Settigere,"Dug Well",W06619,1996,6.94,12.74,4.97,14.13
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.53888889,77.60555556,Pura,"Dug Well",W06301,1996,1.86,5.52,2.55,7.02
+KA,Chikkaballapura,Gauribidanur,Gauribidanur,13.58333333,77.60833333,Namagondlu,"Dug Well",W06300,1996,4.42,8.06,2.41,10.05
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.58333333,77.74166667,Peresandra,"Dug Well",W06296,1996,7.54,10.86,5.81,10.66
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.55166667,77.73333333,Mandikal,"Dug Well",W06293,1996,1.88,2.64,1.93,3.24
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.75416667,77.79444444,Pathapalya-3,"Dug Well",W06289,1996,2.72,5.32,2.26,5.18
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.77083333,77.775,Kadehalli,"Dug Well",W05955,1996,6.54,NA,7.44,NA
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.51111111,77.7625,Doddapayalagurki,"Dug Well",W05627,1996,5.08,6.28,NA,7.21
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.83333333,77.83333333,Gulur,"Dug Well",W05625,1996,4.24,9.28,1.33,7.13
+KA,Chikkaballapura,Chikballapur,"Chik Ballapur",13.53333333,77.79583333,Basettihalli,"Dug Well",W05415,1996,14.08,12.34,NA,17.16
+KA,Chikkaballapura,Bagepalli,Bagepalli,13.78333333,77.79166667,Bagepalli,"Dug Well",W05407,1996,4.38,11.64,3.4,NA

@@ -1,0 +1,322 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+PB,Faridkot,Jaito,Kotkapura,30.45416667,74.98333333,"Baja Khana","Dug Well",W13101,2018,20.34,18.05,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.60833333,74.86555556,"Bead Sikhanwala- Pz","Tube Well",W30291,2018,9.99,NA,NA,9.3
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2018,11.05,9.1,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2018,8.41,7.63,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2018,14.65,6.7,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2018,'0.87,1,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2018,18.47,16.6,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2018,NA,4.26,4.25,NA
+PB,Faridkot,Faridkot,Kotkapura,30.66611111,74.85861111,Nangal-Pz,"Tube Well",W33029,2018,11.3,8.25,NA,NA
+PB,Faridkot,Faridkot,Kotkapura,30.55194444,74.75416667,"Wara Dwarka-Pz","Tube Well",W33023,2018,4.29,3.55,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.64638889,74.63944444,Sukhwala-Pz,"Tube Well",W33027,2018,2.37,2.18,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.68972222,74.52722222,"Jand Sahib-Pz","Tube Well",W33030,2018,4.6,4.5,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.70694444,74.59027778,Sadiq-Pz,"Tube Well",W33032,2018,5.22,5.25,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.72388889,74.70027778,"Aryan Wala-Pz","Tube Well",W33033,2018,2.62,1.1,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.78583333,74.54611111,Killi-Pz,"Tube Well",W33038,2018,4.56,4.62,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.79333333,74.59,Mumra-Pz,"Tube Well",W33039,2018,6.86,6,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.67055556,74.62305556,"Sher Singh Wala- Pz","Tube Well",W30318,2018,3.46,2.81,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.41694444,74.93777778,Fatehgarh-Pz,"Tube Well",W30216,2018,NA,18.61,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.445,74.81444444,"Rorian Kapura-Pz","Tube Well",W30227,2018,NA,10.23,NA,NA
+PB,Faridkot,Faridkot,Kotkapura,30.61277778,74.87083333,"Deviwala I-Pz","Tube Well",W33025,2018,NA,6.75,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.6475,74.69527778,"Nawan Killa-Pz","Tube Well",W33028,2018,NA,1.45,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.52555556,74.91333333,"Behabal Kalan-Pz","Tube Well",W30257,2018,NA,11.66,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.53333333,74.85,Dhaipai-Pz,"Tube Well",W30262,2018,NA,7.41,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.53555556,74.79166667,"Koharwala- DW","Dug Well",W30263,2018,NA,6.67,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.56888889,74.70333333,"Chak Kalan-Pz","Tube Well",W30280,2018,NA,1.59,NA,NA
+PB,Faridkot,Faridkot,Kotkapura,30.61611111,74.79916667,Sandhwan-Pz,"Tube Well",W30295,2018,NA,6.5,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.62222222,74.70277778,"Ratti Rori-Pz","Tube Well",W30300,2018,NA,'0.95,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.68055556,74.76527778,Faridkot-Pz,"Tube Well",W30322,2018,NA,3.5,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.7,74.84944444,Dhudi-Pz,"Tube Well",W30329,2018,NA,13.12,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.74555556,74.63944444,Ghuiana-Pz,"Tube Well",W30355,2018,NA,4.6,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.79916667,74.76333333,Pahluwala-Pz,"Tube Well",W30376,2018,NA,4.45,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.69,74.79055556,Tehna-Pz,"Tube Well",W33031,2018,12.9,NA,NA,9.6
+PB,Faridkot,Jaito,Kotkapura,30.42638889,74.91888889,"Dal Singh Wala","Tube Well",W32148,2018,16.7,NA,NA,14.7
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2018,10.1,8.6,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.45416667,74.98333333,"Baja Khana","Dug Well",W13101,2017,21.25,17.75,26.26,18.7
+PB,Faridkot,Faridkot,Kotkapura,30.61611111,74.79916667,Sandhwan-Pz,"Tube Well",W30295,2017,NA,6,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2017,11.95,8.7,9.8,10.75
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2017,7.97,7.57,7.78,7.72
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2017,12.68,11.9,13.19,11.55
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2017,'0.7,1.01,'0.9,1.54
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2017,4.5,3.4,4.08,5.25
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2017,17.73,15.9,17.27,15.69
+PB,Faridkot,Faridkot,Faridkot,30.72388889,74.70027778,"Aryan Wala-Pz","Tube Well",W33033,2017,NA,1.4,'0.7,1.73
+PB,Faridkot,Faridkot,Faridkot,30.69,74.79055556,Tehna-Pz,"Tube Well",W33031,2017,9.47,9.1,9.12,NA
+PB,Faridkot,Jaito,Kotkapura,30.41694444,74.93777778,Fatehgarh-Pz,"Tube Well",W30216,2017,NA,17.1,18.95,NA
+PB,Faridkot,Jaito,Kotkapura,30.445,74.81444444,"Rorian Kapura-Pz","Tube Well",W30227,2017,NA,9.2,10.55,NA
+PB,Faridkot,Jaito,Kotkapura,30.52555556,74.91333333,"Behabal Kalan-Pz","Tube Well",W30257,2017,NA,11.8,11.9,NA
+PB,Faridkot,Jaito,Kotkapura,30.56888889,74.70333333,"Chak Kalan-Pz","Tube Well",W30280,2017,NA,2.25,1.8,NA
+PB,Faridkot,Faridkot,Faridkot,30.62222222,74.70277778,"Ratti Rori-Pz","Tube Well",W30300,2017,NA,1.8,'0.9,NA
+PB,Faridkot,Faridkot,Faridkot,30.68055556,74.76527778,Faridkot-Pz,"Tube Well",W30322,2017,NA,3.95,3.45,NA
+PB,Faridkot,Faridkot,Faridkot,30.7,74.84944444,Dhudi-Pz,"Tube Well",W30329,2017,NA,12.3,13.3,NA
+PB,Faridkot,Faridkot,Faridkot,30.74555556,74.63944444,Ghuiana-Pz,"Tube Well",W30355,2017,NA,4.55,4.9,NA
+PB,Faridkot,Faridkot,Kotkapura,30.61277778,74.87083333,"Deviwala Ii-Pz","Tube Well",W33026,2017,7.45,7.22,6.76,8.82
+PB,Faridkot,Faridkot,Kotkapura,30.66611111,74.85861111,Nangal-Pz,"Tube Well",W33029,2017,8.85,7.6,7.6,8.8
+PB,Faridkot,Faridkot,Kotkapura,30.55194444,74.75416667,"Wara Dwarka-Pz","Tube Well",W33023,2017,3.45,3.47,3.46,4.43
+PB,Faridkot,Faridkot,Kotkapura,30.61277778,74.87083333,Deviwala-Pz,"Tube Well",W33024,2017,11.15,6.66,7.97,7.03
+PB,Faridkot,Faridkot,Kotkapura,30.61277778,74.87083333,"Deviwala I-Pz","Tube Well",W33025,2017,6.62,6.07,6.53,6.99
+PB,Faridkot,Faridkot,Faridkot,30.64638889,74.63944444,Sukhwala-Pz,"Tube Well",W33027,2017,2.15,2.91,2.46,3
+PB,Faridkot,Faridkot,Faridkot,30.68972222,74.52722222,"Jand Sahib-Pz","Tube Well",W33030,2017,5.07,4.05,4.49,4.48
+PB,Faridkot,Faridkot,Faridkot,30.70694444,74.59027778,Sadiq-Pz,"Tube Well",W33032,2017,5.27,5.27,5.2,4.8
+PB,Faridkot,Faridkot,Faridkot,30.78583333,74.54611111,Killi-Pz,"Tube Well",W33038,2017,4.4,4.15,4.57,5.34
+PB,Faridkot,Faridkot,Faridkot,30.79333333,74.59,Mumra-Pz,"Tube Well",W33039,2017,6.62,6.1,6.5,6.45
+PB,Faridkot,Jaito,Kotkapura,30.60833333,74.86555556,"Bead Sikhanwala- Pz","Tube Well",W30291,2017,8.7,9.06,11.3,9.89
+PB,Faridkot,Faridkot,Faridkot,30.67055556,74.62305556,"Sher Singh Wala- Pz","Tube Well",W30318,2017,3.6,3.28,2.97,3.62
+PB,Faridkot,Faridkot,Faridkot,30.79916667,74.76333333,Pahluwala-Pz,"Tube Well",W30376,2017,NA,4.05,4.85,NA
+PB,Faridkot,Jaito,Kotkapura,30.42638889,74.91888889,"Dal Singh Wala","Tube Well",W32148,2017,14.85,NA,14.16,NA
+PB,Faridkot,Faridkot,Faridkot,30.77916667,74.65527778,"Bir Nathuwala-Pz","Tube Well",W33037,2017,NA,6.3,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.53333333,74.85,Dhaipai-Pz,"Tube Well",W30262,2017,NA,7.4,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.53555556,74.79166667,"Koharwala- DW","Dug Well",W30263,2017,NA,6.95,NA,NA
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2017,9.28,7.9,8.62,8.46
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2016,16.77,NA,16.82,15.8
+PB,Faridkot,Faridkot,Faridkot,30.79333333,74.59,Mumra-Pz,"Tube Well",W33039,2016,7.25,NA,6.2,5.8
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2016,1.25,NA,'0.8,1.8
+PB,Faridkot,Jaito,Kotkapura,30.45416667,74.98333333,"Baja Khana","Dug Well",W13101,2016,18.24,NA,18.7,5.5
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2016,9,NA,9.2,7.67
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2016,12.47,NA,11.82,10.8
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2016,7.72,NA,7.75,7.22
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2016,9.05,NA,8.17,8.05
+PB,Faridkot,Jaito,Kotkapura,30.41694444,74.93777778,Fatehgarh-Pz,"Tube Well",W30216,2016,NA,NA,17.7,NA
+PB,Faridkot,Jaito,Kotkapura,30.445,74.81444444,"Rorian Kapura-Pz","Tube Well",W30227,2016,NA,NA,9.9,NA
+PB,Faridkot,Jaito,Kotkapura,30.52555556,74.91333333,"Behabal Kalan-Pz","Tube Well",W30257,2016,NA,NA,12.3,NA
+PB,Faridkot,Jaito,Kotkapura,30.53333333,74.85,Dhaipai-Pz,"Tube Well",W30262,2016,NA,NA,7.2,NA
+PB,Faridkot,Jaito,Kotkapura,30.53555556,74.79166667,"Koharwala- DW","Dug Well",W30263,2016,NA,NA,6.8,NA
+PB,Faridkot,Jaito,Kotkapura,30.56888889,74.70333333,"Chak Kalan-Pz","Tube Well",W30280,2016,NA,NA,2,NA
+PB,Faridkot,Jaito,Kotkapura,30.60833333,74.86555556,"Bead Sikhanwala- Pz","Tube Well",W30291,2016,9.99,8.85,8.95,9.1
+PB,Faridkot,Faridkot,Kotkapura,30.61611111,74.79916667,Sandhwan-Pz,"Tube Well",W30295,2016,NA,NA,7.65,NA
+PB,Faridkot,Faridkot,Faridkot,30.62222222,74.70277778,"Ratti Rori-Pz","Tube Well",W30300,2016,NA,NA,1,NA
+PB,Faridkot,Faridkot,Faridkot,30.67055556,74.62305556,"Sher Singh Wala- Pz","Tube Well",W30318,2016,4.08,3.25,3.23,3.31
+PB,Faridkot,Faridkot,Faridkot,30.68055556,74.76527778,Faridkot-Pz,"Tube Well",W30322,2016,NA,NA,4.35,NA
+PB,Faridkot,Faridkot,Faridkot,30.7,74.84944444,Dhudi-Pz,"Tube Well",W30329,2016,NA,NA,13.1,NA
+PB,Faridkot,Faridkot,Faridkot,30.74555556,74.63944444,Ghuiana-Pz,"Tube Well",W30355,2016,NA,NA,5.5,NA
+PB,Faridkot,Faridkot,Faridkot,30.79916667,74.76333333,Pahluwala-Pz,"Tube Well",W30376,2016,NA,NA,4.9,NA
+PB,Faridkot,Jaito,Kotkapura,30.42638889,74.91888889,"Dal Singh Wala","Tube Well",W32148,2016,15.05,13.49,14.28,NA
+PB,Faridkot,Faridkot,Kotkapura,30.55194444,74.75416667,"Wara Dwarka-Pz","Tube Well",W33023,2016,3.47,NA,3.5,3.42
+PB,Faridkot,Faridkot,Kotkapura,30.61277778,74.87083333,Deviwala-Pz,"Tube Well",W33024,2016,8.05,NA,6.7,7.6
+PB,Faridkot,Faridkot,Kotkapura,30.61277778,74.87083333,"Deviwala I-Pz","Tube Well",W33025,2016,NA,NA,NA,6.65
+PB,Faridkot,Faridkot,Kotkapura,30.61277778,74.87083333,"Deviwala Ii-Pz","Tube Well",W33026,2016,8.1,NA,7.38,6.65
+PB,Faridkot,Faridkot,Faridkot,30.64638889,74.63944444,Sukhwala-Pz,"Tube Well",W33027,2016,3.4,NA,2.75,2.9
+PB,Faridkot,Faridkot,Faridkot,30.6475,74.69527778,"Nawan Killa-Pz","Tube Well",W33028,2016,NA,NA,NA,1.5
+PB,Faridkot,Faridkot,Kotkapura,30.66611111,74.85861111,Nangal-Pz,"Tube Well",W33029,2016,15.13,NA,7.65,8.53
+PB,Faridkot,Faridkot,Faridkot,30.68972222,74.52722222,"Jand Sahib-Pz","Tube Well",W33030,2016,4.87,NA,4.1,4.6
+PB,Faridkot,Faridkot,Faridkot,30.69,74.79055556,Tehna-Pz,"Tube Well",W33031,2016,8.5,NA,9.05,9.12
+PB,Faridkot,Faridkot,Faridkot,30.70694444,74.59027778,Sadiq-Pz,"Tube Well",W33032,2016,5.62,NA,5.3,5.5
+PB,Faridkot,Faridkot,Faridkot,30.72388889,74.70027778,"Aryan Wala-Pz","Tube Well",W33033,2016,1.7,NA,1.32,1.5
+PB,Faridkot,Faridkot,Faridkot,30.77916667,74.65527778,"Bir Nathuwala-Pz","Tube Well",W33037,2016,6.4,NA,NA,5.7
+PB,Faridkot,Faridkot,Faridkot,30.78583333,74.54611111,Killi-Pz,"Tube Well",W33038,2016,5.11,NA,4.34,5.02
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2016,4.73,NA,4.09,4.72
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2015,NA,15.57,NA,15.22
+PB,Faridkot,Faridkot,Faridkot,30.79916667,74.76333333,Pahluwala-Pz,"Tube Well",W30376,2015,NA,3.3,3.9,3.4
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2015,1.57,1.34,1.22,1.75
+PB,Faridkot,Jaito,Kotkapura,30.45416667,74.98333333,"Baja Khana","Dug Well",W13101,2015,17.76,NA,18.2,17.76
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2015,9.07,8,9.42,8.22
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2015,11.5,10.23,11.01,10.38
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2015,7.37,6.83,7.22,6.87
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2015,8.24,7.33,7.61,7.52
+PB,Faridkot,Jaito,Kotkapura,30.41694444,74.93777778,Fatehgarh-Pz,"Tube Well",W30216,2015,NA,16.1,17.5,16
+PB,Faridkot,Jaito,Kotkapura,30.445,74.81444444,"Rorian Kapura-Pz","Tube Well",W30227,2015,NA,9.2,8.9,9.2
+PB,Faridkot,Jaito,Kotkapura,30.52555556,74.91333333,"Behabal Kalan-Pz","Tube Well",W30257,2015,NA,11,12.4,10.6
+PB,Faridkot,Jaito,Kotkapura,30.53333333,74.85,Dhaipai-Pz,"Tube Well",W30262,2015,NA,7.7,7.5,7.65
+PB,Faridkot,Jaito,Kotkapura,30.53555556,74.79166667,"Koharwala- DW","Dug Well",W30263,2015,NA,7.5,6.9,7.5
+PB,Faridkot,Jaito,Kotkapura,30.54166667,74.975,"Burj Jawahar Singh-Pz","Tube Well",W30265,2015,NA,16.2,18,16
+PB,Faridkot,Jaito,Kotkapura,30.56888889,74.70333333,"Chak Kalan-Pz","Tube Well",W30280,2015,NA,2.5,1.6,2.7
+PB,Faridkot,Jaito,Kotkapura,30.59583333,74.76666667,Devrana-Pz,"Tube Well",W30286,2015,NA,2.55,1.55,2.35
+PB,Faridkot,Jaito,Kotkapura,30.60833333,74.86555556,"Bead Sikhanwala- Pz","Tube Well",W30291,2015,9.35,8.36,NA,9.1
+PB,Faridkot,Faridkot,Kotkapura,30.61611111,74.79916667,Sandhwan-Pz,"Tube Well",W30295,2015,NA,5.45,6.55,5.85
+PB,Faridkot,Faridkot,Faridkot,30.62222222,74.70277778,"Ratti Rori-Pz","Tube Well",W30300,2015,NA,1.3,1.2,1.45
+PB,Faridkot,Faridkot,Faridkot,30.67055556,74.62305556,"Sher Singh Wala- Pz","Tube Well",W30318,2015,4,3.13,3.42,3.44
+PB,Faridkot,Faridkot,Faridkot,30.68055556,74.76527778,Faridkot-Pz,"Tube Well",W30322,2015,NA,3.9,4,3.85
+PB,Faridkot,Faridkot,Faridkot,30.7,74.84944444,Dhudi-Pz,"Tube Well",W30329,2015,NA,12.25,13.1,11.8
+PB,Faridkot,Faridkot,Faridkot,30.74555556,74.63944444,Ghuiana-Pz,"Tube Well",W30355,2015,NA,4.8,5.45,4.9
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2015,3.9,4,3.77,4.65
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2014,17.44,15.47,16.4,14.95
+PB,Faridkot,Faridkot,Faridkot,30.74583333,74.54583333,Kauni-Pz,"Tube Well",W32177,2014,NA,3.2,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2014,2.1,1.15,1.26,1.6
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2014,9.2,7.7,10,7.75
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2014,9.3,7.75,8.67,7.89
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2014,8.12,7.62,7.85,9.6
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2014,9.25,7.47,8.22,8.8
+PB,Faridkot,Jaito,Kotkapura,30.41694444,74.93777778,Fatehgarh-Pz,"Tube Well",W30216,2014,17.15,16,16.95,15.4
+PB,Faridkot,Jaito,Kotkapura,30.445,74.81444444,"Rorian Kapura-Pz","Tube Well",W30227,2014,8.9,9.3,8.4,9.1
+PB,Faridkot,Jaito,Kotkapura,30.52555556,74.91333333,"Behabal Kalan-Pz","Tube Well",W30257,2014,12.5,10.9,11.9,10.6
+PB,Faridkot,Jaito,Kotkapura,30.53333333,74.85,Dhaipai-Pz,"Tube Well",W30262,2014,7.4,7.85,7.2,7.65
+PB,Faridkot,Jaito,Kotkapura,30.53555556,74.79166667,"Koharwala- DW","Dug Well",W30263,2014,6.9,7.4,NA,7.2
+PB,Faridkot,Jaito,Kotkapura,30.54166667,74.975,"Burj Jawahar Singh-Pz","Tube Well",W30265,2014,17.5,15.8,17.4,15.4
+PB,Faridkot,Jaito,Kotkapura,30.56888889,74.70333333,"Chak Kalan-Pz","Tube Well",W30280,2014,1.7,2.8,2.1,2.7
+PB,Faridkot,Jaito,Kotkapura,30.59583333,74.76666667,Devrana-Pz,"Tube Well",W30286,2014,1.5,2.5,2.2,2.35
+PB,Faridkot,Jaito,Kotkapura,30.60833333,74.86555556,"Bead Sikhanwala- Pz","Tube Well",W30291,2014,10.59,NA,8.35,8.59
+PB,Faridkot,Faridkot,Kotkapura,30.61611111,74.79916667,Sandhwan-Pz,"Tube Well",W30295,2014,7.05,5.25,6,6.05
+PB,Faridkot,Faridkot,Faridkot,30.62222222,74.70277778,"Ratti Rori-Pz","Tube Well",W30300,2014,1.45,1.6,1.02,1.75
+PB,Faridkot,Faridkot,Faridkot,30.67055556,74.62305556,"Sher Singh Wala- Pz","Tube Well",W30318,2014,3.7,NA,3.23,1.95
+PB,Faridkot,Faridkot,Faridkot,30.68055556,74.76527778,Faridkot-Pz,"Tube Well",W30322,2014,4.33,NA,3.7,NA
+PB,Faridkot,Faridkot,Faridkot,30.7,74.84944444,Dhudi-Pz,"Tube Well",W30329,2014,13.7,12.2,12.2,11.8
+PB,Faridkot,Faridkot,Faridkot,30.74555556,74.63944444,Ghuiana-Pz,"Tube Well",W30355,2014,6.25,5.1,4.85,5.2
+PB,Faridkot,Faridkot,Faridkot,30.79916667,74.76333333,Pahluwala-Pz,"Tube Well",W30376,2014,4.4,2.95,3.6,3.9
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2014,4.15,3.68,3.55,4.35
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2013,16.25,16.3,16.35,15.72
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2013,2.77,3.7,3.87,4.02
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2013,'0.2,2.25,1.2,2.28
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2013,8.55,7.9,7.9,8.05
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2013,8.74,9.6,7.8,9.86
+PB,Faridkot,Faridkot,Faridkot,30.67055556,74.62305556,"Sher Singh Wala- Pz","Tube Well",W30318,2013,1.85,3.67,2.52,4
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2013,8.04,7.1,7.62,7.28
+PB,Faridkot,Jaito,Kotkapura,30.53333333,74.85,Dhaipai-Pz,"Tube Well",W30262,2013,NA,7.46,NA,7.76
+PB,Faridkot,Jaito,Kotkapura,30.54166667,74.975,"Burj Jawahar Singh-Pz","Tube Well",W30265,2013,NA,14.05,NA,15.75
+PB,Faridkot,Jaito,Kotkapura,30.59583333,74.76666667,Devrana-Pz,"Tube Well",W30286,2013,NA,2.54,NA,4.22
+PB,Faridkot,Jaito,Kotkapura,30.60833333,74.86555556,"Bead Sikhanwala- Pz","Tube Well",W30291,2013,8.7,10.31,8.21,9.56
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2013,8,7.37,7.95,7.3
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2012,NA,15.6,16.97,15.3
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2012,NA,3.27,3.49,4.05
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2012,NA,2.12,2.51,2.3
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2012,NA,7.6,8.2,7.71
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2012,NA,8.63,9.78,8.89
+PB,Faridkot,Faridkot,Faridkot,30.67055556,74.62305556,"Sher Singh Wala- Pz","Tube Well",W30318,2012,NA,NA,3.94,NA
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2012,NA,6.2,7.49,6.59
+PB,Faridkot,Jaito,Kotkapura,30.53333333,74.85,Dhaipai-Pz,"Tube Well",W30262,2012,NA,NA,7.66,NA
+PB,Faridkot,Jaito,Kotkapura,30.54166667,74.975,"Burj Jawahar Singh-Pz","Tube Well",W30265,2012,NA,NA,15.65,NA
+PB,Faridkot,Jaito,Kotkapura,30.59583333,74.76666667,Devrana-Pz,"Tube Well",W30286,2012,NA,NA,3.3,NA
+PB,Faridkot,Jaito,Kotkapura,30.60833333,74.86555556,"Bead Sikhanwala- Pz","Tube Well",W30291,2012,NA,NA,8.8,NA
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2012,NA,5.67,7.21,6.72
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2011,16.47,15.75,16.1,15.35
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2011,3.6,1.9,2.91,3.5
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2011,2.8,3.15,1.94,3.8
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2011,6.28,6.6,6.4,6.5
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2011,9.58,8.08,7.64,8.9
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2011,7.05,7.07,7.09,6.87
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2011,8.6,6.5,7.74,7.8
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2010,16.3,14.87,16,14.9
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2010,2.68,2.48,1.7,3.64
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2010,2.8,2.77,3.8,3.15
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2010,7.29,7.2,6.6,7.36
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2010,9.58,8.61,8.9,8.9
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2010,6.93,6.34,8.47,6.67
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2010,8.32,7.4,8,7.62
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2009,16,14.3,15.37,15.4
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2009,2.5,2.1,2.6,4.1
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2009,3.3,2.9,3.1,3.3
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2009,7.67,5.85,6.98,5.2
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2009,8.37,8.2,8.74,8.51
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2009,6.67,6.17,5.79,6.27
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2009,8.22,7.1,7.55,7.35
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2008,15.25,14.2,14.76,14.1
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2008,2,2.56,2.41,3.7
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2008,2.8,2.86,2.77,3.3
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2008,6.5,5.94,5.88,5.8
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2008,9.8,8.55,8.28,8.5
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2008,4.17,NA,5.97,6.47
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2008,5.3,6.95,7.38,7.05
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2007,15.6,14.32,14.2,12.2
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2007,1.8,1.95,2.26,1.2
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2007,2.6,3.11,2.8,3.05
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2007,7.4,6.7,7.15,6.71
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2007,9.94,8.15,8.75,8.32
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2007,6.57,6.37,6.31,5.97
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2007,7.3,5.71,6.05,5.9
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2006,8.55,7.86,NA,7.9
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2006,3.3,3.32,3.15,3.1
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2006,6.3,5.92,5.9,6
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2006,1.7,2.3,1.65,3.25
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2006,6.4,6.25,6.55,6.32
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2006,5.67,5.57,5.67,5.6
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2006,15.7,14.11,14.7,14.1
+PB,Faridkot,Jaito,Kotkapura,30.57083333,74.86666667,"Dhilwan Kalan","Dug Well",W13103,2005,7,6.5,6.47,6.65
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2005,3.55,4.01,3.24,4.05
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2005,5.59,5.61,5.67,5.72
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2005,15.7,14.34,14.19,14.22
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2005,6.3,5.87,5.9,5.9
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2005,8.7,8.11,8.12,8.05
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2005,2.24,3.13,1.96,3.55
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2004,4.95,5.5,5.94,5.1
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,2004,7.5,6.8,7.5,7.4
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,2004,11.38,8.75,NA,9.03
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2004,15.05,13.35,14.7,13.55
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2004,3.45,3,2.75,3.6
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2004,8.34,6.9,8.15,7.46
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,2004,8.9,6.74,8.9,NA
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2004,NA,2.6,NA,3.8
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2004,5.57,5.07,5.79,5.17
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2003,3.84,3.5,3.78,4.7
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2003,14.24,13.55,14.04,12.01
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,2003,NA,NA,7.14,NA
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,2003,NA,7.1,7.32,7.22
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2003,3.04,3.2,2.48,3.82
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,2003,8.45,NA,8.09,8.68
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2003,5.11,5.22,4.6,4.87
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2003,7.4,7.15,7.28,7.3
+PB,Faridkot,Jaito,Kotkapura,30.58055556,74.71666667,"Badde Fideh","Dug Well",W13100,2003,1.54,1.8,NA,1.72
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2003,5.45,3.07,6.37,4.98
+PB,Faridkot,Jaito,Kotkapura,30.58055556,74.71666667,"Badde Fideh","Dug Well",W13100,2002,1.75,1.62,1.82,1.78
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2002,7.97,6.1,7.42,6.5
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2002,5.34,3.88,4.82,4.3
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,2002,7.21,6.38,6.88,6.64
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2002,3.56,2.86,3.6,3.1
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,2002,8.55,7.39,NA,7.75
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2002,14.17,12.59,13.84,13.1
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2002,5.21,4.6,5.46,NA
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,2002,NA,5.67,NA,3.5
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2002,3.22,2.43,3.7,3.6
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2001,5.43,4.42,4.65,5.7
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2001,4.63,6.55,6.16,4.65
+PB,Faridkot,Jaito,Kotkapura,30.58055556,74.71666667,"Badde Fideh","Dug Well",W13100,2001,1.48,1.55,1.64,1.97
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2001,2.69,2.35,2.74,2.78
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,2001,NA,4.95,5.66,5.39
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,2001,7.16,4.25,6.21,7.1
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2001,2.38,2.4,2.07,3.46
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2001,12.99,11.8,12.88,12.45
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,2001,7.64,6.85,7.56,7.1
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2001,5.2,NA,3.92,4.6
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,2000,1.8,2.08,2.08,2.67
+PB,Faridkot,Jaito,Kotkapura,30.525,74.96111111,Bargari,"Dug Well",W13102,2000,NA,NA,NA,12.24
+PB,Faridkot,Jaito,Kotkapura,30.58055556,74.71666667,"Badde Fideh","Dug Well",W13100,2000,1.25,1.36,1.63,1.66
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,2000,5.07,1.77,2.35,2.05
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,2000,5.36,4.6,4.9,5
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,2000,5.36,4.74,4.49,4.9
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,2000,7.22,6.13,7.25,NA
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,2000,12.86,10.82,13.1,NA
+PB,Faridkot,Jaito,Kotkapura,30.48111111,74.83833333,Matta,"Dug Well",W13106,2000,NA,NA,4.5,NA
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,2000,5.12,NA,4.8,3.5
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,2000,5.92,5.57,5.92,5.66
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,1999,2.02,1.58,1.77,1
+PB,Faridkot,Jaito,Kotkapura,30.58055556,74.71666667,"Badde Fideh","Dug Well",W13100,1999,1.22,1.7,1.54,NA
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,1999,11.7,10.04,11.2,10.5
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,1999,1.37,NA,1.72,2.4
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,1999,4.92,4.03,4.55,4.4
+PB,Faridkot,Jaito,Kotkapura,30.525,74.96111111,Bargari,"Dug Well",W13102,1999,NA,NA,NA,6.5
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,1999,4.62,3.7,4.82,NA
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,1999,4.85,2.36,3.75,2.85
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,1999,5.21,4.71,5.45,5.2
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,1999,6.28,5.3,6.22,6.25
+PB,Faridkot,Jaito,Kotkapura,30.45416667,74.98333333,"Baja Khana","Dug Well",W13101,1999,NA,5.4,NA,NA
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,1998,1.72,'0.8,1.49,'0.6
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,1998,4.1,NA,4.2,2.79
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,1998,3.68,3.15,2.82,NA
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,1998,11.62,9.5,9.96,9.54
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,1998,4.84,4.05,4.41,4.43
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,1998,3.98,3.14,3.63,3.55
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,1998,1.38,'0.72,1.52,2.45
+PB,Faridkot,Jaito,Kotkapura,30.58055556,74.71666667,"Badde Fideh","Dug Well",W13100,1998,1.22,1.53,1.48,1.72
+PB,Faridkot,Jaito,Kotkapura,30.45416667,74.98333333,"Baja Khana","Dug Well",W13101,1998,6.92,5.76,5.35,6.15
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,1998,6.55,5.23,5.4,5.62
+PB,Faridkot,Jaito,Kotkapura,30.45416667,74.98333333,"Baja Khana","Dug Well",W13101,1997,5.7,5.71,5.54,6.18
+PB,Faridkot,Jaito,Kotkapura,30.58055556,74.71666667,"Badde Fideh","Dug Well",W13100,1997,1.15,1.56,1.44,1.81
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,1997,'0.2,1.36,'0.73,1.76
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,1997,3,3.87,3,4.72
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,1997,3.99,4.67,3.98,4.82
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,1997,'0.87,1.84,1.03,2.71
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,1997,10.58,10.15,9.55,11.1
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,1997,5.3,5.33,5.12,5.73
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,1997,2.93,NA,3.11,3.91
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,1997,3.7,2.62,2.5,2.79
+PB,Faridkot,Jaito,Kotkapura,30.525,74.96111111,Bargari,"Dug Well",W13102,1997,NA,7.25,NA,7.48
+PB,Faridkot,Jaito,Kotkapura,30.61111111,74.91527778,Panjgrain,"Dug Well",W13107,1996,5.72,5.23,5.43,5.57
+PB,Faridkot,Faridkot,Faridkot,30.70833333,74.65555556,Mehmuana,"Dug Well",W13099,1996,1.3,1.16,1.37,1.45
+PB,Faridkot,Faridkot,Faridkot,30.67083333,74.58333333,Kingre,"Dug Well",W13098,1996,4.25,3.94,3.98,4.24
+PB,Faridkot,Jaito,Kotkapura,30.58333333,74.83333333,"Kot Kapura","Dug Well",W13105,1996,3.27,3.07,NA,3.55
+PB,Faridkot,Faridkot,Faridkot,30.73944444,74.86222222,"Chahd Baja","Dug Well",W13095,1996,10.71,10.03,10.12,10.4
+PB,Faridkot,Jaito,Kotkapura,30.45416667,74.98333333,"Baja Khana","Dug Well",W13101,1996,6,5.63,5.75,6.05
+PB,Faridkot,Jaito,Kotkapura,30.40555556,74.82777778,Karirwali,"Dug Well",W13104,1996,2.58,4.25,2.78,NA
+PB,Faridkot,Jaito,Kotkapura,30.58055556,74.71666667,"Badde Fideh","Dug Well",W13100,1996,1.22,NA,1.7,1.85
+PB,Faridkot,Faridkot,Faridkot,30.73888889,74.47916667,Dipsinghwala,"Dug Well",W13096,1996,1.02,1.84,1.55,2.43
+PB,Faridkot,Jaito,Kotkapura,30.525,74.96111111,Bargari,"Dug Well",W13102,1996,NA,NA,7.34,7.48
+PB,Faridkot,Faridkot,Faridkot,30.7875,74.70138889,Golewala,"Dug Well",W13097,1996,4.48,4.38,4.57,4.63

@@ -1,0 +1,813 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.30083333,85.83083333,"B-25 Sainik School","Dug Well",W26449,2018,4.25,NA,NA,6.35
+OD,Khordha,Bhubaneswar,Balianta,20.25083333,85.87166667,Kesura,"Dug Well",W32754,2018,NA,2.25,NA,NA
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2018,1.93,6.25,NA,NA
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2018,'0.94,6.85,NA,NA
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2018,1.73,2.75,NA,NA
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2018,4.13,4.39,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2018,'0.55,1.13,NA,NA
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2018,2.05,6.16,NA,NA
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2018,1.25,2.1,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2018,4.35,1.6,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2018,2.47,5.77,NA,NA
+OD,Khordha,Begunia,Begunia,20.20333333,85.45416667,Begunia,"Dug Well",W26365,2018,1.7,4,NA,NA
+OD,Khordha,Khordha,Begunia,20.21333333,85.54555556,Jayamangal,"Dug Well",W26372,2018,'0.5,6.8,NA,NA
+OD,Khordha,Begunia,Begunia,20.21805556,85.53027778,Sarua,"Dug Well",W26375,2018,'0.42,5.22,NA,NA
+OD,Khordha,Jatani,Jatani,20.19944444,85.70027778,Gobindpur,"Dug Well",W26361,2018,1.04,2.24,NA,NA
+OD,Khordha,Bhubaneswar,Jatani,20.21527778,85.71194444,"B-50 Janla","Dug Well",W26373,2018,4.45,10.1,NA,NA
+OD,Khordha,Jatani,Jatani,20.21666667,85.71611111,Janla,"Dug Well",W26374,2018,2.98,7.18,NA,NA
+OD,Khordha,Bhubaneswar,Jatani,20.23416667,85.79666667,Kuha,"Dug Well",W26388,2018,'0.86,6.63,NA,NA
+OD,Khordha,Bhubaneswar,Jatani,20.26027778,85.72527778,"B-37 OUAT","Dug Well",W26409,2018,'0.57,2.07,NA,NA
+OD,Khordha,Bhubaneswar,Jatani,20.26777778,85.69694444,Menthasala,"Dug Well",W26413,2018,1,2.35,NA,NA
+OD,Khordha,Bhubaneswar,Balianta,20.24305556,85.85472222,"B-09 Tankapani Road","Dug Well",W26395,2018,3.61,3.81,NA,NA
+OD,Khordha,Bhubaneswar,Balianta,20.27194444,85.8575,"B-12 Laxmi Sagar","Dug Well",W26415,2018,1,4.7,NA,NA
+OD,Khordha,Bhubaneswar,Balianta,20.28722222,85.855,"B-15 Bomikhal","Dug Well",W26430,2018,'0.87,5.82,NA,NA
+OD,Khordha,Bhubaneswar,Balianta,20.29527778,85.86388889,"B-14 Rasulgarh","Dug Well",W26440,2018,'0.07,'0.44,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22527778,85.81361111,Sundarpada,"Dug Well",W26379,2018,1.73,'0.83,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22777778,85.81444444,"B-40 Kapilaprasad","Dug Well",W26382,2018,1.47,7.95,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22805556,85.83833333,"B-02 Samantarapur","Dug Well",W26383,2018,'0.9,'0.36,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23444444,85.84083333,"B-03 Garage Chhak","Dug Well",W26390,2018,'0.75,'0.7,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23694444,85.82111111,"B-39 Bhimatangi","Dug Well",W26391,2018,1.32,4.77,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.2375,85.81972222,"B-42 Kargil Basti","Dug Well",W26392,2018,'0.35,5.15,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23777778,85.80666667,"B-41 Pokhariput","Dug Well",W26393,2018,'0.8,5.3,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24277778,85.83194444,"B-04 Lingaraj Temple","Dug Well",W26394,2018,2.28,7.43,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24333333,85.83222222,"B-05 Rath Road","Dug Well",W26396,2018,'0.59,1.64,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24472222,85.82777778,"B-06 Purnama Gate","Dug Well",W26397,2018,3.9,7.3,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24888889,85.78888889,"B-48 Dumuduma","Dug Well",W26400,2018,1.27,6.47,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25027778,85.80666667,"B-43 Gandamunda","Dug Well",W26401,2018,'0.65,6.55,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25388889,85.83055556,"B-07 Bapuji Nagar","Dug Well",W26404,2018,1.2,2.33,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25694444,85.81916667,"B-38 Bhimpur","Dug Well",W26405,2018,'0.9,1.65,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26583333,85.82111111,"B-35 Unit-6","Dug Well",W26411,2018,1.95,5.25,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26722222,85.79972222,"B-44 Baramunda","Dug Well",W26412,2018,'0.83,1.48,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27083333,85.85055556,"B-17 Satya Nagar","Dug Well",W26414,2018,1.6,5.85,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27694444,85.76583333,"B-51 DAV (Unit-8)","Dug Well",W26417,2018,'0.9,3.5,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27722222,85.75583333,"B-45 Delta Square","Dug Well",W26419,2018,4,6.9,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28138889,85.82805556,"B-33 Unit-4","Dug Well",W26424,2018,2.38,5.28,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28666667,85.78111111,"B-47 Ghatikia","Dug Well",W26428,2018,3.29,7.34,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28722222,85.84472222,"B-20 Palasuni (NH-5)","Dug Well",W26429,2018,'0.92,3.37,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28777778,85.83694444,"B-31 Unit-9","Dug Well",W26432,2018,'0.4,2.88,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.11666667,85.97555556,Odakhanda-DW,"Dug Well",W26325,2018,1.13,1.8,NA,NA
+OD,Khordha,Khordha,Khordha,20.18194444,85.6175,Khurda,"Dug Well",W26358,2018,2.69,8.99,NA,NA
+OD,Khordha,Jatani,Jatani,20.15861111,85.75694444,Niranjanpur,"Dug Well",W26346,2018,1.4,3.85,NA,NA
+OD,Khordha,Jatani,Jatani,20.17277778,85.67555556,Padanpur,"Dug Well",W26353,2018,1.6,4.6,NA,NA
+OD,Khordha,Jatani,Jatani,20.18055556,85.70138889,Sandhapur,"Dug Well",W26357,2018,3.7,6.1,NA,NA
+OD,Khordha,Bhubaneswar,Balianta,20.32277778,85.89,"B-22 Mancheswar","Dug Well",W26460,2018,'0.65,4.85,NA,NA
+OD,Khordha,Bhubaneswar,Balianta,20.33,85.90083333,"B-21 Haridaspur","Dug Well",W26467,2018,'0.46,2.51,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.32194444,85.79583333,"B-26 Gadakana","Dug Well",W26459,2018,4.15,6.35,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36805556,85.76666667,Chandaka,"Dug Well",W26481,2018,1.36,2.25,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2018,3.25,5.5,NA,NA
+OD,Khordha,Khordha,Khordha,20.17555556,85.63833333,"Khurda Industrial Area","Dug Well",W26355,2018,NA,10.2,5.4,NA
+OD,Khordha,Balianta,Balipatana,20.22638889,85.94833333,Jagannathpur,"Dug Well",W32752,2018,'0.85,1.75,NA,NA
+OD,Khordha,Jatani,Jatani,20.16388889,85.69861111,Jatni1,"Dug Well",W32745,2018,1.85,9.62,NA,NA
+OD,Khordha,Balipatana,Balianta,20.24472222,85.90166667,Tolakpada,"Dug Well",W32753,2018,'0.75,2.15,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28111111,85.82388889,"B-46 Nuapalli","Dug Well",W26423,2018,NA,4.25,NA,NA
+OD,Khordha,Bhubaneswar,Jatani,20.23277778,85.74333333,Tamando,"Dug Well",W26387,2018,1.59,NA,NA,4.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23416667,85.81833333,Kapilaprasad,"Dug Well",W26389,2018,'0.91,NA,NA,7.36
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26416667,85.81777778,"B-34 Ganga Nagar","Dug Well",W26410,2018,3.7,NA,NA,7.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29888889,85.82333333,"B-29 Ekamra Villa","Dug Well",W26445,2018,'0.2,NA,NA,2.3
+OD,Khordha,Bhubaneswar,Jatani,20.23277778,85.74333333,Tamando,"Dug Well",W26387,2017,NA,4.1,2.95,4.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25694444,85.81916667,"B-38 Bhimpur","Dug Well",W26405,2017,NA,1.55,1.5,2.45
+OD,Khordha,Jatani,Jatani,20.17277778,85.67555556,Padanpur,"Dug Well",W26353,2017,NA,5.55,3.5,5.8
+OD,Khordha,Bhubaneswar,Balianta,20.29472222,85.86444444,"B-19 Palasuni Village","Dug Well",W26438,2017,NA,2.54,NA,2.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.295,85.83194444,"B-24 Acharya Vihar","Dug Well",W26439,2017,NA,2.2,NA,2.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25805556,85.83083333,"B-36 Unit-1","Dug Well",W26406,2017,NA,NA,NA,6.77
+OD,Khordha,Bhubaneswar,Jatani,20.26777778,85.69694444,Menthasala,"Dug Well",W26413,2017,NA,2.46,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28277778,85.83111111,"B-32 Madhusudan Nagar","Dug Well",W26426,2017,NA,6.1,NA,NA
+OD,Khordha,Bhubaneswar,Balianta,20.25083333,85.87166667,Kesura,"Dug Well",W32754,2017,NA,2.5,2.1,NA
+OD,Khordha,Balianta,Balipatana,20.22638889,85.94833333,Jagannathpur,"Dug Well",W32752,2017,'0.87,2.2,1.35,2.35
+OD,Khordha,Jatani,Jatani,20.16388889,85.69861111,Jatni1,"Dug Well",W32745,2017,1.55,9.2,6.9,14.3
+OD,Khordha,Balipatana,Balianta,20.24472222,85.90166667,Tolakpada,"Dug Well",W32753,2017,'0.79,1.8,1.15,2.1
+OD,Khordha,Bhubaneswar,Balianta,20.28916667,85.85333333,"B-16 Saheed Nagar","Dug Well",W31260,2017,NA,NA,NA,7.23
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26527778,85.83861111,"B-18 Unit-2","Dug Well",W31257,2017,NA,NA,NA,12.35
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36888889,85.80888889,"B-27 Patia","Dug Well",W26482,2017,1.15,1.9,NA,2.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2017,3.15,5.35,5.37,5.55
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2017,NA,6.3,5.07,5.87
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2017,1.68,6.5,3.55,9.41
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2017,NA,4.35,NA,6.86
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2017,NA,10.2,NA,10.94
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2017,NA,2.52,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2017,NA,1,NA,NA
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2017,NA,4.2,NA,NA
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2017,'0.85,6.53,4.8,6.8
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2017,'0.7,4.3,2.38,4.6
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2017,2.5,10.6,6.59,11.99
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2017,'0.69,1.6,'0.83,2.28
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2017,6.35,7,4.61,7.96
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2017,1.15,2.15,1.38,2.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2017,4.48,1.7,4.55,4.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28111111,85.82388889,"B-46 Nuapalli","Dug Well",W26423,2017,4.75,NA,5,11.01
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29888889,85.82333333,"B-29 Ekamra Villa","Dug Well",W26445,2017,2.02,NA,2.08,6.21
+OD,Khordha,Bhubaneswar,Jatani,20.23416667,85.79666667,Kuha,"Dug Well",W26388,2017,NA,5.63,5.79,NA
+OD,Khordha,Begunia,Begunia,20.20333333,85.45416667,Begunia,"Dug Well",W26365,2017,2,4.1,2.9,7.8
+OD,Khordha,Khordha,Begunia,20.21333333,85.54555556,Jayamangal,"Dug Well",W26372,2017,3.47,7.3,5.33,8.4
+OD,Khordha,Begunia,Begunia,20.21805556,85.53027778,Sarua,"Dug Well",W26375,2017,1.3,5.5,10.52,10.52
+OD,Khordha,Jatani,Jatani,20.19944444,85.70027778,Gobindpur,"Dug Well",W26361,2017,'0.8,3.58,1.44,3.04
+OD,Khordha,Bhubaneswar,Jatani,20.21527778,85.71194444,"B-50 Janla","Dug Well",W26373,2017,5.45,6.1,5.9,5.9
+OD,Khordha,Jatani,Jatani,20.21666667,85.71611111,Janla,"Dug Well",W26374,2017,1.45,7.5,5.93,10.78
+OD,Khordha,Bhubaneswar,Jatani,20.26027778,85.72527778,"B-37 OUAT","Dug Well",W26409,2017,1.47,2.1,1.54,2.8
+OD,Khordha,Bhubaneswar,Balianta,20.24305556,85.85472222,"B-09 Tankapani Road","Dug Well",W26395,2017,3.28,4.4,3.51,4.25
+OD,Khordha,Bhubaneswar,Balianta,20.27194444,85.8575,"B-12 Laxmi Sagar","Dug Well",W26415,2017,3.6,4.75,4.15,5.6
+OD,Khordha,Bhubaneswar,Balianta,20.28722222,85.855,"B-15 Bomikhal","Dug Well",W26430,2017,4.1,6.25,5.2,6.1
+OD,Khordha,Bhubaneswar,Balianta,20.29527778,85.86388889,"B-14 Rasulgarh","Dug Well",W26440,2017,'0.87,'0.78,'0.18,1.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22527778,85.81361111,Sundarpada,"Dug Well",W26379,2017,1.45,3.05,2.21,5.08
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22777778,85.81444444,"B-40 Kapilaprasad","Dug Well",W26382,2017,1.87,2.1,1.67,2.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22805556,85.83833333,"B-02 Samantarapur","Dug Well",W26383,2017,'0.95,'0.3,'0.3,'0.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23416667,85.81833333,Kapilaprasad,"Dug Well",W26389,2017,1.45,6.52,2.53,6.16
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23444444,85.84083333,"B-03 Garage Chhak","Dug Well",W26390,2017,'0.9,'0.5,'0.58,'0.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23694444,85.82111111,"B-39 Bhimatangi","Dug Well",W26391,2017,1.85,4.7,2.78,8.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.2375,85.81972222,"B-42 Kargil Basti","Dug Well",W26392,2017,2.3,6.3,3.3,7.8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23777778,85.80666667,"B-41 Pokhariput","Dug Well",W26393,2017,4.5,6.2,4.45,7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24277778,85.83194444,"B-04 Lingaraj Temple","Dug Well",W26394,2017,7.78,7.4,7.26,7.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24333333,85.83222222,"B-05 Rath Road","Dug Well",W26396,2017,'0.65,1.5,'0.47,2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24472222,85.82777778,"B-06 Purnama Gate","Dug Well",W26397,2017,5.72,7.6,6.38,7.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24888889,85.78888889,"B-48 Dumuduma","Dug Well",W26400,2017,3.15,6.3,4.85,6.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25027778,85.80666667,"B-43 Gandamunda","Dug Well",W26401,2017,1.5,6.8,4.63,6.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25388889,85.83055556,"B-07 Bapuji Nagar","Dug Well",W26404,2017,1.92,2.4,1.95,2.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26416667,85.81777778,"B-34 Ganga Nagar","Dug Well",W26410,2017,3.58,6.2,5.26,5.75
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26583333,85.82111111,"B-35 Unit-6","Dug Well",W26411,2017,3.72,4.35,4.25,5.75
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26722222,85.79972222,"B-44 Baramunda","Dug Well",W26412,2017,1.2,1.3,'0.96,1.55
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27083333,85.85055556,"B-17 Satya Nagar","Dug Well",W26414,2017,3.1,4.25,4.8,4.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27694444,85.76583333,"B-51 DAV (Unit-8)","Dug Well",W26417,2017,1.3,3.1,3,3.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27722222,85.75583333,"B-45 Delta Square","Dug Well",W26419,2017,5.8,7.75,6.35,8.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28138889,85.82805556,"B-33 Unit-4","Dug Well",W26424,2017,3.75,6.2,4.36,7.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28666667,85.78111111,"B-47 Ghatikia","Dug Well",W26428,2017,5.32,7.65,6.14,7.65
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28722222,85.84472222,"B-20 Palasuni (NH-5)","Dug Well",W26429,2017,'0.6,3.8,'0.9,4.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28777778,85.83694444,"B-31 Unit-9","Dug Well",W26432,2017,1.8,2.25,1.85,2.35
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29666667,85.82444444,"B-30 Jaydev Vihar","Dug Well",W26441,2017,1.31,3.38,2.49,3.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.30083333,85.83083333,"B-25 Sainik School","Dug Well",W26449,2017,5.15,6.55,5.43,6.4
+OD,Khordha,Balipatana,Balipatana,20.11666667,85.97555556,Odakhanda-DW,"Dug Well",W26325,2017,'0.96,4.46,1.45,3.25
+OD,Khordha,Khordha,Khordha,20.17555556,85.63833333,"Khurda Industrial Area","Dug Well",W26355,2017,'0.8,10.3,5.2,9.3
+OD,Khordha,Khordha,Khordha,20.18194444,85.6175,Khurda,"Dug Well",W26358,2017,3.69,13.1,5.99,12.29
+OD,Khordha,Jatani,Jatani,20.15861111,85.75694444,Niranjanpur,"Dug Well",W26346,2017,1.5,3.85,3.55,4.7
+OD,Khordha,Jatani,Jatani,20.18055556,85.70138889,Sandhapur,"Dug Well",W26357,2017,1.33,6.85,5.4,6.9
+OD,Khordha,Bhubaneswar,Balianta,20.32277778,85.89,"B-22 Mancheswar","Dug Well",W26460,2017,2.2,5.2,3.4,5.65
+OD,Khordha,Bhubaneswar,Balianta,20.33,85.90083333,"B-21 Haridaspur","Dug Well",W26467,2017,1.8,2.75,1.59,3.75
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.32194444,85.79583333,"B-26 Gadakana","Dug Well",W26459,2017,3.45,6.3,5.3,6.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36805556,85.76666667,Chandaka,"Dug Well",W26481,2017,1.3,2.65,1.87,3.4
+OD,Khordha,Bhubaneswar,Balianta,20.29472222,85.86444444,"B-19 Palasuni Village","Dug Well",W26438,2016,1.9,1,2.15,'0.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.295,85.83194444,"B-24 Acharya Vihar","Dug Well",W26439,2016,1.2,2.1,1.5,1.85
+OD,Khordha,Bhubaneswar,Balianta,20.29527778,85.86388889,"B-14 Rasulgarh","Dug Well",W26440,2016,'0.1,'0.9,'0.1,1.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29666667,85.82444444,"B-30 Jaydev Vihar","Dug Well",W26441,2016,2.7,3.3,3.2,3.35
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29888889,85.82333333,"B-29 Ekamra Villa","Dug Well",W26445,2016,2.7,2.95,2.95,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.30083333,85.83083333,"B-25 Sainik School","Dug Well",W26449,2016,5.15,6.45,5.65,6.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.32194444,85.79583333,"B-26 Gadakana","Dug Well",W26459,2016,4.05,6.6,5.3,6.8
+OD,Khordha,Bhubaneswar,Balianta,20.32277778,85.89,"B-22 Mancheswar","Dug Well",W26460,2016,1.7,5.35,2.05,4.05
+OD,Khordha,Bhubaneswar,Balianta,20.33,85.90083333,"B-21 Haridaspur","Dug Well",W26467,2016,1.95,3,1.95,4.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36805556,85.76666667,Chandaka,"Dug Well",W26481,2016,1.75,3.15,2.2,3.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36888889,85.80888889,"B-27 Patia","Dug Well",W26482,2016,1.2,2.1,1.55,2.7
+OD,Khordha,Bhubaneswar,Balianta,20.28916667,85.85333333,"B-16 Saheed Nagar","Dug Well",W31260,2016,NA,NA,NA,5.7
+OD,Khordha,Jatani,Jatani,20.16388889,85.69861111,Jatni1,"Dug Well",W32745,2016,4,NA,6.7,13.5
+OD,Khordha,Balianta,Balipatana,20.22638889,85.94833333,Jagannathpur,"Dug Well",W32752,2016,1,NA,2.25,2.8
+OD,Khordha,Balipatana,Balianta,20.24472222,85.90166667,Tolakpada,"Dug Well",W32753,2016,'0.85,NA,2,2.7
+OD,Khordha,Bhubaneswar,Balianta,20.25083333,85.87166667,Kesura,"Dug Well",W32754,2016,1.3,NA,2.45,3.7
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2016,'0.65,NA,1.55,2.6
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2016,'0.6,NA,NA,3.7
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2016,1.5,NA,1.8,2.3
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2016,'0.9,NA,2.15,2.9
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2016,1.4,NA,1.85,2.45
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2016,1.45,NA,3,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2016,4.5,NA,5.7,6.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2016,6.2,NA,9.15,11.5
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2016,3.3,NA,5,10.9
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2016,1.3,NA,3.7,8
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2016,3.05,NA,5.1,9.35
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2016,1.65,NA,2.4,3.4
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2016,3.1,NA,5,NA
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2016,5.4,NA,8.4,14.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2016,4.2,NA,5.25,5.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2016,1.85,NA,2.05,3.4
+OD,Khordha,Khordha,Khordha,20.18555556,85.61805556,Khurda,"Bore Well",W20847,2016,3.25,NA,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.11666667,85.97555556,Odakhanda-DW,"Dug Well",W26325,2016,1.5,4.25,3.1,5.35
+OD,Khordha,Jatani,Jatani,20.15861111,85.75694444,Niranjanpur,"Dug Well",W26346,2016,'0.85,4.3,3,4.6
+OD,Khordha,Jatani,Jatani,20.17277778,85.67555556,Padanpur,"Dug Well",W26353,2016,1.9,5.4,3.25,6
+OD,Khordha,Khordha,Khordha,20.17555556,85.63833333,"Khurda Industrial Area","Dug Well",W26355,2016,4.9,9.1,6,10.7
+OD,Khordha,Jatani,Jatani,20.18055556,85.70138889,Sandhapur,"Dug Well",W26357,2016,2.95,6.7,5,7.95
+OD,Khordha,Khordha,Khordha,20.18194444,85.6175,Khurda,"Dug Well",W26358,2016,NA,8,4.85,NA
+OD,Khordha,Jatani,Jatani,20.19944444,85.70027778,Gobindpur,"Dug Well",W26361,2016,1.6,3.4,1.8,4
+OD,Khordha,Begunia,Begunia,20.20333333,85.45416667,Begunia,"Dug Well",W26365,2016,1.35,3.8,3.65,7.1
+OD,Khordha,Bhubaneswar,Jatani,20.21222222,85.67861111,"B-01 Nathapur","Dug Well",W26371,2016,NA,1.7,NA,1.9
+OD,Khordha,Khordha,Begunia,20.21333333,85.54555556,Jayamangal,"Dug Well",W26372,2016,3.3,6.5,6,9.2
+OD,Khordha,Bhubaneswar,Jatani,20.21527778,85.71194444,"B-50 Janla","Dug Well",W26373,2016,5.7,6.06,NA,6.08
+OD,Khordha,Jatani,Jatani,20.21666667,85.71611111,Janla,"Dug Well",W26374,2016,4.2,6.65,6.5,NA
+OD,Khordha,Begunia,Begunia,20.21805556,85.53027778,Sarua,"Dug Well",W26375,2016,1.2,4.2,2.75,9.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22527778,85.81361111,Sundarpada,"Dug Well",W26379,2016,1.9,5.1,4,4.8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22777778,85.81444444,"B-40 Kapilaprasad","Dug Well",W26382,2016,1.4,2.2,NA,4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22805556,85.83833333,"B-02 Samantarapur","Dug Well",W26383,2016,'0.2,'0.45,'0.38,'0.6
+OD,Khordha,Bhubaneswar,Jatani,20.23277778,85.74333333,Tamando,"Dug Well",W26387,2016,1.95,4.8,2.2,4.9
+OD,Khordha,Bhubaneswar,Jatani,20.23416667,85.79666667,Kuha,"Dug Well",W26388,2016,1.7,5.85,5.2,8.55
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23416667,85.81833333,Kapilaprasad,"Dug Well",W26389,2016,1.55,6.7,3.2,8.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23444444,85.84083333,"B-03 Garage Chhak","Dug Well",W26390,2016,'0.4,'0.5,'0.5,'0.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23694444,85.82111111,"B-39 Bhimatangi","Dug Well",W26391,2016,1.1,7.4,2.85,9.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.2375,85.81972222,"B-42 Kargil Basti","Dug Well",W26392,2016,2.15,7.1,NA,8.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23777778,85.80666667,"B-41 Pokhariput","Dug Well",W26393,2016,4.1,6.05,NA,7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24277778,85.83194444,"B-04 Lingaraj Temple","Dug Well",W26394,2016,6.05,7.3,7,7.7
+OD,Khordha,Bhubaneswar,Balianta,20.24305556,85.85472222,"B-09 Tankapani Road","Dug Well",W26395,2016,2.9,4.3,3.6,4.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24333333,85.83222222,"B-05 Rath Road","Dug Well",W26396,2016,'0.4,1.4,'0.6,2.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24472222,85.82777778,"B-06 Purnama Gate","Dug Well",W26397,2016,5,7.6,6.65,8.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24888889,85.78888889,"B-48 Dumuduma","Dug Well",W26400,2016,3.7,6.2,NA,7.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25027778,85.80666667,"B-43 Gandamunda","Dug Well",W26401,2016,2.4,7.2,NA,7.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25388889,85.83055556,"B-07 Bapuji Nagar","Dug Well",W26404,2016,1.4,2.4,2.1,3.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25694444,85.81916667,"B-38 Bhimpur","Dug Well",W26405,2016,'0.75,2.65,1.55,3.55
+OD,Khordha,Bhubaneswar,Jatani,20.26027778,85.72527778,"B-37 OUAT","Dug Well",W26409,2016,1.4,2.5,1.8,3.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26416667,85.81777778,"B-34 Ganga Nagar","Dug Well",W26410,2016,3.85,6.1,5.45,6.55
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26583333,85.82111111,"B-35 Unit-6","Dug Well",W26411,2016,3.85,5.25,5.1,4.75
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26722222,85.79972222,"B-44 Baramunda","Dug Well",W26412,2016,'0.9,1.6,NA,NA
+OD,Khordha,Bhubaneswar,Jatani,20.26777778,85.69694444,Menthasala,"Dug Well",W26413,2016,1.9,3.4,2.3,3.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27083333,85.85055556,"B-17 Satya Nagar","Dug Well",W26414,2016,1.8,4.8,3,5.7
+OD,Khordha,Bhubaneswar,Balianta,20.27194444,85.8575,"B-12 Laxmi Sagar","Dug Well",W26415,2016,3.2,5.25,4.8,4.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27694444,85.76583333,"B-51 DAV (Unit-8)","Dug Well",W26417,2016,1.8,4.2,NA,4.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27722222,85.75583333,"B-45 Delta Square","Dug Well",W26419,2016,6.1,7.9,NA,11.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28111111,85.82388889,"B-46 Nuapalli","Dug Well",W26423,2016,5.7,8.25,NA,9.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28138889,85.82805556,"B-33 Unit-4","Dug Well",W26424,2016,3.75,6.1,4.85,8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28277778,85.83111111,"B-32 Madhusudan Nagar","Dug Well",W26426,2016,4.25,6.3,5.75,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28666667,85.78111111,"B-47 Ghatikia","Dug Well",W26428,2016,5.35,7.05,NA,7.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28722222,85.84472222,"B-20 Palasuni (NH-5)","Dug Well",W26429,2016,'0.5,2.35,'0.3,1.9
+OD,Khordha,Bhubaneswar,Balianta,20.28722222,85.855,"B-15 Bomikhal","Dug Well",W26430,2016,3.75,5.75,5,6.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28777778,85.83694444,"B-31 Unit-9","Dug Well",W26432,2016,1.55,2.35,2.15,2.65
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28777778,85.83694444,"B-31 Unit-9","Dug Well",W26432,2015,1.65,2.5,2.35,2.45
+OD,Khordha,Bhubaneswar,Balianta,20.29472222,85.86444444,"B-19 Palasuni Village","Dug Well",W26438,2015,'0.3,'0.8,'0.5,'0.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.295,85.83194444,"B-24 Acharya Vihar","Dug Well",W26439,2015,1.1,'0.8,1.6,1.9
+OD,Khordha,Bhubaneswar,Balianta,20.29527778,85.86388889,"B-14 Rasulgarh","Dug Well",W26440,2015,'0.05,'0.7,'0.3,1.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29666667,85.82444444,"B-30 Jaydev Vihar","Dug Well",W26441,2015,2.1,3.25,3,3.38
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29861111,85.81777778,"B-28 Nayapalli (May Fair)","Dug Well",W26444,2015,1.2,1.4,NA,1.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29888889,85.82333333,"B-29 Ekamra Villa","Dug Well",W26445,2015,1.55,1.7,2.05,2.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.30083333,85.83083333,"B-25 Sainik School","Dug Well",W26449,2015,5.1,6.15,6.05,5.95
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.32194444,85.79583333,"B-26 Gadakana","Dug Well",W26459,2015,4.1,6.1,5.9,6.9
+OD,Khordha,Bhubaneswar,Balianta,20.32277778,85.89,"B-22 Mancheswar","Dug Well",W26460,2015,1.4,5.1,2.5,5.75
+OD,Khordha,Bhubaneswar,Balianta,20.33,85.90083333,"B-21 Haridaspur","Dug Well",W26467,2015,1.85,2.3,2.45,4.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36805556,85.76666667,Chandaka,"Dug Well",W26481,2015,1.05,2.8,2.7,3.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36888889,85.80888889,"B-27 Patia","Dug Well",W26482,2015,1.3,2.1,1.8,2.5
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2015,'0.85,2.1,1.7,1.25
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2015,2.1,2.8,2.5,2.1
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2015,1.15,1.95,1.5,1.7
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2015,1,2.8,2,2.6
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2015,1.3,2.3,1.75,2.1
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2015,1.3,4.15,3.2,5.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2015,3.6,4.5,5.3,5.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2015,7.35,9.1,9.2,9
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2015,3,6.6,4.7,10
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2015,1,3.35,3.8,7
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2015,NA,8.6,NA,NA
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2015,3.35,6.55,5.4,8.7
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2015,1.5,4.2,2.3,2.6
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2015,3.65,5.8,5.1,7.6
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2015,5.7,10.25,8.85,12.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2015,2.45,4.8,4.6,5.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2015,1.35,2.7,1.85,2.2
+OD,Khordha,Balipatana,Balipatana,20.11666667,85.97555556,Odakhanda-DW,"Dug Well",W26325,2015,1.6,3.25,4.1,3.9
+OD,Khordha,Jatani,Jatani,20.15861111,85.75694444,Niranjanpur,"Dug Well",W26346,2015,'0.9,3.5,3.35,4.3
+OD,Khordha,Jatani,Jatani,20.17277778,85.67555556,Padanpur,"Dug Well",W26353,2015,2.1,5.2,3.6,4.8
+OD,Khordha,Khordha,Khordha,20.17555556,85.63833333,"Khurda Industrial Area","Dug Well",W26355,2015,5.1,8.9,5.9,1.3
+OD,Khordha,Jatani,Jatani,20.18055556,85.70138889,Sandhapur,"Dug Well",W26357,2015,3.3,5.1,5.8,6.9
+OD,Khordha,Khordha,Khordha,20.18194444,85.6175,Khurda,"Dug Well",W26358,2015,3.5,7.4,4.7,8.4
+OD,Khordha,Jatani,Jatani,20.19944444,85.70027778,Gobindpur,"Dug Well",W26361,2015,1.75,3.1,1.2,3.3
+OD,Khordha,Begunia,Begunia,20.20333333,85.45416667,Begunia,"Dug Well",W26365,2015,1.25,3.1,3.5,6.6
+OD,Khordha,Bhubaneswar,Jatani,20.21222222,85.67861111,"B-01 Nathapur","Dug Well",W26371,2015,'0.95,2.3,1.6,3.5
+OD,Khordha,Khordha,Begunia,20.21333333,85.54555556,Jayamangal,"Dug Well",W26372,2015,3.45,5.9,6.15,8.15
+OD,Khordha,Bhubaneswar,Jatani,20.21527778,85.71194444,"B-50 Janla","Dug Well",W26373,2015,4.5,6.1,6.01,6.1
+OD,Khordha,Jatani,Jatani,20.21666667,85.71611111,Janla,"Dug Well",W26374,2015,2.5,5.9,6.15,8.3
+OD,Khordha,Begunia,Begunia,20.21805556,85.53027778,Sarua,"Dug Well",W26375,2015,NA,4,2.9,8.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22527778,85.81361111,Sundarpada,"Dug Well",W26379,2015,1.3,5,3.9,4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22777778,85.81444444,"B-40 Kapilaprasad","Dug Well",W26382,2015,1.4,1.85,1.6,2.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22805556,85.83833333,"B-02 Samantarapur","Dug Well",W26383,2015,'0.25,'0.5,'0.5,'0.6
+OD,Khordha,Bhubaneswar,Jatani,20.23277778,85.74333333,Tamando,"Dug Well",W26387,2015,1.8,4,3.25,5.01
+OD,Khordha,Bhubaneswar,Jatani,20.23416667,85.79666667,Kuha,"Dug Well",W26388,2015,1.9,5.7,4.4,7.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23416667,85.81833333,Kapilaprasad,"Dug Well",W26389,2015,2.35,5.5,5.3,7.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23444444,85.84083333,"B-03 Garage Chhak","Dug Well",W26390,2015,'0.4,'0.45,'0.4,'0.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23694444,85.82111111,"B-39 Bhimatangi","Dug Well",W26391,2015,'0.95,6.9,3.8,8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.2375,85.81972222,"B-42 Kargil Basti","Dug Well",W26392,2015,2,6.8,4.9,6.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23777778,85.80666667,"B-41 Pokhariput","Dug Well",W26393,2015,4.1,5.9,5.3,6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24277778,85.83194444,"B-04 Lingaraj Temple","Dug Well",W26394,2015,5.9,7.3,7.2,7.35
+OD,Khordha,Bhubaneswar,Balianta,20.24305556,85.85472222,"B-09 Tankapani Road","Dug Well",W26395,2015,2.8,4,4,4.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24333333,85.83222222,"B-05 Rath Road","Dug Well",W26396,2015,'0.4,1.1,1,1.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24472222,85.82777778,"B-06 Purnama Gate","Dug Well",W26397,2015,4.8,7.4,7.1,7.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24888889,85.78888889,"B-48 Dumuduma","Dug Well",W26400,2015,3.1,6,5.7,6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25027778,85.80666667,"B-43 Gandamunda","Dug Well",W26401,2015,1.4,6.8,6.9,6.95
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25388889,85.83055556,"B-07 Bapuji Nagar","Dug Well",W26404,2015,1.5,2.1,2.2,2.16
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25694444,85.81916667,"B-38 Bhimpur","Dug Well",W26405,2015,'0.85,2.25,2.15,2.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25805556,85.83083333,"B-36 Unit-1","Dug Well",W26406,2015,NA,6.2,NA,NA
+OD,Khordha,Bhubaneswar,Jatani,20.26027778,85.72527778,"B-37 OUAT","Dug Well",W26409,2015,'0.8,2.15,2.2,2.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26416667,85.81777778,"B-34 Ganga Nagar","Dug Well",W26410,2015,4.35,6.15,6,5.65
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26583333,85.82111111,"B-35 Unit-6","Dug Well",W26411,2015,3.4,5.55,5.45,6.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26722222,85.79972222,"B-44 Baramunda","Dug Well",W26412,2015,'0.9,'0.65,1,1.5
+OD,Khordha,Bhubaneswar,Jatani,20.26777778,85.69694444,Menthasala,"Dug Well",W26413,2015,1.3,3.05,2,2.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27083333,85.85055556,"B-17 Satya Nagar","Dug Well",W26414,2015,1.8,3.6,3.9,4.45
+OD,Khordha,Bhubaneswar,Balianta,20.27194444,85.8575,"B-12 Laxmi Sagar","Dug Well",W26415,2015,3.4,5.2,5.2,5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27694444,85.76583333,"B-51 DAV (Unit-8)","Dug Well",W26417,2015,1.6,4,3.85,3.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27722222,85.75583333,"B-45 Delta Square","Dug Well",W26419,2015,5.95,7.4,7,8.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28111111,85.82388889,"B-46 Nuapalli","Dug Well",W26423,2015,5.7,7.3,7.45,9.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28138889,85.82805556,"B-33 Unit-4","Dug Well",W26424,2015,3.9,5,5.3,6.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28277778,85.83111111,"B-32 Madhusudan Nagar","Dug Well",W26426,2015,4.4,5.7,6.2,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28666667,85.78111111,"B-47 Ghatikia","Dug Well",W26428,2015,6.45,5.95,8.25,7.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28722222,85.84472222,"B-20 Palasuni (NH-5)","Dug Well",W26429,2015,'0.15,2.4,'0.2,3.75
+OD,Khordha,Bhubaneswar,Balianta,20.28722222,85.855,"B-15 Bomikhal","Dug Well",W26430,2015,3.5,5.8,5.55,5.95
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28777778,85.83694444,"B-31 Unit-9","Dug Well",W26432,2014,'0.9,2.55,2.3,2.85
+OD,Khordha,Bhubaneswar,Balianta,20.29472222,85.86444444,"B-19 Palasuni Village","Dug Well",W26438,2014,'0.35,'0.9,'0.55,1.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.295,85.83194444,"B-24 Acharya Vihar","Dug Well",W26439,2014,'0.6,1.4,1.35,2.1
+OD,Khordha,Bhubaneswar,Balianta,20.29527778,85.86388889,"B-14 Rasulgarh","Dug Well",W26440,2014,'0.1,'0.6,'0.2,'0.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29666667,85.82444444,"B-30 Jaydev Vihar","Dug Well",W26441,2014,'0.9,1.2,2.12,3.37
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29861111,85.81777778,"B-28 Nayapalli (May Fair)","Dug Well",W26444,2014,'0.62,1.3,1.12,1.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29888889,85.82333333,"B-29 Ekamra Villa","Dug Well",W26445,2014,'0.35,1.35,1.05,2.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.30083333,85.83083333,"B-25 Sainik School","Dug Well",W26449,2014,4.3,6.25,5.45,6.95
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.32194444,85.79583333,"B-26 Gadakana","Dug Well",W26459,2014,2.3,6,5.2,6.8
+OD,Khordha,Bhubaneswar,Balianta,20.32277778,85.89,"B-22 Mancheswar","Dug Well",W26460,2014,1,5.05,1.75,2.45
+OD,Khordha,Bhubaneswar,Balianta,20.33,85.90083333,"B-21 Haridaspur","Dug Well",W26467,2014,'0.95,2.25,1.25,3.55
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36805556,85.76666667,Chandaka,"Dug Well",W26481,2014,'0.9,1.35,1.2,2.65
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36888889,85.80888889,"B-27 Patia","Dug Well",W26482,2014,'0.7,1.7,1.6,2.2
+OD,Khordha,Bhubaneswar,Balianta,20.21694444,85.85083333,"Sisupal Square","Dug Well",W31252,2014,NA,1.3,NA,NA
+OD,Khordha,Bhubaneswar,Balianta,20.25166667,85.85166667,"B-11 Bargarh","Dug Well",W31255,2014,NA,NA,NA,3.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26527778,85.83861111,"B-18 Unit-2","Dug Well",W31257,2014,2.3,6.3,NA,11.1
+OD,Khordha,Bhubaneswar,Balianta,20.28916667,85.85333333,"B-16 Saheed Nagar","Dug Well",W31260,2014,3.95,NA,NA,NA
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2014,1.85,1.88,1.9,3.57
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2014,2.05,2.4,1.45,3.4
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2014,1.2,1.65,1.1,2.4
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2014,1.05,2.15,1.7,2.15
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2014,1.4,1.85,1.25,3
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2014,1.4,3.9,1.7,6.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2014,2,4.36,2.7,4.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2014,3.5,8.3,8.7,9.6
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2014,2.95,6.1,3.2,10.15
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2014,1.2,3,1.45,7.4
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2014,3.6,8,4.05,11.4
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2014,3.1,6.22,3.5,8.95
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2014,1.8,3.4,2.15,4.15
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2014,3,5.62,3.7,7.75
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2014,5.2,9.5,6.1,12.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2014,2.1,4.1,2.25,4.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2014,1.2,2,1.3,2.9
+OD,Khordha,Balipatana,Balipatana,20.11666667,85.97555556,Odakhanda-DW,"Dug Well",W26325,2014,1.5,2.2,2.6,3.75
+OD,Khordha,Jatani,Jatani,20.15861111,85.75694444,Niranjanpur,"Dug Well",W26346,2014,'0.9,3,1.7,4.2
+OD,Khordha,Jatani,Jatani,20.17277778,85.67555556,Padanpur,"Dug Well",W26353,2014,2.7,4.05,3,5.6
+OD,Khordha,Khordha,Khordha,20.17555556,85.63833333,"Khurda Industrial Area","Dug Well",W26355,2014,4.15,8.55,5,10.5
+OD,Khordha,Jatani,Jatani,20.18055556,85.70138889,Sandhapur,"Dug Well",W26357,2014,3.1,NA,3.45,6.7
+OD,Khordha,Khordha,Khordha,20.18194444,85.6175,Khurda,"Dug Well",W26358,2014,3.1,7.65,3.9,8.9
+OD,Khordha,Jatani,Jatani,20.19944444,85.70027778,Gobindpur,"Dug Well",W26361,2014,1.45,2.35,1.9,3.1
+OD,Khordha,Begunia,Begunia,20.20333333,85.45416667,Begunia,"Dug Well",W26365,2014,1.3,3.6,1.5,5.7
+OD,Khordha,Bhubaneswar,Jatani,20.21222222,85.67861111,"B-01 Nathapur","Dug Well",W26371,2014,'0.7,1.7,1.55,2.3
+OD,Khordha,Khordha,Begunia,20.21333333,85.54555556,Jayamangal,"Dug Well",W26372,2014,3.2,6.1,3.6,8
+OD,Khordha,Bhubaneswar,Jatani,20.21527778,85.71194444,"B-50 Janla","Dug Well",W26373,2014,3,NA,NA,6.1
+OD,Khordha,Jatani,Jatani,20.21666667,85.71611111,Janla,"Dug Well",W26374,2014,2.9,5.4,3.1,7.6
+OD,Khordha,Begunia,Begunia,20.21805556,85.53027778,Sarua,"Dug Well",W26375,2014,'0.75,3.9,1.2,8.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22527778,85.81361111,Sundarpada,"Dug Well",W26379,2014,1.5,4.35,2.4,4.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22777778,85.81444444,"B-40 Kapilaprasad","Dug Well",W26382,2014,'0.8,1.6,1.5,2.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22805556,85.83833333,"B-02 Samantarapur","Dug Well",W26383,2014,'0.1,'0.5,'0.4,'0.7
+OD,Khordha,Bhubaneswar,Jatani,20.23277778,85.74333333,Tamando,"Dug Well",W26387,2014,1.45,2.8,1.7,4.1
+OD,Khordha,Bhubaneswar,Jatani,20.23416667,85.79666667,Kuha,"Dug Well",W26388,2014,2,5,2.85,7.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23416667,85.81833333,Kapilaprasad,"Dug Well",W26389,2014,2.75,4.8,3.35,7.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23444444,85.84083333,"B-03 Garage Chhak","Dug Well",W26390,2014,'0.05,'0.4,'0.45,'0.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23694444,85.82111111,"B-39 Bhimatangi","Dug Well",W26391,2014,'0.6,4.9,2.45,9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.2375,85.81972222,"B-42 Kargil Basti","Dug Well",W26392,2014,1.3,5.6,3.7,8.15
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23777778,85.80666667,"B-41 Pokhariput","Dug Well",W26393,2014,2.7,5.6,5,7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24277778,85.83194444,"B-04 Lingaraj Temple","Dug Well",W26394,2014,5.65,7.3,6.9,7.5
+OD,Khordha,Bhubaneswar,Balianta,20.24305556,85.85472222,"B-09 Tankapani Road","Dug Well",W26395,2014,2,3.9,3.45,4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24333333,85.83222222,"B-05 Rath Road","Dug Well",W26396,2014,'0.3,'0.8,'0.4,1.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24472222,85.82777778,"B-06 Purnama Gate","Dug Well",W26397,2014,3.1,7.3,6.25,7.8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24888889,85.78888889,"B-48 Dumuduma","Dug Well",W26400,2014,1.9,5.7,4.8,6.35
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25027778,85.80666667,"B-43 Gandamunda","Dug Well",W26401,2014,'0.8,6.9,4.7,7.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25388889,85.83055556,"B-07 Bapuji Nagar","Dug Well",W26404,2014,1,1.9,1.75,2.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25694444,85.81916667,"B-38 Bhimpur","Dug Well",W26405,2014,'0.35,2,1.65,2.8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25805556,85.83083333,"B-36 Unit-1","Dug Well",W26406,2014,2.7,6.1,6.3,6.5
+OD,Khordha,Bhubaneswar,Jatani,20.26027778,85.72527778,"B-37 OUAT","Dug Well",W26409,2014,'0.7,1.85,1.8,2.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26416667,85.81777778,"B-34 Ganga Nagar","Dug Well",W26410,2014,2.05,5.55,4.85,6.35
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26583333,85.82111111,"B-35 Unit-6","Dug Well",W26411,2014,1.65,4.95,3.85,5.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26722222,85.79972222,"B-44 Baramunda","Dug Well",W26412,2014,'0.55,1,'0.5,1.5
+OD,Khordha,Bhubaneswar,Jatani,20.26777778,85.69694444,Menthasala,"Dug Well",W26413,2014,1.05,1.8,1.25,2.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27083333,85.85055556,"B-17 Satya Nagar","Dug Well",W26414,2014,1,2.55,2.65,4.2
+OD,Khordha,Bhubaneswar,Balianta,20.27194444,85.8575,"B-12 Laxmi Sagar","Dug Well",W26415,2014,1.5,5,3.65,4.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27694444,85.76583333,"B-51 DAV (Unit-8)","Dug Well",W26417,2014,'0.55,2,1.4,3.15
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27722222,85.75583333,"B-45 Delta Square","Dug Well",W26419,2014,4,6.7,6.1,7.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28111111,85.82388889,"B-46 Nuapalli","Dug Well",W26423,2014,3.4,5.3,4.2,10
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28138889,85.82805556,"B-33 Unit-4","Dug Well",W26424,2014,2,4.4,4.15,5.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28277778,85.83111111,"B-32 Madhusudan Nagar","Dug Well",W26426,2014,2,5,4.8,6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28666667,85.78111111,"B-47 Ghatikia","Dug Well",W26428,2014,2.75,6.35,5.37,6.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28722222,85.84472222,"B-20 Palasuni (NH-5)","Dug Well",W26429,2014,'0.25,2.6,'0.35,'0.9
+OD,Khordha,Bhubaneswar,Balianta,20.28722222,85.855,"B-15 Bomikhal","Dug Well",W26430,2014,2.2,5.4,4.45,5.85
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2013,2.45,2,1.6,3.55
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2013,3,3.05,1.85,3.2
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2013,2.05,1.88,'0.89,2.31
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2013,2,2.94,1.1,2.05
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2013,1.95,2.45,1,3
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2013,2.3,4.6,1.54,6.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2013,4.2,5.35,2.82,5.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2013,7.7,9.35,6.6,9.22
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2013,3.8,6.9,2.78,10
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2013,1.3,3.4,'0.66,7.55
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2013,4.82,9.1,3.15,10.8
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2013,4.55,6.6,3.18,9.13
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2013,2.45,3.65,1.39,4
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2013,4.44,6.05,2.56,7.9
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2013,6.95,10,5,12
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26611111,85.80527778,Bhubaneswar,"Bore Well",W20846,2013,NA,7.56,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2013,3.35,4.6,2,5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2013,1.85,2.1,'0.89,2.35
+OD,Khordha,Khordha,Khordha,20.18555556,85.61805556,Khurda,"Bore Well",W20847,2013,NA,3.85,NA,NA
+OD,Khordha,Tangi,Tangi,19.92138889,85.31527778,Tangi,"Bore Well",W20848,2013,NA,9.6,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.11666667,85.97555556,Odakhanda-DW,"Dug Well",W26325,2013,2.1,NA,1.25,3.9
+OD,Khordha,Jatani,Jatani,20.15861111,85.75694444,Niranjanpur,"Dug Well",W26346,2013,2,3.68,1,4.4
+OD,Khordha,Jatani,Jatani,20.17277778,85.67555556,Padanpur,"Dug Well",W26353,2013,3.9,4.6,2.4,5.25
+OD,Khordha,Khordha,Khordha,20.17555556,85.63833333,"Khurda Industrial Area","Dug Well",W26355,2013,6.45,9.9,4.4,10.73
+OD,Khordha,Khordha,Khordha,20.18194444,85.6175,Khurda,"Dug Well",W26358,2013,4.1,4.85,2.88,9
+OD,Khordha,Jatani,Jatani,20.19944444,85.70027778,Gobindpur,"Dug Well",W26361,2013,2.12,2.35,1.1,3.42
+OD,Khordha,Bhubaneswar,Jatani,20.21222222,85.67861111,"B-01 Nathapur","Dug Well",W26371,2013,1.15,NA,1.1,2.5
+OD,Khordha,Bhubaneswar,Jatani,20.21527778,85.71194444,"B-50 Janla","Dug Well",W26373,2013,NA,NA,5.9,NA
+OD,Khordha,Jatani,Jatani,20.21666667,85.71611111,Janla,"Dug Well",W26374,2013,4.65,NA,2.7,7.4
+OD,Khordha,Begunia,Begunia,20.21805556,85.53027778,Sarua,"Dug Well",W26375,2013,1.23,NA,'0.55,9.15
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22527778,85.81361111,Sundarpada,"Dug Well",W26379,2013,3.5,5.25,1.45,6.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22777778,85.81444444,"B-40 Kapilaprasad","Dug Well",W26382,2013,1.43,NA,1.5,2.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.22805556,85.83833333,"B-02 Samantarapur","Dug Well",W26383,2013,1.66,NA,'0.45,'0.6
+OD,Khordha,Bhubaneswar,Jatani,20.23416667,85.79666667,Kuha,"Dug Well",W26388,2013,4,6,1.83,7.75
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23416667,85.81833333,Kapilaprasad,"Dug Well",W26389,2013,4.22,6.25,1.75,7.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23444444,85.84083333,"B-03 Garage Chhak","Dug Well",W26390,2013,1.57,NA,'0.4,2.8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23694444,85.82111111,"B-39 Bhimatangi","Dug Well",W26391,2013,2.3,NA,1.5,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.2375,85.81972222,"B-42 Kargil Basti","Dug Well",W26392,2013,3.25,NA,2.4,8.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23777778,85.80666667,"B-41 Pokhariput","Dug Well",W26393,2013,3.88,NA,4.6,7.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24277778,85.83194444,"B-04 Lingaraj Temple","Dug Well",W26394,2013,6.65,NA,6.3,8.3
+OD,Khordha,Bhubaneswar,Balianta,20.24305556,85.85472222,"B-09 Tankapani Road","Dug Well",W26395,2013,2.96,NA,3.15,4.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24333333,85.83222222,"B-05 Rath Road","Dug Well",W26396,2013,'0.47,NA,'0.3,1.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24472222,85.82777778,"B-06 Purnama Gate","Dug Well",W26397,2013,5.55,NA,4.3,8.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.24888889,85.78888889,"B-48 Dumuduma","Dug Well",W26400,2013,3.82,NA,1.75,7.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25027778,85.80666667,"B-43 Gandamunda","Dug Well",W26401,2013,NA,NA,'0.8,7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25388889,85.83055556,"B-07 Bapuji Nagar","Dug Well",W26404,2013,1.28,NA,1.25,2.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25694444,85.81916667,"B-38 Bhimpur","Dug Well",W26405,2013,1.31,NA,'0.7,2.9
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25805556,85.83083333,"B-36 Unit-1","Dug Well",W26406,2013,4.65,NA,3.6,6.3
+OD,Khordha,Bhubaneswar,Jatani,20.26027778,85.72527778,"B-37 OUAT","Dug Well",W26409,2013,1.48,NA,1.6,3.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26416667,85.81777778,"B-34 Ganga Nagar","Dug Well",W26410,2013,4.65,NA,1.9,5.3
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26583333,85.82111111,"B-35 Unit-6","Dug Well",W26411,2013,3.85,NA,2.05,5.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26722222,85.79972222,"B-44 Baramunda","Dug Well",W26412,2013,'0.8,NA,1.05,1.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27083333,85.85055556,"B-17 Satya Nagar","Dug Well",W26414,2013,1.9,NA,1.5,4.2
+OD,Khordha,Bhubaneswar,Balianta,20.27194444,85.8575,"B-12 Laxmi Sagar","Dug Well",W26415,2013,3.76,NA,2.9,5.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27694444,85.76583333,"B-51 DAV (Unit-8)","Dug Well",W26417,2013,2.05,NA,2.8,3.15
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.27722222,85.75583333,"B-45 Delta Square","Dug Well",W26419,2013,6.23,NA,3.5,8.2
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28111111,85.82388889,"B-46 Nuapalli","Dug Well",W26423,2013,7.03,NA,3.6,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28138889,85.82805556,"B-33 Unit-4","Dug Well",W26424,2013,3.6,NA,2.8,6.05
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28277778,85.83111111,"B-32 Madhusudan Nagar","Dug Well",W26426,2013,4.19,NA,3.25,5.7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28666667,85.78111111,"B-47 Ghatikia","Dug Well",W26428,2013,4.96,NA,2.6,7.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28722222,85.84472222,"B-20 Palasuni (NH-5)","Dug Well",W26429,2013,'0.12,NA,'0.3,2.4
+OD,Khordha,Bhubaneswar,Balianta,20.28722222,85.855,"B-15 Bomikhal","Dug Well",W26430,2013,2.95,NA,2.9,5.8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28777778,85.83694444,"B-31 Unit-9","Dug Well",W26432,2013,1.55,NA,1.6,2.5
+OD,Khordha,Bhubaneswar,Balianta,20.29472222,85.86444444,"B-19 Palasuni Village","Dug Well",W26438,2013,1.94,NA,'0.5,2.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.295,85.83194444,"B-24 Acharya Vihar","Dug Well",W26439,2013,1,NA,'0.95,1.5
+OD,Khordha,Bhubaneswar,Balianta,20.29527778,85.86388889,"B-14 Rasulgarh","Dug Well",W26440,2013,'0.95,NA,'0.2,1.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29666667,85.82444444,"B-30 Jaydev Vihar","Dug Well",W26441,2013,'0.82,NA,'0.3,1.5
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29861111,85.81777778,"B-28 Nayapalli (May Fair)","Dug Well",W26444,2013,NA,NA,1,1.8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.29888889,85.82333333,"B-29 Ekamra Villa","Dug Well",W26445,2013,2.06,NA,'0.9,3.8
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.30083333,85.83083333,"B-25 Sainik School","Dug Well",W26449,2013,5.55,NA,4.8,7
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.32194444,85.79583333,"B-26 Gadakana","Dug Well",W26459,2013,4.71,NA,3.3,7.3
+OD,Khordha,Bhubaneswar,Balianta,20.32277778,85.89,"B-22 Mancheswar","Dug Well",W26460,2013,'0.97,NA,1.6,5
+OD,Khordha,Bhubaneswar,Balianta,20.33,85.90083333,"B-21 Haridaspur","Dug Well",W26467,2013,3.5,NA,1.05,4.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.36888889,85.80888889,"B-27 Patia","Dug Well",W26482,2013,1.01,NA,1.2,2.55
+OD,Khordha,Bhubaneswar,Balianta,20.21694444,85.85083333,"Sisupal Square","Dug Well",W31252,2013,1.5,1,'0.68,1.7
+OD,Khordha,Bhubaneswar,Balianta,20.25166667,85.85166667,"B-11 Bargarh","Dug Well",W31255,2013,2.75,NA,2.35,3.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26527778,85.83861111,"B-18 Unit-2","Dug Well",W31257,2013,4.92,NA,2.1,7.5
+OD,Khordha,Bhubaneswar,Balianta,20.27583333,85.86361111,"B-13 Jharpada","Dug Well",W31259,2013,NA,NA,1.4,NA
+OD,Khordha,Bhubaneswar,Balianta,20.28916667,85.85333333,"B-16 Saheed Nagar","Dug Well",W31260,2013,6.42,NA,5.1,NA
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2012,NA,2.9,2,3.87
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2012,NA,'0.83,'0.92,1.74
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2012,NA,10.25,7.39,12.81
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26611111,85.80527778,Bhubaneswar,"Bore Well",W20846,2012,NA,7.43,6.78,NA
+OD,Khordha,Khordha,Khordha,20.18555556,85.61805556,Khurda,"Bore Well",W20847,2012,NA,4.54,3.35,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2012,NA,5.45,3.52,5.16
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2012,NA,1.51,1.4,1.7
+OD,Khordha,Tangi,Tangi,19.92138889,85.31527778,Tangi,"Bore Well",W20848,2012,NA,7.75,7,13.55
+OD,Khordha,Khordha,Khordha,20.18194444,85.6175,Khurda,"Dug Well",W26358,2012,NA,NA,6.1,NA
+OD,Khordha,Bhubaneswar,Jatani,20.23416667,85.79666667,Kuha,"Dug Well",W26388,2012,NA,NA,4.61,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.23416667,85.81833333,Kapilaprasad,"Dug Well",W26389,2012,NA,NA,2.65,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2012,NA,8.34,8.4,8.54
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2012,NA,6.96,5.86,8.7
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2012,NA,4.26,2.9,6.96
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2012,NA,9.79,6.1,11.36
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2012,NA,7.57,4.4,9.25
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2012,NA,1.08,1.49,2.03
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2012,NA,2.25,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2012,NA,1.25,1.27,2.43
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2012,NA,4.3,3.22,5.78
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2012,NA,4.47,4,4.82
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2012,NA,1,1.12,NA
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2012,NA,2.08,2.05,2.8
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2012,NA,6.6,4.05,8.01
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2011,2.02,3.69,2.11,3.85
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2011,1.53,1.71,1.57,2.02
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2011,5.1,10.08,7.04,11.25
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26611111,85.80527778,Bhubaneswar,"Bore Well",W20846,2011,NA,NA,7.38,7.95
+OD,Khordha,Khordha,Khordha,20.18555556,85.61805556,Khurda,"Bore Well",W20847,2011,NA,NA,NA,6.61
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2011,3.35,5.78,6.43,4.91
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2011,1.55,1.32,1.71,2.3
+OD,Khordha,Tangi,Tangi,19.92138889,85.31527778,Tangi,"Bore Well",W20848,2011,5.84,10.65,7.5,8.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2011,4.74,9.67,8.64,9.99
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2011,2.41,6.26,5.9,7.56
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2011,'0.86,2.56,2.76,5.76
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2011,3.34,9.89,6.49,10.94
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2011,2.9,7.4,4.64,9.34
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2011,1.65,1.82,1.97,1.98
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2011,'0.69,'0.67,'0.9,1.83
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2011,1.02,2.5,3.27,5.99
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2011,1.57,4.59,5.01,4.19
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2011,'0.74,1.11,'0.97,1.51
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2011,1.17,2.1,2.3,2.82
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2011,NA,1.53,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2011,'0.39,'0.87,1.01,1.53
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2011,2.56,6.32,4.32,8.1
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2010,2.43,3.75,1.9,3.9
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2010,1.87,1.5,'0.55,2.38
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2010,5.48,10.25,6.15,12.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26611111,85.80527778,Bhubaneswar,"Bore Well",W20846,2010,NA,5.95,NA,NA
+OD,Khordha,Khordha,Khordha,20.18555556,85.61805556,Khurda,"Bore Well",W20847,2010,NA,3.89,NA,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2010,4.52,4.74,5.05,6.03
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2010,2.18,1.25,'0.69,2.33
+OD,Khordha,Tangi,Tangi,19.92138889,85.31527778,Tangi,"Bore Well",W20848,2010,6.4,10.92,6.42,11.35
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2010,8.79,10.79,7.72,11.34
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2010,2.57,6.96,3.42,8.51
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2010,1.09,5.81,1.12,8.36
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2010,3.74,10.18,5.03,12
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2010,3.44,7.55,4.43,9.4
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2010,1.74,1.74,'0.94,2.24
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2010,'0.78,'0.79,-0.06,2.11
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2010,1.39,4.9,1.66,6.58
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2010,3.67,4.51,3.85,4.93
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2010,1.16,1.14,'0.38,1.74
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2010,1.55,2.15,1.22,3.02
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2010,NA,1.54,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2010,'0.33,'0.98,'0.1,1.93
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2010,3.01,7.2,4.15,8.25
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2009,1.65,3.08,2.82,4.62
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2009,'0.38,NA,1.2,2.08
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2009,4.11,10.06,8.65,12.32
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2009,3.35,6.18,5.67,5.54
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2009,'0.58,2.1,1.03,2.11
+OD,Khordha,Tangi,Tangi,19.92138889,85.31527778,Tangi,"Bore Well",W20848,2009,5.4,NA,9.29,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2009,6.26,9.84,8.95,11.54
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2009,2.16,7.17,4.41,9.96
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2009,'0.76,5.46,2.11,8.26
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2009,3.04,9.19,3.42,10.29
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2009,2.46,8.41,5.3,9.4
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2009,'0.7,NA,1.62,1.97
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2009,-0.15,1.18,'0.58,1.85
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2009,1,4.92,2.2,6.4
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2009,2.55,4.52,4.22,4.22
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2009,'0.37,'0.87,'0.94,1.87
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2009,'0.92,2.8,1.84,3.3
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2009,'0.16,NA,1.41,2.1
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2009,'0.01,NA,'0.38,2.23
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2009,1.98,7.3,5.05,8.22
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2008,2.02,3.02,2.67,NA
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2008,1.3,1.63,'0.71,NA
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2008,6.32,9.98,8.45,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2008,4.96,5.75,5.55,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2008,1.51,1.2,'0.85,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2008,5.56,13.28,9.04,NA
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2008,4.28,6.9,5.44,NA
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2008,'0.51,6.16,1.01,8.16
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2008,2,7.99,3.54,9.27
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2008,1.37,6.71,5.15,NA
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2008,3.43,1.65,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2008,1.02,'0.99,'0.61,NA
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2008,1.29,4.78,2.6,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2008,4.02,4.52,4.17,NA
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2008,1.24,1.02,'0.59,NA
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2008,'0.73,2.74,1.35,3.05
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2008,NA,1.78,1.16,NA
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2008,3.84,NA,NA,NA
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2008,2.1,7.05,4.55,7.63
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2007,1.9,3.08,2.44,NA
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2007,'0.58,1.61,'0.29,1.9
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2007,5.9,10.95,4.5,12.9
+OD,Khordha,Khordha,Khordha,20.18555556,85.61805556,Khurda,"Bore Well",W20847,2007,2.2,NA,3.46,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.39805556,85.79111111,Patia,"Dug Well",W21475,2007,4.35,NA,5.58,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.34305556,85.78611111,Raghunathpur,"Dug Well",W21476,2007,1.6,NA,4.93,NA
+OD,Khordha,Tangi,Tangi,19.92138889,85.31527778,Tangi,"Bore Well",W20848,2007,5,NA,5.8,NA
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2007,4.94,11.77,9.96,NA
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2007,3.86,8.34,4.9,8.16
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2007,6.06,4.2,2.21,NA
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2007,3.29,8.17,5.65,7.74
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2007,2.85,7.19,4.34,9.25
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2007,3.25,1.62,NA,1.79
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2007,NA,NA,NA,1.9
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2007,1.3,4.01,2.08,5.91
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2007,3.87,4.51,4.24,4.52
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2007,1.49,1.15,NA,NA
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2007,1.05,3,'0.73,3.1
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2007,NA,NA,1.08,1.71
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2007,1.6,7.66,4.9,8
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2006,1.79,3.13,4.4,3.71
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2006,3.2,7.78,6.45,7.53
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2006,2.1,11.1,7.45,12.33
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.26611111,85.80527778,Bhubaneswar,"Bore Well",W20846,2006,NA,NA,NA,8.38
+OD,Khordha,Khordha,Khordha,20.18555556,85.61805556,Khurda,"Bore Well",W20847,2006,1.71,NA,NA,8.71
+OD,Khordha,Tangi,Tangi,19.92138889,85.31527778,Tangi,"Bore Well",W20848,2006,3.12,NA,NA,9.6
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2006,1.86,6.92,4.76,8.92
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2006,'0.54,5.4,2.31,6.37
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2006,'0.95,8.33,6.64,8.45
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2006,2.85,8.32,5.7,9.4
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2006,'0.25,1.84,1.3,1.9
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2006,-0.05,NA,NA,NA
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2006,'0.55,6.14,2.1,6.69
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2006,1.16,1.91,4.12,4.44
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2006,2.12,11.95,9.54,12.15
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2006,1.34,NA,'0.64,2.51
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2006,'0.64,2.8,1.4,3.68
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2006,'0.18,1.64,'0.78,2.05
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2006,NA,NA,5.63,NA
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2006,'0.11,1.04,'0.4,1.84
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2005,3.49,7.5,4.61,7.78
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2005,'0.7,'0.66,'0.81,2.08
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2005,3.35,6.88,2.91,9.06
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2005,'0.97,5.2,NA,8.16
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2005,2.69,8.21,3.19,8.43
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2005,3.93,8.28,3.92,9.8
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2005,1.96,3.14,2.24,3.63
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,2005,NA,2.83,NA,2.55
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2005,'0.55,1.32,'0.66,1.98
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2005,1.19,5.98,1.05,7.6
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2005,3.13,4.23,2.21,3.97
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2005,9.19,9.84,8.37,11.44
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2005,NA,3.11,NA,2.39
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2005,1.35,NA,1.58,3.2
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2005,'0.43,1.47,'0.82,1.7
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2005,5.5,11.16,5.3,13.43
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2004,2.17,7.41,4.81,7.75
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2004,'0.38,NA,1.08,1.88
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2004,4.61,6.16,4.37,8.49
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2004,1.25,5.69,1.92,7.55
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2004,3.52,8.22,5.36,8.47
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2004,4.15,8.28,4.63,9.37
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2004,2.05,2.9,4.53,3.4
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,2004,NA,NA,'0.83,NA
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2004,NA,2.66,1.78,1.49
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2004,1.21,NA,1.88,7.47
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2004,3.01,4.06,3.59,3.89
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2004,NA,9.48,9,8.93
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2004,'0.74,NA,'0.79,3.12
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,2004,NA,NA,NA,7.6
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2004,'0.52,'0.8,'0.83,1.67
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2004,NA,5.9,NA,6.1
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2004,7.49,NA,7.73,12
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2003,1.17,7.75,2.73,8.3
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2003,'0.41,1.34,'0.51,2.01
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2003,1.51,8.01,3.13,9.26
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2003,'0.51,7.96,1.05,9.16
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2003,1.92,7.64,2.06,9.33
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2003,2.45,9.45,2.65,10.28
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2003,1.5,3.4,2.06,4.4
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,2003,NA,2.33,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2003,NA,2.8,'0.84,4.38
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2003,NA,'0.69,-0.25,1.94
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2003,'0.85,5.85,1.59,6.85
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2003,2.68,4.07,2.97,4.17
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2003,6.76,8.85,6.89,NA
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2003,'0.49,1.89,'0.77,2.48
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,2003,NA,5.92,NA,7
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2003,'0.26,1.48,'0.39,2.55
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2003,1.44,5.96,4.9,5.97
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2003,3.9,12.73,4.71,14.45
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2002,2.51,7.57,7.42,8.2
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2002,'0.09,1.02,'0.71,1.8
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2002,4.44,6.26,5.47,10.37
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2002,'0.44,6.36,3.4,9.48
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2002,1.47,8.23,7.97,9.39
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2002,4.59,8.07,7.7,10.07
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2002,2.13,2.92,2.88,3.79
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,2002,NA,3.17,NA,NA
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2002,'0.34,2.06,1.66,2.87
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2002,'0.09,'0.68,'0.21,1.55
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2002,'0.05,4.65,2.51,5.65
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2002,'0.1,4.4,2.94,4.04
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2002,NA,8.53,9.11,10.05
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2002,1.09,1.35,1.39,3.4
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,2002,2.48,4.29,3.56,7.36
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2002,1.22,1.9,1.41,1.92
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2002,'0.04,1.33,'0.61,2.69
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2002,6.08,5.58,5.68,6.14
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2002,9.03,10.1,10.17,12.77
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2001,3.38,8.51,5.89,8.05
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2001,'0.55,1.38,'0.72,2.83
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2001,2.19,7.95,4.29,10.28
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2001,'0.7,7.18,1.96,9.31
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2001,'0.8,8.58,7.41,8.99
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2001,2.9,8.29,4.8,9.91
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2001,1.72,3.8,2.4,4
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,2001,'0.18,2.89,1.36,NA
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2001,'0.63,2.38,1.39,2.15
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2001,-0.25,'0.95,'0.03,2.3
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2001,'0.97,5.26,1.93,7.35
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2001,'0.62,NA,4.44,4.35
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2001,'0.9,NA,9.96,11.94
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2001,'0.86,1.42,'0.81,2.73
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,2001,'0.85,5.43,3,7.64
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2001,1.2,NA,1.45,NA
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2001,'0.62,1.41,'0.65,2.63
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2001,3.9,6.27,5.42,6.03
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2001,3.24,11.3,7.91,14.95
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,2000,4.74,8.32,7.3,7.55
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,2000,'0.52,1.14,'0.84,1.53
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,2000,3.58,5.81,6.11,9.59
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,2000,1.36,3.96,4.43,8.19
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,2000,5.98,7.49,8.32,8.56
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,2000,2.9,8.37,6.79,8.28
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,2000,2.1,3.01,2.8,3.37
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,2000,NA,3.37,NA,1.73
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,2000,'0.99,1.78,1.38,1.55
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,2000,'0.44,'0.4,NA,1.15
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,2000,1.35,3.38,3.15,5.64
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,2000,NA,3.6,4.14,4.08
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,2000,NA,9.14,8.84,9.31
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,2000,'0.78,1.03,1.21,1.52
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,2000,1.52,5.65,3.86,6.07
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,2000,'0.4,1.83,1.33,1.5
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,2000,'0.45,1.43,'0.84,1.25
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,2000,5.28,6.09,6.06,5.76
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,2000,2.72,10.89,10.22,13.48
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,1999,8.18,4.8,NA,11.08
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,1999,8.78,10.25,NA,14.94
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,1999,6.29,7.09,NA,9.99
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,1999,8.43,NA,NA,10.65
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,1999,3.2,1.65,NA,5
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,1999,3.91,6.67,NA,9.5
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,1999,5.47,9.33,NA,14.5
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,1999,1.6,NA,NA,3.34
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,1999,4.26,5.06,NA,8.86
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,1999,1.3,2.01,NA,2.53
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,1999,1.93,3.36,NA,3.53
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,1999,6.13,6.06,NA,6.88
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,1999,1.68,NA,NA,3.38
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,1999,1.89,2.76,NA,3.29
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,1999,1.85,1.97,NA,4.25
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,1999,'0.09,1.11,NA,'0.88
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,1999,2.25,NA,NA,8.05
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,1999,4.48,3.78,NA,4.48
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,1999,5.06,3.75,NA,9.56
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,1998,1.46,6.97,1.31,7.95
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,1998,4.89,7.28,3.49,7.9
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,1998,5.03,8.89,3.67,7.6
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,1998,2.2,1.97,2.06,2.25
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,1998,6.38,7.3,3.68,6.82
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,1998,2.05,10.88,2.4,11.88
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,1998,1.69,1.63,'0.4,2.1
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,1998,3,4.15,2.29,8.26
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,1998,NA,2.01,1.29,2.94
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,1998,2.08,1.79,'0.12,2.55
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,1998,5.53,6.25,4.62,6.18
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,1998,'0.68,1.96,'0.78,2.32
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,1998,NA,NA,1.23,4.63
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,1998,2.55,2.47,'0.9,3.4
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,1998,NA,1.55,'0.06,2.79
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,1998,1.2,5.41,1.81,6.26
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,1998,1.47,5.39,2.68,3.88
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,1998,6.32,9.2,2.16,10.55
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,1998,4.71,7.5,4.07,7.82
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,1997,'0.9,4.88,1.48,2.3
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,1997,'0.5,3.1,'0.63,1.46
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,1997,'0.19,1.99,1.42,2.03
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,1997,2.27,6.4,3.42,8.18
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,1997,'0.92,5.85,2.47,5.53
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,1997,2.73,5.43,5.42,5.93
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,1997,'0.79,2.04,1.11,2.85
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,1997,'0.86,5.79,7.24,8.34
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,1997,2.62,6.16,6.43,10.25
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,1997,NA,1.17,'0.3,NA
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,1997,'0.56,3.54,3.89,7.61
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,1997,1.63,3.2,2.65,4.2
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,1997,'0.7,2.43,1.79,2.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,1997,2.06,4.03,3.83,3.26
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,1997,1.2,8.3,6.83,9.02
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,1997,'0.33,2.85,1.33,2.24
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,1997,4.49,7.64,8.64,8.37
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,1997,1.6,10.79,8.3,12.9
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,1997,1.69,6.66,5.18,11.01
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,1996,'0.98,2.04,1.65,3.45
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,1996,2.7,3.65,4.9,6.09
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,1996,'0.89,1.29,1.54,2.2
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,1996,2.47,6.51,8.45,12.99
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,1996,1.83,6.09,7.78,8.14
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,1996,2.07,2.7,3.05,3.69
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,1996,4.35,5.7,7.34,9.14
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,1996,2.99,8.34,8.21,9.19
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,1996,3.8,4.31,5.03,7.95
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,1996,6.73,5.82,6.79,10.45
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,1996,5.91,9.06,9.56,9.53
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,1996,3.18,3.55,3.94,4.12
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,1996,'0.82,3.56,3.86,6.24
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,1996,1.07,'0.41,'0.77,2
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,1996,1.39,2.19,1.85,4.25
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,1996,1.45,2.51,1.81,2.72
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,1996,'0.77,1.24,'0.97,2.24
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,1996,4.25,5.48,5.7,5.61
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,1996,2,1.07,1.24,2.57
+OD,Khordha,Tangi,Tangi,19.92527778,85.39777778,Tangi2,"Dug Well",W10076,1995,4.03,8.55,6,12.99
+OD,Khordha,Balipatana,Balipatana,20.11833333,85.98833333,Badlasason,"Dug Well",W09642,1995,1.29,2.01,'0.11,4.53
+OD,Khordha,Jatani,Jatani,20.16666667,85.68333333,Jatni,"Dug Well",W09655,1995,4.69,7.29,2.99,8.87
+OD,Khordha,Tangi,Tangi,19.99388889,85.54,Nirakarpur,"Dug Well",W09659,1995,1.82,7.42,1.77,7.98
+OD,Khordha,Balipatana,Balipatana,20.17833333,85.90333333,Panikata,"Dug Well",W09647,1995,'0.64,1.08,-0.18,1.1
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.25972222,85.78888889,Khandagiri,"Dug Well",W09651,1995,6.97,9.01,8.24,9.31
+OD,Khordha,Tangi,Tangi,20.03166667,85.52166667,Jankia,"Dug Well",W09658,1995,1.83,2.9,2.15,3.48
+OD,Khordha,Begunia,Begunia,20.22,85.50166667,Baghmari,"Dug Well",W09648,1995,1.05,4.7,1.61,6.17
+OD,Khordha,Bolagad,Bolagad,20.18333333,85.38333333,Pichkuli,"Dug Well",W09654,1995,'0.72,5.92,'0.98,7.71
+OD,Khordha,Balipatana,Balipatana,20.20444444,85.96361111,Balipatna1,"Tube Well",W09645,1995,1.53,2.81,1.2,2.67
+OD,Khordha,Chilika,Chilika,19.74722222,85.20777778,Balugaon,"Dug Well",W09639,1995,'0.72,1.55,'0.99,2.12
+OD,Khordha,Bhubaneswar,Bhubaneswar,20.28416667,85.84944444,Bhubaneswar-1,"Dug Well",W09649,1995,2.99,3.89,2.65,3.96
+OD,Khordha,Balipatana,Balipatana,20.205,85.96361111,Balipatna,"Dug Well",W09644,1995,'0.58,1.39,'0.41,2.43
+OD,Khordha,Chilika,Chilika,19.83444444,85.28305556,Sunkhala,"Dug Well",W09640,1995,2.39,4.75,1.83,6.37
+OD,Khordha,Tangi,Tangi,19.95277778,85.48055556,Bhusundapur,"Dug Well",W09657,1995,2.29,7.68,2.81,9.07
+OD,Khordha,Balipatana,Balipatana,20.20083333,85.86888889,Balakati,"Dug Well",W09643,1995,4.81,5.49,'0.98,5.53
+OD,Khordha,Balianta,Balianta,20.34861111,85.8925,Kundaidarapatna,"Dug Well",W09641,1995,2.31,1.62,1.2,2.52
+OD,Khordha,Bolagad,Bolagad,20.17083333,85.27777778,Bolagarh,"Dug Well",W09653,1995,3.53,6.24,3.96,8.99
+OD,Khordha,Balipatana,Balipatana,20.20583333,85.90833333,Bhudiapara,"Dug Well",W09646,1995,1.66,2.51,'0.76,6.88

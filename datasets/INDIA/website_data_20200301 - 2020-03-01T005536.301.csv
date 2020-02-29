@@ -1,0 +1,717 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2018,4.63,5.02,NA,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.45416667,87.87166667,Kolaghat1,"Tube Well",W27809,2018,1.61,NA,NA,17.85
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2018,9.44,13.7,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2018,12.11,10.95,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2018,11.77,23.93,NA,NA
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2018,9.57,13.74,NA,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2018,9.71,13.44,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2018,17.62,11.11,NA,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.42027778,87.835,Bardarbar,"Tube Well",W10694,2018,NA,13.24,NA,NA
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2018,NA,26.23,NA,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2018,NA,10.54,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25,87.73277778,Anukhagram,"Tube Well",W10685,2018,NA,16.55,NA,NA
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2018,10.8,NA,NA,14.37
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2018,7.04,NA,NA,9.6
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2018,17.48,NA,NA,24.23
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2018,11.09,NA,NA,10.69
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2018,NA,NA,NA,21.17
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2018,NA,NA,NA,16.22
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2018,NA,NA,NA,9.6
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71166667,87.63138889,Jinandapur,"Tube Well",W31406,2018,4.67,10.54,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,21.97388889,87.58916667,Pratapdighi,"Tube Well",W31430,2018,6.96,13.17,NA,NA
+WB,"Purba Medinipur",Nandigram-i,Nandigram-i,22.00972222,87.9775,Nandigram1,"Tube Well",W31436,2018,8.12,15.19,NA,NA
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71277778,87.55833333,Dharampur2,"Tube Well",W27320,2018,5.99,9.27,NA,NA
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.75333333,87.53388889,Paniparul,"Tube Well",W27335,2018,6.98,12.08,NA,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Sew","Tube Well",W27356,2018,6.04,11.11,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.24777778,87.79694444,Mayna1,"Tube Well",W27635,2018,12.78,18.78,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25055556,87.7675,"Dakshin Anukhagram","Tube Well",W27636,2018,9.08,18.71,NA,NA
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87,87.57,Bhawanichak,"Tube Well",W31421,2018,8.53,NA,NA,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08166667,87.64055556,"Mangal Maro","Tube Well",W27506,2018,NA,NA,NA,20.42
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44361111,87.87555556,Kolaghat,"Dug Well",W27802,2018,NA,2.2,NA,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2018,5.49,16.64,NA,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2017,6.06,11.75,5.38,8.36
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.75333333,87.53388889,Paniparul,"Tube Well",W27335,2017,6.94,NA,6.38,NA
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2017,8.8,7.59,8.02,10.7
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2017,12.84,15.85,15.89,15.54
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2017,16.56,16.3,10.26,15.7
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2017,8.82,7.54,7.82,10.73
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2017,10.42,12.05,8.29,12.14
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2017,14.32,13.6,14.36,12.88
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2017,21.42,25.87,14.41,23.67
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2017,NA,5.78,5.34,7.91
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2017,NA,15.05,15.21,20.18
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2017,NA,6.24,5.05,10.22
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2017,14.38,NA,8.98,14.44
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2017,NA,7.99,8.6,NA
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2017,14.58,NA,13.49,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.24027778,87.76666667,Moyna,"Tube Well",W10684,2017,NA,16.64,NA,13.71
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2017,5.66,NA,NA,8.04
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2017,NA,NA,NA,14.6
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71277778,87.55833333,Dharampur2,"Tube Well",W27320,2017,8.14,5.75,15.75,NA
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08222222,87.70527778,Kishorpur,"Tube Well",W27508,2017,NA,25.2,13.99,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Sew","Tube Well",W27356,2017,6.05,5.87,3.47,12.23
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2017,1.43,NA,NA,10.38
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,21.97388889,87.58916667,Pratapdighi,"Tube Well",W31430,2017,NA,17.2,11.63,NA
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71166667,87.63138889,Jinandapur,"Tube Well",W31406,2017,8.02,NA,NA,NA
+WB,"Purba Medinipur",Nandigram-i,Nandigram-i,22.00972222,87.9775,Nandigram1,"Tube Well",W31436,2017,14.16,NA,NA,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.04833333,87.58777778,Singda(brajalalpur),"Tube Well",W31438,2017,7.14,NA,NA,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44361111,87.87555556,Kolaghat,"Dug Well",W27802,2017,NA,10.5,1.7,3.55
+WB,"Purba Medinipur",Mayna,Mayna,22.25055556,87.7675,"Dakshin Anukhagram","Tube Well",W27636,2017,5.21,NA,13.22,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.45416667,87.87166667,Kolaghat1,"Tube Well",W27809,2017,NA,NA,13.23,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.24777778,87.79694444,Mayna1,"Tube Well",W27635,2017,6.39,NA,NA,NA
+WB,"Purba Medinipur",Daspur-ii,Panskura-i,22.47638889,87.75111111,Khukurdaha,"Tube Well",W27823,2017,5.72,NA,NA,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2017,1.39,3.64,7.52,17.28
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2016,NA,NA,7.52,10.96
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,21.97388889,87.58916667,Pratapdighi,"Tube Well",W31430,2016,NA,8.62,13.82,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2016,7.65,NA,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2016,NA,NA,13.6,16.7
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2016,11.73,NA,13.6,16.94
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2016,NA,NA,NA,22.41
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2016,NA,NA,10.7,10.82
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2016,NA,NA,9.68,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2016,8.67,NA,9.7,15.9
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,2016,NA,NA,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2016,15,NA,16.55,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2016,15.52,NA,NA,17.32
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2016,13.96,NA,14.47,14.23
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2016,3.17,NA,4,NA
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.405,87.67027778,Ratulia1,"Tube Well",W27777,2016,NA,23.3,NA,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44361111,87.87555556,Kolaghat,"Dug Well",W27802,2016,NA,2,1.32,2.17
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.45416667,87.87166667,Kolaghat1,"Tube Well",W27809,2016,NA,11.51,19.05,NA
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.45888889,87.75194444,Jiyakhali,"Tube Well",W27812,2016,NA,20.21,NA,NA
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63972222,87.57166667,Sankarpur,"Bore Well",W27276,2016,NA,9.21,NA,NA
+WB,"Purba Medinipur",Daspur-ii,Panskura-i,22.47638889,87.75111111,Khukurdaha,"Tube Well",W27823,2016,NA,15.48,NA,NA
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71277778,87.55833333,Dharampur2,"Tube Well",W27320,2016,NA,11.62,6.5,NA
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.75333333,87.53388889,Paniparul,"Tube Well",W27335,2016,NA,NA,6.85,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Sew","Tube Well",W27356,2016,7.17,14.59,NA,13.67
+WB,"Purba Medinipur",Egra-i,Egra-i,21.85972222,87.51666667,Paniparul,"Tube Well",W27382,2016,NA,13.24,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.07305556,88.02833333,Balughata2,"Tube Well",W27497,2016,NA,8.7,NA,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08166667,87.64055556,"Mangal Maro","Tube Well",W27506,2016,NA,26.76,NA,NA
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08222222,87.70527778,Kishorpur,"Tube Well",W27508,2016,NA,30.92,14.55,NA
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.10555556,87.95722222,Keshabpur-jalpai,"Tube Well",W27520,2016,NA,8.67,NA,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.13888889,87.89111111,Bagdoba(narghat),"Tube Well",W27538,2016,NA,18.95,NA,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.19527778,87.92805556,Nandakumar,"Tube Well",W27573,2016,NA,3.4,NA,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.205,87.87083333,Ramtarak1,"Tube Well",W27581,2016,NA,13.62,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.24777778,87.79694444,Mayna1,"Tube Well",W27635,2016,NA,18.02,13.62,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25055556,87.7675,"Dakshin Anukhagram","Tube Well",W27636,2016,NA,18.91,NA,NA
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.285,87.91833333,Junput,"Tube Well",W27689,2016,NA,14.19,NA,NA
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.32277778,87.82055556,Anantapur2,"Tube Well",W27710,2016,NA,20.28,NA,NA
+WB,"Purba Medinipur",Khejuri-i,Khejuri-i,21.89805556,87.93222222,Ramchak,"Tube Well",W31425,2016,NA,16.85,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25,87.73277778,Anukhagram,"Tube Well",W10685,2016,NA,NA,15.56,NA
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2015,8.63,6.76,8.08,12.05
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.41694444,87.85888889,Mecheda1,"Tube Well",W31517,2015,NA,NA,11.4,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2015,16.7,14,19.61,18.99
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2015,NA,12.49,21.75,17.77
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2015,10.27,10.11,10.17,14.83
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2015,14.5,12.59,13.8,13.87
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2015,NA,12.25,17.72,18.63
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2015,8.8,NA,7.85,12.38
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2015,4.89,3,3.5,7.88
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2015,NA,9.88,14.21,18.7
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2015,11.8,13.9,14.17,17.19
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2015,12.83,NA,9.47,13.09
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2015,NA,NA,13.72,11.78
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.405,87.67027778,Ratulia1,"Tube Well",W27777,2015,14.5,12.64,13.59,19.82
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44361111,87.87555556,Kolaghat,"Dug Well",W27802,2015,1.67,2.62,2.87,2.08
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.45416667,87.87166667,Kolaghat1,"Tube Well",W27809,2015,NA,11.22,11.66,11.26
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.45888889,87.75194444,Jiyakhali,"Tube Well",W27812,2015,NA,12.38,14.29,16.6
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63972222,87.57166667,Sankarpur,"Bore Well",W27276,2015,9.31,6.01,9.28,13.52
+WB,"Purba Medinipur",Daspur-ii,Panskura-i,22.47638889,87.75111111,Khukurdaha,"Tube Well",W27823,2015,11.77,9.42,9.3,16.04
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71277778,87.55833333,Dharampur2,"Tube Well",W27320,2015,5.3,7.36,7.9,11.32
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.75333333,87.53388889,Paniparul,"Tube Well",W27335,2015,NA,NA,NA,13.81
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Sew","Tube Well",W27356,2015,7.47,7.38,12.61,14.09
+WB,"Purba Medinipur",Egra-i,Egra-i,21.85972222,87.51666667,Paniparul,"Tube Well",W27382,2015,NA,NA,13.18,16.21
+WB,"Purba Medinipur",Haldia,Haldia,22.07305556,88.02833333,Balughata2,"Tube Well",W27497,2015,NA,NA,7.3,15.58
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08166667,87.64055556,"Mangal Maro","Tube Well",W27506,2015,NA,14.77,17.95,20.02
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08222222,87.70527778,Kishorpur,"Tube Well",W27508,2015,NA,12.9,16.63,18.87
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.10555556,87.95722222,Keshabpur-jalpai,"Tube Well",W27520,2015,6.4,6.28,5.61,8.17
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.13888889,87.89111111,Bagdoba(narghat),"Tube Well",W27538,2015,NA,13.36,14.36,16.19
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13972222,87.97694444,Kapaseria,"Tube Well",W27539,2015,'0.5,1.03,1.17,'0.68
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.19527778,87.92805556,Nandakumar,"Tube Well",W27573,2015,4.1,2.86,4.09,3.59
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.205,87.87083333,Ramtarak1,"Tube Well",W27581,2015,13.3,NA,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.24777778,87.79694444,Mayna1,"Tube Well",W27635,2015,15.62,NA,13.35,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25055556,87.7675,"Dakshin Anukhagram","Tube Well",W27636,2015,NA,17.33,13.33,18.86
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.285,87.91833333,Junput,"Tube Well",W27689,2015,14.4,11.69,6.6,16.72
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.32277778,87.82055556,Anantapur2,"Tube Well",W27710,2015,14.1,12.87,NA,18.88
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.36944444,87.75583333,Gumai1,"Tube Well",W27750,2015,14.15,17.18,15.19,21.03
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71166667,87.63138889,Jinandapur,"Tube Well",W31406,2015,NA,NA,13.2,NA
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87,87.57,Bhawanichak,"Tube Well",W31421,2015,NA,NA,10.88,NA
+WB,"Purba Medinipur",Khejuri-i,Khejuri-i,21.89805556,87.93222222,Ramchak,"Tube Well",W31425,2015,NA,NA,13.22,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,21.97388889,87.58916667,Pratapdighi,"Tube Well",W31430,2015,NA,NA,21.9,NA
+WB,"Purba Medinipur",Nandigram-i,Nandigram-i,22.00972222,87.9775,Nandigram1,"Tube Well",W31436,2015,NA,NA,11.77,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.04833333,87.58777778,Singda(brajalalpur),"Tube Well",W31438,2015,NA,NA,14.95,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2015,NA,10.83,NA,14.21
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2014,7.61,7.3,NA,10.11
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.41694444,87.85888889,Mecheda1,"Tube Well",W31517,2014,NA,11.32,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2014,11.94,9.51,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2014,10.57,NA,NA,16.66
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2014,8.76,7.95,NA,14.2
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2014,12.8,12.05,NA,12.67
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2014,12.05,10.33,NA,16.58
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2014,7.87,6.2,NA,11.03
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2014,4.24,3.11,NA,6.34
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2014,9.54,6.18,NA,21.6
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2014,15.08,13.17,NA,16.03
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2014,11.69,12.1,NA,13.21
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2014,9.96,NA,NA,NA
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.405,87.67027778,Ratulia1,"Tube Well",W27777,2014,9.51,11.78,10.31,18.91
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44361111,87.87555556,Kolaghat,"Dug Well",W27802,2014,2.25,2.1,2.03,2.72
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.45416667,87.87166667,Kolaghat1,"Tube Well",W27809,2014,8.85,9.37,9.52,10.34
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.45888889,87.75194444,Jiyakhali,"Tube Well",W27812,2014,11.09,10.64,NA,18.03
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63972222,87.57166667,Sankarpur,"Bore Well",W27276,2014,7.93,5.99,6.53,8.45
+WB,"Purba Medinipur",Daspur-ii,Panskura-i,22.47638889,87.75111111,Khukurdaha,"Tube Well",W27823,2014,9.4,12.18,8.29,17.27
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71277778,87.55833333,Dharampur2,"Tube Well",W27320,2014,5.8,6.17,5.43,10.64
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Sew","Tube Well",W27356,2014,6.03,5.95,4.75,15.32
+WB,"Purba Medinipur",Egra-i,Egra-i,21.85972222,87.51666667,Paniparul,"Tube Well",W27382,2014,8.19,5.83,7.67,17.43
+WB,"Purba Medinipur",Haldia,Haldia,22.07305556,88.02833333,Balughata2,"Tube Well",W27497,2014,NA,11.05,NA,15.07
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08166667,87.64055556,"Mangal Maro","Tube Well",W27506,2014,13.94,11.26,12.91,21.84
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08222222,87.70527778,Kishorpur,"Tube Well",W27508,2014,13.66,6.41,12.16,20.49
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.10555556,87.95722222,Keshabpur-jalpai,"Tube Well",W27520,2014,8.47,4.52,7.26,6.87
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.13888889,87.89111111,Bagdoba(narghat),"Tube Well",W27538,2014,13.99,12.63,14.32,19.54
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13972222,87.97694444,Kapaseria,"Tube Well",W27539,2014,'0.32,'0.95,'0.71,1.48
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.19527778,87.92805556,Nandakumar,"Tube Well",W27573,2014,3.73,3.77,3.04,3.79
+WB,"Purba Medinipur",Mayna,Mayna,22.24777778,87.79694444,Mayna1,"Tube Well",W27635,2014,14.46,11.52,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25055556,87.7675,"Dakshin Anukhagram","Tube Well",W27636,2014,15.38,9.85,16.4,18.95
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.285,87.91833333,Junput,"Tube Well",W27689,2014,9.61,11.3,8.85,15.62
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.32277778,87.82055556,Anantapur2,"Tube Well",W27710,2014,13.42,10.89,11.78,17.68
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.36944444,87.75583333,Gumai1,"Tube Well",W27750,2014,13.33,12.39,11.64,20.46
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,21.97388889,87.58916667,Pratapdighi,"Tube Well",W31430,2014,NA,10.14,NA,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.04833333,87.58777778,Singda(brajalalpur),"Tube Well",W31438,2014,NA,12.46,NA,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2014,7.53,8.44,NA,12.31
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2013,7.4,7.58,7.75,10.1
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.41694444,87.85888889,Mecheda1,"Tube Well",W31517,2013,NA,NA,NA,11.4
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2013,6.35,6.87,6.53,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2013,3.1,7.63,NA,13.5
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2013,NA,13.92,NA,18.84
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2013,9.9,12.54,9.04,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2013,2.2,12.34,8.33,NA
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2013,11.7,8.78,7.43,14.2
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2013,12.5,11.67,12.17,12.3
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2013,3.5,10.29,10.22,NA
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2013,7.6,6.01,6.54,9.71
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2013,NA,NA,NA,14.55
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2013,6.18,3.28,7.07,6.38
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2013,7.7,10.54,6.16,21.6
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2013,6.2,NA,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2013,NA,11.04,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2013,14.6,12.65,13.65,11.8
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2013,NA,14.43,NA,14.67
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2013,2.82,11.45,12.47,12.27
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2013,NA,11.51,9.11,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2013,NA,12.1,NA,19.79
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2013,NA,3.86,NA,4.5
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2013,NA,8.99,NA,10.4
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.405,87.67027778,Ratulia1,"Tube Well",W27777,2013,11.3,16.32,6.65,20.76
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44361111,87.87555556,Kolaghat,"Dug Well",W27802,2013,1.72,2.12,1.9,2.72
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.45416667,87.87166667,Kolaghat1,"Tube Well",W27809,2013,3.05,11.32,8.48,15.55
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.45888889,87.75194444,Jiyakhali,"Tube Well",W27812,2013,2.81,5.07,8.2,12.36
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63972222,87.57166667,Sankarpur,"Bore Well",W27276,2013,8.36,7.49,7.62,13.04
+WB,"Purba Medinipur",Daspur-ii,Panskura-i,22.47638889,87.75111111,Khukurdaha,"Tube Well",W27823,2013,2.47,NA,8.25,21.17
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71277778,87.55833333,Dharampur2,"Tube Well",W27320,2013,4.9,NA,5.03,8.7
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.75333333,87.53388889,Paniparul,"Tube Well",W27335,2013,6.53,NA,NA,16.3
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Sew","Tube Well",W27356,2013,5.72,6.75,2.89,12.17
+WB,"Purba Medinipur",Egra-i,Egra-i,21.85972222,87.51666667,Paniparul,"Tube Well",W27382,2013,4.65,NA,4.97,15.5
+WB,"Purba Medinipur",Haldia,Haldia,22.07305556,88.02833333,Balughata2,"Tube Well",W27497,2013,NA,11.04,NA,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08166667,87.64055556,"Mangal Maro","Tube Well",W27506,2013,5.69,13.92,11.45,18.84
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08222222,87.70527778,Kishorpur,"Tube Well",W27508,2013,4.6,NA,5.18,20.75
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.10555556,87.95722222,Keshabpur-jalpai,"Tube Well",W27520,2013,3.85,8.99,6.12,10.4
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.13888889,87.89111111,Bagdoba(narghat),"Tube Well",W27538,2013,8.35,12.1,12.74,19.79
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13972222,87.97694444,Kapaseria,"Tube Well",W27539,2013,NA,NA,'0.71,16.8
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.19527778,87.92805556,Nandakumar,"Tube Well",W27573,2013,4.05,3.86,3.87,4.5
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.205,87.87083333,Ramtarak1,"Tube Well",W27581,2013,2.4,11.99,NA,12.6
+WB,"Purba Medinipur",Mayna,Mayna,22.24777778,87.79694444,Mayna1,"Tube Well",W27635,2013,2.32,13.08,8.83,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25055556,87.7675,"Dakshin Anukhagram","Tube Well",W27636,2013,5.86,12.97,8.78,NA
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.285,87.91833333,Junput,"Tube Well",W27689,2013,5.3,11.16,11.74,NA
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.32277778,87.82055556,Anantapur2,"Tube Well",W27710,2013,2.25,11.12,9.32,19.14
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.36944444,87.75583333,Gumai1,"Tube Well",W27750,2013,5.85,11.75,10.48,22.48
+WB,"Purba Medinipur",Ramnagar-ii,Ramnagar-ii,21.71166667,87.63138889,Jinandapur,"Tube Well",W31406,2013,4.1,NA,NA,19.2
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87,87.57,Bhawanichak,"Tube Well",W31421,2013,3.39,NA,NA,NA
+WB,"Purba Medinipur",Khejuri-i,Khejuri-i,21.89805556,87.93222222,Ramchak,"Tube Well",W31425,2013,6.35,9.05,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,21.97388889,87.58916667,Pratapdighi,"Tube Well",W31430,2013,4.62,14.44,9.44,17.27
+WB,"Purba Medinipur",Nandigram-i,Nandigram-i,22.00972222,87.9775,Nandigram1,"Tube Well",W31436,2013,NA,NA,NA,13.75
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.04833333,87.58777778,Singda(brajalalpur),"Tube Well",W31438,2013,7.07,14.43,12.35,14.67
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2013,NA,11.32,NA,15.55
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2012,NA,7.16,7.91,10.39
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.04833333,87.58777778,Singda(brajalalpur),"Tube Well",W31438,2012,NA,NA,15.25,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2012,NA,6.12,7.41,9.74
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2012,NA,5.99,8.24,12.48
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2012,NA,NA,14.53,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2012,NA,12.49,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2012,NA,13.11,16.42,17.38
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2012,NA,12.35,16.11,16.51
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2012,NA,8.25,8.12,12.35
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2012,NA,11.01,11.65,11.41
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2012,NA,NA,10.98,13.07
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2012,NA,6.43,6.28,9.25
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2012,NA,6.79,NA,NA
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2012,NA,3.37,4.07,5.95
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2012,NA,9.51,13.34,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2012,NA,6.13,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2012,NA,11.49,12.35,13.15
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2012,NA,NA,15.25,NA
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2012,NA,11.11,11.77,11.87
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2012,NA,NA,12.42,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2012,NA,NA,3.96,NA
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2012,NA,NA,9.29,NA
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.405,87.67027778,Ratulia1,"Tube Well",W27777,2012,NA,NA,14.81,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44361111,87.87555556,Kolaghat,"Dug Well",W27802,2012,NA,NA,1.73,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.45416667,87.87166667,Kolaghat1,"Tube Well",W27809,2012,NA,NA,10.97,NA
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.45888889,87.75194444,Jiyakhali,"Tube Well",W27812,2012,NA,NA,9.67,NA
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63972222,87.57166667,Sankarpur,"Bore Well",W27276,2012,NA,NA,7.86,NA
+WB,"Purba Medinipur",Daspur-ii,Panskura-i,22.47638889,87.75111111,Khukurdaha,"Tube Well",W27823,2012,NA,NA,9.49,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Sew","Tube Well",W27356,2012,NA,NA,6.83,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08166667,87.64055556,"Mangal Maro","Tube Well",W27506,2012,NA,NA,14.53,NA
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.10555556,87.95722222,Keshabpur-jalpai,"Tube Well",W27520,2012,NA,NA,9.29,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.13888889,87.89111111,Bagdoba(narghat),"Tube Well",W27538,2012,NA,NA,12.42,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.19527778,87.92805556,Nandakumar,"Tube Well",W27573,2012,NA,NA,3.96,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.205,87.87083333,Ramtarak1,"Tube Well",W27581,2012,NA,NA,13.22,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.24777778,87.79694444,Mayna1,"Tube Well",W27635,2012,NA,NA,14.45,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25055556,87.7675,"Dakshin Anukhagram","Tube Well",W27636,2012,NA,NA,14.06,NA
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.285,87.91833333,Junput,"Tube Well",W27689,2012,NA,NA,11.01,NA
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.32277778,87.82055556,Anantapur2,"Tube Well",W27710,2012,NA,NA,11.49,NA
+WB,"Purba Medinipur",Panskura-i,Panskura-i,22.36944444,87.75583333,Gumai1,"Tube Well",W27750,2012,NA,NA,11.78,NA
+WB,"Purba Medinipur",Khejuri-i,Khejuri-i,21.89805556,87.93222222,Ramchak,"Tube Well",W31425,2012,NA,NA,9.2,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2012,NA,NA,10.97,NA
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2011,9.86,7.29,7.09,13.06
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2011,NA,8.77,NA,10.94
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2011,NA,10.56,NA,14.77
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2011,8.97,5.51,6.04,13.03
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2011,7.21,6.44,6.07,16.83
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2011,NA,14.59,NA,15.39
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2011,10.97,14.79,13.92,23.04
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2011,11.14,14.53,14.46,23.13
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2011,10.28,NA,14.43,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2011,10.65,13.51,14,19.43
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2011,9.31,8.43,7.86,14.47
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2011,11.3,10.87,11.57,11.27
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2011,10.85,8.01,9.22,16.39
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2011,7.36,6.27,6.27,9.08
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2011,8.49,7.03,6.67,13.88
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2011,4.03,3.44,2.99,6.99
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2011,10.66,9.84,9.53,19.81
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2011,6.2,5.53,4.01,14.15
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2011,NA,9.91,NA,11.31
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2011,NA,12.55,NA,14.69
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2011,12.69,10.39,12.04,13.62
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2011,NA,12.65,NA,14.32
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2011,11.22,9.6,11.11,10.42
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2011,NA,11.12,NA,19.03
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2011,NA,3.87,NA,3.83
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2011,NA,13.25,NA,NA
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2010,9.89,7.23,7.93,7.57
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2010,10.65,9.91,9.16,11.29
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2010,9.91,8.69,10.35,11.02
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2010,NA,NA,4.96,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2010,7.82,NA,6.1,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2010,12.72,NA,11.74,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2010,13.75,12.02,14.69,18.18
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2010,13.94,11.86,14.74,18.31
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2010,NA,9,14.84,14.96
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2010,12.03,10.27,14.74,16.15
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2010,9.79,9.39,8.19,10.38
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2010,10.85,11.4,10.78,10.71
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2010,6.48,5.09,5.52,9.54
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2010,8.35,5.19,6.51,12.21
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2010,6.75,6.09,8.5,10.51
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2010,12.38,8.76,10.27,17.29
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2010,7.41,6.52,4.25,12.61
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2010,NA,NA,9.75,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2010,12.61,11.97,12.76,13.62
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2010,13.38,11.5,11.19,13.21
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2010,NA,10.45,12.5,15.82
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2010,9.87,9.19,9.37,9.9
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2010,12.91,10.61,11.7,17.05
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2010,4.11,3.5,3.97,3.79
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2010,11.88,NA,12.95,13.22
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2009,8.55,6.27,5.3,11.3
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2009,12.3,7.92,9.31,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2009,NA,4.66,NA,4.71
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2009,5.75,13.44,9.64,12.26
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2009,8.62,13.4,9.13,10.78
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2009,2.94,9.34,6.62,7.21
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2009,NA,12.58,7.02,7.24
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2009,7.41,11.24,7.57,10.77
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2009,10.1,9.3,10.12,10.41
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2009,5.87,4.13,7.28,8.85
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2009,5.82,4.9,5.08,8.79
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2009,NA,5.31,5.96,5.02
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2009,9.06,9.62,8.31,12.26
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2009,2.11,7.3,3.97,7.82
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2009,11.99,11.51,11.8,13.25
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2009,11.25,9.89,11.28,12.26
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2009,NA,10.15,NA,NA
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2009,9.89,8.69,9.52,10.46
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2009,NA,8.81,NA,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2009,11.41,NA,11.08,14.86
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2009,4.11,2.99,3.55,3.65
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.18444444,88.03805556,Ajra,"Tube Well",W18435,2009,10.34,8.48,9.83,12.14
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2009,1.57,2.63,8.09,1.95
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2008,5.67,4.1,5.9,6.7
+WB,"Purba Medinipur","Kanthi - Iii",Kanthi-iii,21.81777778,87.73888889,"Bonamalichatta PZ","Tube Well",W20990,2008,NA,4.05,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.24027778,87.76666667,Moyna,"Tube Well",W10684,2008,NA,7.01,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25,87.73277778,Anukhagram,"Tube Well",W10685,2008,NA,8.04,NA,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.42027778,87.835,Bardarbar,"Tube Well",W10694,2008,NA,2.35,NA,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2008,1.52,6.41,1.89,11.45
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2008,1.8,4.2,3.2,3.85
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2008,6.98,5.6,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2008,5.98,10.9,NA,10.1
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2008,6.11,10.6,NA,7.55
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2008,'0.69,3.12,5.98,7.65
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2008,'0.72,5.05,6.4,10.8
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2008,7.26,8.68,6.42,10.08
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2008,9.63,9.08,9.33,9.48
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2008,NA,10.02,NA,NA
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2008,NA,7.95,NA,NA
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2008,5.03,5.34,4.21,10.4
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2008,NA,4,NA,NA
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2008,8.53,4.3,4.51,3.83
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2008,5.75,4.52,7.1,13.5
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2008,2.1,5.52,3.25,7.25
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2008,3.56,4.14,NA,8.59
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2008,7.36,9.3,11.15,12.3
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2008,10.32,9.46,8.58,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2008,7.07,7.04,NA,NA
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2008,9.39,10.02,9.16,8.57
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2008,8.77,NA,NA,10.54
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2008,NA,7.75,NA,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2008,2.1,6.8,3,2.95
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.18444444,88.03805556,Ajra,"Tube Well",W18435,2008,NA,6.9,8.75,NA
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2008,NA,3.1,8.88,NA
+WB,"Purba Medinipur",Sutahata,Sutahata,22.12805556,88.17888889,"Barsundara Pz","Tube Well",W21766,2008,NA,NA,5.52,NA
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2008,4.79,7.15,NA,10.24
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2007,6.96,6,3.06,10.32
+WB,"Purba Medinipur","Kanthi - Iii",Kanthi-iii,21.81777778,87.73888889,"Bonamalichatta PZ","Tube Well",W20990,2007,5.97,10.5,2.96,8.18
+WB,"Purba Medinipur",Mayna,Mayna,22.24027778,87.76666667,Moyna,"Tube Well",W10684,2007,8.02,7.5,5.4,9.86
+WB,"Purba Medinipur",Mayna,Mayna,22.25,87.73277778,Anukhagram,"Tube Well",W10685,2007,7.16,8.3,7.01,11.62
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.42027778,87.835,Bardarbar,"Tube Well",W10694,2007,5.67,NA,5.41,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2007,7.54,7.55,6.1,9.3
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2007,2.4,5.75,3.14,8.28
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2007,7.36,8.44,5.32,14.6
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2007,6.52,10.3,2.9,15.85
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2007,6.61,10.7,2.86,9.85
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2007,1.05,10.7,2.05,13.32
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2007,3.6,NA,3.05,NA
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2007,7.52,9.82,6.5,11.31
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2007,8.62,8.7,6.8,8.88
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2007,6.12,NA,5.9,NA
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2007,5.16,9.5,5.54,12.49
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2007,5.94,4.2,4.22,6.3
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2007,5.96,10.7,4.22,8.21
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2007,7.95,4.33,4.22,5.43
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2007,6.24,7.9,3.5,14.73
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2007,2.41,5.7,2.7,NA
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2007,4.26,5.94,3.1,15.54
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2007,NA,10.33,7.1,11.76
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2007,10.42,8.9,8.41,11.67
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2007,7.77,11.2,6.11,17.6
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2007,9.27,9.07,7.12,9.95
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2007,9.62,8.1,7.5,11.85
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2007,NA,9.65,6.6,9.37
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2007,3.05,3.2,5.6,2.98
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2007,4.9,NA,2.06,8.35
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2007,NA,4.99,5.54,8.79
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2006,6.76,3.61,5.59,9.4
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2006,NA,7.45,7.32,7.99
+WB,"Purba Medinipur",Mayna,Mayna,22.24027778,87.76666667,Moyna,"Tube Well",W10684,2006,8.04,NA,8.96,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25,87.73277778,Anukhagram,"Tube Well",W10685,2006,9.24,NA,6.22,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.42027778,87.835,Bardarbar,"Tube Well",W10694,2006,5.86,NA,2.59,5.82
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2006,8.02,NA,6.65,9.1
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2006,2.37,3.8,3.18,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2006,NA,5.2,NA,7.4
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2006,7.46,12.87,3.92,12.75
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2006,6.61,8.6,7.39,10.15
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2006,6.86,8.51,NA,10.05
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2006,1.02,8.95,3.78,13.1
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2006,3.66,NA,3.51,NA
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2006,7.34,7.37,6.52,8.42
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2006,8.36,7.8,9.12,9.1
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2006,6.27,10.84,6.33,NA
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2006,5.3,8.61,6.03,NA
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2006,4.88,4.8,4.22,6.5
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00555556,87.72222222,"Mugberia Pz-1","Tube Well",W10627,2006,5.3,NA,3,7.4
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00583333,87.7225,"Mugberia Pz-2","Tube Well",W10628,2006,NA,NA,4.39,9.9
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00694444,87.72277778,"Mugberia Pz-3","Tube Well",W10629,2006,5.22,NA,4.3,NA
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2006,4.6,4.22,6.54,7.5
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2006,7.83,3.78,7.47,5.83
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2006,6.4,5.78,6,11.7
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2006,2.34,6.6,2.42,6.6
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2006,4.61,NA,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2006,NA,9.9,8.8,11.35
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2006,9.79,NA,10.09,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2006,7.81,11.82,7.66,16.87
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2006,9.26,NA,10.8,NA
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2006,9.75,NA,8.61,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2006,NA,7.4,7.72,9.5
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2006,2.9,2.8,2.93,NA
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.18444444,88.03805556,Ajra,"Tube Well",W18435,2006,NA,3.8,3.62,8.8
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2006,4.95,5.4,4.5,7.95
+WB,"Purba Medinipur","Kanthi - Iii",Kanthi-iii,21.81777778,87.73888889,"Bonamalichatta PZ","Tube Well",W20990,2006,3.62,NA,6.62,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2005,3.07,4.88,NA,6.28
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2005,4.29,8.84,3.3,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2005,8.49,9,NA,9.58
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2005,9.44,11.67,NA,13.5
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2005,5.2,7.62,NA,7.8
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2005,10.55,7.7,NA,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.14361111,87.91055556,Bagdoba(Narghat),"Tube Well",W18433,2005,9.67,8.78,8.4,11.3
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.21027778,87.935,Nandakumar,"Tube Well",W18434,2005,2.88,3.05,2.7,2.4
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.18444444,88.03805556,Ajra,"Tube Well",W18435,2005,6.48,7.19,7.62,8.4
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.14472222,87.97333333,Keshabpur-Jaipai,"Tube Well",W18436,2005,4.31,5.3,NA,6.1
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2005,7.1,7.02,6,9
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2005,8,8,7.62,7.4
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2005,5.26,NA,6.17,NA
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2005,4.61,8.7,6.15,12
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2005,6.4,4.74,4.44,5.7
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00555556,87.72222222,"Mugberia Pz-1","Tube Well",W10627,2005,6.18,9.95,NA,NA
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00583333,87.7225,"Mugberia Pz-2","Tube Well",W10628,2005,4.65,6.87,NA,8.67
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00694444,87.72277778,"Mugberia Pz-3","Tube Well",W10629,2005,NA,NA,NA,10.33
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2005,3.43,3.7,NA,6.88
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2005,1.99,4.23,3.8,5.78
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2005,5.88,6.5,3.79,9.7
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2005,4.38,NA,3.5,13.03
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2005,4.2,4.56,7.4,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.24027778,87.76666667,Moyna,"Tube Well",W10684,2005,5.75,7.22,NA,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25,87.73277778,Anukhagram,"Tube Well",W10685,2005,5.75,7.1,7.01,8.12
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2005,6.64,7.8,NA,10.85
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2005,4.15,NA,2.5,4.77
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2005,3.38,3.7,NA,6.4
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2005,7.42,8.5,NA,10.06
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2005,5.98,8.7,3.3,9.25
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2005,5.96,8.55,3.21,9.3
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2005,4.38,8.4,2.1,8.8
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2005,10.32,10.5,NA,12.02
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2004,2.29,3.54,1.49,7.9
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2004,5.94,8.34,5.12,12.56
+WB,"Purba Medinipur",Haldia,Haldia,22.07055556,88.03416667,Balughata,"Tube Well",W10665,2004,9.62,8.74,9.76,10.75
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2004,8.4,7.78,8.47,9.39
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2004,8.62,11.51,8.04,13.06
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2004,8.09,7.39,7.85,7.78
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2004,NA,7.34,9.17,10.61
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.97916667,87.75,Ramnagar-i,"Tube Well",W11227,2004,NA,8.21,NA,NA
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2004,6.76,7.07,6.01,9.08
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2004,7.75,7.59,7.75,7.62
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2004,8.8,10.77,NA,13.38
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2004,7.73,8.58,7.02,11.76
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2004,NA,4.7,NA,8.65
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00555556,87.72222222,"Mugberia Pz-1","Tube Well",W10627,2004,6.62,9.54,5.06,12.12
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00583333,87.7225,"Mugberia Pz-2","Tube Well",W10628,2004,NA,5.48,4.83,9.55
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00694444,87.72277778,"Mugberia Pz-3","Tube Well",W10629,2004,5.92,10.58,NA,12.48
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2004,4.73,3.4,3.75,5.54
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2004,4.98,3.72,4.34,5.99
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2004,6.17,5.57,4.91,12.15
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2004,4.29,3.4,3.67,5.6
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2004,8.04,6.01,4.65,8.61
+WB,"Purba Medinipur",Mayna,Mayna,22.24027778,87.76666667,Moyna,"Tube Well",W10684,2004,8.49,5.82,6.92,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25,87.73277778,Anukhagram,"Tube Well",W10685,2004,9.62,5.4,6.68,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.42027778,87.835,Bardarbar,"Tube Well",W10694,2004,7.8,9.09,2.44,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2004,8.83,10.32,7.36,14.87
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2004,3.08,3.52,NA,5.31
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2004,5.26,3.43,3.78,6.68
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2004,8.24,12.27,4.32,13.62
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2004,6.2,8.56,5.53,12.69
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2004,6.1,8.48,5.41,12.58
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2004,NA,NA,5.22,NA
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2004,5.6,NA,NA,4.4
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2003,NA,4.16,'0.96,6.15
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2003,NA,NA,3.41,10.86
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.87111111,87.57361111,Bhawanichak,"Tube Well",W10656,2003,NA,NA,3.04,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2003,8.07,7.54,8.41,9.56
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06638889,87.6175,Singda(Brajalalpur),"Tube Well",W11241,2003,NA,NA,5.63,NA
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2003,8.15,7.8,7.95,8.34
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2003,8.18,7.02,7.42,9.77
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.97916667,87.75,Ramnagar-i,"Tube Well",W11227,2003,4.42,7.17,3.87,6.45
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2003,6.24,NA,5.79,8.22
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2003,NA,NA,7.38,NA
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2003,7.76,9.35,6.24,12.77
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2003,8.09,7.15,6.13,11.07
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2003,3.85,3.34,4.49,7.35
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00555556,87.72222222,"Mugberia Pz-1","Tube Well",W10627,2003,6.4,7.43,3.74,8
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00583333,87.7225,"Mugberia Pz-2","Tube Well",W10628,2003,5.43,8.16,4.54,10.22
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00694444,87.72277778,"Mugberia Pz-3","Tube Well",W10629,2003,6.3,4.85,4.45,8.46
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2003,4.54,3.81,3.44,5.66
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2003,4.58,3.94,3.87,5.34
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2003,5.7,NA,3.84,8.46
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2003,5.05,4.26,3.33,5.06
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2003,6.83,6.82,5.58,8.21
+WB,"Purba Medinipur",Mayna,Mayna,22.24027778,87.76666667,Moyna,"Tube Well",W10684,2003,NA,NA,7.14,NA
+WB,"Purba Medinipur",Mayna,Mayna,22.25,87.73277778,Anukhagram,"Tube Well",W10685,2003,NA,NA,7.26,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.42027778,87.835,Bardarbar,"Tube Well",W10694,2003,NA,NA,5.65,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.44611111,87.86416667,"Kolaghat TW","Tube Well",W10696,2003,NA,NA,6.64,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2003,2.85,3.51,2.41,3.86
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2003,4.07,3.7,3.61,6
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.07805556,87.65555556,"Mangal maro","Tube Well",W10701,2003,NA,NA,4.94,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2003,5.1,NA,3.25,10.82
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2003,5.16,NA,3.21,10.86
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2003,'0.59,NA,1.18,7
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,2003,NA,NA,NA,9.12
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2002,'0.41,6.88,1.88,6.24
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,2002,4.31,8.18,3.4,8.93
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2002,9.05,8.24,8.55,8.9
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2002,7.19,8.59,8.17,8.84
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2002,5.21,9.12,7.4,10.09
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.97916667,87.75,Ramnagar-i,"Tube Well",W11227,2002,4.24,9.1,3.87,6.54
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2002,6.02,8.7,5.8,7.89
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2002,NA,7.96,7.51,7.28
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2002,7.43,8.17,6.12,12.19
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2002,6.52,7.26,5.93,10.19
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2002,5.04,7.38,4.37,7.98
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00555556,87.72222222,"Mugberia Pz-1","Tube Well",W10627,2002,5.13,9.21,3.79,8.74
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00583333,87.7225,"Mugberia Pz-2","Tube Well",W10628,2002,5.6,10.03,4.27,10.78
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00694444,87.72277778,"Mugberia Pz-3","Tube Well",W10629,2002,5.7,14.4,4.58,10.7
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2002,NA,5.32,4.35,6.2
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2002,3.95,5.02,3.93,5.87
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2002,4.44,10.8,4.96,10.23
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2002,3.8,4.52,3.5,5.52
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2002,6.95,7.5,6.37,8.31
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2002,NA,4.54,2.38,4.36
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2002,NA,5.05,3.45,6.65
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2002,4.32,13.78,3.85,10.69
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2002,4.27,12.71,3.38,10.64
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2002,'0.86,7.03,1.35,7.51
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2002,4.71,12.92,5.61,10.66
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00583333,87.7225,"Mugberia Pz-2","Tube Well",W10628,2001,5.88,4.45,4.1,10.1
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2001,6.34,6.15,5.53,7.11
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.97916667,87.75,Ramnagar-i,"Tube Well",W11227,2001,2.7,4.93,4.01,9.65
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2001,'0.45,2.87,'0.88,7
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00555556,87.72222222,"Mugberia Pz-1","Tube Well",W10627,2001,5.24,3.8,3.52,6.9
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2001,4.5,5.18,3.2,8.59
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2001,8.96,8.74,8.92,9.2
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2001,4.55,5.15,3.24,8.8
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2001,5.45,3.59,4.5,5.88
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2001,NA,4.42,4.27,NA
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2001,8.2,6.48,7.3,NA
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2001,3.36,2.59,4.66,5.28
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2001,5.84,5.4,5.5,8.98
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2001,7.07,6.04,6.33,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2001,2.77,2.09,1.04,7
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2001,4.08,4.45,3.51,9.92
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2001,7.81,6.24,6.3,10.65
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2001,4.75,5.28,3.6,7.96
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2001,9.07,8.54,8.92,8.9
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2001,4.72,4.18,4.09,5.91
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2001,7.61,NA,6.98,8.78
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2001,NA,4.48,4.12,NA
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,2001,5.61,2.7,3.4,6.4
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00694444,87.72277778,"Mugberia Pz-3","Tube Well",W10629,2001,6.17,4.55,4.59,10.05
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2001,6.78,5.53,3.06,8.7
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,2000,6.27,6.68,6.66,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,2000,4.95,7.73,6.13,8.83
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,2000,'0.48,3.48,2.46,7.29
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,2000,4.51,7.69,5.68,8.6
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,2000,4.45,7.8,5.84,8.87
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,2000,4.91,4.45,5.89,5.29
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,2000,3.08,3.51,3.52,4.74
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,2000,6.72,6.18,6.48,9.05
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,2000,4.04,3.43,4.93,10.1
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,2000,NA,5.42,5.92,6.46
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,2000,5.04,3.35,5.96,4.46
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,2000,5.1,4.38,6.11,5.12
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00583333,87.7225,"Mugberia Pz-2","Tube Well",W10628,2000,5.81,9.42,5.36,10.26
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00555556,87.72222222,"Mugberia Pz-1","Tube Well",W10627,2000,5.86,6.4,5.43,6.98
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,2000,5.4,4.96,3.76,6.23
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,2000,7.06,8.24,7.16,8.89
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,2000,8.3,10.39,8.16,10.47
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,2000,8.02,7.89,8.23,8.89
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.97916667,87.75,Ramnagar-i,"Tube Well",W11227,2000,4.82,8.45,6.26,9.82
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,2000,NA,6.9,3.61,7.5
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,2000,'0.39,8.55,1.03,8.76
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,2000,9.03,8.1,9.05,10.07
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,2000,1.65,5.19,2.55,6.36
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,2000,1.04,3.21,4.26,7.12
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00694444,87.72277778,"Mugberia Pz-3","Tube Well",W10629,2000,5.81,9.49,5.5,10.22
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,1999,4.99,8.02,3.68,12.83
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,1999,NA,4.28,2.58,7.94
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00694444,87.72277778,"Mugberia Pz-3","Tube Well",W10629,1999,6.27,NA,5.34,NA
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00583333,87.7225,"Mugberia Pz-2","Tube Well",W10628,1999,6.54,NA,5.48,NA
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,22.00555556,87.72222222,"Mugberia Pz-1","Tube Well",W10627,1999,5.48,NA,4.62,NA
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,1999,5.8,4.83,4.04,6.48
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,1999,7.23,11.57,6.39,11.8
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,1999,8.39,13.54,6.59,15.3
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,1999,8.1,7.17,8.25,7.48
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,1999,6.67,6.44,5.8,9.87
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,1999,4.57,9.6,3.14,12.66
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,1999,'0.48,7.32,1.98,7.91
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,1999,4.57,9.6,3.09,12.72
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,1999,4.72,9.82,3.12,12.8
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,1999,NA,5.92,2.77,9.22
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,1999,3.13,4.72,2.18,7.58
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.17916667,87.98333333,"Mahisadal Mw","Tube Well",W10683,1999,NA,1.42,NA,1.99
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,1999,7.06,7.4,6.22,9.06
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,1999,4.32,5.15,3.58,10.2
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.97916667,87.75,Ramnagar-i,"Tube Well",W11227,1999,4.92,11.84,4.04,9.05
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,1999,7.81,8.22,6.75,10.13
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,1999,8.85,8.04,8.82,8.53
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,1999,9.18,8.43,9.21,9.27
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,1999,3.3,5.72,2.66,10.48
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,1999,1.78,4.31,1.04,8.92
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,1999,5.03,6.46,4,8.73
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,1998,6.24,7.06,6.26,7.64
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,1998,8.19,5.45,4.09,5.19
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06694444,87.50138889,Bonamalichatra,"Tube Well",W10700,1998,3.88,NA,3.16,5.66
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.06666667,87.50027778,Bodhra-2,"Tube Well",W10699,1998,NA,NA,NA,3.49
+WB,"Purba Medinipur",Sutahata,Sutahata,22.12777778,88.17916667,"Durgachak Pz","Tube Well",W10717,1998,NA,8.07,NA,5.6
+WB,"Purba Medinipur",Pataspur-i,Pataspur-i,22.08333333,87.5,Bodhra-1,"Tube Well",W10698,1998,2.57,NA,2.38,NA
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.4,87.8,"Panskura Pz","Tube Well",W10697,1998,8.33,7.06,6.11,9.72
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63416667,87.50194444,"Digha Pz-2","Tube Well",W10709,1998,NA,1.97,NA,NA
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.17916667,87.98333333,"Mahisadal Mw","Tube Well",W10683,1998,'0.56,5.01,'0.92,1.75
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,1998,4.16,5.02,2.81,4.11
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,1998,NA,7.22,5.31,6.81
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,1998,5.97,5.45,5.6,7.23
+WB,"Purba Medinipur",Khejuri-i,Bhagwanpur-ii,21.98333333,87.79722222,Heria-1,"Tube Well",W10680,1998,NA,NA,3.97,6.91
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,1998,7.36,5.2,6.16,8.52
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.97916667,87.75,Ramnagar-i,"Tube Well",W11227,1998,4.73,NA,3.94,5.6
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,1998,2.58,4.52,3.24,6.95
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,1998,NA,7.3,NA,NA
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.85,87.73333333,Bonamalichatra1,"Tube Well",W10638,1998,3.96,NA,2.93,NA
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,1998,8.3,9,8.03,6.26
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.26111111,87.89666667,"Tamluk Pz-3","Tube Well",W11238,1998,NA,7.81,NA,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,1998,1.14,2.12,'0.57,6.6
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,1998,8.43,8.11,8.57,8.65
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,1998,7.81,7.4,6.38,9.89
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,1998,NA,3.03,2.11,NA
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.00138889,87.53333333,Motirampur-ii,"Tube Well",W10703,1998,6.71,NA,3.92,8.85
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,1998,NA,3.02,1.38,3.62
+WB,"Purba Medinipur",Bhagwanpur-ii,Bhagwanpur-ii,21.96666667,87.71138889,Heria-2,"Tube Well",W10626,1998,NA,NA,3.17,5.19
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22,87.53333333,"Motirampur pz","Tube Well",W10702,1998,6.74,NA,3.46,NA
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,1997,3.64,3.4,4.8,5.67
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,1997,1.4,2.5,2.15,5.05
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,1997,1.3,1.87,2.28,3.98
+WB,"Purba Medinipur",Haldia,Haldia,22.08083333,88.02805556,Balughata1,"Tube Well",W10666,1997,NA,5.38,NA,NA
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,1997,6.96,6.36,7.31,NA
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.26111111,87.89666667,"Tamluk Pz-3","Tube Well",W11238,1997,6.41,5.59,6.7,8.12
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.68611111,87.52916667,Ramnagar,"Tube Well",W11242,1997,NA,3.62,NA,NA
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,1997,8.16,5.38,8.02,8.23
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,1997,5.95,5.58,6.25,8.22
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,1997,6.45,4.6,6.75,6.74
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.17916667,87.98333333,"Mahisadal Mw","Tube Well",W10683,1997,2.07,5.61,2.07,6.87
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.4,87.8,"Panskura Pz","Tube Well",W10697,1997,6,6.51,5.65,11.6
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,1997,'0.42,2.08,1.5,7.63
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,1997,3.25,3.4,4.05,5.8
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,1997,5.6,NA,5.2,1.94
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63416667,87.50194444,"Digha Pz-2","Tube Well",W10709,1997,1.05,1.93,1.2,2.18
+WB,"Purba Medinipur",Sutahata,Sutahata,22.12777778,88.17916667,"Durgachak Pz","Tube Well",W10717,1997,5.04,5.08,7.02,5.22
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,1997,6,5.86,6.41,5.54
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,1997,7.55,6.37,6.55,11.3
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,1997,5.38,4.99,4.8,8.82
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,1997,3.23,2.79,4,5.49
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.51666667,"Negua Dow","Tube Well",W10653,1996,2.49,1.2,1.25,7.31
+WB,"Purba Medinipur",Egra-i,Egra-i,21.80555556,87.525,Egra,"Tube Well",W10652,1996,1.97,NA,4.45,10.4
+WB,"Purba Medinipur",Haldia,Haldia,22.08083333,88.02805556,Balughata1,"Tube Well",W10666,1996,7.21,NA,2.65,7.65
+WB,"Purba Medinipur",Haldia,Haldia,22.02083333,88.05527778,"Haldia Anc.camp","Tube Well",W10667,1996,6.6,6.22,6.18,8.14
+WB,"Purba Medinipur",Mahisadal-i,Mahisadal-i,22.26111111,87.89666667,"Tamluk Pz-3","Tube Well",W11238,1996,6.68,5.45,4.33,8.28
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.68611111,87.52916667,Ramnagar,"Tube Well",W11242,1996,1.21,2.45,2.3,2.81
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1375,88.125,"Sutahata Mw","Tube Well",W11249,1996,7.54,7.46,7.47,8.43
+WB,"Purba Medinipur",Tamluk-i,Tamluk-i,22.29444444,87.89722222,"Tamluk Pz-2","Tube Well",W11250,1996,6.72,5.49,3.9,8.57
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.13333333,87.99166667,"Kapasaria Dew","Tube Well",W10681,1996,5.46,4.47,4.3,6.43
+WB,"Purba Medinipur",Mahisadal-ii,Mahisadal-ii,22.17916667,87.98333333,"Mahisadal Mw","Tube Well",W10683,1996,6.67,1.27,1.8,2.1
+WB,"Purba Medinipur",Panskura-ii,Panskura-ii,22.4,87.8,"Panskura Pz","Tube Well",W10697,1996,5.94,4.71,3.62,11.36
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01527778,87.53333333,Patashpur,"Tube Well",W10704,1996,'0.5,NA,1.08,8.91
+WB,"Purba Medinipur",Pataspur-ii,Pataspur-ii,22.01666667,87.53888889,Potashpur,"Tube Well",W10705,1996,4.61,2.7,2.3,9.26
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63361111,87.5025,"Digha Pz-1","Tube Well",W10708,1996,1.36,1.93,4.05,7.92
+WB,"Purba Medinipur",Ramnagar-i,Ramnagar-i,21.63416667,87.50194444,"Digha Pz-2","Tube Well",W10709,1996,1.54,1.78,1.15,2.33
+WB,"Purba Medinipur",Sutahata,Sutahata,22.12777778,88.17916667,"Durgachak Pz","Tube Well",W10717,1996,4.75,4.91,4.99,4.87
+WB,"Purba Medinipur",Sutahata,Sutahata,22.1,88.14166667,"Haldia Helipad","Tube Well",W10718,1996,6.01,6.06,5.66,6.69
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08416667,87.71694444,"Bhagwanpur Dpz","Tube Well",W10624,1996,6.2,6.25,6,12.25
+WB,"Purba Medinipur",Bhagwanpur-i,Bhagwanpur-i,22.08333333,87.71666667,"Bhagwanpur Spz","Tube Well",W10625,1996,6.21,3.48,3.91,8.48
+WB,"Purba Medinipur","Contai Iii",Kanthi-iii,21.78333333,87.75,"Contai Pz-2","Tube Well",W10639,1996,4.33,3.46,2.83,5.56
+WB,"Purba Medinipur",Egra-ii,Egra-ii,21.86388889,87.59305556,Balighai,"Tube Well",W10655,1996,1.7,2.23,2.03,8.98

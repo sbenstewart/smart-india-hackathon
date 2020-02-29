@@ -1,0 +1,380 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2018,NA,4.37,NA,NA
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2018,NA,8.7,NA,NA
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2018,NA,8.05,NA,NA
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2018,NA,1.55,NA,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2018,NA,NA,5.33,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2018,NA,2.42,1.9,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2018,NA,1.81,1.46,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2018,NA,4.74,3.35,NA
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2018,NA,'0.94,1.22,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2018,NA,4.61,NA,NA
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2018,NA,9.19,5.29,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2018,NA,1.46,2.06,NA
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2018,NA,'0.65,1.25,NA
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2018,NA,10.69,10.84,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2017,'0.71,'0.6,1.01,2.4
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2017,9.5,9.49,9.92,11.19
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2017,3.21,3.09,3.29,5.89
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2017,5.32,6.99,5.3,10.4
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2017,7.44,7.69,7.49,9.59
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2017,2.19,2.07,2.3,6.79
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2017,NA,2.58,NA,4.63
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2017,1.77,1.7,1.86,2.66
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2017,'0.33,'0.31,'0.3,2.3
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2017,1.51,1.61,1.65,2.71
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2017,NA,'0.78,3.42,6.42
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2017,4.39,4.5,4.51,NA
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2017,1.17,1.8,1.24,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2017,2.72,3.29,2.71,6.41
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2016,'0.85,NA,'0.2,2.25
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2016,1.39,NA,1.89,5.64
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2016,2.09,NA,1.69,11.1
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2016,3.1,NA,5.9,12.4
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2016,'0.51,NA,1.36,3.01
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2016,'0.41,NA,1.51,2.36
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2016,'0.22,NA,'0.82,3.32
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2016,'0.1,NA,'0.6,2.3
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2016,9.89,NA,10.14,NA
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2016,'0.9,NA,'0.7,4.96
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2016,2.29,NA,1.99,11.14
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2016,1.03,NA,3.03,5.23
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2016,'0.41,NA,3.71,5.82
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2016,1.3,NA,3.3,5.66
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2015,1.4,'0.45,'0.25,1.95
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2015,1.39,3.21,3.44,4.3
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2015,1.79,8.24,3.89,9.24
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2015,5.4,3.07,3.35,3.57
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2015,2.01,1.96,1.86,2.01
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2015,2.26,1.16,1.46,2.16
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2015,1.52,'0.67,'0.87,3.07
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2015,'0.4,'0.3,'0.5,'0.82
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2015,8.19,8.39,NA,8.19
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2015,2.05,'0.22,'0.65,3.92
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2015,10.19,7.97,10.14,9.04
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2015,2.83,2.28,4.43,4.48
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2015,3.51,3.81,3.91,4.21
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2015,2.6,3.6,5.2,5.65
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2014,1.04,'0.4,1.38,2.2
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2014,1.8,2.39,2.45,4.46
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2014,1.64,3.32,3.39,3.25
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2014,5.38,1.7,6.8,9.1
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2014,1.9,1.97,1.89,2.31
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2014,1.18,1.04,1.86,2.61
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2014,4.82,'0.82,1.09,6.09
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2014,'0.07,'0.02,'0.18,'0.8
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2014,7.34,8.01,8.09,13.49
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2014,3.35,1.3,4.45,6
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2014,6.74,9.39,9.59,8.81
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2014,NA,'0.93,NA,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2014,3.51,2.61,4.33,5.41
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2014,1.57,1.8,1.45,3.85
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2013,'0.15,'0.7,1.6,2.25
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2013,'0.29,4.05,'0.69,5.59
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2013,1.39,8.45,1.74,9.09
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2013,6.61,6.48,7.36,12.45
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2013,1.71,6.12,2.71,6.12
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2013,'0.56,1.11,1.64,3.09
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2013,'0.42,'0.86,2.62,3.14
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2013,'0.5,1,-0.4,1.58
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2013,2.64,11.29,7.79,12.59
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2013,1,3.12,3.1,4.32
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2013,9.39,12.22,10.94,14.04
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2013,NA,6.81,NA,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2013,'0.53,2.83,2.33,3.51
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2013,'0.1,8.47,1.1,9.72
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2012,NA,'0.6,'0.16,3.6
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2012,NA,1.11,'0.97,NA
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2012,NA,2.39,2.02,8.29
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2012,NA,5.15,4.95,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2012,NA,2.41,2.46,2.41
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2012,NA,1.23,1.71,2.94
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2012,NA,2.9,5.08,9.72
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2012,NA,'0.9,'0.8,1.68
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2012,NA,7.54,9.26,10.29
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2012,NA,NA,3.6,NA
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2012,NA,'0.27,2.11,4.9
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2012,NA,13.36,13.64,16.24
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2012,NA,6.81,NA,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2012,NA,2.56,3.31,6.57
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2012,NA,2.25,3.3,4.11
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2011,17.5,2.16,2.05,3.05
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2011,'0.99,3.86,1.57,8.09
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2011,2.39,11.75,2.19,8.09
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2011,11.4,5.8,7.66,10.4
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2011,7.01,1.25,2.08,2.91
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2011,'0.76,'0.94,'0.91,3.36
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2011,2.72,NA,2.2,5.84
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2011,'0.9,2.95,'0.82,4.8
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2011,2.09,13.55,8.13,17.19
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2011,'0.8,'0.96,'0.83,8.7
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2011,16.69,NA,14.86,18.94
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2011,NA,NA,16.34,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2011,2.91,4.01,3.54,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2011,1.5,8.57,1.56,NA
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2010,3.13,'0.72,2.09,3.37
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2010,12.02,'0.43,3.81,6.81
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2010,10.65,12.99,13.23,13.02
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,2010,NA,NA,9.81,NA
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2010,NA,NA,17.98,NA
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2010,NA,NA,12.82,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2010,4.08,5.58,1.37,1.69
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2010,'0.88,1.36,1.4,4.96
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2010,4.5,8.11,6.5,10.76
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2010,2.82,2.02,2.55,4.85
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2010,NA,14.09,12.47,13.43
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2010,4.9,2.24,'0.66,NA
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2010,16.99,15.07,17.72,18.24
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2010,17.67,18.95,18.64,18.98
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2010,5.31,4.24,4.65,NA
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2010,6.83,6.73,5.73,NA
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2009,'0.79,1.24,'0.99,2.65
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2009,3.89,5.37,4.6,6.72
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2009,8.14,12.94,12.27,11.59
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2009,18,18.06,NA,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2009,'0.91,5.46,4.52,1.14
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2009,1.66,1.2,1.49,4.13
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2009,6.92,'0.83,1.94,6.89
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2009,1,1.89,1.72,NA
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2009,NA,11.43,13.88,NA
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2009,NA,'0.27,2.28,NA
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2009,14.59,16.62,15.83,16.91
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2009,17.05,18.87,17.79,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2009,NA,3.33,4.17,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2009,2.87,4.98,5.92,9.68
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2008,'0.93,2.7,'0.53,NA
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2008,'0.41,1.94,'0.85,2.62
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2008,7.85,4.63,12.07,12.59
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,2008,9.12,3.04,10.35,NA
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2008,16.71,17.49,16.95,17.7
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2008,7.29,NA,14.87,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2008,'0.95,13.3,1.01,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2008,1.12,1.45,1.02,3.5
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2008,2.41,5.81,4.45,8.65
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2008,NA,3.89,1.56,3.1
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2008,8.26,NA,10.09,NA
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2008,9.59,11.04,NA,NA
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2008,'0.55,1.24,1.1,3.55
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2008,14.72,18.25,13.93,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2008,13.63,19.54,12.63,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2008,3.37,3.38,2.96,NA
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2008,2.89,6.65,4.79,5.3
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2007,NA,1.14,1.28,NA
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,2007,NA,4.96,NA,NA
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2007,3.24,6.28,4.74,NA
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2007,1.34,6.61,2.37,NA
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,2007,4.77,1.1,2.64,7.1
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2007,16.34,16.88,17.37,17.72
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2007,8.7,9.56,NA,12.6
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2007,11.41,NA,13.5,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2007,1.2,3.16,1.5,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2007,2.3,4.44,3.28,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2007,3.48,4.59,3.73,NA
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2007,8.39,14.67,9.67,NA
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2007,2.3,'0.24,'0.56,4.5
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2007,16.21,19.25,16.54,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2007,18.37,11.52,19.08,NA
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2007,2.89,3,3.12,4.97
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2007,1.14,1.36,1.71,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39166667,76.075,Kapren-2,"Bore Well",W20619,2007,NA,5.41,NA,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2006,NA,5.37,NA,3.77
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2006,2.76,5.56,3.19,5.92
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2006,5.86,NA,9.88,NA
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2006,'0.58,1.01,'0.5,3.1
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2006,1.25,3.3,1.75,4.68
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2006,NA,9.29,NA,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2006,10.81,5.79,3.16,NA
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2006,17.01,19.18,16.84,NA
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2006,4.83,NA,6.63,NA
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2006,1.11,1.43,'0.84,4.47
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2006,15.99,15.42,15.67,16.4
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2006,7.55,15.22,NA,NA
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,2006,4.51,2.66,2.73,10.15
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2006,'0.93,'0.39,2.15,4.78
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2006,1.44,6.68,4.14,10.49
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2006,1.5,3.47,2.21,5.71
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2006,2.46,4.09,3.28,8.11
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2005,1.82,3.17,2.47,3.1
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2005,3.5,4.73,3.12,NA
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,2005,9.47,NA,NA,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2005,3.33,2.81,1.83,5.76
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2005,8.28,1.93,2.3,NA
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2005,13.89,7.28,12,13.42
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2005,13.98,14.4,14.42,14.71
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,2005,8.77,1.36,8.98,6.92
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2005,7.57,6.13,4.73,7.99
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,2005,NA,10.29,NA,NA
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2005,3.01,'0.96,2.92,7.51
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39166667,76.075,Kapren-2,"Bore Well",W20619,2005,NA,NA,1.6,NA
+RJ,Bundi,Ladpura,"Keshorai Patan",25.26583333,75.91527778,Gudli,"Dug Well",W18373,2005,2.41,1.34,'0.66,8.22
+RJ,Bundi,Ladpura,Talera,25.2275,75.83777778,Girdharpura,"Dug Well",W18372,2005,3.72,3.41,2.72,5.18
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51666667,76.16666667,"Dahi Khera-2","Dug Well",W18125,2005,NA,18.85,18.35,NA
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2005,18.67,18.81,19.44,18.86
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2005,1.36,'0.4,1.17,4.57
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2005,9.27,15.34,NA,15.87
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2005,NA,NA,9.16,NA
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2005,4.47,5.13,3.93,6.16
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2003,NA,16.79,NA,17.39
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2003,NA,NA,NA,20.24
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2003,NA,5.22,NA,6.86
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2003,NA,12.73,NA,13.23
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2003,NA,14.85,NA,17.34
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2003,NA,7.88,NA,10.25
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2003,NA,5.3,NA,NA
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2002,3.72,4.56,7.76,7.9
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2002,NA,'0.26,NA,NA
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2002,1.54,16.26,12.01,15.44
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2002,'0.51,2.7,5.17,4.96
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,2002,'0.02,2,NA,8.53
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2002,'0.17,'0.53,5.31,4.65
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2002,1.28,3.07,6.43,7.38
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2002,NA,10.37,NA,NA
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,2002,NA,24.65,NA,NA
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2002,7.22,6.23,NA,14.77
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2002,5.22,14.69,17.09,17.94
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2002,14.91,8.32,NA,17.8
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2002,11.15,NA,14.68,13.52
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2002,'0.62,1.29,4.07,3.99
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2001,5.44,6.2,3.36,9.6
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,2001,11.39,NA,NA,NA
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2001,1.88,2.47,2.77,3.7
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2001,16.83,17.08,17.07,17.8
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,2001,17.48,16.12,19.23,NA
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2001,5.65,NA,2.95,NA
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2001,8.06,17.05,10.57,17.6
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2001,10.62,NA,10.46,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2001,3.12,4.87,2.8,4.88
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2001,1.1,9.92,'0.92,11.97
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,2001,2.05,NA,10.71,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2001,1.63,3.15,2.43,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2001,2.08,3.98,NA,NA
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2001,7.38,8.48,10.64,16.09
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2001,11.4,13.84,11.4,14.86
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,2001,1.35,2.2,2.35,9.54
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2001,3.1,12.73,8.6,15.24
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,2000,15.61,14.58,16.61,15.47
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,2000,8.15,11.02,11.09,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,2000,1.7,1.72,'0.78,1.94
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,2000,1.71,1.51,1.52,4.93
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,2000,1.61,1.95,1.91,3.2
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,2000,3.64,3.37,4.6,3.19
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,2000,17.74,23.26,21.15,NA
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,2000,8.45,14.37,13.94,NA
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,2000,10.5,7.28,9.39,15.67
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,2000,1.29,1.54,1.39,3.22
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,2000,5.63,8.32,8.08,11.7
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,2000,12.89,13.6,13.04,14.98
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,2000,7.88,6.61,9.3,9.25
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,2000,10.87,10.25,NA,NA
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,2000,6,2.4,3.4,11.66
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,2000,3.42,4.94,4.8,7.85
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,2000,4.41,17.35,17.29,NA
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51111111,76.17555556,"Dahi Khera-1","Dug Well",W13920,2000,NA,7.37,NA,NA
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,1999,4.78,8.55,6.15,9.6
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,1999,6.09,17.78,6.94,NA
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,1999,8.93,10.79,10.92,NA
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,1999,11.61,17.42,10.29,17.67
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,1999,1.18,1.57,1.57,2.88
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,1999,NA,23.25,19.27,NA
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,1999,2.49,14,15.7,14.9
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,1999,1.51,5.55,1.8,3.19
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,1999,6.53,6.54,NA,8.42
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,1999,2.39,6.41,4.43,7.33
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,1999,NA,9.55,8.24,11.45
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,1999,12.9,4.14,6.21,11.8
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,1999,12.74,13.11,12.63,8.7
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,1999,8.76,10.11,12.16,16.78
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51111111,76.17555556,"Dahi Khera-1","Dug Well",W13920,1999,2.74,7.22,6.96,12.92
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,1999,2.26,1.75,1.76,3.2
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,1999,1.12,1.23,1.5,2.66
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,1999,1.85,4.71,3.48,5.1
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,1998,4.7,3.88,6.9,9.82
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,1998,1.79,2.01,3.57,3.73
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,1998,9.01,8.39,10.86,9.7
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,1998,11.34,7.54,13.54,17.14
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,1998,1.12,1.46,1.46,1.74
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,1998,23.75,14.98,19,23.05
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,1998,2.19,12.81,5.26,5.15
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,1998,1.74,1.61,1.66,2.26
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,1998,6.77,6.29,6.36,8
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,1998,2.43,3.54,5.71,5.7
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,1998,3.87,5.97,6.26,6.8
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,1998,NA,1.26,3.76,5.12
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,1998,12.14,11.13,11.84,12.12
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,1998,12.92,5.28,11.66,11.48
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51111111,76.17555556,"Dahi Khera-1","Dug Well",W13920,1998,2.67,3.31,6.12,5.77
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,1998,2.3,3.95,1.97,2.41
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,1998,1.14,1.46,1.35,2.54
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,1998,6.34,7.4,4.2,17.56
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,1997,1.69,2.5,1.96,3.46
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,1997,3.71,3.28,3.55,8.17
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,1997,9.62,13.92,10.85,17.2
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,1997,1.16,1.46,1.6,2.82
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,1997,11.6,13.19,10.81,NA
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,1997,2.03,11.6,12.52,13.58
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,1997,1.26,1.61,1.45,2.17
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,1997,5.68,6.09,6.18,8.61
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,1997,1.76,3.9,3.11,5.98
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,1997,2.97,5.68,5.91,7.8
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,1997,4.65,1.9,3.4,7.1
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,1997,10.95,10.3,10.4,11.51
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,1997,5.25,5.14,7.4,12.35
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51111111,76.17555556,"Dahi Khera-1","Dug Well",W13920,1997,2.59,3.12,NA,5.52
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,1997,2.71,2.52,4.03,5.36
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,1997,1.05,1.6,1.55,2.63
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,1997,1.41,6.82,5.55,NA
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,1997,9.05,8.5,9.45,9.96
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,1996,1.61,2.52,2.42,4.08
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,1996,2.15,3.35,3.05,6.1
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,1996,NA,13.93,11.76,16.95
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,1996,1.1,1.09,1.39,2.34
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,1996,12.73,19.92,13.93,27.1
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,1996,1.84,12.18,12.12,13.6
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,1996,1.24,1.54,1.38,3.36
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,1996,3.62,6.38,6.19,8.42
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,1996,1.6,4.58,3.3,6.88
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,1996,2.11,5.13,6.41,9.72
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,1996,1.53,1.74,2,8.79
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,1996,11.2,11.91,12.17,13.7
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,1996,4.16,3.87,4.97,14.22
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51111111,76.17555556,"Dahi Khera-1","Dug Well",W13920,1996,2.36,3.7,3.12,5.63
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,1996,2.25,3.76,2.79,5.58
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,1996,NA,1.77,1.47,2.95
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,1996,NA,8.9,4.88,16.03
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,1996,7.9,7.6,8.57,9.61
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,1995,1.5,2.4,2.72,3.32
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,1995,1.43,1.56,2.9,5.86
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,1995,7.73,11.62,10.55,16.31
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,1995,'0.7,1.78,NA,1.55
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,1995,17.55,15,14.82,20.86
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,1995,NA,13,12.42,13.96
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,1995,1.29,1.92,1.56,3.05
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,1995,4.3,6.27,6.51,8.82
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,1995,2.4,2.54,4.11,5.69
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,1995,2.19,4.84,6.88,7.18
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,1995,3.29,2.02,2.13,4.09
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,1995,11.8,11.37,11.15,12.33
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,1995,7.25,4.99,6.25,12.65
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51111111,76.17555556,"Dahi Khera-1","Dug Well",W13920,1995,2.51,2.19,3.32,4.65
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,1995,1.9,3,3.8,6.7
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,1995,'0.73,1.24,2.01,2.74
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,1995,1.08,13,4.62,15.54
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,1995,7.43,7.83,7.8,9.65
+RJ,Bundi,Nainwa,"Keshorai Patan",25.66666667,76.18333333,Lakheri,"Dug Well",W13925,1994,2.08,3.44,2.46,4.8
+RJ,Bundi,Nainwa,"Keshorai Patan",25.54166667,75.99583333,Gaindoli,"Dug Well",W13924,1994,'0.96,5.2,2.39,6.96
+RJ,Bundi,Nainwa,Nainwa,25.77333333,75.86333333,Nenwa,"Dug Well",W13927,1994,6,16.55,10.37,17.45
+RJ,Bundi,Bundi,Talera,25.26666667,75.76666667,Ballop,"Dug Well",W13910,1994,1.48,1.28,1.27,3.92
+RJ,Bundi,Bundi,Talera,25.44388889,75.64722222,Bundi,"Dug Well",W13911,1994,11.97,19.51,NA,25.35
+RJ,Bundi,Bundi,Talera,25.47083333,75.86666667,Delunda,"Dug Well",W13912,1994,5.6,13.58,13.55,15.04
+RJ,Bundi,Bundi,"Keshorai Patan",25.40833333,75.8875,Maija,"Dug Well",W13913,1994,1.31,1.7,1.8,2.75
+RJ,Bundi,Bundi,Talera,25.37222222,75.67194444,"Namana Road","Dug Well",W13914,1994,4.37,6.38,6.71,8.48
+RJ,Bundi,Bundi,Talera,25.49444444,75.825,Rajwas,"Dug Well",W13915,1994,1.52,4.62,3.17,6.5
+RJ,Bundi,Bundi,Talera,25.4,75.55833333,Ramnagar,"Dug Well",W13916,1994,2.62,6.15,5.85,9.14
+RJ,Bundi,Hindoli,Hindoli,25.53333333,75.53333333,Chhatarganj,"Dug Well",W13917,1994,1.62,2.64,1.95,7.37
+RJ,Bundi,Hindoli,Hindoli,25.66388889,75.43888889,Devakhera,"Dug Well",W13918,1994,12.27,14.38,11.06,15.27
+RJ,Bundi,Hindoli,Hindoli,25.47222222,75.55416667,Satur,"Dug Well",W13919,1994,2.74,5.9,4.43,12.57
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.51111111,76.17555556,"Dahi Khera-1","Dug Well",W13920,1994,2.61,4.76,2.83,7.28
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.39111111,76.07361111,Kapren-1,"Dug Well",W13921,1994,2.38,2.06,2.81,5.53
+RJ,Bundi,Keshoraipatan,"Keshorai Patan",25.31888889,75.93055556,Keshoraipatan1,"Dug Well",W13922,1994,'0.93,1.4,1.65,2.83
+RJ,Bundi,Nainwa,Nainwa,25.67555556,75.94472222,Dei,"Dug Well",W13923,1994,1.23,9.07,5,16.1
+RJ,Bundi,Nainwa,Nainwa,25.55555556,75.94722222,Motipura,"Dug Well",W13926,1994,7.55,8,7.38,NA

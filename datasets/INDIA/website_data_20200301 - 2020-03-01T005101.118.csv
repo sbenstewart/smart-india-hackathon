@@ -1,0 +1,529 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2018,NA,12.25,NA,NA
+KA,Dharwad,Dharwad,Navalgund,15.59194444,75.15194444,Gummagola,"Dug Well",W31094,2018,NA,7.9,8.1,NA
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2018,NA,22.74,21.64,NA
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2018,NA,16.5,17,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2018,NA,5,1.5,NA
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2018,NA,4.9,4.77,NA
+KA,Dharwad,Hubli,Hubli,15.25416667,75.17083333,"Sherewad A","Dug Well",W22533,2018,NA,5.46,6.1,NA
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2018,NA,1.83,1.53,NA
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2018,NA,12.9,9,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2018,NA,10.46,5.1,NA
+KA,Dharwad,Dharwad,Hubli,15.32861111,75.1475,Kadabaghatti,"Dug Well",W22566,2018,NA,12.9,7.4,NA
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2018,NA,9.53,7.53,NA
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2018,NA,6.54,3.83,NA
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2018,NA,7.38,4.41,NA
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2018,NA,16.36,19.31,NA
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2018,NA,7.95,6.7,NA
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2018,NA,13.34,14,NA
+KA,Dharwad,Dharwad,Navalgund,15.55611111,75.14916667,"Tale Morab","Dug Well",W24907,2018,NA,4.3,3.55,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.10388889,74.90555556,Saidur,"Dug Well",W24817,2018,NA,8.6,5.6,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18083333,74.92555556,Kalkurdi,"Dug Well",W24838,2018,NA,1.3,'0.5,NA
+KA,Dharwad,Hubli,Hubli,15.22944444,75.13638889,Kunnur,"Dug Well",W24847,2018,NA,4.52,1.25,NA
+KA,Dharwad,Hubli,Hubli,15.28416667,75.15472222,Adaragunj,"Dug Well",W24853,2018,NA,16.25,12.8,NA
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Bidnal,"Dug Well",W24855,2018,NA,11.65,13.05,NA
+KA,Dharwad,Hubli,Hubli,15.45138889,75.17722222,Sulla,"Dug Well",W24889,2018,NA,17.4,7.5,NA
+KA,Dharwad,Dharwad,Dharwad,15.36944444,74.99444444,"Nayakana Hulikatte Kere","Dug Well",W24874,2018,NA,7.6,2.68,NA
+KA,Dharwad,Dharwad,Dharwad,15.45944444,74.95305556,Kelgeri,"Dug Well",W24892,2018,NA,19.1,19.1,NA
+KA,Dharwad,Dharwad,Dharwad,15.62277778,75.07222222,Harobelavadi,"Dug Well",W24921,2018,NA,5,5.15,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2018,NA,NA,11.14,6.44
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2017,11.78,2.7,7.9,NA
+KA,Dharwad,Dharwad,Dharwad,15.46361111,74.96722222,Kalgere,"Dug Well",W31090,2017,NA,NA,15.7,NA
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2017,29.6,28.58,27,28.04
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2017,21.03,18.82,17.4,20.4
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2017,6.94,8,4.8,12.18
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2017,5.25,5.18,4.75,4.93
+KA,Dharwad,Hubli,Hubli,15.25416667,75.17083333,"Sherewad A","Dug Well",W22533,2017,7.08,7.85,5,8.2
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2017,8.85,2.05,1.43,5.36
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2017,14.18,12.65,14.35,5.93
+KA,Dharwad,Dharwad,Hubli,15.32861111,75.1475,Kadabaghatti,"Dug Well",W22566,2017,12.9,14.6,7.8,12.9
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2017,9.53,14.87,8.03,9.53
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2017,4.36,9.28,2.58,7.05
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2017,10.4,8.68,4.98,10.55
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2017,14.41,18.86,15.51,16.21
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2017,7.85,7.38,6.95,7.3
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2017,NA,11.14,NA,NA
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2017,13.63,NA,13.51,13.43
+KA,Dharwad,Hubli,Hubli,15.28416667,75.15472222,Adaragunj,"Dug Well",W24853,2017,NA,24.3,13.2,18.95
+KA,Dharwad,Kalghatgi,Kalghatgi,15.10388889,74.90555556,Saidur,"Dug Well",W24817,2017,6.65,10.22,6.2,9.25
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Bidnal,"Dug Well",W24855,2017,12.1,12.5,10.5,12.5
+KA,Dharwad,Hubli,Hubli,15.45138889,75.17722222,Sulla,"Dug Well",W24889,2017,19.27,19.07,12.65,18.35
+KA,Dharwad,Dharwad,Dharwad,15.36944444,74.99444444,"Nayakana Hulikatte Kere","Dug Well",W24874,2017,7.6,11.28,7.6,7.6
+KA,Dharwad,Dharwad,Dharwad,15.62277778,75.07222222,Harobelavadi,"Dug Well",W24921,2017,6.1,5.6,5.08,5.9
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18083333,74.92555556,Kalkurdi,"Dug Well",W24838,2017,1.2,1.8,NA,1.8
+KA,Dharwad,Hubli,Hubli,15.22944444,75.13638889,Kunnur,"Dug Well",W24847,2017,34.05,6.5,NA,10.98
+KA,Dharwad,Dharwad,Dharwad,15.45944444,74.95305556,Kelgeri,"Dug Well",W24892,2017,19.1,19.1,NA,19.1
+KA,Dharwad,Dharwad,Navalgund,15.55611111,75.14916667,"Tale Morab","Dug Well",W24907,2017,7.15,5.02,3.3,5.15
+KA,Dharwad,Dharwad,Navalgund,15.59194444,75.15194444,Gummagola,"Dug Well",W31094,2017,9.32,9.1,8.2,8.85
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2017,60.35,15.6,10.03,NA
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2016,5.95,NA,6.28,9.9
+KA,Dharwad,Dharwad,Navalgund,15.59194444,75.15194444,Gummagola,"Dug Well",W31094,2016,10.4,8.07,8,NA
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2016,16.61,NA,16.01,18.3
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2016,18.05,NA,11.2,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2016,8.4,NA,5.07,10.47
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2016,26.8,NA,28.6,20.77
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2016,5,NA,5.12,5.16
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2016,16.1,NA,16.85,15.8
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2016,NA,NA,NA,11.14
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2016,1.28,NA,1.27,1.98
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2016,6.85,NA,6.9,7.6
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2016,9.13,NA,9.66,14.87
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2016,NA,NA,6.15,NA
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2016,NA,NA,NA,12.94
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2016,3.38,NA,5.73,9.85
+KA,Dharwad,Hubli,Hubli,15.25416667,75.17083333,"Sherewad A","Dug Well",W22533,2016,6.2,NA,NA,7.95
+KA,Dharwad,Dharwad,Hubli,15.32861111,75.1475,Kadabaghatti,"Dug Well",W22566,2016,6.7,NA,11.51,14.6
+KA,Dharwad,Kalghatgi,Kalghatgi,15.10388889,74.90555556,Saidur,"Dug Well",W24817,2016,7.19,7.41,7.52,8.43
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18083333,74.92555556,Kalkurdi,"Dug Well",W24838,2016,NA,1.78,8.3,7
+KA,Dharwad,Hubli,Hubli,15.22944444,75.13638889,Kunnur,"Dug Well",W24847,2016,NA,3.07,3,NA
+KA,Dharwad,Hubli,Hubli,15.28416667,75.15472222,Adaragunj,"Dug Well",W24853,2016,14.4,14.21,13.6,18.33
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Bidnal,"Dug Well",W24855,2016,7.47,12.28,11.4,12.5
+KA,Dharwad,Dharwad,Dharwad,15.36944444,74.99444444,"Nayakana Hulikatte Kere","Dug Well",W24874,2016,7.1,9.8,7.65,9.8
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Annigeri,"Bore Well",W24885,2016,NA,8.71,NA,NA
+KA,Dharwad,Hubli,Hubli,15.45138889,75.17722222,Sulla,"Dug Well",W24889,2016,8.25,18.59,18.05,17.82
+KA,Dharwad,Dharwad,Dharwad,15.45944444,74.95305556,Kelgeri,"Dug Well",W24892,2016,19.1,19.1,NA,19.1
+KA,Dharwad,Dharwad,Navalgund,15.55611111,75.14916667,"Tale Morab","Dug Well",W24907,2016,4.4,4.55,4.2,4.1
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2016,1.4,NA,2,6.46
+KA,Dharwad,Dharwad,Dharwad,15.62277778,75.07222222,Harobelavadi,"Dug Well",W24921,2016,6.95,4.76,5.35,5.24
+KA,Dharwad,Dharwad,Dharwad,15.46361111,74.96722222,Kalgere,"Dug Well",W31090,2016,13.7,NA,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2016,19,NA,12.2,10.7
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2015,5.48,4.59,4.28,5.27
+KA,Dharwad,Dharwad,Navalgund,15.59194444,75.15194444,Gummagola,"Dug Well",W31094,2015,NA,NA,7.4,NA
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2015,NA,2.67,3.4,3.12
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2015,NA,15.45,15.41,15.74
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2015,7.7,9.02,NA,12.32
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2015,'0.78,2.11,3.75,11.28
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2015,NA,24.09,23.2,25.2
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2015,4.87,4.74,4.65,4.96
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2015,14.1,12.69,13.8,13.94
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2015,NA,9.2,10.69,9.3
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2015,1.64,1.31,1.38,1.65
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2015,7,6.37,7.21,7.29
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2015,14.87,3.42,14.87,14.87
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2015,NA,13.94,13.5,19.74
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2015,3.9,4.45,4.08,6.5
+KA,Dharwad,Hubli,Hubli,15.25416667,75.17083333,"Sherewad A","Dug Well",W22533,2015,5.79,3.26,5.5,5.41
+KA,Dharwad,Dharwad,Hubli,15.32861111,75.1475,Kadabaghatti,"Dug Well",W22566,2015,14.6,7.46,14.6,14.6
+KA,Dharwad,Kalghatgi,Kalghatgi,15.10388889,74.90555556,Saidur,"Dug Well",W24817,2015,4.65,4.55,4.9,6.82
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18083333,74.92555556,Kalkurdi,"Dug Well",W24838,2015,1.23,1.53,1.4,3.04
+KA,Dharwad,Hubli,Hubli,15.22944444,75.13638889,Kunnur,"Dug Well",W24847,2015,NA,1.51,1.85,7.41
+KA,Dharwad,Hubli,Hubli,15.28416667,75.15472222,Adaragunj,"Dug Well",W24853,2015,13.2,10.43,14.04,4.99
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Bidnal,"Dug Well",W24855,2015,10.75,8.89,10.85,10.16
+KA,Dharwad,Dharwad,Dharwad,15.36944444,74.99444444,"Nayakana Hulikatte Kere","Dug Well",W24874,2015,9.8,2.86,9.8,9.8
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Annigeri,"Bore Well",W24885,2015,NA,NA,8.33,7.77
+KA,Dharwad,Hubli,Hubli,15.45138889,75.17722222,Sulla,"Dug Well",W24889,2015,3.35,18.93,19.05,17.02
+KA,Dharwad,Dharwad,Dharwad,15.45944444,74.95305556,Kelgeri,"Dug Well",W24892,2015,19.1,10.11,NA,13.05
+KA,Dharwad,Dharwad,Navalgund,15.55611111,75.14916667,"Tale Morab","Dug Well",W24907,2015,4.25,3.44,3.35,3.81
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2015,2.15,2.91,3.19,4.63
+KA,Dharwad,Dharwad,Dharwad,15.62277778,75.07222222,Harobelavadi,"Dug Well",W24921,2015,5.15,5.34,4.6,5.01
+KA,Dharwad,Dharwad,Dharwad,15.46361111,74.96722222,Kalgere,"Dug Well",W31090,2015,NA,NA,13.7,NA
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2015,12.15,NA,12.15,12.15
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2014,7.69,11.7,4.58,10.09
+KA,Dharwad,Dharwad,Dharwad,15.62277778,75.07222222,Harobelavadi,"Dug Well",W24921,2014,4.87,5.59,5.1,5.68
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2014,3.38,3.23,4.25,5.94
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2014,15.49,7.89,15.31,15.78
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2014,8.88,12.42,8.25,12.43
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2014,'0.28,4.39,'0.75,2.42
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2014,30.83,22.46,29.8,31.5
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2014,4.57,4.88,4.4,4.69
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2014,18.79,18.64,13,19.71
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2014,8.07,9.45,9.69,10.38
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2014,1.14,1.74,1.28,1.74
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2014,6.04,6.94,6.25,6.47
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2014,4.22,8.81,2.63,14.87
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2014,NA,NA,2.9,5.98
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2014,13.09,21.99,14.1,18.56
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2014,8.61,5.3,2.98,6.79
+KA,Dharwad,Hubli,Hubli,15.25416667,75.17083333,"Sherewad A","Dug Well",W22533,2014,4.53,5.41,NA,NA
+KA,Dharwad,Dharwad,Hubli,15.32861111,75.1475,Kadabaghatti,"Dug Well",W22566,2014,3.21,14.6,3.85,14.6
+KA,Dharwad,Kalghatgi,Kalghatgi,15.10388889,74.90555556,Saidur,"Dug Well",W24817,2014,4.08,7.54,4.2,6.97
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18083333,74.92555556,Kalkurdi,"Dug Well",W24838,2014,'0.81,2.46,'0.9,1.61
+KA,Dharwad,Hubli,Hubli,15.22944444,75.13638889,Kunnur,"Dug Well",W24847,2014,'0.52,1.68,1.02,2.52
+KA,Dharwad,Hubli,Hubli,15.28416667,75.15472222,Adaragunj,"Dug Well",W24853,2014,10.61,17.14,8.2,14.84
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Bidnal,"Dug Well",W24855,2014,7.93,10.64,8.35,9.61
+KA,Dharwad,Dharwad,Dharwad,15.36944444,74.99444444,"Nayakana Hulikatte Kere","Dug Well",W24874,2014,2.35,5.62,2.2,7.24
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Annigeri,"Bore Well",W24885,2014,8.15,9.04,NA,8.49
+KA,Dharwad,Hubli,Hubli,15.45138889,75.17722222,Sulla,"Dug Well",W24889,2014,39.02,12.89,12.65,19.41
+KA,Dharwad,Dharwad,Dharwad,15.45944444,74.95305556,Kelgeri,"Dug Well",W24892,2014,12.61,12.13,11.96,14.44
+KA,Dharwad,Dharwad,Navalgund,15.55611111,75.14916667,"Tale Morab","Dug Well",W24907,2014,3.36,3.57,3.35,3.56
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2014,NA,2.38,1.8,4.27
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2014,12.15,NA,NA,NA
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2013,16.22,18.68,9.89,19.08
+KA,Dharwad,Dharwad,Dharwad,15.46361111,74.96722222,Kalgere,"Dug Well",W31090,2013,13.15,NA,10,9.1
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2013,NA,7.85,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2013,5.39,4.51,3.91,6.56
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2013,15.81,17.25,13.52,16.03
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2013,11.33,14.29,10.42,16.97
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,2013,NA,NA,NA,8.5
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,2013,NA,NA,NA,25.32
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2013,'0.48,5.75,'0.32,16.8
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2013,26.75,24.1,24.4,24.72
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2013,5,5,3.23,5.18
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2013,NA,NA,1.37,NA
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2013,NA,NA,NA,21.7
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2013,10.46,10.24,9.53,NA
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2013,1.27,1.86,'0.82,2.13
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2013,NA,17.04,NA,NA
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,2013,NA,14.34,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2013,6.55,6.8,5.77,6.84
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2013,14.87,5.83,2.72,14.87
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2013,5.1,NA,3.12,NA
+KA,Dharwad,Dharwad,Dharwad,15.5,74.93333333,Manmigatte,"Dug Well",W21450,2013,NA,NA,NA,18.57
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2013,13.5,13.53,13.31,13.52
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2013,1.81,5.08,1.72,7.58
+KA,Dharwad,Hubli,Hubli,15.25416667,75.17083333,"Sherewad A","Dug Well",W22533,2013,5.5,3.6,3.52,8.88
+KA,Dharwad,Dharwad,Hubli,15.32861111,75.1475,Kadabaghatti,"Dug Well",W22566,2013,7.74,13.3,7.6,15
+KA,Dharwad,Kalghatgi,Kalghatgi,15.10388889,74.90555556,Saidur,"Dug Well",W24817,2013,2.63,NA,2.5,8.5
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18083333,74.92555556,Kalkurdi,"Dug Well",W24838,2013,NA,NA,'0.86,5
+KA,Dharwad,Hubli,Hubli,15.22944444,75.13638889,Kunnur,"Dug Well",W24847,2013,'0.8,35,'0.67,7.03
+KA,Dharwad,Hubli,Hubli,15.28416667,75.15472222,Adaragunj,"Dug Well",W24853,2013,14.04,NA,13.95,21.5
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Bidnal,"Dug Well",W24855,2013,9.2,11.2,8.44,11.35
+KA,Dharwad,Dharwad,Dharwad,15.36944444,74.99444444,"Nayakana Hulikatte Kere","Dug Well",W24874,2013,2.45,8.5,1.98,9.8
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Annigeri,"Bore Well",W24885,2013,NA,8.7,NA,NA
+KA,Dharwad,Hubli,Hubli,15.45138889,75.17722222,Sulla,"Dug Well",W24889,2013,20.99,21.95,NA,21.14
+KA,Dharwad,Dharwad,Dharwad,15.45944444,74.95305556,Kelgeri,"Dug Well",W24892,2013,12.55,13.4,9.4,19.1
+KA,Dharwad,Dharwad,Navalgund,15.55611111,75.14916667,"Tale Morab","Dug Well",W24907,2013,3.57,3.8,2.72,4.5
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2013,1.4,2.6,1.28,NA
+KA,Dharwad,Dharwad,Dharwad,15.62277778,75.07222222,Harobelavadi,"Dug Well",W24921,2013,5.18,NA,4.84,5.46
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Rayapur,"Dug Well",W31082,2013,NA,NA,NA,11.51
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,"Rayapura A","Dug Well",W31083,2013,NA,8.95,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,Annigeri1,"Dug Well",W31086,2013,5.89,5.01,4.41,7.06
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,Byahatti,"Dug Well",W31088,2013,NA,NA,NA,15.7
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2013,NA,12.15,NA,12.15
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2012,NA,4.78,14.48,7.78
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,Annigeri1,"Dug Well",W31086,2012,NA,NA,4.01,NA
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2012,NA,7.51,9.2,9.85
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2012,NA,NA,3.51,NA
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2012,NA,15.16,17.25,15.41
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2012,NA,12.9,11.8,15.49
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2012,NA,4.85,2.5,11.3
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2012,NA,19.7,23.56,21.65
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2012,NA,5,4.42,5
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2012,NA,16.2,19.6,17.6
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2012,NA,7.75,10.37,8.44
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2012,NA,1.63,1.31,2.63
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2012,NA,6.35,6.71,6.65
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2012,NA,6.63,14.87,14.87
+KA,Dharwad,Dharwad,Dharwad,15.5,74.93333333,Manmigatte,"Dug Well",W21450,2012,NA,NA,18.57,NA
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2012,NA,13.35,11.95,13.4
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2012,NA,5.58,3.8,7.78
+KA,Dharwad,Hubli,Hubli,15.25416667,75.17083333,"Sherewad A","Dug Well",W22533,2012,NA,3.07,4.78,4.7
+KA,Dharwad,Dharwad,Hubli,15.32861111,75.1475,Kadabaghatti,"Dug Well",W22566,2012,NA,9.9,10.12,14.6
+KA,Dharwad,Hubli,Hubli,15.22944444,75.13638889,Kunnur,"Dug Well",W24847,2012,NA,NA,1.65,NA
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Bidnal,"Dug Well",W24855,2012,NA,NA,9.6,NA
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Annigeri,"Bore Well",W24885,2012,NA,NA,8.55,NA
+KA,Dharwad,Dharwad,Dharwad,15.45944444,74.95305556,Kelgeri,"Dug Well",W24892,2012,NA,NA,12.55,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2012,NA,2.02,1.42,3.2
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,"Rayapura A","Dug Well",W31083,2012,NA,NA,8.45,NA
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2012,NA,6.65,12.15,8.15
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2011,6.15,4.68,2.88,7
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2011,1.35,2.36,1.5,5.75
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2011,6.94,NA,7.5,6.5
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2011,18.95,8.22,8.45,12.02
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2011,NA,14.81,12.91,14.12
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2011,13.05,12.55,10.3,11.65
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2011,'0.92,4.2,1.7,11.8
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2011,17.75,15.6,19.1,17.4
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2011,5.55,NA,NA,NA
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2011,5.05,4.75,4.75,4.92
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2011,NA,23.45,15.7,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2011,8.34,7.69,7.64,8.24
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2011,1.23,1.53,1.28,2.18
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2011,6.75,6.3,6.25,6.65
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2011,3.63,6.03,3.13,14.87
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2011,NA,2.6,1.9,3.4
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2011,13.9,14.05,13.44,11.73
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2011,4.23,5.48,4.28,7.73
+KA,Dharwad,Hubli,Hubli,15.25416667,75.17083333,"Sherewad A","Dug Well",W22533,2011,NA,NA,2.9,NA
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2011,1.3,NA,NA,10.15
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2010,4.3,2.32,5.68,4.68
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.97916667,"Kalaghatgi A","Dug Well",W21900,2010,2.45,1.8,1.67,3.01
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2010,6.4,3.5,12.15,12.15
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2010,9.98,6.94,7.67,8.2
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2010,14.83,14.76,9.56,14.76
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2010,12.4,13.4,8.75,16.63
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2010,1.65,6.3,1.53,8.45
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2010,18.6,16.7,17,NA
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2010,5.49,5.1,4.13,5.4
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2010,4.25,4.6,2.55,3.72
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2010,NA,1.89,NA,NA
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2010,NA,18.7,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2010,8.16,7.59,5.93,8.88
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2010,1.25,1.88,1.2,2.73
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2010,NA,1.18,NA,NA
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,2010,9.48,NA,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2010,5.86,6.05,6,6.57
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2010,NA,6.48,14.87,14.87
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2010,1.57,2,1.2,2.3
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2010,NA,14.45,15.1,NA
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2010,3.43,6.03,2.26,6.73
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2010,2.3,3.2,9.38,16.1
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2009,4.89,4.28,1.54,6.85
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2009,1.71,5.6,1.53,16.1
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2009,7.32,7.15,4.65,3.55
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2009,10.55,11.95,7.55,19.05
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2009,15.73,15.31,14.02,15.52
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2009,13.68,14.35,NA,18.85
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2009,5.51,9.6,4.04,1.76
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2009,21.51,18.5,17.95,21.1
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2009,5.78,5,4.87,5.58
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2009,4.85,4.7,4.62,4.95
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2009,1.09,2.59,'0.84,1.19
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2009,NA,29.2,24.85,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2009,8.64,8.24,6.6,9.44
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2009,1.31,2.03,1.33,11.43
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2009,1.89,1.68,1.78,5.68
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2009,6.38,8.15,6.02,6.52
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2009,5.14,8.33,3.79,14.87
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2009,2.88,4.6,2.75,2.7
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2009,17.3,13.3,15.34,33.7
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2009,4.85,6.88,4.23,8.41
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2008,1.43,1.79,1.25,1.58
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,2008,1.33,NA,1.39,NA
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2008,6.39,5.67,6.92,5.85
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2008,2.81,4.72,3.95,14.87
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2008,2.47,3.65,2.5,2.65
+KA,Dharwad,Dharwad,Dharwad,15.5,74.93333333,Manmigatte,"Dug Well",W21450,2008,NA,NA,18.57,NA
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2008,NA,NA,NA,33.1
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2008,1.78,5.8,5.02,8.46
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2008,1.03,6.93,5.07,16.88
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2008,15.87,14.41,16.7,14.9
+KA,Dharwad,Dharwad,Dharwad,15.4875,75.12083333,Hebballi,"Dug Well",W05876,2008,NA,NA,5.39,NA
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2008,5.38,5.22,5.32,5.5
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2008,4.65,4.76,4.64,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2008,'0.6,1.99,1.16,3.46
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2008,NA,NA,28.34,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2008,8.81,8.74,8.48,NA
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2008,NA,1.81,3.33,NA
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2008,1.27,2.07,1.68,6.1
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2008,7.18,7.35,11.59,3.25
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2008,10.85,7.04,14.57,7.95
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2008,15.39,15.47,15.21,15.41
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2008,8.1,13.55,10.97,17.85
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2008,1.32,2.02,1.18,4.18
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2007,1.43,2.03,1.09,3.23
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,2007,NA,10.5,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2007,6.3,6.4,5.63,6.95
+KA,Dharwad,Navalgund,Navalgund,15.55,75.34583333,Navalgund1,"Dug Well",W06219,2007,NA,16.23,NA,NA
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2007,2.78,8.23,2.64,14.87
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2007,2.1,5.2,1.7,6.2
+KA,Dharwad,Dharwad,Dharwad,15.5,74.93333333,Manmigatte,"Dug Well",W21450,2007,3.8,NA,6.21,NA
+KA,Dharwad,Dharwad,Navalgund,15.54666667,75.35277778,Navalgund,"Bore Well",W21211,2007,NA,15.8,NA,15.95
+KA,Dharwad,Dharwad,Dharwad,15.47,75.02111111,"Dharwad A","Dug Well",W21365,2007,2.4,NA,2.54,8.4
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2007,2.35,4.7,1.09,10.2
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2007,23.2,21.9,16.71,24.5
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2007,5.75,5.35,5.09,5.9
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2007,4.9,4.55,4.39,5
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2007,NA,NA,'0.19,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2007,9.74,9.69,8.83,9.94
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2007,3.18,5.13,2.58,6.98
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2007,1.75,5.2,1.42,12.8
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2007,9.25,6.95,7.38,6.95
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2007,18.95,NA,8.24,NA
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2007,15.81,15.76,16.11,16.01
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2007,11.7,15.4,10.08,19.3
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2007,1.98,2.98,3.4,6.48
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2006,NA,1.93,1.53,3.23
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,2006,NA,13.29,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2006,NA,6.85,6.55,6.95
+KA,Dharwad,Dharwad,Dharwad,15.47,75.01833333,Dharwad-3,"Dug Well",W20744,2006,NA,19.28,NA,NA
+KA,Dharwad,Dharwad,Dharwad,15.45388889,74.86666667,Prabhunagar,"Dug Well",W21096,2006,NA,NA,5.13,NA
+KA,Dharwad,Hubli,Hubli,15.25388889,75.17083333,Sherewad,"Dug Well",W21098,2006,NA,NA,7.43,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2006,NA,1.29,4.4,7.95
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2006,NA,17.2,21,23.8
+KA,Dharwad,Dharwad,Dharwad,15.4875,75.12083333,Hebballi,"Dug Well",W05876,2006,NA,23.71,NA,23.71
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2006,5.6,5.7,5.3,6.06
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2006,NA,4.55,4.6,4.9
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2006,NA,NA,2.09,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2006,NA,NA,10.14,NA
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2006,NA,4.33,4.98,8.83
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2006,NA,2.24,2.3,9.42
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2006,NA,6.95,6.95,6.95
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2006,NA,15.46,15.61,15.91
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2006,7.85,19.55,13.55,21.12
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2006,NA,6.28,2.88,10.96
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2005,1.09,5.58,1.23,7.94
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,2005,25.32,NA,12.99,6.1
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2005,NA,7.58,6.45,7.66
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2005,'0.58,6.54,'0.49,12.65
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2005,24.22,20.61,13.3,25.23
+KA,Dharwad,Dharwad,Dharwad,15.4875,75.12083333,Hebballi,"Dug Well",W05876,2005,23.71,NA,23.71,NA
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2005,6.04,5.88,5.58,5.68
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2005,4.67,5.02,4.3,NA
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2005,28.34,NA,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2005,10.12,NA,NA,NA
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2005,4.99,6.57,3.78,10.24
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2005,1.03,2.36,1.5,6.79
+KA,Dharwad,Dharwad,Dharwad,15.61111111,75.00833333,Betgeri(Dharwar),"Dug Well",W05358,2005,NA,NA,6.95,NA
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2005,NA,11.99,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2005,NA,7.11,NA,9.35
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2005,NA,15.54,15.21,15.55
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2005,25.64,31.71,19.5,32.27
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2005,NA,NA,6.17,NA
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2004,1.04,10.43,1.74,11.18
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2004,7.07,7.46,8.12,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2004,'0.38,14,4.07,11.06
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2004,24.01,NA,19.96,30.3
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2004,7.36,6.5,6.05,7.74
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2004,4.51,5.61,4.93,7.24
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2004,31.12,NA,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2004,NA,11.14,NA,NA
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2004,NA,NA,6.91,NA
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2004,'0.88,8.55,1.47,11.01
+KA,Dharwad,Hubli,Hubli,15.45,75.16666667,"Behatti (A)","Dug Well",W05360,2004,NA,NA,9.98,NA
+KA,Dharwad,Navalgund,Navalgund,15.43333333,75.43333333,"Annigeri (A)","Dug Well",W05362,2004,NA,NA,7.04,NA
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2004,14.82,15.57,15.08,NA
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2004,34.62,33.91,30.84,36.18
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2003,16.18,12.33,13.83,16.68
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Dharwad-2,"Dug Well",W05576,2003,15.96,NA,14.8,15.96
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2003,7.4,5.85,6.65,7.65
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2003,11.4,14.9,7.1,12.2
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2003,NA,24.9,24.2,NA
+KA,Dharwad,Dharwad,Dharwad,15.4875,75.12083333,Hebballi,"Dug Well",W05876,2003,NA,NA,23.52,NA
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2003,NA,5.85,NA,NA
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2003,5.8,5.1,4.2,6.8
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Hubli,"Dug Well",W05880,2003,11.35,11.95,9.7,NA
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2003,8.91,NA,5.64,10.39
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2003,NA,NA,23.11,NA
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2003,9.44,8.59,6.93,9.64
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2003,9.92,12.53,8.58,12.21
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2003,9.69,12.03,8.53,9.98
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2003,14.89,3.9,11.51,NA
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2003,15.25,14.81,14.32,NA
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2003,NA,28.35,NA,NA
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,2003,20.16,18.2,NA,21
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,2003,NA,11.85,12.3,NA
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2002,12.53,11.81,14.26,13.31
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2002,'0.45,9.17,11.53,9.26
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2002,6.7,NA,NA,NA
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2002,23.25,NA,NA,NA
+KA,Dharwad,Hubli,Hubli,15.45416667,75.3,Hebsur,"Bore Well",W05878,2002,5.88,NA,5.31,NA
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2002,4.8,3.97,5.36,NA
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Hubli,"Dug Well",W05880,2002,12.05,10.23,10.9,11.01
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2002,1.99,2.19,3.45,NA
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2002,26.6,20.71,27.18,26.7
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2002,8.44,8.69,8.79,NA
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2002,1.53,10.12,12.43,10.43
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2002,12.28,9.28,10.41,9.14
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2002,2.4,6.29,2.58,9.26
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2002,15.16,14.42,15.16,14.36
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2002,25.24,NA,25.36,NA
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,2002,18.1,NA,NA,21.6
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Dharwad-2,"Dug Well",W05576,2002,13.66,NA,NA,NA
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,2002,24.19,NA,NA,NA
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,2002,11.7,10.4,11.04,NA
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2001,1.93,2.63,3.28,3.34
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2001,'0.33,5.55,3.49,13.1
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,2001,11.36,8.55,11.99,10.75
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2001,NA,6.2,NA,NA
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2001,4,4.35,3.78,4.06
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Hubli,"Dug Well",W05880,2001,9.57,8.35,9.92,9.69
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2001,'0.19,'0.64,'0.76,2.05
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2001,23.34,18.85,23.69,21.37
+KA,Dharwad,Dharwad,Dharwad,15.425,75,Yerikop,"Dug Well",W06559,2001,NA,NA,NA,11.57
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2001,8.38,7.99,8.47,7.51
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2001,8.59,7.16,7.14,8.49
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2001,2.74,4.1,3.62,5.55
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2001,14.04,14.01,13.69,14.08
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2001,NA,15.55,NA,NA
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,2001,17.81,10.2,NA,14.85
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Dharwad-2,"Dug Well",W05576,2001,NA,13.16,NA,8.99
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,2001,22.19,14.54,NA,21.41
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2001,7.3,4.98,6.69,9.13
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,2000,1.03,2.55,1.32,3.13
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,2000,'0.35,7,1.95,14.8
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,2000,8.8,10.2,4.4,13
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,2000,6.55,7.15,NA,6.8
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,2000,25.6,25.2,21.85,NA
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,2000,4.5,5.5,3.5,4.55
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Hubli,"Dug Well",W05880,2000,8.25,9.3,6.45,9.75
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,2000,'0.09,1.35,'0.24,1.84
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,2000,19.8,15,14.9,17.55
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,2000,10.44,8.1,7.94,8.54
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,2000,7.28,7.7,6.06,8.73
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,2000,1.1,3.9,1.73,5.25
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,2000,14.21,15.05,14.01,14.71
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,2000,12.1,NA,10.55,19.25
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,2000,10.8,15.8,6.7,18.34
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Dharwad-2,"Dug Well",W05576,2000,5.58,13.75,11.06,9.95
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,2000,14.64,14.35,10.64,19.49
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,2000,4.88,4.65,2.58,8.68
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,1999,6.01,5.9,2.33,9.88
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,1999,11.42,12.42,7.1,13.2
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,1999,6.82,7.13,6.5,7.25
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,1999,8.5,8.75,5.25,8.83
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,1999,1.26,3.86,1.37,10.65
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,1999,14.38,14.71,14.66,14.41
+KA,Dharwad,Dharwad,Dharwad,15.45833333,75.00555556,Dharwad,"Bore Well",W05574,1999,12.1,11.89,9.33,17.23
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,1999,14.56,9.69,12.45,17.5
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Dharwad-2,"Dug Well",W05576,1999,14.12,13.9,11.46,7.88
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,1999,12.55,14.6,10.89,18.59
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,1999,1.89,5.77,1.5,12.7
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,1999,6.86,NA,25.2,NA
+KA,Dharwad,Dharwad,Dharwad,15.4875,75.12083333,Hebballi,"Dug Well",W05876,1999,18.78,NA,NA,NA
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,1999,NA,5.73,2.6,4.8
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Hubli,"Dug Well",W05880,1999,8.91,9.55,7.15,9.55
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,1999,'0.19,1.12,'0.24,1.41
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,1999,19.55,19.5,NA,21.05
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,1999,8.13,7.86,8.04,8.29
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,1999,1.3,3.18,1.28,NA
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,1998,6.2,6.7,6.2,7.14
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,1998,12.35,9.33,11.13,12.3
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Dharwad-2,"Dug Well",W05576,1998,14.26,11.94,13.16,7.43
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,1998,1.29,2.26,1.68,5.91
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,1998,4.36,5.71,1.89,16.48
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,1998,11.28,6.95,8.96,12.57
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,1998,17.51,14.92,17,16.75
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,1998,24.1,11.2,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,1998,13.13,13.81,13.88,14.5
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,1998,'0.62,'0.56,'0.35,2.08
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,1998,7.57,5.58,4.5,10.05
+KA,Dharwad,Navalgund,Navalgund,15.55,75.34583333,Navalgund1,"Dug Well",W06219,1998,10.36,NA,NA,NA
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Hubli,"Dug Well",W05880,1998,8.44,8.46,8.01,9.75
+KA,Dharwad,Dharwad,Dharwad,15.425,75,Yerikop,"Dug Well",W06559,1998,10.22,10.56,NA,15.23
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,1998,6.46,7.99,6.88,9.03
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,1998,4.8,4.58,3.54,5.63
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,1998,7.97,NA,7.47,8.12
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,1998,'0.65,2,1.45,8.63
+KA,Dharwad,Dharwad,Dharwad,15.4875,75.12083333,Hebballi,"Dug Well",W05876,1998,NA,20.62,18.57,NA
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,1998,15.37,12.56,12.29,NA
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,1997,10.03,8.26,11.59,15.24
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Dharwad-2,"Dug Well",W05576,1997,11.82,11.34,11.16,13.45
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,1997,5.54,7.91,5.8,11.35
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,1997,14.62,13.91,13.91,14.51
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,1997,1.65,3.77,1.25,6.34
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,1997,8.98,4.94,8.08,5.67
+KA,Dharwad,Navalgund,Navalgund,15.55,75.34583333,Navalgund1,"Dug Well",W06219,1997,10.9,10.31,NA,NA
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,1997,NA,NA,6.75,NA
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,1997,10.13,9.19,8.95,11.96
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,1997,3.21,3.72,4.23,7.3
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,1997,1.73,8.02,1.56,5.94
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,1997,NA,7.56,7.8,8.46
+KA,Dharwad,Dharwad,Dharwad,15.425,75,Yerikop,"Dug Well",W06559,1997,11.65,9.04,NA,13.08
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,1997,14.44,12.49,14.35,15.74
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,1997,'0.63,1.12,'0.34,2.5
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Hubli,"Dug Well",W05880,1997,8.18,9.11,8.05,9.7
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,1997,5.92,5.87,4.45,6.1
+KA,Dharwad,Dharwad,Dharwad,15.4875,75.12083333,Hebballi,"Dug Well",W05876,1997,16.54,14.02,12.07,16.11
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,1997,23.51,19.36,NA,24.02
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,1997,1.22,7.66,4.25,17.13
+KA,Dharwad,Dharwad,Dharwad,15.42555556,75.03611111,NavAlur,"Dug Well",W06216,1996,3.32,4.71,2.02,5.64
+KA,Dharwad,Dharwad,Dharwad,15.55416667,74.9,Guladkop,"Dug Well",W05577,1996,10.13,8.14,5.92,11.97
+KA,Dharwad,Hubli,Hubli,15.3,75.16666667,Hubli,"Dug Well",W05880,1996,9.35,8.34,8.22,8.93
+KA,Dharwad,Hubli,Hubli,15.24166667,75.14583333,Pale,"Dug Well",W06217,1996,9.29,8.83,7.47,12.2
+KA,Dharwad,Dharwad,Dharwad,15.54166667,75.05416667,Amminabhavi,"Dug Well",W05356,1996,7.04,5.69,6.23,7.32
+KA,Dharwad,Kalghatgi,Kalghatgi,15.18333333,74.96666667,Kalghatgi,"Dug Well",W05881,1996,1.84,1.41,'0.71,1.23
+KA,Dharwad,Navalgund,Navalgund,15.55972222,75.3125,Shanawad,"Dug Well",W06560,1996,NA,8.09,NA,8.8
+KA,Dharwad,Navalgund,Navalgund,15.55,75.34583333,Navalgund1,"Dug Well",W06219,1996,10.9,10.98,10.24,NA
+KA,Dharwad,Kundgol,Kundagol,15.25416667,75.25,Kundgol,"Dug Well",W05882,1996,11.86,10.05,11.66,12.33
+KA,Dharwad,Hubli,Hubli,15.43333333,75.3,Hebsur1,"Dug Well",W05879,1996,5.66,5.76,5.41,5.75
+KA,Dharwad,Dharwad,Dharwad,15.425,75,Yerikop,"Dug Well",W06559,1996,11.34,9.62,NA,12.42
+KA,Dharwad,Dharwad,Dharwad,15.4875,75.12083333,Hebballi,"Dug Well",W05876,1996,13.08,13.07,NA,14.18
+KA,Dharwad,Navalgund,Navalgund,15.46666667,75.38333333,Basapur,"Dug Well",W05364,1996,NA,14.46,13.76,15.27
+KA,Dharwad,Dharwad,Dharwad,15.5,74.96666667,Dharwad-1,"Dug Well",W05575,1996,11.88,7.99,7.24,12.49
+KA,Dharwad,Navalgund,Navalgund,15.59166667,75.15,Morab,"Dug Well",W06218,1996,NA,7.88,NA,8.02
+KA,Dharwad,Kundgol,Kundagol,15.11666667,75.36666667,Gudgeri,"Dug Well",W05579,1996,25.33,22.9,20.56,26.46
+KA,Dharwad,Dharwad,Dharwad,15.40833333,75.06166667,Dharwad-2,"Dug Well",W05576,1996,11.71,8.98,10.19,11.96
+KA,Dharwad,Dharwad,Dharwad,15.44166667,74.9,Mugad,"Dug Well",W06215,1996,2.98,5.41,NA,3.95
+KA,Dharwad,Kalghatgi,Kalghatgi,15.13333333,74.93333333,Devikop,"Dug Well",W05578,1996,6.2,8.37,3.08,NA
+KA,Dharwad,Dharwad,Dharwad,15.45,74.81805556,Arvatgi,"Dug Well",W05357,1996,1.65,3.99,1.82,6.22
