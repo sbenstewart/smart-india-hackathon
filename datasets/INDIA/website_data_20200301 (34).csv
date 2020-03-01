@@ -1,124 +1,96 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2018,NA,4.28,7.96,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2018,NA,2.75,3.76,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2018,NA,6.15,3.26,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2017,2.98,2.45,1.85,4.39
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2017,7.89,NA,7.75,9.82
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2017,3.64,4.4,3.45,6.26
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2017,NA,7.05,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2016,NA,NA,NA,4.9
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2016,NA,NA,NA,3.63
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2015,NA,2.53,NA,4.4
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2015,NA,8.05,NA,9.28
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2015,NA,5.66,4.61,2.36
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2015,NA,5.31,1.82,4.62
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2015,NA,3.62,2.24,3.83
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2014,3.54,NA,NA,5.22
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2014,1.8,NA,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2014,NA,NA,NA,5.35
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2014,1.23,NA,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2014,3.23,NA,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2013,3.54,NA,5.13,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2013,1.39,2.82,2.59,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2013,NA,NA,3.52,NA
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.71666667,94.0125,Kamargaon-1,"Tube Well",W12245,2013,NA,5.07,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2013,5.37,7.58,5.7,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2013,6.23,8.19,7.94,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2012,NA,NA,8.12,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2012,NA,8.23,4.36,NA
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.71666667,94.0125,Kamargaon-1,"Tube Well",W12245,2012,NA,4.62,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2012,NA,8.27,7.37,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2012,NA,9.26,2.3,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2011,6.29,7,5.53,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2011,6.54,7.22,3.92,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2011,3.78,3.93,3.44,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2011,1.54,1.49,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2010,3.14,5.59,3.62,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2010,3.14,9.85,6.46,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2010,'0.87,NA,1.15,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2010,3.69,8.01,5.26,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2009,2.88,6.03,3.35,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2009,6.23,NA,6.74,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2009,1.27,5.21,4.07,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2008,2.3,6.23,3.73,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2008,1.47,1.69,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2008,3.8,7.52,6.13,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2008,1.17,7.16,3.31,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2007,'0.93,3.01,NA,6.3
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2007,4.83,2.79,6.89,5.69
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2007,'0.55,3.23,3.41,3.84
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2007,1.95,2.88,3.31,7.96
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2006,3.04,4.9,4.1,5.02
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2006,'0.29,1.18,NA,'0.55
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2006,9.85,7.41,NA,9.85
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2006,5.3,4.34,5.52,5.45
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2005,1.3,4.97,3.7,4.47
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2005,3.65,7.09,6.46,6.67
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,2005,NA,4.76,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2005,'0.39,1.12,1.32,'0.61
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2005,2.1,NA,4.01,2.71
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2004,NA,2.47,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2004,1.63,3.6,3.47,3.7
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2004,5.7,6.08,5.92,4.76
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2004,'0.34,'0.6,'0.53,'0.55
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,2004,1.44,NA,4.54,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2004,5.8,7.4,5.83,7.46
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,2003,2.02,8.04,4.03,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2003,'0.78,4.51,2.12,3.73
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2003,1.07,5.97,2.07,2.5
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2003,3.18,NA,5.72,7.51
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2003,5.42,6.89,6.14,6.2
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2003,'0.52,NA,'0.43,'0.65
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2002,5.41,NA,6.34,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2002,1.12,4.43,3.88,3.4
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2002,2.39,NA,3.77,3.73
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,2002,2.56,5.92,5.48,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2002,3.35,5.65,5,4.35
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53388889,93.98333333,Golaghat-1,"Tube Well",W12247,2002,1.26,4.6,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2002,'0.67,1.6,'0.7,'0.7
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.71666667,94.0125,Kamargaon-1,"Tube Well",W12245,2002,NA,NA,NA,5
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53388889,93.98333333,Golaghat-1,"Tube Well",W12247,2001,NA,4.2,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2001,6.32,5.92,6.84,7.3
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2001,3.09,2.98,2.97,4.7
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,2001,4.82,NA,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2001,3.45,4,3.59,3.3
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2001,3.16,7.21,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2001,'0.6,1.95,'0.65,1.05
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53388889,93.98333333,Golaghat-1,"Tube Well",W12247,2000,3.86,NA,4.09,4.46
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,2000,4.35,5.45,6.17,5.45
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,2000,'0.99,4.84,2.41,1.88
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,2000,1.87,4.57,3.33,2.52
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,2000,3.67,6.91,5.17,4.2
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,2000,'0.35,4.93,1.41,1.75
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,1999,3,8.62,8.63,8.78
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,1999,6.15,7.09,6.14,7.25
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,1999,NA,5.12,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,1999,'0.62,4.6,3.63,3.92
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,1999,1.04,1.7,'0.77,1.78
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.71666667,94.0125,Kamargaon-1,"Tube Well",W12245,1999,NA,5.46,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53388889,93.98333333,Golaghat-1,"Tube Well",W12247,1999,5.9,6.83,5.87,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,1999,'0.92,4.5,3.79,5.36
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,1998,5.87,6.89,7.93,4.1
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,1998,1.62,4.78,3.94,2.85
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,1998,1.8,4,3.75,1.06
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,1998,5.6,4.4,7.96,8.2
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53388889,93.98333333,Golaghat-1,"Tube Well",W12247,1998,4.1,NA,6.65,6.14
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,1998,'0.6,2.47,'0.8,'0.66
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.71666667,94.0125,Kamargaon-1,"Tube Well",W12245,1998,5.2,6.86,5.3,6.3
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,1998,2.74,NA,4.3,5.27
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,1997,1.84,9.25,3.87,10.23
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,1997,NA,3.42,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,1997,3.19,4.71,3.65,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,1997,1.29,3.32,1.15,1.85
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.71666667,94.0125,Kamargaon-1,"Tube Well",W12245,1997,NA,7.65,NA,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53388889,93.98333333,Golaghat-1,"Tube Well",W12247,1997,NA,6.12,NA,NA
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,1997,2.48,5.65,6.08,5.11
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,1997,5.64,8.12,6.69,7.78
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.70833333,93.95833333,Dergaon,"Dug Well",W12244,1996,NA,5.42,6.01,6.95
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.61666667,93.45833333,"Kohra kaziranga","Dug Well",W12243,1996,7.78,6.85,6.95,7.89
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.6,Bokakhat,"Dug Well",W12241,1996,3.53,4.21,4.25,1.05
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53388889,93.98333333,Golaghat-1,"Tube Well",W12247,1996,6.22,NA,2.01,NA
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.53333333,93.98333333,Golaghat-2,"Dug Well",W12246,1996,NA,2.01,1.31,5.45
-AS,Golaghat,Golaghat,"Nawjan Forest Area",26.43333333,94.00833333,Oating,"Dug Well",W12248,1996,8.98,8.85,3.56,1.93
-AS,Golaghat,Dergaon,"Nawjan Forest Area",26.71666667,94.0125,Kamargaon-1,"Tube Well",W12245,1996,NA,NA,2.91,6.28
-AS,Golaghat,Bokakhat,"Nawjan Forest Area",26.63333333,93.71666667,Kamargaon-2,"Dug Well",W12242,1996,2.93,3.35,3.81,4.55
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,"Panchgram N","Dug Well",W29074,2018,NA,3.95,1.17,NA
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2018,NA,NA,'0.26,'0.51
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2018,NA,NA,'0.66,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45138889,92.61944444,"Katlichera N","Dug Well",W22090,2018,'0.38,'0.47,NA,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45138889,92.61944444,"Katlichera N","Dug Well",W22090,2017,'0.44,1.14,'0.44,1.21
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2017,'0.62,1.74,'0.2,1.92
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,"Panchgram N","Dug Well",W29074,2017,'0.69,6.77,'0.71,8.98
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,"Panchgram N","Dug Well",W29074,2016,'0.89,8.34,'0.68,9.32
+AS,Hailakandi,Katlichera,Damcherra,24.45138889,92.61944444,"Katlichera N","Dug Well",W22090,2016,'0.14,NA,1.02,'0.8
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2016,NA,NA,NA,1.54
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2016,'0.19,NA,NA,NA
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2015,'0.35,1.55,NA,2.4
+AS,Hailakandi,Katlichera,Damcherra,24.45138889,92.61944444,"Katlichera N","Dug Well",W22090,2015,'0.17,2.89,'0.47,2.39
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,"Panchgram N","Dug Well",W29074,2015,'0.64,1.5,1.23,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2014,'0.71,NA,NA,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2014,'0.48,NA,NA,NA
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2014,'0.38,'0.57,NA,1.55
+AS,Hailakandi,Katlichera,Damcherra,24.45138889,92.61944444,"Katlichera N","Dug Well",W22090,2014,NA,5.04,NA,4.63
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,"Panchgram N","Dug Well",W29074,2014,NA,7.33,2.71,8.08
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2013,2.52,NA,NA,NA
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2013,NA,1.4,NA,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45138889,92.61944444,"Katlichera N","Dug Well",W22090,2013,NA,2.9,1.9,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,"Panchgram N","Dug Well",W29074,2013,NA,3.96,3.3,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,"Panchgram N","Dug Well",W29074,2012,NA,NA,1.42,NA
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2012,NA,1.59,NA,NA
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2012,NA,2.13,1.71,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45138889,92.61944444,"Katlichera N","Dug Well",W22090,2012,NA,1.01,2.59,NA
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2011,'0.48,1.22,1.71,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45138889,92.61944444,"Katlichera N","Dug Well",W22090,2011,4.47,3,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2011,3.94,4.2,NA,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2011,NA,3,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2010,'0.22,1.68,'0.91,NA
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2010,1.07,1.31,'0.61,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2010,NA,NA,1.9,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2009,1.24,'0.9,2.16,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2009,1.33,'0.87,'0.2,NA
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2009,NA,'0.56,1.45,NA
+AS,Hailakandi,Hailakandi,Damcherra,24.7275,92.58333333,"Sayedbond Partli","Dug Well",W21846,2009,NA,NA,1.33,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2008,'0.93,2.97,'0.7,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2008,NA,8.3,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2008,NA,1.68,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2007,NA,2.07,NA,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2007,1.21,5.45,3.21,NA
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2007,NA,1.7,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2007,1.59,NA,NA,2.47
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2006,'0.15,1.6,'0.6,'0.4
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2006,'0.15,2.02,1.02,'0.21
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2006,1.1,5.5,3.4,4.02
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2005,NA,3.23,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2005,'0.04,NA,'0.3,'0.15
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2005,'0.05,NA,'0.5,'0.2
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2005,'0.6,2.59,1.72,1.05
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2004,'0.91,3,1.31,1.33
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2004,NA,NA,1.81,NA
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2004,NA,'0.38,NA,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2003,'0.86,3.11,2.7,1.03
+AS,Hailakandi,Lala,Damcherra,24.6125,92.55416667,Monacherra,"Tube Well",W12253,2003,NA,1.57,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2003,NA,1.05,'0.36,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2003,NA,NA,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2003,1.44,NA,NA,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2002,2.39,2.8,2.47,3.48
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2002,-0.01,'0.27,NA,-0.01
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2002,NA,NA,NA,1
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2002,'0.23,NA,'0.45,'0.36
+AS,Hailakandi,Lala,Damcherra,24.6125,92.55416667,Monacherra,"Tube Well",W12253,2002,'0.56,NA,'0.97,'0.95
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2001,'0.64,7.7,'0.6,1.67
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2001,'0.29,1.15,NA,'0.46
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2001,'0.34,'0.43,'0.24,'0.56
+AS,Hailakandi,Lala,Damcherra,24.6125,92.55416667,Monacherra,"Tube Well",W12253,2001,4.12,NA,NA,1.58
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2001,NA,NA,'0.68,1.06
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,2000,NA,NA,'0.6,NA
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,2000,'0.15,1.17,'0.44,'0.2
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,2000,'0.3,'0.35,'0.12,'0.3
+AS,Hailakandi,Lala,Damcherra,24.6125,92.55416667,Monacherra,"Tube Well",W12253,2000,NA,NA,4.35,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,2000,'0.4,8.06,1.37,'0.8
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,1999,'0.3,2.87,'0.35,1.45
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,1999,NA,1.93,NA,NA
+AS,Hailakandi,Lala,Damcherra,24.6125,92.55416667,Monacherra,"Tube Well",W12253,1999,NA,5.03,NA,5.6
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,1999,'0.65,6.93,1.6,7.2
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,1999,'0.45,'0.25,'0.1,'0.35
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,1998,'0.1,1.25,1.37,'0.32
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,1998,NA,NA,1.3,NA
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,1998,NA,'0.1,'0.44,-0.03
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,1998,'0.9,7.77,1.7,3.24
+AS,Hailakandi,Lala,Damcherra,24.6125,92.55416667,Monacherra,"Tube Well",W12253,1998,NA,5.32,NA,NA
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,1997,NA,2.98,1.21,NA
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,1997,'0.89,3.75,5.2,7.8
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,1997,'0.31,1.46,1.27,'0.66
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,1997,'0.25,'0.55,'0.23,'0.23
+AS,Hailakandi,Lala,Damcherra,24.6125,92.55416667,Monacherra,"Tube Well",W12253,1997,NA,5.12,5.07,5.11
+AS,Hailakandi,Lala,Damcherra,24.6125,92.55416667,Monacherra,"Tube Well",W12253,1996,4.18,3.52,4.72,4.62
+AS,Hailakandi,Katlichera,Damcherra,24.45,92.61666667,Katlicherra,"Dug Well",W12252,1996,'0.84,6.2,3.01,2.11
+AS,Hailakandi,Algapur,Damcherra,24.80138889,92.64166667,"North narayanpur","Tube Well",W12250,1996,NA,'0.84,2.31,NA
+AS,Hailakandi,Algapur,Damcherra,24.75833333,92.60555556,Algapur,"Dug Well",W12249,1996,'0.29,1.02,'0.33,'0.29
+AS,Hailakandi,Algapur,Damcherra,24.85833333,92.60055556,Panchgram,"Dug Well",W12251,1996,'0.21,'0.14,'0.37,'0.28

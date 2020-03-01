@@ -1,135 +1,190 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.17361111,86.10416667,Kiul_1,"Dug Well",W29160,2018,2.3,1.09,NA,NA
-BR,Lakhisarai,Surajgarha,Lakhisarai,25.18333333,86.15333333,Saidpur,"Dug Well",W29162,2018,3.1,2.22,NA,NA
-BR,Lakhisarai,Surajgarha,Surajgarha,25.2,86.24638889,Arma,"Dug Well",W29172,2018,1.88,3.03,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2018,2.79,4.75,NA,NA
-BR,Lakhisarai,Barahiya,Lakhisarai,25.2125,86.07027778,Dariyapur,"Dug Well",W29179,2018,NA,7.44,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2018,2.8,7.41,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10833333,86.13055556,Surajgarha-1,"Dug Well",W20980,2018,NA,4.75,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2018,NA,1.09,NA,NA
-BR,Lakhisarai,Surajgarha,Surajgarha,25.27805556,86.285,"Rishi Paharpur","Dug Well",W31735,2018,3.06,6.93,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2018,7.91,9.94,NA,NA
-BR,Lakhisarai,Surajgarha,Lakhisarai,25.18333333,86.15333333,Saidpur,"Dug Well",W29162,2017,1.7,4.2,3.02,6.74
-BR,Lakhisarai,Barahiya,Lakhisarai,25.2125,86.07027778,Dariyapur,"Dug Well",W29179,2017,5.12,7.29,6.78,9.06
-BR,Lakhisarai,Surajgarha,Surajgarha,25.2,86.24638889,Arma,"Dug Well",W29172,2017,1.05,2.45,1.44,7.12
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2017,NA,NA,4.02,9.21
-BR,Lakhisarai,Surajgarha,Surajgarha,25.27805556,86.285,"Rishi Paharpur","Dug Well",W31735,2017,2.8,6.31,5.76,8.24
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2017,1.95,4.56,7.52,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2017,'0.76,NA,1.23,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2017,3.39,6.64,6.98,9.01
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.17361111,86.10416667,Kiul_1,"Dug Well",W29160,2017,NA,NA,NA,2.34
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10833333,86.13055556,Surajgarha-1,"Dug Well",W20980,2017,5.48,3.43,4.02,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2016,5.87,NA,8.1,11.52
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2016,NA,NA,2.1,8.42
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2016,'0.21,NA,5.55,8.99
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10833333,86.13055556,Surajgarha-1,"Dug Well",W20980,2016,2.75,NA,NA,8.07
-BR,Lakhisarai,Barahiya,Lakhisarai,25.2125,86.07027778,Dariyapur,"Dug Well",W29179,2016,4.02,7.82,NA,8.94
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.17361111,86.10416667,Kiul_1,"Dug Well",W29160,2016,NA,1.47,NA,NA
-BR,Lakhisarai,Surajgarha,Lakhisarai,25.18333333,86.15333333,Saidpur,"Dug Well",W29162,2016,4.86,8.2,NA,9.36
-BR,Lakhisarai,Surajgarha,Surajgarha,25.2,86.24638889,Arma,"Dug Well",W29172,2016,3.76,7.45,NA,9.95
-BR,Lakhisarai,Surajgarha,Surajgarha,25.27805556,86.285,"Rishi Paharpur","Dug Well",W31735,2016,1.7,7.58,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2015,2.3,NA,NA,2.3
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2015,8.1,5.5,8.4,8.4
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2015,NA,5.6,4.48,7.4
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2015,4.22,7.26,8.41,8.91
-BR,Lakhisarai,Barahiya,Lakhisarai,25.2125,86.07027778,Dariyapur,"Dug Well",W29179,2015,3.22,NA,7.96,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.17361111,86.10416667,Kiul_1,"Dug Well",W29160,2015,NA,'0.82,3.78,8
-BR,Lakhisarai,Surajgarha,Lakhisarai,25.18333333,86.15333333,Saidpur,"Dug Well",W29162,2015,6.12,NA,7.41,NA
-BR,Lakhisarai,Surajgarha,Surajgarha,25.2,86.24638889,Arma,"Dug Well",W29172,2015,1.76,NA,3.18,NA
-BR,Lakhisarai,Surajgarha,Surajgarha,25.27805556,86.285,"Rishi Paharpur","Dug Well",W31735,2015,NA,NA,7.02,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2014,5.58,NA,NA,5.3
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.17361111,86.10416667,Kiul_1,"Dug Well",W29160,2014,'0.55,NA,NA,1.58
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2014,2.04,6.83,6.4,8.31
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2014,'0.88,NA,3.56,7.02
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2013,NA,2.35,NA,1.51
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2013,4.59,5.22,NA,6.2
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.17361111,86.10416667,Kiul_1,"Dug Well",W29160,2013,NA,NA,1.3,NA
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2013,NA,NA,NA,8.7
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2013,2.77,8.64,5.39,8.61
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2013,2.86,6.99,2.45,10.81
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2012,NA,NA,1.25,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2012,NA,8.4,8.3,7.7
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2012,NA,7.83,6.49,8.79
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2012,NA,3.63,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2012,NA,9.76,4.35,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2011,NA,9.5,1.28,9.5
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2011,8.37,8.4,4.82,8.4
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2011,8,7.54,6.09,9.8
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2011,2.72,5.78,2.88,7.73
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2011,2.8,6.8,3.35,7.58
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2010,9.5,9.5,4.21,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2010,8.4,8.4,8.4,8.4
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2010,3.89,7.7,6.49,9.29
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2010,3.64,3,4.55,5.4
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2010,6.62,4.75,4.4,4.25
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2009,1.34,2.01,9.5,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2009,NA,4,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2009,4.51,6.99,5.9,9
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2009,1.98,2.61,2.1,4.7
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2009,4.12,2.15,3.55,7.05
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2008,1.21,5.5,4.9,5.71
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2008,2.4,6.9,7.2,8
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10833333,86.13055556,Surajgarha-1,"Dug Well",W20980,2008,NA,2.25,NA,NA
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2008,2.31,NA,2.4,4.71
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2008,2.29,6.9,6.1,8.29
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2008,NA,2.25,2.35,3.85
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2007,NA,9.5,4.96,7.2
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2007,5.52,7.55,7.2,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2007,NA,3.95,1.65,7
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2007,NA,NA,3.82,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2007,2.49,7.8,5.99,9.35
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10833333,86.13055556,Surajgarha-1,"Dug Well",W20980,2007,NA,3.95,1.65,7
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2006,3.95,6.18,3.25,7.25
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10833333,86.13055556,Surajgarha-1,"Dug Well",W20980,2006,3.95,NA,3.25,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2006,6.55,4.8,7.1,7.48
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2006,3.56,5.96,2.25,7.05
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2006,3.34,7.29,6.5,8.69
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2006,3.71,6.81,4.9,9.5
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2005,4.76,NA,NA,7.46
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2005,5.6,NA,NA,6.4
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2005,5.55,NA,6.22,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2005,5.34,NA,5.63,8.75
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2005,4.11,NA,NA,7.21
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2004,6.25,7.15,NA,7.5
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2004,2.41,5.61,NA,6.75
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2004,5.19,3.54,NA,9.09
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2004,4,NA,NA,5.54
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2004,2.15,3.86,NA,4.91
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2003,3.48,NA,3.2,5.38
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2003,4.86,NA,6.5,7.5
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2003,NA,3.07,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2003,3.42,NA,5.4,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2003,1.89,NA,5.1,8.51
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2002,3.79,7.34,6.37,7.49
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2002,2.8,3.08,2,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2002,4.11,5.64,NA,6.21
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2002,5.55,6.87,6.7,7.1
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2002,NA,5.27,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2001,4.88,6.5,5.28,6.7
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2001,4.48,5.46,6.01,6.01
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2001,3.22,NA,2.49,4.97
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2001,2.46,NA,6.79,8.55
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2001,3.34,NA,5.07,6.3
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,2000,4.28,NA,NA,NA
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,2000,3.78,NA,NA,6.41
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,2000,5.03,NA,6.3,6.7
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,2000,1.73,NA,6.57,6.29
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,2000,3.56,NA,4.13,6.21
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,1999,NA,6.25,6.11,7
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,1999,NA,4.65,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,1999,NA,5.12,NA,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,1999,NA,6.61,5.66,8.88
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,1998,4.49,6.38,5.48,7.28
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,1998,3.56,NA,4.85,6.27
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,1998,NA,NA,3.9,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,1998,NA,3.15,3.16,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,1998,1.06,6.94,5.85,8.25
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,1997,5.01,NA,5.79,6.97
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,1997,4.33,NA,3.02,6.73
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.1625,86.09583333,Kiul,"Dug Well",W12826,1997,3.63,5.57,4.8,NA
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,1997,3.66,3.97,3.85,NA
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,1997,1.81,NA,6.37,9.36
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.18333333,86.10027778,Lakhisarai,"Dug Well",W12827,1996,5.12,5.93,6.39,7.22
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.2125,86.03333333,Barhaiya,"Dug Well",W12547,1996,1.35,8.52,6.36,9.19
-BR,Lakhisarai,Lakhisarai,Lakhisarai,25.10861111,86.13083333,Surajgarha-2,"Dug Well",W12828,1996,4.65,3.61,3.45,6.4
-BR,Lakhisarai,Surajgarha,Surajgarha,25.17111111,86.20333333,Kajra2,"Dug Well",W12829,1996,3.79,4.74,NA,4.22
+BR,Madhepura,Singheshwar,Gamharia,26.02972222,86.73555556,Jiwachhapur,"Dug Well",W29470,2018,2.11,3.56,NA,NA
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2018,2.17,3.03,NA,NA
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2018,3.35,4.11,NA,NA
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2018,2.22,3.2,NA,NA
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2018,1.63,2.34,NA,NA
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2018,2.37,3.23,NA,NA
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2018,3.52,4.27,NA,NA
+BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2018,3.44,4.54,NA,NA
+BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2018,3.33,3.26,NA,NA
+BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2018,2.66,3.3,NA,NA
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2018,2.96,4.08,NA,NA
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2018,3.06,3.44,NA,NA
+BR,Madhepura,Murliganj,Murliganj,25.88944444,86.93694444,Rampur,"Dug Well",W29437,2018,2.69,3.69,NA,NA
+BR,Madhepura,Madhepura,Madhepura,25.90472222,86.72027778,Surajganj,"Dug Well",W29440,2018,3.1,2.12,NA,NA
+BR,Madhepura,Madhepura,Madhepura,25.90888889,86.835,Bhimpura,"Dug Well",W29441,2018,2.71,3.24,NA,NA
+BR,Madhepura,Singheshwar,Shankarpur,26.08,86.80666667,Barahari,"Dug Well",W29479,2018,1.92,3.1,NA,NA
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2017,2.55,4.57,3.42,4.69
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2017,'0.95,2.16,1.76,2.83
+BR,Madhepura,Singheshwar,Gamharia,26.02972222,86.73555556,Jiwachhapur,"Dug Well",W29470,2017,1.82,3.23,3.3,3.8
+BR,Madhepura,Singheshwar,Shankarpur,26.08,86.80666667,Barahari,"Dug Well",W29479,2017,1.49,4.14,2.66,3.01
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2017,NA,3.86,NA,4
+BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2017,4.05,4.57,3.84,6.1
+BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2017,2.18,2.71,2.72,3.61
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2017,3.14,3.96,3.84,4.9
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2017,2.69,3.36,2.93,4.32
+BR,Madhepura,Madhepura,Madhepura,25.90472222,86.72027778,Surajganj,"Dug Well",W29440,2017,'0.73,4.25,1.57,2.83
+BR,Madhepura,Murliganj,Murliganj,25.88944444,86.93694444,Rampur,"Dug Well",W29437,2017,1.96,2.88,NA,4.12
+BR,Madhepura,Madhepura,Madhepura,25.90888889,86.835,Bhimpura,"Dug Well",W29441,2017,1.59,2.73,NA,3.65
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2017,1.3,2.82,NA,3.48
+BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2017,NA,3.32,NA,3.75
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2017,2.59,3.85,3.06,5.05
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2017,3.55,3.94,4,5.29
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2016,'0.51,NA,1.67,3.2
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2016,2.15,NA,3.74,4.87
+BR,Madhepura,Murliganj,Murliganj,25.88944444,86.93694444,Rampur,"Dug Well",W29437,2016,'0.97,3.9,2.72,4.8
+BR,Madhepura,Madhepura,Madhepura,25.90472222,86.72027778,Surajganj,"Dug Well",W29440,2016,NA,2.51,1.33,3.01
+BR,Madhepura,Madhepura,Madhepura,25.90888889,86.835,Bhimpura,"Dug Well",W29441,2016,1.35,3.41,2.13,6
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2016,1.13,3.38,2.1,3.86
+BR,Madhepura,Singheshwar,Gamharia,26.02972222,86.73555556,Jiwachhapur,"Dug Well",W29470,2016,NA,3.98,2.94,3.01
+BR,Madhepura,Singheshwar,Shankarpur,26.08,86.80666667,Barahari,"Dug Well",W29479,2016,NA,3.34,2.39,2.85
+BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2016,3.73,4.84,4,6.3
+BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2016,NA,3.48,2.05,4.13
+BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2016,1.57,3.68,2.7,4
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2016,NA,NA,3.1,5.34
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2016,NA,NA,2,4.76
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2016,3.9,NA,3.05,5.9
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2016,NA,NA,2.24,4.47
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2016,NA,NA,2.87,4.32
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2015,1.92,1.5,NA,2.43
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2015,3.43,4.65,4.93,4.95
+BR,Madhepura,Murliganj,Murliganj,25.88944444,86.93694444,Rampur,"Dug Well",W29437,2015,1.82,NA,3.63,4.37
+BR,Madhepura,Madhepura,Madhepura,25.90472222,86.72027778,Surajganj,"Dug Well",W29440,2015,1.02,NA,NA,2.97
+BR,Madhepura,Madhepura,Madhepura,25.90888889,86.835,Bhimpura,"Dug Well",W29441,2015,2.02,NA,3.06,3.82
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2015,1.69,2.83,2.92,3.85
+BR,Madhepura,Singheshwar,Gamharia,26.02972222,86.73555556,Jiwachhapur,"Dug Well",W29470,2015,2.74,NA,2.82,3.92
+BR,Madhepura,Singheshwar,Shankarpur,26.08,86.80666667,Barahari,"Dug Well",W29479,2015,1.73,NA,2.68,3.44
+BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2015,1.13,3.24,4.65,6.26
+BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2015,3.37,3.02,3.27,4.26
+BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2015,1.72,3.14,3.57,3.93
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2015,3.17,3.06,4.01,5.69
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2015,2.03,2.76,3.34,4.33
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2015,3.45,NA,NA,5.91
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2015,1.72,3.19,3.07,3.95
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2015,2.25,4.06,3.5,4.88
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2014,NA,2.3,NA,NA
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2014,2.16,3.65,2.74,5.36
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2014,2.26,2.68,2.45,3.52
+BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2014,2.52,5.22,2.86,6.17
+BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2014,2.26,3.19,2.58,3.63
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2014,2.59,4.49,4.01,4.83
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2014,3.4,NA,2.78,NA
+BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2014,2.72,NA,2.17,NA
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2014,NA,3.99,NA,NA
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2014,2.52,2.87,2.99,3.84
+BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2014,2.12,3.14,2.19,3.83
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2013,1.3,4.36,1.96,5.96
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2013,1.36,4.84,2.94,4.3
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2013,1.41,4.05,2.08,4.33
+BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2013,2.4,NA,4.26,6.8
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2013,2.61,4.5,4.46,4.39
+BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2013,1.72,NA,2.75,NA
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2013,2.44,NA,3.07,5.91
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2013,2.13,6.09,2.46,4.88
+BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2013,1.62,NA,2.22,4.6
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2012,NA,2.7,NA,3.72
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2012,NA,4,4.25,4.32
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2012,NA,3.45,NA,4.65
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2012,NA,3.35,4,4.85
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2011,1.9,3.1,2.75,3.3
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2011,3.5,3.5,3.65,4.3
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2011,3.7,4.1,3.4,4.8
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2011,NA,2.7,3.2,4.1
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2011,NA,3.3,3.1,3.9
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2010,NA,2.82,2.75,5.96
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2010,2.35,5.32,4.1,4.5
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2010,2.62,3.83,3.4,4.1
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2010,3.62,2.96,4.05,4.7
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2010,4.27,NA,3.95,NA
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2009,1.5,NA,2.55,4.09
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2009,1.98,1.66,3.9,3.92
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2009,1.4,2.19,3.15,3.15
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2009,1.58,3.22,3.05,3.91
+BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,2008,NA,NA,NA,3.31
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2008,NA,3.1,NA,3.85
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2008,NA,3.4,2.2,4.8
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2008,NA,NA,NA,3.92
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2008,NA,3.3,NA,4.75
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2008,NA,3.1,3.4,3.83
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2007,NA,3.14,NA,3.5
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2007,NA,1.8,2.12,3
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2007,NA,3.63,1.88,4.17
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2007,NA,NA,2.2,NA
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2006,'0.54,1.5,1.2,1.75
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2006,2.75,3.3,3.43,4.5
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2006,2.14,3.15,2.6,3.4
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2006,2.02,2.2,NA,3.75
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2006,NA,1.95,NA,2.7
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2005,NA,NA,1.3,NA
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2005,2.35,3.5,1.65,3.57
+BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2005,1.2,3.37,2.8,3.5
+BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2005,'0.6,2.72,'0.71,3
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2005,'0.6,2.72,'0.71,3
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2005,2.1,3.18,1.7,4.27
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2005,1.2,3.37,2.8,3.5
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2004,1.93,3.78,2.94,2.75
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2004,NA,3.06,2.72,3.75
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2004,1.3,2.05,2.48,2.8
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2004,2.74,2.85,2.94,2.79
+BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,2003,NA,2.96,NA,3.65
+BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,2003,NA,3.15,NA,3.38
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2003,1.63,3.15,2.6,3.38
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2003,1.22,3.32,2.5,3.19
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2003,1.88,3.5,1.95,3.9
+BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,2003,1.82,NA,2.42,NA
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2003,1.21,NA,2.4,NA
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2003,1.22,2.76,1.75,3.01
+BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,2002,1.83,3.03,2.22,3.29
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2002,1.18,NA,NA,3.39
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2002,1.53,3.2,2.18,3.61
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2002,1.83,3.03,2.22,3.29
+BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,2002,1.56,NA,NA,3.46
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2002,1.5,3.3,3.02,3.48
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2002,'0.72,2.85,2.16,3.36
+BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,2002,1.64,NA,NA,3.29
+BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,2001,1.87,NA,2.35,3.54
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2001,1.87,NA,2.35,3.54
+BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,2001,1.96,NA,2,3.81
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2001,2.12,NA,2.96,3.25
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2001,2.17,NA,2.55,3.56
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2001,3.32,NA,2.16,4.32
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2000,1.64,3.37,3.8,3.25
+BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,2000,1.64,3.37,3.8,3.25
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2000,1.21,2.88,2.65,NA
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2000,'0.28,2.44,2.85,2.9
+BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,2000,'0.54,1.74,2.97,NA
+BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,2000,1.29,2.35,3.08,3.48
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2000,'0.58,2.17,2.4,2.2
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2000,1.23,2.88,3.1,3.2
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,1999,1.2,2.45,1.88,3.27
+BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,1999,1.31,2.77,2.27,3.38
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,1999,1.42,3.01,2.31,3.32
+BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,1999,1.66,3.26,2.51,3.12
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,1999,1.66,3.26,2.51,3.12
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,1999,1.67,2.75,2.32,3.16
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,1999,1.57,2.35,2.63,3.4
+BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,1999,1.83,2.41,1.53,3.47
+BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,1998,NA,2.39,2.58,2.91
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,1998,NA,3.48,1.6,3.31
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,1998,NA,2.39,2.58,2.91
+BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,1998,NA,NA,1.57,3.48
+BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,1998,NA,2.26,2.2,3.34
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,1998,NA,2.41,2.4,2.84
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,1998,NA,NA,1.9,3.51
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,1998,NA,2.68,2.21,3.37
+BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,1997,1.33,2.78,1.9,3.5
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,1997,1.42,3.09,2.28,3.18
+BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,1997,1.81,2.77,2.11,3.24
+BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,1997,'0.77,NA,NA,NA
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,1997,2.14,3.98,3.03,4.4
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,1997,'0.81,2.61,2.02,3.52
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,1997,1.33,2.78,1.9,3.5
+BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,1996,2.4,2.05,2.5,2.1
+BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,1996,2.3,2.18,2.46,2.26
+BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,1996,2.41,3.7,2.64,4.03
+BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,1996,2.32,2.52,2.4,2.8
+BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,1996,1.86,2.39,1.88,2.54
+BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,1996,1.86,2.9,1.97,3.19
+BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,1996,1.9,2.8,2.03,3.08
+BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,1996,1.86,2.9,1.97,3.19

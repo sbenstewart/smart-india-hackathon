@@ -1,0 +1,1111 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.56361111,83.26944444,"Baramkela S","Bore Well",W27229,2018,NA,31.6,NA,NA
+CG,Raigarh,Raigarh,Raigarh,21.86805556,83.55166667,Jamgaon,"Dug Well",W27387,2018,NA,3.5,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.6725,83.16888889,Godam,"Dug Well",W33452,2018,'0.5,1,NA,NA
+CG,Raigarh,Tamnar,Tamnar,22.08138889,83.41166667,Amaghat,"Bore Well",W27505,2018,NA,NA,6.8,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.12972222,83.11333333,Chhal,"Dug Well",W27530,2018,NA,NA,2.3,4.15
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.63194444,83.27666667,Mahuapali,"Dug Well",W27268,2018,'0.4,NA,NA,5.5
+CG,Raigarh,Kharsia,"Sarai Lengha [baram",21.65,83.2,"Chaple S","Bore Well",W27279,2018,1.2,NA,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.56555556,82.97166667,"Kedar S","Bore Well",W27230,2018,3.4,NA,NA,NA
+CG,Raigarh,Raigarh,Raigarh,21.97277778,83.26083333,"Bhupdeopur S","Bore Well",W27440,2018,4.5,NA,NA,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.4925,83.22416667,Bamsjer,"Dug Well",W27833,2018,NA,3.98,NA,NA
+CG,Raigarh,Kartala,Dharmjaigarh,22.24,83.02027778,Charmar,"Dug Well",W27630,2018,NA,4.1,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22305556,83.34416667,"Teram Dw","Dug Well",W27594,2018,NA,3.8,3,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.23138889,83.3975,Kotrimal,"Dug Well",W27608,2018,NA,4.74,4.5,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.29472222,83.27861111,Dumarpali,"Dug Well",W27693,2018,NA,4.8,6.7,NA
+CG,Raigarh,Lailunga,Lailunga,22.38555556,83.6125,Pakargaon,"Dug Well",W27767,2018,NA,4.7,5,NA
+CG,Raigarh,Lailunga,Lailunga,22.41527778,83.52055556,Salkhiya,"Dug Well",W27786,2018,NA,5.1,7.5,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.33333333,83.17388889,Bartapali,"Dug Well",W27714,2018,NA,8.05,8.35,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34861111,83.23666667,Gersa,"Dug Well",W27727,2018,NA,6.2,6.1,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37055556,83.23416667,Amapali,"Dug Well",W27752,2018,NA,6.2,6.55,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.40777778,83.13388889,Duliamuda,"Dug Well",W27780,2018,NA,8.2,9.1,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47333333,83.37305556,Karramarra,"Dug Well",W27819,2018,NA,1.5,2.5,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53666667,83.195,Kandadand,"Dug Well",W27853,2018,NA,5.75,4,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53972222,83.3825,Charkhapara,"Dug Well",W27856,2018,NA,4.56,2.4,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.56333333,83.11194444,Boro,"Dug Well",W27872,2018,NA,8,8.9,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.6175,83.37972222,Lipti,"Dug Well",W27903,2018,NA,4.14,4.9,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.64416667,83.28694444,Derpani,"Dug Well",W27915,2018,NA,3.6,2.3,NA
+CG,Raigarh,Pusaur,Pusaur,21.77138889,83.39555556,Koshmanda,"Dug Well",W31409,2018,NA,2.25,2.6,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.21472222,Lakshmipur,"Dug Well",W27838,2018,NA,NA,4.2,4.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.42472222,83.24722222,Ongana,"Dug Well",W31520,2018,NA,NA,7,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43472222,83.22694444,Tendumar,"Dug Well",W31524,2018,NA,NA,6.73,NA
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-1,"Bore Well",W31440,2018,NA,NA,5.7,NA
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2018,NA,2.3,3,NA
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2018,NA,6.01,2.9,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2018,NA,7.15,5.5,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2018,NA,3.4,2.9,NA
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2018,NA,2.92,1.9,NA
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2018,NA,4.04,1.42,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2018,NA,3.6,3.2,NA
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2018,NA,4.2,4.55,NA
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2018,NA,7.72,7.06,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2018,NA,7.4,6,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2018,NA,13.4,12.3,NA
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2018,NA,3.14,1.6,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2018,NA,3.24,3.3,NA
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2018,NA,6.35,6.6,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2018,NA,9.35,7.8,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2018,NA,7.8,6.8,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2018,9.1,9.85,NA,NA
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2018,1.2,8,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2018,4.15,5.96,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2018,3.1,6.7,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2018,1.65,8.6,NA,NA
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2018,2.5,3.67,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2018,1.15,4.8,NA,NA
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2018,NA,2.8,NA,NA
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2018,NA,4.86,NA,NA
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,"Dug Well",W11891,2018,3.6,NA,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.45333333,83.11944444,Kanakbira,"Dug Well",W27149,2018,NA,11.2,9.8,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.57027778,82.97555556,Kedar,"Dug Well",W27234,2018,NA,4.1,3.2,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.59416667,83.0025,Chhind,"Dug Well",W27243,2018,NA,4.2,3.5,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.63,83.08805556,Rera,"Dug Well",W27266,2018,NA,4.37,3.7,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.66388889,83.15777778,Pindri,"Dug Well",W27288,2018,NA,2.8,2.1,NA
+CG,Raigarh,Pusaur,Pusaur,21.69166667,83.38583333,Surajgarh,"Dug Well",W27306,2018,NA,7.4,6,NA
+CG,Raigarh,Raigarh,Raigarh,21.89138889,83.45972222,Kotarliya,"Dug Well",W27400,2018,NA,2.34,3,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raiharg S","Bore Well",W27401,2018,NA,24.8,24.1,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia S","Bore Well",W27450,2018,NA,9,5.24,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia D","Bore Well",W27451,2018,NA,28.6,24,NA
+CG,Raigarh,Tamnar,Tamnar,22.09194444,83.44194444,Tamnar,"Dug Well",W27515,2018,NA,9.3,8.3,NA
+CG,Raigarh,Tamnar,Tamnar,22.13638889,83.49027778,"Gare Nhs","Dug Well",W27535,2018,NA,4.5,4.7,NA
+CG,Raigarh,Tamnar,Tamnar,22.13861111,83.56611111,Padigaon,"Dug Well",W27537,2018,NA,3.56,4.1,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.125,83.16944444,Bojia,"Dug Well",W27527,2018,NA,4.8,4.3,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Edu,"Dug Well",W27500,2018,NA,6.25,5.9,NA
+CG,Raigarh,Pusaur,Pusaur,21.80833333,83.39972222,Aurda,"Dug Well",W27358,2018,NA,2.6,2.85,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2018,NA,5.1,8.95,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2018,NA,6,6,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2018,NA,5.45,5.9,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2018,NA,5.94,8.9,NA
+CG,Raigarh,DHARMJAIGARH,Dharmjaigarh,22.39694444,83.21083333,Amgaon,"Dug Well",W33204,2018,7.7,NA,NA,NA
+CG,Raigarh,Raigarh,Raigarh,21.88611111,83.56194444,"Jamgaon Basti","Dug Well",W33456,2018,NA,3.65,3,NA
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.425,83.32416667,Jhikipali,"Dug Well",W27128,2018,3.7,7.2,NA,NA
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.50333333,83.30194444,Lendhara,"Dug Well",W27193,2018,2.15,4.9,NA,NA
+CG,Raigarh,Pusaur,Pusaur,21.85027778,83.23,Navrangpur,"Dug Well",W27379,2018,1.5,3.48,NA,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raigarh D","Bore Well",W27402,2018,14.6,25,NA,NA
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal1.1,"Dug Well",W27489,2018,3.6,5.37,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.1525,83.16944444,Auranar,"Dug Well",W27547,2018,7.35,9.5,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,"Teram  I","Bore Well",W27596,2018,1.2,4.3,NA,NA
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga2,"Bore Well",W27770,2018,1.2,6.85,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43416667,83.16722222,Bayasi,"Dug Well",W27795,2018,1.85,6.2,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45027778,83.18305556,Taraimar,"Dug Well",W27806,2018,8.6,5.15,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharmajaigarh,"Dug Well",W27813,2018,3.6,8.4,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47416667,83.18555556,"Shahpur Colony","Dug Well",W27820,2018,4.15,7.68,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.48388889,83.15972222,Durgapur,"Dug Well",W27827,2018,3,6.4,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.23722222,83.08916667,Mumund,"Dug Well",W27623,2018,1.6,4.1,NA,NA
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.49194444,83.29638889,"Lendra S","Bore Well",W27182,2018,NA,3.5,NA,NA
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.55888889,83.19555556,"Malda B","Dug Well",W27225,2018,NA,6.7,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.21472222,Lakshmipur,"Dug Well",W27838,2017,3.95,NA,4.3,4
+CG,Raigarh,Pusaur,Pusaur,21.76638889,83.25166667,Semra,"Dug Well",W27343,2017,NA,NA,NA,5.28
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.33333333,83.17388889,Bartapali,"Dug Well",W27714,2017,4.1,7.25,6.1,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53666667,83.195,Kandadand,"Dug Well",W27853,2017,2.1,5.9,3,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.4925,83.22416667,Bamsjer,"Dug Well",W27833,2017,'0.7,NA,1.65,NA
+CG,Raigarh,Kartala,Dharmjaigarh,22.24,83.02027778,Charmar,"Dug Well",W27630,2017,4.5,4.9,NA,NA
+CG,Raigarh,Tamnar,Tamnar,22.18916667,83.52611111,Milupara-Sidarpara,"Dug Well",W27569,2017,NA,7.3,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22305556,83.34416667,"Teram Dw","Dug Well",W27594,2017,1.25,4.5,3.2,7.76
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,"Teram  I","Bore Well",W27596,2017,1.55,4.25,2.6,22.36
+CG,Raigarh,Gharghoda,Gharghoda,22.23138889,83.3975,Kotrimal,"Dug Well",W27608,2017,3.65,4.55,4.1,6.1
+CG,Raigarh,Gharghoda,Gharghoda,22.29472222,83.27861111,Dumarpali,"Dug Well",W27693,2017,4.7,2.6,5,8.52
+CG,Raigarh,Lailunga,Lailunga,22.38555556,83.6125,Pakargaon,"Dug Well",W27767,2017,'0.2,4,2.5,5.22
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga2,"Bore Well",W27770,2017,1.3,7.56,3.75,12.37
+CG,Raigarh,Lailunga,Lailunga,22.41527778,83.52055556,Salkhiya,"Dug Well",W27786,2017,3.65,6,4.3,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34861111,83.23666667,Gersa,"Dug Well",W27727,2017,4.5,5.4,5,6.82
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37055556,83.23416667,Amapali,"Dug Well",W27752,2017,4.6,5.55,5.1,8.29
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.40777778,83.13388889,Duliamuda,"Dug Well",W27780,2017,6.2,8.1,6.5,6.75
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43416667,83.16722222,Bayasi,"Dug Well",W27795,2017,2.8,5.65,4.6,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharmajaigarh,"Dug Well",W27813,2017,3.8,5.55,4.6,7.07
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47333333,83.37305556,Karramarra,"Dug Well",W27819,2017,1.8,1.5,2.05,4.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47416667,83.18555556,"Shahpur Colony","Dug Well",W27820,2017,6.7,6.9,6.65,10.52
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.48388889,83.15972222,Durgapur,"Dug Well",W27827,2017,6.9,6.9,6.8,9.7
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53972222,83.3825,Charkhapara,"Dug Well",W27856,2017,1.9,5.45,3.45,7.38
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.56333333,83.11194444,Boro,"Dug Well",W27872,2017,5.6,8.25,6.45,11.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.6175,83.37972222,Lipti,"Dug Well",W27903,2017,2.5,4.5,3.25,6.41
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.64416667,83.28694444,Derpani,"Dug Well",W27915,2017,1.8,2.2,2,5.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.23722222,83.08916667,Mumund,"Dug Well",W27623,2017,2.1,4,3.4,5.55
+CG,Raigarh,Pusaur,Pusaur,21.77138889,83.39555556,Koshmanda,"Dug Well",W31409,2017,1.7,2.2,2.2,2.4
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2017,1.75,4.3,3.3,7.24
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2017,7.7,8.2,7.3,7.64
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2017,3,5.95,4.35,7.96
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2017,1.1,4.8,3.6,5.56
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2017,2.4,5.6,4.35,8.04
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2017,4.9,7.9,5.35,6.72
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2017,9.85,9.12,9.1,NA
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2017,2.35,2.9,2.8,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2017,2.15,5.85,3.35,NA
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2017,1.45,4.65,3,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2017,6,7.4,6.75,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2017,10.35,11.85,11.1,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2017,1.8,2.1,1.8,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2017,5.45,5.8,4.95,NA
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2017,8.5,NA,NA,NA
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2017,'0.4,1.5,'0.85,6.49
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2017,1.45,3.5,2.5,10.33
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2017,2.5,5.6,3,4.42
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2017,1.5,1.85,1.85,2.37
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2017,1.1,1.5,6.4,2.24
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2017,2.75,3.9,3.4,4.3
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2017,3.3,7.9,5.3,10.35
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2017,3.4,9.35,5.8,7.1
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2017,1.2,1.6,1.45,4.63
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2017,1.2,4.2,2.4,6.52
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2017,3.1,6.25,4.6,6.16
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2017,5.15,5.2,5.3,6.28
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2017,4.7,10.85,7.35,5.76
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2017,7.6,8.25,7.2,5.77
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2017,3.7,6.15,4.45,9.56
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2017,8.85,9.35,8.75,14.55
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.425,83.32416667,Jhikipali,"Dug Well",W27128,2017,6.7,NA,7.8,9
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.50333333,83.30194444,Lendhara,"Dug Well",W27193,2017,2.3,2.8,2.55,NA
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.63194444,83.27666667,Mahuapali,"Dug Well",W27268,2017,'0.6,1.6,1.1,NA
+CG,Raigarh,Raigarh,Raigarh,21.89138889,83.45972222,Kotarliya,"Dug Well",W27400,2017,1.3,3.05,1.75,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia S","Bore Well",W27450,2017,11,9.05,8.25,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia D","Bore Well",W27451,2017,3.05,18.5,19,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.56555556,82.97166667,"Kedar S","Bore Well",W27230,2017,NA,3.4,3.4,NA
+CG,Raigarh,Raigarh,Raigarh,21.86805556,83.55166667,Jamgaon,"Dug Well",W27387,2017,1.4,NA,2.81,NA
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.49194444,83.29638889,"Lendra S","Bore Well",W27182,2017,1.2,2.1,1.9,15.36
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.55888889,83.19555556,"Malda B","Dug Well",W27225,2017,3.1,7.1,4.6,9.27
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.56361111,83.26944444,"Baramkela S","Bore Well",W27229,2017,11.1,27.2,11.1,37
+CG,Raigarh,Kharsia,"Sarai Lengha [baram",21.65,83.2,"Chaple S","Bore Well",W27279,2017,1.25,5.3,4.3,13.16
+CG,Raigarh,Sarangarh,Sarangarh,21.45333333,83.11944444,Kanakbira,"Dug Well",W27149,2017,6.7,11.7,8.2,9.31
+CG,Raigarh,Sarangarh,Sarangarh,21.57027778,82.97555556,Kedar,"Dug Well",W27234,2017,1.55,4,3.2,9.44
+CG,Raigarh,Sarangarh,Sarangarh,21.59416667,83.0025,Chhind,"Dug Well",W27243,2017,2.15,2.8,2.55,7.81
+CG,Raigarh,Sarangarh,Sarangarh,21.63,83.08805556,Rera,"Dug Well",W27266,2017,2.15,2.7,2.7,1.77
+CG,Raigarh,Sarangarh,Sarangarh,21.66388889,83.15777778,Pindri,"Dug Well",W27288,2017,'0.9,3.45,1.55,5.84
+CG,Raigarh,Pusaur,Pusaur,21.85027778,83.23,Navrangpur,"Dug Well",W27379,2017,1.6,3.1,2.8,4.89
+CG,Raigarh,Pusaur,Pusaur,21.69166667,83.38583333,Surajgarh,"Dug Well",W27306,2017,6.65,6.4,5.5,9
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raiharg S","Bore Well",W27401,2017,12,17,14,27.7
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raigarh D","Bore Well",W27402,2017,14.9,23,16.8,39.64
+CG,Raigarh,Raigarh,Raigarh,21.97277778,83.26083333,"Bhupdeopur S","Bore Well",W27440,2017,5,11.1,5.4,23.61
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal1.1,"Dug Well",W27489,2017,4,4.36,4.35,6.41
+CG,Raigarh,Tamnar,Tamnar,22.09194444,83.44194444,Tamnar,"Dug Well",W27515,2017,6.1,8.7,7.35,6.54
+CG,Raigarh,Tamnar,Tamnar,22.13638889,83.49027778,"Gare Nhs","Dug Well",W27535,2017,2.5,4.3,3.95,9.75
+CG,Raigarh,Tamnar,Tamnar,22.13861111,83.56611111,Padigaon,"Dug Well",W27537,2017,2.3,2.9,2.45,6.39
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.125,83.16944444,Bojia,"Dug Well",W27527,2017,2.75,4.5,3.4,4.29
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Edu,"Dug Well",W27500,2017,4.8,5.95,5.5,7.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.1525,83.16944444,Auranar,"Dug Well",W27547,2017,7.5,7.25,7.9,5.46
+CG,Raigarh,Pusaur,Pusaur,21.80833333,83.39972222,Aurda,"Dug Well",W27358,2017,1.75,2.65,2.35,4.95
+CG,Raigarh,Sarangarh,Sarangarh,21.6725,83.16888889,Godam,"Dug Well",W33452,2017,'0.8,'0.85,1.15,3.27
+CG,Raigarh,Raigarh,Raigarh,21.88611111,83.56194444,"Jamgaon Basti","Dug Well",W33456,2017,1.4,3.85,2.8,7.91
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45027778,83.18305556,Taraimar,"Dug Well",W27806,2017,NA,9.05,8.65,10.4
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raiharg S","Bore Well",W27401,2016,2.42,50,12.4,29.01
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raigarh D","Bore Well",W27402,2016,4.04,14.4,15.3,36.07
+CG,Raigarh,Raigarh,Raigarh,21.97277778,83.26083333,"Bhupdeopur S","Bore Well",W27440,2016,4.3,15.92,6.2,25.85
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia S","Bore Well",W27450,2016,12.45,13.82,8.1,19
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia D","Bore Well",W27451,2016,2.8,75.04,16.3,21.9
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal1.1,"Dug Well",W27489,2016,2.35,4.55,3.3,6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Edu,"Dug Well",W27500,2016,4.5,6.3,4.9,7.73
+CG,Raigarh,Tamnar,Tamnar,22.09194444,83.44194444,Tamnar,"Dug Well",W27515,2016,6.4,8.52,6.5,9.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.125,83.16944444,Bojia,"Dug Well",W27527,2016,2.05,5.78,3.15,6.42
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.12972222,83.11333333,Chhal,"Dug Well",W27530,2016,NA,NA,2.2,3.67
+CG,Raigarh,Tamnar,Tamnar,22.13638889,83.49027778,"Gare Nhs","Dug Well",W27535,2016,2.1,6.23,4.7,6.7
+CG,Raigarh,Tamnar,Tamnar,22.13861111,83.56611111,Padigaon,"Dug Well",W27537,2016,2,3.08,3.7,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.1525,83.16944444,Auranar,"Dug Well",W27547,2016,6.4,11.18,6.7,11.11
+CG,Raigarh,Tamnar,Tamnar,22.18916667,83.52611111,Milupara-Sidarpara,"Dug Well",W27569,2016,6.15,NA,8.5,11.58
+CG,Raigarh,Gharghoda,Gharghoda,22.22305556,83.34416667,"Teram Dw","Dug Well",W27594,2016,1.6,5.48,3.3,7.42
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,"Teram  I","Bore Well",W27596,2016,1.95,19.6,17.4,25.5
+CG,Raigarh,Gharghoda,Gharghoda,22.23138889,83.3975,Kotrimal,"Dug Well",W27608,2016,3.3,5.08,4,6.06
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.23722222,83.08916667,Mumund,"Dug Well",W27623,2016,1.64,4.66,3.25,6.1
+CG,Raigarh,Kartala,Dharmjaigarh,22.24,83.02027778,Charmar,"Dug Well",W27630,2016,2.2,5.92,NA,NA
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.425,83.32416667,Jhikipali,"Dug Well",W27128,2016,6.7,8.73,7.3,9
+CG,Raigarh,Gharghoda,Gharghoda,22.29472222,83.27861111,Dumarpali,"Dug Well",W27693,2016,'0.6,6.9,3.15,8.71
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.33333333,83.17388889,Bartapali,"Dug Well",W27714,2016,3,8.4,4.6,7.45
+CG,Raigarh,Sarangarh,Sarangarh,21.45333333,83.11944444,Kanakbira,"Dug Well",W27149,2016,5.5,7.63,8.6,10.8
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.49194444,83.29638889,"Lendra S","Bore Well",W27182,2016,'0.38,7.35,2.5,13.07
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34861111,83.23666667,Gersa,"Dug Well",W27727,2016,3.1,6.06,4.6,6.55
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37055556,83.23416667,Amapali,"Dug Well",W27752,2016,4.45,7.02,5,8.7
+CG,Raigarh,Pusaur,Pusaur,21.77138889,83.39555556,Koshmanda,"Dug Well",W31409,2016,1.85,2.12,2.2,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.15,83.27861111,Katadih,"Dug Well",W31453,2016,5.5,7.54,NA,7.44
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45277778,83.31416667,"Sirsinga Temple","Dug Well",W31529,2016,NA,7.47,NA,NA
+CG,Raigarh,DHARMJAIGARH,Dharmjaigarh,22.39694444,83.21083333,Amgaon,"Dug Well",W33204,2016,7.1,NA,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.6725,83.16888889,Godam,"Dug Well",W33452,2016,NA,NA,1.8,NA
+CG,Raigarh,Raigarh,Raigarh,21.88611111,83.56194444,"Jamgaon Basti","Dug Well",W33456,2016,NA,NA,2.9,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2016,8.8,NA,7.2,8.36
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2016,5,NA,6.7,9.03
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2016,1.14,NA,4.8,5.49
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2016,6.1,NA,5.6,9.71
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2016,2.9,NA,4.15,9.56
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2016,3.4,NA,4.1,8.18
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2016,10.4,NA,10.5,13.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2016,7.7,NA,8.7,14.55
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2016,2.8,NA,3.9,8.15
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2016,3,NA,6,14.15
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2016,6,NA,3.9,9.95
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2016,1.8,NA,2.1,6.52
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2016,1.8,NA,2.7,7.1
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2016,3.4,NA,6,9.69
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2016,1.3,NA,5.1,10.35
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2016,'0.1,NA,1,6.5
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2016,1.65,NA,2,6.81
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2016,1.3,NA,3.1,4.8
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2016,'0.6,NA,1.5,2
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2016,3,NA,3.15,3.93
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2016,1.6,NA,2.3,2.97
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2016,'0.1,NA,1.5,3.4
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2016,1.3,NA,2.8,3
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2016,9.15,NA,8.3,9.85
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2016,1.2,NA,3.2,9.1
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2016,8.4,NA,NA,NA
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2016,3.05,NA,4.15,10.81
+CG,Raigarh,Raigarh,Raigarh,21.965,83.38472222,Lakha-2,"Dug Well",W21619,2016,NA,NA,NA,7.1
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2016,4.55,NA,4.7,6.05
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2016,2.5,NA,3.1,5.08
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2016,4,NA,3.3,7.14
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2016,4.95,NA,6.5,8.1
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.50333333,83.30194444,Lendhara,"Dug Well",W27193,2016,1.95,7.76,3.8,9
+CG,Raigarh,Lailunga,Lailunga,22.38555556,83.6125,Pakargaon,"Dug Well",W27767,2016,1.15,4.02,2.9,NA
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga2,"Bore Well",W27770,2016,4.7,6.58,5.5,8.29
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.40777778,83.13388889,Duliamuda,"Dug Well",W27780,2016,6.55,9.4,6.4,9.4
+CG,Raigarh,Lailunga,Lailunga,22.41527778,83.52055556,Salkhiya,"Dug Well",W27786,2016,4.15,6.4,4.3,7.2
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.55888889,83.19555556,"Malda B","Dug Well",W27225,2016,3.25,9.1,5.5,NA
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.56361111,83.26944444,"Baramkela S","Bore Well",W27229,2016,18.1,37,29.4,25
+CG,Raigarh,Sarangarh,Sarangarh,21.57027778,82.97555556,Kedar,"Dug Well",W27234,2016,4.75,3.9,3.25,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.59416667,83.0025,Chhind,"Dug Well",W27243,2016,1.45,3.02,1.3,7.19
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43416667,83.16722222,Bayasi,"Dug Well",W27795,2016,1.95,5.35,3.6,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45027778,83.18305556,Taraimar,"Dug Well",W27806,2016,NA,10.4,NA,8.19
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharmajaigarh,"Dug Well",W27813,2016,3.15,5.88,4.6,7.09
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47333333,83.37305556,Karramarra,"Dug Well",W27819,2016,1.68,1.82,2.1,5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47416667,83.18555556,"Shahpur Colony","Dug Well",W27820,2016,4.55,8.35,4.95,10.45
+CG,Raigarh,Sarangarh,Sarangarh,21.63,83.08805556,Rera,"Dug Well",W27266,2016,1.48,3.47,1.9,5.41
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.63194444,83.27666667,Mahuapali,"Dug Well",W27268,2016,'0.9,1.1,2.1,10
+CG,Raigarh,Kharsia,"Sarai Lengha [baram",21.65,83.2,"Chaple S","Bore Well",W27279,2016,1.35,6.28,6.8,8.38
+CG,Raigarh,Sarangarh,Sarangarh,21.66388889,83.15777778,Pindri,"Dug Well",W27288,2016,'0.8,2.93,1.5,5.82
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.48388889,83.15972222,Durgapur,"Dug Well",W27827,2016,3.25,8.82,4.65,9.7
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.4925,83.22416667,Bamsjer,"Dug Well",W27833,2016,'0.5,4.35,1.6,7.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.21472222,Lakshmipur,"Dug Well",W27838,2016,3.5,4,4.3,4.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53666667,83.195,Kandadand,"Dug Well",W27853,2016,2.2,7.78,3.85,8.55
+CG,Raigarh,Pusaur,Pusaur,21.69166667,83.38583333,Surajgarh,"Dug Well",W27306,2016,5.1,8.12,4.7,9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53972222,83.3825,Charkhapara,"Dug Well",W27856,2016,1.55,5.7,3.3,8.27
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.56333333,83.11194444,Boro,"Dug Well",W27872,2016,6.2,8.78,6.7,11.2
+CG,Raigarh,Pusaur,Pusaur,21.76638889,83.25166667,Semra,"Dug Well",W27343,2016,NA,NA,NA,12
+CG,Raigarh,Pusaur,Pusaur,21.80833333,83.39972222,Aurda,"Dug Well",W27358,2016,1.8,2.48,3.2,8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.6175,83.37972222,Lipti,"Dug Well",W27903,2016,3.9,5.08,3.8,6.72
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.64416667,83.28694444,Derpani,"Dug Well",W27915,2016,1.8,2.62,2.2,6
+CG,Raigarh,Pusaur,Pusaur,21.85027778,83.23,Navrangpur,"Dug Well",W27379,2016,1.6,2.32,2.3,2.97
+CG,Raigarh,Raigarh,Raigarh,21.86805556,83.55166667,Jamgaon,"Dug Well",W27387,2016,1.75,NA,NA,3.77
+CG,Raigarh,Raigarh,Raigarh,21.89138889,83.45972222,Kotarliya,"Dug Well",W27400,2016,1.65,2.29,2,3.92
+CG,Raigarh,Pusaur,Pusaur,21.85027778,83.23,Navrangpur,"Dug Well",W27379,2015,1.1,4.39,NA,2.32
+CG,Raigarh,Raigarh,Raigarh,21.86805556,83.55166667,Jamgaon,"Dug Well",W27387,2015,'0.6,2.6,NA,4.84
+CG,Raigarh,Raigarh,Raigarh,21.89138889,83.45972222,Kotarliya,"Dug Well",W27400,2015,'0.85,2.4,NA,5.42
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raiharg S","Bore Well",W27401,2015,14.1,NA,NA,18.4
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raigarh D","Bore Well",W27402,2015,12.9,24.1,NA,9.4
+CG,Raigarh,Raigarh,Raigarh,21.97277778,83.26083333,"Bhupdeopur S","Bore Well",W27440,2015,5.3,15,NA,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia S","Bore Well",W27450,2015,2.83,NA,NA,18.3
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia D","Bore Well",W27451,2015,11.98,NA,NA,NA
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal1.1,"Dug Well",W27489,2015,1,4.9,3.87,7.44
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Edu,"Dug Well",W27500,2015,3.26,5.81,NA,7.65
+CG,Raigarh,Tamnar,Tamnar,22.08138889,83.41166667,Amaghat,"Bore Well",W27505,2015,3.3,NA,NA,NA
+CG,Raigarh,Tamnar,Tamnar,22.09194444,83.44194444,Tamnar,"Dug Well",W27515,2015,5.9,7.4,7.98,9.19
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.125,83.16944444,Bojia,"Dug Well",W27527,2015,1.17,3.77,NA,5.68
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.12972222,83.11333333,Chhal,"Dug Well",W27530,2015,1.1,NA,NA,NA
+CG,Raigarh,Tamnar,Tamnar,22.13638889,83.49027778,"Gare Nhs","Dug Well",W27535,2015,1.4,7.05,5.98,8.06
+CG,Raigarh,Tamnar,Tamnar,22.13861111,83.56611111,Padigaon,"Dug Well",W27537,2015,1.4,5.6,3.23,7.55
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.1525,83.16944444,Auranar,"Dug Well",W27547,2015,5.12,7.75,NA,10.7
+CG,Raigarh,Tamnar,Tamnar,22.18916667,83.52611111,Milupara-Sidarpara,"Dug Well",W27569,2015,6.2,9.16,10.21,9.55
+CG,Raigarh,Gharghoda,Gharghoda,22.22305556,83.34416667,"Teram Dw","Dug Well",W27594,2015,'0.65,4.08,NA,4.8
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,"Teram  I","Bore Well",W27596,2015,10.66,NA,NA,97.5
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,"Teram II","Bore Well",W27597,2015,10.57,NA,NA,77.5
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,"Teram Iii","Bore Well",W27598,2015,NA,20.7,NA,24.58
+CG,Raigarh,Gharghoda,Gharghoda,22.23138889,83.3975,Kotrimal,"Dug Well",W27608,2015,2.45,5.12,NA,4.92
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.23722222,83.08916667,Mumund,"Dug Well",W27623,2015,'0.75,3.98,NA,4.35
+CG,Raigarh,Kartala,Dharmjaigarh,22.24,83.02027778,Charmar,"Dug Well",W27630,2015,3.94,6.5,5.5,NA
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.425,83.32416667,Jhikipali,"Dug Well",W27128,2015,3.45,6.01,7.07,6.67
+CG,Raigarh,Gharghoda,Gharghoda,22.29472222,83.27861111,Dumarpali,"Dug Well",W27693,2015,3.6,5.42,NA,5.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.33333333,83.17388889,Bartapali,"Dug Well",W27714,2015,NA,8.14,NA,8.78
+CG,Raigarh,Sarangarh,Sarangarh,21.45333333,83.11944444,Kanakbira,"Dug Well",W27149,2015,1.8,3.35,NA,10.3
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.49194444,83.29638889,"Lendra S","Bore Well",W27182,2015,1.55,2.41,NA,3.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34861111,83.23666667,Gersa,"Dug Well",W27727,2015,2.35,7.05,NA,7.64
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37055556,83.23416667,Amapali,"Dug Well",W27752,2015,3.65,4.68,NA,6.95
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2015,7.8,9.7,NA,10.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2015,4.06,7.46,NA,7.48
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2015,1.67,4.9,NA,5.31
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2015,4.6,8.45,NA,10.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2015,2.9,7.7,NA,8.18
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2015,1.8,6.4,NA,9.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2015,8.89,11.99,NA,12.62
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2015,8.25,9.45,NA,13.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2015,1.94,8.69,NA,12.01
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2015,3.35,8.3,NA,12.49
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2015,3.45,12.73,NA,12.73
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2015,'0.75,4.2,NA,4.8
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2015,'0.25,'0.9,NA,2.55
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2015,2.69,6.09,NA,6.63
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2015,2.25,9.7,NA,9.7
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2015,'0.2,4.86,NA,3.3
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2015,1.37,1.86,NA,2.01
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2015,'0.9,4.11,NA,4.25
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2015,'0.4,1.5,NA,1.18
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2015,1.55,2.1,NA,8.3
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2015,'0.5,3.88,2.58,4.13
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2015,'0.4,6.1,NA,2.05
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2015,'0.55,NA,2.85,'0.55
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2015,6.4,9.1,7.87,9.1
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2015,'0.36,7.76,NA,8.94
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2015,4.35,7.75,NA,7.52
+CG,Raigarh,Raigarh,Raigarh,21.965,83.38472222,Lakha-2,"Dug Well",W21619,2015,NA,5.17,NA,NA
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2015,3,4.55,4.92,5.25
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2015,1.5,3.9,6.06,3.4
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2015,1.4,3.48,NA,4.84
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2015,4.85,7.79,NA,8.97
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.50333333,83.30194444,Lendhara,"Dug Well",W27193,2015,NA,3.48,4.5,5.18
+CG,Raigarh,Lailunga,Lailunga,22.38555556,83.6125,Pakargaon,"Dug Well",W27767,2015,'0.1,NA,NA,4.45
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga2,"Bore Well",W27770,2015,2.7,5.8,NA,6.32
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.40777778,83.13388889,Duliamuda,"Dug Well",W27780,2015,6,7.95,NA,9.1
+CG,Raigarh,Lailunga,Lailunga,22.41527778,83.52055556,Salkhiya,"Dug Well",W27786,2015,1.95,6.69,NA,7.3
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.55888889,83.19555556,"Malda B","Dug Well",W27225,2015,1.75,5.63,7.21,8.42
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.56361111,83.26944444,"Baramkela S","Bore Well",W27229,2015,17.5,NA,NA,24.5
+CG,Raigarh,Sarangarh,Sarangarh,21.56555556,82.97166667,"Kedar S","Bore Well",W27230,2015,3.2,3.1,NA,8.57
+CG,Raigarh,Sarangarh,Sarangarh,21.57027778,82.97555556,Kedar,"Dug Well",W27234,2015,2.95,NA,NA,3.73
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,"Sarangarh S","Bore Well",W27239,2015,NA,12.3,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.59416667,83.0025,Chhind,"Dug Well",W27243,2015,'0.85,3.5,NA,5.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43416667,83.16722222,Bayasi,"Dug Well",W27795,2015,2.2,3.2,NA,4.08
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45027778,83.18305556,Taraimar,"Dug Well",W27806,2015,9.3,NA,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharmajaigarh,"Dug Well",W27813,2015,2.85,6.43,NA,6.63
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47333333,83.37305556,Karramarra,"Dug Well",W27819,2015,'0.6,4.4,NA,2.82
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47416667,83.18555556,"Shahpur Colony","Dug Well",W27820,2015,2.63,7.1,NA,9.49
+CG,Raigarh,Sarangarh,Sarangarh,21.63,83.08805556,Rera,"Dug Well",W27266,2015,'0.9,3.34,NA,3.34
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.63194444,83.27666667,Mahuapali,"Dug Well",W27268,2015,'0.1,2.96,NA,5.55
+CG,Raigarh,Kharsia,"Sarai Lengha [baram",21.65,83.2,"Chaple S","Bore Well",W27279,2015,3.56,5.86,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.66388889,83.15777778,Pindri,"Dug Well",W27288,2015,NA,3.75,NA,5.56
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.48388889,83.15972222,Durgapur,"Dug Well",W27827,2015,2.95,8.1,NA,9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.4925,83.22416667,Bamsjer,"Dug Well",W27833,2015,5.05,6.1,NA,6.46
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.21472222,Lakshmipur,"Dug Well",W27838,2015,2.26,NA,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.51472222,83.1425,Kerigarhi,"Dug Well",W27839,2015,NA,NA,NA,10.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53666667,83.195,Kandadand,"Dug Well",W27853,2015,1.4,7.62,NA,9.7
+CG,Raigarh,Pusaur,Pusaur,21.69166667,83.38583333,Surajgarh,"Dug Well",W27306,2015,4.25,6.62,5.66,6.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53972222,83.3825,Charkhapara,"Dug Well",W27856,2015,1.45,6.6,NA,7.51
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.56333333,83.11194444,Boro,"Dug Well",W27872,2015,3.65,8.74,NA,9.9
+CG,Raigarh,Pusaur,Pusaur,21.76638889,83.25166667,Semra,"Dug Well",W27343,2015,NA,4.34,NA,3.6
+CG,Raigarh,Pusaur,Pusaur,21.80833333,83.39972222,Aurda,"Dug Well",W27358,2015,1.1,4.81,NA,6
+CG,Raigarh,Pusaur,Pusaur,21.82861111,83.35888889,"Kondatalai S","Bore Well",W27368,2015,NA,NA,NA,16.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.6175,83.37972222,Lipti,"Dug Well",W27903,2015,1.62,4.64,NA,6.05
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.64416667,83.28694444,Derpani,"Dug Well",W27915,2015,1.05,3.3,NA,4.73
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.64416667,83.28694444,Derpani,"Dug Well",W27915,2014,'0.82,2.4,NA,3.1
+CG,Raigarh,Pusaur,Pusaur,21.85027778,83.23,Navrangpur,"Dug Well",W27379,2014,NA,NA,2.6,NA
+CG,Raigarh,Raigarh,Raigarh,21.86805556,83.55166667,Jamgaon,"Dug Well",W27387,2014,NA,NA,1.31,NA
+CG,Raigarh,Raigarh,Raigarh,21.89138889,83.45972222,Kotarliya,"Dug Well",W27400,2014,NA,NA,1.65,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raiharg S","Bore Well",W27401,2014,NA,18.57,1.74,16.5
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raigarh D","Bore Well",W27402,2014,16.36,24.35,13.46,17.3
+CG,Raigarh,Raigarh,Raigarh,21.97277778,83.26083333,"Bhupdeopur S","Bore Well",W27440,2014,5.03,9.05,NA,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia S","Bore Well",W27450,2014,NA,4.27,7.5,17.8
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia D","Bore Well",W27451,2014,NA,20.44,19.85,34.9
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal1.1,"Dug Well",W27489,2014,1.75,4.74,3.05,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Edu,"Dug Well",W27500,2014,2.65,5.33,4.12,6.82
+CG,Raigarh,Tamnar,Tamnar,22.09194444,83.44194444,Tamnar,"Dug Well",W27515,2014,NA,NA,7.05,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.125,83.16944444,Bojia,"Dug Well",W27527,2014,NA,5.05,2.52,4.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.12972222,83.11333333,Chhal,"Dug Well",W27530,2014,NA,2.77,1.89,NA
+CG,Raigarh,Tamnar,Tamnar,22.13638889,83.49027778,"Gare Nhs","Dug Well",W27535,2014,'0.78,4.95,5.37,NA
+CG,Raigarh,Tamnar,Tamnar,22.13861111,83.56611111,Padigaon,"Dug Well",W27537,2014,NA,NA,1.98,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.1525,83.16944444,Auranar,"Dug Well",W27547,2014,5.91,6.59,7.11,11.4
+CG,Raigarh,Tamnar,Tamnar,22.18916667,83.52611111,Milupara-Sidarpara,"Dug Well",W27569,2014,2.8,9.32,7.23,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22305556,83.34416667,"Teram Dw","Dug Well",W27594,2014,NA,NA,2.68,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,"Teram  I","Bore Well",W27596,2014,NA,NA,10.35,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,"Teram Iii","Bore Well",W27598,2014,NA,NA,10.15,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.23138889,83.3975,Kotrimal,"Dug Well",W27608,2014,NA,NA,3.55,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.23722222,83.08916667,Mumund,"Dug Well",W27623,2014,'0.46,3.1,2.37,4.4
+CG,Raigarh,Kartala,Dharmjaigarh,22.24,83.02027778,Charmar,"Dug Well",W27630,2014,2.46,5.29,3.13,9.4
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.425,83.32416667,Jhikipali,"Dug Well",W27128,2014,NA,NA,5.32,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.45333333,83.11944444,Kanakbira,"Dug Well",W27149,2014,NA,8,6.85,8.9
+CG,Raigarh,Gharghoda,Gharghoda,22.29472222,83.27861111,Dumarpali,"Dug Well",W27693,2014,3.4,5.27,5.08,6.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.33333333,83.17388889,Bartapali,"Dug Well",W27714,2014,4.03,5.73,6.4,8.1
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.49194444,83.29638889,"Lendra S","Bore Well",W27182,2014,'0.21,5.85,1.65,10.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34861111,83.23666667,Gersa,"Dug Well",W27727,2014,2.66,5.01,3.87,5.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37055556,83.23416667,Amapali,"Dug Well",W27752,2014,2.91,5.46,4.36,7.35
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh1,"Bore Well",W31389,2014,NA,3.29,NA,NA
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-1,"Bore Well",W31440,2014,NA,4.31,NA,NA
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Dharan Pz I","Tube Well",W31443,2014,NA,9.4,NA,NA
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Dharan Pz Ii","Tube Well",W31444,2014,NA,22.2,NA,NA
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Nawapara Pz","Tube Well",W31445,2014,NA,6.62,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.11333333,83.33138889,Aushidih,"Dug Well",W31446,2014,NA,NA,4.98,NA
+CG,Raigarh,Kharsia,Gharghoda,22.12333333,83.22861111,Charmar,"Dug Well",W31449,2014,NA,4.25,NA,NA
+CG,Raigarh,Kharsia,Dharmjaigarh,22.13333333,83.21583333,Dongabhona,"Dug Well",W31451,2014,NA,4.27,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.19527778,83.3325,Kanchanpur,"Dug Well",W31460,2014,NA,NA,2.31,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.20527778,83.36472222,Kagsara,"Dug Well",W31461,2014,NA,NA,3.72,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22583333,83.34805556,"Teram Pz I","Tube Well",W31464,2014,NA,14.52,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22583333,83.34805556,"Teram Pz Ii","Tube Well",W31465,2014,NA,14.8,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.2625,83.10722222,Behramar,"Dug Well",W31469,2014,NA,5.62,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.2625,83.27861111,"Porda Pz","Tube Well",W31470,2014,NA,8.8,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.26305556,83.31416667,Saraipali,"Dug Well",W31471,2014,NA,5.79,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.27,83.27222222,Nawadih,"Dug Well",W31473,2014,NA,2.79,NA,NA
+CG,Raigarh,Lailunga,Gharghoda,22.29611111,83.43,Phuthamuda,"Dug Well",W31486,2014,NA,3.9,NA,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.30694444,83.30222222,Pusalda,"Dug Well",W31491,2014,NA,2.71,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.31611111,83.255,Pandripani,"Dug Well",W31494,2014,NA,5.42,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34083333,83.13,Ramnagar,"Dug Well",W31497,2014,NA,3.87,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34138889,83.10583333,"Sithra New","Dug Well",W31498,2014,NA,4.27,2.64,5.7
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.36388889,83.20694444,Nawagaon,"Dug Well",W31509,2014,NA,4.54,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.38694444,83.25361111,Potiya,"Dug Well",W31513,2014,NA,3.88,NA,NA
+CG,Raigarh,Lailunga,Lailunga,22.39027778,83.61,Rudevkela,"Dug Well",W31514,2014,'0.74,NA,2.86,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.42083333,83.22944444,Deridih,"Dug Well",W31518,2014,NA,5.07,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.42472222,83.24722222,Ongana,"Dug Well",W31520,2014,NA,3.77,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.42611111,83.175,Bijapara,"Dug Well",W31521,2014,NA,6.21,3.91,10.1
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43472222,83.22694444,Tendumar,"Dug Well",W31524,2014,NA,3.7,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45277778,83.31416667,"Sirsinga Temple","Dug Well",W31529,2014,'0.03,2.03,'0.78,7.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45277778,83.31416667,Sukwasuava,"Dug Well",W31530,2014,NA,2.21,2.57,5.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.50222222,83.1925,"Amlipur Amlitikra","Dug Well",W31537,2014,NA,1.73,2.27,3.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.50416667,83.13388889,Keradih,"Dug Well",W31539,2014,NA,3,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.52416667,83.20166667,Chunkunidad,"Dug Well",W31542,2014,NA,6.99,8.3,11.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2014,7.32,7.94,7.4,8.7
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2014,3.97,6.55,5.83,7.46
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2014,3.08,4.52,3.77,5.13
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2014,2.83,5.25,5.25,9.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2014,1.34,5.92,3.93,7.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2014,1.79,4.7,3.55,7.45
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2014,8.79,11.21,NA,12.34
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2014,NA,3.32,1.61,13.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2014,2.03,4.11,1.06,9.84
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2014,2.82,9.65,6.13,13.6
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2014,2.53,5.55,3.9,7.95
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2014,2.11,3.3,1.28,4.5
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2014,'0.09,3.65,1.41,3
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2014,2.23,5.34,4.34,6.09
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2014,1.65,5.9,4.63,9.7
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2014,'0.51,4.35,NA,NA
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2014,NA,2.28,1.69,6.8
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2014,1.55,2.1,1.75,3.07
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2014,1.24,3.45,NA,4
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2014,'0.74,1.12,1.02,1.4
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2014,-1,2.38,2.12,2.2
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2014,-0.14,1.95,'0.75,1.4
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2014,'0.1,2.27,4.1,2.3
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2014,NA,2.69,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2014,4.55,6.1,5.8,9.1
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2014,-0.25,2.99,2.39,7.94
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2014,NA,6.99,NA,11.84
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2014,NA,4.58,NA,NA
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2014,'0.26,8.17,4.23,9.3
+CG,Raigarh,Raigarh,Raigarh,21.965,83.38472222,Lakha-2,"Dug Well",W21619,2014,1.98,NA,NA,NA
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2014,2.87,2.76,3.75,5.15
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2014,'0.9,3.12,2.45,3.4
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2014,'0.71,3.5,2.3,4.9
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2014,NA,2.92,5.86,10.5
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.50333333,83.30194444,Lendhara,"Dug Well",W27193,2014,NA,NA,2.75,NA
+CG,Raigarh,Lailunga,Lailunga,22.38555556,83.6125,Pakargaon,"Dug Well",W27767,2014,NA,3.7,2.15,4.3
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga2,"Bore Well",W27770,2014,2.24,5.35,4.78,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.40777778,83.13388889,Duliamuda,"Dug Well",W27780,2014,5.78,6.59,6.84,NA
+CG,Raigarh,Lailunga,Lailunga,22.41527778,83.52055556,Salkhiya,"Dug Well",W27786,2014,1.75,4.63,3.25,5.1
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.55888889,83.19555556,"Malda B","Dug Well",W27225,2014,1.26,2.45,4.03,8.42
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.56361111,83.26944444,"Baramkela S","Bore Well",W27229,2014,NA,18.96,17.08,36.4
+CG,Raigarh,Sarangarh,Sarangarh,21.56555556,82.97166667,"Kedar S","Bore Well",W27230,2014,NA,5.43,3.23,11.8
+CG,Raigarh,Sarangarh,Sarangarh,21.57027778,82.97555556,Kedar,"Dug Well",W27234,2014,'0.5,NA,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,"Sarangarh S","Bore Well",W27239,2014,6.66,7.87,NA,10.9
+CG,Raigarh,Sarangarh,Sarangarh,21.59416667,83.0025,Chhind,"Dug Well",W27243,2014,NA,NA,2.2,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43416667,83.16722222,Bayasi,"Dug Well",W27795,2014,'0.66,4.17,2.81,5.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45027778,83.18305556,Taraimar,"Dug Well",W27806,2014,NA,6.72,9.3,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharmajaigarh,"Dug Well",W27813,2014,2.46,5.27,4.25,6.65
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47416667,83.18555556,"Shahpur Colony","Dug Well",W27820,2014,5.31,6.95,5.39,9.7
+CG,Raigarh,Sarangarh,Sarangarh,21.63,83.08805556,Rera,"Dug Well",W27266,2014,'0.71,2.07,1.26,4.4
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.63194444,83.27666667,Mahuapali,"Dug Well",W27268,2014,NA,NA,1.58,NA
+CG,Raigarh,Kharsia,"Sarai Lengha [baram",21.65,83.2,"Chaple S","Bore Well",W27279,2014,NA,15.45,3.52,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.66388889,83.15777778,Pindri,"Dug Well",W27288,2014,'0.45,2.74,1.32,3.25
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.48388889,83.15972222,Durgapur,"Dug Well",W27827,2014,2.39,7.43,4.94,9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.4925,83.22416667,Bamsjer,"Dug Well",W27833,2014,'0.47,2.68,1.61,4.75
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.21472222,Lakshmipur,"Dug Well",W27838,2014,NA,3.65,1.34,3.69
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.51472222,83.1425,Kerigarhi,"Dug Well",W27839,2014,NA,4.07,3.73,8.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53666667,83.195,Kandadand,"Dug Well",W27853,2014,NA,5.35,2.32,7.4
+CG,Raigarh,Pusaur,Pusaur,21.69166667,83.38583333,Surajgarh,"Dug Well",W27306,2014,NA,NA,5.2,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53972222,83.3825,Charkhapara,"Dug Well",W27856,2014,'0.9,NA,3.03,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.56333333,83.11194444,Boro,"Dug Well",W27872,2014,3.4,6.16,6.01,9.5
+CG,Raigarh,Pusaur,Pusaur,21.80833333,83.39972222,Aurda,"Dug Well",W27358,2014,NA,NA,1.24,NA
+CG,Raigarh,Pusaur,Pusaur,21.82861111,83.35888889,"Kondatalai S","Bore Well",W27368,2014,32.1,NA,NA,15
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.6175,83.37972222,Lipti,"Dug Well",W27903,2014,'0.41,3.01,2.9,5.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2013,8.25,7.77,7.7,9.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2013,3.21,6.38,6.46,8.06
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2013,2.33,3.71,4.13,4.93
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2013,7.3,7.16,5.2,9.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2013,5.08,4.52,5.2,8.4
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2013,3.3,5.76,4.15,7.75
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2013,10.24,11.28,10.84,12.54
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2013,'0.95,1.82,3.25,7.55
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2013,'0.54,3.61,3.64,7.92
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2013,2.16,5.16,6.95,13.6
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2013,2.7,3.2,3.95,12.73
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2013,'0.95,2.86,1.1,4.8
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2013,'0.3,2.35,3.5,3.5
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2013,3.09,6.01,4.89,7.59
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2013,2.32,5.03,5.65,9.7
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2013,1.25,NA,3.9,7
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2013,'0.89,3.43,2.1,6.8
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2013,1.32,2.61,2.02,3.27
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2013,'0.39,4.04,3.1,4.6
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2013,'0.23,3.05,'0.9,1.6
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2013,1.2,2.28,2.3,2.3
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2013,'0.3,1.17,1.35,5.2
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2013,'0.15,3.26,2.15,4.125
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2013,1.19,5.48,2.6,5.9
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2013,7.38,7.43,5.05,9.1
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2013,'0.24,3.58,2.74,7.74
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2013,1.77,6.54,2.82,11.84
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2013,7.8,5.17,8.1,9.3
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2013,2.95,5.54,2.5,4.55
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2013,1.6,4.85,3,4.4
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2013,1.45,3.2,2.6,4.35
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2013,1.75,2.95,2.45,8.35
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.55888889,83.19555556,"Malda B","Dug Well",W27225,2013,'0.85,NA,1.95,8.42
+CG,Raigarh,Lailunga,Lailunga,22.38555556,83.6125,Pakargaon,"Dug Well",W27767,2013,2.75,NA,3.3,5.8
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga2,"Bore Well",W27770,2013,3.1,5.6,4.9,9.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.40777778,83.13388889,Duliamuda,"Dug Well",W27780,2013,4.35,NA,6.5,8.1
+CG,Raigarh,Lailunga,Lailunga,22.41527778,83.52055556,Salkhiya,"Dug Well",W27786,2013,5.4,NA,4.3,7.3
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.56361111,83.26944444,"Baramkela S","Bore Well",W27229,2013,5.49,19.58,8.75,36.3
+CG,Raigarh,Sarangarh,Sarangarh,21.56555556,82.97166667,"Kedar S","Bore Well",W27230,2013,3.5,6.8,5,11.2
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,"Sarangarh S","Bore Well",W27239,2013,3.42,6.72,7.75,4.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43416667,83.16722222,Bayasi,"Dug Well",W27795,2013,2.15,3.75,4.1,5.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45027778,83.18305556,Taraimar,"Dug Well",W27806,2013,1.9,NA,6.6,7.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharmajaigarh,"Dug Well",W27813,2013,2.25,5.17,5.15,6.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47416667,83.18555556,"Shahpur Colony","Dug Well",W27820,2013,4.3,9.1,6.9,8.7
+CG,Raigarh,Sarangarh,Sarangarh,21.63,83.08805556,Rera,"Dug Well",W27266,2013,'0.7,2.22,1.4,5
+CG,Raigarh,Kharsia,"Sarai Lengha [baram",21.65,83.2,"Chaple S","Bore Well",W27279,2013,13.63,13.52,15.1,17.2
+CG,Raigarh,Sarangarh,Sarangarh,21.66388889,83.15777778,Pindri,"Dug Well",W27288,2013,'0.98,NA,2.65,3.95
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.48388889,83.15972222,Durgapur,"Dug Well",W27827,2013,3.2,7.82,7.2,9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.4925,83.22416667,Bamsjer,"Dug Well",W27833,2013,NA,4.36,2.4,4.75
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.21472222,Lakshmipur,"Dug Well",W27838,2013,2.51,NA,3.55,3.7
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.51472222,83.1425,Kerigarhi,"Dug Well",W27839,2013,7,NA,3.9,10.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53666667,83.195,Kandadand,"Dug Well",W27853,2013,4.45,NA,5.2,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.56333333,83.11194444,Boro,"Dug Well",W27872,2013,3.55,NA,6.05,9.5
+CG,Raigarh,Pusaur,Pusaur,21.82861111,83.35888889,"Kondatalai S","Bore Well",W27368,2013,NA,11.5,NA,13.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.6175,83.37972222,Lipti,"Dug Well",W27903,2013,3.2,5.79,2.8,5.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.64416667,83.28694444,Derpani,"Dug Well",W27915,2013,1.7,NA,1.4,3
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raiharg S","Bore Well",W27401,2013,14.67,20.75,18,16.9
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raigarh D","Bore Well",W27402,2013,15.67,23.55,24.2,18
+CG,Raigarh,Raigarh,Raigarh,21.97277778,83.26083333,"Bhupdeopur S","Bore Well",W27440,2013,7.31,7.9,8.9,11.75
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia S","Bore Well",W27450,2013,1.05,4.96,4,16.1
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia D","Bore Well",W27451,2013,11.54,27.64,20.2,44.75
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal1.1,"Dug Well",W27489,2013,2.66,6.4,4.2,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Edu,"Dug Well",W27500,2013,5.66,5.26,5.16,6.81
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.125,83.16944444,Bojia,"Dug Well",W27527,2013,2.22,6.85,4.4,7.75
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.12972222,83.11333333,Chhal,"Dug Well",W27530,2013,NA,5.36,2.6,6.3
+CG,Raigarh,Tamnar,Tamnar,22.13638889,83.49027778,"Gare Nhs","Dug Well",W27535,2013,2.15,NA,3.38,8.15
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.1525,83.16944444,Auranar,"Dug Well",W27547,2013,3.87,5,6.55,4.1
+CG,Raigarh,Tamnar,Tamnar,22.18916667,83.52611111,Milupara-Sidarpara,"Dug Well",W27569,2013,2.69,NA,8.6,10.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.23722222,83.08916667,Mumund,"Dug Well",W27623,2013,1.95,3.3,2.9,4.6
+CG,Raigarh,Kartala,Dharmjaigarh,22.24,83.02027778,Charmar,"Dug Well",W27630,2013,4.65,8,5.15,7.2
+CG,Raigarh,Sarangarh,Sarangarh,21.45333333,83.11944444,Kanakbira,"Dug Well",W27149,2013,'0.95,NA,7.6,8
+CG,Raigarh,Gharghoda,Gharghoda,22.29472222,83.27861111,Dumarpali,"Dug Well",W27693,2013,2.25,5.93,5.2,6.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.33333333,83.17388889,Bartapali,"Dug Well",W27714,2013,5.33,5.15,5.65,7.6
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.49194444,83.29638889,"Lendra S","Bore Well",W27182,2013,4.36,9.08,5.75,11.65
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34861111,83.23666667,Gersa,"Dug Well",W27727,2013,2.35,NA,4.8,5.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37055556,83.23416667,Amapali,"Dug Well",W27752,2013,3.5,5.44,5.15,6.75
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh1,"Bore Well",W31389,2013,3.44,3.28,3.02,11.92
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-1,"Bore Well",W31440,2013,2.45,NA,3.99,NA
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Dharan Pz I","Tube Well",W31443,2013,5.5,9.2,6.75,10.1
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Dharan Pz Ii","Tube Well",W31444,2013,13.8,22.18,16.5,23.4
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Nawapara Pz","Tube Well",W31445,2013,4.6,9.14,5.58,10.6
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.11666667,83.145,"Nawapara Pz","Tube Well",W31447,2013,10.65,25,NA,38.2
+CG,Raigarh,Kharsia,Gharghoda,22.12333333,83.22861111,Charmar,"Dug Well",W31449,2013,3.5,NA,4.2,7.5
+CG,Raigarh,Kharsia,Dharmjaigarh,22.13333333,83.21583333,Dongabhona,"Dug Well",W31451,2013,3.85,NA,4.15,5.3
+CG,Raigarh,Gharghoda,Gharghoda,22.225,83.34833333,"Teram Pz I","Tube Well",W31462,2013,NA,5.15,NA,6.3
+CG,Raigarh,Gharghoda,Gharghoda,22.225,83.34833333,"Teram Pz Ii","Tube Well",W31463,2013,7.8,11.05,NA,14.35
+CG,Raigarh,Gharghoda,Gharghoda,22.22583333,83.34805556,"Teram Pz I","Tube Well",W31464,2013,7.9,14.35,14.45,18
+CG,Raigarh,Gharghoda,Gharghoda,22.22583333,83.34805556,"Teram Pz Ii","Tube Well",W31465,2013,7,13.45,11.55,14.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.2625,83.10722222,Behramar,"Dug Well",W31469,2013,3.49,NA,4.5,6.4
+CG,Raigarh,Gharghoda,Gharghoda,22.2625,83.27861111,"Porda Pz","Tube Well",W31470,2013,5.9,8.67,6.62,11.3
+CG,Raigarh,Gharghoda,Gharghoda,22.26305556,83.31416667,Saraipali,"Dug Well",W31471,2013,1.78,NA,5.4,9.8
+CG,Raigarh,Gharghoda,Gharghoda,22.27,83.27222222,Nawadih,"Dug Well",W31473,2013,2.15,NA,2.7,4.1
+CG,Raigarh,Lailunga,Gharghoda,22.29611111,83.43,Phuthamuda,"Dug Well",W31486,2013,2.85,NA,3.1,4.8
+CG,Raigarh,Gharghoda,Gharghoda,22.30694444,83.30222222,Pusalda,"Dug Well",W31491,2013,2.39,NA,2.6,9.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.31611111,83.255,Pandripani,"Dug Well",W31494,2013,4.65,NA,5.15,9.15
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34083333,83.13,Ramnagar,"Dug Well",W31497,2013,'0.99,NA,3.75,3.85
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34138889,83.10583333,"Sithra New","Dug Well",W31498,2013,3.05,9.55,4.2,6.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.36388889,83.20694444,Nawagaon,"Dug Well",W31509,2013,3.4,NA,4.25,4.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.38694444,83.25361111,Potiya,"Dug Well",W31513,2013,2.06,NA,3.7,7.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.42083333,83.22944444,Deridih,"Dug Well",W31518,2013,2.35,NA,4.7,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.42472222,83.24722222,Ongana,"Dug Well",W31520,2013,2.65,NA,3.45,4.7
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.42611111,83.175,Bijapara,"Dug Well",W31521,2013,4.65,9.29,6.2,10.4
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43472222,83.22694444,Tendumar,"Dug Well",W31524,2013,'0.6,NA,2.45,4.25
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45277778,83.31416667,"Sirsinga Temple","Dug Well",W31529,2013,1.7,NA,1.6,7.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45277778,83.31416667,Sukwasuava,"Dug Well",W31530,2013,2,NA,2.1,4.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.50222222,83.1925,"Amlipur Amlitikra","Dug Well",W31537,2013,'0.8,NA,1.6,3.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.50416667,83.13388889,Keradih,"Dug Well",W31539,2013,'0.85,NA,1.91,3.15
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.52416667,83.20166667,Chunkunidad,"Dug Well",W31542,2013,5.95,NA,6.5,11.3
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.56361111,83.26944444,"Baramkela S","Bore Well",W27229,2012,NA,NA,18.24,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2012,NA,6.43,4.97,8.8
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,"Sarangarh S","Bore Well",W27239,2012,NA,NA,7.31,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharmajaigarh,"Dug Well",W27813,2012,NA,NA,4.06,NA
+CG,Raigarh,Kharsia,"Sarai Lengha [baram",21.65,83.2,"Chaple S","Bore Well",W27279,2012,NA,NA,5.52,NA
+CG,Raigarh,Pusaur,Pusaur,21.82861111,83.35888889,"Kondatalai S","Bore Well",W27368,2012,NA,NA,19.32,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raiharg S","Bore Well",W27401,2012,NA,NA,20.2,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,"Raigarh D","Bore Well",W27402,2012,NA,NA,21.23,NA
+CG,Raigarh,Raigarh,Raigarh,21.97277778,83.26083333,"Bhupdeopur S","Bore Well",W27440,2012,NA,NA,5.94,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia S","Bore Well",W27450,2012,NA,NA,4.6,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,"Kharasia D","Bore Well",W27451,2012,NA,NA,19.47,NA
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal1.1,"Dug Well",W27489,2012,NA,NA,2.31,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Edu,"Dug Well",W27500,2012,NA,NA,4.33,NA
+CG,Raigarh,Raigarh,"Sarai Lengha [baram",21.49194444,83.29638889,"Lendra S","Bore Well",W27182,2012,NA,NA,'0.35,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh1,"Bore Well",W31389,2012,NA,NA,7.33,NA
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Dharan Pz I","Tube Well",W31443,2012,NA,NA,6.62,NA
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Dharan Pz Ii","Tube Well",W31444,2012,NA,NA,16.3,NA
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.08083333,83.12194444,"Nawapara Pz","Tube Well",W31445,2012,NA,NA,5.45,NA
+CG,Raigarh,Gharghoda,Dharmjaigarh,22.11666667,83.145,"Nawapara Pz","Tube Well",W31447,2012,NA,NA,15.3,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.225,83.34833333,"Teram Pz I","Tube Well",W31462,2012,NA,NA,4.2,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.225,83.34833333,"Teram Pz Ii","Tube Well",W31463,2012,NA,NA,10.5,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22583333,83.34805556,"Teram Pz I","Tube Well",W31464,2012,NA,NA,14.3,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22583333,83.34805556,"Teram Pz Ii","Tube Well",W31465,2012,NA,NA,11.5,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.2625,83.27861111,"Porda Pz","Tube Well",W31470,2012,NA,NA,6.45,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2012,NA,7.82,5.69,9.1
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2012,NA,2.6,1.96,5.44
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2012,NA,6.24,3.72,11.84
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2012,NA,3.7,3.78,8.1
+CG,Raigarh,Raigarh,Raigarh,21.965,83.38472222,Lakha-2,"Dug Well",W21619,2012,NA,4.89,NA,NA
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2012,NA,4.22,4.12,5.45
+CG,Raigarh,Raigarh,Raigarh,21.96583333,83.38833333,Lakha-1,"Dug Well",W21947,2012,NA,NA,NA,7.05
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2012,NA,3.78,2.78,4.49
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2012,NA,NA,2.11,5.6
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2012,NA,7.02,5.48,5.8
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga2,"Bore Well",W27770,2012,NA,NA,3.98,NA
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2012,NA,3.46,2.66,5
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2012,NA,'0.82,1.13,2.55
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2012,NA,1.85,2.23,3
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2012,NA,'0.97,'0.8,2.2
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2012,NA,2.06,'0.59,3.4
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2012,NA,NA,'0.58,2.9
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2012,NA,5.45,4.02,7.59
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2012,NA,6.64,1.44,9.7
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2012,NA,3.11,NA,NA
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2012,NA,2.52,1.19,6.8
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2012,NA,2.22,2.06,5.07
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2012,NA,12.7,2.44,9.05
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2012,NA,5.08,3.46,8.25
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2012,NA,2.94,'0.81,5
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2012,NA,'0.37,'0.55,3.4
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2012,NA,5.01,3.09,8.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2012,NA,4.78,3.8,7.85
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2012,NA,10.85,9.56,12.74
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2012,NA,8.08,3.94,9.15
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2012,NA,4.06,2.64,9.34
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2012,NA,7.03,6.9,9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2012,NA,5.13,5.47,8.36
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2012,NA,3.15,2.8,4.73
+CG,Raigarh,Sarangarh,Sarangarh,21.56555556,82.97166667,"Kedar S","Bore Well",W27230,2012,NA,NA,3.1,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2011,8,6,6.43,9.1
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2011,2.16,7.4,5.15,9.5
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2011,1.07,4.72,NA,7.32
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2011,2.13,6.1,3.32,8.5
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2011,3.77,4.5,4.06,5.35
+CG,Raigarh,Raigarh,Raigarh,21.96583333,83.38833333,Lakha-1,"Dug Well",W21947,2011,2.61,5.65,5.16,6.65
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2011,1.34,3.75,3.18,4.8
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2011,1.4,3,2.61,5.7
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2011,4.62,8.35,NA,10.5
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2011,1.23,4.45,2.45,5
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2011,'0.28,1.35,1.19,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2011,1.4,3,2.68,4.8
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2011,'0.22,'0.93,'0.87,1.3
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2011,NA,3.9,NA,2.5
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2011,-0.18,2.12,NA,1.65
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2011,2.04,6.89,4.86,7.59
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2011,1.25,7.55,5.19,9.7
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2011,1.1,3.2,2.89,6.8
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2011,1.25,2.27,2.03,4.47
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2011,4.5,12.65,6.3,8.95
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2011,5.37,6.35,4.2,8.45
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2011,3.24,4.55,3.88,4.4
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2011,'0.18,1.8,1.74,3.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2011,2.12,6.48,6.66,8.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2011,2.08,4.95,4.09,7.55
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2011,8.24,11.14,10.13,12.64
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2011,6.98,9.25,7.56,13.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2011,2.21,5.24,3.45,9.24
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2011,7.29,8.25,5.52,9.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2011,4.75,6.28,5.39,10.64
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2011,1.43,3.79,2.83,4.73
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2011,'0.67,3.14,3.19,8.94
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2010,'0.92,3.49,1.88,8.96
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2010,8.08,7.65,5.85,10.1
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2010,4.04,5.95,4.77,9.12
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2010,3.9,4.45,4,5.35
+CG,Raigarh,Raigarh,Raigarh,21.96583333,83.38833333,Lakha-1,"Dug Well",W21947,2010,5.93,NA,4.35,7.35
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,"Dug Well",W21948,2010,1.89,NA,2.93,7.29
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,"Dug Well",W21962,2010,1.52,NA,2.1,7.4
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,"Dug Well",W21966,2010,7.94,NA,6.55,9.75
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2010,1.66,3.9,3.15,9.95
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2010,'0.74,1.15,'0.88,6.9
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2010,1.66,2.85,2.42,3.85
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2010,'0.35,1.35,'0.78,8.3
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2010,'0.25,2.4,1.53,3.05
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2010,1.18,2.1,1.78,2.42
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2010,5.67,5.7,4.9,9.1
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2010,3.8,5.89,5.54,8.79
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2010,3.08,5.75,4.4,9.7
+CG,Raigarh,Pusaur,Pusaur,21.75138889,83.29166667,Pusaur,"Dug Well",W11895,2010,NA,9,NA,NA
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2010,'0.8,NA,2.3,5
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2010,1.75,1.77,2.02,2.82
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2010,2.22,12.8,10.73,7.25
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2010,5.33,4.15,4.65,7.05
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2010,3.39,3.35,2.54,5.45
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2010,'0.77,1.85,1.44,3.32
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2010,7.05,6.2,4.94,8.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2010,2.78,4.9,4.02,7.27
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2010,10.02,10.84,10.2,12.56
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2010,8.97,9.15,8.52,13.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2010,3.6,5.37,3.68,11.44
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2010,9.74,8.95,8.07,10.4
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2010,5.01,6.76,5.52,8.01
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2010,NA,NA,NA,8.03
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2010,2.83,3.33,3.11,4.22
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2010,1.99,NA,3.49,11.84
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2009,1.04,3.19,2.34,8.96
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2009,2.95,6.6,6.96,9.47
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2009,NA,1.14,NA,NA
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2009,1.55,5,4.92,7.82
+CG,Raigarh,Raigarh,Raigarh,21.965,83.38472222,Lakha-2,"Dug Well",W21619,2009,1.1,NA,NA,NA
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2009,1.65,3.81,4.1,4.7
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2009,1,1.6,1.1,5.6
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2009,1.85,4.27,2.52,4.2
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2009,'0.78,1.42,1.4,9.02
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2009,1.85,2,2.55,3.06
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2009,1.4,2.26,2.18,2.72
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2009,6.05,5.35,4.9,8.35
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2009,1.65,7.33,4.95,9.7
+CG,Raigarh,Pusaur,Pusaur,21.75138889,83.29166667,Pusaur,"Dug Well",W11895,2009,2.05,NA,NA,NA
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2009,1.5,2.7,2.35,5.55
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2009,2.07,2.42,2.22,3.12
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2009,1.4,4.4,3.62,9.42
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2009,'0.8,12.95,12.1,13.6
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2009,2.71,4.3,3.25,6.4
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2009,3.1,NA,2.54,5.52
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2009,1.2,2,1.76,6.7
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2009,1.84,7.01,5.77,8.83
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2009,3.9,4.7,5.3,7.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2009,1.75,4.72,4.03,6.95
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2009,9.64,10.94,10.19,12.52
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2009,8.8,8.2,NA,9.95
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2009,3.04,4.66,3.84,12.19
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2009,1.35,7.85,8.62,10.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2009,1.46,6.51,5.96,8.03
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2009,NA,5.83,5.96,7.59
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2009,NA,3.23,2.43,4.27
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2009,1.02,6.87,4.72,11.84
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2008,'0.4,3.14,2.09,7.44
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2008,4.32,7.45,4.89,9.55
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2008,3.99,6.11,2.34,8.76
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,"Dug Well",W21618,2008,'0.55,NA,3.3,8.1
+CG,Raigarh,Raigarh,Raigarh,21.965,83.38472222,Lakha-2,"Dug Well",W21619,2008,NA,NA,NA,4.9
+CG,Raigarh,Tamnar,Gharghoda,22.08416667,83.34583333,Samaruma,"Dug Well",W21654,2008,2.9,NA,3.4,5.3
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2008,'0.4,1.57,1.15,2.46
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2008,'0.9,5.32,3.29,7.7
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2008,'0.35,5.55,1.71,11.7
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2008,'0.45,1.85,1.35,2.6
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2008,'0.45,2.12,2.05,2.55
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2008,3.6,5.65,4.48,7.75
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2008,1.8,7,6.4,10.35
+CG,Raigarh,Pusaur,Pusaur,21.75138889,83.29166667,Pusaur,"Dug Well",W11895,2008,NA,4.25,NA,10
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2008,'0.5,2.93,2.3,3.95
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2008,1.47,2.85,2.23,3.52
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2008,'0.35,4.9,3.2,10.02
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2008,3,5.65,9,12.85
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2008,1.58,3.92,2.95,5.8
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2008,NA,3.22,NA,5.2
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2008,'0.65,1.91,1.7,3.1
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2008,2.64,6.94,5.34,9.49
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2008,1.3,6.3,3,7.92
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2008,1.35,4.63,3.78,6.25
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2008,7.49,11.06,5.79,12.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2008,6.2,8.87,7.4,9.95
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2008,2.04,4.49,3.14,8.14
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2008,7.35,6.17,7.15,10
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2008,2.66,6.51,5.16,7.91
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2008,NA,5.67,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2008,2.16,2.71,2.68,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2008,'0.69,6.38,4.29,6.62
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2007,'0.53,3.47,1.7,7.92
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2007,6.11,8.11,5.5,10.11
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2007,6,8.39,5.64,9.78
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2007,'0.47,1.42,'0.85,1.66
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2007,1.38,6.3,2.55,8.83
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2007,'0.26,4.82,1.55,13.62
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2007,NA,1.93,'0.87,3.01
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2007,'0.45,3.33,1.77,2.61
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2007,4.29,6.05,4.31,8.1
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2007,1.93,7.53,3.73,8.56
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2007,NA,3.72,NA,NA
+CG,Raigarh,Pusaur,Pusaur,21.75138889,83.29166667,Pusaur,"Dug Well",W11895,2007,1.95,4.77,2.72,6.54
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2007,NA,3.05,2,4.49
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2007,1.76,3.98,1.99,3.72
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2007,'0.39,4.93,2.81,5.4
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2007,3.43,4.36,6.41,6.86
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2007,2.37,4.97,2.85,6.79
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2007,2.15,4.1,1.17,6.4
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2007,'0.7,1.8,1.2,2.57
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2007,3.01,8.39,4.22,9.03
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2007,3.59,6.66,4.04,8.32
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2007,1.77,4.88,3.52,7.95
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2007,9.81,11.64,9.6,12.56
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2007,8.17,9.27,7.55,13.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2007,2.76,6.83,2.99,13.56
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2007,8.82,8.44,7.32,7.98
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2007,3.54,7.19,5.52,8.77
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2007,4.68,6.46,4.59,7.66
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2007,1.65,3.65,1.86,4.48
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2007,1.3,6.19,3.19,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2006,'0.42,3.51,2.15,8.22
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2006,7.69,7.45,7.01,9.91
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2006,6.88,6.7,7.34,8.95
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2006,'0.22,1.1,1.01,1.55
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2006,2.45,5.39,3.84,9.2
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2006,'0.37,1.65,1.99,13.58
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2006,'0.11,NA,'0.9,3.07
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2006,'0.22,2.58,2.28,2.08
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2006,3.93,5.31,4.83,7.97
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2006,2.6,6.05,5.46,8.9
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2006,NA,3.53,2.4,5.79
+CG,Raigarh,Pusaur,Pusaur,21.75138889,83.29166667,Pusaur,"Dug Well",W11895,2006,2.82,5.16,3.77,6.89
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2006,NA,2.66,2.24,4.42
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2006,'0.47,1.83,2.59,2.27
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2006,'0.32,4.46,3.74,5.17
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2006,2.03,NA,4.5,6.74
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2006,3.4,4.02,4.03,6.5
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2006,3.58,3.16,2.6,5.96
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2006,'0.15,2.03,1.61,2.81
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2006,3.74,6.72,6.53,9.29
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2006,3.1,4.78,5.34,7.48
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2006,2.27,4.77,3.99,7.83
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2006,10.64,10.97,10.87,11.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2006,8.5,8.73,8.42,9.13
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2006,3.71,5.35,5.82,13.26
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2006,NA,5.4,5.01,7.68
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2006,5.27,6.69,6.34,8.45
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2006,5.66,6.16,5.09,7.63
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2006,1.9,3.05,3.04,4.23
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2006,'0.38,6.59,3.1,8.01
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2005,'0.84,3.04,2.09,6.68
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2005,6.89,5.7,6.33,9.4
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2005,5.79,6.24,5.52,8.32
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2005,1.6,1.7,1.29,5.59
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2005,1.57,7.1,2.6,8.48
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2005,'0.3,9.25,1.33,9.95
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2005,'0.5,3.1,1.01,3.06
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2005,'0.75,2.7,1.93,2.75
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2005,5.05,5.95,4.05,7.61
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2005,2.32,7.05,4.19,9.31
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2005,1.2,4.09,1.72,6.78
+CG,Raigarh,Pusaur,Pusaur,21.75138889,83.29166667,Pusaur,"Dug Well",W11895,2005,1.4,6.6,3.01,6.95
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2005,'0.95,3.5,1.99,5.02
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2005,1.95,NA,1.73,3.59
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2005,'0.9,5.1,3.27,9.93
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2005,2.8,7.21,3.37,8.26
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2005,2.62,5.3,2.8,7.47
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2005,1.75,2.8,1.66,5.15
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2005,'0.7,8.2,1.33,4.94
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2005,3.07,5.39,5.58,8.78
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2005,2.05,6.05,2.53,7.58
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2005,2.91,4.4,3.84,7.04
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2005,9.58,11.34,'0.71,12.28
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2005,7.4,8.8,7.94,10.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2005,4.12,5.84,4.09,13.02
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2005,8.65,9.78,7.29,9.73
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2005,4.31,6.86,5.84,8.25
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2005,5.03,6.33,4.97,7.65
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2005,1.93,3.13,2.36,4.1
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2005,3.49,5.12,3.83,9.13
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2004,1.09,2.08,1.84,9.14
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2004,2.85,5.5,3.95,9.65
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2004,2.74,6.94,5.19,9.14
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2004,'0.95,'0.8,2,2.29
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2004,1.38,5.46,4.1,11.9
+CG,Raigarh,"Sarai Lengha [baram","Sarai Lengha [baram",21.525,83.2625,Baramkela,"Dug Well",W11901,2004,NA,NA,NA,12.7
+CG,Raigarh,"Sarai Lengha [baram",Pusaur,21.71944444,83.30416667,Bonda,"Dug Well",W11902,2004,NA,NA,NA,3.1
+CG,Raigarh,Sarangarh,"Sarai Lengha [baram",21.56388889,83.29583333,Saria1,"Dug Well",W11903,2004,NA,NA,NA,2.3
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2004,4.55,4.46,4.7,7.95
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2004,1.7,5.76,5.6,8.55
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2004,1.1,2.7,2.1,7.67
+CG,Raigarh,Pusaur,Pusaur,21.75138889,83.29166667,Pusaur,"Dug Well",W11895,2004,NA,NA,NA,5.8
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,"Dug Well",W11896,2004,NA,NA,NA,4.5
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2004,1.27,3.06,1.47,2.69
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2004,'0.6,3.6,1.45,8.3
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2004,2.75,4.64,9.15,12.65
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2004,1.65,3.61,4.05,7.65
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2004,'0.45,1.56,'0.6,4.9
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2004,'0.25,1.8,2.05,4.8
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2004,2.39,5.61,6.03,8.47
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2004,2.5,4.18,4.7,7.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2004,1.8,4.35,2.9,7.15
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2004,7.94,10.1,10.52,12.79
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2004,6.6,1.48,7.91,9.45
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2004,2.84,3.43,4.44,7.84
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2004,7.9,7.12,8.4,11.1
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2004,1.31,5.91,2.41,8.86
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2004,3.48,5.66,5.43,7.83
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2004,1.33,2.62,2.67,4.28
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2004,1.57,4.34,3.62,11.84
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2003,'0.75,3.75,'0.92,8.64
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2003,5.35,4.68,2,10.05
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2003,9.07,7.17,5.72,10.37
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,"Dug Well",W11899,2003,'0.54,NA,'0.85,4.8
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2003,1.84,7.83,2.44,11.24
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2003,3.68,5.25,3.64,7.47
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2003,4,6.88,3.08,8.75
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2003,NA,5.92,1.28,6.97
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2003,1.75,1.66,2.02,NA
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2003,'0.52,4.72,'0.48,9.55
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2003,4.23,10.77,2.51,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2003,5.05,6.04,2.06,7.49
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2003,1.92,3.59,'0.03,5.74
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2003,'0.39,4.21,'0.7,8.48
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2003,5.14,8.49,3.26,9.09
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2003,5.34,6.52,2.03,7.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2003,2.82,5.43,2.14,7.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2003,11.53,10.56,7.67,12.24
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2003,1.77,9.62,1.45,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2003,4.54,4.46,2.12,12.16
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2003,9.07,8.4,5.91,10.65
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2003,5.47,6.48,3.86,8.34
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2003,5.89,6.53,3.46,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2003,3.65,3.16,1.41,4.33
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2003,3.88,5.14,4.08,6.83
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2002,NA,4.54,1.55,8.44
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2002,3.78,4.72,3.1,7.79
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2002,7.34,6.69,6.04,8.86
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2002,6.2,7.75,3.8,12
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2002,5.6,5.2,4.45,7.65
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2002,2.62,6.2,4.95,7.2
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2002,1.2,3.25,1.97,7.14
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2002,6.17,1.52,1.59,1.82
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2002,1.1,4.47,3.43,10.5
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2002,10.35,8.42,8.46,9.24
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2002,1.01,4.73,2.45,7.68
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2002,3.5,3.1,2.1,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2002,'0.5,NA,1.9,6.9
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,"Dug Well",W11891,2002,NA,NA,NA,9.25
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2002,4.39,6.79,5.49,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2002,4.94,4.6,4.87,6.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2002,3.35,5.2,4.15,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2002,9.91,10.69,9.48,12.89
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2002,9.6,NA,8.77,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2002,3.8,5.64,3.34,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2002,8.8,5.12,7.37,10.25
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2002,NA,6.86,5.56,9.26
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2002,NA,NA,2.65,4.04
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2002,3.25,6.58,3.58,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2001,'0.51,4.24,2.04,8.72
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2001,1.68,NA,4.21,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2001,1.13,3.53,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2001,NA,7.23,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2001,4.1,6.89,5.66,9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2001,NA,5.21,3.62,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2001,2.01,4.18,4.29,12.54
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2001,6.49,9.45,7.55,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2001,7.98,11.51,8.99,12.58
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2001,1.39,4.87,3.55,7.55
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2001,2.71,5.5,5.3,10.22
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,"Dug Well",W11891,2001,2.22,5.01,NA,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2001,1.3,3.79,2.4,NA
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2001,'0.02,4.25,1.02,5.45
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2001,3.79,6.25,3.39,8.67
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2001,4.26,8,9,6.08
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2001,'0.68,2.19,3.39,7.83
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2001,1.47,3.8,1.72,9.27
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2001,'0.31,3.89,2.3,7.05
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2001,2.37,7.41,4.13,9.32
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2001,3.12,5.71,4.25,7.28
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2001,2,10.14,4.81,13.14
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2001,5.22,7.73,5.28,9.34
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2001,1.52,4.6,2.85,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2001,1.57,6.09,2.82,7.5
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,2000,11.93,13.15,4.51,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,2000,'0.99,2.94,2.54,6.47
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,2000,NA,NA,6.25,9.22
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,2000,3.89,4.28,3.74,5.33
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,2000,4.91,3.64,3.53,12.81
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,2000,5.42,4.85,4.91,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,2000,NA,NA,6.38,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,2000,3.47,8.17,8.6,9.79
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,2000,1.54,4.33,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,2000,3.05,4.36,8.56,6.65
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,2000,1.55,4.07,2.29,5.59
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,2000,4.22,10.54,10.57,12.1
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,2000,3.01,3.7,NA,7.16
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,2000,6.04,5.61,6.76,7.89
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,2000,3.84,6.25,5.63,8.64
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,2000,3.58,NA,4.02,8.09
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,2000,2.77,NA,4.52,6.95
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,2000,1.01,NA,2.73,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,2000,6.6,7.63,7,12.61
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,"Dug Well",W11892,2000,NA,NA,NA,7.12
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,2000,6.39,5.84,6.74,9.17
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,2000,3.99,6.25,2.08,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,2000,2.19,4.92,NA,7.48
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,"Dug Well",W11891,2000,5.01,NA,NA,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,2000,2.64,NA,2.95,NA
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,1999,1.51,1.6,1.93,3.91
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,1999,1.79,1.12,NA,4.98
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,1999,3.46,2.9,3.79,6.47
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,1999,'0.75,1.07,1.77,5.61
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,1999,2.36,2.3,3.11,6.1
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,1999,2.88,6.51,4.3,8.55
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,1999,6.47,7.39,6.22,8.68
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,1999,2.12,NA,2.97,8.02
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,1999,NA,NA,NA,5.22
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,1999,1.19,3.78,2.68,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,1999,NA,1.38,NA,7.36
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,1999,7.94,7.77,8.85,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,1999,6.22,7.04,7.17,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,1999,2.54,2.99,3.76,11.97
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,1999,3.32,9.31,9.07,8.14
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,1999,2.78,2.88,3.84,7.64
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,1999,'0.63,1.94,1.89,NA
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,1999,1.51,1.67,2.85,NA
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,"Dug Well",W11891,1999,3.22,4.61,4.29,9.81
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,1999,2.61,2.94,4.71,7.7
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,1999,1.93,1.2,3.81,16
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,1998,1.23,1.57,1.03,1.97
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,"Dug Well",W11898,1998,NA,NA,NA,10.66
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,1998,1.3,5.46,'0.7,9.48
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,1998,2.45,4.67,2.25,6.73
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,1998,'0.64,2.13,'0.44,5.04
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,1998,2.32,3.96,1.92,6.07
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,1998,5.94,6.59,5.62,8.04
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,1998,7.3,7.7,7,6.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,1998,4.16,5.53,4.16,7.54
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Chaal-D,"Bore Well",W11873,1998,NA,NA,24.3,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,"Bore Well",W11875,1998,NA,NA,3.05,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,1998,2,5.86,2,5.16
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,1998,3.35,5.92,3.1,6.32
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,1998,'0.85,4.48,'0.55,5.53
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,1998,8.44,11,7.44,11.64
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,1998,6.95,8.78,6.75,9.52
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,1998,2.94,4.25,2.49,4.59
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,1998,8.85,12.51,8.7,9.02
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,1998,2.85,4.47,2.35,6.47
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,1998,1.64,4.16,1.34,6.2
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,1998,1.5,6.59,1.3,2.3
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,"Dug Well",W11891,1998,4.2,8.84,4,14.3
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,1998,2.25,7,2.24,5.5
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,1998,'0.9,3.09,'0.52,4.06
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,1997,2.46,6.89,3.88,8.75
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,1997,1.66,3.71,1.6,2.28
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,1997,7.4,6.28,6.14,8.15
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,1997,3.43,7.29,5.69,9.38
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,1997,5.1,5.47,4.8,7.17
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,"Dug Well",W11891,1997,6.26,9.22,4.72,10.39
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,1997,3.29,7.11,4.56,12.34
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,1997,2.38,NA,6.92,16.05
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,1997,2.93,7.44,4.8,9.03
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,1997,4.56,3.89,2.94,6.9
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,1997,2.43,4.91,3.3,8.63
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,1997,4.68,5.26,3.63,7.84
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,1997,5.81,6.97,5.98,8.19
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,1997,12.41,12.71,NA,9.57
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,1997,4.2,4.89,4.41,7.15
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,1997,4.36,4.27,3.69,6.19
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,1997,8.04,8.45,7.19,8.68
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,1997,9.23,8.81,8.15,10.09
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,1997,1.24,3.85,NA,8.27
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,1997,9.42,11.31,9.91,12.45
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,1997,2.2,4.89,2.21,5.59
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,"Dug Well",W11897,1996,1.52,2.88,1.95,6.65
+CG,Raigarh,Lailunga,Lailunga,22.44166667,83.49166667,Rajpur-2,"Dug Well",W11894,1996,'0.75,3.78,2.43,5.57
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,"Dug Well",W11893,1996,1.16,7.13,5.26,9.46
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,"Dug Well",W11891,1996,5.47,9.73,5.4,11.69
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,"Dug Well",W11889,1996,1.19,7.28,6.69,14.95
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,"Dug Well",W11888,1996,'0.95,3.6,2.11,6.2
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,"Dug Well",W11885,1996,3.17,5.09,3.69,7.97
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,"Dug Well",W11884,1996,6.19,12.68,10.15,9.02
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,"Dug Well",W11883,1996,2.56,4.84,3.29,10.46
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,"Dug Well",W11882,1996,6.31,8.86,7.79,10.16
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,"Dug Well",W11880,1996,'0.73,4.69,3.87,7
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,"Dug Well",W11879,1996,1.55,6.17,3.95,7.77
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,"Dug Well",W11878,1996,1.15,7.37,5.89,9.51
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,"Dug Well",W11872,1996,3.48,6.79,5.98,8.61
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,"Dug Well",W11871,1996,6.62,8.73,7.27,8.68
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-2,"Dug Well",W11908,1996,4.47,5.99,4.9,7.82
+CG,Raigarh,Sarangarh,Sarangarh,21.5875,83.07916667,Sarangarh,"Dug Well",W11906,1996,1.35,4.21,2.54,5.86
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,"Dug Well",W11905,1996,'0.85,3.45,2.63,8.26
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,"Dug Well",W11904,1996,3.32,4.76,4.5,7.01
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,"Dug Well",W11900,1996,1.41,6.59,4.18,16.36
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,"Dug Well",W11881,1996,7.59,11.14,10.12,12.35

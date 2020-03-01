@@ -1,0 +1,479 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2018,1.27,3.13,NA,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri-1,"Dug Well",W31265,2018,NA,NA,3.17,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2018,NA,6.17,3.7,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2018,NA,7.12,2.91,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2018,NA,4.72,4.52,NA
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2018,NA,3.87,4.5,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.63583333,81.63472222,Seadei,"Dug Well",W26621,2018,NA,4.72,3.19,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,"Dhamtari1 PZ","Bore Well",W26661,2018,NA,28.13,15.35,NA
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,"Banraud - I","Dug Well",W26603,2018,NA,2.43,3.69,NA
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud D","Bore Well",W26604,2018,NA,7.82,6.18,NA
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud S","Bore Well",W26605,2018,NA,7.37,5.2,NA
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.61333333,81.64916667,"Baspara Kukrel","Dug Well",W26610,2018,NA,4.74,3.87,NA
+CG,Dhamtari,Magarlod,Magarlod,20.6775,81.90416667,Mulgaon,"Dug Well",W26642,2018,NA,4.73,3.19,NA
+CG,Dhamtari,Magarlod,Magarlod,20.72277778,81.90277778,Budarao,"Dug Well",W26671,2018,NA,3.89,2.87,NA
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod D","Bore Well",W26687,2018,NA,8.19,4.45,NA
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod S","Bore Well",W26688,2018,NA,36.66,4.16,NA
+CG,Dhamtari,Kurud,Kurud,20.88194444,81.70194444,Bhatagoan,"Dug Well",W26768,2018,NA,1.62,4.16,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.62666667,81.57472222,"Gangrel S","Bore Well",W26618,2018,9.1,15.18,NA,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2018,NA,NA,4.19,8.1
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2018,NA,1.39,NA,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2018,NA,5.41,4.27,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2018,NA,7.24,2.57,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2018,NA,4.59,5.9,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2018,NA,4.19,4.15,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2018,NA,2.38,3.72,NA
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2018,NA,4.29,6.27,NA
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2018,NA,6.12,5.18,NA
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2018,NA,4.17,3.18,NA
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2018,NA,3.52,2.47,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49555556,81.98583333,Jabarra,"Dug Well",W21985,2018,NA,NA,3.65,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.44361111,81.80277778,Gattasilli,"Dug Well",W21984,2018,NA,NA,3.12,5.16
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,2018,1.87,NA,NA,NA
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Mega,"Dug Well",W26704,2018,NA,4.92,NA,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.63333333,81.56666667,Gangrel,"Dug Well",W32793,2018,NA,3.94,4.08,NA
+CG,Dhamtari,Dhamtari,Magarlod,20.56666667,81.7,Khadadaha,"Dug Well",W32783,2018,NA,5.48,5.12,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2018,NA,5.23,3.22,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2017,1.63,3.13,2.07,6.96
+CG,Dhamtari,Dhamtari,Magarlod,20.56666667,81.7,Khadadaha,"Dug Well",W32783,2017,2.51,4.59,3.73,3.71
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2017,1.38,6.01,2.2,9.56
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2017,3.26,3.84,4.52,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2017,5,4.62,7.12,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2017,2.2,NA,3.42,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2017,3.33,6.13,4.18,5.2
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2017,1.41,3.84,2.53,8.34
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2017,1.52,2.45,2.61,7.71
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2017,1.72,6.77,2.78,10.68
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2017,2.06,2.7,2.77,3.66
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2017,1.12,2.01,2.59,9.91
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2017,'0.81,2.04,1.12,2.15
+CG,Dhamtari,Dhamtari,Dhamtari,20.63583333,81.63472222,Seadei,"Dug Well",W26621,2017,2.12,3.97,3.52,NA
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud S","Bore Well",W26605,2017,3.52,6.73,5.71,NA
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Mega,"Dug Well",W26704,2017,2.29,8.93,3.1,NA
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod S","Bore Well",W26688,2017,NA,12,36.66,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,"Dhamtari1 PZ","Bore Well",W26661,2017,20,18.44,25.28,20.67
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,"Banraud - I","Dug Well",W26603,2017,1,3.74,1.59,6.66
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud D","Bore Well",W26604,2017,3.37,7.18,5.88,6.85
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.61333333,81.64916667,"Baspara Kukrel","Dug Well",W26610,2017,1.42,2.37,3.07,4.9
+CG,Dhamtari,Magarlod,Magarlod,20.6775,81.90416667,Mulgaon,"Dug Well",W26642,2017,2.31,5.92,3.12,6.62
+CG,Dhamtari,Magarlod,Magarlod,20.72277778,81.90277778,Budarao,"Dug Well",W26671,2017,1.44,3.14,2.66,4.53
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod D","Bore Well",W26687,2017,6.27,9.06,6.23,12.5
+CG,Dhamtari,Kurud,Kurud,20.88194444,81.70194444,Bhatagoan,"Dug Well",W26768,2017,1,1.26,1.82,2.15
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2017,NA,1.8,1.52,2.42
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2017,4.15,3.73,5.07,NA
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2017,2.12,5.42,4.11,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49555556,81.98583333,Jabarra,"Dug Well",W21985,2017,NA,NA,NA,6
+CG,Dhamtari,Dhamtari,Dhamtari,20.62666667,81.57472222,"Gangrel S","Bore Well",W26618,2017,9.36,NA,12.26,13.55
+CG,Dhamtari,Dhamtari,Dhamtari,20.63333333,81.56666667,Gangrel,"Dug Well",W32793,2017,1.87,2.23,2.89,3.86
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2017,2.08,5.62,3.17,6.73
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2016,1.03,NA,1.89,2.64
+CG,Dhamtari,"SIHAWA (NAGRI)","Sihawa (nagri)",20.2625,82.00694444,"Sankra New","Dug Well",W33158,2016,2.21,NA,NA,NA
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2016,1.18,NA,1.45,10.2
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2016,1.86,NA,3.59,7
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2016,5.7,NA,5.5,10.68
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2016,NA,NA,NA,12
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2016,5.04,NA,2.84,9.15
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2016,2.34,NA,2.94,11
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2016,6.45,NA,1.32,9.28
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2016,1.58,NA,1.74,7.8
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2016,3.75,NA,3.96,5.08
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2016,1,NA,4.55,6.9
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2016,2,NA,1.82,7
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2016,4.76,NA,3.74,8.75
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2016,3.3,NA,3.16,7.12
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2016,1.86,NA,2.22,4.86
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2016,4.37,NA,1.74,2.1
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.44361111,81.80277778,Gattasilli,"Dug Well",W21984,2016,5.07,NA,NA,6.45
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49555556,81.98583333,Jabarra,"Dug Well",W21985,2016,1.86,NA,NA,5.9
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,"Banraud - I","Dug Well",W26603,2016,1.58,5.7,2.1,6.7
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud D","Bore Well",W26604,2016,2.62,NA,5.42,12.08
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud S","Bore Well",W26605,2016,2.25,NA,5.19,11.85
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.61333333,81.64916667,"Baspara Kukrel","Dug Well",W26610,2016,'0.82,3.9,1.18,5.02
+CG,Dhamtari,Dhamtari,Dhamtari,20.62666667,81.57472222,"Gangrel S","Bore Well",W26618,2016,8.9,11.9,NA,14.2
+CG,Dhamtari,Dhamtari,Dhamtari,20.63583333,81.63472222,Seadei,"Dug Well",W26621,2016,3.26,NA,3.14,6.78
+CG,Dhamtari,Magarlod,Magarlod,20.6775,81.90416667,Mulgaon,"Dug Well",W26642,2016,2.87,NA,4.63,7.19
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,"Dhamtari1 PZ","Bore Well",W26661,2016,20.18,NA,14.74,20.47
+CG,Dhamtari,Magarlod,Magarlod,20.72277778,81.90277778,Budarao,"Dug Well",W26671,2016,NA,4.1,2.56,4.43
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod D","Bore Well",W26687,2016,NA,16.87,5.76,24.1
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod S","Bore Well",W26688,2016,2.9,NA,NA,22.05
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Mega,"Dug Well",W26704,2016,NA,NA,7.44,11
+CG,Dhamtari,Kurud,Kurud,20.88194444,81.70194444,Bhatagoan,"Dug Well",W26768,2016,1.23,1.3,'0.94,1.89
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.53055556,81.64277778,"Murrumsilli S","Bore Well",W31276,2016,9.25,NA,NA,NA
+CG,Dhamtari,Dhamtari,Magarlod,20.56666667,81.7,Khadadaha,"Dug Well",W32783,2016,1.93,NA,3.21,3.28
+CG,Dhamtari,Dhamtari,Dhamtari,20.63333333,81.56666667,Gangrel,"Dug Well",W32793,2016,2.4,NA,3.49,2.02
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2016,1.69,NA,2.65,8.9
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2015,'0.9,1.66,1.41,'0.99
+CG,Dhamtari,Dhamtari,Kurud,21.00416667,81.725,"Chataud S","Bore Well",W31315,2015,NA,NA,4.9,NA
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2015,'0.89,1.58,2.03,1.4
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2015,NA,6.84,5.21,6.03
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2015,6.2,9.7,4.54,9.78
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2015,NA,5.15,2.14,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2015,NA,5.56,2.94,4.49
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2015,6.37,5.07,6.45,7.17
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2015,3.41,4.78,4.07,4.31
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2015,'0.53,6.4,1.89,6.66
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2015,1.8,5.53,3.53,4.3
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2015,4.77,NA,3.42,4.49
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2015,NA,5.44,4.35,4.48
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2015,1.4,2.92,1.82,1.5
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2015,NA,'0.73,NA,NA
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,"Banraud - I","Dug Well",W26603,2015,1.63,5.61,3.98,4.05
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud D","Bore Well",W26604,2015,NA,8.12,3.55,NA
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud S","Bore Well",W26605,2015,NA,8.76,3.82,NA
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.61333333,81.64916667,"Baspara Kukrel","Dug Well",W26610,2015,'0.92,NA,1.9,3.24
+CG,Dhamtari,Dhamtari,Dhamtari,20.62666667,81.57472222,"Gangrel S","Bore Well",W26618,2015,NA,12.16,7.25,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.63583333,81.63472222,Seadei,"Dug Well",W26621,2015,2.67,6.19,1.7,5.93
+CG,Dhamtari,Magarlod,Magarlod,20.6775,81.90416667,Mulgaon,"Dug Well",W26642,2015,3.9,5.7,4.7,4.65
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,"Dhamtari1 PZ","Bore Well",W26661,2015,NA,27.1,14.19,29.25
+CG,Dhamtari,Magarlod,Magarlod,20.72277778,81.90277778,Budarao,"Dug Well",W26671,2015,2.1,3.76,3.4,3.55
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod D","Bore Well",W26687,2015,NA,12.99,10.88,22.5
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod S","Bore Well",W26688,2015,3.4,12.52,8.1,20.7
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Mega,"Dug Well",W26704,2015,7.6,7.79,4.69,8.3
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,"Dugli - I","Dug Well",W26552,2015,2.12,3.1,2.3,7.1
+CG,Dhamtari,Kurud,Kurud,20.88194444,81.70194444,Bhatagoan,"Dug Well",W26768,2015,'0.5,4.79,1.45,'0.8
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.53055556,81.64277778,"Murrumsilli S","Bore Well",W31276,2015,NA,NA,16.12,NA
+CG,Dhamtari,Kurud,Kurud,20.8275,81.68555556,"Kurud S","Bore Well",W31302,2015,NA,NA,3.6,NA
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2015,'0.5,5.8,3.54,4.68
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2014,'0.37,2.54,1.07,1.32
+CG,Dhamtari,Dhamtari,Kurud,21.00416667,81.725,"Chataud S","Bore Well",W31315,2014,NA,6.4,4.8,NA
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2014,'0.05,1.32,'0.69,5.49
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2014,1.65,5.47,4,4.69
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2014,2.8,8.09,5.4,9.78
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2014,6.86,7.66,NA,11.16
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2014,1.13,NA,2.01,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2014,1.24,4.87,2.86,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2014,'0.87,3.8,1.52,6.98
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2014,'0.55,2.6,NA,7.3
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2014,2.15,5.01,3.59,4.55
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2014,'0.49,5.78,'0.93,5.36
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2014,1.15,4.48,NA,6.43
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2014,'0.72,5.54,NA,5.52
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2014,2.55,4.82,3.92,NA
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2014,1,2.01,1.5,2.56
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2014,'0.5,1.64,1.97,1.89
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.44361111,81.80277778,Gattasilli,"Dug Well",W21984,2014,'0.9,NA,2.03,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49555556,81.98583333,Jabarra,"Dug Well",W21985,2014,1.9,NA,1.05,NA
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,"Banraud - I","Dug Well",W26603,2014,'0.73,4.19,2.73,6.7
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud D","Bore Well",W26604,2014,'0.95,7.5,3.8,6.23
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud S","Bore Well",W26605,2014,'0.8,7.39,3.53,6.39
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.61333333,81.64916667,"Baspara Kukrel","Dug Well",W26610,2014,NA,NA,1.35,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.62666667,81.57472222,"Gangrel S","Bore Well",W26618,2014,4.96,9.8,7.27,12.5
+CG,Dhamtari,Dhamtari,Dhamtari,20.63583333,81.63472222,Seadei,"Dug Well",W26621,2014,1.4,5.29,1.65,7.25
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,"Dhamtari1 PZ","Bore Well",W26661,2014,12.93,24.69,8.12,16.23
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod D","Bore Well",W26687,2014,1.06,12.4,7.48,60.4
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod S","Bore Well",W26688,2014,1.5,10.38,8.1,36.06
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Mega,"Dug Well",W26704,2014,3.03,7.18,6.6,8.25
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,"Dugli - I","Dug Well",W26552,2014,NA,2.52,1.22,NA
+CG,Dhamtari,Kurud,Kurud,20.88194444,81.70194444,Bhatagoan,"Dug Well",W26768,2014,NA,NA,'0.5,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri-1,"Dug Well",W31265,2014,NA,4.57,2.45,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.53055556,81.64277778,"Murrumsilli S","Bore Well",W31276,2014,8.8,8.6,15.25,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.65833333,81.59166667,Bhoyana,"Dug Well",W31283,2014,NA,3.66,NA,NA
+CG,Dhamtari,Kurud,Dhamtari,20.77916667,81.66666667,"Chhati D","Bore Well",W31296,2014,'0.4,3.42,2.8,NA
+CG,Dhamtari,Kurud,Dhamtari,20.77916667,81.66666667,"Chhati S","Bore Well",W31297,2014,'0.44,3.7,1,NA
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Budepara,"Dug Well",W31298,2014,NA,2.37,NA,3.82
+CG,Dhamtari,Kurud,Kurud,20.8275,81.68555556,"Kurud S","Bore Well",W31302,2014,'0.7,3.7,3.7,NA
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2014,'0.32,4.34,1.72,9.8
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2013,'0.55,NA,1.81,1.7
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Budepara,"Dug Well",W31298,2013,'0.3,NA,1.85,1.78
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2013,'0.25,2.25,'0.76,8.065
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2013,1.37,6.51,4.91,8.055
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2013,'0.64,10.6,6.67,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2013,6,7.46,5.66,10.335
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2013,NA,NA,3.28,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2013,'0.18,5.09,1.81,8.905
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2013,NA,3.25,1.8,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2013,'0.42,4.67,3.61,4.855
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2013,2.56,5.07,1.23,4.86
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2013,NA,5.14,3.03,6.13
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2013,NA,NA,3.52,11.16
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2013,'0.48,5.5,4.32,5.79
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2013,1.15,2.85,1.57,2.81
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2013,'0.57,2.02,1.54,3.03
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,"Banraud - I","Dug Well",W26603,2013,'0.48,NA,3.34,6.33
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud D","Bore Well",W26604,2013,2.11,6.72,4.5,7.04
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud S","Bore Well",W26605,2013,2.27,6.97,4.3,6.44
+CG,Dhamtari,Dhamtari,Dhamtari,20.62666667,81.57472222,"Gangrel S","Bore Well",W26618,2013,4.54,9.62,7.48,11.48
+CG,Dhamtari,Dhamtari,Dhamtari,20.63583333,81.63472222,Seadei,"Dug Well",W26621,2013,'0.88,NA,2.6,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,"Dhamtari1 PZ","Bore Well",W26661,2013,10.13,20,23,22.73
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod D","Bore Well",W26687,2013,2.89,12.3,9.4,19.4
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod S","Bore Well",W26688,2013,3.02,11.81,9.2,19.29
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Mega,"Dug Well",W26704,2013,'0.98,NA,6.2,10.16
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,"Dugli - I","Dug Well",W26552,2013,'0.34,NA,1.8,7.1
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri-1,"Dug Well",W31265,2013,'0.96,NA,2.83,5.38
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.53055556,81.64277778,"Murrumsilli S","Bore Well",W31276,2013,NA,NA,6.34,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.65833333,81.59166667,Bhoyana,"Dug Well",W31283,2013,'0.54,NA,2.6,4.78
+CG,Dhamtari,Kurud,Dhamtari,20.77916667,81.66666667,"Chhati S","Bore Well",W31297,2013,NA,NA,1.3,2.43
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2013,'0.38,6.5,3.15,9.51
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2012,NA,1.52,1.46,1.72
+CG,Dhamtari,Dhamtari,Kurud,21.00416667,81.725,"Chataud S","Bore Well",W31315,2012,NA,NA,4.4,NA
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2012,NA,1.39,'0.8,9.95
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2012,NA,3.93,3.12,5.54
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2012,NA,5.89,5.29,9.78
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2012,NA,NA,7.06,9.16
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2012,NA,3.85,3.29,9.43
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2012,NA,4.24,4.89,8.01
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2012,NA,2.2,1.8,8.31
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2012,NA,3.77,3.79,4.25
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2012,NA,2.17,4.17,5.01
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2012,NA,3.7,4.28,10.92
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2012,NA,4.49,4.42,6.37
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2012,NA,1.72,1.63,3.17
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2012,NA,'0.71,'0.71,2.72
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.44361111,81.80277778,Gattasilli,"Dug Well",W21984,2012,NA,NA,NA,7.94
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49555556,81.98583333,Jabarra,"Dug Well",W21985,2012,NA,NA,NA,3.53
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,"Banraud - I","Dug Well",W26603,2012,NA,NA,2.77,NA
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud D","Bore Well",W26604,2012,NA,NA,4.01,NA
+CG,Dhamtari,"Sihawa (nagri)",Magarlod,20.59583333,81.65833333,"Banraud S","Bore Well",W26605,2012,NA,NA,3.76,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.62666667,81.57472222,"Gangrel S","Bore Well",W26618,2012,NA,NA,6.88,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,"Dhamtari1 PZ","Bore Well",W26661,2012,NA,NA,22.63,NA
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod D","Bore Well",W26687,2012,NA,NA,9.08,NA
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,"Magarlod S","Bore Well",W26688,2012,NA,NA,7.14,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,"Dugli - I","Dug Well",W26552,2012,NA,NA,1.46,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri-1,"Dug Well",W31265,2012,NA,NA,3.32,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.53055556,81.64277778,"Murrumsilli S","Bore Well",W31276,2012,NA,NA,15.4,NA
+CG,Dhamtari,Kurud,Dhamtari,20.77916667,81.66666667,"Chhati D","Bore Well",W31296,2012,NA,NA,1.61,NA
+CG,Dhamtari,Kurud,Dhamtari,20.77916667,81.66666667,"Chhati S","Bore Well",W31297,2012,NA,NA,3.2,NA
+CG,Dhamtari,Kurud,Kurud,20.8275,81.68555556,"Kurud S","Bore Well",W31302,2012,NA,NA,1.96,NA
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2012,NA,3.77,1.47,9.21
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2011,'0.24,2.17,1.43,6.27
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49555556,81.98583333,Jabarra,"Dug Well",W21985,2011,'0.2,1.54,NA,3.43
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2011,'0.01,1.77,1.18,5.21
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2011,1.2,4.27,4.31,6.28
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2011,1.65,7.04,5.82,9.78
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2011,'0.06,NA,NA,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2011,NA,2.78,3.57,5.25
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2011,1.4,3.38,3.98,7.84
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2011,'0.4,2.11,1.67,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2011,'0.3,NA,1.58,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2011,1.89,4.37,3.56,4.47
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2011,-0.17,1.64,NA,3.38
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2011,'0.88,NA,2.64,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2011,'0.84,NA,3.66,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2011,2.65,4.34,4.23,5.41
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2011,'0.78,1.76,'0.95,2.71
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2011,'0.6,1.8,1.92,1.47
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.44361111,81.80277778,Gattasilli,"Dug Well",W21984,2011,'0.8,3.64,NA,6.01
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2011,'0.45,4.96,2.24,6.17
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2010,'0.79,2.82,1.44,2.81
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49555556,81.98583333,Jabarra,"Dug Well",W21985,2010,'0.55,NA,NA,3.86
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2010,'0.54,5.2,1.33,9.95
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2010,1.38,5.1,3.84,7.18
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2010,3.38,10.36,5.39,9.78
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2010,NA,5.91,NA,9.58
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2010,1.03,4.43,1.62,8.5
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2010,1.21,5.47,2,9.15
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2010,5.85,6.67,3.58,7.84
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2010,2.36,3.87,3.62,4.56
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2010,'0.14,3.37,1.13,5.77
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2010,'0.95,4.35,NA,10.92
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2010,3.23,2.98,3.51,5.7
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2010,1.18,3.62,1.59,2.73
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,"Dug Well",W21980,2010,NA,NA,'0.88,3.3
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.44361111,81.80277778,Gattasilli,"Dug Well",W21984,2010,'0.98,NA,2.06,5.7
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2010,'0.53,5.37,2.61,7
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2009,1.14,3.73,1.77,3.06
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2009,1,5.72,3.47,7.44
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2009,'0.26,2.25,1.29,8.85
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2009,1.97,5.42,3.35,9.52
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2009,4.53,8.05,7.4,9.78
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2009,4.84,7.22,7.16,7.94
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2009,1.43,3.27,2.93,7.92
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2009,1.79,5.77,4.1,9.25
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2009,5.17,4.67,6.05,7.64
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2009,NA,NA,NA,7.3
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2009,2.9,3.14,3.74,4.9
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2009,'0.21,2.88,2.09,5.11
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2009,1.54,5.1,4.4,10.89
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2009,3.51,4.7,4.45,5.93
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2009,1.5,3.1,1.42,3.53
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2008,'0.12,2.53,'0.91,NA
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2008,5.25,7.3,5.87,9.7
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,"Dug Well",W21623,2008,1.14,NA,1.69,2.1
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2008,2.44,5.32,4.97,7.45
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2008,3.11,7.05,3.71,5.04
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2008,'0.34,1.69,1.43,5.54
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2008,4.6,7.32,5.28,9.56
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2008,'0.95,4.93,3.92,6.7
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2008,3.41,5.47,2.59,7.57
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2008,'0.74,2.44,2.68,2.97
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2008,2.87,4.75,4.22,5.15
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2008,1.24,5.92,4.23,8.42
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2008,1.03,5.15,4.47,8.45
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2008,1.06,3.98,2.68,6.98
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2007,4.66,6.06,3.9,11.26
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2007,3.65,6.7,5.1,9.35
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2007,1.8,5.74,4.05,6.13
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2007,'0.51,1.59,'0.99,6.8
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2007,'0.73,4.42,1.87,6.03
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2007,'0.57,2.73,1.57,3.17
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2007,1.2,5.01,2.82,7.65
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2007,NA,2.25,1.13,4.39
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2007,3.04,3.85,3.83,7.39
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2007,1.59,4.32,1.47,7.4
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2007,1.63,4.95,2.68,8.8
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2007,1.26,3.32,2.08,7.66
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2007,3,4.67,3.65,5.23
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2007,NA,3.27,2.9,4.31
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2006,2.28,4.61,3.73,4.98
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2006,1.21,5.3,2.15,8.27
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2006,'0.97,5.91,2.07,8.98
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2006,NA,3,NA,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2006,1.49,5.29,3.84,5.77
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2006,-0.17,2.11,1.03,4.05
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2006,'0.2,2.93,1.1,5.09
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2006,'0.71,4.84,2.77,8.44
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2006,'0.67,3.54,1.92,3.13
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2006,'0.85,3.76,2.2,4.77
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2006,'0.19,1.21,1.03,2.08
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2006,1.25,5.49,4.68,7.75
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2006,1.72,6.23,5.2,8.05
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2006,4.16,6.61,4.56,8.39
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2006,'0.93,3.29,1.98,5.38
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2005,3.8,4.65,3.12,5.1
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2005,'0.54,3.88,1.66,8.34
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2005,4.99,5.67,4.44,8.27
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2005,'0.91,3.15,1.29,4.8
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2005,2.64,5.14,3.69,6.52
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2005,1.15,2.53,'0.8,4.23
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2005,'0.75,3.25,'0.9,6.65
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2005,1.52,4.62,4.65,8.32
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2005,'0.87,3.77,1.66,3.27
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2005,'0.72,4.45,1.44,6.69
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2005,'0.16,1.49,'0.47,6.37
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,2005,NA,4.7,NA,10.6
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2005,2.13,4.95,4.13,7.63
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2005,2.71,6.9,4.82,8.8
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2005,5.36,7.16,4.95,8.11
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2005,1.72,6.4,2.66,9
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2004,1.25,4.16,4.24,7.67
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2004,'0.78,2.88,2.5,5.21
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2004,'0.6,2.38,2.29,4.52
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2004,1.14,4.29,3.94,3.44
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2004,-0.22,1.38,1.24,3.36
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2004,'0.1,'0.93,1.45,3.41
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2004,'0.72,3.2,2.91,5.89
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2004,1.01,4.32,3.89,5.27
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2004,'0.39,3.32,2.41,3.18
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2004,1.37,2.82,2.98,3.58
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2004,'0.19,'0.87,1.17,2.18
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,2004,'0.45,3.31,2.87,4.35
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2004,NA,4.38,5.04,7.55
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2004,2.5,5.95,5.36,8.95
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2004,4.04,5.92,3.94,7.94
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2004,2.27,4.16,3.68,8.09
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2003,1.41,6.26,1.83,9.15
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2003,2.05,5.82,1.42,12.28
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2003,1.06,5.25,1.36,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2003,1.51,7.55,3.57,6.89
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2003,'0.08,3.13,'0.5,6.19
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2003,'0.31,4.18,'0.55,5.85
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2003,1.07,6.73,2.02,10.12
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2003,2.47,4.99,2.95,5.6
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2003,1.55,2.88,1.73,5.82
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2003,'0.45,4.56,1.25,6.75
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2003,'0.23,1.8,'0.39,10.19
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,2003,'0.52,5.63,1.97,5.08
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,"Dug Well",W11596,2003,1.09,NA,3.99,6.02
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,"Dug Well",W11597,2003,2.22,NA,4.64,10.3
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2003,6.08,8.2,3.8,9.86
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2003,5.67,8.79,2.37,9.32
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2002,4.43,4.66,4.41,5.12
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2002,6.01,5.37,4.61,8.3
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2002,7.52,5.79,8.41,7.77
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2002,3.38,3.03,3.96,5.05
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2002,3.69,3.52,6.47,5
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2002,'0.4,NA,1.91,6.13
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2002,2.41,3.87,4.03,10.21
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2002,2.58,7.62,4.28,8.92
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2002,1.21,1.93,1.89,3.1
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2002,1.74,4.88,2.01,6.42
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2002,'0.5,1.68,1.29,9.13
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,2002,2.62,5.04,3.58,5.08
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2002,8.06,7.1,7.53,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2002,'0.77,3.29,2.82,6.28
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2001,'0.73,4.56,1.86,5.08
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2001,'0.99,5.72,2.59,11.46
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2001,'0.6,8.23,2.72,8.95
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2001,1.32,2.92,1.73,5.6
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2001,1.21,3.58,4.9,6.46
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2001,'0.1,3.41,NA,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2001,'0.22,7.43,1.2,7.7
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2001,'0.93,6.25,4.24,8.24
+CG,Dhamtari,Dhamtari,Dhamtari,20.76666667,81.49583333,Amdi,"Dug Well",W11589,2001,'0.82,NA,NA,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2001,'0.27,3.49,2.04,6.73
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,Dhamtari,"Dug Well",W11591,2001,NA,2.68,NA,NA
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2001,1.05,5.83,3.03,8.33
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2001,'0.51,7.31,1.15,10.34
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,2001,'0.36,4.14,3.11,4.8
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2001,'0.28,8.55,5.78,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2001,'0.85,5.29,3.04,8.27
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,2000,3.59,4.17,3.84,5.15
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,2000,3.49,NA,3.49,6.52
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,2000,6.36,6.98,7.5,8.06
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,2000,1.8,2.92,2.77,4.84
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,2000,4.43,3.3,3.62,4.34
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,2000,1.3,NA,2.02,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,2000,'0.75,2.15,3.37,6.23
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,2000,3.02,4.93,4.03,7.87
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,2000,'0.87,3.77,2.18,6.34
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,Dhamtari,"Dug Well",W11591,2000,1.25,1.2,1.93,NA
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,2000,1.32,4.5,4.89,6.34
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,2000,1.29,1.84,2.94,2.93
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,2000,'0.84,4.52,3.18,3.73
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,2000,7.27,6.77,6.57,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,2000,2.15,3.85,3.58,7.17
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,1999,'0.52,4.29,1.4,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,1999,2.09,3.97,3.1,6.93
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.50055556,81.95833333,Nagari,"Bore Well",W11604,1999,NA,4.5,NA,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,1999,1.37,3.55,2.29,7.73
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,1999,6.5,7.3,5.98,8.38
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,1999,3.73,4.26,3.65,4.91
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,1999,2.58,5.05,4.22,7.5
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,1999,8.02,6.78,7.22,9.86
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,1999,1.55,4.72,2.54,7.63
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,1999,1.15,2.82,2.27,1.51
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,1999,'0.45,2.22,1.25,5.73
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,1999,'0.6,4.75,2.32,5
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,1999,2.6,3.67,4.72,8.1
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,1999,1.68,3.1,1.37,4.48
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,Dhamtari,"Dug Well",W11591,1999,1.53,2.2,1.11,3.51
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,1998,4.75,4.04,2.7,7.45
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,1998,1.95,3.01,3.2,5.35
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,Dhamtari,"Dug Well",W11591,1998,4.05,NA,1.58,4.95
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,1998,2.2,2.02,1.2,5.73
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,1998,6.46,7.82,4.66,9.81
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,1998,'0.75,3.37,3.2,4.57
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,1998,1.22,2.49,2.25,2.03
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,1998,2.9,5.52,2.95,8
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,1998,1.39,'0.46,1.42,2.52
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,1998,3.7,4.1,3.31,4.65
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,1998,7.13,6.24,6.51,7.59
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,1998,2.95,3.54,3.35,4.05
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,1998,1.75,2.82,1.78,7.91
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,1998,1.7,1.85,1.9,4.15
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,1997,'0.96,3.19,1.59,4.39
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,1997,3.88,6.73,5.9,NA
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,1997,1.38,5.78,2.61,8.12
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,1997,1.79,9.03,2.82,10.3
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,1997,NA,8.92,6.91,8.88
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,1997,1.01,5.07,3.45,6.56
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,1997,1.02,1.62,1.38,1.71
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,"Dug Well",W11593,1997,1.58,NA,2.03,8.02
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,1997,2.21,2.86,1.95,2.45
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,1997,2.8,4.55,3.51,6.91
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,1997,1.62,5.51,3.86,10.25
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,1997,'0.78,4.22,2.2,7.25
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,1997,2.28,3.18,3.29,7.22
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.33333333,81.95833333,Nagri,"Dug Well",W11605,1996,'0.18,1.94,1.74,7.45
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.30833333,81.9125,Sihawa,"Dug Well",W11607,1996,3.45,4.53,3.83,4.21
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.36666667,81.79166667,Banspani,"Dug Well",W11599,1996,1.54,3.33,3.01,6.37
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.24583333,82.07916667,Arsi-kanhar,"Dug Well",W11598,1996,4.05,6.04,7.04,8.16
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.29305556,81.99027778,Sankra,"Dug Well",W11606,1996,'0.87,4.72,3.25,8
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.54861111,81.7375,Keregaon,"Dug Well",W11603,1996,2.35,3.15,2.68,4.04
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,"Dug Well",W11595,1996,'0.4,3.98,3.3,6.16
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.32222222,81.8625,Birgudi,"Dug Well",W11600,1996,1.47,4.97,2.11,7.25
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.40555556,81.91111111,Dorgardula,"Dug Well",W11601,1996,3.73,4.36,5.45,6.76
+CG,Dhamtari,"Sihawa (nagri)","Sihawa (nagri)",20.49166667,81.87083333,Dugli,"Dug Well",W11602,1996,'0.66,2.65,2.18,4.66
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,"Dug Well",W11594,1996,'0.62,1.79,'0.82,10.44
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,"Dug Well",W11590,1996,1.02,3.52,1.25,2.4

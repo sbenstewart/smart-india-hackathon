@@ -1,0 +1,125 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2018,2.32,4.56,NA,NA
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2018,2.9,3.6,NA,NA
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2018,3.99,5.11,NA,NA
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2018,2,3.38,NA,NA
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2017,2.53,4.94,NA,5.81
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2017,'0.15,3.89,NA,5.07
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2017,4.34,5.47,NA,5.85
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2017,1.47,2.88,NA,3.86
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2016,4.75,NA,4.59,5.89
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2016,5.13,NA,5.2,5.72
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2016,1.8,NA,2.62,4
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2016,2.58,NA,3.81,5.42
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2015,4.3,4.36,5.32,4.14
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2015,3.55,3.47,4.95,4.15
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2015,NA,1.97,NA,NA
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2015,3.8,4.1,4.73,4.69
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2015,1.48,3.01,2.43,3.1
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2014,1.23,1.41,NA,4.86
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2014,'0.79,2.92,NA,4.84
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2014,'0.68,1.27,NA,3.72
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2014,1.7,3.32,NA,4.82
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2014,'0.48,1.49,NA,3.26
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2013,'0.72,2.46,1.23,5.07
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2013,'0.71,2.7,'0.78,5.49
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2013,'0.67,1.54,1.01,3.57
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2013,1.65,3.61,2.96,5
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2013,'0.42,1.66,1.22,3.13
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2012,NA,3.6,2.09,4.99
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2012,NA,4.25,2.25,5.59
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2012,NA,2.04,1.02,NA
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2012,NA,3.99,2.77,4.82
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2012,NA,3.18,'0.63,2.92
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2011,1.46,1.58,3.1,4.95
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2011,1.12,3.94,2.96,5.3
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2011,1.57,1.74,1.81,NA
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2011,2.65,3.06,3.4,4.8
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2011,'0.61,1.66,2.48,2.92
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2010,1.14,3.06,1.38,4.88
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2010,4.79,5.04,4.3,5.48
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2010,'0.79,2.58,1.56,NA
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2010,3.24,3.71,3.33,4.96
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2010,'0.61,1.93,1.6,2.83
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2009,2.23,3.47,2.67,4.74
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2009,2.58,3.61,2.94,5.17
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2009,1.64,3.59,2.79,NA
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2009,2.76,4.29,3.33,4.86
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2009,'0.98,2.55,1.53,2.77
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2008,1.17,2.87,NA,4.97
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2008,1.59,3.68,2.24,5.6
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2008,'0.64,4.65,1.57,7.5
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2008,1.11,3.36,3.39,4.92
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2008,'0.53,2.02,1.03,3.49
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2007,1.45,4.85,2.72,4.57
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2007,NA,4.7,2.08,4.85
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2007,3.85,NA,4.57,6.61
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2007,'0.95,4.4,'0.75,4.71
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2007,1.4,3.4,1.77,3.58
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2006,4.94,2.33,2.17,4.66
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2006,3.18,3.34,2.62,4.85
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2006,NA,1.88,1.64,6.5
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2006,2.35,3.73,3.1,4.74
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2006,1.83,1.87,1.53,3.6
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2005,3.39,4.1,2.28,4.75
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2005,3.22,4.28,1.45,6.1
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2005,NA,NA,1.58,NA
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2005,2.64,4.77,2.34,6.14
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2005,1.83,3.23,1.63,4.55
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2004,2.47,3.25,2.96,4.6
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2004,3.12,3.22,3.22,4.43
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2004,1.61,2.85,2.15,3.5
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2004,1.65,4.57,4.25,5.02
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2004,1.58,4.16,NA,5.01
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2003,1.2,5.04,3.32,5.65
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2003,5.21,NA,3.37,NA
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2003,1.4,3.26,1.47,4
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2003,2.05,4.71,2.94,5.47
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2003,4.69,3.96,2.36,4.81
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2002,3.08,2.73,1.66,2.36
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2002,4.33,2.82,3.41,3.59
+UP,"Sant Kabir Nagar",Baghauli,Baghauli,26.53055556,83.13333333,Lohraiyan,"Dug Well",W15979,2002,NA,NA,NA,2.88
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2002,4.1,NA,3.64,NA
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2002,5.24,3.27,3.57,4.03
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2002,4.73,2.6,3.52,2.35
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2001,'0.06,NA,2.21,4.3
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2001,'0.86,NA,3.36,4.75
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2001,'0.18,NA,1.98,3.66
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2001,'0.57,NA,2.58,3.88
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2001,1.07,NA,2.93,4.69
+UP,"Sant Kabir Nagar",Baghauli,Baghauli,26.53055556,83.13333333,Lohraiyan,"Dug Well",W15979,2001,'0.29,NA,2.17,3.72
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,2000,'0.04,3.02,1.62,4.14
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,2000,2.67,3.42,2.35,4.76
+UP,"Sant Kabir Nagar",Baghauli,Baghauli,26.53055556,83.13333333,Lohraiyan,"Dug Well",W15979,2000,2.39,3.09,2.07,4.23
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,2000,1.52,3.49,2.51,4.84
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,2000,'0.49,3.77,2.59,4.69
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,2000,1.32,2.76,1.68,3.75
+UP,"Sant Kabir Nagar",Semariyawan,Semariyawan,26.89444444,82.95,Dudhara,"Dug Well",W15306,2000,NA,2.23,NA,4.26
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,1999,'0.94,3.15,1.48,3.75
+UP,"Sant Kabir Nagar",Semariyawan,Semariyawan,26.89444444,82.95,Dudhara,"Dug Well",W15306,1999,'0.72,2.3,1.36,8.58
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,1999,2.48,3.57,2.38,4.85
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,1999,1.79,3.25,2.45,4.83
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,1999,3.29,3.78,2.5,4.64
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,1999,'0.33,3.25,1.18,4.7
+UP,"Sant Kabir Nagar",Baghauli,Baghauli,26.53055556,83.13333333,Lohraiyan,"Dug Well",W15979,1999,2.96,3.29,1.8,4.3
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,1998,'0.83,2.5,1.88,3.55
+UP,"Sant Kabir Nagar",Semariyawan,Semariyawan,26.89444444,82.95,Dudhara,"Dug Well",W15306,1998,'0.9,2.2,1.2,8.58
+UP,"Sant Kabir Nagar",Baghauli,Baghauli,26.53055556,83.13333333,Lohraiyan,"Dug Well",W15979,1998,1.04,3.5,2.25,4.55
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,1998,1.43,4.95,2.95,6.5
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,1998,1.58,3.25,2.25,5.1
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,1998,1.32,4.26,2.84,4.97
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,1998,'0.82,3.6,2.15,4.59
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,1997,1.4,3.3,1.9,3.77
+UP,"Sant Kabir Nagar",Baghauli,Baghauli,26.53055556,83.13333333,Lohraiyan,"Dug Well",W15979,1997,4.09,3.68,3.2,4.55
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,1997,3.75,3.68,3.21,4.86
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,1997,3.48,4.15,3.38,5.47
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,1997,4.42,3.91,4.04,4.97
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,1997,5.12,4.55,5.05,5.47
+UP,"Sant Kabir Nagar",Semariyawan,Semariyawan,26.89444444,82.95,Dudhara,"Dug Well",W15306,1997,1.16,2.75,2,5.22
+UP,"Sant Kabir Nagar",Baghauli,Baghauli,26.53055556,83.13333333,Lohraiyan,"Dug Well",W15979,1996,1.96,3.6,2.7,4.48
+UP,"Sant Kabir Nagar",Mehdawal,Mehdawal,26.96666667,83.11666667,Maidawal,"Dug Well",W15981,1996,1.02,4.69,3.03,5.34
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.55416667,83.01944444,Dhanghata,"Dug Well",W15304,1996,1.85,4.21,3.27,8.46
+UP,"Sant Kabir Nagar",Semariyawan,Semariyawan,26.89444444,82.95,Dudhara,"Dug Well",W15306,1996,'0.7,3.53,1.4,NA
+UP,"Sant Kabir Nagar",Khalilabad,Khalilabad,26.78333333,83.05,Khalilabad,"Dug Well",W15305,1996,1.2,3.58,2.21,4.25
+UP,"Sant Kabir Nagar","Haisar Bazar","Haisar Bazar",26.605,83.03111111,Nathnagar,"Dug Well",W15980,1996,'0.95,3.15,2.15,3.98
+UP,"Sant Kabir Nagar",Sotha,Sotha,26.99166667,82.91666667,"Pipra first","Dug Well",W15982,1996,NA,4.61,4.2,6.5

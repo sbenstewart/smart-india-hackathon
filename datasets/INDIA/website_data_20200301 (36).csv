@@ -1,0 +1,330 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2018,NA,NA,3.04,NA
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2018,NA,NA,'0.33,NA
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2018,NA,NA,3.38,4.2
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2018,NA,1.62,2.04,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2018,NA,4.09,2.49,NA
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2018,NA,5.3,4.66,NA
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2018,NA,4.2,4.32,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2018,NA,3.6,1.09,NA
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2018,NA,1.1,1.74,NA
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2018,NA,3.01,1.56,NA
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2018,NA,3.96,2.29,NA
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2018,NA,1.25,4.01,NA
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2018,NA,2.54,3.84,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2017,2.12,3.91,2.42,4.42
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2017,1.05,2,'0.68,2.38
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2017,1.98,2.94,1.39,3.37
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2017,2.03,3.98,2.21,5.6
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2017,1.1,2.8,'0.76,1.95
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,2017,NA,NA,NA,1.24
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2017,NA,7.7,2.53,7.3
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2017,NA,4.57,2.9,4.8
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2017,NA,4.1,1.67,3.27
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2017,1.39,NA,1.08,2.06
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2017,NA,NA,3,5.15
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2017,NA,4.8,NA,4.26
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2016,NA,NA,1.93,3.36
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2016,4.53,NA,NA,5.6
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2016,2.35,NA,2.39,4.4
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2016,2.25,NA,5.7,8.56
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2016,1.45,NA,NA,5.2
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2016,3.66,NA,3.19,5.6
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2016,NA,NA,NA,4.96
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2016,2.71,NA,NA,4
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2016,NA,NA,2.06,2.9
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2016,NA,NA,3.6,5.1
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2016,NA,NA,1.66,2.95
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2016,2.68,NA,1.55,1.52
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2015,1.49,2.79,2.32,3.02
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2015,1.8,3.17,2.96,4.36
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2015,2.29,3.32,3.16,3.15
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2015,1.12,5.08,3.9,5.73
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2015,1.61,4.1,2.6,4.16
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2015,'0.01,'0.82,'0.35,'0.88
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2015,1.35,4.12,NA,4
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,2015,NA,NA,NA,3.94
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2015,'0.58,NA,NA,2.87
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2015,NA,5.55,2.47,5.67
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2015,NA,1.6,'0.55,'0.7
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2015,'0.55,2.26,1.18,2.13
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2015,2.16,4.13,NA,3.23
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2015,NA,1.85,NA,1.89
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2015,NA,4.55,6.1,4.93
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2014,NA,2.73,NA,NA
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2014,3.01,5.12,NA,5.7
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2014,NA,2.9,NA,5.44
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2014,1.01,4.87,NA,4.15
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2014,'0.9,3.85,NA,3
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2014,1.64,1.28,NA,1.28
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2014,2.5,5.39,NA,3.75
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2014,'0.47,3.17,NA,3.97
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2014,NA,4.45,NA,NA
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2014,NA,'0.73,NA,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2014,NA,2.13,NA,2.67
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2014,1.85,NA,NA,4.34
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2014,'0.26,'0.35,NA,'0.42
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2014,1.8,4,NA,4.3
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2013,1.16,2.89,1.14,3.6
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2013,NA,NA,NA,6.27
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2013,2.25,2.59,2.29,1.633333
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2013,NA,7.78,NA,6.63
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2013,NA,3.65,2.25,4.08
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2013,NA,1.52,'0.48,2.08
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2013,NA,'0.42,'0.19,1.29
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2013,NA,1.96,NA,NA
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2013,1.91,2.31,NA,5.17
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2013,2.29,2.82,1.5,4.38
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2013,NA,1.93,1.48,2.39
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2013,NA,4.18,3.71,3.38
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2013,NA,3.67,3.5,NA
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2012,NA,3.88,'0.85,NA
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2012,NA,7,4.84,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2012,NA,4.06,1.81,NA
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2012,NA,9.03,3.66,NA
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2012,NA,NA,3.14,NA
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2012,NA,2.48,1.14,NA
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2012,NA,'0.51,'0.3,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2012,NA,3.4,1.76,NA
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2012,NA,4.66,'0.66,NA
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2012,NA,4.42,1.45,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2012,NA,2.57,2.15,NA
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2012,NA,4.28,3.04,NA
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2012,NA,4.1,3.07,NA
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2011,2.12,2.59,2.17,NA
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2011,4.87,8.24,8.17,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2011,1.81,3.5,2.03,NA
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2011,5.1,9.01,4.65,NA
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2011,2.35,4.48,NA,NA
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2011,2.2,3.57,2.17,NA
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2011,'0.09,2.66,'0.25,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2011,'0.75,1.78,1.26,NA
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2011,1.44,3.51,2.01,NA
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2011,2.09,3,2.53,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2011,NA,2.15,1.58,NA
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2011,2.49,4.13,NA,NA
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2011,1.64,4.1,3.1,NA
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2010,1.48,2.2,1.45,NA
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2010,'0.99,6.76,4.8,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2010,1.82,3.5,1.81,NA
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2010,'0.83,9.37,3.03,NA
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2010,'0.6,4.54,2.05,NA
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2010,'0.38,3.78,1.68,NA
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2010,'0.05,2.93,'0.27,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2010,'0.22,4.25,'0.48,NA
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2010,1.31,4.86,1.16,NA
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2010,2.25,6.5,1.19,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2010,'0.43,1.54,1.11,NA
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2010,1.38,4.2,4.15,NA
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2010,1.35,4.2,'0.83,NA
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2009,1.5,2.6,1.21,NA
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2009,NA,8.77,5.81,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2009,'0.8,NA,2.02,NA
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2009,1.41,9.45,3.39,NA
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2009,NA,4.35,NA,NA
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2009,1.08,3.88,2.92,NA
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2009,'0.1,3.55,3.16,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2009,'0.77,NA,2.26,NA
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2009,'0.32,5.79,1.16,NA
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2009,2.18,7.32,1.11,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2009,'0.85,2.65,'0.95,NA
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2009,'0.9,4.23,4.33,NA
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2009,1.9,4.06,3.37,NA
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2008,1.21,2.49,1.38,NA
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2008,2.7,7.89,5.08,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2008,1.4,2.81,NA,NA
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2008,1.05,9.2,3.08,NA
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2008,'0.53,3.5,1.25,NA
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2008,1.88,3.76,2.74,NA
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2008,'0.78,3.52,'0.91,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2008,'0.77,2.4,NA,NA
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2008,'0.48,5.1,'0.52,NA
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2008,2.23,6.19,2.4,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2008,'0.73,2.71,1.48,NA
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2008,1.26,3.83,1.76,NA
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2008,2.5,3.9,3.14,NA
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2007,1.16,2.21,1.58,'0.8
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2007,3.64,7.97,6.31,6.17
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2007,'0.69,2.47,1.83,1.08
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2007,2.09,10.15,4.03,4.33
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2007,1.07,2.35,2.78,4.2
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2007,1.98,3.9,3.7,3.66
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2007,1.08,3.45,2.79,1.48
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2007,1.35,2.63,1.9,1.97
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2007,'0.45,4.1,1.15,1.9
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2007,1.11,5.81,1.13,'0.37
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2007,1.03,3.1,1.9,2.11
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2007,2,4.26,4.02,3.38
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2007,2.48,4.4,3.97,4.25
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2006,'0.99,2.62,1.21,1.19
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2006,3.4,2.95,2.88,3.79
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2006,1.01,2.03,1.35,1.56
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,2006,NA,1.26,NA,'0.31
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2006,2.63,9.4,3.15,3.42
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2006,1.83,3.38,2.88,4.05
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2006,2.78,3.98,3.15,3.64
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.34166667,91.80833333,Dumnichowki,"Tube Well",W12288,2006,NA,NA,NA,NA
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2006,3.53,3.6,3.94,3.96
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,2006,NA,NA,-0.11,'0.22
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2006,1.44,1.49,1.86,1.32
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2006,1.13,4.55,2.68,2.02
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2006,6.32,4.31,4.9,4.91
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2006,2.4,2.73,1.81,2.07
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2006,3.56,3.7,4.07,3.31
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2006,3.73,6.66,6.37,5.49
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2005,1.14,2.55,1.61,1.07
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2005,2.17,5.78,2.77,4.16
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2005,'0.7,2.59,1.26,2.13
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,2005,'0.25,1.88,'0.41,'0.99
+AS,Kamrup,Goreswar,Chamaria,26.49166667,91.76666667,Hengulapara,"Dug Well",W12282,2005,NA,NA,NA,'0.98
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2005,1.19,5.36,3.16,3.31
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2005,'0.75,4.57,2.79,3.4
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2005,1.88,4.08,2.78,3.07
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2005,1.26,3.87,2.8,3.43
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2005,'0.31,1.25,1.22,'0.83
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2005,'0.23,4.43,1.35,2.94
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2005,6.03,7.21,3.27,6.87
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2005,NA,1.77,2.01,1.61
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2005,NA,2.68,2.1,NA
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2005,2.36,2.85,2.83,2.38
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2005,NA,2.01,NA,1.39
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2004,2.65,2.43,1.38,'0.87
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2004,4.24,3.74,1.97,NA
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2004,3.17,3.25,3.16,1.66
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2004,1.36,1.64,1.46,1.46
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2004,NA,2.12,2.25,1.42
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2004,3.53,6.32,3.82,2.97
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2004,1.15,1.91,1.71,'0.98
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,2004,'0.78,1.42,1.57,'0.57
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2004,2.95,4.49,3.45,2.73
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2004,2.53,3.15,1.95,2.6
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2004,5.6,3.58,3.12,2.46
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2004,3.75,3.84,3.01,2.26
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,2004,NA,'0.1,NA,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2004,1.67,1.64,'0.83,1.02
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2004,'0.51,3.93,1.52,1.22
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2004,6.84,7.23,5.38,6.83
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2003,2.32,2.26,2.06,2.74
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2003,'0.96,3.12,1.14,'0.95
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2003,1.31,1.48,1.33,'0.64
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2003,'0.97,2.13,1.71,1.12
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2003,1.62,2.78,1.7,2.42
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2003,'0.78,2.05,1.23,1
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,2003,'0.51,1.8,'0.54,'0.19
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2003,2.15,4.63,2.8,2.47
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2003,'0.75,3.45,1.26,3.76
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2003,2.38,3.88,2.64,3.01
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2003,2.55,3.93,2.65,3.39
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,2003,-0.15,-0.03,-0.22,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2003,'0.94,3.41,1.01,1.02
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2003,'0.72,4.19,1.12,1.66
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2003,3.53,5.74,7.43,1.31
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2003,3.21,2.96,2.58,3.63
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2002,NA,3.99,2.05,2.34
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2002,'0.82,1.92,1.89,1.31
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2002,1.38,1.75,2.93,1.33
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2002,1.2,1.81,1.75,1.55
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2002,3.12,6.13,4.12,2.64
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2002,1.2,2.25,1.62,1.2
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,2002,'0.51,1.81,'0.89,1
+AS,Kamrup,Goreswar,Chamaria,26.49166667,91.76666667,Hengulapara,"Dug Well",W12282,2002,NA,NA,1.68,NA
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2002,2.7,5.39,3.74,3.21
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2002,1.05,3.24,2.52,NA
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2002,2.51,3.76,3.36,2.91
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2002,2.47,3.77,3.42,3.34
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,2002,NA,'0.11,-0.08,'0.22
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2002,'0.87,1.57,3.1,'0.83
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2002,'0.59,4.11,1.99,1.8
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2002,3.11,3.83,6.03,1.18
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2002,2.39,2.91,2.71,2.13
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2001,2.31,3.38,3.25,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2001,'0.78,2.04,1.62,NA
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2001,1.35,1.8,1.37,1.74
+AS,Kamrup,Boko,Chamaria,25.94416667,91.11805556,Rajapara,"Dug Well",W12271,2001,'0.46,NA,1.46,1.3
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2001,4.77,5.42,5.13,5.47
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2001,1.3,2.37,1.28,2.04
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,2001,'0.77,1.45,2.05,'0.79
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2001,2.35,5.95,'0.78,5.05
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2001,1.53,3.35,2.04,4.22
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2001,2.43,3.58,2.93,3.08
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.34166667,91.80833333,Dumnichowki,"Tube Well",W12288,2001,NA,'0.1,NA,NA
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2001,2.64,3.9,2.92,4.35
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,2001,'0.15,'0.07,-0.16,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2001,'0.88,1.42,1.01,2.06
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2001,'0.68,4.18,1.15,1.48
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2001,5.83,6.93,3.33,'0.68
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2001,1.02,3.15,2.19,2.65
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,2000,NA,NA,3.67,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,2000,1,2.25,1.61,2.42
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,2000,'0.85,3.5,1.4,1.43
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,2000,1.65,4.03,4.07,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,2000,1.05,2.33,1.69,2.45
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,2000,'0.52,1.73,'0.99,2.33
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,2000,1.8,4.8,8.61,8.2
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,2000,1.8,3.15,2.34,4.27
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,2000,1.98,3.48,3.08,3.82
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,2000,1.2,3.83,3.32,1.97
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,2000,'0.85,NA,'0.2,NA
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,2000,'0.95,'0.62,'0.47,NA
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,2000,'0.6,3.8,1.53,4.42
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,2000,1.09,7.22,'0.88,1.3
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,2000,2.35,2.7,2.6,2.29
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,1999,1.36,1.47,1.39,2.65
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,1999,2.64,3.32,2.75,4.33
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,1999,1.04,2.33,1.16,2.9
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,1999,1.2,3.3,1.61,3.42
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,1999,2.22,3.11,1.96,3.58
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,1999,2.13,5.1,2.6,10.97
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,1999,2.01,6.02,2.09,7.9
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,1999,3.21,NA,NA,3.64
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,1999,'0.69,1.7,'0.65,4.7
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,1999,1.13,3.94,2.48,4.25
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,1999,'0.83,6.81,2.94,7.15
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,1999,'0.95,2.2,'0.88,4.1
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,1999,'0.63,2.92,'0.96,4.25
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,1999,'0.46,4.02,'0.84,5.77
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,1998,'0.7,2.56,'0.93,1.86
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,1998,4.22,2.82,5,6.02
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,1998,'0.63,NA,2.4,3.68
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,1998,'0.6,1.98,'0.71,1.47
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,1998,1.68,3.78,2.68,3.67
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,1998,NA,NA,2.9,3.82
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,1998,'0.3,4.77,'0.83,3.4
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,1998,NA,5.2,2.83,3.29
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,1998,1.97,2.75,2.82,3.4
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,1998,1.32,2.32,1.69,1.46
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,1998,1.42,8.65,2.55,4.52
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,1998,1.07,2.13,1.56,1.72
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,1998,1.18,4,2.67,4.4
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,1998,1.5,2.36,1.39,1.44
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,1997,'0.85,4.24,2.29,4.83
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,1997,'0.92,2.02,1.79,1.37
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,1997,'0.32,NA,NA,NA
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,1997,2.24,3.9,3.5,3.89
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,1997,2.06,3.36,2.86,3.12
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,1997,1.68,2.1,2.7,4.05
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,1997,2.38,5.2,3.92,3.91
+AS,Kamrup,Goreswar,Chamaria,26.49166667,91.76666667,Hengulapara,"Dug Well",W12282,1997,NA,NA,NA,1.07
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,1997,'0.58,1.83,'0.96,NA
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,1997,'0.79,1.92,2.03,2.29
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,1997,4.1,NA,4.51,5.14
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,1997,1.39,1.68,1.44,1.42
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,1997,3.04,3.25,2.66,2.1
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,1997,2.8,3.65,3.37,NA
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,1997,1.33,1.85,1.67,1.3
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,1997,6.63,5.27,4.5,7.14
+AS,Kamrup,Chhaygaon,Chamaria,26.02083333,91.32777778,Bamunigaon,"Dug Well",W12275,1996,'0.94,1.94,'0.78,2.2
+AS,Kamrup,Palasbari,Chamaria,26.11666667,91.5,Azara,"Dug Well",W12293,1996,'0.28,4,1.12,3.29
+AS,Kamrup,Hajo,Chamaria,26.25,91.53333333,Hajo,"Dug Well",W12287,1996,2.06,3.56,2.3,3.39
+AS,Kamrup,Rangia,Chamaria,26.50833333,91.6,Darkuchi,"Dug Well",W12299,1996,2.77,NA,2.93,3.59
+AS,Kamrup,Boko,Chamaria,25.975,91.24166667,Boko,"Dug Well",W12270,1996,1.41,1.53,1.41,1.36
+AS,Kamrup,Hajo,Chamaria,26.23333333,91.61666667,"Alikash adarsh","Dug Well",W12286,1996,1.79,3.71,2.22,4.18
+AS,Kamrup,Hajo,Chamaria,26.20833333,91.625,Agyathuri,"Dug Well",W12285,1996,2.01,4.1,3.18,4.4
+AS,Kamrup,Rangia,Chamaria,26.45833333,91.61666667,Rangia,"Dug Well",W12300,1996,2.96,2.52,2.49,3.51
+AS,Kamrup,Chandrapur,Chamaria,26.21666667,91.71666667,Amingaon(ii),"Dug Well",W12272,1996,4.56,4.11,6.47,2.72
+AS,Kamrup,Palasbari,Chamaria,26.17083333,91.58472222,Sualkuchi,"Dug Well",W12298,1996,1.3,2.16,1.67,1.07
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.43194444,91.7375,Muktapur,"Tube Well",W12290,1996,'0.29,NA,NA,'0.53
+AS,Kamrup,"North Guwahati",Chamaria,26.23833333,91.74277778,Dirgheswari,"Dug Well",W12291,1996,1.65,1.47,1.35,1.59
+AS,Kamrup,Chhaygaon,Chamaria,26.075,91.40833333,Bijoynagar,"Dug Well",W12276,1996,1.21,1.71,'0.94,3.71
+AS,Kamrup,Palasbari,Chamaria,26.12777778,91.62777778,Maligaon,"Dug Well",W12296,1996,1.3,7.53,3.48,1.08
+AS,Kamrup,Kamalpur(pt.),Chamaria,26.30277778,91.71861111,Kahara,"Dug Well",W12289,1996,2.15,4.16,2.6,4.5

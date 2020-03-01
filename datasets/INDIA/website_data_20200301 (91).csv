@@ -1,0 +1,629 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2018,1.89,5.14,NA,NA
+CG,Bastar,Keshkal,Bastar,19.36027778,81.83638889,"Chapra Bhanpuri","Dug Well",W31197,2018,NA,NA,2.45,NA
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2018,NA,4.87,NA,NA
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,"Dug Well",W21633,2018,NA,3.84,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2018,NA,4.81,2.85,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2018,NA,7.81,8.8,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2018,NA,5.13,3.15,NA
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2018,NA,4.46,2.95,NA
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2018,NA,5.14,10.4,NA
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2018,2.05,NA,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2018,NA,6.9,6.55,NA
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2018,NA,7.1,5.5,NA
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2018,NA,5.47,5.25,NA
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2018,NA,5.46,3.05,NA
+CG,Bastar,Keshkal,Keshkal,20.05416667,81.57222222,Batrail,"Dug Well",W26299,2018,NA,5.12,2.65,NA
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-s,"Bore Well",W26094,2018,NA,4.47,9.5,NA
+CG,Bastar,Kondagaon,Kondagaon,19.36944444,81.79166667,Ghodagaon,"Dug Well",W26102,2018,NA,6.21,6.1,NA
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2018,NA,4.14,NA,NA
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2018,NA,7.55,NA,NA
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2018,NA,6.41,NA,NA
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2018,NA,5.27,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2018,NA,NA,6.85,8.11
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,"Dug Well",W11378,2018,1.15,NA,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,2018,1.69,NA,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.01027778,81.94222222,Dhimarpal,"Dug Well",W26012,2018,NA,7.14,NA,NA
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,"Pharasgaon1  PZ","Bore Well",W26239,2018,NA,11.24,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,"Dug Well",W26326,2018,NA,3.1,NA,NA
+CG,Bastar,Bakaband,Bakaband,19.28333333,81.95,Sonarpal,"Dug Well",W26074,2018,NA,4.37,NA,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2018,4.02,6.81,NA,NA
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,"Dug Well",W21633,2017,'0.95,7.05,3.2,9.16
+CG,Bastar,Kondagaon,Kondagaon,19.36944444,81.79166667,Ghodagaon,"Dug Well",W26102,2017,1.75,4.6,2.4,6.7
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2017,6.4,9.76,5.7,14.31
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2017,1.1,3.41,3.1,3.25
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2017,2.11,7.19,3.1,9.26
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2017,2.09,3.57,1.9,6.51
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2017,1.57,7.13,3.6,12.55
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2017,3.11,5.81,NA,8.31
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2017,1.5,NA,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2017,1.7,7.22,3.3,12.58
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2017,1.28,5.08,3.8,7.48
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2017,2.45,7.55,4.8,10.52
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2017,1.25,4.78,3.5,7.1
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2017,2.1,NA,3.9,8.1
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2017,NA,6.1,4.4,NA
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2017,2.4,7.05,NA,8.5
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2017,NA,6.52,NA,10.02
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2017,1.85,NA,NA,13.1
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2017,2.13,6.21,NA,NA
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2017,NA,5.46,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2017,2.86,NA,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2017,7.05,NA,NA,NA
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,"Pharasgaon1  PZ","Bore Well",W26239,2017,5.52,9.73,NA,13.18
+CG,Bastar,Bakaband,Bakaband,19.28333333,81.95,Sonarpal,"Dug Well",W26074,2017,3.1,6.03,NA,9.75
+CG,Bastar,Jagdalpur,Jagdalpur,19.01027778,81.94222222,Dhimarpal,"Dug Well",W26012,2017,1.2,6.82,2.7,7.88
+CG,Bastar,Keshkal,Keshkal,20.05416667,81.57222222,Batrail,"Dug Well",W26299,2017,3.26,4.87,2.9,7
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,"Dug Well",W26326,2017,1.73,4.1,1.4,3.35
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-s,"Bore Well",W26094,2017,2.98,11.56,3.7,14.97
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2017,1.7,6.87,2.8,8.91
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2016,1.32,NA,2.76,6.98
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur1,"Dug Well",W31222,2016,NA,4.32,NA,NA
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2016,3.4,NA,4.63,18.65
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2016,1.47,NA,2.16,6.21
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2016,2.1,NA,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2016,2.56,NA,4.06,11.2
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2016,1.84,NA,5.2,6.21
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2016,NA,NA,6.54,22.06
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2016,1.7,NA,4.22,3.02
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2016,1.97,NA,3.21,9.86
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2016,2.4,NA,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2016,1.47,NA,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2016,2.67,NA,2.91,7.31
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2016,3.96,NA,NA,7.19
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2016,3.85,NA,NA,9.18
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,"Dug Well",W21633,2016,2.17,NA,2.49,4.62
+CG,Bastar,Jagdalpur,Jagdalpur,19.01027778,81.94222222,Dhimarpal,"Dug Well",W26012,2016,2.04,7.96,2.51,NA
+CG,Bastar,Bakaband,Bakaband,19.28333333,81.95,Sonarpal,"Dug Well",W26074,2016,1.54,4.48,2.19,6.55
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-s,"Bore Well",W26094,2016,2.85,5.92,3.13,NA
+CG,Bastar,Kondagaon,Kondagaon,19.36944444,81.79166667,Ghodagaon,"Dug Well",W26102,2016,2.6,6.12,3.16,7.38
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,"Pharasgaon1  PZ","Bore Well",W26239,2016,10.04,11.65,11.21,14.88
+CG,Bastar,Keshkal,Keshkal,20.05416667,81.57222222,Batrail,"Dug Well",W26299,2016,1.48,5.27,2.37,6.2
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,"Dug Well",W26326,2016,1.61,2.2,2.91,4.23
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,"Jagdalpur-s PZ","Bore Well",W31192,2016,NA,8.74,NA,NA
+CG,Bastar,Keshkal,Bastar,19.36027778,81.83638889,"Chapra Bhanpuri","Dug Well",W31197,2016,NA,1.85,2.49,NA
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2016,1.6,NA,2.31,5.42
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2015,6.99,4.83,3.71,2.92
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur1,"Dug Well",W31222,2015,NA,NA,2.06,NA
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2015,1.39,13.29,6.67,11.23
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2015,NA,8.62,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2015,1.22,9.52,4.55,7.7
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2015,NA,12.13,11.03,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2015,1.02,2.9,5.49,1.02
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2015,'0.22,2.7,4.45,'0.22
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2015,4.64,7.55,5.29,7.9
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2015,2.45,6.49,3.45,5.43
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2015,1.82,4.97,NA,1.82
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2015,3.39,8.61,4.41,8.25
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,"Dug Well",W21633,2015,'0.9,2.57,6.58,'0.9
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,"Kilepal - 1","Dug Well",W26006,2015,NA,6.81,4.28,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.01027778,81.94222222,Dhimarpal,"Dug Well",W26012,2015,NA,7.96,5.8,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur.1,"Dug Well",W26025,2015,4.72,4.9,6.22,'0.47
+CG,Bastar,Bakaband,Bakaband,19.28333333,81.95,Sonarpal,"Dug Well",W26074,2015,1.9,7.2,2.6,3.64
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,"Bakawand - I","Dug Well",W26075,2015,NA,4.43,NA,NA
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-s,"Bore Well",W26094,2015,1.14,NA,6.68,NA
+CG,Bastar,Kondagaon,Kondagaon,19.36944444,81.79166667,Ghodagaon,"Dug Well",W26102,2015,2.3,5.33,NA,2.4
+CG,Bastar,Kondagaon,Kondagaon,19.58611111,81.66944444,"Kondagon New","Dug Well",W26146,2015,NA,4.76,NA,NA
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,"Pharasgaon1  PZ","Bore Well",W26239,2015,NA,10.89,13.74,13.03
+CG,Bastar,Keshkal,Keshkal,20.05416667,81.57222222,Batrail,"Dug Well",W26299,2015,'0.75,6.65,3.26,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,"Dug Well",W26326,2015,1.69,NA,5.36,NA
+CG,Bastar,Keshkal,Bastar,19.36027778,81.83638889,"Chapra Bhanpuri","Dug Well",W31197,2015,NA,NA,6.55,NA
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2015,1.16,5.82,2.35,1.55
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2014,2,3.02,2.56,5.65
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,"Jagdalpur-s PZ","Bore Well",W31192,2014,NA,17.15,NA,15.28
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2014,1.58,6.21,5.84,NA
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2014,NA,6.72,NA,NA
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2014,NA,1.87,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2014,5.65,5,4.23,10.98
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2014,1.35,NA,NA,6.38
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2014,10.97,NA,13.33,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2014,'0.92,3.09,2.76,2.46
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2014,-0.55,2.87,2.35,4.04
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2014,NA,5.5,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2014,4.61,5.6,NA,8.4
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2014,'0.31,3.09,3.09,5.56
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2014,2.12,4.4,4.21,5.7
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2014,2.6,6.94,4.92,8.56
+CG,Bastar,Jagdalpur,Bakaband,19.36388889,82.085,Karpawand,"Dug Well",W21621,2014,NA,4.02,NA,NA
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,"Dug Well",W21633,2014,'0.1,1.2,NA,3.5
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur.1,"Dug Well",W26025,2014,NA,5.57,4.78,NA
+CG,Bastar,Bakaband,Bakaband,19.28333333,81.95,Sonarpal,"Dug Well",W26074,2014,1,4,2.67,6.07
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-s,"Bore Well",W26094,2014,1.32,6.02,5.75,11.07
+CG,Bastar,Kondagaon,Kondagaon,19.36944444,81.79166667,Ghodagaon,"Dug Well",W26102,2014,1.99,3.98,3.64,5.15
+CG,Bastar,Kondagaon,Kondagaon,19.58611111,81.66944444,"Kondagon New","Dug Well",W26146,2014,NA,4.8,NA,5.92
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,"Pharasgaon1  PZ","Bore Well",W26239,2014,7.13,9.13,NA,14.09
+CG,Bastar,Keshkal,Keshkal,20.05416667,81.57222222,Batrail,"Dug Well",W26299,2014,'0.73,3.12,2.48,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,"Dug Well",W26326,2014,1.4,3.97,NA,NA
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2014,'0.6,2.75,2.55,2.6
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2013,'0.65,4.69,2.17,6.85
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-s,"Bore Well",W31217,2013,NA,NA,NA,1.2
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2013,3.08,7.19,5.64,8.76
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2013,4.1,NA,NA,10.93
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2013,1.65,6.35,3.93,9.7
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2013,2.65,NA,NA,4.9
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2013,1.5,3.27,2.67,4.1
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2013,'0.24,4.12,2.26,7.68
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2013,NA,5.43,3.8,7.2
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2013,5.4,2.69,4.6,7.25
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2013,NA,NA,NA,'0.62
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,2013,NA,NA,NA,9.14
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2013,'0.53,7.62,2.24,6.38
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,2013,NA,NA,NA,7
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2013,3.95,8.85,3.57,7.5
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2013,NA,NA,NA,'0.64
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,2013,NA,NA,NA,9.65
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2013,3.67,8.89,4.86,10.125
+CG,Bastar,Jagdalpur,Bakaband,19.36388889,82.085,Karpawand,"Dug Well",W21621,2013,NA,NA,2.52,NA
+CG,Bastar,Jagdalpur,Bastar,19.25916667,81.88555556,Balenga,"Dug Well",W21648,2013,NA,NA,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur.1,"Dug Well",W26025,2013,1.17,6.24,4.78,3.97
+CG,Bastar,Bakaband,Bakaband,19.28333333,81.95,Sonarpal,"Dug Well",W26074,2013,2.4,NA,3.7,6.8
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,"Bakawand - I","Dug Well",W26075,2013,NA,NA,NA,6.4
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-s,"Bore Well",W26094,2013,3.19,NA,5.75,9.32
+CG,Bastar,Kondagaon,Kondagaon,19.36944444,81.79166667,Ghodagaon,"Dug Well",W26102,2013,2.4,NA,3.78,7.9
+CG,Bastar,Kondagaon,Kondagaon,19.58611111,81.66944444,"Kondagon New","Dug Well",W26146,2013,2.5,NA,4.3,7.1
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,"Pharasgaon1  PZ","Bore Well",W26239,2013,7.03,NA,8.36,14.23
+CG,Bastar,Keshkal,Keshkal,20.05416667,81.57222222,Batrail,"Dug Well",W26299,2013,1.5,NA,1.66,6.4
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,"Dug Well",W26326,2013,1.55,NA,2.75,3.65
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,"Jagdalpur-s PZ","Bore Well",W31192,2013,13.05,15.97,13.18,18.2
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2013,1.2,3.28,2.67,3.425
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2012,NA,3.34,2.48,6.24
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,"Jagdalpur-s PZ","Bore Well",W31192,2012,NA,NA,14.97,NA
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2012,NA,8.24,NA,10.78
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2012,NA,5.55,3.26,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2012,NA,2.7,3.41,3.21
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2012,NA,NA,2.63,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2012,NA,NA,3.63,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2012,NA,7.2,'0.89,8.4
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2012,NA,4.58,2.68,6.28
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2012,NA,4.7,NA,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2012,NA,7.45,5.28,9.63
+CG,Bastar,Jagdalpur,Bastar,19.25916667,81.88555556,Balenga,"Dug Well",W21648,2012,NA,NA,3.07,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur.1,"Dug Well",W26025,2012,NA,NA,4.13,NA
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,"Pharasgaon1  PZ","Bore Well",W26239,2012,NA,NA,9.93,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,"Dug Well",W26326,2012,NA,NA,1.59,NA
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2012,NA,3.15,NA,1.11
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2011,NA,NA,3.32,NA
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2011,2.62,2.4,4.1,4.7
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2011,2.09,2.75,2.95,4.05
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2011,7.39,8.73,4.28,10.73
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2011,3.91,5.2,4.3,9.7
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2011,NA,NA,14.42,15.97
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2011,8.04,6.85,7.05,9.05
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2011,'0.22,NA,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2011,3.09,NA,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2011,'0.65,1.55,2.25,7.3
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2011,4.33,3.03,3.7,5.68
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2011,3.19,5,3.96,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2011,'0.34,2.95,2.35,3.55
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2010,NA,4.7,NA,NA
+CG,Bastar,Jagdalpur,Bastar,19.21166667,81.86222222,Jhartarai,"Dug Well",W21649,2010,NA,1.9,NA,NA
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2010,NA,11.02,3.08,NA
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2010,NA,5.96,NA,NA
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2010,NA,2.55,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2010,NA,8.1,1.8,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2010,NA,3.62,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2010,NA,4.03,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2010,NA,5.5,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2010,NA,4.25,'0.5,NA
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2010,NA,3.32,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2010,NA,4.97,'0.63,NA
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2010,NA,6.2,NA,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2010,NA,7.45,2.75,NA
+CG,Bastar,Bastar,Bastar,19.37111111,81.90722222,Kesharpal1,"Dug Well",W21620,2010,NA,2.12,NA,NA
+CG,Bastar,Jagdalpur,Bakaband,19.36388889,82.085,Karpawand,"Dug Well",W21621,2010,NA,3.92,NA,NA
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,"Dug Well",W21633,2010,NA,1.68,NA,NA
+CG,Bastar,Jagdalpur,Tokapal,19.10611111,81.72444444,Targaon,"Dug Well",W21634,2010,NA,6.41,NA,NA
+CG,Bastar,Jagdalpur,Bastar,19.25916667,81.88555556,Balenga,"Dug Well",W21648,2010,NA,2.68,NA,NA
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2010,NA,2.84,1.57,NA
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2009,'0.69,6.82,NA,NA
+CG,Bastar,Jagdalpur,Bastar,19.21166667,81.86222222,Jhartarai,"Dug Well",W21649,2009,'0.25,1.53,2.8,5.25
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2009,'0.81,3.05,3.18,NA
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2009,3.08,8.68,NA,16.26
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2009,3.49,5.32,4.4,18.3
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2009,1.45,2.21,1.54,2.6
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2009,1.91,7.8,5.83,11.9
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2009,1,3.77,2.02,4.15
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2009,'0.06,4.94,2.48,6.94
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2009,'0.9,6.7,4.01,6.99
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2009,'0.25,4.45,2.05,8.4
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2009,NA,4.4,4.21,6.45
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2009,NA,3.97,NA,7.87
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2009,'0.9,4.58,3.86,6.01
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2009,'0.54,4.23,4.16,6.14
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2009,2.3,5.1,4.47,6.57
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2009,NA,4.67,NA,NA
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2009,NA,4.2,NA,6.56
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2009,NA,4.37,NA,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2009,3.45,7.7,5.96,8.75
+CG,Bastar,Bastar,Bastar,19.37111111,81.90722222,Kesharpal1,"Dug Well",W21620,2009,'0.8,2.52,1.63,3.55
+CG,Bastar,Jagdalpur,Bakaband,19.36388889,82.085,Karpawand,"Dug Well",W21621,2009,'0.94,4.88,2.29,4.35
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,"Dug Well",W21633,2009,'0.11,1.8,1.1,2.71
+CG,Bastar,Jagdalpur,Tokapal,19.10611111,81.72444444,Targaon,"Dug Well",W21634,2009,'0.61,5.2,NA,NA
+CG,Bastar,Tokapal,Tokapal,19.015,81.82444444,Raikot,"Dug Well",W21635,2009,1.29,3.2,NA,NA
+CG,Bastar,Jagdalpur,Bastar,19.25916667,81.88555556,Balenga,"Dug Well",W21648,2009,'0.61,2.6,2.35,3.11
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2009,'0.71,3.64,3.66,4.4
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2008,1.02,6.39,4.86,8.42
+CG,Bastar,Jagdalpur,Bastar,19.21166667,81.86222222,Jhartarai,"Dug Well",W21649,2008,'0.75,NA,'0.34,5
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2008,1.05,3.11,2.2,5.85
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2008,3.3,7,5.12,NA
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2008,3.27,5.47,4.17,7.77
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2008,1.02,2.57,1.47,2.77
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2008,2.1,7.5,4.4,11.1
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2008,NA,3.93,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2008,1.35,3.68,2.52,5.4
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2008,2.09,3.76,3.29,7.64
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2008,NA,6.14,4.29,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2008,'0.4,6.24,1.3,8.3
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2008,1,4.02,2.34,6.95
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2008,3.17,4.17,1.21,NA
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2008,'0.78,3.35,2.46,6.68
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2008,'0.53,3.78,2.36,6.03
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2008,3.5,4.1,4.35,3.9
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2008,1.32,1.34,NA,3.77
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2008,'0.26,1.7,'0.83,NA
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2008,2.17,4.21,3.27,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2008,5.05,6.78,5.06,10.15
+CG,Bastar,Bastar,Bastar,19.37111111,81.90722222,Kesharpal1,"Dug Well",W21620,2008,1.05,NA,1.52,3.6
+CG,Bastar,Jagdalpur,Bakaband,19.36388889,82.085,Karpawand,"Dug Well",W21621,2008,1.15,NA,3.7,5.8
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,"Dug Well",W21633,2008,'0.5,NA,'0.77,3.8
+CG,Bastar,Jagdalpur,Tokapal,19.10611111,81.72444444,Targaon,"Dug Well",W21634,2008,1.1,NA,3.5,7.7
+CG,Bastar,Tokapal,Tokapal,19.015,81.82444444,Raikot,"Dug Well",W21635,2008,'0.85,NA,NA,10.3
+CG,Bastar,Jagdalpur,Bastar,19.25916667,81.88555556,Balenga,"Dug Well",W21648,2008,'0.9,NA,2.5,5.67
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2008,'0.2,3.24,1.48,4.16
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2007,1.09,5.52,5.12,7.97
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2007,3.73,5.43,4.87,8.37
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2007,1.17,2.77,2.61,3.56
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2007,2.25,7.78,6.51,12.92
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2007,3.1,5.52,4.07,8.53
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2007,1.42,2.82,1.92,3.91
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2007,2.6,6.7,4.6,10.94
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2007,'0.82,4.1,2.8,4.77
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2007,1.27,3.1,3.47,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2007,'0.19,2.44,2.32,8.12
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2007,'0.74,2.85,3.77,6.74
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2007,1.68,1.8,3.6,6.81
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2007,'0.5,3.9,2.47,8.35
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2007,4.52,3.57,1.87,NA
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2007,'0.55,4.68,1.84,5.5
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2007,'0.21,3.23,2.34,5.58
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2007,3.5,5.8,3.97,6.93
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2007,'0.69,1.35,1.21,1.74
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2007,'0.02,NA,NA,NA
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2007,1.21,NA,3.27,NA
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2007,'0.02,2,2.12,4.88
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2006,'0.76,6,2.45,6.26
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2006,2.91,6.76,3.17,9.06
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2006,NA,4.55,NA,NA
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2006,1.26,2.96,1.9,4.67
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2006,2.53,7.95,3.7,15.3
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2006,1.45,7.42,4.08,NA
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,2006,'0.91,8.8,NA,NA
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2006,1.13,2.46,2.35,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2006,'0.87,5.37,3.15,10.37
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2006,NA,4.34,1.61,4.25
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2006,1.22,3.11,NA,5.07
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2006,'0.34,4.28,1.72,4.26
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2006,1.28,4.74,1.49,4.11
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2006,'0.24,2.29,'0.36,6.08
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2006,NA,4.73,2.05,7.31
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2006,NA,5.63,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2006,'0.9,3.49,2.04,5.58
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2006,'0.3,3.58,1.08,5.4
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2006,1.84,4.41,3.78,5.24
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2006,'0.65,1.33,1.05,1.48
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2006,NA,1.74,NA,1.7
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2006,NA,4.01,NA,2.23
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2006,'0.1,4.96,'0.43,6.27
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2005,1.29,6.16,3.82,7.8
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,"Dug Well",W18516,2005,3.25,6.23,4.5,8.85
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2005,2.36,3.13,2.4,6.6
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,2005,1.02,4.2,1.12,6
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2005,3.44,4.98,2.5,7.3
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2005,1.22,2.97,2.1,4.65
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2005,3.23,7.5,3.31,13.8
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2005,3.91,12.17,3.47,9.22
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,2005,9.35,8.69,7.82,9.92
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2005,1.51,3.04,1.62,3.46
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2005,1.53,4.75,2.18,9.5
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2005,'0.78,4,'0.85,5.45
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2005,1.3,3.97,1.3,9.07
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2005,'0.83,7.04,1.39,8.14
+CG,Bastar,Jagdalpur,Jagdalpur,19.1,82.18333333,Nagarnar1,"Dug Well",W11377,2005,'0.86,6,2.6,6.4
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2005,'0.44,2.33,'0.6,6.35
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2005,2.27,4.28,3.35,6
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2005,5.96,3.22,4.34,6.89
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2005,'0.92,3.34,2.68,5.58
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2005,'0.83,3.03,1.93,5.48
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2005,3.3,5.32,3.45,5.85
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2005,'0.63,1.27,'0.97,1.65
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2005,'0.39,1.79,'0.56,3.86
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2005,2.84,4.19,2.77,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,2005,NA,3.97,NA,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,2005,NA,3.88,NA,NA
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,2005,NA,6.89,NA,NA
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,2005,NA,6.99,NA,7.75
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2004,'0.66,5.32,4.89,7.67
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,2004,NA,5.8,NA,9.08
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2004,'0.05,2.4,1.5,6.17
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,2004,1.07,3.15,2.1,6.58
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2004,1.53,4.45,3.53,6.61
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2004,1.1,2.75,2.21,4.36
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2004,2.54,6.45,4.06,12.79
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2004,3.25,6.62,5.54,9.56
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,2004,6.2,8.97,NA,9.69
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2004,1.35,2.07,1.64,4.47
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2004,1.05,4.2,2.26,9.87
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2004,'0.65,2.8,1.61,5.44
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2004,1.28,2.6,2.06,4.48
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2004,'0.22,3.74,3.13,5.22
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2004,'0.28,1.45,'0.72,6.68
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,2004,2.3,NA,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2004,'0.5,3.4,2.48,6.27
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2004,1.55,2.47,1.08,6.81
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2004,'0.52,3.33,1.49,5.79
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,2004,3.39,6.07,4.18,9.25
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2004,'0.3,2.95,1.14,5.63
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,2004,NA,3.9,NA,11.5
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,2004,NA,NA,2.13,8.49
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2004,NA,NA,4.1,4.91
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2004,'0.5,1.02,1.1,1.61
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2004,NA,'0.86,NA,3.91
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2004,1.3,3.42,3.56,7.61
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur-2,"Dug Well",W11419,2004,NA,3.7,NA,2.31
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,2004,1.12,3.67,2.02,5.12
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,2004,NA,2.5,2.48,NA
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,2004,2.42,5.65,3.75,NA
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2003,'0.95,7.35,NA,9.02
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,2003,1.05,8.25,NA,10.22
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2003,1.3,6.07,NA,8.47
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,2003,'0.95,5.6,NA,6.71
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2003,4.06,5.9,NA,8.06
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2003,'0.85,3.57,NA,6.95
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2003,5.8,12.66,NA,17.18
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2003,1.64,NA,NA,12.29
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,2003,5.22,9.42,NA,10.22
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2003,1.02,4.87,NA,4.98
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2003,1.3,8.3,NA,11.8
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2003,'0.85,5.4,NA,6.65
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2003,NA,14.62,NA,16.22
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2003,1,4.12,NA,5.5
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2003,'0.24,7.36,NA,10.22
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,"Dug Well",W11378,2003,1.51,NA,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2003,'0.35,4.6,NA,7.55
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,2003,NA,6.1,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2003,2.5,8.11,NA,8.1
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2003,8.29,8,NA,11.49
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2003,1.68,4.86,NA,7.89
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,2003,6.16,9.44,NA,11.23
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2003,1.15,5.28,NA,6.95
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,2003,8.42,8.4,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,2003,7.3,8.95,NA,NA
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2003,1.25,3.6,NA,8.54
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2003,-0.23,'0.92,NA,2.41
+CG,Bastar,Makdi,Makdi,19.7375,81.925,Belgaon,"Dug Well",W11412,2003,'0.19,NA,NA,NA
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2003,1.97,6.07,NA,8.17
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur-2,"Dug Well",W11419,2003,'0.85,5.1,NA,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,2003,1.77,4.75,NA,7.22
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,2003,'0.33,3.65,NA,NA
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,2003,'0.65,9.85,NA,NA
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2002,3.28,6.63,6.44,8.5
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2002,2.67,3.6,4.83,7.52
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,2002,'0.99,4.74,4.37,6.96
+CG,Bastar,Jagdalpur,"Bastanar (bade Kilew",18.95833333,81.575,Bastanar,"Dug Well",W11359,2002,NA,4.07,NA,5.66
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2002,3.38,5.12,4.77,7.66
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2002,1.29,3,3.29,4.79
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2002,6.41,10.13,19.12,15.5
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2002,3.2,NA,9.93,NA
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,2002,5.53,8.87,9.1,9.91
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2002,1.09,2.89,2.92,5.81
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2002,3.36,6.98,5.89,10.69
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2002,1.13,4.33,4.57,5.3
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2002,9.77,11.2,14.83,14.46
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2002,'0.82,3.24,3.59,6.03
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2002,'0.08,NA,4.02,6.22
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2002,'0.71,3.26,2,7.3
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,2002,NA,4.51,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2002,2.69,4.34,5.05,6.62
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2002,7.49,5.92,7.02,8.79
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2002,2.22,3,4.92,7.28
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,2002,4.13,4.9,5.25,11.02
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2002,3.18,3.11,5,5.87
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,2002,7.41,6.54,7.36,9.69
+CG,Bastar,Kondagaon,Kondagaon,19.37638889,81.54722222,Mardapal-2,"Dug Well",W11403,2002,4.04,NA,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,2002,8.14,NA,8.33,11.17
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2002,1.45,NA,4.86,8.94
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2002,'0.06,NA,NA,NA
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2002,4.37,5.11,5.32,5.67
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,2002,3.52,3.95,4.26,5.77
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,2002,'0.53,2.94,2.99,4.17
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,2002,1.6,NA,7.09,9.36
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,2001,1.2,7.06,NA,9.42
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2001,1.05,7.51,6.22,8.98
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,2001,3.1,10.55,4.9,NA
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2001,'0.15,6.51,'0.61,8.74
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,2001,'0.42,5.04,4.43,NA
+CG,Bastar,Jagdalpur,"Bastanar (bade Kilew",18.95833333,81.575,Bastanar,"Dug Well",W11359,2001,1.74,4.45,3.26,5.88
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2001,1.47,5.44,3.43,7.86
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2001,'0.68,3.26,2.18,4.84
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2001,2.31,9.99,6.02,14.83
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2001,NA,7.35,NA,11.9
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,2001,3.39,8.86,8.27,9.97
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2001,1.06,3.81,2.28,4.36
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2001,'0.75,7.22,4.56,10.09
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2001,'0.75,4.79,3.19,5.28
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2001,6.86,11.93,10.05,15.23
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2001,1.31,3.77,5.08,6.66
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2001,NA,NA,NA,6.28
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2001,'0.35,5.1,1,7.95
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,2001,2.5,4.78,3.23,6.54
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2001,NA,6.29,1.22,7.19
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2001,'0.75,6.16,4.26,8.87
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2001,'0.51,5.06,1.24,7.56
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,2001,'0.39,7.29,4.88,8.89
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2001,'0.15,4.19,1.33,5.89
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,2001,2.06,7.2,4.8,10.62
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,2001,7.25,7.74,NA,NA
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2001,NA,3.31,NA,8.69
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2001,'0.69,1.45,NA,1.95
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2001,1.17,5.4,4.1,5.75
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur-2,"Dug Well",W11419,2001,NA,6.52,NA,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,2001,1.49,4.67,3.02,4.69
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,2001,'0.63,3.54,1.54,NA
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,2000,1.44,6.46,5.35,9
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,2000,'0.93,2.82,NA,NA
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,2000,NA,9.32,9.4,NA
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,2000,4.32,4.81,5.3,NA
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,2000,'0.94,5.33,3.3,4.01
+CG,Bastar,Jagdalpur,"Bastanar (bade Kilew",18.95833333,81.575,Bastanar,"Dug Well",W11359,2000,1.87,3.9,3.47,5.41
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,2000,2.15,4.84,3.94,7.2
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,2000,1.24,2.89,2.77,4.2
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,2000,4.13,9.1,5.97,14.3
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,2000,1.5,7.22,4.45,13.11
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,2000,4.27,8.79,7.92,8.48
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,2000,1.07,3.41,1.64,4.55
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,2000,'0.81,6.24,4.5,9.71
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,2000,'0.59,4.37,3.45,4.67
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,2000,8.95,NA,11.52,14.78
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,2000,'0.78,3.52,2.75,6.08
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,2000,'0.19,4.21,3.54,4.73
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,"Dug Well",W11378,2000,NA,NA,1.8,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,2000,1.42,2.9,2.53,7.52
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,2000,4.9,4.37,4.05,6.48
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,2000,4.67,5.5,3.3,6.45
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,2000,6.34,NA,4.64,NA
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,2000,1.06,4.24,2.98,6.83
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,2000,'0.69,8.14,4.94,9.82
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,2000,'0.01,3.67,2.58,6.19
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,2000,7.05,6.42,6.7,9.65
+CG,Bastar,Kondagaon,Kondagaon,19.37638889,81.54722222,Mardapal-2,"Dug Well",W11403,2000,NA,NA,4.05,NA
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,2000,7,6.51,2.85,NA
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,2000,NA,2.9,NA,NA
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,2000,1.01,1.27,1.19,1.86
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,2000,1.75,5.18,3.7,5.45
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur-2,"Dug Well",W11419,2000,NA,3.61,4.4,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,2000,2.22,3.77,3.8,4.48
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,2000,4.7,6.33,6,8.67
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,1999,'0.73,3.65,'0.82,7.38
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,"Dug Well",W11378,1999,NA,2.37,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,1999,5.72,4.42,2.99,8.44
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.94027778,Amravati-d,"Bore Well",W11387,1999,NA,NA,NA,10.94
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,1999,'0.55,5.21,1.62,5.92
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,1999,7.55,9.26,7.02,9.86
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,1999,1.55,3.42,1.83,6.09
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,1999,7.06,8.31,4.98,10.8
+CG,Bastar,Kondagaon,Kondagaon,19.37638889,81.54722222,Mardapal-2,"Dug Well",W11403,1999,NA,3.57,NA,NA
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,1999,7.38,8.6,4.91,9.29
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,1999,'0.35,NA,1.29,2.77
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,1999,'0.49,'0.96,1.11,1.37
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,"Bore Well",W11416,1999,2.5,NA,NA,5.92
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur-2,"Dug Well",W11419,1999,'0.46,3.91,1.72,6.86
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,1999,1.82,3.65,2.92,5.54
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,1999,'0.29,2.47,1.35,7.72
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,1999,'0.7,6.88,2.88,9.45
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,1999,3.2,6.42,NA,8.61
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,1999,9.32,6.93,NA,9.32
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,1999,1.74,5.25,'0.87,8.65
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,1999,1.04,4.45,2.89,4.26
+CG,Bastar,Jagdalpur,"Bastanar (bade Kilew",18.95833333,81.575,Bastanar,"Dug Well",W11359,1999,1.45,8.32,2.9,5.39
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,1999,1.41,5.02,3.22,7.38
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,1999,'0.74,2.87,1.43,4.77
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,"Bore Well",W11363,1999,NA,14.07,NA,NA
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,1999,1.95,4.55,4.17,8.2
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,1999,3.42,8.56,8.04,9.6
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,1999,1.05,2.87,1.75,5.25
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,1999,1.44,6.7,2.34,10.16
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,1999,'0.53,NA,2.6,5.34
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,"Bore Well",W11373,1999,NA,6.66,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,1999,'0.5,3.25,2.12,6.25
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,1999,'0.14,3.69,3.1,7.47
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,1999,4.23,4.04,3.21,6.35
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,1998,'0.99,1.7,3.52,6.69
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,1998,2.86,3.25,2.96,8.12
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,1998,2.38,4.95,4.08,7.02
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,1998,'0.9,4.03,4.54,6.39
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,1998,9.1,6.94,8.36,9.86
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,1998,1.79,3.05,2.32,5.66
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,1998,9.35,7.25,7.75,11.02
+CG,Bastar,Kondagaon,Kondagaon,19.37638889,81.54722222,Mardapal-2,"Dug Well",W11403,1998,NA,NA,2.94,8.58
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,1998,NA,8.05,7.76,9.29
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,1998,NA,'0.97,2.05,NA
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,1998,'0.88,'0.94,1.07,1.46
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur-2,"Dug Well",W11419,1998,'0.88,3.5,2.15,7.02
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,1998,NA,3.48,2.75,5.26
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,1998,NA,2.35,'0.85,13.06
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,1998,1.05,7.85,7.33,9.69
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,1998,1.27,5.7,4.85,8.37
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,1998,NA,6.65,6.61,9.32
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,1998,3.38,3.12,4.28,6.84
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,1998,1.1,4.35,2.81,5.7
+CG,Bastar,Jagdalpur,"Bastanar (bade Kilew",18.95833333,81.575,Bastanar,"Dug Well",W11359,1998,2.46,3.87,3.68,5.45
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,1998,2.79,4.86,3.37,7.3
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,1998,1.09,2.81,2,4.14
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,1998,3.84,4.51,4.11,13.01
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,1998,6.82,8.82,6.02,4.83
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,1998,1.34,1.97,1.28,4.74
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,1998,4.82,8.08,4.52,6.6
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,1998,1.34,2.66,2.2,4.73
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,1998,'0.55,3.4,2.73,7.35
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,1998,'0.47,3.72,2,5.91
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,"Dug Well",W11378,1998,1.18,1.6,4.02,7.83
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,1997,3.46,4.79,3.17,7.25
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,"Dug Well",W11378,1997,1.75,4.07,1.6,8.2
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,1997,1.1,4.59,3.42,3.46
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,1997,4.6,4.3,2.77,6.25
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,1997,2.15,4.15,1.83,5.26
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,1997,8.2,8.02,7.24,9.94
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,1997,2.05,3.57,1.84,3.77
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,1997,9.48,8.83,8.44,9.7
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,1997,4.43,8.89,6.09,13.35
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,1997,2.2,3,2.21,3.82
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,1997,5.35,5.54,4.5,7.4
+CG,Bastar,Jagdalpur,"Bastanar (bade Kilew",18.95833333,81.575,Bastanar,"Dug Well",W11359,1997,3.4,4.18,3.2,5.69
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,1997,3.04,8.45,2.75,5.6
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,1997,2.45,5.05,2.35,8.45
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,1997,NA,8.7,6.52,9.82
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,1997,1.65,6.92,4,8.77
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,1997,8.4,7.47,7.17,9.09
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,1997,3.59,3.35,1.12,8.52
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,1997,3.68,4.04,2.9,5.95
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur-2,"Dug Well",W11419,1997,1.35,4.66,2.01,8.69
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,1997,1.92,1.37,1.02,1.37
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,1997,1,NA,2.04,7.5
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,1997,6.04,6.3,6.87,9.94
+CG,Bastar,Kondagaon,Kondagaon,19.37638889,81.54722222,Mardapal-2,"Dug Well",W11403,1997,NA,NA,NA,6.85
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,1997,9.85,6.85,7.25,9.88
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,1997,4.9,3.58,2.3,5.33
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,1997,9.05,5.02,5.89,8.62
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,1997,3.58,3.43,2.78,4.66
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,1997,6.04,5.01,4.04,6.66
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,1997,1.1,4.5,'0.72,7.38
+CG,Bastar,Darbha,Darbha,18.86805556,81.87083333,Darbha,"Dug Well",W11367,1996,4.42,8.93,8.21,9.53
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,"Dug Well",W11384,1996,3.8,4.18,3.8,6.29
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,"Dug Well",W11382,1996,1.48,2.37,1.44,6.72
+CG,Bastar,Tokapal,Tokapal,19.15,81.80277778,Badanji-2,"Dug Well",W11449,1996,'0.35,6.78,5.5,8.99
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,"Bare arapur","Dug Well",W11366,1996,3.25,7.28,5.4,10.87
+CG,Bastar,Pharasgaon,Pharasgaon,19.80555556,81.53333333,Badedongar-1,"Dug Well",W11441,1996,'0.35,2.72,2.05,4.21
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,"Dug Well",W11371,1996,1.49,3.5,2.4,4.94
+CG,Bastar,Pharasgaon,Pharasgaon,19.83888889,81.56944444,Alor,"Dug Well",W11440,1996,1.48,3.87,3.15,5.78
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,"Dug Well",W11361,1996,'0.97,2.9,2.3,4.68
+CG,Bastar,Makdi,Makdi,19.71944444,81.74583333,Narayanpur-2,"Dug Well",W11419,1996,NA,NA,NA,9.1
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,"Dug Well",W11376,1996,'0.2,3.85,3.09,7.86
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,"Dug Well",W11411,1996,'0.17,1.38,1.08,1.58
+CG,Bastar,"Bastanar (bade Kilew","Bastanar (bade Kilew",18.98333333,81.62083333,Kilepal,"Dug Well",W11360,1996,2.5,5.45,3.85,7.73
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,"Dug Well",W11408,1996,'0.55,4.74,2.86,6.9
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,"Dug Well",W11370,1996,3.12,7.22,4.95,9.92
+CG,Bastar,Kondagaon,Kondagaon,19.66111111,82.02083333,Yerla,"Dug Well",W11407,1996,3.05,6.03,3.97,9.29
+CG,Bastar,Jagdalpur,"Bastanar (bade Kilew",18.95833333,81.575,Bastanar,"Dug Well",W11359,1996,2.35,4.18,3.35,5.43
+CG,Bastar,Kondagaon,Kondagaon,19.37638889,81.54722222,Mardapal-2,"Dug Well",W11403,1996,NA,NA,NA,6.3
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,"Dug Well",W11378,1996,NA,NA,NA,8.99
+CG,Bastar,Kondagaon,Kondagaon,19.58333333,81.66666667,Kondagaon-1,"Dug Well",W11400,1996,5.85,6.38,4.61,9.58
+CG,Bastar,Bakaband,Bakaband,19.28333333,82.1,Bakawand-1,"Dug Well",W11355,1996,1.06,5.55,2.92,4.98
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,"Dug Well",W11398,1996,'0.5,3.42,1.47,5.84
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,"Dug Well",W11368,1996,1.32,2.5,1.62,6.51
+CG,Bastar,Kondagaon,Kondagaon,19.46944444,81.72222222,Dahikonga-2,"Dug Well",W11395,1996,2.52,4.73,5.81,8.98
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,"Dug Well",W11350,1996,1.55,4,2.36,7.12
+CG,Bastar,Kondagaon,Kondagaon,19.61111111,81.79722222,Chimpawad,"Dug Well",W11393,1996,'0.46,2.64,1.66,5.14
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,"Dug Well",W11375,1996,'0.9,3.87,2.7,5.47
+CG,Bastar,Kondagaon,Kondagaon,19.60555556,81.93888889,Amravati-1,"Dug Well",W11386,1996,1.02,2.58,3.75,6.62
+CG,Bastar,Baderajpur,Baderajpur,20.01666667,81.85833333,Marangpuri,"Dug Well",W11348,1996,NA,6.68,6.55,9.32
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,"Dug Well",W11345,1996,2.1,6.44,5.32,8.76

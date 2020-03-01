@@ -1,0 +1,441 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2018,2.11,2.56,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68777778,88.21722222,Hemtabad,"Dug Well",W10944,2018,4.61,4.02,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2018,'0.56,2.61,NA,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,2018,1.58,2.53,NA,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.76138889,87.95833333,Tungidighi,"Dug Well",W29401,2018,3.05,3.88,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2018,NA,3.62,NA,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2018,2.5,NA,NA,4
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2018,NA,NA,NA,4.37
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63055556,88.35027778,Dhankal,"Bore Well",W29351,2018,NA,NA,NA,4.53
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2018,NA,2.87,NA,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2017,NA,2.55,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.30666667,88.2625,Madaripur,"Dug Well",W29535,2017,NA,2.19,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2017,NA,2.44,NA,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2017,NA,NA,3.12,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,2017,NA,NA,4.45,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2017,NA,2.49,2.2,2.56
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2017,NA,4.29,4.5,6.94
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2017,NA,2.47,1.95,3.27
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2017,NA,3.11,1.82,2.41
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,2017,NA,2.12,1.9,2.58
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2017,NA,2.91,2.27,3.2
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68777778,88.21722222,Hemtabad,"Dug Well",W10944,2017,NA,NA,3.88,6
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2017,NA,3.25,2.67,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2017,NA,2.67,NA,3.35
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63055556,88.35027778,Dhankal,"Bore Well",W29351,2017,NA,2.3,4.55,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.76138889,87.95833333,Tungidighi,"Dug Well",W29401,2017,NA,NA,NA,4.14
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2017,NA,4.51,NA,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,2016,4.02,NA,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74861111,88.30361111,Barakamat2,"Dug Well",W29397,2016,NA,2.78,NA,3.05
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2016,1.18,NA,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2016,4.37,NA,NA,7.63
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2016,2.18,NA,NA,5.1
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2016,'0.9,NA,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2016,'0.53,NA,NA,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2016,1.46,NA,NA,6.17
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2016,2.26,NA,NA,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2016,2.19,NA,NA,5.58
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2016,2.64,NA,NA,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,2016,2.36,NA,NA,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2016,2.96,NA,NA,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.76138889,87.95833333,Tungidighi,"Dug Well",W29401,2016,NA,3.59,NA,6.02
+WB,"Uttar Dinajpur",Islampur,Islampur,26.25027778,88.1775,Molani1,"Dug Well",W31767,2016,NA,3.34,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.25,88.17722222,"Islampur Pz","Tube Well",W29517,2016,NA,3.12,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.30666667,88.2625,Madaripur,"Dug Well",W29535,2016,NA,3.64,NA,5.72
+WB,"Uttar Dinajpur",Chopra,Chopra,26.36027778,88.30777778,"Chopra Pz","Tube Well",W29552,2016,NA,4.99,NA,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.31805556,88.16333333,Baidra,"Tube Well",W29222,2016,NA,9.27,NA,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.35916667,88.15166667,Durgapur1,"Tube Well",W29233,2016,NA,2.58,NA,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.47138889,88.25305556,Patirajpur,"Tube Well",W29268,2016,NA,4.84,NA,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.49416667,88.17583333,"Itahar Pz","Tube Well",W29279,2016,NA,2.76,NA,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.57888889,88.27305556,Koonar,"Tube Well",W29317,2016,NA,5.85,NA,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63055556,88.35027778,Dhankal,"Bore Well",W29351,2016,NA,3.7,NA,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.64361111,88.29527778,Baghan,"Tube Well",W29359,2016,NA,4.64,NA,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.65527778,88.15638889,"Karnojora (Raiganj)","Tube Well",W29366,2016,NA,5.99,NA,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2016,2.12,NA,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2015,2.26,3.67,3.27,5.27
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74861111,88.30361111,Barakamat2,"Dug Well",W29397,2015,1.62,1.82,2.46,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2015,'0.55,2.32,2.21,2.75
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2015,1.15,2.31,2.23,3.48
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.76138889,87.95833333,Tungidighi,"Dug Well",W29401,2015,1.71,2.87,2.94,4.26
+WB,"Uttar Dinajpur",Islampur,Islampur,26.25,88.17722222,"Islampur Pz","Tube Well",W29517,2015,'0.81,2.51,2.33,3.28
+WB,"Uttar Dinajpur",Islampur,Islampur,26.30666667,88.2625,Madaripur,"Dug Well",W29535,2015,NA,2.86,NA,1.53
+WB,"Uttar Dinajpur",Chopra,Chopra,26.36027778,88.30777778,"Chopra Pz","Tube Well",W29552,2015,4.18,NA,5.27,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.31805556,88.16333333,Baidra,"Tube Well",W29222,2015,2.98,7.58,6.79,9.47
+WB,"Uttar Dinajpur",Itahar,Itahar,25.35916667,88.15166667,Durgapur1,"Tube Well",W29233,2015,'0.93,2.45,2.26,2.9
+WB,"Uttar Dinajpur",Itahar,Itahar,25.47138889,88.25305556,Patirajpur,"Tube Well",W29268,2015,2.9,4.47,2.27,5.57
+WB,"Uttar Dinajpur",Itahar,Itahar,25.49416667,88.17583333,"Itahar Pz","Tube Well",W29279,2015,1.26,2.44,2.09,4.09
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.57888889,88.27305556,Koonar,"Tube Well",W29317,2015,1.9,2.99,3.4,5.04
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63055556,88.35027778,Dhankal,"Bore Well",W29351,2015,1.4,2.14,2.02,4.19
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.64361111,88.29527778,Baghan,"Tube Well",W29359,2015,2.52,4.34,4.29,5.93
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.65527778,88.15638889,"Karnojora (Raiganj)","Tube Well",W29366,2015,4.49,5.72,5.53,6.81
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2015,'0.86,2.64,2.1,3.55
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2014,3.18,3.74,NA,5.93
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74861111,88.30361111,Barakamat2,"Dug Well",W29397,2014,3,1.58,1.25,2.61
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2014,3.22,2.23,NA,3.06
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2014,1.58,2.26,NA,3.94
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2014,2.53,3.28,NA,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2014,NA,2.73,NA,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.76138889,87.95833333,Tungidighi,"Dug Well",W29401,2014,2.62,2.85,2.65,4.7
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.87333333,87.86472222,"Dalkhola (Haripur)","Tube Well",W31751,2014,4.2,NA,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.25027778,88.1775,Molani1,"Dug Well",W31767,2014,2.37,NA,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.25,88.17722222,"Islampur Pz","Tube Well",W29517,2014,1.15,2.45,2.52,3.42
+WB,"Uttar Dinajpur",Islampur,Islampur,26.30666667,88.2625,Madaripur,"Dug Well",W29535,2014,2.35,2.06,1.37,5.01
+WB,"Uttar Dinajpur",Chopra,Chopra,26.36027778,88.30777778,"Chopra Pz","Tube Well",W29552,2014,2.95,NA,NA,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.31805556,88.16333333,Baidra,"Tube Well",W29222,2014,4.25,7.36,3.86,10.73
+WB,"Uttar Dinajpur",Itahar,Itahar,25.35916667,88.15166667,Durgapur1,"Tube Well",W29233,2014,2,2.47,2.21,3.19
+WB,"Uttar Dinajpur",Itahar,Itahar,25.47138889,88.25305556,Patirajpur,"Tube Well",W29268,2014,3.6,4.41,3.39,7.53
+WB,"Uttar Dinajpur",Itahar,Itahar,25.49416667,88.17583333,"Itahar Pz","Tube Well",W29279,2014,2.02,2.3,1.89,4.87
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.57888889,88.27305556,Koonar,"Tube Well",W29317,2014,1.6,2.9,2.62,7.88
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63055556,88.35027778,Dhankal,"Bore Well",W29351,2014,1.8,2.05,1.71,4.67
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.64361111,88.29527778,Baghan,"Tube Well",W29359,2014,4.8,3.83,3.5,6.35
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.65527778,88.15638889,"Karnojora (Raiganj)","Tube Well",W29366,2014,3.35,5.65,5.26,7.39
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2014,2.85,2.46,NA,3.49
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2013,NA,5.16,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74861111,88.30361111,Barakamat2,"Dug Well",W29397,2013,1.1,3.08,'0.9,NA
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2013,NA,2.32,NA,3.16
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2013,3.69,5.14,2.83,5.83
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2013,1.92,3.16,1.78,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2013,NA,3.15,NA,3.63
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2013,NA,3.05,NA,3.1
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2013,1.91,3.31,1.79,3.57
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2013,NA,4.2,NA,5.62
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2013,1.28,4.22,1.25,4.1
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2013,2.75,4.82,NA,5.24
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2013,2.17,NA,2.29,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2013,NA,3.08,NA,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2013,NA,3.51,NA,5.07
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.76138889,87.95833333,Tungidighi,"Dug Well",W29401,2013,1.71,3.51,2.04,5.07
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.87333333,87.86472222,"Dalkhola (Haripur)","Tube Well",W31751,2013,'0.9,3.02,1.54,4.14
+WB,"Uttar Dinajpur",Islampur,Islampur,26.25027778,88.1775,Molani1,"Dug Well",W31767,2013,NA,4.42,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.25,88.17722222,"Islampur Pz","Tube Well",W29517,2013,'0.95,3.15,1.62,3.63
+WB,"Uttar Dinajpur",Islampur,Islampur,26.30666667,88.2625,Madaripur,"Dug Well",W29535,2013,'0.31,NA,'0.38,4.89
+WB,"Uttar Dinajpur",Chopra,Chopra,26.36027778,88.30777778,"Chopra Pz","Tube Well",W29552,2013,NA,5.16,NA,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.31805556,88.16333333,Baidra,"Tube Well",W29222,2013,5.56,6.5,5.99,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.35916667,88.15166667,Durgapur1,"Tube Well",W29233,2013,2.01,3.2,1.95,3.62
+WB,"Uttar Dinajpur",Itahar,Itahar,25.47138889,88.25305556,Patirajpur,"Tube Well",W29268,2013,3.73,5.06,3.34,8.12
+WB,"Uttar Dinajpur",Itahar,Itahar,25.49416667,88.17583333,"Itahar Pz","Tube Well",W29279,2013,2.74,4.2,1.68,5.62
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.57888889,88.27305556,Koonar,"Tube Well",W29317,2013,NA,4.5,2.24,6.66
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63055556,88.35027778,Dhankal,"Bore Well",W29351,2013,1.7,NA,1.48,5.3
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.64361111,88.29527778,Baghan,"Tube Well",W29359,2013,3.25,4.87,3.16,6.38
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.65527778,88.15638889,"Karnojora (Raiganj)","Tube Well",W29366,2013,5.75,NA,5.08,7.7
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2013,NA,4.42,NA,NA
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2012,NA,NA,1.92,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74861111,88.30361111,Barakamat2,"Dug Well",W29397,2012,NA,NA,2.26,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2012,NA,2.57,2.53,4.1
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2012,NA,NA,1.86,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2012,NA,NA,1.72,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2012,NA,2.31,2.57,3.32
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2012,NA,NA,2.83,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2012,NA,2.53,2.24,3.7
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2012,NA,3.46,3.76,5.12
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2012,NA,2.9,NA,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2012,NA,NA,2.26,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2012,NA,NA,3.17,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.76138889,87.95833333,Tungidighi,"Dug Well",W29401,2012,NA,NA,3.17,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.87333333,87.86472222,"Dalkhola (Haripur)","Tube Well",W31751,2012,NA,NA,2.39,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.25,88.17722222,"Islampur Pz","Tube Well",W29517,2012,NA,NA,1.86,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.36027778,88.30777778,"Chopra Pz","Tube Well",W29552,2012,NA,NA,3.27,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.31805556,88.16333333,Baidra,"Tube Well",W29222,2012,NA,NA,6.21,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.35916667,88.15166667,Durgapur1,"Tube Well",W29233,2012,NA,NA,2.65,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.47138889,88.25305556,Patirajpur,"Tube Well",W29268,2012,NA,NA,4.28,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.49416667,88.17583333,"Itahar Pz","Tube Well",W29279,2012,NA,NA,2.83,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.57888889,88.27305556,Koonar,"Tube Well",W29317,2012,NA,NA,3.32,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.64361111,88.29527778,Baghan,"Tube Well",W29359,2012,NA,NA,4.26,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2012,NA,3.74,4.2,5.96
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2011,NA,4.48,NA,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2011,NA,3.14,NA,NA
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2011,NA,2.64,NA,4.07
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2011,2.34,4.19,3.37,5.51
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2011,1.46,2.85,2.09,4.12
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2011,NA,2.45,NA,3.17
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2011,NA,3.33,NA,5.05
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2011,1.54,2.35,2.27,2.34
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2011,NA,2.5,NA,4.79
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2011,1.28,2.41,2.32,3.87
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2011,2.19,3.42,2.99,4.8
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2011,1.76,NA,2.61,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2011,NA,2.21,NA,2.23
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2011,NA,2.38,NA,2.78
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2010,2.29,3.6,3.75,3.46
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2010,1.32,4.1,NA,4.27
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2010,NA,NA,2.12,2.99
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2010,3.85,4.22,3.21,5.91
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2010,1.87,3.15,2.17,3.75
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2010,'0.53,2.01,1.89,3.23
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2010,2.83,2.95,2.85,4.56
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2010,1.34,2.81,2.02,3.52
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2010,2.45,3.67,1.92,5.43
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2010,'0.97,3.43,NA,3.95
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2010,2.42,3.22,2.78,5.06
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2010,1.98,2.8,2.12,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2010,1.42,2.08,1.58,2.47
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2010,'0.55,3.1,1.7,3.29
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2009,3.05,4.71,3.1,3.82
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2009,1.72,3.69,2.52,4.98
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2009,NA,2.4,NA,3.39
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2009,3.45,3.9,3.73,5.89
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2009,2.4,2.82,2.5,4.29
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2009,NA,4.21,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2009,NA,NA,1.65,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2009,2.11,2.32,2.41,3.53
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2009,1.92,2.64,2.07,3.32
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2009,2.27,2.59,2.47,4.88
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2009,2.72,2.74,3.08,4.49
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2009,2.82,3.32,2.73,5.27
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2009,2.28,4.2,2.45,5.86
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2009,NA,3.81,NA,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2009,1.2,2.13,1.4,1.83
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2009,2.11,4.51,3.2,3.82
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2008,NA,3.68,3.86,3.97
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2008,1.85,3.53,2.77,4.69
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2008,'0.69,2.7,1.77,3.19
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2008,NA,3.88,3.26,6.54
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2008,1.7,2.7,2.07,3.92
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2008,NA,3.17,NA,4.74
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2008,'0.42,NA,1.75,3.68
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2008,'0.52,2.48,1.73,3.34
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2008,1.5,3.07,2.13,3.31
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2008,1.57,2.64,2.04,5.41
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2008,1.08,2.86,2.1,4.11
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2008,2.53,3.49,3.19,4.99
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2008,NA,3.32,1.1,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2008,2.57,3.9,3.13,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2008,'0.7,2.34,1.5,2.42
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2008,1,NA,1.97,4.48
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2007,1.42,3.68,3.01,4.24
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2007,'0.96,2.7,2.23,3.2
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2007,2.61,3.88,3.15,6.6
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2007,'0.99,2.7,2,3.93
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2007,1.96,3.53,3.04,5.08
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2007,2.33,2.64,2.1,6.09
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2007,2.25,3.49,2.82,4.94
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2007,3.03,3.9,3.5,6.08
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2007,1.46,3.07,2.48,3.84
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2006,'0.81,1.85,1.77,5.64
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68666667,88.27166667,Samaspurhat-2,"Dug Well",W20873,2006,NA,NA,NA,3.85
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2006,1.42,2.17,3.01,3.04
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,26.11222222,88.01444444,Dharampur,"Tube Well",W10939,2006,NA,2.48,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,2006,NA,1.1,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2006,2.61,3.4,3.15,5.25
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2006,'0.99,2.25,2,3.78
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2006,NA,2.9,NA,4.24
+WB,"Uttar Dinajpur",Islampur,Islampur,26.24416667,88.23972222,Islampur-1,"Tube Well",W10951,2006,NA,2.23,NA,3.28
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2006,NA,1.58,NA,3.05
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2006,1.46,2.25,2.48,3.37
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2006,1.96,1.91,3.04,4.02
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2006,NA,2.56,NA,4.1
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2006,2.25,3.6,2.82,4.64
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2006,NA,2.54,NA,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2006,3.03,3.17,3.5,4.97
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2006,NA,1.4,NA,2.47
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.69722222,88.26694444,Samaspurhat-1,"Dug Well",W11298,2006,NA,2.18,NA,3.85
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2006,'0.96,3,2.23,5
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2006,NA,3.28,NA,4.64
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2005,'0.1,3.15,1.28,4.15
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2005,1.51,3.26,2.36,4.53
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2005,'0.56,NA,1.8,2.96
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,26.11222222,88.01444444,Dharampur,"Tube Well",W10939,2005,3,NA,2.24,4.76
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,26.04833333,88.06777778,Goalpukur,"Tube Well",W10940,2005,2.83,NA,NA,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,2005,NA,1.35,1.04,2.47
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2005,2.23,3.6,2.69,5.91
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2005,'0.49,2.37,1.62,3.66
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2005,'0.86,3.16,1.56,4.84
+WB,"Uttar Dinajpur",Islampur,Islampur,26.24416667,88.23972222,Islampur-1,"Tube Well",W10951,2005,'0.7,NA,1.66,3.87
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2005,'0.49,2.35,1.53,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2005,2.03,NA,1.88,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2005,1.39,2.55,1.34,4.49
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,2005,2.34,NA,NA,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2005,1.12,2.47,1.86,3.95
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2005,2.35,3.42,2.32,7.3
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2005,2.3,2.74,2,8.56
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2005,NA,3.47,1.62,5.59
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2005,'0.76,1.59,'0.6,2.68
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.69722222,88.26694444,Samaspurhat-1,"Dug Well",W11298,2005,1.46,1.86,1.5,3.84
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2005,1.5,NA,2.7,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2004,1.57,NA,2.36,5.01
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2004,2.09,2.32,2.34,4.02
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2004,NA,2.42,NA,4.8
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2004,NA,2.5,NA,NA
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,26.11222222,88.01444444,Dharampur,"Tube Well",W10939,2004,2.06,3.45,2.3,5.5
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,26.04833333,88.06777778,Goalpukur,"Tube Well",W10940,2004,NA,3.91,NA,6.05
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,2004,'0.71,1.52,'0.84,3.03
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2004,3.1,3.13,2.38,4.78
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2004,2.15,1.84,1.53,3.6
+WB,"Uttar Dinajpur",Islampur,Islampur,26.31666667,88.33722222,Bhabanipur,"Dug Well",W10947,2004,NA,2.39,NA,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,2004,NA,3.11,NA,4.04
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2004,1.29,2.42,1.85,4.7
+WB,"Uttar Dinajpur",Islampur,Islampur,26.24416667,88.23972222,Islampur-1,"Tube Well",W10951,2004,2.63,3.6,4.6,4.1
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2004,'0.65,2.32,1.58,3.11
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2004,NA,1.51,NA,3.02
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2004,1.12,1.82,1.17,5.01
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,2004,NA,2.6,NA,5.3
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2004,1.87,2.55,1.73,3.44
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2004,2.9,2.08,2.43,4.5
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2004,2.32,1.45,1.88,3.95
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2004,2.48,3.12,2.54,4.62
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.78027778,87.91666667,"Kanki PZ","Bore Well",W10962,2004,1.58,2.42,1.9,3.2
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,2004,NA,1.4,NA,3.72
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.77583333,88.09944444,"Barakamat A","Dug Well",W10964,2004,NA,NA,'0.95,NA
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,2004,NA,1.56,NA,4.5
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75472222,88.17305556,MojgaonA,"Tube Well",W10966,2004,NA,NA,2.95,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.69722222,88.26694444,Samaspurhat-1,"Dug Well",W11298,2004,1.49,NA,1.25,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,2004,NA,1.32,NA,4.61
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2003,1.56,NA,2.06,4.61
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,2003,NA,NA,'0.92,4.32
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2003,NA,NA,1.8,4.86
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2003,NA,2.34,NA,2.07
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,26.11222222,88.01444444,Dharampur,"Tube Well",W10939,2003,NA,NA,2.4,NA
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,26.04833333,88.06777778,Goalpukur,"Tube Well",W10940,2003,NA,NA,2.8,NA
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,2003,'0.62,1.49,'0.32,3.12
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2003,3.38,4.01,2.34,5.02
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2003,1.62,3.12,'0.9,3.3
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,2003,NA,NA,2.04,3.93
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2003,NA,NA,1.78,4.66
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2003,'0.95,2.65,NA,3.32
+WB,"Uttar Dinajpur",Islampur,Islampur,26.24416667,88.23972222,Islampur-1,"Tube Well",W10951,2003,NA,NA,1.15,NA
+WB,"Uttar Dinajpur",Islampur,Islampur,26.27611111,88.25694444,Panjipara,"Dug Well",W10952,2003,NA,NA,1.15,NA
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2003,NA,2.39,1.02,2.71
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2003,NA,2.48,1.06,5.02
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,2003,3.15,3.77,2.18,5.05
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2003,1.71,2.59,1.73,3.23
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2003,2.5,3.56,1.63,4.43
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2003,1.04,2.68,'0.9,4.05
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2003,2.86,3.56,2.25,4.52
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.78027778,87.91666667,"Kanki PZ","Bore Well",W10962,2003,NA,NA,1.47,3.15
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,2003,1.17,3.01,'0.95,4.2
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,2003,NA,2.49,'0.6,4.3
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2003,2.01,3.27,'0.98,3.92
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2002,'0.9,3.65,2.79,4.12
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2002,'0.88,2.23,1.9,3.15
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2002,1.47,3.87,1.83,4.25
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2002,'0.86,2.49,1.97,3.02
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2002,'0.83,3.44,NA,4.6
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2002,NA,NA,NA,4.76
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2002,1.44,3.24,1.58,5.02
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,2002,1.59,3.52,NA,4.11
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,2002,1.06,3.22,1.92,4.07
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,2002,2,1.49,NA,4.5
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2002,1.5,4.33,NA,4.36
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2002,1.13,2.58,1.81,3.05
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2002,1,2.15,1.89,3.8
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.78027778,87.91666667,"Kanki PZ","Bore Well",W10962,2002,1.4,2.3,1.95,3.01
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,2002,'0.33,1.5,1.43,3.13
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2002,2.01,3.84,NA,4.23
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,2002,'0.48,1.8,1.24,4.11
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2002,2.5,3.99,3,4.93
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2002,1.1,2.94,2.26,3.4
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,2002,NA,3.57,NA,4.1
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2002,'0.27,2.69,1.96,2.93
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2001,'0.92,3.05,2.08,3.75
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2001,1.44,NA,1.87,4.46
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,2001,1.35,3.89,2.8,4.34
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2001,1.48,2.09,1.71,4.01
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2001,1.7,5.05,2.54,5.95
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,2001,'0.73,1.74,1.25,5.16
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2001,'0.84,2.82,1.81,3.93
+WB,"Uttar Dinajpur",Chopra,Chopra,26.4,88.3375,Molani,"Dug Well",W10937,2001,NA,NA,NA,3.65
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,2001,2.16,NA,2.38,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2001,2.42,NA,2.48,3.4
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2001,1.34,2.68,2.04,3.46
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2001,1.77,3.95,2.62,5.2
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,2001,1.38,2.97,1.77,5.03
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,2001,'0.09,2.43,1.07,2.9
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.78027778,87.91666667,"Kanki PZ","Bore Well",W10962,2001,'0.36,2.42,2.02,2.3
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2001,1.84,4.18,2.85,5.05
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2001,1.51,3.62,1.77,NA
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2001,1.36,4.25,2.73,4.5
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2001,1.77,3.34,1.91,4.25
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,2001,'0.45,4.24,1.05,5.35
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2001,'0.7,3.77,'0.89,5.02
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,2000,2.33,3.48,2.56,4.28
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,2000,1.64,2.32,2.32,2.57
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,2000,2.26,4.1,3.08,5.06
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,2000,1.8,2.94,2.6,4.29
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35916667,88.33333333,"Chopra Pz","Bore Well",W10935,2000,NA,NA,2.58,3.56
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,2000,'0.84,1.47,1.37,1.13
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.84194444,87.93694444,Altapur,"Dug Well",W10959,2000,2.32,NA,3.07,4.34
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,2000,NA,3.22,3.08,4.25
+WB,"Uttar Dinajpur",Goalpokhar-ii,Goalpokhar-ii,25.98444444,87.93305556,Kanki,"Dug Well",W10938,2000,1.57,NA,2.09,2.67
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.78027778,87.91666667,"Kanki PZ","Bore Well",W10962,2000,1.2,NA,1.76,2.37
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,2000,1.55,2.32,NA,2.7
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,2000,'0.82,1.72,1.59,2.35
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,2000,1.74,2.5,NA,3.63
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,2000,2.01,3.19,2.95,4.44
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,2000,2.26,3.09,2.2,2.2
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,2000,2.75,3.8,2.46,3.6
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,2000,1.83,3.1,2.78,3.98
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.79083333,87.99694444,Tungidighi,"Dug Well",W11299,2000,2.24,NA,2.89,3.64
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45666667,88.14694444,"Itahar PZ","Bore Well",W10954,2000,1.6,NA,2,3.54
+WB,"Uttar Dinajpur",Islampur,Islampur,26.23777778,88.22916667,"Islampur Pz","Bore Well",W10950,2000,1.5,NA,2.23,3.04
+WB,"Uttar Dinajpur",Chopra,Chopra,26.40277778,88.34166667,Bhaispita,"Dug Well",W10934,2000,NA,4.67,3.92,6.63
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,1999,'0.04,1.69,'0.85,2.91
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.88333333,87.85,Dalkholatown,"Dug Well",W10961,1999,2.47,4.51,NA,6.08
+WB,"Uttar Dinajpur",Chopra,Chopra,26.40277778,88.34166667,Bhaispita,"Dug Well",W10934,1999,1.23,3.05,2.36,7.16
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,1999,'0.5,3.52,1.18,3.72
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,1999,'0.27,1.67,'0.91,2.64
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,1999,1.98,3.49,2.52,5.57
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,1999,'0.5,2.35,1.5,3.73
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,1999,1.11,3.34,2.25,4.56
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,1999,'0.95,2.68,1.98,4.35
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,1999,'0.14,2,1.82,3.46
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,1999,1.34,3.8,2.96,5.78
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,1999,'0.8,2.44,1.74,4.26
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,1999,'0.88,4.09,2.35,4.97
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,1999,'0.99,2.47,2.1,4
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,1999,1.44,2.77,2.45,5.22
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,1998,NA,1.98,'0.71,2.86
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,1998,NA,3.35,2.58,4.44
+WB,"Uttar Dinajpur",Chopra,Chopra,26.40277778,88.34166667,Bhaispita,"Dug Well",W10934,1998,NA,NA,2.76,NA
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,1998,NA,3.94,2.02,4.63
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,1998,NA,1.75,'0.95,1
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,1998,NA,3.68,3.75,4.98
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68777778,88.21722222,Hemtabad,"Dug Well",W10944,1998,NA,NA,NA,5.76
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,1998,NA,2.68,1.42,3.78
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,1998,NA,3.43,2.29,4.69
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,1998,NA,3.3,2.15,4.25
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,1998,NA,2.34,1.61,2.68
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,1998,NA,4.35,2.73,4.79
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,1998,NA,2.56,1.61,3.48
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,1998,NA,4.1,3.53,4.51
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,1998,NA,2,1.73,4.12
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.88611111,87.85138889,"Dalkhola R.s","Dug Well",W10960,1998,NA,4.71,NA,5.37
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.88333333,87.85,Dalkholatown,"Dug Well",W10961,1998,NA,4.71,NA,5.37
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,1997,2.17,3.28,2.9,4.83
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,1997,'0.39,1.76,1.6,3.1
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74166667,88.31111111,Malan-2,"Dug Well",W10946,1997,NA,NA,2.36,NA
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.88611111,87.85138889,"Dalkhola R.s","Dug Well",W10960,1997,NA,4.3,4.8,5.77
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74305556,88.3125,Malan-1,"Dug Well",W10945,1997,NA,2.48,NA,3.94
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,1997,1.95,2.74,2.37,4.45
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,25.95833333,88.06666667,Khanta,"Dug Well",W10941,1997,1.64,NA,NA,5.05
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,1997,2.99,3.87,3.69,4.77
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68777778,88.21722222,Hemtabad,"Dug Well",W10944,1997,4.05,4.48,NA,7.2
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,1997,1.23,2.43,2.02,3.74
+WB,"Uttar Dinajpur",Chopra,Chopra,26.40277778,88.34166667,Bhaispita,"Dug Well",W10934,1997,2.9,4.56,NA,9.74
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,1997,1.97,3.86,3.45,5.45
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,1997,2.37,3.49,2.92,5.12
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,1997,'0.61,2.35,2.02,3.38
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,1997,1.11,4.73,4.17,5.08
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,1997,1.07,3.51,2.74,4.66
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,1997,'0.57,2.05,1.37,2.86
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,1997,1.51,3.14,2.97,4.39
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.88333333,87.85,Dalkholatown,"Dug Well",W10961,1997,NA,4.3,4.8,5.77
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.70111111,88.12972222,Barakamat,"Dug Well",W10963,1996,1.5,2.97,1.8,3.92
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.88333333,87.85,Dalkholatown,"Dug Well",W10961,1996,NA,3.78,3.52,5.18
+WB,"Uttar Dinajpur",Karandighi,Karandighi,25.88611111,87.85138889,"Dalkhola R.s","Dug Well",W10960,1996,NA,3.78,3.52,5.18
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.6,88.29027778,"Mustafa Nagar","Dug Well",W10958,1996,2.95,2.55,3.15,4.43
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.63472222,88.33194444,Kaliaganj,"Dug Well",W10957,1996,'0.53,3.91,3.55,4.65
+WB,"Uttar Dinajpur",Kaliganj,Kaliganj,25.645,88.36555556,Dalimgaon,"Dug Well",W10956,1996,1.72,2.46,2.33,4.03
+WB,"Uttar Dinajpur",Itahar,Itahar,25.45,88.16944444,Itahar(hatkhola,"Dug Well",W10955,1996,4.15,3.61,3.39,5.21
+WB,"Uttar Dinajpur",Itahar,Itahar,25.525,88.175,Durgapur,"Dug Well",W10953,1996,2.28,2.1,1.95,3.36
+WB,"Uttar Dinajpur",Islampur,Islampur,26.32055556,88.37222222,"Digabane Hat","Dug Well",W10949,1996,1.17,2.87,2.12,4.8
+WB,"Uttar Dinajpur",Islampur,Islampur,26.31666667,88.33722222,Bhabanipur,"Dug Well",W10947,1996,NA,3.41,NA,4.3
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.74305556,88.3125,Malan-1,"Dug Well",W10945,1996,'0.98,2.17,2.05,3.95
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68777778,88.21722222,Hemtabad,"Dug Well",W10944,1996,4.66,3.89,3.9,5.71
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.68888889,88.21944444,"Hematabad Pz","Tube Well",W10943,1996,1.56,3.44,2.68,6.26
+WB,"Uttar Dinajpur",Hemtabad,Hemtabad,25.61111111,88.2325,Bangalbari,"Dug Well",W10942,1996,'0.79,1.66,1.72,4.32
+WB,"Uttar Dinajpur",Goalpokhor-i,Goalpokhor-i,25.95833333,88.06666667,Khanta,"Dug Well",W10941,1996,2.83,3.55,3.53,6.03
+WB,"Uttar Dinajpur",Chopra,Chopra,26.35833333,88.32916667,Chopratown,"Dug Well",W10936,1996,3.05,4.46,4.27,4.81
+WB,"Uttar Dinajpur",Chopra,Chopra,26.40277778,88.34166667,Bhaispita,"Dug Well",W10934,1996,NA,3.1,3.75,9.74
+WB,"Uttar Dinajpur",Raiganj,Raiganj,25.75,88.17222222,Mojgaon,"Dug Well",W10965,1996,3.07,2.9,3.17,5.4
+WB,"Uttar Dinajpur",Islampur,Islampur,26.18333333,88.10972222,Dhantola,"Dug Well",W10948,1996,1.61,2.95,2.61,4.29

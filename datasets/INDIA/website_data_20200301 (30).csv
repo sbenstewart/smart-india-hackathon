@@ -1,157 +1,112 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Gogamukh,"Dug Well",W31806,2018,NA,2.72,3.26,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2018,NA,3.23,2.21,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Bhagaban charali","Dug Well",W29761,2018,NA,8.8,8.44,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Dhemaji,"Dug Well",W29756,2018,NA,1.27,'0.56,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Sisibargaon,"Dug Well",W29759,2018,NA,1.78,1.13,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2018,NA,1.9,1.24,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Jonai murkongselek","Dug Well",W29757,2018,NA,1.69,1.4,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2017,NA,NA,NA,'0.24
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Bhagaban charali","Dug Well",W29761,2017,NA,NA,7.05,9.35
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2017,'0.27,2.15,'0.85,2.41
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2017,1.07,3.51,1.62,4.85
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Sisibargaon,"Dug Well",W29759,2017,'0.5,2.16,1.03,2.45
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Dhemaji,"Dug Well",W29756,2017,'0.37,1.46,'0.52,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Gogamukh,"Dug Well",W31806,2017,NA,2.9,2.51,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Jonai murkongselek","Dug Well",W29757,2017,'0.92,2.2,1.26,2.08
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Bhagaban charali","Dug Well",W31805,2017,2.5,2.5,NA,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Siripani,"Dug Well",W29760,2016,'0.48,NA,NA,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2016,1.08,NA,1.01,2.55
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Bhagaban charali","Dug Well",W29761,2016,7.57,8.8,NA,9.15
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2016,1.37,NA,2.02,4.29
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2016,NA,NA,'0.07,'0.24
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Sisibargaon,"Dug Well",W29759,2016,'0.93,2.03,1.56,1.87
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Jonai murkongselek","Dug Well",W29757,2016,1.37,2.1,NA,2.1
-AS,Dhemaji,Dhemaji,Subansiri,27.475,94.54444444,Dirpai,"Dug Well",W12195,2016,NA,NA,3.82,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Dhemaji,"Dug Well",W29756,2016,'0.42,1.41,1.39,1.46
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Gogamukh,"Dug Well",W31806,2016,1.59,3.95,NA,3.47
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2015,'0.27,2.47,1.3,2.83
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Jonai murkongselek","Dug Well",W29757,2015,'0.3,2.72,1.6,2.32
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2015,'0.13,4.46,1.99,3.42
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2015,'0.42,4.54,2.35,4.92
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2015,NA,1.06,'0.05,1.3
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Bhagaban charali","Dug Well",W29761,2015,NA,9.08,NA,9.38
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Silapathar,"Dug Well",W29758,2015,NA,4.04,NA,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Sisibargaon,"Dug Well",W29759,2015,'0.29,2.23,1.37,2.35
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Gogamukh,"Dug Well",W31806,2015,NA,NA,3.13,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Siripani,"Dug Well",W29760,2015,'0.12,1.28,NA,1.83
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Dhemaji,"Dug Well",W29756,2015,'0.24,1.87,'0.73,2.16
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Bhagaban charali","Dug Well",W29761,2014,4.39,9,8.17,9.25
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Siripani,"Dug Well",W29760,2014,NA,NA,NA,1.6
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Sisibargaon,"Dug Well",W29759,2014,'0.68,2.13,1.62,2.32
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Silapathar,"Dug Well",W29758,2014,'0.67,4.28,1.88,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Jonai murkongselek","Dug Well",W29757,2014,'0.42,2.25,1.54,2.48
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Gogamukh,"Dug Well",W31806,2014,'0.92,NA,2.79,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2014,'0.74,3.79,NA,4.61
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2014,'0.17,2.18,NA,2.78
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2014,NA,'0.8,NA,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2014,'0.27,3.15,NA,3.48
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Siripani,"Dug Well",W29760,2013,NA,1.26,'0.67,1.6
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Sisibargaon,"Dug Well",W29759,2013,'0.1,2.16,1.03,2.66
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Silapathar,"Dug Well",W29758,2013,'0.15,3.96,2.2,4.75
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Jonai murkongselek","Dug Well",W29757,2013,1.23,2.03,1.18,2.6
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Dhemaji,"Dug Well",W29756,2013,1.51,2.94,NA,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Bhagaban charali","Dug Well",W29761,2013,NA,NA,NA,6.38
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,"Bhagaban charali","Dug Well",W31805,2013,NA,8.61,NA,9
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2013,'0.46,3.29,2.02,4.16
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2013,'0.48,2.04,1.04,2.81
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2013,'0.73,'0.4,'0.01,1.13
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2013,1.2,3.025,2.17,3.4
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Gogamukh,"Dug Well",W31806,2013,NA,NA,2.14,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2012,NA,3.5,1.8,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2012,NA,1.38,'0.01,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2012,NA,2.76,NA,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2012,NA,3.92,NA,NA
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2012,NA,5.24,3.6,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Dhemaji,"Dug Well",W29756,2012,NA,NA,1.77,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Silapathar,"Dug Well",W29758,2012,NA,NA,1.8,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Sisibargaon,"Dug Well",W29759,2012,NA,NA,1.55,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Siripani,"Dug Well",W29760,2012,NA,NA,'0.54,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2011,NA,5.04,2.68,NA
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2011,2.41,5.04,4.4,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2011,NA,2.45,2.39,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2011,NA,1.14,'0.58,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2011,NA,3.36,2.17,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2010,'0.55,4.52,2.26,NA
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2010,NA,5.16,4.03,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2010,'0.41,3.32,2.6,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2010,NA,'0.86,'0.27,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2010,'0.28,3.39,2.44,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2009,NA,4.97,2.1,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2009,NA,3.64,1.9,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2009,NA,5.28,1.91,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2009,NA,1.87,'0.43,NA
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2009,1.69,5.19,4.25,NA
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2008,NA,4.97,4.46,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2008,'0.21,3.23,2.38,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2008,'0.36,2.83,2.51,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2008,'0.44,4.74,2.75,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2008,-0.01,1.02,'0.53,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2007,NA,2.51,2.01,1.52
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2007,NA,4.72,4.13,1.36
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2007,NA,'0.91,'0.32,'0.23
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2007,NA,2.98,2.24,3.19
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2007,NA,3.69,2.5,2.92
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2006,'0.75,3.79,2.67,3.82
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2006,-0.17,1.07,'0.56,'0.01
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2006,'0.61,3.03,2.34,2.75
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2006,'0.51,2.55,1.92,2.14
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2006,NA,4.68,NA,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2005,'0.58,3.82,2.78,2.96
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2005,'0.07,'0.73,'0.43,'0.09
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2005,2.59,4.32,3.47,1.46
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2005,'0.43,2.53,1.96,1.8
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2005,'0.42,3.14,2.4,2.97
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2004,1.04,2.58,1.55,'0.61
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2004,2.46,NA,3.26,1.74
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2004,1.46,3.79,1.96,1.08
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2004,1.02,2.68,1.8,'0.61
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2004,'0.4,'0.93,1.58,'0.64
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2003,'0.92,3.97,2.15,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2003,'0.2,1.05,'0.65,'0.6
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2003,1,3.05,1.55,3.2
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2003,1.44,NA,3.04,4.19
-AS,Dhemaji,Dhemaji,Subansiri,27.475,94.54444444,Dirpai,"Dug Well",W12195,2003,NA,NA,1.95,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2003,'0.55,3,1.6,3.25
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2002,NA,3.14,2.53,4.64
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2002,NA,1.02,'0.61,'0.15
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2002,NA,2.95,2.1,2.67
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2002,NA,2.75,1.83,NA
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2002,2.84,4.51,3.54,4.39
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2001,2.52,4.5,3.89,4.72
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2001,NA,3,1.8,3.52
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2001,NA,2.94,1.52,3.52
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2001,NA,1.09,'0.43,'0.72
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2001,NA,3.74,2.27,4.92
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,2000,NA,1.03,'0.73,'0.1
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,2000,2.26,8.81,3.74,7.1
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,2000,1.48,3.64,2.42,4.17
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,2000,'0.71,2.2,1.95,'0.95
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,2000,'0.87,2.54,1.81,2.75
-AS,Dhemaji,Dhemaji,Subansiri,27.475,94.54444444,Dirpai,"Dug Well",W12195,1999,'0.97,NA,NA,NA
-AS,Dhemaji,Subansiri,Subansiri,27.34777778,94.35416667,Bardeobam,"Dug Well",W12354,1999,NA,NA,NA,3.43
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,1999,3.34,4.5,8.07,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,1999,NA,1.9,2.49,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,1999,NA,1.25,'0.25,NA
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,1999,NA,3.2,1.38,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,1999,NA,3.3,1.7,NA
-AS,Dhemaji,Dhemaji,Subansiri,27.475,94.54444444,Dirpai,"Dug Well",W12195,1998,'0.82,NA,1.08,NA
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,1998,NA,NA,NA,4.78
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,1998,3.71,4.57,2.16,4.38
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,1998,NA,3.3,NA,3.43
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,1998,NA,NA,NA,3.12
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,1998,NA,'0.39,NA,'0.47
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,1997,1.08,NA,2.99,2.85
-AS,Dhemaji,Dhemaji,Subansiri,27.475,94.54444444,Dirpai,"Dug Well",W12195,1997,1.51,2.91,1.37,4.33
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,1997,'0.27,1.9,NA,3.8
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,1997,1.2,NA,2.37,2.8
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,1997,2.62,2.88,3.98,4.24
-AS,Dhemaji,Subansiri,Subansiri,27.34777778,94.35416667,Bardeobam,"Dug Well",W12354,1997,NA,1.93,NA,3.47
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,1997,1.73,NA,2.67,3.94
-AS,Dhemaji,Subansiri,Subansiri,27.34777778,94.35416667,Bardeobam,"Dug Well",W12354,1996,1.4,NA,1.56,1.38
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54444444,Akajan,"Dug Well",W12190,1996,NA,2.6,NA,1.35
-AS,Dhemaji,Dhemaji,Subansiri,27.5,94.54447222,Bordoloni,"Dug Well",W12192,1996,1.1,'0.45,1.2,'0.6
-AS,Dhemaji,Dhemaji,Subansiri,27.475,94.54444444,Dirpai,"Dug Well",W12195,1996,2.1,3.23,2.32,2.3
-AS,Dhemaji,Jonai,Subansiri,27.75277778,95.13888889,Bijoypur,"Dug Well",W12203,1996,NA,2.5,NA,'0.48
-AS,Dhemaji,Subansiri,Subansiri,27.32222222,94.4,Ghilamara,"Dug Well",W12357,1996,'0.86,4.24,1.15,'0.98
-AS,Dhemaji,Jonai,Subansiri,27.7125,95.05555556,Telem,"Dug Well",W12204,1996,NA,3.27,NA,1.53
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2018,NA,3.9,2.07,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2018,NA,4.25,4.57,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2018,NA,NA,4.45,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2018,NA,NA,3.3,4.1
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2018,NA,2.85,2.94,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2017,'0.95,4.52,2,4.63
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2017,3.6,5.23,3.56,4.7
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2017,2.45,5.16,NA,4.9
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2017,NA,4.7,1,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2017,3.56,3.9,1.65,3.65
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2016,1.16,NA,3.3,4.24
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2016,'0.19,NA,3.12,5.52
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2016,3.78,NA,4.4,6.5
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2016,1.03,NA,3,7.1
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2016,2.7,NA,4.63,5.77
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2015,1.94,3.02,2.58,3.33
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2015,'0.02,3.75,NA,4.39
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2015,1.3,3.75,4.03,4.56
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2015,'0.82,4.15,2.89,5.55
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2015,1.74,2.31,4.76,4.76
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2014,NA,NA,NA,3.44
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2014,'0.8,NA,NA,4.5
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2014,'0.03,NA,NA,4.2
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2014,'0.78,NA,NA,5.4
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2014,1.02,NA,NA,4.27
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2013,1.57,2.98,2.47,3.25
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2013,'0.47,3.65,2.86,4.33
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2013,2.44,4.24,3.5,6.02
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2013,'0.87,4.48,1.6,5.37
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2013,2.4,4.2,3.73,4.53
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2012,NA,3.32,1.13,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2012,NA,4.37,2.26,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2012,NA,4.48,1.38,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2012,NA,4.9,4.3,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2012,NA,4.82,3.59,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2011,NA,2.03,NA,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2011,1.42,3.5,2.75,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2011,'0.74,4.44,2.15,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2011,2.02,4.8,4.05,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2011,1.34,5.15,2.9,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2011,1.19,4.48,3,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2010,NA,1.57,1.5,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2010,1.25,3.56,NA,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2010,1.08,4.71,3.54,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2010,1.7,4.8,3.6,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2010,1.75,6.82,3.5,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2010,'0.2,3.57,2.56,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2009,'0.69,3.12,1.3,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2009,1.64,3.49,2.52,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2009,2.38,5.01,3.55,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2009,2.31,5.02,3.34,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2009,'0.8,4.87,2.2,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2009,1.47,4.76,2.81,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2008,'0.05,3.35,1.29,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2008,'0.81,3.2,2.45,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2008,'0.53,4.55,3.72,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2008,1.26,4.41,3.9,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2008,'0.63,3.85,2.57,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2008,-0.17,4.28,2.86,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2007,'0.45,2.78,2.46,2.59
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2007,2.06,4.3,2.31,3.6
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2007,'0.99,5.35,3.55,4.75
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2007,2.25,5.45,3.51,5.5
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2007,'0.64,3.95,1.21,3.1
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2007,1.22,3.92,2.17,3.49
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2006,2.99,2.62,2.48,2.66
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2006,1.25,2.95,2.53,3.27
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2006,2.27,NA,3.59,4.26
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2006,2.68,4.55,2.85,4.44
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2006,'0.85,3.86,1.47,1.01
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2006,'0.62,3.48,'0.42,4.17
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2005,'0.9,2.72,2.3,2.54
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2005,1.3,2.76,2.04,2.06
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2005,2.85,4.22,3.42,3.72
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2005,2.1,4.3,3.41,3.94
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2005,'0.6,1.29,1,1.07
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2005,'0.12,3.77,1.2,3.83
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2004,2.3,2.6,2.41,1.41
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2004,1.22,2.6,2.06,1.6
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2004,2.27,3.25,NA,3.74
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2004,2.51,4.3,3.51,5.44
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2004,'0.91,2.12,1.6,'0.71
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2004,1.39,3.5,1.73,2.41
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2003,2.1,2.68,2.35,2.45
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2003,1.2,2.77,1.17,1.93
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2003,'0.34,3.71,1.7,3.41
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2003,2.41,4.35,3.4,4.2
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2003,'0.77,5.1,1,'0.83
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2003,2.62,3.96,3.63,4.07
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2002,2.02,2.63,2.63,2.39
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2002,'0.87,2.44,2.55,1
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2002,1.96,4.2,4.05,4.11
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2002,NA,3.82,2.51,3.68
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2002,1.18,2.87,2.61,1.87
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2002,1.71,3.46,4.02,3.86
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2001,1.81,2.8,1.83,2.45
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2001,2.93,4.44,3.51,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2001,1.07,NA,1.18,2.9
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2001,'0.97,NA,1.42,4.8
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2001,2.62,NA,3.46,4.6
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2001,2.36,NA,2.43,3
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2000,2.26,4.3,3.85,4.84
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2000,1.45,2.69,2.2,2.53
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,1999,1.1,2.77,1.91,2.8
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,1999,2.48,3.92,3.63,2.56
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,1998,1.67,4.4,3.22,4.4
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,1998,1.05,2.85,1.95,2.42
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,1997,3.03,NA,3.81,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,1997,1.69,NA,2.41,2.87
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,1996,2.01,2.88,1.88,3.12
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,1996,2.5,4.14,3.39,4.57

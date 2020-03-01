@@ -1,190 +1,397 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-BR,Madhepura,Singheshwar,Gamharia,26.02972222,86.73555556,Jiwachhapur,"Dug Well",W29470,2018,2.11,3.56,NA,NA
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2018,2.17,3.03,NA,NA
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2018,3.35,4.11,NA,NA
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2018,2.22,3.2,NA,NA
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2018,1.63,2.34,NA,NA
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2018,2.37,3.23,NA,NA
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2018,3.52,4.27,NA,NA
-BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2018,3.44,4.54,NA,NA
-BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2018,3.33,3.26,NA,NA
-BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2018,2.66,3.3,NA,NA
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2018,2.96,4.08,NA,NA
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2018,3.06,3.44,NA,NA
-BR,Madhepura,Murliganj,Murliganj,25.88944444,86.93694444,Rampur,"Dug Well",W29437,2018,2.69,3.69,NA,NA
-BR,Madhepura,Madhepura,Madhepura,25.90472222,86.72027778,Surajganj,"Dug Well",W29440,2018,3.1,2.12,NA,NA
-BR,Madhepura,Madhepura,Madhepura,25.90888889,86.835,Bhimpura,"Dug Well",W29441,2018,2.71,3.24,NA,NA
-BR,Madhepura,Singheshwar,Shankarpur,26.08,86.80666667,Barahari,"Dug Well",W29479,2018,1.92,3.1,NA,NA
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2017,2.55,4.57,3.42,4.69
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2017,'0.95,2.16,1.76,2.83
-BR,Madhepura,Singheshwar,Gamharia,26.02972222,86.73555556,Jiwachhapur,"Dug Well",W29470,2017,1.82,3.23,3.3,3.8
-BR,Madhepura,Singheshwar,Shankarpur,26.08,86.80666667,Barahari,"Dug Well",W29479,2017,1.49,4.14,2.66,3.01
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2017,NA,3.86,NA,4
-BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2017,4.05,4.57,3.84,6.1
-BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2017,2.18,2.71,2.72,3.61
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2017,3.14,3.96,3.84,4.9
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2017,2.69,3.36,2.93,4.32
-BR,Madhepura,Madhepura,Madhepura,25.90472222,86.72027778,Surajganj,"Dug Well",W29440,2017,'0.73,4.25,1.57,2.83
-BR,Madhepura,Murliganj,Murliganj,25.88944444,86.93694444,Rampur,"Dug Well",W29437,2017,1.96,2.88,NA,4.12
-BR,Madhepura,Madhepura,Madhepura,25.90888889,86.835,Bhimpura,"Dug Well",W29441,2017,1.59,2.73,NA,3.65
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2017,1.3,2.82,NA,3.48
-BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2017,NA,3.32,NA,3.75
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2017,2.59,3.85,3.06,5.05
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2017,3.55,3.94,4,5.29
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2016,'0.51,NA,1.67,3.2
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2016,2.15,NA,3.74,4.87
-BR,Madhepura,Murliganj,Murliganj,25.88944444,86.93694444,Rampur,"Dug Well",W29437,2016,'0.97,3.9,2.72,4.8
-BR,Madhepura,Madhepura,Madhepura,25.90472222,86.72027778,Surajganj,"Dug Well",W29440,2016,NA,2.51,1.33,3.01
-BR,Madhepura,Madhepura,Madhepura,25.90888889,86.835,Bhimpura,"Dug Well",W29441,2016,1.35,3.41,2.13,6
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2016,1.13,3.38,2.1,3.86
-BR,Madhepura,Singheshwar,Gamharia,26.02972222,86.73555556,Jiwachhapur,"Dug Well",W29470,2016,NA,3.98,2.94,3.01
-BR,Madhepura,Singheshwar,Shankarpur,26.08,86.80666667,Barahari,"Dug Well",W29479,2016,NA,3.34,2.39,2.85
-BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2016,3.73,4.84,4,6.3
-BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2016,NA,3.48,2.05,4.13
-BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2016,1.57,3.68,2.7,4
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2016,NA,NA,3.1,5.34
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2016,NA,NA,2,4.76
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2016,3.9,NA,3.05,5.9
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2016,NA,NA,2.24,4.47
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2016,NA,NA,2.87,4.32
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2015,1.92,1.5,NA,2.43
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2015,3.43,4.65,4.93,4.95
-BR,Madhepura,Murliganj,Murliganj,25.88944444,86.93694444,Rampur,"Dug Well",W29437,2015,1.82,NA,3.63,4.37
-BR,Madhepura,Madhepura,Madhepura,25.90472222,86.72027778,Surajganj,"Dug Well",W29440,2015,1.02,NA,NA,2.97
-BR,Madhepura,Madhepura,Madhepura,25.90888889,86.835,Bhimpura,"Dug Well",W29441,2015,2.02,NA,3.06,3.82
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2015,1.69,2.83,2.92,3.85
-BR,Madhepura,Singheshwar,Gamharia,26.02972222,86.73555556,Jiwachhapur,"Dug Well",W29470,2015,2.74,NA,2.82,3.92
-BR,Madhepura,Singheshwar,Shankarpur,26.08,86.80666667,Barahari,"Dug Well",W29479,2015,1.73,NA,2.68,3.44
-BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2015,1.13,3.24,4.65,6.26
-BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2015,3.37,3.02,3.27,4.26
-BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2015,1.72,3.14,3.57,3.93
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2015,3.17,3.06,4.01,5.69
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2015,2.03,2.76,3.34,4.33
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2015,3.45,NA,NA,5.91
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2015,1.72,3.19,3.07,3.95
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2015,2.25,4.06,3.5,4.88
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2014,NA,2.3,NA,NA
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2014,2.16,3.65,2.74,5.36
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2014,2.26,2.68,2.45,3.52
-BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2014,2.52,5.22,2.86,6.17
-BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2014,2.26,3.19,2.58,3.63
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2014,2.59,4.49,4.01,4.83
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.68138889,86.94944444,"Uda Kishanganj","Dug Well",W29376,2014,3.4,NA,2.78,NA
-BR,Madhepura,"Uda Kishanganj",Biharriganj,25.74944444,86.98972222,Kusthan,"Dug Well",W29398,2014,2.72,NA,2.17,NA
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2014,NA,3.99,NA,NA
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2014,2.52,2.87,2.99,3.84
-BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2014,2.12,3.14,2.19,3.83
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2013,1.3,4.36,1.96,5.96
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2013,1.36,4.84,2.94,4.3
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,"Hatkora bazar","Dug Well",W29450,2013,1.41,4.05,2.08,4.33
-BR,Madhepura,Chausa,Chausa,25.53111111,87.04972222,Abhiyatola,"Dug Well",W29299,2013,2.4,NA,4.26,6.8
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2013,2.61,4.5,4.46,4.39
-BR,Madhepura,Murliganj,Alamnagar,25.59277778,86.93833333,"Gaushala Chowk","Dug Well",W29325,2013,1.72,NA,2.75,NA
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2013,2.44,NA,3.07,5.91
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2013,2.13,6.09,2.46,4.88
-BR,Madhepura,Chausa,Puraini,25.5925,86.98083333,Ganeshpur,"Dug Well",W29324,2013,1.62,NA,2.22,4.6
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2012,NA,2.7,NA,3.72
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2012,NA,4,4.25,4.32
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2012,NA,3.45,NA,4.65
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2012,NA,3.35,4,4.85
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2011,1.9,3.1,2.75,3.3
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2011,3.5,3.5,3.65,4.3
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2011,3.7,4.1,3.4,4.8
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2011,NA,2.7,3.2,4.1
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2011,NA,3.3,3.1,3.9
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2010,NA,2.82,2.75,5.96
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2010,2.35,5.32,4.1,4.5
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2010,2.62,3.83,3.4,4.1
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2010,3.62,2.96,4.05,4.7
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2010,4.27,NA,3.95,NA
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2009,1.5,NA,2.55,4.09
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2009,1.98,1.66,3.9,3.92
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2009,1.4,2.19,3.15,3.15
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2009,1.58,3.22,3.05,3.91
-BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,2008,NA,NA,NA,3.31
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2008,NA,3.1,NA,3.85
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2008,NA,3.4,2.2,4.8
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2008,NA,NA,NA,3.92
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2008,NA,3.3,NA,4.75
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2008,NA,3.1,3.4,3.83
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2007,NA,3.14,NA,3.5
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2007,NA,1.8,2.12,3
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2007,NA,3.63,1.88,4.17
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2007,NA,NA,2.2,NA
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2006,'0.54,1.5,1.2,1.75
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2006,2.75,3.3,3.43,4.5
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2006,2.14,3.15,2.6,3.4
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2006,2.02,2.2,NA,3.75
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2006,NA,1.95,NA,2.7
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2005,NA,NA,1.3,NA
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2005,2.35,3.5,1.65,3.57
-BR,Madhepura,Singheshwar,Singheswar,25.99166667,86.81666667,Singeswar-2,"Dug Well",W17753,2005,1.2,3.37,2.8,3.5
-BR,Madhepura,Murliganj,Murliganj,25.88333333,86.98333333,Murliganj-2,"Dug Well",W17752,2005,'0.6,2.72,'0.71,3
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2005,'0.6,2.72,'0.71,3
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2005,2.1,3.18,1.7,4.27
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2005,1.2,3.37,2.8,3.5
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2004,1.93,3.78,2.94,2.75
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2004,NA,3.06,2.72,3.75
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2004,1.3,2.05,2.48,2.8
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2004,2.74,2.85,2.94,2.79
-BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,2003,NA,2.96,NA,3.65
-BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,2003,NA,3.15,NA,3.38
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2003,1.63,3.15,2.6,3.38
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2003,1.22,3.32,2.5,3.19
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2003,1.88,3.5,1.95,3.9
-BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,2003,1.82,NA,2.42,NA
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2003,1.21,NA,2.4,NA
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2003,1.22,2.76,1.75,3.01
-BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,2002,1.83,3.03,2.22,3.29
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2002,1.18,NA,NA,3.39
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2002,1.53,3.2,2.18,3.61
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2002,1.83,3.03,2.22,3.29
-BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,2002,1.56,NA,NA,3.46
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2002,1.5,3.3,3.02,3.48
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2002,'0.72,2.85,2.16,3.36
-BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,2002,1.64,NA,NA,3.29
-BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,2001,1.87,NA,2.35,3.54
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2001,1.87,NA,2.35,3.54
-BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,2001,1.96,NA,2,3.81
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2001,2.12,NA,2.96,3.25
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2001,2.17,NA,2.55,3.56
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2001,3.32,NA,2.16,4.32
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,2000,1.64,3.37,3.8,3.25
-BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,2000,1.64,3.37,3.8,3.25
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,2000,1.21,2.88,2.65,NA
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,2000,'0.28,2.44,2.85,2.9
-BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,2000,'0.54,1.74,2.97,NA
-BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,2000,1.29,2.35,3.08,3.48
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,2000,'0.58,2.17,2.4,2.2
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,2000,1.23,2.88,3.1,3.2
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,1999,1.2,2.45,1.88,3.27
-BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,1999,1.31,2.77,2.27,3.38
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,1999,1.42,3.01,2.31,3.32
-BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,1999,1.66,3.26,2.51,3.12
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,1999,1.66,3.26,2.51,3.12
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,1999,1.67,2.75,2.32,3.16
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,1999,1.57,2.35,2.63,3.4
-BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,1999,1.83,2.41,1.53,3.47
-BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,1998,NA,2.39,2.58,2.91
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,1998,NA,3.48,1.6,3.31
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,1998,NA,2.39,2.58,2.91
-BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,1998,NA,NA,1.57,3.48
-BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,1998,NA,2.26,2.2,3.34
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,1998,NA,2.41,2.4,2.84
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,1998,NA,NA,1.9,3.51
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,1998,NA,2.68,2.21,3.37
-BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,1997,1.33,2.78,1.9,3.5
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,1997,1.42,3.09,2.28,3.18
-BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,1997,1.81,2.77,2.11,3.24
-BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,1997,'0.77,NA,NA,NA
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,1997,2.14,3.98,3.03,4.4
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,1997,'0.81,2.61,2.02,3.52
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,1997,1.33,2.78,1.9,3.5
-BR,Madhepura,"Uda Kishanganj",Kishanganj,25.64166667,86.925,Korianitola,"Dug Well",W12834,1996,2.4,2.05,2.5,2.1
-BR,Madhepura,"Uda Kishanganj",Gwalpara,25.75416667,86.90555556,Gwalapara,"Dug Well",W12650,1996,2.3,2.18,2.46,2.26
-BR,Madhepura,Singheshwar,Singheswar,25.98333333,86.76666667,Singeswar-1,"Dug Well",W12833,1996,2.41,3.7,2.64,4.03
-BR,Madhepura,Chausa,Chausa,25.51305556,87.03333333,Chausa1,"Dug Well",W12647,1996,2.32,2.52,2.4,2.8
-BR,Madhepura,Murliganj,Murliganj,25.86666667,86.98333333,Murliganj-1,"Dug Well",W12832,1996,1.86,2.39,1.88,2.54
-BR,Madhepura,Madhepura,Madhepura,25.91666667,86.8,Madhapura,"Dug Well",W12830,1996,1.86,2.9,1.97,3.19
-BR,Madhepura,Murliganj,Murliganj,25.90416667,86.925,"Hatkora bazar","Dug Well",W12649,1996,1.9,2.8,2.03,3.08
-BR,Madhepura,Madhepura,Madhepura,25.92916667,86.875,Madhepura,"Dug Well",W12831,1996,1.86,2.9,1.97,3.19
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.23861111,86.22222222,"Bideshwar Asthan","Dug Well",W29513,2018,3.13,4.4,NA,NA
+BR,Madhubani,Madhepur,Madhawpur,26.58416667,85.83361111,Bihari,"Dug Well",W29632,2018,NA,NA,3.2,NA
+BR,Madhubani,Pandaul,Madhubani,26.28944444,86.04972222,Shambhuar,"Dug Well",W29531,2018,3.5,3.28,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2018,'0.57,1.5,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2018,4.59,4.8,NA,NA
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2018,'0.7,3.53,NA,NA
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2018,'0.58,1.65,NA,NA
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2018,'0.39,2.28,NA,NA
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2018,'0.42,1.96,NA,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2018,1,1.7,NA,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2018,2.7,3.84,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,2018,NA,1.5,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2018,NA,2.76,NA,NA
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2018,NA,1.96,NA,NA
+BR,Madhubani,Rajnagar,Rajnagar,26.40277778,86.12027778,Pariharpur,"Dug Well",W29565,2018,'0.57,2.76,NA,NA
+BR,Madhubani,Benipatti,Benipatti,26.4425,85.94916667,Dhakjari,"Dug Well",W29578,2018,1.47,2.03,NA,NA
+BR,Madhubani,Benipatti,Kaluhi,26.42111111,86.03666667,Kapasia,"Dug Well",W29573,2018,'0.46,2,NA,NA
+BR,Madhubani,Khajauli,Khajauli,26.45222222,86.13472222,Bentadih,"Dug Well",W29581,2018,'0.95,2.37,NA,NA
+BR,Madhubani,"Babu Barhi",Babubari,26.45472222,86.27527778,Babubarhi,"Dug Well",W29583,2018,'0.18,1.21,NA,NA
+BR,Madhubani,Phulparas,Laukaha,26.42416667,86.45805556,Siswar,"Dug Well",W29574,2018,2.05,2.8,NA,NA
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50472222,86.39805556,"Ambedkar Nagar","Dug Well",W29594,2018,'0.78,1.94,NA,NA
+BR,Madhubani,Ladania,Ladhania,26.58083333,86.20666667,Jogiya,"Dug Well",W29630,2018,1.35,2.75,NA,NA
+BR,Madhubani,Khajauli,Jainagar,26.51305556,86.11388889,Thantola,"Dug Well",W29598,2018,1.65,2.88,NA,NA
+BR,Madhubani,Harlakhi,Harlakhi,26.63916667,85.98472222,Harlakhi,"Dug Well",W29650,2018,3,2.27,NA,NA
+BR,Madhubani,Harlakhi,Harlakhi,26.63916667,85.98472222,"Baurahar Chowk","Dug Well",W29651,2018,1.38,3.75,NA,NA
+BR,Madhubani,Andhratharhi,Andhrathari,26.32722222,86.30527778,Harri,"Dug Well",W31772,2018,1.31,2.8,NA,NA
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.26694444,86.27972222,Jhanjharpur,"Dug Well",W29527,2018,'0.26,'0.99,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2017,2.96,3.11,3.41,5.21
+BR,Madhubani,Harlakhi,Harlakhi,26.63916667,85.98472222,Harlakhi,"Dug Well",W29650,2017,NA,3.15,NA,NA
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.26694444,86.27972222,Jhanjharpur,"Dug Well",W29527,2017,'0.2,'0.26,'0.47,'0.5
+BR,Madhubani,Pandaul,Madhubani,26.28944444,86.04972222,Shambhuar,"Dug Well",W29531,2017,1.58,3.25,2.85,4.46
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2017,'0.5,NA,'0.79,1.6
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2017,1.09,1.82,1.58,2.44
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2017,'0.7,2.08,1.6,3.06
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2017,1,1.26,1.07,1.58
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2017,'0.72,2.9,3.55,1.5
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2017,1.16,1.91,1.48,2.48
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,2017,'0.7,NA,1.32,NA
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2017,NA,'0.92,NA,2.1
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2017,NA,4.45,NA,4.7
+BR,Madhubani,Rajnagar,Rajnagar,26.40277778,86.12027778,Pariharpur,"Dug Well",W29565,2017,1.57,2.38,2.7,3.3
+BR,Madhubani,Benipatti,Benipatti,26.4425,85.94916667,Dhakjari,"Dug Well",W29578,2017,1.15,3.01,2.12,3.17
+BR,Madhubani,Benipatti,Kaluhi,26.42111111,86.03666667,Kapasia,"Dug Well",W29573,2017,'0.5,1.65,1.51,2.02
+BR,Madhubani,Khajauli,Khajauli,26.45222222,86.13472222,Bentadih,"Dug Well",W29581,2017,'0.42,2.31,1.79,3
+BR,Madhubani,"Babu Barhi",Babubari,26.45472222,86.27527778,Babubarhi,"Dug Well",W29583,2017,'0.28,'0.96,'0.82,1
+BR,Madhubani,Phulparas,Laukaha,26.42416667,86.45805556,Siswar,"Dug Well",W29574,2017,1.25,2.62,2.25,3.4
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50472222,86.39805556,"Ambedkar Nagar","Dug Well",W29594,2017,1.14,2.98,1.51,3.76
+BR,Madhubani,Ladania,Ladhania,26.58083333,86.20666667,Jogiya,"Dug Well",W29630,2017,1.5,3.53,2.34,3.28
+BR,Madhubani,Khajauli,Jainagar,26.51305556,86.11388889,Thantola,"Dug Well",W29598,2017,'0.85,2.75,2.41,3.32
+BR,Madhubani,Harlakhi,Harlakhi,26.63916667,85.98472222,"Baurahar Chowk","Dug Well",W29651,2017,'0.55,2.41,1.02,4.96
+BR,Madhubani,Andhratharhi,Andhrathari,26.32722222,86.30527778,Harri,"Dug Well",W31772,2017,1.13,1.78,2.6,5.19
+BR,Madhubani,Madhepur,Madhawpur,26.58416667,85.83361111,Bihari,"Dug Well",W29632,2017,NA,2.48,NA,4.95
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.23861111,86.22222222,"Bideshwar Asthan","Dug Well",W29513,2017,2.82,4.01,3.85,4.95
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2016,1.66,NA,4.05,3.26
+BR,Madhubani,PANDAUL,Jhanjharpur,26.31666667,86.18333333,Bhagwatipur,"Dug Well",W33268,2016,4.03,NA,NA,NA
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2016,NA,NA,2.63,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2016,1.27,NA,NA,2.66
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,2016,NA,NA,2.18,2.41
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2016,NA,NA,2.18,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2016,NA,NA,6.4,4.68
+BR,Madhubani,Rajnagar,Khajauli,26.43333333,86.15416667,Karmanli-1,"Dug Well",W12853,2016,1.73,NA,NA,4.42
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2016,1.3,NA,2.15,3.23
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2016,'0.55,NA,NA,2.85
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2016,1.18,NA,2.14,3.95
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2016,4.03,NA,5.39,8.12
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2016,5.15,NA,3.96,5.75
+BR,Madhubani,Andhratharhi,Andhrathari,26.32722222,86.30527778,Harri,"Dug Well",W31772,2016,1.72,3.98,5.01,9.84
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.23861111,86.22222222,"Bideshwar Asthan","Dug Well",W29513,2016,3.95,5.22,6.25,6.29
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.26694444,86.27972222,Jhanjharpur,"Dug Well",W29527,2016,'0.7,4.35,'0.5,1.65
+BR,Madhubani,Pandaul,Madhubani,26.28944444,86.04972222,Shambhuar,"Dug Well",W29531,2016,4.17,5.44,5.05,5.8
+BR,Madhubani,Rajnagar,Rajnagar,26.40277778,86.12027778,Pariharpur,"Dug Well",W29565,2016,1.72,4.07,6.26,6.26
+BR,Madhubani,Benipatti,Kaluhi,26.42111111,86.03666667,Kapasia,"Dug Well",W29573,2016,'0.83,2.4,2.17,3.56
+BR,Madhubani,Phulparas,Laukaha,26.42416667,86.45805556,Siswar,"Dug Well",W29574,2016,3.26,3.57,3.05,4.68
+BR,Madhubani,Benipatti,Benipatti,26.4425,85.94916667,Dhakjari,"Dug Well",W29578,2016,1.6,2.82,2.55,4.18
+BR,Madhubani,Khajauli,Khajauli,26.45222222,86.13472222,Bentadih,"Dug Well",W29581,2016,1.94,2.82,1.83,4.15
+BR,Madhubani,"Babu Barhi",Babubari,26.45472222,86.27527778,Babubarhi,"Dug Well",W29583,2016,'0.76,1.82,'0.88,3.95
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50472222,86.39805556,"Ambedkar Nagar","Dug Well",W29594,2016,1.46,2.59,3.78,3.48
+BR,Madhubani,Khajauli,Jainagar,26.51305556,86.11388889,Thantola,"Dug Well",W29598,2016,2.59,3.15,3.12,3.2
+BR,Madhubani,Ladania,Ladhania,26.58083333,86.20666667,Jogiya,"Dug Well",W29630,2016,2.62,3.53,1.12,4.3
+BR,Madhubani,Madhepur,Madhawpur,26.58416667,85.83361111,Bihari,"Dug Well",W29632,2016,1.67,3.98,NA,4.95
+BR,Madhubani,Harlakhi,Harlakhi,26.63916667,85.98472222,Harlakhi,"Dug Well",W29650,2016,1.72,3.23,4.66,2.14
+BR,Madhubani,Harlakhi,Harlakhi,26.63916667,85.98472222,"Baurahar Chowk","Dug Well",W29651,2016,2.07,3.68,5.88,3.17
+BR,Madhubani,Harlakhi,Basipatti,26.5,85.97083333,Khutauna-1,"Dug Well",W12837,2016,NA,NA,2.63,NA
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2015,1.88,2.41,2.26,2.94
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2015,NA,NA,NA,6
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2015,'0.95,1.7,1.59,1.46
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2015,1.33,2.39,1.79,2.15
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2015,2.55,2.92,3.14,3.51
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2015,NA,2.46,1.48,3.68
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2015,1.04,1.55,1.98,3.85
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2015,NA,1.32,4.8,4.8
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2015,2.61,2.18,2.21,3.11
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2015,2.38,3.92,5.36,5.12
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2015,3.48,3.75,4.12,4.72
+BR,Madhubani,Andhratharhi,Andhrathari,26.32722222,86.30527778,Harri,"Dug Well",W31772,2015,NA,NA,2.26,NA
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.23861111,86.22222222,"Bideshwar Asthan","Dug Well",W29513,2015,4.73,3.49,3.99,5.36
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.26694444,86.27972222,Jhanjharpur,"Dug Well",W29527,2015,'0.22,'0.65,'0.68,1
+BR,Madhubani,Pandaul,Madhubani,26.28944444,86.04972222,Shambhuar,"Dug Well",W29531,2015,3.91,2.85,1.58,4.3
+BR,Madhubani,Rajnagar,Rajnagar,26.40277778,86.12027778,Pariharpur,"Dug Well",W29565,2015,4.39,2.7,2.48,4.42
+BR,Madhubani,Benipatti,Kaluhi,26.42111111,86.03666667,Kapasia,"Dug Well",W29573,2015,2.6,1.55,2.01,2.36
+BR,Madhubani,Phulparas,Laukaha,26.42416667,86.45805556,Siswar,"Dug Well",W29574,2015,3.38,2.46,3.14,3.5
+BR,Madhubani,Benipatti,Benipatti,26.4425,85.94916667,Dhakjari,"Dug Well",W29578,2015,3.4,2.12,2.28,3.3
+BR,Madhubani,Khajauli,Khajauli,26.45222222,86.13472222,Bentadih,"Dug Well",W29581,2015,2.6,2.5,1.87,2.95
+BR,Madhubani,"Babu Barhi",Babubari,26.45472222,86.27527778,Babubarhi,"Dug Well",W29583,2015,2.32,1.24,2.32,2.33
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50472222,86.39805556,"Ambedkar Nagar","Dug Well",W29594,2015,1,2.83,1.85,2.61
+BR,Madhubani,Khajauli,Jainagar,26.51305556,86.11388889,Thantola,"Dug Well",W29598,2015,2.5,NA,2.67,3.32
+BR,Madhubani,Ladania,Ladhania,26.58083333,86.20666667,Jogiya,"Dug Well",W29630,2015,3.68,NA,2.95,2.7
+BR,Madhubani,Madhepur,Madhawpur,26.58416667,85.83361111,Bihari,"Dug Well",W29632,2015,3.96,2.42,3.44,3.82
+BR,Madhubani,Harlakhi,Harlakhi,26.63916667,85.98472222,Harlakhi,"Dug Well",W29650,2015,3.77,NA,2.94,3.85
+BR,Madhubani,Harlakhi,Harlakhi,26.63916667,85.98472222,"Baurahar Chowk","Dug Well",W29651,2015,4.85,NA,3.54,4.65
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2014,3.71,5.22,1.25,6.68
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2014,1.96,NA,NA,NA
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.23861111,86.22222222,"Bideshwar Asthan","Dug Well",W29513,2014,2.85,4.72,1.21,5.75
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.26694444,86.27972222,Jhanjharpur,"Dug Well",W29527,2014,'0.1,2.05,'0.39,NA
+BR,Madhubani,Pandaul,Madhubani,26.28944444,86.04972222,Shambhuar,"Dug Well",W29531,2014,1.81,4.69,1.95,5.57
+BR,Madhubani,Rajnagar,Rajnagar,26.40277778,86.12027778,Pariharpur,"Dug Well",W29565,2014,2.1,3.98,2.61,5.08
+BR,Madhubani,Benipatti,Kaluhi,26.42111111,86.03666667,Kapasia,"Dug Well",W29573,2014,'0.91,1.69,1.14,2.75
+BR,Madhubani,Phulparas,Laukaha,26.42416667,86.45805556,Siswar,"Dug Well",W29574,2014,1.8,2.95,1.98,3.56
+BR,Madhubani,Benipatti,Benipatti,26.4425,85.94916667,Dhakjari,"Dug Well",W29578,2014,1.61,2.34,1.63,3.63
+BR,Madhubani,Khajauli,Khajauli,26.45222222,86.13472222,Bentadih,"Dug Well",W29581,2014,'0.85,3.17,1.65,4.12
+BR,Madhubani,"Babu Barhi",Babubari,26.45472222,86.27527778,Babubarhi,"Dug Well",W29583,2014,'0.58,1.36,1.99,2.98
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50472222,86.39805556,"Ambedkar Nagar","Dug Well",W29594,2014,2.39,3.89,2.15,4.66
+BR,Madhubani,Madhepur,Madhawpur,26.58416667,85.83361111,Bihari,"Dug Well",W29632,2014,2,2.94,2.13,3.97
+BR,Madhubani,Rajnagar,Khajauli,26.43333333,86.15416667,Karmanli-1,"Dug Well",W12853,2014,NA,NA,NA,4.18
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2014,1.45,3,1.59,NA
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2014,1.04,2.16,1.13,5.88
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2014,'0.65,1.26,'0.74,2.2
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2014,'0.89,3.01,1.91,4.02
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2014,1.13,2.76,1.24,3.1
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2014,2.1,1.34,1.49,2.74
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2014,2.16,4.5,1.87,4.2
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2014,1.58,2.42,1.84,2.6
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2014,2.8,4.66,1.61,5.55
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2013,4.67,4.61,NA,5.35
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2013,1.4,1.78,NA,4.92
+BR,Madhubani,Benipatti,Kaluhi,26.42111111,86.03666667,Kapasia,"Dug Well",W29573,2013,'0.35,NA,1.43,3.31
+BR,Madhubani,Phulparas,Laukaha,26.42416667,86.45805556,Siswar,"Dug Well",W29574,2013,'0.91,NA,2.53,4.28
+BR,Madhubani,Benipatti,Benipatti,26.4425,85.94916667,Dhakjari,"Dug Well",W29578,2013,1.31,NA,1.93,3.55
+BR,Madhubani,Madhepur,Madhawpur,26.58416667,85.83361111,Bihari,"Dug Well",W29632,2013,2.7,NA,2.6,4.1
+BR,Madhubani,Rajnagar,Khajauli,26.43333333,86.15416667,Karmanli-1,"Dug Well",W12853,2013,NA,NA,NA,4.55
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2013,NA,4.27,2.71,NA
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,2013,NA,NA,NA,5.68
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2013,3.4,6.17,1.68,5.44
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2013,'0.65,2.32,'0.94,2.57
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2013,2.42,4.32,2.74,4.52
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2013,4,6.82,4.39,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2013,'0.85,2.81,2.41,NA
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2013,NA,NA,1.27,2.81
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2013,3.33,NA,3.51,5.4
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2013,1,3.18,2.09,4.06
+BR,Madhubani,Harlakhi,Basipatti,26.5,85.97083333,Khutauna-1,"Dug Well",W12837,2013,NA,NA,NA,6.2
+BR,Madhubani,Jhanjharpur,Jhanjharpur,26.26694444,86.27972222,Jhanjharpur,"Dug Well",W29527,2013,'0.2,NA,'0.57,3.08
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2012,NA,3.25,4.36,4.95
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2012,NA,2.7,3.77,NA
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2012,NA,2.3,5.57,5.32
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2012,NA,1.4,1.87,2.02
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2012,NA,1.87,3.74,3.58
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2012,NA,NA,NA,5.64
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2012,NA,1.75,2.11,NA
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2012,NA,NA,2.42,2.51
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2012,NA,NA,NA,3.74
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2012,NA,2.54,2.66,2.82
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2012,NA,4.02,4.7,6.45
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2011,3.4,4.27,3.75,NA
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2011,NA,3.71,NA,NA
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2011,1.5,4.5,NA,5.19
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2011,'0.95,2.21,1.4,2.36
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2011,1.87,3.32,2.12,3.77
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2011,3.84,NA,3.4,6
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2011,1.1,2.38,1.95,1.43
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2011,'0.95,NA,1.8,1.16
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2011,NA,NA,1.8,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2011,2.5,NA,2.7,NA
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2011,1.8,2.51,2.38,1.94
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2011,4.7,5.03,3.68,NA
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2010,3.05,3.68,3.84,5.33
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2010,'0.78,2.95,3.89,5.1
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2010,1.09,1.7,2.15,2.65
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2010,1.27,2.42,NA,3.62
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2010,1.48,NA,NA,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2010,1.14,2.7,2.5,6.6
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2010,2.18,2.85,3.5,4.28
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2010,1.75,2.4,2.63,2.84
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2010,2.08,4.56,3.73,5.43
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2009,1.22,3.85,3.55,NA
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2009,NA,2.35,2.1,3.5
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2009,NA,1.45,1.05,2.96
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2009,NA,2.52,NA,3.6
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2009,NA,1.9,NA,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2009,1.63,2.05,1.7,2.55
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2009,NA,'0.7,NA,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2009,NA,3.1,2.5,NA
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2009,NA,3.63,2.12,3
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2009,2.73,4.18,3.28,5.12
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2008,2.45,3.9,3.65,5.15
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2008,NA,NA,2.5,NA
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2008,NA,NA,2.2,3.65
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2008,NA,1.47,NA,NA
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2008,'0.45,2.06,2.1,5.75
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2008,NA,1.59,NA,3.35
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2008,'0.3,'0.84,2.4,3.1
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2008,NA,NA,NA,1.7
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2008,NA,NA,NA,7.17
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2008,1.3,2.84,3.84,4.05
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2008,1.2,2.34,2.78,4.3
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2008,3,4.73,5.1,4.38
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2007,2.45,5.1,3.5,NA
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2007,'0.6,3.95,1.5,4
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2007,NA,NA,NA,2.35
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2007,NA,NA,1.42,3.18
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2007,NA,7.3,2.92,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2007,NA,3.03,'0.53,'0.7
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,2007,NA,1.58,1.4,1.9
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2007,NA,1.58,1.4,1.9
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2007,NA,2.04,NA,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2007,1.4,4.08,2.46,4.1
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2007,1.05,3.01,2.7,2.6
+BR,Madhubani,Harlakhi,Basipatti,26.5,85.97083333,Khutauna-1,"Dug Well",W12837,2007,'0.43,NA,1.8,3.12
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2007,'0.43,NA,1.8,3.12
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2006,5.45,NA,4.1,6.02
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2006,1.45,NA,NA,4.26
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2006,2.19,3.5,2.36,NA
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2006,'0.9,NA,NA,NA
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2006,4.41,2.51,NA,NA
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2006,NA,6,NA,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2006,'0.25,NA,'0.8,2.95
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2006,NA,NA,NA,2.68
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2006,4.11,NA,1.4,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2006,NA,NA,3.27,5
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2006,2.71,2.5,2.07,3.41
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2006,3.48,NA,3.88,7.61
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07944444,Pandaul-2,"Dug Well",W17758,2005,NA,3.55,4.75,4.99
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,2005,NA,2.35,NA,2.68
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,2005,NA,2.55,1.73,4.63
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,2005,NA,4.69,4.18,5.78
+BR,Madhubani,Basopatti,Jainagar,26.53333333,86.10416667,Narar-2,"Dug Well",W17754,2005,NA,3.5,3.2,3.11
+BR,Madhubani,Benipatti,Benipatti,26.45833333,85.97083333,Benipatti-2,"Dug Well",W17755,2005,NA,2.55,1.73,4.63
+BR,Madhubani,Khajauli,Babubari,26.49583333,86.16666667,Khajauli-2,"Dug Well",W17756,2005,NA,4.92,2.37,4.82
+BR,Madhubani,Pandaul,Pandaul,26.25,86.13333333,Bhawanipur-2,"Dug Well",W17757,2005,NA,4.69,4.18,5.78
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2005,NA,2.5,NA,2.31
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07916667,Pandaul-1,"Dug Well",W12845,2005,NA,3.55,4.75,4.99
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2005,NA,NA,2.65,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2005,NA,3.4,3.55,4.16
+BR,Madhubani,Rajnagar,Khajauli,26.43333333,86.15416667,Karmanli-1,"Dug Well",W12853,2005,NA,1.8,NA,NA
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2005,NA,1.69,2.3,3.46
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,2005,NA,3.5,3.2,3.11
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2005,NA,2.4,NA,3.86
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,2005,NA,4.92,2.37,4.82
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2005,NA,NA,NA,4.18
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2004,NA,2.45,NA,NA
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,2004,NA,1.48,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,2004,'0.42,4.53,4.46,4.24
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2004,'0.7,1.85,2.8,1.06
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07916667,Pandaul-1,"Dug Well",W12845,2004,NA,3.85,4.08,4.89
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2004,'0.2,2.85,NA,NA
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,2004,NA,1.86,NA,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2004,'0.55,3.4,NA,NA
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2004,NA,2.95,2.92,NA
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,2004,NA,2.35,NA,NA
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2004,NA,1.6,4.01,NA
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,2004,NA,2.15,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2004,NA,3.45,2.23,NA
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,2003,1.85,NA,1.8,3.38
+BR,Madhubani,Madhubani,Madhubani,26.35,86.00277778,Kapileshwar-2,"Dug Well",W12843,2003,NA,NA,NA,3.4
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2003,'0.4,4.1,2.6,1.1
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07916667,Pandaul-1,"Dug Well",W12845,2003,2.1,5.1,3.21,3.45
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2003,NA,4.5,3.6,NA
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2003,NA,3.57,NA,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2003,NA,NA,NA,3.4
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47888889,Phulparas-4,"Dug Well",W12852,2003,NA,4.5,NA,NA
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2003,1.5,3.65,3.1,2.1
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,2003,1.62,2.65,3.5,1.8
+BR,Madhubani,Ghoghardiha,Phulparas,26.3,86.34166667,Pipraulia-2,"Dug Well",W12836,2003,NA,3.57,NA,NA
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2003,NA,3.45,NA,NA
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,2003,1.1,NA,2.35,NA
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.4,Khutauna-4,"Dug Well",W12841,2003,NA,3.45,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,2003,3.1,5.5,5.4,NA
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,2002,NA,NA,NA,2.48
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2002,4.39,2.32,1.54,'0.6
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07916667,Pandaul-1,"Dug Well",W12845,2002,3.1,3.63,4.35,4.9
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2002,4.4,1.53,1.5,4.4
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2002,3.1,1.75,NA,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2002,NA,2.88,4.6,4.3
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47888889,Phulparas-4,"Dug Well",W12852,2002,4.4,1.53,1.5,4.4
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2002,3.35,2.55,2.3,2.3
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,2002,NA,2.55,2.3,NA
+BR,Madhubani,Ghoghardiha,Phulparas,26.3,86.34166667,Pipraulia-2,"Dug Well",W12836,2002,3.1,1.75,NA,NA
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2002,3.25,1.78,3.67,2.1
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,2002,NA,NA,NA,2.87
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.4,Khutauna-4,"Dug Well",W12841,2002,3.25,1.78,3.67,2.1
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,2002,3.7,NA,NA,NA
+BR,Madhubani,Madhubani,Madhubani,26.35,86.00277778,Kapileshwar-2,"Dug Well",W12843,2002,NA,2.88,4.6,4.3
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,2002,5.3,3.08,4.08,6.78
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2001,NA,2.93,NA,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2001,-1.78,1.56,1.36,1.66
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,2001,4.32,3.58,4.96,4.78
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07916667,Pandaul-1,"Dug Well",W12845,2001,'0.83,4.31,1.37,4.8
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2001,NA,1.11,NA,1.4
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2001,'0.41,NA,1.93,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2001,-0.54,3.39,1.78,NA
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47888889,Phulparas-4,"Dug Well",W12852,2001,NA,1.11,NA,1.4
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2001,'0.18,3.06,1.87,2
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,2001,'0.78,NA,1.08,2.85
+BR,Madhubani,Ghoghardiha,Phulparas,26.3,86.34166667,Pipraulia-2,"Dug Well",W12836,2001,'0.96,NA,1.93,NA
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2001,NA,2.78,NA,4.25
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,2001,NA,NA,NA,3.17
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.4,Khutauna-4,"Dug Well",W12841,2001,NA,2.78,NA,4.25
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,2001,NA,1.56,NA,NA
+BR,Madhubani,Madhubani,Madhubani,26.35,86.00277778,Kapileshwar-2,"Dug Well",W12843,2001,'0.66,3.39,1.78,NA
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,2001,NA,2.16,NA,NA
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,2000,NA,3.02,2.25,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,2000,'0.11,1.47,1.2,1.27
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,2000,4.4,4.03,3.38,5.46
+BR,Madhubani,Pandaul,Pandaul,26.25416667,86.07916667,Pandaul-1,"Dug Well",W12845,2000,NA,NA,3.85,NA
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,2000,NA,2.15,NA,2.26
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.10027778,Phulparas-3,"Dug Well",W12847,2000,'0.5,NA,'0.1,NA
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,2000,'0.9,2.85,NA,2.2
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,2000,'0.73,2.9,2.8,3.48
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47916667,Phulparas-2,"Dug Well",W12851,2000,NA,2.15,NA,2.26
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47888889,Phulparas-4,"Dug Well",W12852,2000,'0.5,NA,'0.1,NA
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,2000,'0.81,2.45,2.5,3.66
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,2000,'0.77,2.8,NA,3.6
+BR,Madhubani,Ghoghardiha,Phulparas,26.3,86.34166667,Pipraulia-2,"Dug Well",W12836,2000,'0.9,2.85,NA,2.2
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,2000,NA,1.9,2.5,NA
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,2000,'0.47,2.82,NA,3.14
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.4,Khutauna-4,"Dug Well",W12841,2000,NA,1.9,2.5,NA
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,2000,NA,1.41,'0.86,1.74
+BR,Madhubani,Madhubani,Madhubani,26.35,86.00277778,Kapileshwar-2,"Dug Well",W12843,2000,'0.73,2.9,2.8,3.48
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,2000,NA,NA,1.38,NA
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,1999,NA,1.29,'0.98,2.51
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,1999,'0.95,2.02,2.86,4.71
+BR,Madhubani,Madhubani,Madhubani,26.35,86.00277778,Kapileshwar-2,"Dug Well",W12843,1999,1.75,2.42,1.78,3.84
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.4,Khutauna-4,"Dug Well",W12841,1999,NA,NA,1.72,NA
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.39972222,Khutauna-2,"Dug Well",W12840,1999,NA,4.92,NA,3.78
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,1999,1.95,2.99,2,3.24
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,1999,2.06,1.46,1.23,2.05
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,1999,NA,3.43,NA,4.21
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,1999,1.3,2.58,1.35,2.88
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,1999,1.75,2.42,1.78,3.84
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,1999,4.97,4.46,3.8,5.77
+BR,Madhubani,Ghoghardiha,Phulparas,26.3,86.34166667,Pipraulia-2,"Dug Well",W12836,1999,NA,1.84,2.4,NA
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,1999,NA,1.84,2.4,NA
+BR,Madhubani,Rajnagar,Khajauli,26.43333333,86.15416667,Karmanli-1,"Dug Well",W12853,1999,NA,NA,NA,4.35
+BR,Madhubani,Harlakhi,Basipatti,26.5,85.97083333,Khutauna-1,"Dug Well",W12837,1999,NA,4.92,NA,3.78
+BR,Madhubani,Harlakhi,Basipatti,26.50027778,85.97111111,Khutauna-3,"Dug Well",W12838,1999,NA,NA,1.72,NA
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,1999,NA,1.63,1.15,2.16
+BR,Madhubani,Rajnagar,Khajauli,26.43361111,86.15361111,Karmanli-2,"Dug Well",W12854,1999,NA,NA,2.72,NA
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47916667,Phulparas-2,"Dug Well",W12851,1999,NA,1.63,1.15,2.16
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,1998,NA,'0.94,'0.8,2.44
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.39972222,Khutauna-2,"Dug Well",W12840,1998,NA,NA,2.05,NA
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,1998,'0.2,1.57,1.74,4.52
+BR,Madhubani,Harlakhi,Basipatti,26.5,85.97083333,Khutauna-1,"Dug Well",W12837,1998,NA,NA,2.05,NA
+BR,Madhubani,Ghoghardiha,Phulparas,26.3,86.34166667,Pipraulia-2,"Dug Well",W12836,1998,NA,1.65,1.45,3.45
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,1998,'0.05,1.42,2.2,3.14
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,1998,'0.55,2.29,2.36,3.35
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,1998,'0.86,1.48,3.77,5.28
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,1998,NA,1.82,2.68,4.05
+BR,Madhubani,Rajnagar,Khajauli,26.43333333,86.15416667,Karmanli-1,"Dug Well",W12853,1998,NA,NA,1.98,NA
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47916667,Phulparas-2,"Dug Well",W12851,1998,NA,'0.96,1.18,3.12
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,1998,'0.57,2.39,2.1,3.88
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,1998,NA,1.65,1.45,3.45
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,1998,NA,'0.96,1.18,3.12
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,1998,'0.55,1.35,'0.9,3.18
+BR,Madhubani,Madhubani,Madhubani,26.35,86.00277778,Kapileshwar-2,"Dug Well",W12843,1998,'0.57,2.39,2.1,3.88
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,1997,1.3,1.82,2.52,3.08
+BR,Madhubani,Madhubani,Madhubani,26.35,86.00277778,Kapileshwar-2,"Dug Well",W12843,1997,'0.53,2.94,2.25,3.87
+BR,Madhubani,Harlakhi,Basipatti,26.5,85.97083333,Khutauna-1,"Dug Well",W12837,1997,NA,4.77,NA,NA
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,1997,'0.53,2.94,2.25,3.87
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,1997,2.6,2.41,2.56,3.09
+BR,Madhubani,Ghoghardiha,Phulparas,26.3,86.34166667,Pipraulia-2,"Dug Well",W12836,1997,1.3,1.82,2.52,3.08
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47916667,Phulparas-2,"Dug Well",W12851,1997,'0.8,1.09,2.2,2.24
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,1997,'0.7,1.76,2.25,3.57
+BR,Madhubani,Rajnagar,Khajauli,26.43333333,86.15416667,Karmanli-1,"Dug Well",W12853,1997,NA,2.18,NA,NA
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,1997,'0.8,1.09,2.2,2.24
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.39972222,Khutauna-2,"Dug Well",W12840,1997,NA,4.77,NA,NA
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,1997,'0.88,1.36,2.43,3.7
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,1997,NA,1.78,2.64,2.56
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,1997,'0.08,1.08,1.6,1.76
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,1997,'0.98,1.82,3.23,5.08
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,1997,'0.83,1.83,2.6,2.51
+BR,Madhubani,Jainagar,Jainagar,26.575,86.1625,Jaynagar,"Dug Well",W12651,1996,1.54,2.91,2.9,2.97
+BR,Madhubani,Basopatti,Jainagar,26.52916667,86.10416667,Narar-1,"Dug Well",W12835,1996,'0.42,3.25,2.29,3.51
+BR,Madhubani,Ghoghardiha,Phulparas,26.3,86.34166667,Pipraulia-2,"Dug Well",W12836,1996,1.57,3.02,2.22,3.57
+BR,Madhubani,Harlakhi,Basipatti,26.5,85.97083333,Khutauna-1,"Dug Well",W12837,1996,2.85,4.79,5.13,3.83
+BR,Madhubani,Khajauli,Babubari,26.48333333,86.16388889,Khajauli-1,"Dug Well",W12839,1996,1.52,3.43,1.59,2.43
+BR,Madhubani,"Laukaha (khutauna)",Laukaha,26.50833333,86.39972222,Khutauna-2,"Dug Well",W12840,1996,2.85,4.79,5.13,3.83
+BR,Madhubani,Madhepur,Lakhnaur,26.17083333,86.325,Madhepur,"Dug Well",W12842,1996,'0.88,1.71,2.19,2.28
+BR,Madhubani,Madhubani,Madhubani,26.35,86.00277778,Kapileshwar-2,"Dug Well",W12843,1996,1.9,4.1,1.95,NA
+BR,Madhubani,Madhubani,Rajnagar,26.35,86.06666667,Madhubani,"Dug Well",W12844,1996,'0.55,1.86,3.45,2.12
+BR,Madhubani,Pandaul,Pandaul,26.2625,86.1,Phulparas-1,"Dug Well",W12846,1996,2.79,2.35,'0.98,NA
+BR,Madhubani,Pandaul,Pandaul,26.2875,86.06666667,Pipraulia-1,"Dug Well",W12848,1996,1.57,3.02,2.22,3.57
+BR,Madhubani,Phulparas,Laukahi,26.36666667,86.5,Kapileshwar-1,"Dug Well",W12849,1996,1.9,4.1,1.95,NA
+BR,Madhubani,Phulparas,Phulparas,26.35833333,86.47916667,Phulparas-2,"Dug Well",W12851,1996,2.79,2.35,'0.98,NA
+BR,Madhubani,Rajnagar,Khajauli,26.43333333,86.15416667,Karmanli-1,"Dug Well",W12853,1996,1.58,4.75,2.01,2.89
+BR,Madhubani,Benipatti,Benipatti,26.41388889,85.88,Benipatti-1,"Dug Well",W12568,1996,1.49,4.14,NA,3.99
+BR,Madhubani,Pandaul,Pandaul,26.2375,86.10277778,Bhawanipur-1,"Dug Well",W12569,1996,2.28,4.82,3.2,4.62

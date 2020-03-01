@@ -1,0 +1,292 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2018,24.5,23.72,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75944444,76.80416667,"Sec-27, Ar Well","Tube Well",W30364,2018,41.85,NA,NA,42.38
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2018,2.69,2.83,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2018,2.65,14.99,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2018,17.67,17.62,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2018,54.2,51.81,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2018,3.02,NA,NA,8.11
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2018,10.53,NA,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2018,32.98,NA,NA,32.51
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,Sector-46(deep),"Tube Well",W32173,2018,66.53,63.28,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-deep,"Tube Well",W32176,2018,36.97,50.82,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (S)","Tube Well",W30334,2018,11.98,11.82,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (S)","Tube Well",W30337,2018,2.86,3.95,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,CSIO-S,"Tube Well",W30339,2018,22.14,22.21,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (S)","Tube Well",W30351,2018,2.99,4.98,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75416667,76.71944444,"Maloya Pz-Deep","Tube Well",W30361,2018,45.04,40.95,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Bhujal Bhawan Pz- Deep","Tube Well",W32180,2018,NA,NA,41.67,100.32
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (S)","Tube Well",W30359,2018,NA,NA,32.82,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 12 (D)","Tube Well",W30360,2018,29.45,NA,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2018,18.93,19.25,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2017,NA,50.49,51.44,51.14
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (S)","Tube Well",W30350,2017,5.28,5.85,NA,6.56
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2017,19.43,19.02,19.34,19.94
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2017,2.57,2.72,2.44,2.75
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2017,14.65,15.53,15.65,15.12
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2017,17.71,17.52,17.88,18.82
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2017,7.03,NA,7.24,8.59
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2017,3.28,4.15,3.69,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2017,26.8,28.38,27.7,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (S)","Tube Well",W30334,2017,11.76,11.48,11.76,11.84
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (S)","Tube Well",W30337,2017,3.44,3.95,3.74,4.75
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,CSIO-S,"Tube Well",W30339,2017,22.2,22.05,22.24,22.28
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (S)","Tube Well",W30351,2017,4.81,4.89,4.77,5.35
+CH,Chandigarh,Chandigarh,Chandigarh,30.75416667,76.71944444,"Maloya Pz-Deep","Tube Well",W30361,2017,39.78,40.9,42.86,43.36
+CH,Chandigarh,Chandigarh,Chandigarh,30.75944444,76.80416667,"Sec-27, Ar Well","Tube Well",W30364,2017,41.11,41.01,41.16,62.54
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-deep,"Tube Well",W32176,2017,55.55,NA,51.48,55.22
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,Sector-46(deep),"Tube Well",W32173,2017,61.09,59.61,62.66,61.08
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (S)","Tube Well",W30359,2017,15.7,17.2,15.35,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2017,23.86,23.4,23.84,25.74
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2016,2.66,2.56,2.82,2.72
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-deep,"Tube Well",W32176,2016,NA,53.27,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2016,23.44,22.27,23.68,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2016,29.01,15.72,28.85,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2016,NA,NA,50.57,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2016,22.06,18.09,19.12,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2016,17.3,17.15,18.36,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2016,15.85,12.73,15.61,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2016,NA,NA,4.24,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2016,7.13,6.52,5.52,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (S)","Tube Well",W30334,2016,11.33,11.27,9.15,11.64
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (S)","Tube Well",W30337,2016,3.03,2.57,NA,3.49
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,CSIO-S,"Tube Well",W30339,2016,NA,21.34,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (S)","Tube Well",W30350,2016,5.75,5.23,6.24,5.85
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (S)","Tube Well",W30351,2016,4.46,4.58,5.06,5.1
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (S)","Tube Well",W30359,2016,16.22,28.63,NA,14.88
+CH,Chandigarh,Chandigarh,Chandigarh,30.75416667,76.71944444,"Maloya Pz-Deep","Tube Well",W30361,2016,NA,NA,45.95,40.01
+CH,Chandigarh,Chandigarh,Chandigarh,30.75944444,76.80416667,"Sec-27, Ar Well","Tube Well",W30364,2016,NA,39.7,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,Sector-46(deep),"Tube Well",W32173,2016,NA,53.86,40.66,55.79
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2016,20.32,NA,NA,20.32
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2015,2.44,2.47,2.72,3.07
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-deep,"Tube Well",W32176,2015,NA,NA,51.72,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2015,22.29,22.39,18.64,23.07
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2015,14.97,26.35,15.85,26.53
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2015,49.56,47.04,49.34,48.85
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2015,18.68,18.33,19.52,18.84
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2015,16.28,10.02,17.1,18.57
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2015,9.54,NA,10.55,12.25
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2015,NA,7.65,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (S)","Tube Well",W30334,2015,11.14,10.36,11.16,11.13
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (S)","Tube Well",W30337,2015,2.59,2.97,3.05,5.34
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,CSIO-S,"Tube Well",W30339,2015,NA,20.88,NA,21.71
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (S)","Tube Well",W30342,2015,10.4,7.78,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (S)","Tube Well",W30350,2015,5.01,4.36,5.36,3.55
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (S)","Tube Well",W30351,2015,4.5,3.96,4.56,6.43
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (S)","Tube Well",W30359,2015,14.97,13.73,NA,15.1
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 12 (D)","Tube Well",W30360,2015,NA,34.45,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75416667,76.71944444,"Maloya Pz-Deep","Tube Well",W30361,2015,NA,NA,NA,10.28
+CH,Chandigarh,Chandigarh,Chandigarh,30.75944444,76.80416667,"Sec-27, Ar Well","Tube Well",W30364,2015,39.26,40.86,39.67,38.47
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,Sector-46(deep),"Tube Well",W32173,2015,NA,NA,54.48,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2015,NA,21.69,NA,21.07
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2014,2.62,2.79,2.79,2.92
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Sec-27, Cgwb Building","Tube Well",W32179,2014,88.21,NA,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2014,21.36,22.54,18.84,22.94
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2014,26.6,27.95,NA,25.79
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2014,NA,14.15,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2014,47.54,48.44,NA,47.87
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2014,17.86,17.64,19.12,17.67
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2014,11,17.69,16.62,16.63
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2014,NA,8.55,10.97,9.15
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2014,NA,6.55,6.72,6.4
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (S)","Tube Well",W30334,2014,4.66,10.83,12.51,10.79
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (S)","Tube Well",W30337,2014,NA,2.59,3.15,2.8
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,CSIO-S,"Tube Well",W30339,2014,21.03,20.53,20.84,20.74
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (S)","Tube Well",W30342,2014,NA,NA,NA,9.46
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (S)","Tube Well",W30350,2014,4.42,4.15,5.15,4.47
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (S)","Tube Well",W30351,2014,4.21,2.36,4.76,4.31
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (S)","Tube Well",W30359,2014,13.48,15.88,16.16,15.13
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 12 (D)","Tube Well",W30360,2014,33.66,NA,33.15,30.05
+CH,Chandigarh,Chandigarh,Chandigarh,30.75416667,76.71944444,"Maloya Pz-Deep","Tube Well",W30361,2014,NA,45.13,NA,38.5
+CH,Chandigarh,Chandigarh,Chandigarh,30.75944444,76.80416667,"Sec-27, Ar Well","Tube Well",W30364,2014,44.75,38.73,38.97,44.41
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,Sector-46(deep),"Tube Well",W32173,2014,49.22,50.44,NA,53.12
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-deep,"Tube Well",W32176,2014,53.12,51.18,NA,51.02
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2014,21.04,20.67,23.57,20.87
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2013,3.97,2.81,2.82,4.62
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Bhujal Bhawan Pz- Deep","Tube Well",W32180,2013,87.1,83.66,87.13,87.51
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2013,12.79,20.52,18.19,22.49
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2013,25.95,25.63,26.84,27.75
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2013,14.05,14.07,14.62,15.4
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2013,47.34,NA,47.34,47.84
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2013,19.58,18.24,19.05,19.92
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2013,16.08,16.41,17.31,17.92
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2013,7.05,10.63,4.65,8.55
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2013,NA,NA,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2013,6.1,7.22,6.44,6.18
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (S)","Tube Well",W30334,2013,11.24,9.36,11.44,9.61
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (S)","Tube Well",W30337,2013,1.95,3.55,2.55,2.05
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,CSIO-S,"Tube Well",W30339,2013,20.33,20.51,20.5,21.48
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (S)","Tube Well",W30342,2013,NA,NA,NA,11.42
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (S)","Tube Well",W30350,2013,3.48,6.19,4.15,5.4
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (S)","Tube Well",W30351,2013,3.92,4.16,4.43,6.36
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (S)","Tube Well",W30359,2013,14.18,NA,16.27,15.58
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 12 (D)","Tube Well",W30360,2013,32.74,34.45,30.06,34.35
+CH,Chandigarh,Chandigarh,Chandigarh,30.75416667,76.71944444,"Maloya Pz-Deep","Tube Well",W30361,2013,49.96,NA,49.74,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75944444,76.80416667,"Sec-27, Ar Well","Tube Well",W30364,2013,38.46,37.21,38.51,38.36
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,Sector-46(deep),"Tube Well",W32173,2013,54.47,54.58,54.87,54.57
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-deep,"Tube Well",W32176,2013,53.62,20.6,53.46,53.82
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2013,22,23.76,20.52,20.47
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2012,NA,3.11,2.5,3.12
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Bhujal Bhawan Pz- Deep","Tube Well",W32180,2012,NA,NA,77.11,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2012,NA,19.66,21.62,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2012,NA,26.61,27.15,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2012,NA,13.5,10.13,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2012,NA,46.43,47.78,48.04
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2012,NA,17.33,18.2,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2012,NA,16.56,16.52,19.82
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2012,NA,NA,8.21,8.55
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2012,NA,NA,8.37,10.08
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2012,NA,NA,7.08,8.98
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (S)","Tube Well",W30334,2012,NA,NA,9.3,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (S)","Tube Well",W30337,2012,NA,NA,2.03,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,CSIO-S,"Tube Well",W30339,2012,NA,NA,20.58,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (S)","Tube Well",W30342,2012,NA,NA,8.42,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (S)","Tube Well",W30350,2012,NA,NA,4.57,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (S)","Tube Well",W30351,2012,NA,NA,4.16,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (S)","Tube Well",W30359,2012,NA,NA,15.44,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 12 (D)","Tube Well",W30360,2012,NA,NA,34.2,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75944444,76.80416667,"Sec-27, Ar Well","Tube Well",W30364,2012,NA,NA,35.01,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,Sector-46(deep),"Tube Well",W32173,2012,NA,NA,52.55,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-deep,"Tube Well",W32176,2012,NA,NA,54.3,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2012,NA,20.59,20.72,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2011,2.82,2.96,3.41,2.84
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2011,21.57,20.5,21,20.33
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2011,21.94,21.09,21.68,21.67
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Sec-27, AR Well","Tube Well",W01462,2011,NA,NA,NA,37.67
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2011,NA,NA,27.48,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2011,13.52,13.02,14.18,13.65
+CH,Chandigarh,Chandigarh,Chandigarh,30.71388889,76.78055556,"SECT 33","Tube Well",W22407,2011,11.16,NA,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2011,19.42,17.24,20,18.1
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2011,16.62,16.86,17.62,17.97
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2011,8.75,6.29,8.61,8.38
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2011,8.5,7.3,8.38,8.3
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2011,6.83,6.54,6.58,6.48
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2011,47.04,46.48,48.25,46.04
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2010,2.17,2.72,2.44,2.84
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2010,19.12,NA,18.82,20.23
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2010,17.49,17.74,21.97,22.12
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2010,NA,15.45,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2010,13.65,13.08,12.94,14.24
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2010,6.84,6.97,6.73,7.32
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2010,19.37,17.45,17.87,19.74
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2010,16.95,14.95,16.58,18.75
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2010,4.85,6.12,5.76,6.2
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2010,8.04,7.54,7.61,8.62
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2010,45.75,44.84,46.04,46.97
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2009,2.82,2.77,2.79,2.84
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2009,NA,NA,19.89,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2009,21.04,21.57,22.21,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Sec-27, AR Well","Tube Well",W01462,2009,36.98,NA,37.73,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2009,25.05,25.23,NA,25.28
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2009,6.98,7.7,6.73,5.46
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2009,46.14,NA,45.09,45.39
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2009,17.62,NA,17.87,18.66
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2009,18.42,17.44,17.97,18.6
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2009,6.15,NA,6.33,6.25
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2009,9.4,1.39,7.64,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2009,14.33,11.73,13.35,13.33
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2008,2.24,2.86,2.15,2.92
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2008,NA,20.57,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2008,NA,21.84,21.54,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Sec-27, AR Well","Tube Well",W01462,2008,36.49,39.01,36.52,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2008,NA,24.38,22.22,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2008,12.21,13.13,12.05,13.73
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2008,NA,NA,NA,44.28
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2008,17.25,18.07,16.77,18.61
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2008,17.04,17.72,13.47,18.76
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2008,6.18,6.15,5.82,6.22
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2008,7.02,8.5,NA,8.53
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2008,7.27,6.36,NA,7.36
+CH,Chandigarh,Chandigarh,Chandigarh,30.75555556,76.79444444,"SECT 10C (S)","Tube Well",W21510,2008,NA,44.36,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2007,17.81,17.52,17.97,18.9
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2007,13.63,17.45,13.28,13.86
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2007,NA,NA,25.98,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2007,5.72,6.36,6.24,6.41
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2007,6.21,20.55,6.22,6.23
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2007,44.73,NA,45.73,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2007,18.49,NA,19.43,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2007,22.3,NA,21.93,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2007,NA,NA,18.13,18.14
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2007,8.92,NA,8.87,10
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Sec-27, AR Well","Tube Well",W01462,2007,35.99,NA,35.84,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2007,2.42,2.53,2.65,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2006,13.77,12.76,13.22,13.56
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2006,NA,22.36,NA,22.56
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Sec-27, AR Well","Tube Well",W01462,2006,NA,32.3,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2006,2.57,2.77,2.68,2.91
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2006,8.16,6.09,6.3,6.42
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2006,18.25,19.5,21.15,19.86
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2006,18.12,16.46,17.91,18.23
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2005,15.92,14.92,16.84,16.56
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2005,6.54,5.76,5.88,6.29
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2005,2.22,2.95,2.6,2.98
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2005,20.28,19.24,19.9,17.37
+CH,Chandigarh,Chandigarh,Chandigarh,30.75972222,76.80416667,"Sec-27, AR Well","Tube Well",W01462,2005,34.51,NA,34.45,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2005,21.71,21.25,21.98,21.85
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2005,12.21,12.24,13.45,13.03
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2004,5.17,5.56,4.48,5.98
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2004,2.53,2.53,2.68,2.97
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2004,20.81,21,21.55,21.05
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2004,11.94,11.78,12.33,12.35
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2004,15.21,14.22,15.01,15.35
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2004,20.13,17.14,20.56,19.67
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2004,NA,11.89,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2003,21.2,19.92,20.95,21.45
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2003,12.03,10.93,12.23,11.74
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2003,12.25,12.09,12.3,13.3
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2003,18.75,16.34,18.95,17.88
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2003,NA,NA,8.56,6.58
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2003,2.12,2.72,2.37,2.92
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2003,14.42,13.59,14.62,15.23
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2003,NA,NA,NA,14.3
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2002,18.77,17.37,NA,18
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2002,2.34,2.64,2.67,2.87
+CH,Chandigarh,Chandigarh,Chandigarh,30.70333333,76.76944444,"Sector-46 (shallow)","Tube Well",W01479,2002,6.08,NA,6.2,5.43
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2002,14.4,11.11,11.88,12.7
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2002,18.55,4.67,17.06,17.71
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2002,15.22,14.02,14.42,14.17
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2002,14.52,13.87,13.74,14.28
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2002,NA,25.45,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2002,12.03,10.65,11.12,11.64
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2002,NA,18.45,19.9,19.56
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2001,25.78,NA,NA,18.49
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2001,14.05,13.85,12.05,15.35
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2001,10.02,9.99,9.83,10.94
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2001,9.98,NA,NA,11.9
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2001,12.37,12.36,9.02,14.18
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2001,NA,NA,NA,17.75
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2001,12.95,13.77,13.42,13.6
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2001,2,2.48,2.32,2.79
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2001,18.01,18.21,17.35,18.08
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,2000,10.95,10.55,9.71,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,2000,17.36,21.35,17.45,17.48
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,2000,12.28,12.04,12.89,14.08
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,2000,2.22,2.57,2.6,3.13
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,2000,25.09,NA,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,2000,17.02,NA,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,2000,14.14,13.24,13.22,13.83
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,2000,14.85,13.57,11.93,15.55
+CH,Chandigarh,Chandigarh,Chandigarh,30.7125,76.78527778,Csio-combined,"Tube Well",W01458,2000,17.57,NA,17.47,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,2000,10.12,9.6,NA,10.8
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,1999,9.2,6.5,9.59,9.73
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.74305556,"SECT 37D (D)","Tube Well",W01473,1999,10.82,NA,11.38,10.42
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.72777778,"SECT 39D (D)","Tube Well",W01475,1999,13.25,NA,13.74,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,1999,2.42,2.42,2.57,2.64
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,1999,12.52,8.27,13.13,12.62
+CH,Chandigarh,Chandigarh,Chandigarh,30.7375,76.7875,"SECT 3","Tube Well",W01470,1999,22.54,NA,23.34,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,1999,NA,8.63,NA,11.78
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,1999,19.1,16.65,16.91,16.69
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,1998,NA,2.32,2.42,2.72
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,1998,NA,9.43,8.3,10.23
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,1998,NA,6.6,6.4,7.1
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,1998,NA,10.02,9.12,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,1997,NA,3.02,2.24,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,1997,NA,14.35,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,1997,NA,9.98,9.45,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.69166667,76.78611111,"New Indust Area","Tube Well",W01461,1997,NA,16.01,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70555556,76.78055556,"SECT 31D (D)","Tube Well",W01471,1997,NA,9.87,10.82,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,1997,NA,7.35,6.96,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70972222,76.80138889,"SECT 44D (D)","Tube Well",W01477,1996,NA,7.1,NA,NA
+CH,Chandigarh,Chandigarh,Chandigarh,30.70833333,76.79444444,Burail,"Dug Well",W01457,1996,1.81,2.87,2.65,3.22
+CH,Chandigarh,Chandigarh,Chandigarh,30.725,76.77361111,"SECT 21D (D)","Tube Well",W01468,1996,9.78,9.88,9.98,10.53
+CH,Chandigarh,Chandigarh,Chandigarh,30.75,76.78611111,"SECT 10C (D)","Tube Well",W01464,1996,NA,14,15.97,NA
