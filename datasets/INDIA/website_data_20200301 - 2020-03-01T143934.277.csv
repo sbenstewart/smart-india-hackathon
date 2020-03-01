@@ -1,0 +1,465 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2018,NA,4.19,9.14,NA
+TG,Hyderabad,Asifnagar,Tirumalgiri,17.45277778,78.49444444,Picket-1-PZ,"Bore Well",W31159,2018,NA,4.63,8.36,NA
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2018,NA,5.87,19.31,NA
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2018,NA,5.46,4.83,NA
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2018,NA,3.45,5.9,NA
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2018,NA,6.13,8.34,NA
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2018,NA,12.13,16.09,NA
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2018,NA,4.35,15.78,NA
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2018,NA,6.06,6.15,NA
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2018,NA,34.69,13.38,NA
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2018,NA,5.51,8.83,NA
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2018,NA,7.62,18.14,NA
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2018,NA,1.63,9.26,NA
+TG,Hyderabad,Amberpet,Amberpet,17.40055556,78.5175,"DD Colony 2012DW","Dug Well",W25532,2018,NA,3.1,3.65,NA
+TG,Hyderabad,Secunderabad,Musheerabad,17.41944444,78.52055556,"Tarnaka 2012DW","Dug Well",W25537,2018,NA,3.76,3.39,NA
+TG,Hyderabad,Secunderabad,Tirumalgiri,17.44666667,78.47388889,BegampetIMD,"Bore Well",W25547,2018,NA,11.61,13.25,NA
+TG,Hyderabad,Shaikpet,Shaikpet,17.39416667,78.39555556,"Kutubshah Tumbs","Dug Well",W25529,2018,NA,5.24,11,NA
+TG,Hyderabad,Secunderabad,Charminar,17.36805556,78.48638889,"Malakpet 2012DW","Dug Well",W25522,2018,NA,3.6,2.32,NA
+TG,Hyderabad,Golconda,Bandlaguda,17.32472222,78.48027778,Chandrayangutta,"Dug Well",W25504,2018,NA,4.1,3.06,NA
+TG,Hyderabad,Bahadurpura,Bandlaguda,17.33055556,78.47,Falaknama-PZ,"Bore Well",W25508,2018,NA,13.23,11.58,NA
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2018,NA,4.03,3.26,NA
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2017,NA,9.6,5.72,29
+TG,Hyderabad,Secunderabad,Tirumalgiri,17.44666667,78.47388889,BegampetIMD,"Bore Well",W25547,2017,NA,11.24,8.7,36.58
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2017,NA,5.29,4.4,4.2
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2017,2.23,NA,2.58,7.23
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2017,NA,8.46,6.6,NA
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2017,2.3,21.5,3.05,4.38
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2017,4.08,5.53,3.78,6.75
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2017,5.65,6.11,3.83,8.3
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2017,14,14.3,9.83,47.87
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2017,14.45,11.5,11.72,15.42
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2017,7,6.6,8.32,13.9
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2017,NA,9.2,NA,24.63
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2017,5.67,5.8,NA,NA
+TG,Hyderabad,Amberpet,Amberpet,17.40055556,78.5175,"DD Colony 2012DW","Dug Well",W25532,2017,3.1,2.89,9.63,NA
+TG,Hyderabad,Secunderabad,Musheerabad,17.41944444,78.52055556,"Tarnaka 2012DW","Dug Well",W25537,2017,6,11.35,13.18,16.85
+TG,Hyderabad,Shaikpet,Shaikpet,17.39416667,78.39555556,"Kutubshah Tumbs","Dug Well",W25529,2017,5.45,5.58,4.32,7.25
+TG,Hyderabad,Bahadurpura,Bahadurpura,17.36777778,78.4325,Attapur-DW13,"Dug Well",W25521,2017,10.5,10.5,4,16
+TG,Hyderabad,Secunderabad,Charminar,17.36805556,78.48638889,"Malakpet 2012DW","Dug Well",W25522,2017,3.65,2.86,2.6,2.9
+TG,Hyderabad,Golconda,Bandlaguda,17.32472222,78.48027778,Chandrayangutta,"Dug Well",W25504,2017,3.1,4.38,3.3,4.03
+TG,Hyderabad,Bahadurpura,Bandlaguda,17.33055556,78.47,Falaknama-PZ,"Bore Well",W25508,2017,11.4,13.97,9.8,14.6
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2017,NA,8.24,5.02,17.6
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2016,7.73,NA,5.02,NA
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.47027778,78.4925,Bowenpally,"Bore Well",W32543,2016,NA,NA,NA,26.5
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2016,NA,NA,14.85,NA
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2016,NA,NA,8.74,NA
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2016,11.49,NA,3.77,NA
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2016,18.29,NA,4.53,5.69
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2016,14.3,NA,6.66,NA
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2016,NA,NA,3.88,NA
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2016,10.96,NA,5.73,NA
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2016,6.76,NA,NA,NA
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2016,NA,NA,NA,17.3
+TG,Hyderabad,Golconda,Bandlaguda,17.32472222,78.48027778,Chandrayangutta,"Dug Well",W25504,2016,NA,4.45,4.16,5.28
+TG,Hyderabad,Bahadurpura,Bandlaguda,17.33055556,78.47,Falaknama-PZ,"Bore Well",W25508,2016,12.6,13.55,11.48,NA
+TG,Hyderabad,Bahadurpura,Bahadurpura,17.36777778,78.4325,Attapur-DW13,"Dug Well",W25521,2016,11.9,13,7.75,NA
+TG,Hyderabad,Secunderabad,Charminar,17.36805556,78.48638889,"Malakpet 2012DW","Dug Well",W25522,2016,4.12,2.9,3.27,3.42
+TG,Hyderabad,Golconda,Bahadurpura,17.36833333,78.46638889,Bahadurpura,"Dug Well",W25523,2016,6.07,4.9,4.98,5.7
+TG,Hyderabad,Shaikpet,Shaikpet,17.39416667,78.39555556,"Kutubshah Tumbs","Dug Well",W25529,2016,9.74,14.7,4.88,NA
+TG,Hyderabad,Amberpet,Amberpet,17.40055556,78.5175,"DD Colony 2012DW","Dug Well",W25532,2016,1.79,3.81,4.27,NA
+TG,Hyderabad,Secunderabad,Musheerabad,17.41944444,78.52055556,"Tarnaka 2012DW","Dug Well",W25537,2016,13.49,8.61,12.07,13.75
+TG,Hyderabad,Secunderabad,Tirumalgiri,17.44666667,78.47388889,BegampetIMD,"Bore Well",W25547,2016,5.75,15.34,8.58,10.88
+TG,Hyderabad,Bahadurpura,Bahadurpura,17.35972222,78.47388889,"Phoolbagh Chaman","Bore Well",W32519,2016,NA,NA,NA,1.2
+TG,Hyderabad,Bahadurpura,Asifnagar,17.37888889,78.44638889,Attapur,"Dug Well",W32525,2016,NA,NA,NA,5.1
+TG,Hyderabad,Shaikpet,Asifnagar,17.38444444,78.44972222,Gudimalkapur,"Bore Well",W32526,2016,NA,NA,NA,22
+TG,Hyderabad,Golconda,Nampally,17.38444444,78.48472222,Koti,"Bore Well",W32527,2016,NA,NA,NA,7.49
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.46972222,Nampally,"Bore Well",W32528,2016,NA,NA,NA,16.75
+TG,Hyderabad,Secunderabad,Amberpet,17.38833333,78.51805556,Amberpet,"Bore Well",W32529,2016,NA,NA,NA,12.1
+TG,Hyderabad,Shaikpet,Shaikpet,17.3925,78.42361111,"Langar House","Bore Well",W32532,2016,NA,NA,NA,42.8
+TG,Hyderabad,Amberpet,Amberpet,17.40222222,78.51972222,"Dd Colony","Dug Well",W32533,2016,NA,NA,NA,4.3
+TG,Hyderabad,Shaikpet,Shaikpet,17.41166667,78.41277778,"Kutubshah Tumbs","Dug Well",W32534,2016,NA,NA,NA,16.65
+TG,Hyderabad,Shaikpet,Khairatabad,17.415,78.45555556,"Shanti Nagar","Bore Well",W32535,2016,NA,NA,NA,29.8
+TG,Hyderabad,Shaikpet,Khairatabad,17.41666667,78.45666667,Erramanzil,"Bore Well",W32536,2016,NA,NA,NA,5.1
+TG,Hyderabad,Maredpally,Tirumalgiri,17.46194444,78.50111111,"West Maredpally","Bore Well",W32539,2016,NA,NA,NA,24
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2016,NA,NA,6.62,17.3
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2015,8.35,8.48,7.18,8.71
+TG,Hyderabad,Secunderabad,Tirumalgiri,17.44666667,78.47388889,BegampetIMD,"Bore Well",W25547,2015,15.02,NA,14.54,15.5
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2015,24.04,23.16,22.19,70.1
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2015,1.45,2.1,1.3,8.43
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2015,14.28,21.5,NA,14.28
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2015,44.5,32.27,NA,43.45
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2015,10.9,17.02,11.5,16.71
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2015,2.85,4.23,7.86,2.85
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2015,18.35,22.34,20.3,25.28
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2015,5.05,5.6,4.95,6.1
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2015,NA,9.8,NA,54.4
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2015,16.66,20.35,13.25,16.66
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2015,14.39,20.4,16.32,14.39
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2015,NA,8.43,NA,NA
+TG,Hyderabad,Golconda,Bandlaguda,17.32472222,78.48027778,Chandrayangutta,"Dug Well",W25504,2015,3.2,4.4,3.9,4.7
+TG,Hyderabad,Bahadurpura,Bandlaguda,17.33055556,78.47,Falaknama-PZ,"Bore Well",W25508,2015,13.6,13.9,12.6,14.3
+TG,Hyderabad,Bahadurpura,Bahadurpura,17.36777778,78.4325,Attapur-DW13,"Dug Well",W25521,2015,12.82,10.44,12.8,13
+TG,Hyderabad,Secunderabad,Charminar,17.36805556,78.48638889,"Malakpet 2012DW","Dug Well",W25522,2015,2.23,2.67,2.98,3.29
+TG,Hyderabad,Golconda,Bahadurpura,17.36833333,78.46638889,Bahadurpura,"Dug Well",W25523,2015,4.75,4.33,2.97,5.37
+TG,Hyderabad,Shaikpet,Shaikpet,17.39416667,78.39555556,"Kutubshah Tumbs","Dug Well",W25529,2015,13.42,9.95,12.17,13.37
+TG,Hyderabad,Amberpet,Amberpet,17.40055556,78.5175,"DD Colony 2012DW","Dug Well",W25532,2015,2.85,3.25,5.79,3.12
+TG,Hyderabad,Secunderabad,Musheerabad,17.41944444,78.52055556,"Tarnaka 2012DW","Dug Well",W25537,2015,1.9,14.29,12.09,7.1
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2015,44.21,43.27,22.12,70.1
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2014,8.38,5.6,8.01,7.8
+TG,Hyderabad,Asifnagar,Tirumalgiri,17.45277778,78.49444444,Picket-1-PZ,"Bore Well",W31159,2014,NA,9.15,NA,NA
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2014,22.62,16.05,NA,29.1
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2014,NA,4.2,NA,NA
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2014,1.31,1,'0.87,3.47
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2014,20.18,13.8,21.28,18.35
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2014,28.4,14,33.63,34.07
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2014,14.71,6.8,15.64,16.5
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2014,NA,8.8,NA,NA
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2014,4.22,4.1,4.28,3.95
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2014,22.37,17.23,7.58,22.11
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2014,4.2,4.8,5.82,5.37
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2014,NA,8,NA,10.16
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2014,13.3,6.55,17.15,10
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2014,9.1,2.9,17.4,19.4
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2014,6.17,8.3,7.7,7.4
+TG,Hyderabad,Golconda,Bandlaguda,17.32472222,78.48027778,Chandrayangutta,"Dug Well",W25504,2014,2.8,3.4,3.74,4.31
+TG,Hyderabad,Bahadurpura,Bandlaguda,17.33055556,78.47,Falaknama-PZ,"Bore Well",W25508,2014,12.4,11.5,NA,12.8
+TG,Hyderabad,Bahadurpura,Bahadurpura,17.36777778,78.4325,Attapur-DW13,"Dug Well",W25521,2014,9.05,6.7,10.03,10.72
+TG,Hyderabad,Secunderabad,Charminar,17.36805556,78.48638889,"Malakpet 2012DW","Dug Well",W25522,2014,2.43,2.8,2.64,3.18
+TG,Hyderabad,Golconda,Bahadurpura,17.36833333,78.46638889,Bahadurpura,"Dug Well",W25523,2014,4.1,4.3,4.15,4.75
+TG,Hyderabad,Shaikpet,Shaikpet,17.39416667,78.39555556,"Kutubshah Tumbs","Dug Well",W25529,2014,12.57,NA,10.81,16.42
+TG,Hyderabad,Amberpet,Amberpet,17.40055556,78.5175,"DD Colony 2012DW","Dug Well",W25532,2014,3.55,3.6,3.03,3.28
+TG,Hyderabad,Secunderabad,Musheerabad,17.41944444,78.52055556,"Tarnaka 2012DW","Dug Well",W25537,2014,13.75,10.25,12.25,14
+TG,Hyderabad,Nampally,Nampally,17.3975,78.47638889,"Nizam College-DW13","Dug Well",W31158,2014,20.2,19,NA,20.55
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2014,21.34,39.16,34.13,15.66
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2013,5.77,5.58,4.8,7.02
+TG,Hyderabad,Asifnagar,Tirumalgiri,17.45277778,78.49444444,Picket-1-PZ,"Bore Well",W31159,2013,10.29,10.7,NA,NA
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2013,28.9,25.1,11.2,26
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2013,18.98,16.3,-0.3,11.42
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2013,2.15,1.76,5.26,2.75
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2013,16.59,15.1,13.26,19.87
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2013,NA,6.9,NA,11.91
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2013,13.08,15.4,9.88,36
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2013,10.44,NA,2.02,NA
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2013,16.83,NA,NA,15.75
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2013,3.85,3.8,2.85,4.98
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2013,18.35,19.8,11.49,27.08
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2013,4.46,4.65,3.48,6.99
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2013,9.88,10,6.62,NA
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2013,8.14,9.03,3.71,18.95
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2013,2.51,13.8,7.78,13.9
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2013,4.52,6.22,3.71,8.77
+TG,Hyderabad,Golconda,Bandlaguda,17.32472222,78.48027778,Chandrayangutta,"Dug Well",W25504,2013,2.24,NA,2.66,NA
+TG,Hyderabad,Bahadurpura,Bandlaguda,17.33055556,78.47,Falaknama-PZ,"Bore Well",W25508,2013,9.31,13,3.18,16.78
+TG,Hyderabad,Bahadurpura,Bahadurpura,17.36777778,78.4325,Attapur-DW13,"Dug Well",W25521,2013,4.5,NA,2.7,10.4
+TG,Hyderabad,Secunderabad,Charminar,17.36805556,78.48638889,"Malakpet 2012DW","Dug Well",W25522,2013,2.51,5.25,2.91,7.32
+TG,Hyderabad,Golconda,Bahadurpura,17.36833333,78.46638889,Bahadurpura,"Dug Well",W25523,2013,4.36,NA,3.82,NA
+TG,Hyderabad,Shaikpet,Shaikpet,17.39416667,78.39555556,"Kutubshah Tumbs","Dug Well",W25529,2013,NA,NA,8.97,NA
+TG,Hyderabad,Amberpet,Amberpet,17.40055556,78.5175,"DD Colony 2012DW","Dug Well",W25532,2013,3.77,3.43,3.84,4.08
+TG,Hyderabad,Secunderabad,Musheerabad,17.41944444,78.52055556,"Tarnaka 2012DW","Dug Well",W25537,2013,8.9,12.95,8.84,13.95
+TG,Hyderabad,Nampally,Nampally,17.3975,78.47638889,"Nizam College-DW13","Dug Well",W31158,2013,NA,NA,11.35,20.2
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2013,NA,5.17,NA,5.55
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2012,NA,5.9,4.94,6.95
+TG,Hyderabad,Asifnagar,Tirumalgiri,17.45277778,78.49444444,Picket-1-PZ,"Bore Well",W31159,2012,NA,NA,6.73,NA
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2012,NA,36.9,NA,37.85
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2012,NA,16.8,15.14,12.5
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2012,NA,1.82,1.3,2.85
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2012,NA,17.18,15.36,21.2
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2012,NA,7.45,5.1,10.4
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2012,NA,16.78,NA,32.8
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2012,NA,11,NA,NA
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2012,NA,15.95,13.86,NA
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2012,NA,3.6,NA,4.55
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2012,NA,22.65,17,34.87
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2012,NA,5.2,4.05,7.1
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2012,NA,8.1,NA,NA
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2012,NA,12.45,5.93,19.25
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2012,NA,12.8,NA,16
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2012,NA,7.28,4.6,9.52
+TG,Hyderabad,Bahadurpura,Bandlaguda,17.33055556,78.47,Falaknama-PZ,"Bore Well",W25508,2012,NA,NA,10.85,NA
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2012,NA,5.5,3.7,5.55
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2011,NA,3.3,NA,5.55
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2011,5.78,4.17,5.75,6.43
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2011,4.6,4.68,4.95,5.3
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2011,20.7,20.8,24.55,35.14
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2011,13.95,NA,9.2,12.82
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2011,NA,4.1,NA,NA
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2011,1.75,NA,2.3,3.45
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2011,16.1,11.12,15.2,15.2
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2011,6.43,5.65,5.8,8.67
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2011,15.59,8.63,13.88,25.6
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2011,NA,NA,9.25,NA
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2011,11,11.3,13.1,18.3
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2011,2.92,3.26,3.35,3.85
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2011,22.15,11.8,18.05,23.42
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2011,4.5,4.05,5.1,6.8
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2011,9.82,5.98,6.65,9.78
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2011,13.45,7.8,9.1,17.05
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2011,6.85,2.7,4.5,23.1
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2011,4.95,5.1,4.93,6.1
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2010,NA,NA,NA,6.16
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2010,2.7,5.82,4,8.9
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2010,NA,6.32,5.32,7.08
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2010,8.07,14.95,9.12,NA
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2010,14.44,12.25,5.96,18.04
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2010,2.2,20,1.64,4.3
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2010,1.15,1.77,NA,NA
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2010,14.4,13.28,10.2,17.35
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2010,6.35,6.3,4.65,12.38
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2010,11.85,10.8,5.1,4.9
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2010,NA,2.57,NA,NA
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2010,NA,13.65,NA,NA
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2010,NA,10.58,NA,15.88
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2010,2.35,3.05,2.9,2.84
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2010,11.2,13.15,9.42,23.4
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2010,2.28,4.15,3.46,6.1
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2010,3.86,6.15,4.8,11.64
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2010,10.83,9,4.57,17.33
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2010,2,4.7,1.62,20.9
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2010,4.37,5.17,4.25,5.99
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2009,6.2,3.3,NA,8
+TG,Hyderabad,Secunderabad,Nampally,17.38083333,78.485,Darul-a-safa,"Bore Well",W19765,2009,NA,4.5,NA,NA
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2009,8.3,5.98,5.95,7.5
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2009,31.7,10.02,9.05,33.5
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2009,23.3,10.42,11.34,17.2
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2009,2.4,2.6,1.97,3.7
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2009,20.6,11.44,11.27,15.8
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2009,9.85,6.51,5.19,5.75
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2009,15.3,8.55,9.29,15.7
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2009,8.2,NA,1.62,5.16
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2009,13.65,7.74,NA,13.65
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2009,13.9,4.9,4.29,NA
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2009,NA,11.7,NA,9.3
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2009,3.4,3.4,3.46,4.3
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2009,29.5,8.66,8.27,20.9
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2009,4.3,3.3,3.48,4.5
+TG,Hyderabad,Charminar,Bandlaguda,17.33083333,78.48361111,Kanchanbagh(Chandrayangut),"Bore Well",W19808,2009,NA,7.65,NA,NA
+TG,Hyderabad,Golconda,Asifnagar,17.37361111,78.4375,Kulsumpura,"Bore Well",W19809,2009,NA,4.1,NA,NA
+TG,Hyderabad,Golconda,Khairatabad,17.41055556,78.46111111,Saifabad(Secretariat),"Bore Well",W19810,2009,NA,5.01,NA,NA
+TG,Hyderabad,Secunderabad,Nampally,17.38472222,78.47444444,Nampally2,"Bore Well",W19812,2009,NA,8,NA,NA
+TG,Hyderabad,Tirumalgiri,Maredpally,17.44416667,78.50944444,"East Maredpally","Bore Well",W19813,2009,NA,16.2,NA,NA
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.44611111,78.48583333,Secunderabad,"Bore Well",W19845,2009,NA,3.85,NA,NA
+TG,Hyderabad,Secunderabad,Bandlaguda,17.36111111,78.50833333,Saidabad,"Bore Well",W19657,2009,NA,3.8,NA,NA
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2009,6.6,6.3,5.48,9
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2009,16.65,NA,7.8,17.3
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2009,10,3.3,3.17,10.2
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2009,4.5,4.72,4.39,5.8
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2009,5.8,5.02,4.67,15.5
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2008,1.86,3.48,2.64,5.6
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2008,3.78,5.36,4.05,5.37
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2008,4.6,7.72,5.14,7.8
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2008,3.52,20.07,8.66,27.5
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2008,10.37,16.26,9.5,19.5
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2008,2.3,1.84,2.21,2.05
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2008,8.16,13.07,9.86,14.3
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2008,4.48,7.08,5.25,8.95
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2008,6.6,13.06,7.41,16.58
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2008,NA,3.97,NA,7.2
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2008,4.23,8.35,6.05,9.75
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2008,2.23,6.42,3.83,8.7
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2008,7.06,11.66,NA,16.2
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2008,NA,3.77,3.63,4.5
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2008,NA,NA,7.29,20.75
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2008,2.65,4.22,4.24,27.2
+TG,Hyderabad,Charminar,Bandlaguda,17.33083333,78.48361111,Kanchanbagh(Chandrayangut),"Bore Well",W19808,2008,4.49,8.4,5.04,8.5
+TG,Hyderabad,Golconda,Asifnagar,17.37361111,78.4375,Kulsumpura,"Bore Well",W19809,2008,2,5.39,2.5,7.4
+TG,Hyderabad,Golconda,Khairatabad,17.41055556,78.46111111,Saifabad(Secretariat),"Bore Well",W19810,2008,2.98,6.01,3.74,7.5
+TG,Hyderabad,Secunderabad,Himayatnaga,17.40416667,78.5025,Musheerabad1,"Bore Well",W19811,2008,4.53,7.63,5.03,9.13
+TG,Hyderabad,Secunderabad,Nampally,17.38472222,78.47444444,Nampally2,"Bore Well",W19812,2008,1.64,7.02,2.2,9.4
+TG,Hyderabad,Tirumalgiri,Maredpally,17.44416667,78.50944444,"East Maredpally","Bore Well",W19813,2008,4.6,19.2,7.93,22.5
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.44611111,78.48583333,Secunderabad,"Bore Well",W19845,2008,'0.58,8.48,'0.98,12.2
+TG,Hyderabad,Secunderabad,Bandlaguda,17.36111111,78.50833333,Saidabad,"Bore Well",W19657,2008,4.07,5.53,2.7,4.8
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2008,3.05,NA,4.62,9.52
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2008,2.09,NA,3.6,13.15
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2008,1.5,5.04,2.08,7.97
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2008,3.2,5.25,4.45,6.95
+TG,Hyderabad,Golconda,Khairatabad,17.4125,78.46111111,Khairatabad,"Bore Well",W19764,2008,5.5,7.46,NA,7.69
+TG,Hyderabad,Secunderabad,Nampally,17.38083333,78.485,Darul-a-safa,"Bore Well",W19765,2008,1.8,6.03,3.46,5.52
+TG,Hyderabad,Secunderabad,Nampally,17.38472222,78.47444444,Nampally2,"Bore Well",W19812,2007,1.59,4.3,1.89,8.87
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2007,4.65,2.01,1.43,2.63
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.44611111,78.48583333,Secunderabad,"Bore Well",W19845,2007,3.52,9.45,3.03,14.7
+TG,Hyderabad,Secunderabad,Bandlaguda,17.36111111,78.50833333,Saidabad,"Bore Well",W19657,2007,3.72,5.52,4.97,6.61
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2007,11.06,NA,8.84,10.78
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2007,NA,NA,3.09,12.02
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2007,6.45,5.4,2.63,10.17
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2007,4.27,5.56,4.47,7.17
+TG,Hyderabad,Golconda,Khairatabad,17.4125,78.46111111,Khairatabad,"Bore Well",W19764,2007,1.33,9.36,2.62,12.01
+TG,Hyderabad,Secunderabad,Nampally,17.38083333,78.485,Darul-a-safa,"Bore Well",W19765,2007,4.31,7.32,4.8,8.78
+TG,Hyderabad,Golconda,Charminar,17.36555556,78.49972222,Chanchalguda-PZ,"Bore Well",W21258,2007,NA,2.82,NA,NA
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2007,15,13.58,12.04,18
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2007,7.43,6.69,6.75,NA
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2007,13.6,11.44,5.49,14.89
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2007,1.88,4.63,1.55,12.78
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2007,5.3,6.65,6.43,9.33
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2007,4.45,NA,4.22,11.5
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2007,12.34,11.71,10.2,24.1
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2007,2.51,4.74,3.15,5.06
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2007,17.46,12.95,12.9,25.9
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2007,1.22,4.22,3.44,6.46
+TG,Hyderabad,Charminar,Bandlaguda,17.33083333,78.48361111,Kanchanbagh(Chandrayangut),"Bore Well",W19808,2007,5.61,9.01,6.45,10
+TG,Hyderabad,Golconda,Asifnagar,17.37361111,78.4375,Kulsumpura,"Bore Well",W19809,2007,2.71,5.21,3.04,6.71
+TG,Hyderabad,Golconda,Khairatabad,17.41055556,78.46111111,Saifabad(Secretariat),"Bore Well",W19810,2007,3.08,4.54,3.65,5.12
+TG,Hyderabad,Secunderabad,Himayatnaga,17.40416667,78.5025,Musheerabad1,"Bore Well",W19811,2007,6.33,6.33,7,7.86
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2007,NA,7.57,2.59,4.63
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2007,4.74,5.27,4.54,5.83
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,2007,NA,'0.64,NA,2.22
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2007,6.16,6.58,6.45,7.15
+TG,Hyderabad,Gadwal,Nampally,17.39166667,78.48055556,Basheerbagh,"Bore Well",W03907,2007,NA,8.13,NA,9
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2007,14.97,25.6,11.43,32.75
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2007,7.37,9.77,14.47,16.06
+TG,Hyderabad,Tirumalgiri,Maredpally,17.44416667,78.50944444,"East Maredpally","Bore Well",W19813,2007,15.07,21.29,13.65,24.75
+TG,Hyderabad,Tirumalgiri,Maredpally,17.44416667,78.50944444,"East Maredpally","Bore Well",W19813,2006,12.53,13.15,9.94,16.96
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.44611111,78.48583333,Secunderabad,"Bore Well",W19845,2006,'0.97,3.11,1.2,6.65
+TG,Hyderabad,Golconda,Golconda,17.36666667,78.41666667,"Langar house-1","Dug Well",W20256,2006,1.65,2.35,NA,4.34
+TG,Hyderabad,Secunderabad,Bandlaguda,17.36111111,78.50833333,Saidabad,"Bore Well",W19657,2006,3.13,5.25,3.51,7.15
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2006,9,7.47,7.88,10.62
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2006,3.51,4.63,2.81,6.49
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2006,'0.73,3.54,1.46,8.3
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2006,5.93,5.3,4.2,7.14
+TG,Hyderabad,Golconda,Khairatabad,17.4125,78.46111111,Khairatabad,"Bore Well",W19764,2006,3.95,8.49,3.88,10.89
+TG,Hyderabad,Secunderabad,Nampally,17.38083333,78.485,Darul-a-safa,"Bore Well",W19765,2006,3,5.97,4.14,6.56
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2006,6.3,5.29,5.16,7.95
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2006,15.97,10.28,9.77,13.6
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2006,3.2,8.15,NA,9.5
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2006,5.55,5.85,5.09,7.35
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,2006,1.65,2.35,NA,4.34
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2006,2.8,5.2,3.31,5.5
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2006,12.2,10.9,13.14,12.65
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2006,4.35,4.2,3.96,4.8
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2006,8.4,10.75,9.16,15.27
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2006,1.95,3.81,2.76,5.5
+TG,Hyderabad,Charminar,Bandlaguda,17.33083333,78.48361111,Kanchanbagh(Chandrayangut),"Bore Well",W19808,2006,7.04,7.54,7.07,8.35
+TG,Hyderabad,Golconda,Asifnagar,17.37361111,78.4375,Kulsumpura,"Bore Well",W19809,2006,1.89,2.59,2.04,3.51
+TG,Hyderabad,Golconda,Khairatabad,17.41055556,78.46111111,Saifabad(Secretariat),"Bore Well",W19810,2006,3.15,4.68,3.56,5.17
+TG,Hyderabad,Secunderabad,Himayatnaga,17.40416667,78.5025,Musheerabad1,"Bore Well",W19811,2006,5.08,6.33,4.43,7.61
+TG,Hyderabad,Secunderabad,Nampally,17.38472222,78.47444444,Nampally2,"Bore Well",W19812,2006,1.14,2.86,1.14,4.06
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2006,1.25,2.8,1.7,1.33
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2006,4.6,5.2,4.82,6.4
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,2006,1.4,1.45,'0.6,4.8
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2006,6.17,5.68,6.23,6.8
+TG,Hyderabad,Gadwal,Nampally,17.39166667,78.48055556,Basheerbagh,"Bore Well",W03907,2006,6.1,8.84,6.64,11.02
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2006,12.9,15.45,13.8,69.6
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.31805556,78.48472222,Barkas,"Bore Well",W03909,2006,12.37,11.1,NA,12.95
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2006,9.85,11.02,8.11,13.87
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2006,1.39,3.17,2.06,3.35
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2006,13.82,12.08,13.08,23.1
+TG,Hyderabad,Tirumalgiri,Maredpally,17.44416667,78.50944444,"East Maredpally","Bore Well",W19813,2005,10.43,23.97,6.9,24.87
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2005,12.95,18.9,9.4,25.42
+TG,Hyderabad,Golconda,Golconda,17.36666667,78.41666667,"Langar house-1","Dug Well",W20256,2005,NA,NA,2.27,11.89
+TG,Hyderabad,Secunderabad,Bandlaguda,17.36111111,78.50833333,Saidabad,"Bore Well",W19657,2005,2.7,7.71,2.82,10.23
+TG,Hyderabad,Malkajgiri,Maredpally,17.44166667,78.53055556,Lalaguda-PZ,"Bore Well",W20071,2005,9.8,9.15,5.9,16.9
+TG,Hyderabad,Golconda,Nampally,17.39166667,78.475,Nampally-PZ,"Bore Well",W20111,2005,4.75,20.99,1.95,21.99
+TG,Hyderabad,Shaikpet,Shaikpet,17.42777778,78.41555556,"Jubili Hills-PZ","Bore Well",W19236,2005,NA,14.22,1.22,15.8
+TG,Hyderabad,Golconda,Nampally,17.38611111,78.48611111,Koti-PZ,"Bore Well",W19241,2005,4.7,15.53,3.22,17.21
+TG,Hyderabad,Golconda,Khairatabad,17.4125,78.46111111,Khairatabad,"Bore Well",W19764,2005,2.21,12.69,1.7,16
+TG,Hyderabad,Secunderabad,Nampally,17.38083333,78.485,Darul-a-safa,"Bore Well",W19765,2005,3.7,10.98,3.63,12.22
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2005,5.37,9.8,3.84,10.2
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2005,11.5,20.62,7.75,25.03
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2005,1.9,17.02,'0.42,17.32
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2005,5.98,10.75,3.05,12.95
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,2005,NA,2.43,2.27,2.43
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2005,3.15,10.75,2.34,14.55
+TG,Hyderabad,Asifnagar,Musheerabad,17.42388889,78.50555556,Musheerabad-PZ,"Bore Well",W18924,2005,7.7,23.16,6.08,47.6
+TG,Hyderabad,Golconda,Himayatnaga,17.4,78.50027778,"Bagh Lingampally-PZ","Bore Well",W18927,2005,2.8,7.27,2.79,7.82
+TG,Hyderabad,Maredpally,Maredpally,17.44305556,78.50972222,"West Maredpally-PZ","Bore Well",W18928,2005,11,29,5.16,30.5
+TG,Hyderabad,Shaikpet,Khairatabad,17.41944444,78.45277778,Erramanzil-PZ,"Bore Well",W18929,2005,1.6,8.02,1.53,8.8
+TG,Hyderabad,Charminar,Bandlaguda,17.33083333,78.48361111,Kanchanbagh(Chandrayangut),"Bore Well",W19808,2005,5.15,9.08,4.36,11.48
+TG,Hyderabad,Golconda,Asifnagar,17.37361111,78.4375,Kulsumpura,"Bore Well",W19809,2005,1.62,4.22,1.43,5.24
+TG,Hyderabad,Golconda,Khairatabad,17.41055556,78.46111111,Saifabad(Secretariat),"Bore Well",W19810,2005,2.79,5.31,2.81,7.26
+TG,Hyderabad,Secunderabad,Himayatnaga,17.40416667,78.5025,Musheerabad1,"Bore Well",W19811,2005,7.13,13.04,4.62,17.58
+TG,Hyderabad,Secunderabad,Nampally,17.38472222,78.47444444,Nampally2,"Bore Well",W19812,2005,2,16.28,1.37,17.85
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2005,3.52,5,1.18,7.1
+TG,Hyderabad,Gadwal,Amberpet,17.38861111,78.505,Ambarpet,"Dug Well",W03829,2005,NA,7.71,NA,NA
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2005,5.15,7.71,3.38,9.17
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,2005,1.36,2.07,1.13,2.7
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2005,5.27,6,3.74,7.7
+TG,Hyderabad,Gadwal,Nampally,17.39166667,78.48055556,Basheerbagh,"Bore Well",W03907,2005,5.52,16.67,4.14,18.35
+TG,Hyderabad,Gadwal,Khairatabad,17.43611111,78.45833333,Begumpet-PZ,"Bore Well",W03908,2005,3.32,18.5,3.5,26.1
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.31805556,78.48472222,Barkas,"Bore Well",W03909,2005,5.95,11.55,4.4,14.5
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2005,14.95,20.7,8.7,23.9
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2005,-0.08,4.13,1.8,4.46
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.44611111,78.48583333,Secunderabad,"Bore Well",W19845,2005,1.35,16.45,1,16.78
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2004,8.15,7.15,8.52,9.65
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38333333,78.43333333,Gudimalkapur-PZ,"Bore Well",W04254,2004,16.1,8.7,16.14,17.06
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2004,11.9,11.62,11.74,16.68
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2004,8.59,6.85,9.07,8.57
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,2004,3.1,2.93,2.93,2.93
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45277778,78.49444444,Picket-2,"Bore Well",W04752,2004,8.3,NA,8.44,9.27
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2004,NA,5.8,5.7,7.22
+TG,Hyderabad,Secunderabad,Amberpet,17.38333333,78.52083333,Amberpet-PZ,"Bore Well",W03830,2004,10.46,NA,8.62,13.8
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,2004,'0.68,2.55,1.25,1.1
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2004,6.3,6.4,5.7,7
+TG,Hyderabad,Gadwal,Nampally,17.39166667,78.48055556,Basheerbagh,"Bore Well",W03907,2004,15.4,16.8,14.74,21.7
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.31805556,78.48472222,Barkas,"Bore Well",W03909,2004,6.9,7.53,7.35,9.75
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2004,17.39,12.7,17.8,17.58
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,2004,NA,8.08,NA,8.08
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2004,2.42,2.95,3.06,3
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2004,13.8,17.55,14.65,16.34
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2003,3.85,5.78,5.25,11.85
+TG,Hyderabad,Farooqnagar,Golconda,17.38055556,78.42222222,"Langar house-2","Bore Well",W04747,2003,10.3,NA,10.4,NA
+TG,Hyderabad,Farooqnagar,Asifnagar,17.39722222,78.4625,"Shanti Nagar","Bore Well",W04748,2003,5.2,NA,7.8,NA
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2003,3.15,7.55,4.75,10.92
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,2003,'0.8,2.18,1.6,NA
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2003,2.23,3.46,4.7,8.52
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.34861111,78.48611111,"Phoolbagh Chaman","Bore Well",W04755,2003,1.45,NA,1.8,10.98
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2003,6.2,NA,6,7.4
+TG,Hyderabad,Gadwal,Nampally,17.39166667,78.48055556,Basheerbagh,"Bore Well",W03907,2003,11.22,NA,9.3,NA
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.31805556,78.48472222,Barkas,"Bore Well",W03909,2003,5.32,NA,5.2,4.57
+TG,Hyderabad,Tirumalgiri,Tirumalgiri,17.4625,78.47916667,Boinpally-PZ,"Bore Well",W03910,2003,13.05,NA,11.83,18.3
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,2003,7.1,8.08,6.3,8.08
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,2003,'0.95,NA,3.35,2.15
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2002,4.85,4.9,5.05,5.35
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2002,6.03,6.9,8.15,8.95
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,2002,1.3,2,2.74,2.4
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,2002,6,7.75,6.3,8.08
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,2002,'0.65,'0.78,1.25,1.2
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2002,5.9,3.73,6.3,7.15
+TG,Hyderabad,Mahbubnagar,Musheerabad,17.42361111,78.52083333,"Sitaphal mandi","Dug Well",W04753,2002,7.4,12.09,NA,NA
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2002,6.4,4.15,3.7,NA
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2001,4.47,4.93,4.45,7.45
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2001,6.01,5.52,5.5,9.39
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,2001,1.9,2.09,1.3,2.8
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2001,1.9,2.5,2,3.19
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38388889,78.43333333,Gudimalkapur,"Dug Well",W04253,2001,NA,NA,NA,9.78
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2001,5.7,5.9,5.5,6.41
+TG,Hyderabad,Mahbubnagar,Musheerabad,17.42361111,78.52083333,"Sitaphal mandi","Dug Well",W04753,2001,11.94,10.09,10.15,12.65
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,2001,6.46,6,6.46,8.08
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,2001,'0.76,'0.98,'0.7,'0.95
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,2000,7.21,8.1,4.88,9.45
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,2000,6.39,7,4.98,9.75
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,2000,2.09,1.8,2.59,3.28
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,2000,1.6,6,2.25,3.7
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38388889,78.43333333,Gudimalkapur,"Dug Well",W04253,2000,7.98,NA,NA,NA
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,2000,5,5.8,5.63,6.92
+TG,Hyderabad,Mahbubnagar,Musheerabad,17.42361111,78.52083333,"Sitaphal mandi","Dug Well",W04753,2000,7.57,6.2,6.97,NA
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,2000,5.65,7.6,5.23,NA
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,2000,'0.58,1.4,'0.88,3.05
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,1999,1.55,2.01,2.12,1.9
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,1999,1.34,1.72,1.5,1.63
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,1999,7.43,6.1,6.79,9.07
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,1999,4.78,5.85,5.5,6.57
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,1999,5.88,5.96,6.6,7.65
+TG,Hyderabad,Mahbubnagar,Musheerabad,17.42361111,78.52083333,"Sitaphal mandi","Dug Well",W04753,1999,8.5,8.08,8.75,11.52
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,1999,8.2,6.63,7.53,8.47
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,1999,2.39,2.6,1.82,3.27
+TG,Hyderabad,Farooqnagar,Nampally,17.38333333,78.46111111,"Banjara hills","Dug Well",W03905,1998,NA,7.96,NA,NA
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,1998,'0.85,1.25,1.3,2.05
+TG,Hyderabad,Gadwal,Amberpet,17.38861111,78.505,Ambarpet,"Dug Well",W03829,1998,11.25,14.7,9.7,12.95
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,1998,1.5,2.08,1.5,3.26
+TG,Hyderabad,Mahbubnagar,Musheerabad,17.42361111,78.52083333,"Sitaphal mandi","Dug Well",W04753,1998,9,10.6,4.1,NA
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,1998,1.17,2.95,2.1,3.27
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,1998,6.17,7.75,3.7,9.05
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,1998,8.65,8.65,5,11
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38388889,78.43333333,Gudimalkapur,"Dug Well",W04253,1998,12.13,NA,8.55,NA
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,1998,4.32,5.9,4.1,7
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,1998,5.78,7.45,5.25,7.98
+TG,Hyderabad,Gadwal,Amberpet,17.38861111,78.505,Ambarpet,"Dug Well",W03829,1997,9.2,7.6,14.25,16.14
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,1997,9.3,5.5,8.87,10.38
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,1997,6.29,5.54,5.84,6.23
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,1997,'0.76,'0.89,NA,1.41
+TG,Hyderabad,Mahbubnagar,Musheerabad,17.42361111,78.52083333,"Sitaphal mandi","Dug Well",W04753,1997,9.64,7.35,7.95,10.2
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,1997,1.58,1.66,1.53,2.34
+TG,Hyderabad,Gadwal,Golconda,17.37444444,78.41805556,"Langar house-3","Dug Well",W04750,1997,3.12,NA,2.8,3.52
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38388889,78.43333333,Gudimalkapur,"Dug Well",W04253,1997,NA,8.46,8.89,NA
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,1997,7.2,5.65,6.98,7.47
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,1997,5.2,3.15,5.31,6.07
+TG,Hyderabad,Gadwal,Charminar,17.36944444,78.48194444,Bahadurpura,"Dug Well",W03906,1996,4.8,5.21,3.8,6.94
+TG,Hyderabad,Farooqnagar,Shaikpet,17.39444444,78.39722222,"Kutubshah tumbs","Dug Well",W04255,1996,4.65,5.28,4.55,9.9
+TG,Hyderabad,Farooqnagar,Shaikpet,17.40638889,78.40194444,Sheikpeta,"Dug Well",W04749,1996,4.29,5.12,3.95,7.72
+TG,Hyderabad,Nagarkurnool,Bandlaguda,17.33555556,78.47,Falaknama,"Dug Well",W04024,1996,'0.43,'0.9,NA,1.23
+TG,Hyderabad,Mahbubnagar,Tirumalgiri,17.45638889,78.48583333,Tarbund,"Dug Well",W04754,1996,2.52,2.91,2.94,5.9
+TG,Hyderabad,Gadwal,Amberpet,17.38861111,78.505,Ambarpet,"Dug Well",W03829,1996,7.6,8.98,7.8,11.2
+TG,Hyderabad,Mahbubnagar,Musheerabad,17.42361111,78.52083333,"Sitaphal mandi","Dug Well",W04753,1996,4.04,NA,4.5,9.46
+TG,Hyderabad,Gadwal,Nampally,17.37972222,78.47222222,Aghapura,"Dug Well",W04139,1996,1.43,2,1.4,3.48
+TG,Hyderabad,Farooqnagar,Asifnagar,17.38388889,78.43333333,Gudimalkapur,"Dug Well",W04253,1996,5.97,8.38,7.73,9.33

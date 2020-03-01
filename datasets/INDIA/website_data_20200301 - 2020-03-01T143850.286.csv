@@ -1,0 +1,421 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2018,NA,27.52,29.02,NA
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  S","Tube Well",W30627,2018,17.09,NA,NA,16.46
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2018,24.42,22.64,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2018,9.67,3.14,NA,NA
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2018,NA,NA,15,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2018,NA,NA,30,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,Phagwara(shallow),"Tube Well",W32196,2018,31.4,26.9,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,Phagwara(deep),"Tube Well",W32197,2018,31.92,27.52,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur2 (s)","Tube Well",W30501,2018,20.12,16.95,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29583333,75.2,"Talwandi Chaudary -Pz","Tube Well",W30523,2018,13.35,10.45,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala2 (s)","Tube Well",W30543,2018,28.91,22.71,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath D","Tube Well",W30594,2018,10.91,8.15,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath M","Tube Well",W30595,2018,11.28,9.62,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-D Pz","Tube Well",W30607,2018,27.6,19.96,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-M Pz","Tube Well",W30608,2018,26.97,23.92,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-S Pz","Tube Well",W30609,2018,24.68,23.83,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  D","Tube Well",W30625,2018,14.44,15.1,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  M","Tube Well",W30626,2018,17.23,13.97,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.19611111,75.74111111,Bhanoki-Pz,"Tube Well",W30495,2018,NA,25.2,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.24583333,75.70833333,Maheru-Pz,"Tube Well",W30508,2018,NA,23.1,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.27083333,75.82916667,Sangatpur-Pz,"Tube Well",W30517,2018,NA,24.4,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.275,75.7375,Kishanpur,"Tube Well",W30518,2018,NA,26.25,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.28944444,75.7925,Rawalpindi-Pz,"Tube Well",W30521,2018,NA,22.95,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.22888889,75.11861111,Hazipur-Pz,"Tube Well",W30502,2018,NA,6.79,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.2375,75.32083333,"Shalapur Dona-Pz","Tube Well",W30505,2018,NA,29.7,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.24583333,75.20416667,"Bauril Harnampur-Pz","Tube Well",W30507,2018,NA,14.64,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29166667,75.21388889,Amanipur-Pz,"Tube Well",W30522,2018,NA,12.45,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.26944444,75.29166667,Paazian-Pz,"Tube Well",W30515,2018,NA,19.6,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.3,75.42222222,Balera-Pz,"Tube Well",W30525,2018,NA,34.15,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.3125,75.26805556,Mithra-Pz,"Tube Well",W30526,2018,NA,15.1,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.31527778,75.4,"Nathu Chahal-Pz","Tube Well",W30527,2018,NA,29.69,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.3875,75.32638889,Bhawanipur-Pz,"Tube Well",W30551,2018,NA,10,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.39666667,75.23611111,"Miani Bola-Pz","Tube Well",W30556,2018,NA,9.46,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24722222,Saiflabad-Pz,"Tube Well",W30562,2018,NA,9,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45138889,75.37111111,Thikriwali-Pz,"Tube Well",W30571,2018,NA,8.4,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45527778,75.29583333,"Nurpur Janoa-Pz","Tube Well",W30574,2018,NA,8.58,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45833333,75.43333333,Hamira-Pz,"Tube Well",W30575,2018,NA,10.94,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.54111111,75.38055556,Chakoke-Pz,"Tube Well",W30598,2018,NA,6.24,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.54583333,75.43194444,Nadala,"Tube Well",W30601,2018,NA,7.5,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57444444,75.555,"Karnail Ganju-Pz","Tube Well",W30611,2018,NA,8.01,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.61222222,75.525,Begowal-Pz,"Tube Well",W30629,2018,NA,6.3,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara2 (s)","Tube Well",W30503,2018,NA,29.35,29.71,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-VS Pz","Tube Well",W30610,2018,NA,20.93,26.11,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2018,15.87,16,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2017,NA,26.59,28.78,28.28
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,Phagwara(deep),"Tube Well",W32197,2017,30.94,NA,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2017,14.2,12.13,13.55,18.02
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2017,9.67,9.04,9.26,9.74
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2017,22.15,22.23,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-D Pz","Tube Well",W30607,2017,23,19.57,25.65,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-M Pz","Tube Well",W30608,2017,21.8,21.43,25.84,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-S Pz","Tube Well",W30609,2017,26.4,21.5,21.1,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-VS Pz","Tube Well",W30610,2017,26.2,18.8,22.11,NA
+PB,Kapurthala,Phagwara,Phagwara,31.19611111,75.74111111,Bhanoki-Pz,"Tube Well",W30495,2017,NA,24.7,27.1,NA
+PB,Kapurthala,Phagwara,Phagwara,31.24583333,75.70833333,Maheru-Pz,"Tube Well",W30508,2017,NA,20.3,24.3,NA
+PB,Kapurthala,Phagwara,Phagwara,31.27083333,75.82916667,Sangatpur-Pz,"Tube Well",W30517,2017,NA,21.1,27.1,NA
+PB,Kapurthala,Phagwara,Phagwara,31.275,75.7375,Kishanpur,"Tube Well",W30518,2017,NA,25.75,27.75,NA
+PB,Kapurthala,Phagwara,Phagwara,31.28944444,75.7925,Rawalpindi-Pz,"Tube Well",W30521,2017,NA,22.55,24.35,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.22888889,75.11861111,Hazipur-Pz,"Tube Well",W30502,2017,NA,6.34,7.49,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.24583333,75.20416667,"Bauril Harnampur-Pz","Tube Well",W30507,2017,NA,13.34,15.49,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.31527778,75.4,"Nathu Chahal-Pz","Tube Well",W30527,2017,NA,31.69,33.49,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.3875,75.32638889,Bhawanipur-Pz,"Tube Well",W30551,2017,NA,9.6,11.62,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.39666667,75.23611111,"Miani Bola-Pz","Tube Well",W30556,2017,NA,9.31,9.81,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45138889,75.37111111,Thikriwali-Pz,"Tube Well",W30571,2017,NA,7.75,8.9,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45527778,75.29583333,"Nurpur Janoa-Pz","Tube Well",W30574,2017,NA,8.38,9.53,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45833333,75.43333333,Hamira-Pz,"Tube Well",W30575,2017,NA,9.54,11.44,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.54111111,75.38055556,Chakoke-Pz,"Tube Well",W30598,2017,NA,5.79,6.76,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57444444,75.555,"Karnail Ganju-Pz","Tube Well",W30611,2017,NA,7.31,8.71,NA
+PB,Kapurthala,Kapurthala,Nadala,31.61222222,75.525,Begowal-Pz,"Tube Well",W30629,2017,NA,5.6,6.8,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,Phagwara(shallow),"Tube Well",W32196,2017,29.95,NA,29.62,NA
+PB,Kapurthala,Kapurthala,Nadala,31.54583333,75.43194444,Nadala,"Tube Well",W30601,2017,NA,NA,8.3,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur2 (s)","Tube Well",W30501,2017,17.5,16.02,17.14,9.86
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29583333,75.2,"Talwandi Chaudary -Pz","Tube Well",W30523,2017,10.7,9.68,8.52,8.89
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala2 (s)","Tube Well",W30543,2017,23.97,19.48,25.46,23.5
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath D","Tube Well",W30594,2017,9.86,7.69,9.13,8.69
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath M","Tube Well",W30595,2017,10.19,9.42,9.09,10.29
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  D","Tube Well",W30625,2017,15.7,12.04,15.88,13.14
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  M","Tube Well",W30626,2017,16.15,13.73,13.31,15.02
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  S","Tube Well",W30627,2017,17.82,14.8,15.32,15.55
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara2 (s)","Tube Well",W30503,2017,NA,27.87,NA,34.85
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.2375,75.32083333,"Shalapur Dona-Pz","Tube Well",W30505,2017,NA,28.7,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29166667,75.21388889,Amanipur-Pz,"Tube Well",W30522,2017,NA,11.75,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.26944444,75.29166667,Paazian-Pz,"Tube Well",W30515,2017,NA,17.8,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.3125,75.26805556,Mithra-Pz,"Tube Well",W30526,2017,NA,13.4,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24722222,Saiflabad-Pz,"Tube Well",W30562,2017,NA,8.65,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2017,NA,21.12,22.66,20.72
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2016,18.23,NA,23.18,20.79
+PB,Kapurthala,Kapurthala,Nadala,31.61222222,75.525,Begowal-Pz,"Tube Well",W30629,2016,NA,NA,6.3,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2016,NA,NA,NA,22
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2016,17.71,NA,13.32,16.57
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2016,9.38,NA,9.62,8.87
+PB,Kapurthala,Phagwara,Phagwara,31.19611111,75.74111111,Bhanoki-Pz,"Tube Well",W30495,2016,NA,NA,26.8,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur2 (s)","Tube Well",W30501,2016,14,15.4,17.04,12.4
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.22888889,75.11861111,Hazipur-Pz,"Tube Well",W30502,2016,NA,NA,7.29,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara2 (s)","Tube Well",W30503,2016,29.59,27.05,28.92,27.18
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.2375,75.32083333,"Shalapur Dona-Pz","Tube Well",W30505,2016,NA,NA,31.65,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.24583333,75.20416667,"Bauril Harnampur-Pz","Tube Well",W30507,2016,NA,NA,16.04,NA
+PB,Kapurthala,Phagwara,Phagwara,31.24583333,75.70833333,Maheru-Pz,"Tube Well",W30508,2016,NA,NA,23.3,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.26944444,75.29166667,Paazian-Pz,"Tube Well",W30515,2016,NA,NA,21.35,NA
+PB,Kapurthala,Phagwara,Phagwara,31.27083333,75.82916667,Sangatpur-Pz,"Tube Well",W30517,2016,NA,NA,26.7,NA
+PB,Kapurthala,Phagwara,Phagwara,31.275,75.7375,Kishanpur,"Tube Well",W30518,2016,NA,NA,29.9,NA
+PB,Kapurthala,Phagwara,Phagwara,31.28944444,75.7925,Rawalpindi-Pz,"Tube Well",W30521,2016,NA,NA,26.55,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29166667,75.21388889,Amanipur-Pz,"Tube Well",W30522,2016,NA,NA,14.25,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29583333,75.2,"Talwandi Chaudary -Pz","Tube Well",W30523,2016,10.87,9.35,10.25,10.69
+PB,Kapurthala,Kapurthala,Kapurthala,31.3125,75.26805556,Mithra-Pz,"Tube Well",W30526,2016,NA,NA,16.1,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.31527778,75.4,"Nathu Chahal-Pz","Tube Well",W30527,2016,NA,NA,35.39,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala2 (s)","Tube Well",W30543,2016,24.47,18.77,20.59,23.59
+PB,Kapurthala,Kapurthala,Kapurthala,31.3875,75.32638889,Bhawanipur-Pz,"Tube Well",W30551,2016,NA,NA,11.85,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.39666667,75.23611111,"Miani Bola-Pz","Tube Well",W30556,2016,NA,NA,10.21,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24722222,Saiflabad-Pz,"Tube Well",W30562,2016,NA,NA,9.75,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45138889,75.37111111,Thikriwali-Pz,"Tube Well",W30571,2016,NA,NA,8.5,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45527778,75.29583333,"Nurpur Janoa-Pz","Tube Well",W30574,2016,NA,NA,9.28,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45833333,75.43333333,Hamira-Pz,"Tube Well",W30575,2016,NA,NA,10.82,NA
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath D","Tube Well",W30594,2016,9.22,6.78,8.43,7.51
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath M","Tube Well",W30595,2016,9.83,7.99,9.18,8.72
+PB,Kapurthala,Kapurthala,Dhilwan,31.54111111,75.38055556,Chakoke-Pz,"Tube Well",W30598,2016,NA,NA,6.74,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-D Pz","Tube Well",W30607,2016,26.04,20.38,21.29,24.03
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-M Pz","Tube Well",W30608,2016,21.3,19.05,24.6,19.04
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-S Pz","Tube Well",W30609,2016,26.1,20.35,24.63,23.72
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-VS Pz","Tube Well",W30610,2016,26.1,17.92,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57444444,75.555,"Karnail Ganju-Pz","Tube Well",W30611,2016,NA,NA,8.36,NA
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  D","Tube Well",W30625,2016,13.2,11.03,15.1,11.32
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  M","Tube Well",W30626,2016,15.7,12.79,15.15,14.45
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  S","Tube Well",W30627,2016,16.26,13.85,13.07,13.78
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2016,29.68,NA,28.29,25.12
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2015,27.27,18.32,19.58,22
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2015,28.26,25.31,26.6,23.51
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2015,NA,20,21.8,20.7
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2015,13.46,11.15,16,11.11
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2015,6.6,8.04,8.14,9.25
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17972222,75.09444444,"Sheikh Manga-Pz","Tube Well",W30493,2015,NA,3.9,4.65,3.85
+PB,Kapurthala,Phagwara,Phagwara,31.19611111,75.74111111,Bhanoki-Pz,"Tube Well",W30495,2015,NA,23.7,25.3,23.5
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur2 (s)","Tube Well",W30501,2015,18.33,14.6,15.98,16.03
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.22888889,75.11861111,Hazipur-Pz,"Tube Well",W30502,2015,NA,5.14,5.84,5.24
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara2 (s)","Tube Well",W30503,2015,28.84,25.39,27.45,25.1
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.2375,75.32083333,"Shalapur Dona-Pz","Tube Well",W30505,2015,NA,26.7,31.15,25.6
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.24583333,75.20416667,"Bauril Harnampur-Pz","Tube Well",W30507,2015,NA,12.59,13.84,12.64
+PB,Kapurthala,Phagwara,Phagwara,31.24583333,75.70833333,Maheru-Pz,"Tube Well",W30508,2015,NA,21.3,22.1,18.7
+PB,Kapurthala,Kapurthala,Kapurthala,31.26944444,75.29166667,Paazian-Pz,"Tube Well",W30515,2015,NA,15.7,19,15.7
+PB,Kapurthala,Phagwara,Phagwara,31.27083333,75.82916667,Sangatpur-Pz,"Tube Well",W30517,2015,NA,18.5,24.6,16.7
+PB,Kapurthala,Phagwara,Phagwara,31.275,75.7375,Kishanpur,"Tube Well",W30518,2015,NA,22.25,27.9,19.25
+PB,Kapurthala,Phagwara,Phagwara,31.28944444,75.7925,Rawalpindi-Pz,"Tube Well",W30521,2015,NA,18.85,23.05,15.95
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29166667,75.21388889,Amanipur-Pz,"Tube Well",W30522,2015,NA,10.95,12.25,11.25
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29583333,75.2,"Talwandi Chaudary -Pz","Tube Well",W30523,2015,11.46,9.5,9.83,9.63
+PB,Kapurthala,Kapurthala,Kapurthala,31.3,75.42222222,Balera-Pz,"Tube Well",W30525,2015,NA,28.35,34.3,26.6
+PB,Kapurthala,Kapurthala,Kapurthala,31.3125,75.26805556,Mithra-Pz,"Tube Well",W30526,2015,NA,12.7,13.9,13.1
+PB,Kapurthala,Kapurthala,Kapurthala,31.31527778,75.4,"Nathu Chahal-Pz","Tube Well",W30527,2015,NA,27.49,33.34,26.5
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala2 (s)","Tube Well",W30543,2015,21.8,19.77,22.27,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.3875,75.32638889,Bhawanipur-Pz,"Tube Well",W30551,2015,NA,8.1,10.7,8.75
+PB,Kapurthala,Kapurthala,Dhilwan,31.39666667,75.23611111,"Miani Bola-Pz","Tube Well",W30556,2015,NA,8.31,9.81,8.51
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24722222,Saiflabad-Pz,"Tube Well",W30562,2015,NA,7.9,8.65,8.15
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.25555556,Phulewal-Pz,"Tube Well",W30563,2015,NA,15,16.8,15.4
+PB,Kapurthala,Kapurthala,Dhilwan,31.45138889,75.37111111,Thikriwali-Pz,"Tube Well",W30571,2015,NA,7.42,8.3,7.6
+PB,Kapurthala,Kapurthala,Dhilwan,31.45527778,75.29583333,"Nurpur Janoa-Pz","Tube Well",W30574,2015,NA,8.08,8.73,8.13
+PB,Kapurthala,Kapurthala,Dhilwan,31.45833333,75.43333333,Hamira-Pz,"Tube Well",W30575,2015,NA,9.24,9.94,9.69
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath D","Tube Well",W30594,2015,8.41,7.84,9,6.46
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath M","Tube Well",W30595,2015,NA,7.68,10.7,7.94
+PB,Kapurthala,Kapurthala,Dhilwan,31.54111111,75.38055556,Chakoke-Pz,"Tube Well",W30598,2015,NA,5.14,6.96,5.19
+PB,Kapurthala,Kapurthala,Nadala,31.54583333,75.43194444,Nadala,"Tube Well",W30601,2015,NA,5.85,NA,6
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-D Pz","Tube Well",W30607,2015,22.12,19.03,19.25,17.1
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-M Pz","Tube Well",W30608,2015,20.63,17.75,20.15,20.65
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-S Pz","Tube Well",W30609,2015,25.83,NA,21.65,20.95
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-VS Pz","Tube Well",W30610,2015,25.46,NA,21.6,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57444444,75.555,"Karnail Ganju-Pz","Tube Well",W30611,2015,NA,6.56,7.61,6.51
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  D","Tube Well",W30625,2015,21.13,11.89,11.9,10.12
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  M","Tube Well",W30626,2015,15.08,13.6,13.5,12.56
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  S","Tube Well",W30627,2015,19.19,10.12,14.52,13.77
+PB,Kapurthala,Kapurthala,Nadala,31.61222222,75.525,Begowal-Pz,"Tube Well",W30629,2015,NA,5.18,6.1,5.7
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  S","Tube Well",W30627,2014,17.12,12.97,13.69,12.83
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2014,26.42,19.37,21.84,21.05
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.24722222,75.26805556,Dadwindi-Pz,"Tube Well",W32198,2014,NA,NA,NA,17.6
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara2 (s)","Tube Well",W30503,2014,28.33,25.19,26.92,24.05
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.2375,75.32083333,"Shalapur Dona-Pz","Tube Well",W30505,2014,31.6,NA,27.5,25.4
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.24583333,75.20416667,"Bauril Harnampur-Pz","Tube Well",W30507,2014,14.76,NA,13.14,11.84
+PB,Kapurthala,Phagwara,Phagwara,31.24583333,75.70833333,Maheru-Pz,"Tube Well",W30508,2014,22.7,NA,21.15,17.6
+PB,Kapurthala,Kapurthala,Kapurthala,31.26944444,75.29166667,Paazian-Pz,"Tube Well",W30515,2014,22.25,NA,17.2,15.85
+PB,Kapurthala,Phagwara,Phagwara,31.27083333,75.82916667,Sangatpur-Pz,"Tube Well",W30517,2014,26.5,NA,21.2,17.7
+PB,Kapurthala,Phagwara,Phagwara,31.275,75.7375,Kishanpur,"Tube Well",W30518,2014,29.05,NA,24.45,20.65
+PB,Kapurthala,Phagwara,Phagwara,31.28944444,75.7925,Rawalpindi-Pz,"Tube Well",W30521,2014,26.95,NA,21.35,17.35
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29166667,75.21388889,Amanipur-Pz,"Tube Well",W30522,2014,14.75,NA,11.25,10.15
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29583333,75.2,"Talwandi Chaudary -Pz","Tube Well",W30523,2014,11.73,8.41,9.73,9.04
+PB,Kapurthala,Kapurthala,Kapurthala,31.3,75.42222222,Balera-Pz,"Tube Well",W30525,2014,31.8,NA,29.4,26.1
+PB,Kapurthala,Kapurthala,Kapurthala,31.3125,75.26805556,Mithra-Pz,"Tube Well",W30526,2014,15.7,NA,13.4,12.4
+PB,Kapurthala,Kapurthala,Kapurthala,31.31527778,75.4,"Nathu Chahal-Pz","Tube Well",W30527,2014,32.79,NA,29.29,25.8
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala2 (s)","Tube Well",W30543,2014,21.15,17.74,19.38,19.09
+PB,Kapurthala,Kapurthala,Kapurthala,31.3875,75.32638889,Bhawanipur-Pz,"Tube Well",W30551,2014,12,NA,9.6,8.6
+PB,Kapurthala,Kapurthala,Dhilwan,31.39666667,75.23611111,"Miani Bola-Pz","Tube Well",W30556,2014,9.59,NA,8.61,8.41
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24722222,Saiflabad-Pz,"Tube Well",W30562,2014,8.95,NA,8.15,7.45
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.25555556,Phulewal-Pz,"Tube Well",W30563,2014,16.8,NA,15.2,15
+PB,Kapurthala,Kapurthala,Dhilwan,31.45138889,75.37111111,Thikriwali-Pz,"Tube Well",W30571,2014,8.4,NA,8,7.65
+PB,Kapurthala,Kapurthala,Dhilwan,31.45527778,75.29583333,"Nurpur Janoa-Pz","Tube Well",W30574,2014,9.12,NA,8.48,8.08
+PB,Kapurthala,Kapurthala,Dhilwan,31.45833333,75.43333333,Hamira-Pz,"Tube Well",W30575,2014,10.12,NA,9.45,9.54
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath D","Tube Well",W30594,2014,8.32,5.96,7.08,5.87
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath M","Tube Well",W30595,2014,9.41,7.45,8.04,7.41
+PB,Kapurthala,Kapurthala,Dhilwan,31.54111111,75.38055556,Chakoke-Pz,"Tube Well",W30598,2014,7.29,NA,5.64,5.39
+PB,Kapurthala,Kapurthala,Nadala,31.54583333,75.43194444,Nadala,"Tube Well",W30601,2014,6.7,NA,6,6.12
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-D Pz","Tube Well",W30607,2014,19.65,15.98,19.76,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-M Pz","Tube Well",W30608,2014,20.18,16.6,18.41,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-S Pz","Tube Well",W30609,2014,24.38,18,19.93,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57083333,75.57111111,"Hussainpura-VS Pz","Tube Well",W30610,2014,24.3,18.07,19.7,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57444444,75.555,"Karnail Ganju-Pz","Tube Well",W30611,2014,7.91,NA,7.26,6.56
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  D","Tube Well",W30625,2014,12.18,10.02,11.29,9.49
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  M","Tube Well",W30626,2014,15.61,11.51,13.11,11.5
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2014,28.15,23.15,26.13,22.1
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2014,NA,18.9,21.37,19.5
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2014,13.72,10.28,11.97,10.33
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2014,9.32,7.94,8.63,7.85
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17972222,75.09444444,"Sheikh Manga-Pz","Tube Well",W30493,2014,5.47,NA,3.9,2.9
+PB,Kapurthala,Phagwara,Phagwara,31.19611111,75.74111111,Bhanoki-Pz,"Tube Well",W30495,2014,26.25,NA,24.3,22.5
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur2 (s)","Tube Well",W30501,2014,17.03,13.91,15.13,13.43
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.22888889,75.11861111,Hazipur-Pz,"Tube Well",W30502,2014,8.64,NA,5.44,5.14
+PB,Kapurthala,Kapurthala,Nadala,31.61222222,75.525,Begowal-Pz,"Tube Well",W30629,2014,7.3,NA,5.5,5.52
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,Phagwara(shallow),"Tube Well",W32196,2013,28.98,NA,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2013,28.24,23.29,24.98,23.86
+PB,Kapurthala,Kapurthala,"Sultanpur Lodhi",31.33333333,75.15277778,Jhalbibri-Pz,"Tube Well",W32199,2013,NA,12.7,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.24583333,75.20416667,"Bauril Harnampur-Pz","Tube Well",W30507,2013,NA,11.54,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.275,75.7375,Kishanpur,"Tube Well",W30518,2013,NA,21.7,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29583333,75.2,"Talwandi Chaudary -Pz","Tube Well",W30523,2013,9.74,9.46,8.87,9.6
+PB,Kapurthala,Kapurthala,Kapurthala,31.31527778,75.4,"Nathu Chahal-Pz","Tube Well",W30527,2013,NA,25.69,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala2 (s)","Tube Well",W30543,2013,19.66,16.98,18.38,20.23
+PB,Kapurthala,Kapurthala,Dhilwan,31.39666667,75.23611111,"Miani Bola-Pz","Tube Well",W30556,2013,NA,8.3,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45527778,75.29583333,"Nurpur Janoa-Pz","Tube Well",W30574,2013,NA,8.08,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45833333,75.43333333,Hamira-Pz,"Tube Well",W30575,2013,NA,9.14,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath D","Tube Well",W30594,2013,7.61,6.5,6.43,6.83
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath M","Tube Well",W30595,2013,8.51,7.91,7.64,8.44
+PB,Kapurthala,Kapurthala,Dhilwan,31.54111111,75.38055556,Chakoke-Pz,"Tube Well",W30598,2013,NA,5.14,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.54583333,75.43194444,Nadala,"Tube Well",W30601,2013,NA,5.9,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57444444,75.555,"Karnail Ganju-Pz","Tube Well",W30611,2013,NA,6.21,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  D","Tube Well",W30625,2013,11.89,10.37,10.73,10.66
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  M","Tube Well",W30626,2013,13.32,11.83,12.29,11.57
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  S","Tube Well",W30627,2013,15.71,13.17,13.1,13.37
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2013,21.6,19.23,20.48,20.13
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2013,14.91,10.89,10.96,11.53
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2013,9.33,NA,8.22,8.7
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17972222,75.09444444,"Sheikh Manga-Pz","Tube Well",W30493,2013,NA,2.65,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur2 (s)","Tube Well",W30501,2013,11.75,13.87,14.16,15.3
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.22888889,75.11861111,Hazipur-Pz,"Tube Well",W30502,2013,NA,4.34,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara2 (s)","Tube Well",W30503,2013,27.83,24.88,25.9,25.67
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2013,23.09,20.01,20.08,22.63
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,2013,NA,NA,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,Phagwara(deep),"Tube Well",W32197,2013,29.2,NA,NA,NA
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  S","Tube Well",W30627,2012,NA,NA,13.28,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,Phagwara(shallow),"Tube Well",W32196,2012,NA,NA,26.08,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,Phagwara(deep),"Tube Well",W32197,2012,NA,NA,24.97,NA
+PB,Kapurthala,Kapurthala,"Sultanpur Lodhi",31.33333333,75.15277778,Jhalbibri-Pz,"Tube Well",W32199,2012,NA,NA,15.6,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara2 (s)","Tube Well",W30503,2012,NA,NA,24.78,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.24583333,75.20416667,"Bauril Harnampur-Pz","Tube Well",W30507,2012,NA,NA,12.49,NA
+PB,Kapurthala,Phagwara,Phagwara,31.275,75.7375,Kishanpur,"Tube Well",W30518,2012,NA,NA,24.85,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.29583333,75.2,"Talwandi Chaudary -Pz","Tube Well",W30523,2012,NA,NA,9.69,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.31527778,75.4,"Nathu Chahal-Pz","Tube Well",W30527,2012,NA,NA,29.04,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala2 (s)","Tube Well",W30543,2012,NA,NA,24.73,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.39666667,75.23611111,"Miani Bola-Pz","Tube Well",W30556,2012,NA,NA,8.71,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45527778,75.29583333,"Nurpur Janoa-Pz","Tube Well",W30574,2012,NA,NA,8.63,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45833333,75.43333333,Hamira-Pz,"Tube Well",W30575,2012,NA,NA,9.51,NA
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath D","Tube Well",W30594,2012,NA,NA,5.98,NA
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath M","Tube Well",W30595,2012,NA,NA,8.01,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.54111111,75.38055556,Chakoke-Pz,"Tube Well",W30598,2012,NA,NA,5.54,NA
+PB,Kapurthala,Kapurthala,Nadala,31.54583333,75.43194444,Nadala,"Tube Well",W30601,2012,NA,NA,6.32,NA
+PB,Kapurthala,Kapurthala,Nadala,31.57444444,75.555,"Karnail Ganju-Pz","Tube Well",W30611,2012,NA,NA,6.71,NA
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  D","Tube Well",W30625,2012,NA,NA,12.23,NA
+PB,Kapurthala,Kapurthala,Nadala,31.60416667,75.58777778,"Bhatnura Khurd-  M","Tube Well",W30626,2012,NA,NA,12.7,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2012,NA,18.15,20.7,27.98
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2012,NA,10.42,21.09,11.95
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2012,NA,6.32,5.98,6.95
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17972222,75.09444444,"Sheikh Manga-Pz","Tube Well",W30493,2012,NA,NA,2.95,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur2 (s)","Tube Well",W30501,2012,NA,NA,24.8,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.22888889,75.11861111,Hazipur-Pz,"Tube Well",W30502,2012,NA,NA,5.86,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2012,NA,2.85,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2012,NA,19.3,21.01,19.15
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2012,NA,21.31,26.08,21.99
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2011,NA,17.47,14.15,19.1
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2011,12.88,12.7,11.29,10.43
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2011,NA,NA,NA,15
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2011,25.84,22.79,23.41,21.64
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2011,3.98,4.01,2.95,4.04
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2011,23.9,18.32,20.54,21.51
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2011,8.2,7.42,NA,8.34
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2010,21.4,16.75,19.16,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2010,12.16,9.95,10.9,14.3
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2010,NA,8.6,NA,15
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2010,25.66,19.65,22.98,20.85
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2010,4.65,3.36,4.02,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2010,21.57,18.04,19.58,20.02
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2010,9.05,7.24,7.48,8.15
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2009,22.11,19.15,18.4,20.55
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2009,11.6,11.8,10.57,13.65
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2009,NA,7.73,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2009,23.97,20.54,21.04,21.96
+PB,Kapurthala,Kapurthala,Dhilwan,31.50666667,75.32944444,Dilwan,"Tube Well",W21809,2009,3.83,NA,NA,4.5
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2009,3.83,3.9,4.2,4.6
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2009,20.75,NA,20.37,18.93
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2009,8.14,5.22,7.2,7.12
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2008,22.8,18.7,17.1,21.6
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2008,14.07,NA,12.2,12.44
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2008,7.82,7.6,7.62,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2008,22.09,20.71,21.58,21.07
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2008,4.9,NA,3.87,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2008,NA,17.17,17.82,18.68
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2008,7.7,7.77,NA,8.06
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2007,23.76,16.7,18.65,15.67
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2007,13.97,11.95,12.27,12.61
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2007,19.7,18.58,21.82,19.54
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2007,8.22,7.64,9.54,8.3
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2007,24,NA,17.77,NA
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2007,8.28,7.9,7.72,8.45
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2006,21.7,17,15.2,19.8
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2006,13.78,11.47,13.58,13.15
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2006,NA,16.34,18.24,17.73
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2006,8.92,7.33,8.25,7.97
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2006,NA,NA,NA,17.84
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2006,8.64,8.5,7.74,7.5
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2005,20.03,NA,17.39,19.3
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2005,NA,11.97,11.82,12.93
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2005,8.5,8.13,7.55,8.36
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2005,NA,NA,18.94,16.57
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2005,4.67,NA,4.36,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2005,NA,NA,NA,15.67
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,2005,NA,NA,NA,12.97
+PB,Kapurthala,Kapurthala,Nadala,31.53472222,75.50555556,"bholath S","Tube Well",W18003,2005,7.23,7.29,7.14,6.42
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2004,22.26,13.21,18.05,18.46
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2004,13.2,10.08,NA,11.41
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2004,7.51,6.45,7.78,7.89
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2004,NA,13.7,16.4,15.4
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,2004,13.21,11.63,12.78,12.22
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,2004,15.78,13.89,17.87,14.93
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2004,NA,NA,16.12,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2003,19.82,11.74,13.78,16.32
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2003,11.5,9.4,10.3,10.75
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2003,7.05,NA,6.96,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2003,9,NA,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24222222,Saiflabad,"Dug Well",W13289,2003,8.4,NA,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2003,15.87,13.79,14.55,14.63
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2003,14.72,13.1,13.65,15.14
+PB,Kapurthala,Kapurthala,Kapurthala,31.38333333,75.3,"Khiran Wali","Dug Well",W13295,2003,8.5,NA,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,2003,16,11.83,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,2003,12.43,11.31,12.08,11.4
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,2003,14.37,13.47,14.42,13.82
+PB,Kapurthala,Kapurthala,Kapurthala,31.38722222,75.39555556,Kapurthala,"Dug Well",W13291,2003,7.5,NA,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2002,20.5,10.22,12.17,15.72
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2002,10.71,NA,9.7,8.83
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2002,NA,NA,NA,7.07
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2002,NA,6.89,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24222222,Saiflabad,"Dug Well",W13289,2002,NA,7.07,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,2002,15.14,NA,13.89,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2002,15.57,NA,13.54,13.89
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,2002,NA,9.58,12.14,12.1
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,2002,11.23,9.42,11.21,9.99
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,2002,12.9,11.63,13.23,12.21
+PB,Kapurthala,Kapurthala,Kapurthala,31.38722222,75.39555556,Kapurthala,"Dug Well",W13291,2002,NA,5.7,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2001,NA,8.7,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2001,8.31,8.13,7.81,NA
+PB,Kapurthala,"Jalandhar - I",Kapurthala,31.36666667,75.4625,"Khaira Majha","Dug Well",W13251,2001,NA,NA,6.7,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2001,6.75,6.93,6.8,7.15
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,2001,11.68,10.56,NA,11.22
+PB,Kapurthala,Kapurthala,Kapurthala,31.38722222,75.39555556,Kapurthala,"Dug Well",W13291,2001,NA,4.81,NA,5.75
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2001,13.43,11,12.73,NA
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,2001,10.48,7.8,10.9,11
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,2001,9.43,8.45,9.53,9.23
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24222222,Saiflabad,"Dug Well",W13289,2001,7,6.22,7.1,6.7
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,2000,14.76,6.93,9.52,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,2000,7.88,NA,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,2000,6.95,6.38,6.8,6.9
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24222222,Saiflabad,"Dug Well",W13289,2000,6.24,NA,6.22,5.7
+PB,Kapurthala,Kapurthala,Kapurthala,31.26361111,75.4475,Kalasinghana,"Dug Well",W13290,2000,10.99,NA,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,2000,9.95,9.03,10.13,9.32
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,2000,12.53,NA,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.38333333,75.3,"Khiran Wali","Dug Well",W13295,2000,NA,4.58,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,2000,8.3,6.36,8.4,7.85
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,2000,7.92,6.19,8.73,6.63
+PB,Kapurthala,Kapurthala,Kapurthala,31.38722222,75.39555556,Kapurthala,"Dug Well",W13291,2000,4.62,4.85,4.65,4.5
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,1999,7.08,NA,7.28,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.38333333,75.3,"Khiran Wali","Dug Well",W13295,1999,NA,NA,NA,3.41
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,1999,NA,5.67,NA,28
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,1999,NA,5.4,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,1999,7.48,6.9,6.6,6.29
+PB,Kapurthala,Kapurthala,Kapurthala,31.26361111,75.4475,Kalasinghana,"Dug Well",W13290,1999,NA,NA,NA,10.47
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,1999,6.3,3.78,6.59,4.6
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24222222,Saiflabad,"Dug Well",W13289,1999,5.32,4.35,5.33,5.05
+PB,Kapurthala,Kapurthala,Kapurthala,31.38722222,75.39555556,Kapurthala,"Dug Well",W13291,1999,3.89,3.41,3.71,3.95
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,1999,8.89,8.18,8.87,8.55
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,1998,11.7,NA,11.17,28
+PB,Kapurthala,Kapurthala,Kapurthala,31.38333333,75.3,"Khiran Wali","Dug Well",W13295,1998,6.19,NA,5.7,5.04
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,1998,8.67,8.95,8.3,8.93
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,1998,NA,9.84,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,1998,NA,5.11,5.02,5.27
+PB,Kapurthala,Kapurthala,Kapurthala,31.38722222,75.39555556,Kapurthala,"Dug Well",W13291,1998,5.27,3.27,3.28,3.1
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.3075,75.18416667,"Talwandi Chaudn","Dug Well",W13308,1998,NA,3.62,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.26361111,75.4475,Kalasinghana,"Dug Well",W13290,1998,5.87,10.05,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24222222,Saiflabad,"Dug Well",W13289,1998,5.57,NA,NA,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,1998,8.65,6.01,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.26583333,75.70694444,Chaheru,"Dug Well",W13298,1998,4.91,8.08,NA,5.38
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,1998,7.13,3.21,2.97,5.44
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17916667,75.19166667,Sultanpur,"Dug Well",W13305,1998,NA,5.69,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,1998,NA,4.94,5.43,6.32
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,1997,5.6,6.28,15.6,NA
+PB,Kapurthala,Phagwara,Phagwara,31.26583333,75.70694444,Chaheru,"Dug Well",W13298,1997,6.01,5.89,8.08,6.92
+PB,Kapurthala,Kapurthala,Kapurthala,31.38333333,75.3,"Khiran Wali","Dug Well",W13295,1997,NA,3.03,NA,4.99
+PB,Kapurthala,Kapurthala,Kapurthala,31.36944444,75.38055556,"Kapurthala1 (d)","Tube Well",W13292,1997,NA,12.35,NA,NA
+PB,Kapurthala,Kapurthala,Kapurthala,31.38722222,75.39555556,Kapurthala,"Dug Well",W13291,1997,2.45,NA,3.28,4.83
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24222222,Saiflabad,"Dug Well",W13289,1997,NA,4.79,NA,5.75
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,1997,NA,5.59,4.88,8.4
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,1997,6.6,NA,5.51,NA
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,1997,9.55,6.3,28,12.32
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,1997,NA,9.2,NA,9.57
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,1997,9.52,8.31,9.33,9.91
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,1997,3.68,5.25,3.57,7.03
+PB,Kapurthala,Kapurthala,Kapurthala,31.23888889,75.43055556,Madhopur,"Dug Well",W13296,1996,NA,NA,NA,11.08
+PB,Kapurthala,Kapurthala,Kapurthala,31.38333333,75.3,"Khiran Wali","Dug Well",W13295,1996,NA,4.96,NA,4.95
+PB,Kapurthala,Phagwara,Phagwara,31.22916667,75.77916667,"Phagwara1 (d)","Tube Well",W13302,1996,9.97,NA,NA,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.51666667,75.35,Dhilwan,"Dug Well",W13287,1996,4.19,5.7,4.51,6.32
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.17444444,75.24222222,Dalla,"Dug Well",W13304,1996,NA,5.81,12.15,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.45833333,75.30555556,Padde,"Dug Well",W13288,1996,NA,3.2,NA,NA
+PB,Kapurthala,Phagwara,Phagwara,31.2625,75.77916667,Khurampur,"Dug Well",W13300,1996,6.33,5.36,8.26,6.38
+PB,Kapurthala,Kapurthala,Kapurthala,31.38722222,75.39555556,Kapurthala,"Dug Well",W13291,1996,4.5,3.15,7.15,4.25
+PB,Kapurthala,"Sultanpur Lodhi","Sultanpur Lodhi",31.21944444,75.2,"Sultanpur1 (d)","Tube Well",W13306,1996,7.34,5.7,NA,8.23
+PB,Kapurthala,Phagwara,Phagwara,31.22111111,75.76694444,Phagwara,"Dug Well",W13301,1996,10.05,9.71,10.45,9.91
+PB,Kapurthala,Phagwara,Phagwara,31.26583333,75.70694444,Chaheru,"Dug Well",W13298,1996,5.85,4.78,9.31,8.03
+PB,Kapurthala,Phagwara,Phagwara,31.19861111,75.70555556,"Darwesh Pind","Dug Well",W13299,1996,NA,7.09,10.6,NA
+PB,Kapurthala,Kapurthala,Dhilwan,31.40833333,75.24222222,Saiflabad,"Dug Well",W13289,1996,NA,4.69,7.45,5.48
+PB,Kapurthala,Kapurthala,Kapurthala,31.30527778,75.31805556,"Khera Dona","Dug Well",W13294,1996,NA,5.2,NA,NA

@@ -1,0 +1,546 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2018,NA,2.59,2.16,NA
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2018,NA,3.96,5.19,NA
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2018,NA,8.05,4.81,NA
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2018,NA,3.25,3.97,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2018,NA,6.9,2.87,NA
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2018,NA,2.74,2.18,NA
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2018,NA,6.37,5.84,NA
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2018,NA,5.97,3.8,NA
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2018,NA,5.45,5.8,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2018,NA,4.87,4.73,NA
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2018,NA,5.7,5.56,NA
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2018,NA,5.45,6.35,NA
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2018,NA,5.53,4.36,NA
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2018,NA,9.25,8.52,NA
+UP,Azamgarh,Tarwa,Tarwa,25.76944444,83.1625,Kharihani,"Dug Well",W32936,2018,NA,7.42,6.55,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2018,5.5,6.12,NA,NA
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2018,NA,9.31,NA,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2018,NA,8.17,6.78,NA
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2018,NA,1.86,1.02,NA
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2017,'0.96,2.41,2.14,4.46
+UP,Azamgarh,Tarwa,Tarwa,25.76944444,83.1625,Kharihani,"Dug Well",W32936,2017,5.28,5.05,6.45,8.17
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2017,6.94,2.07,7.39,5.12
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2017,1.78,2.62,2.68,5.85
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2017,5,2.1,6.03,5.1
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2017,'0.65,3.36,1.81,4.36
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2017,4.52,3.67,5.62,5.8
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2017,5.68,3.71,5.75,5.82
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2017,6.28,6.21,6.06,6.42
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2017,5,7.15,5.5,8.22
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2017,4.89,6.01,5.35,7.35
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2017,3.12,4,4.86,5.38
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2017,5.77,8.17,8.72,9.08
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2017,NA,5.15,5.25,6.35
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2017,4.1,4.81,4.39,NA
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2017,8.6,NA,8.95,NA
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2017,5.43,6.3,NA,6.6
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2017,NA,2.68,NA,3.7
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2017,2.45,NA,NA,NA
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2017,2.79,1.8,3.62,4
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2017,7.67,NA,7.83,NA
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2017,'0.4,1.95,1.48,4.35
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2016,1.44,NA,1.36,5.95
+UP,Azamgarh,Tarwa,Tarwa,25.76944444,83.1625,Kharihani,"Dug Well",W32936,2016,3.05,NA,2.95,10.05
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2016,9.28,NA,9.33,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2016,4,NA,3.82,NA
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2016,7.38,NA,7.33,9.76
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2016,2.13,NA,2.01,NA
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2016,3.9,NA,3.87,6.35
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2016,NA,NA,1.41,NA
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2016,'0.6,NA,'0.62,3.1
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2016,2.73,NA,2.71,NA
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2016,'0.55,NA,'0.85,4.18
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2016,6.97,NA,6.93,NA
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2016,NA,NA,1.86,NA
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2016,2.25,NA,2.28,5.1
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2016,'0.85,NA,'0.9,8.73
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2016,1.8,NA,1.81,7.35
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2016,NA,NA,NA,8.99
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2016,4.2,NA,4.23,6.86
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2016,2.37,NA,2.4,5.23
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2016,1.85,NA,1.82,NA
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2016,'0.7,NA,'0.79,6.87
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2016,6.23,NA,6.2,8.83
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2015,3.96,2.63,3.9,4.1
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2015,3.72,2.45,3.05,3.88
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2015,9.3,8.41,NA,9.3
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2015,4.17,5.31,6.86,4.17
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2015,7,6.89,7.6,7.25
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2015,NA,2.55,NA,NA
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2015,5.33,4.77,6.2,6.14
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2015,2.48,1.7,'0.67,2.8
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2015,4.1,3.93,6.3,5.89
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2015,4.63,3.1,5.62,4.8
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2015,3.1,1.85,5.14,3.35
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2015,5.7,5.88,5.65,6.31
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2015,1.02,2.38,3.21,4.06
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2015,6.82,3.54,5.87,7.01
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2015,6.03,4.21,4.25,6.17
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2015,6.31,6.07,6.49,6.96
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2015,5.73,5.25,7.43,6.13
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2015,6.35,6.26,5.35,6.84
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2015,8.21,6.82,8.38,8.58
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2014,1.7,2.15,NA,3.95
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2014,1.65,1.15,NA,3.67
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2014,9.02,7.51,NA,9.41
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2014,4.4,3.9,NA,4.22
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2014,4.58,7.02,NA,7.62
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2014,1.23,1.38,NA,4.31
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2014,3.25,3.05,NA,5.88
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2014,NA,NA,2.46,NA
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2014,'0.4,'0.65,NA,2.72
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2014,3.15,2.03,NA,4.7
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2014,1.62,1.3,NA,3.82
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2014,1.32,1.18,NA,3.52
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2014,5.71,4.65,NA,5.36
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2014,NA,NA,1.86,NA
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2014,1.08,1.58,NA,3.93
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2014,3.86,3,NA,5.71
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2014,3.35,2,NA,5.24
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2014,5.96,2.9,NA,5.58
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2014,NA,3.14,NA,5.64
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2014,2.64,4.27,NA,5.8
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2014,4.98,3.56,NA,5.5
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2014,5.56,5.97,NA,7.93
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2013,1.05,4.77,2.34,5.16
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2013,2.42,3.85,1.4,4.28
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2013,7.7,4.6,7.65,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2013,3.48,4.26,3.83,4.6
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2013,6.45,7.98,7,8.59
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2013,'0.39,2.59,1.47,NA
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2013,3.28,4.94,3.98,6.34
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2013,'0.35,1.68,1.06,3.08
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2013,1.43,3.56,2.27,5.44
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2013,'0.95,3.46,1.79,3.78
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2013,3.55,2.55,1.57,4.01
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2013,5.45,5.68,5.43,6.15
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2013,1.69,3.05,1.71,5.98
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2013,6.83,6.23,3.28,7.62
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2013,1.62,4.62,2.19,6.76
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2013,'0.72,4.89,2.84,6.34
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2013,2.72,NA,3.75,6
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2013,3.74,6.37,4.52,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2013,6.43,6.17,3.64,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2013,4.52,8.6,6.08,9.73
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2012,NA,3.35,4.4,6.6
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2012,NA,2.86,2.1,6.13
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2012,NA,8.45,9.1,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2012,NA,3.91,4,4.8
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2012,NA,7,7.39,8.16
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2012,NA,1.85,2.93,6.98
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2012,NA,5.05,1.54,6.74
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2012,NA,'0.95,1.5,2.8
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2012,NA,NA,2.36,8.1
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2012,NA,2.3,3.97,4.76
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2012,NA,1.3,2.4,3.25
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2012,NA,4.98,5.45,6.25
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2012,NA,2.23,2.33,4.73
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2012,NA,5.25,5.95,7.2
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2012,NA,1.98,3.85,6.2
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2012,NA,4.31,3.69,5.06
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2012,NA,4.42,4.8,6.2
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2012,NA,5,6.16,6.5
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2012,NA,4.85,6,3.76
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2012,NA,NA,9.25,9.18
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2011,'0.9,6.2,3.2,5.5
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2011,2.65,3.6,2.65,5.85
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2011,8.3,10.5,8.37,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2011,3.86,4.96,3.52,4.89
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2011,7.33,9.09,7.22,8.51
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2011,'0.38,3.24,2.04,5.9
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2011,2.71,6.56,4.76,6.96
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2011,'0.22,2.34,1,2.98
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2011,6.9,NA,NA,6.64
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2011,1.16,3.65,2.45,5.96
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2011,3.75,NA,1.4,NA
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2011,5.43,6.29,4.65,7.41
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2011,1.28,NA,NA,5.5
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2011,1.63,3.8,2.4,4.33
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2011,6.9,6.95,5.45,8.25
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2011,1.44,4.9,2.08,6.5
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2011,'0.9,7.12,4.63,6.94
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2011,2.48,6.06,2.86,6.56
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2011,2.85,5.9,4.87,6.75
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2011,4.7,6.2,4.35,7.03
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2011,4.72,NA,1.88,9.58
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2010,4.96,4.98,5.33,NA
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2010,2.82,3.95,2.52,6.28
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2010,9.52,8.69,8.55,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2010,4.1,3.6,3.79,4.5
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2010,4.9,7.33,7.38,NA
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2010,2.45,3.42,2.04,5.93
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2010,5.85,6.91,5.1,7
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2010,'0.55,1.04,1.05,3.5
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2010,4.82,5.9,NA,NA
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2010,3.44,5.98,2.6,NA
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2010,NA,5.48,NA,NA
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2010,7.03,6.33,6,6.95
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2010,4.66,5.25,NA,NA
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2010,1.67,3.21,2.61,NA
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2010,6.95,5.87,5.64,NA
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2010,4.3,4.62,3.4,8.3
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2010,4.97,5.36,4.9,NA
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2010,6.23,5.1,5.43,6.4
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2010,5.18,6.5,4.9,NA
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2010,6.24,5.9,4.67,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2010,9.1,8.73,NA,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2009,4.75,3.8,4.38,5.25
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2009,4.4,1.9,3.88,5.73
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2009,8.75,6.45,7.89,8.57
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2009,3.5,3.4,3.31,3.74
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2009,6.95,5.4,6.9,6.69
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2009,3.35,2.55,2.46,5.19
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2009,5.96,4.4,5.87,6.5
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2009,'0.4,1.2,1.2,3.3
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2009,4.8,3.5,4.44,6.48
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2009,5.39,3.35,5.01,5.5
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2009,4.15,1.95,4.43,4.46
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2009,5.83,3.75,5.82,5.51
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2009,4.75,NA,4.3,4.1
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2009,2.05,3.33,2.63,5.12
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2009,NA,3.1,NA,NA
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2009,4.55,4.85,6.31,7.88
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2009,3.1,2.75,3.88,6.12
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2009,4.3,4.26,3.56,6.86
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2009,5.54,4.1,4.45,5.95
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2009,4.76,2.25,2.68,4.85
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2009,4.9,3.6,5.14,4.36
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2009,8.48,6.03,8.12,8.97
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2008,'0.8,3.2,2.72,4.93
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2008,1.58,2.15,2.3,4.6
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2008,2.77,7.85,5.2,9.28
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2008,'0.7,4.5,2,4.3
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2008,1.95,7.5,3.9,8.36
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2008,'0.53,3.87,1.27,5.74
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2008,2.89,5.2,2.79,6.78
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2008,'0.6,1.5,'0.9,2.93
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2008,1.3,3.85,2.02,6.6
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2008,1.75,5.05,3.31,6.04
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2008,'0.75,2.75,2.51,4.74
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2008,1.89,4.35,2.42,5.82
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2008,2.41,3.9,1.63,4.89
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2008,'0.37,3.88,2.52,4.93
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2008,7.4,2.3,7.4,NA
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2008,1,4,5.85,5.95
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2008,'0.61,4.1,2,5.9
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2008,'0.5,5.26,2.61,6.76
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2008,'0.89,4.9,2.34,6.04
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2008,'0.4,3.6,1.58,5.28
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2008,NA,NA,2.57,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2008,2.98,6.13,4.56,8.5
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2007,'0.75,4.1,2.65,4.83
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2007,'0.55,2.3,2,3.51
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2007,5.85,9.15,7.25,8.42
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2007,2.9,2.9,3.3,3.86
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2007,7.25,7.9,7.58,6.71
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2007,'0.5,4.8,2.1,4.77
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2007,2.25,6.4,4.6,6.01
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2007,'0.15,1,1.4,2.78
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2007,1.4,5.4,2.8,5.19
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2007,1.8,5.1,4.25,5.6
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2007,'0.85,2.05,2.8,3.77
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2007,4.55,6.55,4.25,5.01
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2007,1.22,4.95,3.5,4.52
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2007,'0.28,3.8,4.33,3.78
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2007,'0.55,2.1,1.7,6.84
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2007,1.15,4,3.55,NA
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2007,1.2,3.45,3.15,5.44
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2007,2.41,4.86,4.36,6.63
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2007,1.7,5.35,3.95,6
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2007,'0.25,5.7,2.6,4.85
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2007,2.42,NA,4.65,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2007,3.98,7.28,5.58,8.99
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2006,2.55,3.7,2.95,4.9
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2006,'0.9,2.4,1.55,3.9
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2006,8.15,7.45,7.95,8.55
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2006,3.55,3.35,3.2,4.1
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2006,7.15,6.3,7.45,7.05
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2006,3.25,2.95,3.9,4.7
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2006,5.75,4.5,6.15,6.1
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2006,NA,3.5,NA,5.2
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2006,'0.35,'0.9,1.05,2.8
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2006,3.4,3.35,4,5.1
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2006,1.95,3.4,4.25,5.6
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2006,'0.85,2.05,1.65,3.8
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2006,5.8,3.95,6.25,5.25
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2006,4.75,3.3,4.4,4.6
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2006,1.18,NA,NA,4.03
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2006,'0.8,2.1,1.45,6.4
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2006,1.65,3.4,2.45,NA
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2006,1.25,3,2.45,5.6
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2006,1.9,5.86,2.96,6.66
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2006,4.15,5.9,4.65,6.1
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2006,3.25,2.6,5.1,4.8
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2006,NA,4.2,5.25,5.8
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2006,4.93,6.58,5.58,8.68
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2005,'0.85,6.29,2.8,5.2
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2005,1.35,2.57,1.6,4.8
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2005,4.95,8.16,6.65,9.35
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2005,1.15,NA,3,4.5
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2005,7.1,7.66,5.9,8.3
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2005,'0.4,3.49,1.8,4.85
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2005,1.65,5.45,3.2,6.7
+UP,Azamgarh,Dhekma,Dhekma,25.80777778,82.84777778,Bardah,"Dug Well",W14672,2005,1.65,NA,NA,4.5
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2005,'0.81,4.74,2.46,7.87
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,2005,NA,2.67,NA,NA
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2005,'0.35,1.25,1,1.6
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2005,1.1,4.43,2.5,6.3
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2005,'0.85,4.58,2.75,6.9
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2005,'0.65,3.2,2.15,3.25
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,2005,NA,4.8,NA,NA
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2005,4.85,5.55,3.65,6.35
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2005,'0.9,6.22,1.9,5
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2005,'0.53,3.91,1.83,4.53
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2005,'0.8,2.82,1.5,6.4
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2005,'0.95,3.11,2.7,6
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2005,1.2,3.76,2.7,5.75
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2005,2.06,3.65,5.01,6.96
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2005,1.65,4.36,4.2,6
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2005,'0.25,4.42,1.7,5.7
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2005,NA,6.67,3.6,7.05
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2005,4.13,4.67,5.18,9.45
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2004,3.77,2.48,2.87,5.83
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2004,2.65,2.08,2.47,5.1
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2004,6.65,7.48,7.92,8.99
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2004,2.78,3.46,2.97,3.97
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2004,3.84,7.64,7.37,10.76
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2004,2.2,2.04,1.52,5.02
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2004,2.8,3.22,2.83,6.34
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2004,2.13,2.49,2.14,5.33
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,2004,2.45,3.16,2.61,3.87
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2004,1.08,1.24,1.98,2.76
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2004,2.88,3.33,3.48,8.1
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2004,1.18,1.64,1.33,4.07
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2004,1.33,2.34,2.82,5.27
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,2004,1.79,2.5,2.89,5.92
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2004,4.45,3.7,5.43,5.32
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2004,3.38,4.06,3.54,6.45
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2004,1.48,2.03,1.7,3.81
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2004,1.56,1.68,1.4,3.47
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2004,1.77,3.25,2.58,6.27
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2004,2.77,NA,2.46,5.35
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2004,2.22,3.38,3.34,4.89
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2004,3.58,3.18,3.67,5.81
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2004,2.07,1.92,3.44,4.88
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2004,3.94,5.99,5.49,6.26
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2004,2.77,3.32,3.66,6.84
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2003,4.47,2.62,2.36,6.4
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2003,4.12,4.02,3.6,8.19
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2003,6.36,7.55,6.38,8.72
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2003,2.63,3.72,3.36,4.3
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2003,4.27,7.87,7.63,8.36
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2003,2.41,2.77,1.99,5.52
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2003,2.2,3.46,2.95,6.18
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2003,3.65,2.61,2.26,4.66
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,2003,2.47,3.57,3.04,3.59
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2003,'0.59,1.38,1.12,2.7
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2003,3.26,3.57,3.27,5.66
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2003,2.43,1.83,1.47,3.76
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2003,3.23,2.73,2.23,5.15
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,2003,1.76,2.79,2.38,NA
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2003,3.83,5.01,2.79,5.41
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2003,2.84,4.66,3.4,6.85
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2003,2.81,2.37,2.18,3.72
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2003,2.45,1.98,1.77,4.17
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2003,2.16,2.69,2.49,5.91
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2003,3.19,3.52,2.77,6.06
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2003,1.64,3.58,3.51,4.84
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2003,3.37,4.24,2.21,5.87
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2003,'0.3,2.18,1.12,4.64
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2003,3.88,6.31,4.15,6.15
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2003,2.71,2.37,1.96,4.52
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,2002,2.99,2.18,2.29,3.33
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2002,4.17,3.78,2.74,5.88
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2002,7.95,6.35,6.83,7.94
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2002,3.3,4.82,1.93,4.18
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2002,3.06,2.92,1.84,4.84
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2002,1.61,2.49,1.18,4.75
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2002,4.26,3.97,5.22,5.44
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2002,2.03,2.81,1.35,3.33
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2002,4.11,4.32,2.64,5.6
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2002,4.75,2.56,3.75,5.43
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2002,5.97,5.36,3.12,6.12
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2002,4.9,4.02,4.06,4.39
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2002,3.89,2.68,1.81,3.68
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2002,3.47,NA,2.22,4.38
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2002,5.3,3.32,3.46,5.55
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,2002,2.15,NA,1.66,NA
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2002,7.64,5.88,7.08,6.96
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2002,3.87,1.94,1.48,3.67
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2002,1.97,1.56,1.48,3.1
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2002,2.34,3.36,1.1,2.8
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2002,3.48,2.79,2.67,3.26
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2002,4.2,3.38,2.48,4.76
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2002,1.62,3.96,1.4,3.03
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2002,'0.43,'0.56,'0.62,1.76
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.96527778,83.26388889,Jahanganj,"Dug Well",W14675,2002,4.14,4.18,NA,4.96
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2002,3.59,3.17,2.72,4.24
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2001,3.51,NA,2.19,6.61
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2001,2,NA,1.28,5.07
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2001,NA,NA,1.04,5.66
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2001,1.08,NA,1.95,5.68
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2001,'0.38,NA,'0.93,4.06
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2001,1.02,NA,'0.82,6.82
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2001,4,NA,1.69,5.23
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2001,'0.86,NA,1.34,NA
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,2001,4.14,NA,NA,NA
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,2001,'0.9,NA,'0.8,3.71
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2001,1.28,NA,1.82,5
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2001,1.8,NA,2.1,5.54
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,2001,2.75,NA,1.76,3.69
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2001,1.13,NA,1.32,5.55
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2001,2.2,NA,2.4,6.43
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2001,'0.85,NA,1.69,4.31
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2001,6.68,NA,1.46,6.95
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2001,1.27,NA,'0.59,3.44
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2001,5.08,NA,3.71,8.22
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2001,4.39,NA,2.49,8.09
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2001,'0.76,NA,'0.82,4.88
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2001,NA,NA,1.72,6
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2001,'0.4,NA,1.34,4.94
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2001,2.67,NA,1.62,5.8
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2001,'0.21,NA,'0.47,2.3
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,2000,1.51,2.53,2.18,5.46
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,2000,NA,1.43,1.7,4.48
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,2000,1.64,NA,NA,NA
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,2000,2.66,1.93,1.5,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,2000,2.58,4.61,4.1,7.81
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,2000,'0.68,6.15,14.75,7.83
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,2000,1.46,2.2,2.03,3.29
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,2000,6.06,5.05,4.47,6.73
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,2000,1.61,1.7,1.35,4.78
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,2000,3.11,3.52,NA,5.9
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,2000,4.51,2.23,'0.91,4.84
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,2000,1.25,2.69,3.09,4.47
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.96527778,83.26388889,Jahanganj,"Dug Well",W14675,2000,4.68,2.31,2.1,5.61
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,2000,'0.51,'0.99,'0.94,3.07
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,2000,1.73,2.93,2.63,4.88
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,2000,1.64,2.7,2.3,5.13
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,2000,4.68,4.11,3.18,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,2000,1.56,2.75,NA,4.4
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,2000,4.39,2.94,2.49,4.68
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,2000,2.8,2.26,1.7,4.13
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,2000,NA,2.3,1.31,4.26
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,2000,'0.12,1.93,1.52,4.46
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,2000,'0.91,2.3,NA,2.59
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,2000,1.43,2.1,1.72,5.93
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,2000,1.3,3.32,2.04,6.39
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,1999,'0.66,NA,1.85,4.33
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,1999,'0.82,1.89,1.42,3.41
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,1999,1.05,2.8,2.02,5.68
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,1999,'0.9,3.12,2,5.69
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,1999,'0.27,'0.89,'0.63,2.25
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.96527778,83.26388889,Jahanganj,"Dug Well",W14675,1999,1.16,3.7,1.47,6.3
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,1999,1.03,3.62,1.84,3.39
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,1999,'0.5,2.23,1.43,4.44
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,1999,1.59,3.94,2.45,5.75
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,1999,'0.18,2.58,1.15,5
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,1999,4.47,6.56,3.78,7.3
+UP,Azamgarh,Ahiraula,Ahiraula,26.32638889,82.95277778,Atraulia,"Dug Well",W14668,1999,'0.66,4.12,NA,5.52
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,1999,1.26,3.2,1.26,4.02
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,1999,4.88,8.15,4.32,9.61
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,1999,3.02,5.13,3.9,7.83
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,1999,'0.55,1.36,1.44,3.6
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,1999,'0.38,NA,NA,NA
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,1999,'0.33,4.08,'0.99,5.91
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,1999,'0.6,2.83,1.53,5.53
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,1999,1.21,3.58,1.88,5.53
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,1999,'0.54,3.51,1.39,5.75
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,1999,NA,NA,1.49,5.63
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,1999,'0.6,2,1.27,4.52
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,1999,'0.23,2.16,1.43,4.2
+UP,Azamgarh,Haraiya,Haraiya,26.29166667,83.30416667,Raunapar,"Dug Well",W15492,1999,NA,3.33,NA,4.08
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,1999,'0.71,2.82,1.18,4.28
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,1999,1.3,3.38,1.74,5.36
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,1999,'0.25,3.67,2.19,4.52
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,1998,'0.97,2.07,2.3,5.97
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,1998,'0.64,3,1.75,NA
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,1998,3.75,3.42,4.63,8.98
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,1998,1.08,4.67,1.71,5.41
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,1998,'0.52,3.49,1.1,4.7
+UP,Azamgarh,Dhekma,Dhekma,25.80777778,82.84777778,Bardah,"Dug Well",W14672,1998,NA,4.16,NA,3.55
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,1998,NA,4.23,NA,9.45
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,1998,'0.89,3.67,2.5,7.23
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,1998,1.33,2.16,2.65,6.85
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,1998,1.35,3.83,2.75,6.85
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,1998,1.6,2.2,1.9,6.35
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,1998,'0.16,'0.74,'0.7,3
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,1998,1.8,2.26,2.61,6.51
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,1998,'0.68,2.04,1.08,5.67
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,1998,1.96,2.77,2.6,6.6
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.25,83.10833333,Maharajganj,"Dug Well",W15496,1998,'0.04,1.39,1.93,3.68
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,1998,1.14,2.68,2.7,4.62
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,1998,NA,2.21,1.02,NA
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,1998,7.36,7.06,6.57,8.27
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,1998,'0.73,1.48,1.48,4.37
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.96527778,83.26388889,Jahanganj,"Dug Well",W14675,1998,'0.81,1.96,2.4,6.47
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,1998,1.62,3.57,1.93,5.28
+UP,Azamgarh,Ahiraula,Ahiraula,26.32638889,82.95277778,Atraulia,"Dug Well",W14668,1998,NA,5.45,2.67,5.85
+UP,Azamgarh,Haraiya,Haraiya,26.29166667,83.30416667,Raunapar,"Dug Well",W15492,1998,NA,1.77,2.69,NA
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,1998,1.02,3.55,1.1,4.24
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,1998,'0.71,3,1.6,5.1
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,1998,2.94,3.6,2.65,4.22
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,1998,4.42,5.93,2.67,6.6
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,1998,NA,3.11,2.04,NA
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,1998,7.09,7.48,7.85,9.39
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,1997,2.93,3.99,4.03,5.51
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,1997,6.2,5.9,5.45,7.41
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,1997,2.8,3.42,3.06,5.3
+UP,Azamgarh,Haraiya,Haraiya,26.29166667,83.30416667,Raunapar,"Dug Well",W15492,1997,1.48,3.43,1.17,4.88
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,1997,5.09,5.17,3.74,6.24
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,1997,'0.27,1.72,'0.51,2.44
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,1997,1.94,3.76,1.82,4.94
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.25,83.10833333,Maharajganj,"Dug Well",W15496,1997,1.04,2.54,1.55,4.04
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,1997,3.2,3.78,2.58,7.06
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,1997,1.3,4.45,2.16,6.96
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,1997,3.7,4.34,1.26,7.01
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,1997,1.28,3.42,1.89,4.39
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,1997,2.6,5.06,3.61,6.46
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,1997,3.14,5.92,3.65,7.43
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,1997,2.59,4.81,3.49,5.91
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,1997,8.15,8.67,7.55,9.71
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,1997,1.66,4.79,3.41,6.27
+UP,Azamgarh,Ahiraula,Ahiraula,26.32638889,82.95277778,Atraulia,"Dug Well",W14668,1997,7.48,7.49,5.52,8.81
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,1997,7.06,8.16,6.33,10.08
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,1997,2.11,2.79,1.82,4.11
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,1997,3.13,4.36,2.99,6.94
+UP,Azamgarh,Dhekma,Dhekma,25.80777778,82.84777778,Bardah,"Dug Well",W14672,1997,3.53,6.41,4.21,7.5
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,1997,4.46,5.88,4.23,7.46
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,1997,3.11,3.3,2.99,3.99
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.96527778,83.26388889,Jahanganj,"Dug Well",W14675,1997,1.67,3.52,2.16,4.87
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,1997,'0.6,2.42,'0.82,2.98
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,1997,1.22,3.32,2.19,4.28
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,1997,1.66,4.23,2.76,5.61
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,1997,'0.81,3.2,NA,4.09
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,1997,2.46,5.41,3.37,6.82
+UP,Azamgarh,Azmatgarh,Azmatgarh,26.15,83.3,Sageri,"Dug Well",W15490,1996,3.36,5.59,5.57,5.23
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.925,83.05,Bahrapur,"Dug Well",W14681,1996,2.46,3.41,2.99,4.49
+UP,Azamgarh,Haraiya,Haraiya,26.29166667,83.30416667,Raunapar,"Dug Well",W15492,1996,1.06,2.34,3.13,4.02
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.89166667,83.2,"Rahul nagar","Dug Well",W15493,1996,2.45,2.89,4.54,4.94
+UP,Azamgarh,Lalganj,Lalganj,25.73333333,83.01666667,Lalganj2,"Dug Well",W15494,1996,'0.46,2.09,1.31,2.42
+UP,Azamgarh,Lalganj,Lalganj,25.78472222,83.07222222,Madayan,"Dug Well",W15495,1996,'0.91,1.94,2.82,4.53
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.25,83.10833333,Maharajganj,"Dug Well",W15496,1996,1.26,2.6,2.14,4.01
+UP,Azamgarh,Mirzapur,Mirzapur,26.01666667,82.93194444,Saraimir,"Dug Well",W15497,1996,4.21,3.68,3.66,6.64
+UP,Azamgarh,Pawai,Pawai,26.08194444,82.77222222,Mukusudia,"Dug Well",W15498,1996,4.89,5.18,2.62,7.08
+UP,Azamgarh,Phulpur,Phulpur,26.09166667,82.86666667,Phulpur,"Dug Well",W15499,1996,5.29,5.01,4.26,7.02
+UP,Azamgarh,Sathiyaon,Sathiyaon,26.05,83.275,Lohra,"Dug Well",W15500,1996,4.53,4.62,3.29,5.4
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.05416667,83.06388889,Nizamabad,"Dug Well",W15501,1996,4.82,5.28,4.28,7.11
+UP,Azamgarh,Tarwa,Tarwa,25.67638889,83.10277778,Sidhauna,"Dug Well",W15502,1996,2.49,2.51,5.12,4.52
+UP,Azamgarh,Mohammadpur,Mohammadpur,25.94305556,82.9875,Bairadih,"Dug Well",W14682,1996,NA,5.61,3.73,5.91
+UP,Azamgarh,Palhani,Palhani,26.04166667,83.16666667,Azamgarh,"Dug Well",W14683,1996,5.76,7.26,8.47,8.43
+UP,Azamgarh,Tahbarpur,Tahbarpur,26.13611111,83.09722222,"Bibipur Khatauli","Dug Well",W14684,1996,1.53,1.99,4.29,3.71
+UP,Azamgarh,Ahiraula,Ahiraula,26.32638889,82.95277778,Atraulia,"Dug Well",W14668,1996,4.46,5.62,6.51,5.71
+UP,Azamgarh,Atraulia,Atraulia,26.17638889,82.90416667,Ahraula,"Dug Well",W14669,1996,5.06,8.08,7.99,5.37
+UP,Azamgarh,Atraulia,Atraulia,26.2,83.01666667,Bazidpur,"Dug Well",W14670,1996,3.36,2.68,1.69,5.92
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20138889,83.22972222,Badihari,"Dug Well",W14671,1996,4.02,3.47,4.29,6.74
+UP,Azamgarh,Dhekma,Dhekma,25.80777778,82.84777778,Bardah,"Dug Well",W14672,1996,2.51,2.39,6.02,5.32
+UP,Azamgarh,Dhekma,Dhekma,25.86666667,82.9,Kanauna,"Dug Well",W14673,1996,4.72,3.39,5.68,6.23
+UP,Azamgarh,Haraiya,Haraiya,26.225,83.40833333,Kakhbhar,"Dug Well",W14674,1996,3.51,3.37,3.28,3.88
+UP,Azamgarh,Jahanaganj,Jahanaganj,25.96527778,83.26388889,Jahanganj,"Dug Well",W14675,1996,1.59,2.31,2.52,4.59
+UP,Azamgarh,Lalganj,Lalganj,25.75833333,82.99166667,Deogaon,"Dug Well",W14676,1996,1.29,1.46,1.61,1.99
+UP,Azamgarh,Mahrajganj,Mahrajganj,26.185,83.095,Captainganj,"Dug Well",W14677,1996,1.64,2.18,2.48,6.54
+UP,Azamgarh,Martinganj,Martinganj,25.89444444,82.81666667,Belwana,"Dug Well",W14678,1996,2.81,4.51,3.58,5.32
+UP,Azamgarh,Martinganj,Martinganj,25.97333333,82.775,"Karsandia kalan","Dug Well",W14679,1996,1.82,4.5,2.5,4
+UP,Azamgarh,Mehnagar,Mehnagar,25.815,83.21,Khalibam,"Dug Well",W14680,1996,4.52,6.09,4.89,6.62
+UP,Azamgarh,Bilariyaganj,Bilariyaganj,26.20555556,83.21805556,Langerpur,"Dug Well",W15491,1996,3.52,3.99,3,4.82

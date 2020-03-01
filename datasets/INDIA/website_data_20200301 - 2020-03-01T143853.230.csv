@@ -1,0 +1,628 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2018,NA,6.06,4.75,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh 1","Tube Well",W30127,2018,39.96,35.75,NA,NA
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2018,27.35,25.75,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2018,4.91,5.56,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2018,12.75,12.77,NA,NA
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2018,28.97,26.61,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh IIPz","Tube Well",W30128,2018,NA,35.62,34.83,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2018,NA,NA,11.79,NA
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2018,NA,NA,9.9,NA
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2018,NA,NA,11.55,NA
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2018,'0.7,NA,NA,2.32
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2018,34.2,NA,NA,30.88
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2018,9.76,NA,NA,NA
+PB,Patiala,Patiala,Patiala,30.40833333,76.3375,Lachkani-Pz,"Tube Well",W30215,2018,27.05,23.62,NA,NA
+PB,Patiala,Nabha,Nabha,30.53861111,76.23694444,Chehal-Pz,"Tube Well",W30264,2018,26.2,24.52,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.475,76.59583333,Rajpura-PzSt,"Tube Well",W30238,2018,31.3,41.9,NA,NA
+PB,Patiala,Samana,Samana,30.075,76.12916667,Kakrala-Pz,"Tube Well",W30091,2018,NA,40.35,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh-III Pz","Tube Well",W30129,2018,NA,35.93,NA,NA
+PB,Patiala,Samana,Patran,29.90888889,76.01666667,"Harion Kalan-Pz","Tube Well",W30045,2018,NA,22.9,NA,NA
+PB,Patiala,Samana,Samana,30.225,76.14583333,Kulburcha-Pz,"Tube Well",W30140,2018,NA,39.25,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.27222222,76.52166667,Bhankhar-Pz,"Tube Well",W30158,2018,NA,32.45,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.40555556,76.59583333,"Kutha Kheri-Pz","Tube Well",W30213,2018,NA,38.55,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.4625,76.705,Nanhera-Pz,"Tube Well",W30234,2018,NA,26.05,NA,NA
+PB,Patiala,Patiala,Patiala,30.35805556,76.48333333,Samaspur-Pz,"Tube Well",W30191,2018,NA,25.9,NA,NA
+PB,Patiala,Amloh,Nabha,30.55833333,76.26388889,Jhambela,"Tube Well",W30272,2018,NA,24.05,NA,NA
+PB,Patiala,Fatehgarh,Rajpura,30.6125,76.62222222,"Timber Pur-Pz","Tube Well",W30294,2018,NA,22.05,NA,NA
+PB,Patiala,Samana,Samana,30.10833333,76.2,Dhaneta-PZ,"Tube Well",W33534,2018,NA,35.55,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.12083333,76.47888889,Gharam-PZ,"Tube Well",W33536,2018,NA,34.75,NA,NA
+PB,Patiala,Patiala,Sanaur,30.29666667,76.33055556,Passiana-PZ,"Tube Well",W33544,2018,NA,22.95,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.29722222,76.62666667,"Surala Kalan-PZ","Tube Well",W33545,2018,NA,3.1,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.34861111,76.66805556,"Kami Khurd-PZ","Tube Well",W33548,2018,NA,21.45,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.37638889,76.52916667,"Kheri Pandte-PZ","Tube Well",W33551,2018,NA,28.45,NA,NA
+PB,Patiala,Nabha,Nabha,30.33472222,76.23611111,Sauja-PZ,"Tube Well",W33547,2018,NA,31.45,NA,NA
+PB,Patiala,Nabha,Nabha,30.4175,76.05833333,Gulwatti-PZ,"Tube Well",W33553,2018,NA,32.05,NA,NA
+PB,Patiala,Patiala,Nabha,30.45416667,76.28055556,"Mehmood Pur-PZ","Tube Well",W33557,2018,NA,28.85,NA,NA
+PB,Patiala,Nabha,Nabha,30.47916667,76.20361111,Mongowal-PZ,"Tube Well",W33559,2018,NA,26.95,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.49166667,76.51666667,Jainagar-PZ,"Tube Well",W33560,2018,NA,29.3,NA,NA
+PB,Patiala,Patiala,Patiala,30.39583333,76.44166667,"Rasoolpur Jaura-PZ","Tube Well",W33552,2018,NA,29.9,NA,NA
+PB,Patiala,Samana,Patiala,30.33,76.32,Mardaheri,"Bore Well",W30178,2018,NA,34.9,37,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,"Miranpur- Pz","Tube Well",W30133,2018,NA,NA,31.96,NA
+PB,Patiala,Nabha,Nabha,30.35611111,76.24305556,Sangatpura-Pz,"Tube Well",W30190,2018,31.23,NA,NA,29.93
+PB,Patiala,Rajpura,Rajpura,30.48333333,76.60416667,"Rajpura deep","Tube Well",W30241,2018,41.5,NA,NA,38.54
+PB,Patiala,Samana,Patran,29.95666667,76.05666667,Patran-Pz,"Tube Well",W30056,2018,42.75,41.73,NA,NA
+PB,Patiala,Samana,Samana,30.145,76.19805556,Samana-Pz,"Tube Well",W30113,2018,37.75,41.73,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2018,NA,35.13,38.44,NA
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2017,75.16,NA,72.76,63.49
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,"Miranpur- Pz","Tube Well",W30133,2017,NA,29.9,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2017,5.03,NA,5.31,6.41
+PB,Patiala,Samana,Samana,30.075,76.12916667,Kakrala-Pz,"Tube Well",W30091,2017,NA,36.15,39.9,NA
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2017,26.02,22.35,26.9,NA
+PB,Patiala,Samana,Patran,29.95666667,76.05666667,Patran-Pz,"Tube Well",W30056,2017,41.05,40.3,41.62,40.45
+PB,Patiala,Samana,Samana,30.145,76.19805556,Samana-Pz,"Tube Well",W30113,2017,36.52,35.3,36.7,35.5
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh 1","Tube Well",W30127,2017,41.15,33.66,35.67,34.96
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2017,10.45,14.7,NA,10.24
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2017,30.46,28.15,NA,27.2
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2017,9.14,NA,NA,9.27
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2017,6.8,NA,NA,5.71
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2017,15.23,14.48,16.98,24.65
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2017,1.25,1.42,1.23,1.8
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2017,12.6,12.85,14.13,12.9
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2017,35.71,34.65,42.38,34.03
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2017,10.43,9.32,10.46,9.95
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2017,25.82,25.75,27,25.92
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh IIPz","Tube Well",W30128,2017,NA,33.65,35.86,34.35
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh-III Pz","Tube Well",W30129,2017,NA,33.95,36.32,34.55
+PB,Patiala,Samana,Patran,29.90888889,76.01666667,"Harion Kalan-Pz","Tube Well",W30045,2017,NA,37.4,40.7,NA
+PB,Patiala,Samana,Samana,30.225,76.14583333,Kulburcha-Pz,"Tube Well",W30140,2017,NA,35.8,38.75,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.27222222,76.52166667,Bhankhar-Pz,"Tube Well",W30158,2017,NA,29.2,31.7,NA
+PB,Patiala,Rajpura,Ghanaur,30.40555556,76.59583333,"Kutha Kheri-Pz","Tube Well",W30213,2017,NA,37.65,38.7,NA
+PB,Patiala,Rajpura,Ghanaur,30.4625,76.705,Nanhera-Pz,"Tube Well",W30234,2017,NA,25,32.6,NA
+PB,Patiala,Samana,Patiala,30.33,76.32,Mardaheri,"Bore Well",W30178,2017,NA,30.9,33.75,NA
+PB,Patiala,Patiala,Patiala,30.35805556,76.48333333,Samaspur-Pz,"Tube Well",W30191,2017,NA,24.75,26.7,NA
+PB,Patiala,Amloh,Nabha,30.55833333,76.26388889,Jhambela,"Tube Well",W30272,2017,NA,20.05,23.55,NA
+PB,Patiala,Fatehgarh,Rajpura,30.6125,76.62222222,"Timber Pur-Pz","Tube Well",W30294,2017,NA,23.9,22.6,NA
+PB,Patiala,Samana,Samana,30.10833333,76.2,Dhaneta-PZ,"Tube Well",W33534,2017,NA,32.8,35.05,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.12083333,76.47888889,Gharam-PZ,"Tube Well",W33536,2017,NA,32.95,34.8,NA
+PB,Patiala,Patiala,Sanaur,30.29666667,76.33055556,Passiana-PZ,"Tube Well",W33544,2017,NA,22.35,22.9,NA
+PB,Patiala,Rajpura,Ghanaur,30.29722222,76.62666667,"Surala Kalan-PZ","Tube Well",W33545,2017,NA,2.85,3.6,NA
+PB,Patiala,Rajpura,Ghanaur,30.34861111,76.66805556,"Kami Khurd-PZ","Tube Well",W33548,2017,NA,18.5,20.4,NA
+PB,Patiala,Rajpura,Ghanaur,30.37638889,76.52916667,"Kheri Pandte-PZ","Tube Well",W33551,2017,NA,27.75,27.05,NA
+PB,Patiala,Nabha,Nabha,30.33472222,76.23611111,Sauja-PZ,"Tube Well",W33547,2017,NA,29.3,31.7,NA
+PB,Patiala,Nabha,Nabha,30.4175,76.05833333,Gulwatti-PZ,"Tube Well",W33553,2017,NA,29.25,31.05,NA
+PB,Patiala,Patiala,Nabha,30.45416667,76.28055556,"Mehmood Pur-PZ","Tube Well",W33557,2017,NA,28.25,30.15,NA
+PB,Patiala,Nabha,Nabha,30.47916667,76.20361111,Mongowal-PZ,"Tube Well",W33559,2017,NA,25.25,26.95,NA
+PB,Patiala,Rajpura,Rajpura,30.49166667,76.51666667,Jainagar-PZ,"Tube Well",W33560,2017,NA,29.6,29.9,NA
+PB,Patiala,Patiala,Patiala,30.39583333,76.44166667,"Rasoolpur Jaura-PZ","Tube Well",W33552,2017,NA,29.3,30.05,NA
+PB,Patiala,Rajpura,Rajpura,30.475,76.59583333,Rajpura-PzSt,"Tube Well",W30238,2017,41.67,37.35,NA,37.9
+PB,Patiala,Nabha,Nabha,30.35611111,76.24305556,Sangatpura-Pz,"Tube Well",W30190,2017,31,28.65,30.25,28.62
+PB,Patiala,Patiala,Patiala,30.40833333,76.3375,Lachkani-Pz,"Tube Well",W30215,2017,24.59,22.45,23.95,23.15
+PB,Patiala,Nabha,Nabha,30.53861111,76.23694444,Chehal-Pz,"Tube Well",W30264,2017,27.28,23.5,24.8,24.08
+PB,Patiala,Rajpura,Rajpura,30.48333333,76.60416667,"Rajpura deep","Tube Well",W30241,2017,NA,35.85,NA,37.72
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2017,30.83,NA,32.1,28.22
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2016,1.1,NA,1.5,2.1
+PB,Patiala,Patiala,"Bhuner Heri",30.12083333,76.47888889,Gharam-PZ,"Tube Well",W33536,2016,NA,NA,33.25,NA
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2016,NA,NA,69.76,NA
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2016,NA,NA,16.22,14.33
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2016,NA,NA,4.78,NA
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2016,12.14,NA,12.41,12.59
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2016,5.01,NA,5.19,5.21
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2016,NA,NA,7.18,NA
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2016,9.1,NA,9.28,7.32
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2016,34.88,NA,34.95,33.06
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2016,24.4,NA,25.25,NA
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2016,25.94,NA,25.9,24.49
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2016,13.2,NA,9.35,13.44
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2016,26.7,NA,27.38,26.15
+PB,Patiala,Samana,Patran,29.90888889,76.01666667,"Harion Kalan-Pz","Tube Well",W30045,2016,NA,NA,37.75,NA
+PB,Patiala,Samana,Patran,29.95666667,76.05666667,Patran-Pz,"Tube Well",W30056,2016,39.67,37.53,40.15,39.35
+PB,Patiala,Samana,Samana,30.075,76.12916667,Kakrala-Pz,"Tube Well",W30091,2016,NA,NA,36.85,NA
+PB,Patiala,Samana,Samana,30.145,76.19805556,Samana-Pz,"Tube Well",W30113,2016,34.91,33.83,35.32,33.62
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh 1","Tube Well",W30127,2016,27.81,30.99,35.52,31.21
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh IIPz","Tube Well",W30128,2016,36.24,32.13,34.47,32.12
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh-III Pz","Tube Well",W30129,2016,38.25,32.03,35.75,31.8
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,"Miranpur- Pz","Tube Well",W30133,2016,30.92,29.21,31.34,27.22
+PB,Patiala,Samana,Samana,30.225,76.14583333,Kulburcha-Pz,"Tube Well",W30140,2016,NA,NA,36.65,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.27222222,76.52166667,Bhankhar-Pz,"Tube Well",W30158,2016,NA,NA,29.4,NA
+PB,Patiala,Samana,Patiala,30.33,76.32,Mardaheri,"Bore Well",W30178,2016,NA,NA,31.25,NA
+PB,Patiala,Nabha,Nabha,30.35611111,76.24305556,Sangatpura-Pz,"Tube Well",W30190,2016,29.33,24.89,36.81,23.45
+PB,Patiala,Patiala,Patiala,30.35805556,76.48333333,Samaspur-Pz,"Tube Well",W30191,2016,NA,NA,25.8,NA
+PB,Patiala,Rajpura,Ghanaur,30.40555556,76.59583333,"Kutha Kheri-Pz","Tube Well",W30213,2016,NA,NA,36.9,NA
+PB,Patiala,Patiala,Patiala,30.40833333,76.3375,Lachkani-Pz,"Tube Well",W30215,2016,23.31,20.79,22.52,21.56
+PB,Patiala,Rajpura,Ghanaur,30.4625,76.705,Nanhera-Pz,"Tube Well",W30234,2016,NA,NA,25.2,NA
+PB,Patiala,Rajpura,Rajpura,30.475,76.59583333,Rajpura-PzSt,"Tube Well",W30238,2016,31.17,34.44,41.4,34.41
+PB,Patiala,Rajpura,Rajpura,30.48333333,76.60416667,"Rajpura deep","Tube Well",W30241,2016,34.58,34.34,37.47,31.56
+PB,Patiala,Nabha,Nabha,30.53861111,76.23694444,Chehal-Pz,"Tube Well",W30264,2016,24.69,23.44,23.6,22.87
+PB,Patiala,Amloh,Nabha,30.55833333,76.26388889,Jhambela,"Tube Well",W30272,2016,NA,NA,21.88,NA
+PB,Patiala,Fatehgarh,Rajpura,30.6125,76.62222222,"Timber Pur-Pz","Tube Well",W30294,2016,NA,NA,24.02,NA
+PB,Patiala,Patiala,Sanaur,30.29666667,76.33055556,Passiana-PZ,"Tube Well",W33544,2016,NA,NA,22.85,NA
+PB,Patiala,Rajpura,Ghanaur,30.29722222,76.62666667,"Surala Kalan-PZ","Tube Well",W33545,2016,NA,NA,3.25,NA
+PB,Patiala,Nabha,Nabha,30.33472222,76.23611111,Sauja-PZ,"Tube Well",W33547,2016,NA,NA,29.5,NA
+PB,Patiala,Rajpura,Ghanaur,30.34861111,76.66805556,"Kami Khurd-PZ","Tube Well",W33548,2016,NA,NA,19.2,NA
+PB,Patiala,Rajpura,Ghanaur,30.37638889,76.52916667,"Kheri Pandte-PZ","Tube Well",W33551,2016,NA,NA,26.3,NA
+PB,Patiala,Patiala,Patiala,30.39583333,76.44166667,"Rasoolpur Jaura-PZ","Tube Well",W33552,2016,NA,NA,28.75,NA
+PB,Patiala,Nabha,Nabha,30.4175,76.05833333,Gulwatti-PZ,"Tube Well",W33553,2016,NA,NA,29.85,NA
+PB,Patiala,Patiala,Nabha,30.45416667,76.28055556,"Mehmood Pur-PZ","Tube Well",W33557,2016,NA,NA,28.75,NA
+PB,Patiala,Nabha,Nabha,30.47916667,76.20361111,Mongowal-PZ,"Tube Well",W33559,2016,NA,NA,25.7,NA
+PB,Patiala,Rajpura,Rajpura,30.49166667,76.51666667,Jainagar-PZ,"Tube Well",W33560,2016,NA,NA,29,NA
+PB,Patiala,Samana,Samana,30.10833333,76.2,Dhaneta-PZ,"Tube Well",W33534,2016,NA,NA,33.55,NA
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2016,32.43,NA,30.71,26.34
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2015,NA,1.2,NA,NA
+PB,Patiala,Fatehgarh,Rajpura,30.6125,76.62222222,"Timber Pur-Pz","Tube Well",W30294,2015,NA,NA,24.35,24.1
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2015,NA,27.12,28.1,26.21
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2015,12.32,12.37,28.04,12.52
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2015,5.04,5.51,5.71,5.26
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2015,NA,6.61,7.56,NA
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2015,33.97,34.62,34.07,28.87
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2015,22.21,22.81,21.25,22.94
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2015,24.23,23.67,24.45,23.57
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2015,12.53,13.15,13.1,12.99
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2015,17.24,24.92,23.99,17.3
+PB,Patiala,Samana,Patran,29.90888889,76.01666667,"Harion Kalan-Pz","Tube Well",W30045,2015,NA,36.1,37.1,NA
+PB,Patiala,Samana,Patran,29.95666667,76.05666667,Patran-Pz,"Tube Well",W30056,2015,37.86,36.57,37.73,37.97
+PB,Patiala,Samana,Samana,30.075,76.12916667,Kakrala-Pz,"Tube Well",W30091,2015,NA,34.8,36.1,34.9
+PB,Patiala,Patiala,"Bhuner Heri",30.14166667,76.61833333,Binzal-Pz,"Tube Well",W30112,2015,NA,25.65,NA,25.55
+PB,Patiala,Samana,Samana,30.145,76.19805556,Samana-Pz,"Tube Well",W30113,2015,33.59,32.45,34.05,32.7
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh 1","Tube Well",W30127,2015,36.03,32.12,30.05,30.16
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh IIPz","Tube Well",W30128,2015,31.24,31.79,32.61,29.97
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh-III Pz","Tube Well",W30129,2015,NA,31.67,32.95,29.64
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,"Miranpur- Pz","Tube Well",W30133,2015,NA,31.17,31.59,29.65
+PB,Patiala,Samana,Samana,30.225,76.14583333,Kulburcha-Pz,"Tube Well",W30140,2015,NA,33.6,34.6,33.7
+PB,Patiala,Patiala,"Bhuner Heri",30.27222222,76.52166667,Bhankhar-Pz,"Tube Well",W30158,2015,NA,NA,28.1,26.98
+PB,Patiala,Samana,Patiala,30.33,76.32,Mardaheri,"Bore Well",W30178,2015,NA,NA,30.05,29.25
+PB,Patiala,Rajpura,Patiala,30.35,76.35416667,"Rajpura Pz M","Tube Well",W30187,2015,30.67,NA,30.3,30.77
+PB,Patiala,Nabha,Nabha,30.35611111,76.24305556,Sangatpura-Pz,"Tube Well",W30190,2015,NA,26.31,NA,26.18
+PB,Patiala,Patiala,Patiala,30.35805556,76.48333333,Samaspur-Pz,"Tube Well",W30191,2015,NA,25.05,24.1,24.4
+PB,Patiala,Rajpura,Ghanaur,30.40555556,76.59583333,"Kutha Kheri-Pz","Tube Well",W30213,2015,NA,32.1,31.95,31.8
+PB,Patiala,Patiala,Patiala,30.40833333,76.3375,Lachkani-Pz,"Tube Well",W30215,2015,21.72,20.14,21.25,19.4
+PB,Patiala,Rajpura,Ghanaur,30.4625,76.705,Nanhera-Pz,"Tube Well",W30234,2015,NA,23.5,23.8,23.2
+PB,Patiala,Rajpura,Rajpura,30.475,76.59583333,Rajpura-PzSt,"Tube Well",W30238,2015,NA,40.05,38.95,39.2
+PB,Patiala,Rajpura,Rajpura,30.48333333,76.60416667,"Rajpura deep","Tube Well",W30241,2015,37.75,37.51,37.4,37.9
+PB,Patiala,Nabha,Nabha,30.53861111,76.23694444,Chehal-Pz,"Tube Well",W30264,2015,22.31,22.72,23.1,22.51
+PB,Patiala,Amloh,Nabha,30.55833333,76.26388889,Jhambela,"Tube Well",W30272,2015,NA,21.1,21,20.65
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2015,NA,29.56,NA,NA
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2014,1.25,1.23,'0.88,'0.03
+PB,Patiala,Amloh,Nabha,30.55833333,76.26388889,Jhambela,"Tube Well",W30272,2014,20.85,NA,21.45,19.4
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2014,28.28,24.9,27.5,25.02
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2014,NA,61.34,NA,50.98
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2014,14.65,15.89,18.34,13.45
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2014,NA,NA,NA,7.08
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2014,NA,12.59,12.65,12.14
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2014,5.26,3.45,5.57,4.79
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2014,NA,NA,NA,4.2
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2014,7.23,6.84,7.22,8.07
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2014,NA,11.57,12.85,11.35
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2014,34.2,30.09,35,28.4
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2014,22.4,21.53,22.7,22.12
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2014,24.55,21.69,26.07,23.05
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2014,12.71,11.8,13.32,11.19667
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2014,23.54,21.4,24.8,22.94
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,Devigarh,"Tube Well",W22076,2014,NA,NA,NA,29.7
+PB,Patiala,Samana,Patran,29.90888889,76.01666667,"Harion Kalan-Pz","Tube Well",W30045,2014,35.5,NA,36.1,36.2
+PB,Patiala,Samana,Patran,29.95666667,76.05666667,Patran-Pz,"Tube Well",W30056,2014,37.24,37.33,36.69,36.9
+PB,Patiala,Samana,Samana,30.075,76.12916667,Kakrala-Pz,"Tube Well",W30091,2014,34.6,NA,34.2,34.7
+PB,Patiala,Patiala,"Bhuner Heri",30.14166667,76.61833333,Binzal-Pz,"Tube Well",W30112,2014,25.9,NA,25.9,25.45
+PB,Patiala,Samana,Samana,30.145,76.19805556,Samana-Pz,"Tube Well",W30113,2014,NA,29.65,32.6,31.29
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh 1","Tube Well",W30127,2014,NA,29.43,32.01,29.01
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh IIPz","Tube Well",W30128,2014,NA,29.41,31.75,29
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh-III Pz","Tube Well",W30129,2014,NA,29.64,31.85,29.29
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,"Miranpur- Pz","Tube Well",W30133,2014,30.81,27.5,30.9,28.3
+PB,Patiala,Samana,Samana,30.225,76.14583333,Kulburcha-Pz,"Tube Well",W30140,2014,33.8,NA,33.8,33.6
+PB,Patiala,Patiala,"Bhuner Heri",30.27222222,76.52166667,Bhankhar-Pz,"Tube Well",W30158,2014,27.5,NA,27.5,26.5
+PB,Patiala,Rajpura,Patiala,30.35,76.35416667,"Rajpura Pz M","Tube Well",W30187,2014,30.65,NA,NA,28.3
+PB,Patiala,Nabha,Nabha,30.35611111,76.24305556,Sangatpura-Pz,"Tube Well",W30190,2014,NA,24.45,26.99,24.7
+PB,Patiala,Patiala,Patiala,30.35805556,76.48333333,Samaspur-Pz,"Tube Well",W30191,2014,22.8,NA,25.25,24.65
+PB,Patiala,Rajpura,Ghanaur,30.40555556,76.59583333,"Kutha Kheri-Pz","Tube Well",W30213,2014,31.95,NA,31.65,31.45
+PB,Patiala,Patiala,Patiala,30.40833333,76.3375,Lachkani-Pz,"Tube Well",W30215,2014,20.64,19.06,20.25,19.48
+PB,Patiala,Rajpura,Ghanaur,30.4625,76.705,Nanhera-Pz,"Tube Well",W30234,2014,24.2,NA,23.9,23.3
+PB,Patiala,Rajpura,Rajpura,30.475,76.59583333,Rajpura-PzSt,"Tube Well",W30238,2014,43.3,NA,44.3,NA
+PB,Patiala,Rajpura,Rajpura,30.48333333,76.60416667,"Rajpura deep","Tube Well",W30241,2014,35.67,32.5,37.68,31.48
+PB,Patiala,Nabha,Nabha,30.53861111,76.23694444,Chehal-Pz,"Tube Well",W30264,2014,21.9,20.85,22.61,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2014,NA,28.91,NA,NA
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2013,'0.43,1.46,'0.94,NA
+PB,Patiala,Amloh,Nabha,30.55833333,76.26388889,Jhambela,"Tube Well",W30272,2013,NA,NA,NA,19.85
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2013,26.71,25.12,26.32,24.4
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,2013,NA,13.45,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2013,14.58,14.68,18.99,14.8
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2013,5.53,7.63,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2013,11.35,13.45,NA,12.76
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2013,3.68,4.49,3.67,5.29
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2013,4.88,3.95,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2013,6.98,7.48,6.82,7.7
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2013,12.26,12.82,11.19,12.8
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2013,33.77,34.64,33.65,29.96
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2013,21.93,19.7,22.29,20.99
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2013,23.35,21.9,23.2,22.03
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2013,5.24,13.64,11.3,12.12
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2013,22.52,21.84,23.29,21.92
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,Devigarh,"Tube Well",W22076,2013,32.66,27.53,29.32,29.43
+PB,Patiala,Samana,Patran,29.90888889,76.01666667,"Harion Kalan-Pz","Tube Well",W30045,2013,NA,NA,NA,37.4
+PB,Patiala,Samana,Patran,29.95666667,76.05666667,Patran-Pz,"Tube Well",W30056,2013,35.86,35.25,36.62,37.27
+PB,Patiala,Samana,Samana,30.075,76.12916667,Kakrala-Pz,"Tube Well",W30091,2013,NA,NA,NA,32.7
+PB,Patiala,Patiala,"Bhuner Heri",30.14166667,76.61833333,Binzal-Pz,"Tube Well",W30112,2013,NA,26.25,NA,26.3
+PB,Patiala,Samana,Samana,30.145,76.19805556,Samana-Pz,"Tube Well",W30113,2013,30.82,31.95,30.38,29.9
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh 1","Tube Well",W30127,2013,32.88,27.53,29.63,29.47
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh IIPz","Tube Well",W30128,2013,32.86,29.28,29.71,29.43
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh-III Pz","Tube Well",W30129,2013,32.87,28.27,30.2,29.63
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,"Miranpur- Pz","Tube Well",W30133,2013,NA,28.42,30.29,25.08
+PB,Patiala,Patiala,"Bhuner Heri",30.27222222,76.52166667,Bhankhar-Pz,"Tube Well",W30158,2013,NA,37,NA,25.6
+PB,Patiala,Rajpura,Patiala,30.35,76.35416667,"Rajpura Pz M","Tube Well",W30187,2013,31.1,26.56,29.4,NA
+PB,Patiala,Nabha,Nabha,30.35611111,76.24305556,Sangatpura-Pz,"Tube Well",W30190,2013,NA,23.84,25.56,23.95
+PB,Patiala,Patiala,Patiala,30.35805556,76.48333333,Samaspur-Pz,"Tube Well",W30191,2013,NA,23.7,NA,23.2
+PB,Patiala,Rajpura,Ghanaur,30.40555556,76.59583333,"Kutha Kheri-Pz","Tube Well",W30213,2013,NA,NA,NA,31.9
+PB,Patiala,Patiala,Patiala,30.40833333,76.3375,Lachkani-Pz,"Tube Well",W30215,2013,20.24,18.8,19.3,19.4
+PB,Patiala,Rajpura,Ghanaur,30.4625,76.705,Nanhera-Pz,"Tube Well",W30234,2013,NA,21.7,NA,23.9
+PB,Patiala,Rajpura,Rajpura,30.48333333,76.60416667,"Rajpura deep","Tube Well",W30241,2013,36.95,NA,33.57,32.58
+PB,Patiala,Nabha,Nabha,30.53861111,76.23694444,Chehal-Pz,"Tube Well",W30264,2013,NA,NA,21.62,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2013,25.12,28.02,29.89,24.68
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2012,NA,26.36,29.68,25.3
+PB,Patiala,Amloh,Nabha,30.55833333,76.26388889,Jhambela,"Tube Well",W30272,2012,NA,NA,19.85,NA
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,2012,NA,NA,12.63,NA
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2012,NA,NA,14.79,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2012,NA,NA,7.61,7.46
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2012,NA,12.2,12.53,12.76
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2012,NA,4.06,3.86,5.36
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2012,NA,3.33,2.75,NA
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2012,NA,NA,7.56,8.05
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2012,NA,10.73,12.33,12.09
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2012,NA,32.5,33.94,31.6
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2012,NA,19.2,19.97,19.15
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2012,NA,19.99,22.23,20.48
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2012,NA,10.89,12.59,11.64
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2012,NA,20.53,21.7,20.61
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,Devigarh,"Tube Well",W22076,2012,NA,25.93,29.95,27.54
+PB,Patiala,Samana,Patran,29.90888889,76.01666667,"Harion Kalan-Pz","Tube Well",W30045,2012,NA,NA,31.56,NA
+PB,Patiala,Samana,Patran,29.95666667,76.05666667,Patran-Pz,"Tube Well",W30056,2012,NA,NA,34.85,NA
+PB,Patiala,Samana,Samana,30.075,76.12916667,Kakrala-Pz,"Tube Well",W30091,2012,NA,NA,30.47,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.14166667,76.61833333,Binzal-Pz,"Tube Well",W30112,2012,NA,NA,26.45,NA
+PB,Patiala,Samana,Samana,30.145,76.19805556,Samana-Pz,"Tube Well",W30113,2012,NA,NA,29.55,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh 1","Tube Well",W30127,2012,NA,NA,30.26,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh IIPz","Tube Well",W30128,2012,NA,NA,30.48,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,"Devigarh-III Pz","Tube Well",W30129,2012,NA,NA,30.95,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,"Miranpur- Pz","Tube Well",W30133,2012,NA,NA,30.08,NA
+PB,Patiala,Samana,Samana,30.225,76.14583333,Kulburcha-Pz,"Tube Well",W30140,2012,NA,NA,30.38,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.27222222,76.52166667,Bhankhar-Pz,"Tube Well",W30158,2012,NA,NA,33.18,NA
+PB,Patiala,Nabha,Nabha,30.35611111,76.24305556,Sangatpura-Pz,"Tube Well",W30190,2012,NA,NA,24.25,NA
+PB,Patiala,Patiala,Patiala,30.35805556,76.48333333,Samaspur-Pz,"Tube Well",W30191,2012,NA,NA,23.75,NA
+PB,Patiala,Rajpura,Ghanaur,30.40555556,76.59583333,"Kutha Kheri-Pz","Tube Well",W30213,2012,NA,NA,36.4,NA
+PB,Patiala,Patiala,Patiala,30.40833333,76.3375,Lachkani-Pz,"Tube Well",W30215,2012,NA,NA,18.96,NA
+PB,Patiala,Rajpura,Ghanaur,30.4625,76.705,Nanhera-Pz,"Tube Well",W30234,2012,NA,NA,21.85,NA
+PB,Patiala,Rajpura,Rajpura,30.48333333,76.60416667,"Rajpura deep","Tube Well",W30241,2012,NA,NA,26.08,NA
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2012,NA,23.74,25.43,23.59
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2011,NA,1.04,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2011,NA,3.4,26.32,NA
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,2011,NA,18.61,17,17.95
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2011,25.05,22.28,24,25.6
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2011,NA,NA,NA,12.66
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2011,NA,12.39,NA,14.4
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2011,7.28,5.62,NA,7.52
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2011,12.25,12.95,12.25,16.7
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2011,3.75,4.64,3.58,5.51
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2011,3.44,5.82,3.22,NA
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2011,NA,7.4,NA,7.98
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2011,11.13,11.17,10.14,11.17
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2011,33.67,31.05,33.37,32.34
+PB,Patiala,Samana,Samana,30.15833333,76.13333333,Sirsini-1,"Dug Well",W13483,2011,'0.65,NA,'0.6,NA
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2011,NA,17.25,NA,NA
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2011,NA,19.45,NA,22
+PB,Patiala,Rajpura,Rajpura,30.57833333,76.70694444,"Tangori 07","Dug Well",W21432,2011,NA,9.67,9,NA
+PB,Patiala,Patiala,Patiala,30.42222222,76.42666667,"Kalwa 07pz","Tube Well",W21487,2011,NA,19.13,NA,NA
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2011,10.87,10.65,10.38,8.7
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2011,NA,18.99,20.74,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,Devigarh,"Tube Well",W22076,2011,31.55,23.63,NA,25.2
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2010,NA,19.51,16.93,19.74
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2010,24.33,22.65,22.49,22.79
+PB,Patiala,Rajpura,Rajpura,30.57833333,76.70694444,"Tangori 07","Dug Well",W21432,2010,NA,9.92,9.7,12
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2010,9.79,12.6,10.4,13.31
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2010,20.27,19.05,19.6,19.53
+PB,Patiala,Patiala,"Bhuner Heri",30.18472222,76.51333333,Devigarh,"Tube Well",W22076,2010,NA,NA,25.72,NA
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2010,NA,4.14,3.7,5.28
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2010,8.11,8.15,7.5,8.9
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2010,12.96,12.17,11.19,13.12
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2010,33.36,28.7,31.58,30.8
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2010,NA,NA,14.29,14.03
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2010,13.68,13.71,14.29,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2010,NA,6.71,4.2,8.12
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2010,13.08,13.54,12.96,25.8
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2010,5.8,5.97,5.4,7.03
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2010,'0.6,1.57,'0.85,2.1
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2010,3.91,25.07,2.7,NA
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,2010,22.7,NA,NA,NA
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2010,NA,19.51,19.97,20.58
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2009,19.08,18.86,19.48,18.73
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2009,24.77,20.91,22.18,21.91
+PB,Patiala,Rajpura,Rajpura,30.57833333,76.70694444,"Tangori 07","Dug Well",W21432,2009,NA,8.55,NA,9.25
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2009,13.31,11.46,12.04,12.18
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2009,18.69,16.69,19.12,17.36
+PB,Patiala,"Dera Bassi",Sanaur,30.28333333,76.44027778,"Kaulmajra 07pz","Tube Well",W21733,2009,15.92,15.63,NA,16.15
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2009,NA,NA,3.67,NA
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2009,8.12,7.4,7.17,8.5
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2009,14.2,11.44,11.95,12.91
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2009,32.16,26.61,31.4,28.91
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2009,NA,NA,NA,13.97
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2009,15.25,13.64,14.21,13.97
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2009,14.29,13.06,13.42,14.02
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2009,8,7.15,5.99,7.33
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2009,1.56,2.42,1.13,2.07
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2009,29.95,24.01,26.77,24.04
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2009,19.96,17.92,19.76,18.5
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2008,18.9,18.5,18.94,18.66
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2008,23.48,22.6,22.91,NA
+PB,Patiala,Rajpura,Rajpura,30.57833333,76.70694444,"Tangori 07","Dug Well",W21432,2008,9.35,10.1,8.55,NA
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2008,11.2,12.9,11.68,13.43
+PB,Patiala,Samana,Patiala,30.25555556,76.28055556,"Dhakdaba 07","Tube Well",W21596,2008,18.4,NA,16.78,17.82
+PB,Patiala,"Dera Bassi",Sanaur,30.28333333,76.44027778,"Kaulmajra 07pz","Tube Well",W21733,2008,15.29,NA,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2008,NA,6.5,NA,5.2
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2008,8.1,8.61,6.52,8.8
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2008,12.87,12.65,11.06,13.75
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2008,28.22,26.92,26.04,26
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2008,14.04,15.4,13.74,14.96
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2008,14.87,14.8,13.61,15
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2008,8.03,8.12,6.4,NA
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2008,'0.57,1.97,'0.89,2.18
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2008,26.56,24.4,26.56,23.65
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2008,19.14,18.2,18.18,18.52
+PB,Patiala,Nabha,Nabha,30.41527778,76.17444444,"Bhojo majri 07pz","Tube Well",W21429,2007,17.88,NA,18.25,NA
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2007,24.27,20.6,22.74,21.1
+PB,Patiala,Rajpura,Rajpura,30.57833333,76.70694444,"Tangori 07","Dug Well",W21432,2007,10.1,NA,9.55,NA
+PB,Patiala,Patiala,Patiala,30.42222222,76.42666667,"Kalwa 07pz","Tube Well",W21487,2007,NA,NA,19.65,NA
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2007,10.75,11.85,11.45,11.37
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2007,6.03,NA,3.35,3.91
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2007,7.49,7.08,8.22,7.87
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2007,12.17,10.85,12.2,10.87
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2007,27,23.75,27.17,22.22
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,2007,NA,21.55,NA,21.32
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2007,14.86,12.78,NA,12.58
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2007,NA,NA,8.35,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2007,9.02,9.77,NA,8.01
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2007,15.4,14.2,14.65,14.33
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2007,NA,8.61,7.76,8.76
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2007,1.49,1.97,1.65,1.81
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2007,NA,22.8,NA,22.9
+PB,Patiala,Nabha,Patiala,30.35277778,76.30833333,"Kalyan 07pz","Tube Well",W21430,2007,18.61,NA,18.25,NA
+PB,Patiala,Fatehgarh,Rajpura,30.63444444,76.60972222,Pawala,"Dug Well",W20911,2006,NA,NA,11.42,10.62
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2006,22.25,19,19.86,19.3
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2006,NA,NA,NA,4.43
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2006,6.77,7.7,6.92,6.57
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2006,12.55,9.75,10.57,10.13
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2006,NA,23,24.28,20.62
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,2006,21.48,20.35,22.06,19.94
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2006,NA,NA,NA,11.36
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2006,14,12.4,12.89,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2006,7.53,7.53,9.18,7.53
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2006,13.61,12.8,14,13.27
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2006,8.66,6.91,8.25,8.28
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2006,1.45,2.1,1.86,2.1
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2006,NA,NA,NA,19.65
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,2006,8.89,NA,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,2005,NA,8.56,NA,10.3
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2005,NA,9.9,9.26,NA
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2005,7.69,6.84,7.33,9.75
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2005,9.64,8.68,8.15,9.05
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2005,22.32,19.89,23.38,21.6
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,2005,21.55,20.35,20.44,NA
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2005,19.24,17.51,18.88,18
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2005,12.8,11.87,NA,12.2
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2005,7.63,6.52,5.36,7.53
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2005,12.33,11.85,12.77,12
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2005,7.36,5.53,6.5,7.01
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2005,1.1,1.43,1.28,2.4
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2005,NA,NA,20.29,NA
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2005,41,NA,10.56,37.26
+PB,Patiala,Samana,Samana,30.15833333,76.13333333,Sirsini-1,"Dug Well",W13483,2004,1.11,NA,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,2004,NA,3.43,NA,4.28
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,2004,9.02,8.42,8.09,NA
+PB,Patiala,Rajpura,Rajpura,30.55833333,76.725,Banur,"Dug Well",W13466,2004,NA,NA,NA,5
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2004,9.63,9.61,9.55,10.45
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2004,8.02,6.99,6.69,8.69
+PB,Patiala,Rajpura,Rajpura,30.6125,76.63916667,Nariana,"Dug Well",W13474,2004,10.2,9.39,9.2,9.64
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2004,20.7,18.41,20.3,18.92
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,2004,20.4,19.9,20.4,NA
+PB,Patiala,Patiala,Sanaur,30.28333333,76.43333333,Kulemajra,"Tube Well",W13453,2004,NA,16.42,NA,19.06
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2004,NA,38.66,10.16,37.36
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2004,12.1,12.8,NA,13.06
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2004,4.73,NA,6.79,NA
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2004,NA,11.72,11.8,12.59
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2004,6.06,5.73,5.06,6.8
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,2004,NA,8.59,NA,10.1
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2004,NA,1.67,1.06,2.15
+PB,Patiala,Patiala,"Bhuner Heri",30.225,76.57777778,Massinghan1,"Tube Well",W13444,2004,NA,16.51,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2004,NA,14.2,NA,16.95
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,2004,NA,NA,NA,10.88
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2004,NA,16.89,17.8,17.11
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,2004,NA,4.57,NA,5.32
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,2004,19.71,18.95,20.15,19.03
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,2003,3.47,3.77,5.72,4.2
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,2003,18.15,17.2,18.25,17.95
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2003,10,9.68,9.6,9.75
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2003,9.21,8.02,8.07,8.71
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2003,NA,17.7,20.4,17.3
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,2003,19.75,18.7,NA,19.29
+PB,Patiala,Patiala,Sanaur,30.28333333,76.43333333,Kulemajra,"Tube Well",W13453,2003,19.4,15.86,16.5,18.7
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2003,38.36,39.2,43.16,NA
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2003,11.9,9.82,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2003,NA,11.83,8.33,8.58
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2003,12.1,NA,12.3,13.46
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2003,7.25,6.46,7.01,6.93
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,2003,NA,9.23,6.9,12.78
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2003,'0.9,1.63,1.5,2
+PB,Patiala,Nabha,Nabha,30.44583333,76.29166667,Allowal,"Dug Well",W13442,2003,NA,NA,6.5,NA
+PB,Patiala,Nabha,Nabha,30.50555556,76.29861111,Tarkheri,"Dug Well",W13443,2003,NA,11.42,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.225,76.57777778,Massinghan1,"Tube Well",W13444,2003,30,NA,20,21.3
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2003,NA,NA,17.6,16.62
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,2003,13.15,11.4,13.15,10.5
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2003,18.3,14.89,17.6,16.84
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,2003,NA,4.39,5.37,5.17
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,2003,NA,8.12,8.15,8.3
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,2002,3.99,NA,NA,NA
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,2002,17.25,16.24,15.1,16.15
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2002,NA,NA,9.59,9.75
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2002,10.57,7.52,8.78,10.97
+PB,Patiala,Rajpura,Rajpura,30.6,76.6375,"Manak Pur","Dug Well",W13473,2002,NA,10.76,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2002,23.9,NA,18.18,NA
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,2002,18.95,16.96,19.26,18.06
+PB,Patiala,Samana,Patran,30.04166667,76.12083333,Dedhna,"Dug Well",W13481,2002,NA,15.61,NA,15.85
+PB,Patiala,Patiala,Sanaur,30.28333333,76.43333333,Kulemajra,"Tube Well",W13453,2002,20.7,NA,NA,16.83
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,2002,13.6,NA,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2002,42.66,NA,39.47,39.17
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2002,NA,6.24,9.82,8.78
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2002,12,NA,12.05,11.71
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2002,NA,6.01,6.12,6.92
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,2002,5.93,6.17,9.57,9.23
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2002,2.1,1.95,1.42,2.85
+PB,Patiala,Nabha,Nabha,30.44583333,76.29166667,Allowal,"Dug Well",W13442,2002,NA,11.12,NA,11.96
+PB,Patiala,Nabha,Nabha,30.50555556,76.29861111,Tarkheri,"Dug Well",W13443,2002,11.85,9.85,NA,11.85
+PB,Patiala,Patiala,"Bhuner Heri",30.225,76.57777778,Massinghan1,"Tube Well",W13444,2002,21.2,NA,19.5,22.41
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2002,18.25,NA,16.19,NA
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,2002,12.65,NA,9.94,10.12
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2002,17.1,NA,16.21,15.7
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,2002,7.47,5.08,5.23,5.42
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,2002,NA,8.79,7.72,NA
+PB,Patiala,Samana,Patran,29.96666667,76.1,Nial,"Dug Well",W13482,2001,NA,NA,NA,14.53
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,2001,13.98,NA,NA,15.24
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2001,8.87,8.4,8.5,9.39
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2001,8.7,6.87,6.87,9.38
+PB,Patiala,Rajpura,Rajpura,30.6,76.6375,"Manak Pur","Dug Well",W13473,2001,11.24,NA,NA,12
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2001,16.02,15.48,16.8,NA
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,2001,14.43,15.3,15.6,16.17
+PB,Patiala,Samana,Patran,30.04166667,76.12083333,Dedhna,"Dug Well",W13481,2001,NA,13.74,16,NA
+PB,Patiala,Patiala,Patiala,30.27833333,76.30611111,Kakrala,"Dug Well",W13452,2001,NA,NA,NA,8
+PB,Patiala,Patiala,Sanaur,30.28333333,76.43333333,Kulemajra,"Tube Well",W13453,2001,16.9,13.75,16.1,NA
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,2001,NA,13,NA,14.3
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,2001,34.62,32.8,35,NA
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2001,11.67,NA,9.1,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2001,5.9,6.13,6.53,7.21
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,2001,NA,10.25,11.25,NA
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2001,5.79,5.61,5.31,6.63
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,2001,2.58,NA,NA,4.11
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,2001,4.63,5.58,NA,9.28
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2001,1.73,1.75,1.65,2.57
+PB,Patiala,Nabha,Nabha,30.44583333,76.29166667,Allowal,"Dug Well",W13442,2001,10.86,9.45,9.8,10.37
+PB,Patiala,Nabha,Nabha,30.50555556,76.29861111,Tarkheri,"Dug Well",W13443,2001,8.92,8.8,9.65,9.75
+PB,Patiala,Patiala,"Bhuner Heri",30.225,76.57777778,Massinghan1,"Tube Well",W13444,2001,NA,13.1,17.1,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,2001,13.07,11.1,13.9,NA
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,2001,NA,8.4,11.1,NA
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2001,14.6,12.25,14.2,NA
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,2001,4.39,5.17,5.07,5.83
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,2001,NA,7.7,5.45,NA
+PB,Patiala,Samana,Patran,29.96666667,76.1,Nial,"Dug Well",W13482,2000,14.81,13.65,NA,13.93
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,2000,15.88,14.1,15.05,14.85
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,2000,5.26,8.15,8.2,6.91
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,2000,6.78,NA,6.64,9.19
+PB,Patiala,Rajpura,Rajpura,30.6,76.6375,"Manak Pur","Dug Well",W13473,2000,11.25,6.67,NA,11.26
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,2000,16.61,NA,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.50277778,76.65972222,Thuha,"Dug Well",W13478,2000,15.56,NA,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.5375,76.55,Ugana,"Dug Well",W13479,2000,NA,NA,1,14.51
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,2000,16.05,14.95,15.05,15.25
+PB,Patiala,Samana,Patran,30.04166667,76.12083333,Dedhna,"Dug Well",W13481,2000,9.89,12.12,14.07,12.64
+PB,Patiala,Patiala,Patiala,30.27833333,76.30611111,Kakrala,"Dug Well",W13452,2000,8.23,NA,NA,7.65
+PB,Patiala,Patiala,Sanaur,30.28333333,76.43333333,Kulemajra,"Tube Well",W13453,2000,16.92,NA,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,2000,12.43,11.3,12.5,13.2
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,2000,8.64,NA,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,2000,3.73,4.6,4.73,5.18
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,2000,4.46,4.66,4.45,5.89
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,2000,2.03,NA,NA,2.72
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,2000,7.84,5.19,NA,7.62
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,2000,'0.47,1.9,1.32,2.45
+PB,Patiala,Nabha,Nabha,30.44583333,76.29166667,Allowal,"Dug Well",W13442,2000,10.03,8.5,9.65,10.21
+PB,Patiala,Nabha,Nabha,30.50555556,76.29861111,Tarkheri,"Dug Well",W13443,2000,NA,8.59,8.72,9.5
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,2000,14.1,NA,NA,NA
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,2000,'0.82,5.39,4.8,5.78
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,2000,6.5,4.12,4.45,7.08
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,1999,4,12.07,3.84,NA
+PB,Patiala,Rajpura,Rajpura,30.55833333,76.725,Banur,"Dug Well",W13466,1999,3.86,1.56,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.30666667,76.56666667,Haripurchugian,"Dug Well",W13460,1999,NA,5.52,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,1999,4.48,2.33,3.43,4.53
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,1999,5.58,4.18,5.41,5.35
+PB,Patiala,Rajpura,Ghanaur,30.42777778,76.66666667,Handesaran-s,"Tube Well",W13458,1999,8.45,NA,7.36,NA
+PB,Patiala,Rajpura,Ghanaur,30.425,76.66666667,Handesaran-d,"Tube Well",W13457,1999,31.6,NA,30,NA
+PB,Patiala,Rajpura,Ghanaur,30.45333333,76.655,"Ghaggar Sarai","Dug Well",W13456,1999,13.9,12.4,NA,13.39
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,1999,5.26,7.58,5.15,6.98
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,1999,11.34,10.8,11.09,11.1
+PB,Patiala,Samana,Patran,29.96666667,76.1,Nial,"Dug Well",W13482,1999,13.88,12.4,13.63,10.25
+PB,Patiala,Patiala,Sanaur,30.28333333,76.43333333,Kulemajra,"Tube Well",W13453,1999,15.06,12.5,14.35,NA
+PB,Patiala,Rajpura,Ghanaur,30.40694444,76.64,"Salam Pur","Dug Well",W13465,1999,5.6,NA,NA,5.35
+PB,Patiala,Patiala,Patiala,30.27833333,76.30611111,Kakrala,"Dug Well",W13452,1999,NA,6.5,6.61,NA
+PB,Patiala,Samana,Patran,30.04166667,76.12083333,Dedhna,"Dug Well",W13481,1999,12.75,10.2,12.46,10.35
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,1999,13.85,12.15,13.46,12.15
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,1999,7.65,7.45,7.65,7.4
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,1999,'0.6,3.57,3.67,5.52
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,1999,14.8,12.95,14.5,14.72
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,1999,13.89,12.4,13.3,NA
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,1999,3.27,2.07,3.18,3.17
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,1999,8.72,NA,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,1999,NA,10.7,12.53,NA
+PB,Patiala,Rajpura,Rajpura,30.5375,76.55,Ugana,"Dug Well",W13479,1999,14.52,13.95,13.88,14.3
+PB,Patiala,Patiala,"Bhuner Heri",30.225,76.57777778,Massinghan1,"Tube Well",W13444,1999,16.74,11.8,16.55,NA
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,1999,'0.93,1.1,1.65,2.32
+PB,Patiala,Rajpura,Rajpura,30.5,76.55416667,Thua,"Tube Well",W13477,1999,NA,NA,15.45,NA
+PB,Patiala,Nabha,Nabha,30.44583333,76.29166667,Allowal,"Dug Well",W13442,1999,9.67,8.4,9.66,9
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,1999,4.28,3.71,3.83,5.11
+PB,Patiala,Nabha,Nabha,30.50555556,76.29861111,Tarkheri,"Dug Well",W13443,1999,8.52,7.6,8.08,8.25
+PB,Patiala,Rajpura,Ghanaur,30.37777778,76.67916667,"Kami Kalan","Tube Well",W13461,1999,NA,NA,8.82,NA
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,1998,4.31,4.91,2.91,6.01
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,1998,5.03,6.93,4.43,6.53
+PB,Patiala,Rajpura,Ghanaur,30.45333333,76.655,"Ghaggar Sarai","Dug Well",W13456,1998,14.25,13.3,12.4,14.2
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,1998,11.8,12.5,11,11.85
+PB,Patiala,Patiala,Sanaur,30.28333333,76.43333333,Kulemajra,"Tube Well",W13453,1998,15.4,12.45,NA,NA
+PB,Patiala,Patiala,Patiala,30.27833333,76.30611111,Kakrala,"Dug Well",W13452,1998,6.35,6.1,5.75,6.3
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,1998,12.75,NA,12.75,NA
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,1998,4.72,'0.57,NA,4.57
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,1998,13.4,12.5,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,1998,NA,10.8,NA,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.225,76.57777778,Massinghan1,"Tube Well",W13444,1998,15.4,12.1,NA,NA
+PB,Patiala,Nabha,Nabha,30.44583333,76.29166667,Allowal,"Dug Well",W13442,1998,9.34,NA,8.33,8.9
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,1998,'0.44,1.6,'0.8,2.5
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,1998,6.58,7.48,NA,NA
+PB,Patiala,Samana,Patran,29.96666667,76.1,Nial,"Dug Well",W13482,1998,13.15,12.1,9.4,12.6
+PB,Patiala,Samana,Patran,30.04166667,76.12083333,Dedhna,"Dug Well",W13481,1998,11.36,10.2,NA,11.3
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,1998,12.6,13.05,14.6,14.35
+PB,Patiala,Rajpura,Rajpura,30.5375,76.55,Ugana,"Dug Well",W13479,1998,13.8,14.2,13.93,14.4
+PB,Patiala,Rajpura,Rajpura,30.6,76.6375,"Manak Pur","Dug Well",W13473,1998,NA,9.47,NA,NA
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,1998,7.64,6.08,6.82,8.08
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,1998,8.3,8.2,7.9,8.55
+PB,Patiala,Rajpura,Rajpura,30.55833333,76.725,Banur,"Dug Well",W13466,1998,NA,1.76,3.96,NA
+PB,Patiala,Rajpura,Ghanaur,30.40694444,76.64,"Salam Pur","Dug Well",W13465,1998,5.35,6.75,5.3,6.9
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,1998,16.7,NA,15.6,16.9
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,1998,2.72,3.42,2.57,3.57
+PB,Patiala,Nabha,Nabha,30.50555556,76.29861111,Tarkheri,"Dug Well",W13443,1998,9.05,8.05,7.57,8.85
+PB,Patiala,Rajpura,Ghanaur,30.30416667,76.59583333,Majauli,"Dug Well",W13464,1997,7.47,4.8,NA,NA
+PB,Patiala,Rajpura,Ghanaur,30.40694444,76.64,"Salam Pur","Dug Well",W13465,1997,NA,13.13,NA,12.45
+PB,Patiala,Rajpura,Rajpura,30.55833333,76.725,Banur,"Dug Well",W13466,1997,5.7,5.96,5.17,6.76
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,1997,7.9,6.38,8,8.1
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,1997,7.7,9.88,5.28,6.3
+PB,Patiala,Rajpura,Rajpura,30.6,76.6375,"Manak Pur","Dug Well",W13473,1997,NA,9.42,7.88,10.12
+PB,Patiala,Rajpura,Rajpura,30.48333333,76.60416667,Rajpura,"Dug Well",W13475,1997,NA,NA,6.72,NA
+PB,Patiala,Rajpura,Rajpura,30.5375,76.55,Ugana,"Dug Well",W13479,1997,14.44,13.68,13.23,13.5
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,1997,15.35,14.13,15.18,NA
+PB,Patiala,Samana,Patran,30.04166667,76.12083333,Dedhna,"Dug Well",W13481,1997,11.7,10.77,NA,NA
+PB,Patiala,Samana,Patran,29.96666667,76.1,Nial,"Dug Well",W13482,1997,12.9,12.04,3.05,NA
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,1997,5.68,5.28,NA,NA
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,1997,1.4,2.25,NA,2.94
+PB,Patiala,Nabha,Nabha,30.44583333,76.29166667,Allowal,"Dug Well",W13442,1997,9.1,7.8,6.55,7.9
+PB,Patiala,Nabha,Nabha,30.50555556,76.29861111,Tarkheri,"Dug Well",W13443,1997,8.93,7.85,4.05,NA
+PB,Patiala,Patiala,"Bhuner Heri",30.20833333,76.49444444,Mirapur,"Tube Well",W13445,1997,NA,NA,10.8,NA
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,1997,NA,NA,131,7.6
+PB,Patiala,Patiala,Patiala,30.41388889,76.51388889,Birkauli,"Tube Well",W13448,1997,NA,NA,12.65,NA
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,1997,'0.57,3.77,NA,5.57
+PB,Patiala,Patiala,Sanaur,30.12916667,76.27083333,Gheoura,"Dug Well",W13451,1997,13.48,12.49,12.69,NA
+PB,Patiala,Patiala,Patiala,30.27833333,76.30611111,Kakrala,"Dug Well",W13452,1997,6.33,6.6,5.79,6.1
+PB,Patiala,Patiala,Sanaur,30.28333333,76.43333333,Kulemajra,"Tube Well",W13453,1997,NA,NA,12.48,NA
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,1997,11.62,10.78,7.2,20.5
+PB,Patiala,Rajpura,Ghanaur,30.45333333,76.655,"Ghaggar Sarai","Dug Well",W13456,1997,NA,12.8,13.35,12.35
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,1997,4.73,4.91,4.58,5.13
+PB,Patiala,Rajpura,Ghanaur,30.30666667,76.56666667,Haripurchugian,"Dug Well",W13460,1997,NA,NA,NA,8.77
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,1997,6.36,5.24,5.29,6.43
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,1997,4.29,3.79,3.62,4.37
+PB,Patiala,Rajpura,Ghanaur,30.40694444,76.64,"Salam Pur","Dug Well",W13465,1996,5.4,12.5,12.64,12.53
+PB,Patiala,Rajpura,Ghanaur,30.4,76.725,Mahmodpur,"Dug Well",W13463,1996,4.72,3.72,3.32,4.37
+PB,Patiala,Rajpura,Rajpura,30.46027778,76.72833333,"Bassma Pipla","Dug Well",W13468,1996,6.96,6.4,4.1,8.13
+PB,Patiala,Rajpura,Rajpura,30.55972222,76.65972222,Haluka,"Dug Well",W13472,1996,6.61,7.73,5.98,5.2
+PB,Patiala,Rajpura,Rajpura,30.6,76.6375,"Manak Pur","Dug Well",W13473,1996,10.52,10.47,8.47,10.5
+PB,Patiala,Rajpura,Rajpura,30.5375,76.55,Ugana,"Dug Well",W13479,1996,11.9,13.45,13.3,13.4
+PB,Patiala,Samana,Patran,29.98333333,76.04166667,"Choti Dogal","Dug Well",W13480,1996,18.85,12.1,18.85,NA
+PB,Patiala,Samana,Patran,30.04166667,76.12083333,Dedhna,"Dug Well",W13481,1996,14.75,9.8,14.75,NA
+PB,Patiala,Samana,Patran,29.96666667,76.1,Nial,"Dug Well",W13482,1996,14.9,11.35,14.9,NA
+PB,Patiala,Fatehgarh,Rajpura,30.64583333,76.59166667,"Bassie Vaidan","Dug Well",W13116,1996,5.88,NA,NA,8.23
+PB,Patiala,"Dera Bassi",Ghanaur,30.45416667,76.77083333,Sirsini-2,"Dug Well",W13441,1996,1.5,2.25,1.71,3.95
+PB,Patiala,Nabha,Nabha,30.44583333,76.29166667,Allowal,"Dug Well",W13442,1996,8.96,8.39,8.03,7.9
+PB,Patiala,Patiala,Patiala,30.35,76.35,"Ablowal 2(m)","Tube Well",W13446,1996,6.57,NA,NA,NA
+PB,Patiala,Patiala,Patiala,30.35972222,76.44722222,Theri,"Dug Well",W13450,1996,1.47,'0.82,2.05,4.62
+PB,Patiala,Patiala,Patiala,30.27833333,76.30611111,Kakrala,"Dug Well",W13452,1996,6.21,NA,3.9,6.15
+PB,Patiala,Rajpura,Ghanaur,30.3625,76.63611111,Badikami,"Dug Well",W13455,1996,11.13,10.78,20.37,11.82
+PB,Patiala,Rajpura,Ghanaur,30.45333333,76.655,"Ghaggar Sarai","Dug Well",W13456,1996,12.67,11.35,12.25,12.35
+PB,Patiala,Rajpura,Ghanaur,30.31944444,76.60666667,"Hari Majra","Dug Well",W13459,1996,5.13,NA,NA,5.03
+PB,Patiala,Rajpura,Ghanaur,30.30666667,76.56666667,Haripurchugian,"Dug Well",W13460,1996,NA,NA,NA,8.57
+PB,Patiala,Rajpura,Ghanaur,30.345,76.64166667,"Lacharu Kalan","Dug Well",W13462,1996,12.81,4.71,8.13,6.43
+PB,Patiala,Rajpura,Rajpura,30.55833333,76.725,Banur,"Dug Well",W13466,1996,5.58,6.31,5.46,6.78
