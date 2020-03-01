@@ -1,24 +1,56 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2018,NA,7,NA,NA
-BR,Sheohar,Piprarhi,Purnahiya,26.62111111,85.32611111,"Purnhaiya Bazar","Dug Well",W29647,2018,NA,1.61,NA,NA
-BR,Sheohar,Piprarhi,Purnahiya,26.62111111,85.32611111,"Purnhaiya Bazar","Dug Well",W29647,2017,NA,3.11,NA,NA
-BR,Sheohar,Piprarhi,Purnahiya,26.62111111,85.32611111,"Purnhaiya Bazar","Dug Well",W29647,2016,2.32,2.58,2.5,5.33
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2016,1.5,NA,NA,7
-BR,Sheohar,Piprarhi,Purnahiya,26.62111111,85.32611111,"Purnhaiya Bazar","Dug Well",W29647,2015,3.55,NA,3.5,3.7
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2015,3,'0.67,'0.75,1.06
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2014,'0.76,1.41,'0.65,3.1
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2013,1.05,2,1.28,3.36
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2012,NA,2.25,1,6.53
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2011,NA,1.55,1.2,2.2
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2010,'0.79,'0.5,1.26,1.14
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2009,NA,NA,1,2.54
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2005,NA,3.43,NA,3.92
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2004,NA,3.58,NA,NA
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2003,NA,2.03,1.8,NA
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2002,NA,1.57,1.68,4.33
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2001,1.42,4.17,2.93,3.8
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,2000,1.37,2.65,NA,3.17
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,1999,NA,NA,1.63,3.65
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,1998,3.65,2.31,NA,2.33
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,1997,'0.78,2.63,2.85,3.5
-BR,Sheohar,Sheohar,Sheohar,26.50833333,85.3,Sheohar,"Dug Well",W12971,1996,NA,3.28,2.34,3.25
+BR,Sheikhpura,Barbigha,Barbhiga,25.22472222,85.73416667,Sherpar,"Dug Well",W29192,2018,5.04,NA,NA,9.66
+BR,Sheikhpura,Barbigha,Barbhiga,25.21694444,85.73777778,Barbigha,"Dug Well",W29182,2018,7.48,3.39,NA,NA
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.17027778,85.7925,Nemdarganj,"Dug Well",W29158,2018,2.37,2.69,NA,NA
+BR,Sheikhpura,Barbigha,"Shekhopur Sarai",25.14,85.69944444,Ambari,"Dug Well",W29149,2018,6.03,3.88,NA,NA
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2018,1.33,4.43,NA,NA
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2018,5.51,7.94,NA,NA
+BR,Sheikhpura,Barbigha,Barbhiga,25.21722222,85.74388889,"Koeri Bigha","Dug Well",W29184,2018,4.53,5.26,NA,NA
+BR,Sheikhpura,Barbigha,Barbhiga,25.22472222,85.73416667,Sherpar,"Dug Well",W29192,2017,NA,5.26,NA,6.81
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2017,1.62,2.22,3.66,5.91
+BR,Sheikhpura,Barbigha,Barbhiga,25.21722222,85.74388889,"Koeri Bigha","Dug Well",W29184,2017,3.4,2.76,4.49,4.36
+BR,Sheikhpura,Barbigha,Barbhiga,25.21694444,85.73777778,Barbigha,"Dug Well",W29182,2017,6.01,6.06,6.42,6.41
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.17027778,85.7925,Nemdarganj,"Dug Well",W29158,2017,1.01,1.76,2.3,3
+BR,Sheikhpura,Barbigha,"Shekhopur Sarai",25.14,85.69944444,Ambari,"Dug Well",W29149,2017,5.27,5.31,6.04,6.05
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2017,NA,2.28,3.79,7.92
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2016,1.23,NA,2.8,3.34
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.17027778,85.7925,Nemdarganj,"Dug Well",W29158,2016,1.25,3.15,1.47,5.33
+BR,Sheikhpura,Barbigha,Barbhiga,25.22472222,85.73416667,Sherpar,"Dug Well",W29192,2016,3.61,8,2.97,9.9
+BR,Sheikhpura,Barbigha,Barbhiga,25.21722222,85.74388889,"Koeri Bigha","Dug Well",W29184,2016,3.88,3.83,1.28,5.4
+BR,Sheikhpura,Barbigha,Barbhiga,25.21694444,85.73777778,Barbigha,"Dug Well",W29182,2016,6.23,6.13,4.61,6.51
+BR,Sheikhpura,Barbigha,"Shekhopur Sarai",25.14,85.69944444,Ambari,"Dug Well",W29149,2016,3,5.17,4.8,6.55
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2016,3.42,NA,2.58,7.69
+BR,Sheikhpura,Barbigha,Barbhiga,25.21722222,85.74388889,"Koeri Bigha","Dug Well",W29184,2015,2,2.5,2.88,3.88
+BR,Sheikhpura,Barbigha,Barbhiga,25.22472222,85.73416667,Sherpar,"Dug Well",W29192,2015,2.03,5.22,2.62,8.58
+BR,Sheikhpura,Barbigha,Barbhiga,25.21694444,85.73777778,Barbigha,"Dug Well",W29182,2015,4.84,4.89,5.98,6.18
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.17027778,85.7925,Nemdarganj,"Dug Well",W29158,2015,1.11,NA,2.42,3.65
+BR,Sheikhpura,Barbigha,"Shekhopur Sarai",25.14,85.69944444,Ambari,"Dug Well",W29149,2015,2.08,1.91,4.48,4.38
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2015,'0.8,2.6,1.88,4.72
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2015,'0.98,2.95,3.16,'0.98
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2014,'0.72,2.8,1.32,5.4
+BR,Sheikhpura,Barbigha,Barbhiga,25.21694444,85.73777778,Barbigha,"Dug Well",W29182,2014,3.69,6.52,3.47,6.47
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2014,'0.73,9.85,2.21,5.23
+BR,Sheikhpura,Barbigha,"Shekhopur Sarai",25.14,85.69944444,Ambari,"Dug Well",W29149,2014,1.73,5.47,2.19,6.2
+BR,Sheikhpura,Barbigha,Barbhiga,25.22472222,85.73416667,Sherpar,"Dug Well",W29192,2014,1.84,9.07,2.78,9.1
+BR,Sheikhpura,Barbigha,Barbhiga,25.21722222,85.74388889,"Koeri Bigha","Dug Well",W29184,2014,1.52,4.5,1.85,5.1
+BR,Sheikhpura,Barbigha,Barbhiga,25.21722222,85.74388889,"Koeri Bigha","Dug Well",W29184,2013,NA,NA,2.31,4.42
+BR,Sheikhpura,Barbigha,Barbhiga,25.21694444,85.73777778,Barbigha,"Dug Well",W29182,2013,NA,NA,6.36,6.5
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2013,NA,3.8,1.75,6.62
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2013,NA,7.92,8.94,10.45
+BR,Sheikhpura,Barbigha,Barbhiga,25.22472222,85.73416667,Sherpar,"Dug Well",W29192,2013,NA,NA,8.77,8.32
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2012,NA,7.07,6.63,NA
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2012,NA,NA,'0.47,NA
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2011,NA,NA,NA,7.15
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2009,NA,NA,6.15,NA
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2006,NA,2.8,NA,3.31
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2005,1.47,NA,NA,NA
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,2003,7.46,NA,NA,NA
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2003,NA,8.05,NA,8.09
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2002,5.19,5.88,3.77,NA
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2001,4.54,NA,NA,NA
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,2000,3.98,5.98,NA,NA
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,1999,2.53,NA,NA,NA
+BR,Sheikhpura,Barbigha,Barbhiga,25.21666667,85.79583333,Keoti1,"Dug Well",W12970,1998,NA,NA,NA,5.62
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,1998,1.6,NA,NA,7.72
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,1997,2.09,NA,3.44,7.61
+BR,Sheikhpura,Sheikhpura,Sheikhpura,25.14583333,85.85416667,Barbigha,"Dug Well",W12552,1996,3.24,6.2,NA,8.03

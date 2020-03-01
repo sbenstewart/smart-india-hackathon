@@ -1,0 +1,252 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2018,2.3,NA,NA,NA
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2018,'0.7,2.59,NA,NA
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2018,1,3.65,NA,NA
+UP,Kushinagar,Kasiya,Kasiya,26.75,83.9125,Kasia1,"Dug Well",W29673,2018,'0.5,NA,NA,NA
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2018,'0.5,3.15,NA,NA
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2018,'0.3,1.44,NA,NA
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2018,2.05,3.95,NA,NA
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2017,'0.75,1.89,1.63,NA
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2017,'0.73,2.91,2.63,NA
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2017,3.24,4.31,NA,6.05
+UP,Kushinagar,Kasiya,Kasiya,26.75,83.9125,Kasia1,"Dug Well",W29673,2017,'0.72,1.73,NA,NA
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2017,1.59,3.8,3.65,4.45
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2017,'0.12,1.43,1.17,2.05
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2017,1.42,3.22,3.7,4.51
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2016,1,NA,1.26,NA
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2016,NA,NA,NA,3.21
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2016,3.25,NA,4.16,6.44
+UP,Kushinagar,Kasiya,Kasiya,26.75,83.9125,Kasia1,"Dug Well",W29673,2016,'0.5,NA,1.57,NA
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2016,NA,NA,1.7,NA
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2016,2.4,NA,2.75,5.1
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2016,2.15,NA,3.65,5.63
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2016,1.3,NA,3.03,4.49
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2015,1.23,1.84,1.91,3.03
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2015,'0.65,1.85,1.38,2.36
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2015,'0.82,NA,NA,'0.82
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2015,3.71,4.78,4.55,5.89
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2015,NA,3.14,NA,NA
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.92055556,83.7125,Captanganj1,"Dug Well",W29698,2015,1.11,3.32,NA,1.94
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2015,2.14,1.45,3.08,2.14
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2015,1.86,2.09,2.54,2.96
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2015,2.26,2.9,3.45,3.68
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2015,2.07,3.31,2.71,3.55
+UP,Kushinagar,Kasiya,Kasiya,26.75,83.9125,Kasia1,"Dug Well",W29673,2015,1.48,1.84,2.18,2.7
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2015,NA,2.23,NA,NA
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2014,'0.99,2.95,NA,5.23
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2014,'0.42,'0.68,NA,2.76
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2014,'0.35,1.11,NA,3.26
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2014,3.98,3.49,NA,6.02
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2014,'0.98,2.76,NA,3.76
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.92055556,83.7125,Captanganj1,"Dug Well",W29698,2014,'0.77,1.27,1.97,3.77
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2014,1.11,1.66,NA,3.12
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2014,'0.11,1.73,NA,2.71
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2014,1.18,1.72,NA,NA
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2014,'0.43,1.56,NA,3.54
+UP,Kushinagar,Kasiya,Kasiya,26.75,83.9125,Kasia1,"Dug Well",W29673,2014,1.46,1.08,1.15,4.09
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2014,'0.92,3.67,NA,4.82
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2013,2.33,2.59,2.54,5.57
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2013,'0.9,3.18,'0.63,4.13
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2013,'0.3,1.48,'0.88,3.85
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2013,1.07,2.88,2.44,5.95
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2013,1.82,2.67,2.43,3.47
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.92055556,83.7125,Captanganj1,"Dug Well",W29698,2013,'0.44,2.24,'0.81,4.04
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2013,'0.23,3.12,1.32,2.72
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2013,'0.43,1.84,1.37,3.78
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2013,'0.76,2.49,1.06,3.27
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2013,'0.62,2.17,'0.96,3.87
+UP,Kushinagar,Kasiya,Kasiya,26.75,83.9125,Kasia1,"Dug Well",W29673,2013,'0.43,1.71,'0.87,3.76
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2013,2.69,2.06,3.04,5.17
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2012,NA,2.92,2.17,5.16
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2012,NA,2.91,2.52,2.27
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2012,NA,2.83,'0.83,3.51
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2012,NA,4.77,2.76,5.79
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2012,NA,2.27,2.29,2.77
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.92055556,83.7125,Captanganj1,"Dug Well",W29698,2012,NA,NA,1.87,NA
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2012,NA,2.54,2.57,2.53
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2012,NA,2.19,1.36,3.73
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2012,NA,2.59,1.93,4.93
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2012,NA,2.24,1.72,3.67
+UP,Kushinagar,Kasiya,Kasiya,26.75,83.9125,Kasia1,"Dug Well",W29673,2012,NA,NA,1.22,NA
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2012,NA,3.59,1.67,5.23
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2011,2.72,1.67,3.13,NA
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2011,1.01,1.99,1.41,4.07
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2011,1.16,1.03,2.42,3
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2011,1.13,3.42,4.24,4.94
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2011,1.64,1.57,1.84,3.58
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2011,3.22,1.93,2.99,5.02
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2011,'0.88,1.83,1.19,2.99
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2011,'0.67,2.3,NA,3.69
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2011,1.72,1.89,2.23,3.59
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2011,2.44,3.04,1.84,2.52
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2010,2.18,3.86,1.59,2.89
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2010,1.92,2.41,2.09,4.12
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2010,'0.89,2.32,1.57,NA
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2010,2.17,4,3.6,5.63
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2010,1.92,3.78,2.67,2.74
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2010,1.27,3.42,2.01,5.01
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2010,1.29,2.98,1.72,2.82
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2010,2.08,3.31,2.44,3.64
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2010,'0.84,3.12,2.02,4.61
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2010,1.17,1.84,1.34,3.92
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2009,2.39,1.2,2.67,2.66
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2009,2.01,2.51,2.81,3.79
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2009,2.83,3.16,3.32,4.16
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2009,1.74,3.33,1.75,3.88
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2009,3.43,3.32,3.67,5.42
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2009,'0.59,1.79,2.06,3.57
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2009,1.73,2.47,1.03,3.57
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2009,4.33,3.93,4.49,4.89
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2009,2.73,2.92,3.27,2.96
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2009,2.54,3.47,3.43,4.72
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2008,1.3,2.1,1.59,2.87
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2008,1.66,2.1,1.92,3.66
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2008,1.01,2.8,3.2,2.92
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2008,1.48,3.27,1.64,4.28
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2008,1.4,3.2,1.94,5.84
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2008,'0.41,1.7,1.32,3.43
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2008,'0.17,1.97,2.22,2.18
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2008,2.49,3.7,3.66,5.06
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2008,1.8,3.2,1.98,3.17
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2008,NA,1.56,2.76,4.41
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2007,1.25,3.05,2.23,3.46
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2007,NA,2.25,1.92,3.22
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2007,'0.9,3.1,2.05,4.05
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2007,1.05,3.43,3.08,4.53
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2007,2.12,3.03,2.58,4.08
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2007,'0.5,1.8,1.87,3.43
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2007,'0.02,2.72,'0.12,3.45
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2007,2.3,4.52,3.27,2.81
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2007,1.55,NA,2.92,3.35
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2007,NA,1.89,1.22,3.85
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2006,1.03,1.6,2.29,3.39
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2006,'0.76,2.64,2.75,3.17
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2006,1.34,2.73,1.69,4.02
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2006,'0.96,2.83,2.68,4.47
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2006,1.07,2.86,3.28,4.04
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2006,'0.95,1.44,1.41,3.34
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2006,'0.53,2.22,1.82,3.42
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2006,3.47,3.6,3.42,3.03
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2006,1.27,2.48,2.56,3.37
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2006,'0.51,1.11,'0.78,3.68
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2005,1.08,2.02,1.34,3.33
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2005,NA,NA,2.28,NA
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2005,'0.93,2.86,2.08,NA
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2005,'0.88,3.18,2.58,5.75
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2005,1.8,3.43,3.07,NA
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2005,'0.33,1.71,1.22,3.42
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2005,1.22,2.24,1.22,4.32
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2005,3.22,4.47,3.21,6.4
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2005,2.52,2.95,2.27,4.72
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2005,'0.08,2.26,'0.96,4.29
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2004,1.39,2.08,1.92,3.14
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2004,2.79,2.12,1.92,4.36
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2004,1.49,2.84,2.36,4.13
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2004,2.09,3.13,3.09,4.54
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2004,1.63,3.32,2.75,4.5
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2004,'0.62,2.04,1.14,2.67
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2004,'0.73,2.12,1.67,3.25
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2004,2.6,4.51,3.89,5.46
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2004,1.76,2.85,2.59,3.7
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2004,1.19,1.91,1.21,3.12
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2003,1.49,1.91,1.5,2.56
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2003,'0.74,2.11,1.68,3.07
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2003,1.14,2.42,3.13,5.8
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2003,1.72,NA,3.63,4.85
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2003,1.9,3.03,1.62,5.58
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2003,'0.68,1.82,1.33,2.53
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2003,'0.29,1.93,2.83,4.04
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2003,3.33,4.97,3.98,3.48
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2003,1.89,2.81,1.82,3.58
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2003,'0.34,1.9,2.2,3.87
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2002,1.76,1.78,1.47,2.87
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2002,1.12,2.66,3.22,4.2
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2002,NA,2.88,3.87,4.58
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2002,'0.34,1.44,2.13,3.73
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2002,1.05,2.1,2.32,2.86
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2002,1.52,1.97,3.25,4.36
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2002,3.66,4.43,1.83,3.08
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2002,1.15,2.76,1.83,2.66
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2002,2.54,2.84,2.74,3.73
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2002,1.51,2.01,NA,2.39
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2001,NA,NA,2.08,2.99
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2001,NA,NA,3.16,3.91
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2001,1.83,NA,2.13,3.99
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2001,2.79,NA,2.66,6.69
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2001,'0.83,NA,1.06,4.45
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2001,'0.33,NA,'0.62,3.06
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2001,'0.91,NA,1.11,3.52
+UP,Kushinagar,Tamkuhi,Tamkuhi,26.72222222,84.19166667,Tamkuhi,"Dug Well",W15827,2001,2.42,NA,2.66,NA
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2001,2.33,NA,2.77,4.77
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2001,1.18,NA,1.93,4.22
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2001,1.41,NA,1.18,3.27
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,2000,1.65,3.09,2.6,3.62
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,2000,'0.83,1.97,1.63,2.44
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,2000,'0.19,1.97,1.27,2.48
+UP,Kushinagar,Dudhahi,Dudhahi,26.85972222,84.10277778,Dudhai,"Dug Well",W15116,2000,NA,3.57,NA,NA
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,2000,3.38,4.73,4.44,5.68
+UP,Kushinagar,Tamkuhi,Tamkuhi,26.72222222,84.19166667,Tamkuhi,"Dug Well",W15827,2000,'0.6,3.11,2.27,NA
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,2000,'0.59,2.41,1.76,2.47
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,2000,1.08,3.63,3.41,4.32
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.96666667,Padrauna,"Dug Well",W15825,2000,'0.93,2.76,2.32,NA
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,2000,'0.5,2.32,2.1,2.75
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,2000,'0.82,2.92,2.89,3.6
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,2000,1.78,2.86,2.63,3.44
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,2000,1.43,NA,2.33,2.46
+UP,Kushinagar,Dudhahi,Dudhahi,26.85972222,84.10277778,Dudhai,"Dug Well",W15116,1999,NA,3.72,3.3,5.78
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,1999,'0.27,2.42,1.85,3.47
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,1999,3.44,4.67,4.37,5.3
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,1999,NA,2.18,1.66,2.85
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.96666667,Padrauna,"Dug Well",W15825,1999,'0.96,2.65,2.4,6.5
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,1999,'0.78,3.2,2.48,4
+UP,Kushinagar,Tamkuhi,Tamkuhi,26.72222222,84.19166667,Tamkuhi,"Dug Well",W15827,1999,'0.61,2.68,2.5,4.02
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,1999,'0.14,2.04,1.32,2.56
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,1999,'0.51,2.27,1.83,2.85
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,1999,1.3,2.35,2.33,2.4
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,1999,1.62,3.12,2.64,4.03
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,1999,1.74,3.01,2.48,3.83
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,1999,1.67,3.63,3.57,4.08
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,1998,NA,1.67,1.87,3.12
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,1998,NA,1.72,1.75,2.15
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,1998,NA,1.42,1.45,2.44
+UP,Kushinagar,Dudhahi,Dudhahi,26.85972222,84.10277778,Dudhai,"Dug Well",W15116,1998,NA,3.52,3.24,5.78
+UP,Kushinagar,Tamkuhi,Tamkuhi,26.72222222,84.19166667,Tamkuhi,"Dug Well",W15827,1998,NA,1.95,1.75,3.59
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,1998,NA,NA,3.65,3.74
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.96666667,Padrauna,"Dug Well",W15825,1998,NA,2.3,2.56,3.62
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,1998,NA,2.27,2.8,3.65
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,1998,NA,1.8,1.85,3.18
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,1998,NA,2.33,2.45,2.66
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,1998,NA,2.5,2.8,3
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,1998,NA,2.67,2.63,3.57
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,1998,NA,4.33,3.5,5.17
+UP,Kushinagar,Motichak,Motichak,26.75,83.75,Hata,"Dug Well",W15124,1998,NA,'0.8,NA,6.23
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,1997,1.29,1.9,1.6,2.52
+UP,Kushinagar,Motichak,Motichak,26.75,83.75,Hata,"Dug Well",W15124,1997,'0.87,1.82,'0.3,2.88
+UP,Kushinagar,Tamkuhi,Tamkuhi,26.72222222,84.19166667,Tamkuhi,"Dug Well",W15827,1997,1.26,2.58,1.46,3.8
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,1997,3.6,4.52,4.27,4.97
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,1997,NA,2.74,2.48,3.56
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.96666667,Padrauna,"Dug Well",W15825,1997,2,2.7,2.2,3.85
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,1997,1.24,2.86,2.21,3.75
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,1997,'0.31,1.89,'0.87,2.14
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.92055556,83.7125,Captanganj,"Dug Well",W15118,1997,1.11,NA,NA,NA
+UP,Kushinagar,Dudhahi,Dudhahi,26.85972222,84.10277778,Dudhai,"Dug Well",W15116,1997,3.01,3.28,3.32,5.78
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,1997,'0.71,1.88,1.37,2.68
+UP,Kushinagar,Kasiya,Kasiya,26.75,83.9125,Kasia,"Dug Well",W15120,1997,NA,NA,1.28,2.4
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,1997,1.5,2.24,2.28,2.72
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,1997,1.65,3.31,NA,3.89
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,1997,'0.99,2.41,1.54,3.13
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,1997,1.9,2.69,2.48,3.68
+UP,Kushinagar,Vishunpura,Vishunpura,27,84,Bisunpura,"Dug Well",W15126,1996,NA,2.7,2.48,3.73
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.98333333,Belwa,"Dug Well",W15125,1996,3.6,4.51,4.27,4.79
+UP,Kushinagar,Motichak,Motichak,26.75,83.75,Hata,"Dug Well",W15124,1996,'0.2,1.66,1.41,2.77
+UP,Kushinagar,Motichak,Motichak,26.86666667,83.75,Mathauli,"Dug Well",W15823,1996,1.15,1.73,1.62,3.08
+UP,Kushinagar,Padrauna,Padrauna,26.88333333,83.96666667,Padrauna,"Dug Well",W15825,1996,1.8,2.63,2.38,4.07
+UP,Kushinagar,Dudhahi,Dudhahi,26.85972222,84.10277778,Dudhai,"Dug Well",W15116,1996,NA,3.4,2.84,5.78
+UP,Kushinagar,Ramkola,Ramkola,26.86666667,83.86666667,Rambar,"Dug Well",W15826,1996,NA,3.06,3.35,3.42
+UP,Kushinagar,Kaptanganj,Kaptanganj,26.90555556,83.6,Mansurganj,"Dug Well",W15822,1996,'0.59,NA,2.35,2.58
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.95416667,Chittauni,"Dug Well",W15122,1996,NA,2.02,1.61,2.27
+UP,Kushinagar,Fazilnagar,Fazilnagar,26.68472222,84.05555556,"Fazil nagar","Dug Well",W15117,1996,'0.01,1.56,1.28,2.19
+UP,Kushinagar,"Nebua Naurangiya","Nebua Naurangiya",27.03333333,83.9,Naurangia,"Dug Well",W15824,1996,1.15,2.74,2.48,4
+UP,Kushinagar,"Gauri Bazar",Sukrauli,26.68333333,83.7,Sirsia,"Dug Well",W15616,1996,2,1.36,2.61,3.77
+UP,Kushinagar,Khadda,Khadda,27.13333333,83.88333333,Khadda,"Dug Well",W15123,1996,'0.82,NA,2.05,3.35
+UP,Kushinagar,Tamkuhi,Tamkuhi,26.72222222,84.19166667,Tamkuhi,"Dug Well",W15827,1996,'0.35,2.34,2.13,3.97

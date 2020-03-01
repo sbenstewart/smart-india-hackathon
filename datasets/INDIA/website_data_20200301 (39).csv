@@ -1,192 +1,532 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2018,NA,'0.84,'0.47,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2018,NA,1.07,'0.6,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2018,NA,'0.11,'0.16,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2018,NA,1.43,'0.34,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2018,NA,'0.81,1.03,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2017,NA,'0.02,'0.07,'0.02
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2017,'0.91,NA,'0.96,2.99
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2017,NA,2.6,NA,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2017,'0.51,1.58,'0.89,1.6
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2017,'0.99,2.11,'0.77,2.18
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2017,'0.95,1.36,'0.82,1.49
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2016,1.41,NA,'0.62,3.14
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2016,NA,NA,'0.05,'0.22
-AS,Karimganj,BADARPUR,Nilambazar,24.84861111,92.50694444,"Rakesh nagar","Tube Well",W33229,2016,'0.32,NA,NA,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2016,NA,NA,'0.13,1.46
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2016,NA,NA,1.27,2.1
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2016,1.12,NA,'0.87,1.13
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2015,NA,3.34,2.69,4.91
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2015,NA,'0.01,NA,2.03
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2015,'0.05,'0.61,NA,1.39
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2015,'0.12,'0.87,'0.17,1.34
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2015,'0.89,1.15,NA,'0.77
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2014,'0.8,3.66,NA,5.55
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2014,NA,1.24,NA,1.3
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2014,'0.85,'0.85,NA,1.55
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2014,NA,1.64,NA,1.94
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2014,'0.33,2.61,NA,2.93
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2014,-0.01,'0.18,NA,'0.65
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2013,1.71,4.34,'0.07,5.62
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2013,'0.58,NA,'0.18,1.42
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2013,'0.24,'0.35,'0.3,'0.39
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2013,NA,NA,NA,'0.95
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Mahakal,"Tube Well",W31718,2013,NA,NA,NA,'0.83
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2013,1.19,2.31,1.94,2.3
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2013,NA,NA,NA,'0.7
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2013,NA,1.72,6.2,2.98
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2013,'0.82,1,'0.95,1.65
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2013,NA,'0.42,'0.14,'0.68
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2012,NA,5.36,1.82,NA
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2012,NA,1.58,1.48,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2012,NA,'0.47,'0.52,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2012,NA,2.04,1.48,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2012,NA,1.81,1.58,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2012,NA,7.41,6.3,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2012,NA,2.27,'0.04,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2011,'0.84,4.38,3.55,NA
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2011,'0.51,1.56,3.12,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2011,NA,'0.31,'0.37,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2011,NA,1.14,1.03,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2011,1.29,2.27,2.02,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2011,NA,1.07,NA,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2011,5.61,7,6,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2011,NA,'0.74,'0.12,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2010,1.53,5.08,3.69,NA
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2010,'0.36,1.31,'0.95,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2010,'0.35,'0.48,'0.32,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2010,NA,1.57,'0.45,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2010,1.86,2.69,2.04,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2010,'0.81,1.74,'0.1,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2010,NA,'0.85,NA,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2009,1.96,4.32,3.88,NA
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2009,NA,1.44,'0.98,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2009,'0.19,'0.36,'0.65,NA
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2009,1.34,NA,NA,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2009,'0.13,1.09,1.18,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2009,1.92,2.44,2.24,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2009,NA,1.86,NA,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2009,6.05,6.94,'0.53,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2009,'0.11,'0.93,'0.19,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2008,'0.86,4.96,2.5,NA
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2008,1.27,5.77,'0.88,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2008,'0.01,'0.6,1.35,NA
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2008,'0.59,NA,'0.05,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2008,'0.45,1.62,'0.08,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2008,1.8,2.25,NA,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2008,NA,NA,1.56,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2008,4.8,2.41,5.88,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2008,'0.06,1.45,2.04,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2007,2.55,3.63,3.36,'0.79
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2007,'0.45,NA,1.02,3.63
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2007,'0.27,'0.28,'0.41,'0.05
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2007,'0.78,3.01,1.24,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2007,'0.28,2.11,1.23,'0.96
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2007,1.87,2.94,2.15,1.95
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2007,NA,1.55,NA,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2007,1.59,7.02,1.09,1.01
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2007,'0.12,1.8,'0.23,'0.47
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2006,2.81,5.7,5.03,3.6
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2006,'0.45,2.15,1.9,'0.3
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2006,'0.6,2.8,3.01,'0.52
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2006,'0.82,2.05,1.6,'0.73
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2006,2.61,2.8,2.8,2.5
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2006,1.02,3.15,1.5,'0.98
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2006,6.05,6.05,6.5,7.3
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2006,'0.36,1.65,'0.8,'0.35
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2005,1.33,6.16,4.92,1.51
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2005,NA,1.4,NA,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2005,'0.15,'0.5,1.45,'0.6
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2005,'0.2,2.56,1.01,'0.5
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2005,'0.5,NA,1.8,'0.73
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2005,2.2,3.02,2.68,2.36
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2005,NA,1.63,1.55,1.1
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2005,5.7,4.7,6.65,6.56
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2005,'0.1,NA,'0.5,'0.25
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2004,'0.65,5.02,4.12,3.03
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2004,NA,1.06,1.17,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2004,NA,'0.56,'0.51,'0.37
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2004,1.09,NA,1.2,'0.59
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2004,NA,1.26,NA,'0.89
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2004,2.15,2.51,2.77,2.72
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2004,'0.51,1.63,1.41,'0.99
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2004,2.45,6.82,2.91,2.47
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2004,NA,'0.21,'0.15,'0.15
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2003,5.21,7.35,4.13,2.82
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2003,'0.69,1.18,'0.94,'0.48
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2003,'0.43,2,'0.5,'0.35
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2003,1.21,1.29,NA,'0.65
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2003,'0.86,NA,NA,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2003,2.61,2.64,2.6,2.48
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2003,'0.84,1.9,1.75,'0.72
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.54027778,92.4375,Anipur,"Tube Well",W12345,2003,NA,NA,NA,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2003,2.61,NA,6.36,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2003,'0.11,NA,'0.24,NA
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2002,5.73,5.25,5.07,3.31
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2002,'0.78,NA,1.19,'0.38
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2002,'0.19,'0.52,1.11,'0.35
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2002,'0.97,NA,NA,1.84
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2002,NA,'0.3,NA,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2002,3.34,2.71,NA,2.72
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2002,'0.61,1.8,1.21,1.12
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2002,'0.51,1.75,1.04,'0.76
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2001,2.34,4.65,2.25,'0.38
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2001,'0.51,1.32,NA,'0.85
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2001,'0.28,'0.82,'0.26,'0.63
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2001,'0.46,2.73,'0.77,'0.74
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2001,NA,1.95,'0.4,1.8
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2001,2.34,3.21,2.49,2.64
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2001,'0.95,2.12,1.15,1.23
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.54027778,92.4375,Anipur,"Tube Well",W12345,2001,1,NA,1.58,2.35
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2001,5.97,7.2,1.97,1.41
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2001,'0.17,'0.95,'0.28,1.61
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,2000,2.8,6.64,2.45,'0.6
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,2000,'0.28,NA,'0.85,'0.7
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,2000,NA,'0.97,2.52,NA
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,2000,'0.4,2.21,'0.69,'0.4
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,2000,'0.1,'0.68,'0.46,'0.1
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,2000,2.11,3.26,2.44,1.6
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,2000,NA,4.02,1.4,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.54027778,92.4375,Anipur,"Tube Well",W12345,2000,NA,NA,1.18,NA
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,2000,5.5,7.27,6.3,6.2
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,2000,'0.85,1.6,'0.75,'0.65
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,1999,'0.2,2.57,1.05,5.6
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,1999,'0.2,1.76,'0.4,'0.9
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,1999,'0.35,NA,'0.95,2.1
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,1999,2.4,6.59,3.35,4.2
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,1999,'0.2,'0.58,'0.5,2
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,1999,NA,NA,1.2,1.25
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,1999,5.3,8.43,6.16,8
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,1999,'0.3,1.43,1.1,1.35
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,1999,2.2,3.69,2.7,4.7
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.54027778,92.4375,Anipur,"Tube Well",W12345,1999,NA,NA,NA,2
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,1998,NA,'0.97,1.53,'0.4
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,1998,NA,1.14,NA,'0.91
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,1998,1.75,4.14,2.47,2.42
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,1998,NA,1.2,NA,1.26
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,1998,NA,7.7,6.75,7.2
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.54027778,92.4375,Anipur,"Tube Well",W12345,1998,NA,NA,NA,1.3
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,1998,NA,1.93,NA,NA
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,1998,1.74,3.35,1.37,3
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,1998,NA,'0.61,'0.34,'0.46
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,1998,NA,1.14,1.97,'0.75
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,1997,2.65,3.44,3.64,4.09
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,1997,5.73,NA,NA,7.46
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,1997,'0.37,NA,'0.63,'0.39
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,1997,'0.36,1.44,'0.7,'0.33
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,1997,'0.68,NA,NA,'0.85
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.54027778,92.4375,Anipur,"Tube Well",W12345,1997,NA,NA,NA,1.31
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,1997,NA,1.46,NA,1.13
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,1997,1.04,1.9,1.8,1.17
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,1997,1.99,3.69,4.4,1.72
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,1997,'0.63,1.36,1.7,'0.54
-AS,Karimganj,Badarpur,Nilambazar,24.86666667,92.56666667,Badarpur-2,"Dug Well",W12336,1996,1.6,3,3.17,1.63
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.54027778,92.4375,Anipur,"Tube Well",W12345,1996,'0.97,1.59,NA,1.14
-AS,Karimganj,Patharkandi,Nilambazar,24.64166667,92.35416667,Dhaulia,"Dug Well",W12342,1996,'0.38,'0.7,NA,'0.34
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.5625,92.41388889,Sarkaribari,"Dug Well",W12347,1996,'0.39,1.05,NA,'0.74
-AS,Karimganj,Patharkandi,Nilambazar,24.43333333,92.29166667,Hatikira,"Dug Well",W12343,1996,2.62,4.44,1.11,2.94
-AS,Karimganj,Patharkandi,Nilambazar,24.66666667,92.37083333,Pallimangal,"Dug Well",W12344,1996,1.21,1.75,1.38,1.26
-AS,Karimganj,Badarpur,Nilambazar,24.86111111,92.55833333,Shrigauri,"Dug Well",W12340,1996,'0.25,'0.7,1.63,'0.33
-AS,Karimganj,Badarpur,Nilambazar,24.84861111,92.50694444,Badarpur-1,"Tube Well",W12337,1996,'0.69,1.08,1.98,'0.78
-AS,Karimganj,Karimganj,Nilambazar,24.84583333,92.425,Chorgula,"Dug Well",W12341,1996,'0.6,NA,'0.7,'0.67
-AS,Karimganj,"Ramkrishna Nagar",Nilambazar,24.53888889,92.48333333,R.k.nagar,"Dug Well",W12346,1996,6.05,7.1,NA,6.78
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2018,2.07,3.4,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Donkamokam,"Dug Well",W29452,2018,NA,3.62,'0.97,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2018,NA,NA,3.3,4.37
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2018,NA,5.3,11,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2018,NA,3.5,4.56,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2018,NA,5.35,6.75,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2018,NA,3.3,3,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2018,NA,3.8,1.86,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2018,NA,2.35,2.03,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2018,NA,6.6,2.36,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2018,NA,4.1,5.52,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2018,NA,11.4,7.16,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2018,NA,4.52,5.68,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2018,NA,5.79,5.69,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2018,NA,3.9,17.22,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2018,NA,3.1,2.7,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2018,NA,6.8,2.53,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2018,NA,2.75,NA,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2017,3.5,3.65,2.5,3.89
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Donkamokam,"Dug Well",W29452,2017,5.68,4.02,3.12,6.65
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2017,5.8,4.01,3.23,6.5
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2017,2.1,2.2,2.93,3.76
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2017,4.65,2.78,3.2,4.65
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2017,6.54,7,2.1,7.08
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2017,3.58,2.7,2.4,4.1
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2017,2.43,3.46,3.11,4.3
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2017,6.36,8.46,7.57,5.2
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2017,2.35,3.25,2.45,5.6
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2017,3.23,10.79,3.68,7.1
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2017,2.12,4.89,2.25,6.12
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2017,18.9,19.5,18.48,4.57
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2017,6.7,2.32,6.7,2.11
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2017,NA,4.11,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2017,NA,9.5,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2017,6.29,8.3,5.26,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2017,4.1,3.61,3.8,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2017,NA,NA,3.97,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2017,6.25,5.35,NA,6.2
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2017,6.32,5.03,5.2,7.12
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2016,1.8,NA,1.97,2.41
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,"Deopani New","Dug Well",W31765,2016,NA,NA,NA,11.61
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2016,2.33,NA,2.29,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2016,1.91,NA,4.27,4.21
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2016,2.3,NA,2.16,6.65
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2016,1.56,NA,4.56,2.38
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2016,1.06,NA,6.02,4.53
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2016,8.1,NA,5.3,6.12
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2016,NA,NA,2.87,3.89
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2016,2.86,NA,16.21,19
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2016,NA,NA,2.55,3.4
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2016,NA,NA,2.78,4.15
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2016,NA,NA,2.65,5.25
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2016,NA,NA,4.58,5.65
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2016,NA,NA,NA,7.7
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2016,NA,NA,NA,5.12
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2016,NA,NA,3.54,5.25
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2016,NA,NA,NA,5.32
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Donkamokam,"Dug Well",W29452,2016,NA,3.07,3.54,4.12
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2016,7.05,NA,8.4,13.04
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2015,1.18,3.27,2.05,2.52
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Donkamokam,"Dug Well",W29452,2015,1.58,NA,1.42,1.95
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2015,3.95,6.84,2.31,11.57
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2015,3.51,6.56,4.26,3.51
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2015,1.7,4.47,2.15,7.35
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2015,1.29,4.04,3.19,4.49
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2015,1.18,2.85,2.32,3.76
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2015,5.8,5.89,5.3,7.2
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2015,1.25,3.05,2.49,2.03
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2015,11.18,19.21,13.26,1.91
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2015,NA,4.22,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2015,'0.4,1.92,1.45,4.18
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2015,NA,2.95,3.08,2.02
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2015,2.32,2.61,3.17,15.53
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2015,2.89,3.25,2.02,3.18
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2015,1.58,2.31,1.42,6.68
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2015,NA,NA,NA,2.97
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2015,2.51,NA,1.88,9.93
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2015,NA,NA,NA,5.5
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2015,NA,NA,2.68,8.28
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2015,NA,4.39,8.5,12.26
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2014,1.53,3.16,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2014,1.24,7.79,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2014,6.57,10.58,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2014,NA,NA,NA,3.91
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2014,3.07,3.99,NA,4.81
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2014,6.7,NA,NA,3.4
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2014,7.9,8.45,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2014,4.12,7.83,NA,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2014,1.36,1.5,NA,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2014,NA,NA,NA,1.31
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2014,1.52,3.77,NA,4.31
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2014,2.33,NA,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2014,'0.69,NA,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2014,3.08,6.26,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2014,3.15,4.13,NA,5.38
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2014,'0.46,NA,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2014,NA,4.39,NA,4
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2013,1.28,3.18,2.22,3.22
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,"Deopani New","Dug Well",W31765,2013,NA,10.11,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2013,NA,4.29,NA,'0.82
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2013,8.22,NA,8.27,10.57
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2013,NA,3.76,NA,2.8
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2013,NA,4.66,NA,4.66
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2013,3.21,4.24,3.81,3.99
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2013,NA,3.23,NA,3.67
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2013,4.08,NA,4.84,5.87
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2013,7.12,8.23,7.51,8.27
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2013,1.69,2.04,1.77,2.76
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2013,NA,19.03,NA,19.07
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2013,NA,4.11,NA,4.11
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2013,NA,1.7,1.05,2.39
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2013,5.08,5.68,NA,6.08
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2013,NA,NA,NA,'0.95
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2013,NA,1.28,2.1,'0.87
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2013,5.61,6.35,1.64,6.61
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2013,NA,NA,2.77,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,2013,NA,NA,NA,'0.9
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2013,NA,2.43,9.53,'0.67
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2013,NA,2.77,3.57,'0.77
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2013,NA,8.24,7.25,'0.88
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Donkamokam,"Dug Well",W29452,2013,NA,NA,4.26,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2013,4.25,NA,NA,'0.7
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2012,NA,3.52,2.76,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2012,NA,8.52,7.67,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2012,NA,6.58,4.16,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2012,NA,NA,9.92,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2012,NA,6.55,2.42,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2012,NA,8.21,4.53,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2012,NA,3.87,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2012,NA,6.12,2.44,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2012,NA,8.63,5.75,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2012,NA,8.01,8.16,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2012,NA,2.12,NA,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2012,NA,16.11,18.96,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2012,NA,10.46,4,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2012,NA,5.63,1.17,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2012,NA,5.22,5.12,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2012,NA,15.52,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2012,NA,3.17,'0.63,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2012,NA,6.96,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2012,NA,3.28,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2012,NA,7.87,2.18,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2012,NA,5.12,2.33,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2012,NA,6.1,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2011,2.12,2.3,2.24,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2011,8.1,9.23,8.22,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2011,4.22,4.69,4.36,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2011,3.86,4.39,3.91,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2011,4.25,6.9,6.25,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2011,4.71,4.61,3.34,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2011,1.76,4.34,4.17,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2011,6.25,6.5,5.85,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2011,7.36,7.51,5.27,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2011,1.23,1.6,1.52,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2011,18.59,19.58,7.28,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2011,3.96,6.5,4.69,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2011,'0.64,2.04,'0.9,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2011,2.3,NA,2.54,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2011,3.31,NA,3.62,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2011,'0.69,NA,1.02,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2011,'0.66,6.26,'0.79,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2011,1.89,3.98,2.2,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,2011,NA,3.5,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2011,2.17,9.48,2.39,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2011,2.89,6.5,3.05,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2011,4.31,10.01,9.47,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2010,1.24,5,1.54,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2010,6.85,8.6,8.82,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2010,2.07,NA,2.32,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2010,2,6.36,3.51,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2010,2.77,NA,3.22,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2010,1.54,6.1,2.33,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2010,1.35,6.6,1.7,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2010,4.64,6.7,5.1,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2010,6.7,7.2,7.39,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2010,'0.65,2.76,'0.8,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2010,4.67,13.95,18.91,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2010,2.51,8.49,2.98,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2010,'0.5,3.22,1.47,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2010,NA,5.25,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2010,'0.7,4.09,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2010,2.43,5.04,3.46,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2010,2.06,3.59,3.33,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,2010,3.23,6.07,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2010,5.54,7.96,8.63,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2010,3.24,6.48,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2010,NA,11.6,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2009,NA,3.75,2.23,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2009,7.39,8.14,7.96,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2009,NA,5.27,3.11,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2009,NA,NA,6.02,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2009,NA,4.53,3.98,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2009,NA,6.28,4.87,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2009,NA,7.52,4.87,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2009,NA,4.26,2.65,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2009,NA,4.59,4.27,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2009,NA,8.2,6.63,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2009,7.11,NA,6.38,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2009,1.85,4.44,1.56,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2009,NA,11.33,NA,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2009,NA,4.86,3.43,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2009,'0.96,2.56,1.57,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2009,NA,5.12,3.63,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2009,NA,12.22,5.78,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2009,'0.8,3.49,1.65,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2009,1.21,4.87,3.48,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2009,NA,3.79,2.96,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2009,NA,6.43,5.77,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2009,3.42,6.29,4.26,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2009,NA,10.33,7.23,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2008,1.85,3.06,3.24,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2008,3.48,9.59,7.14,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2008,1.49,6.68,2.55,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2008,NA,7.5,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2008,1.23,3.61,3.28,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2008,2.46,8.01,4.17,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2008,2.7,4.45,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2008,1.68,3.75,2.36,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2008,2.71,6.08,2.77,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2008,4.72,8.43,5.88,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2008,6.14,8.24,NA,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2008,1.34,2.64,'0.76,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2008,3.87,16.01,6.27,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2008,2.55,10.58,3.49,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2008,'0.36,3.94,2.73,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2008,3.53,4.01,5.62,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2008,6.77,8.91,11.45,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2008,'0.27,3.74,'0.97,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2008,'0.66,6.07,1.02,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2008,'0.65,3.74,3.23,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2008,6.97,9.3,9.05,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2008,6.52,6.03,4.18,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2008,NA,4.03,6.67,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2007,1.69,3.93,3.04,'0.98
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2007,7.36,10.85,5.07,'0.49
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2007,2.01,4.28,NA,6.05
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2007,1.4,NA,4.02,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2007,NA,3.29,2.7,7.17
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2007,NA,4.17,4.25,8.44
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2007,NA,3.33,NA,7.36
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2007,'0.75,2.3,2.64,4.18
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2007,NA,4.3,1.51,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2007,3.28,6.1,5.61,8.81
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2007,6.59,2.56,6.1,5.9
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2007,'0.74,2.03,1.46,1.04
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2007,NA,7.11,6.1,12.48
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2007,NA,2.61,3.69,5.09
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2007,'0.42,1.86,3.02,'0.42
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2007,3.24,3.81,5.68,2.37
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2007,3.34,9.54,8.46,'0.55
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2007,'0.62,3.14,1.07,'0.49
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2007,'0.53,4.06,2.45,'0.82
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2007,2.34,3.68,1,1.95
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2007,8.74,6.38,8.76,3.28
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2007,3.25,6.18,7.02,4.78
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2007,5.22,NA,8.95,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2006,2.96,2.7,NA,2.49
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2006,8.25,NA,NA,8.74
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2006,4.09,NA,3.91,6
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2006,2.01,4.51,2.76,4.29
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2006,5.63,5.37,3.87,7.15
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2006,2.93,NA,3.33,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2006,2.25,3.91,1.35,2.49
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2006,2.66,NA,4.19,5.22
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2006,5.94,6.6,6.02,8.24
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2006,7.79,8.11,8.39,8.43
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2006,1.28,NA,1.59,4.34
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2006,2.51,14.11,6.37,14.5
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2006,4.22,8.25,1.58,3.68
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,2006,NA,NA,1.8,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2006,'0.97,NA,3.27,2.4
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2006,4.93,NA,5.88,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2006,4.25,NA,10.52,7.22
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2006,'0.44,NA,1.03,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2006,'0.67,NA,2.13,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2006,2.96,NA,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2006,8.92,NA,NA,4.66
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2006,4.66,NA,NA,5
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2006,NA,6.13,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2005,1.72,2,1.9,1.82
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2005,7.43,7.28,NA,6.58
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2005,4.28,5,4.23,5.02
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2005,NA,4.12,3.77,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2005,1.52,3.25,2.01,2.18
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2005,3.34,5.1,NA,5.78
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2005,9.67,9.45,9.17,9.76
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2005,1.5,3.86,2.7,3.81
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2005,3.89,4.2,NA,4.42
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2005,1.84,7.75,5.75,5.54
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2005,NA,7.58,7.65,8.14
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2005,'0.82,1.34,NA,1.7
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2005,2.91,8,3.01,4.25
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2005,6.81,5.18,5,7.73
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,2005,'0.4,5.2,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2005,'0.46,1.85,NA,1.62
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2005,3.3,4.5,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2005,3.86,6.85,NA,6.37
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2005,'0.75,2.1,NA,'0.57
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2005,'0.67,2.55,NA,1.48
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2005,2.47,3.17,NA,2.65
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2005,9.05,3.6,NA,5.27
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2005,3.37,3.22,NA,4.71
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2005,5.7,8,6.9,7.93
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2004,1.7,1.97,1.85,1.86
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2004,6.6,8.14,7,7.97
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2004,4.13,5.13,4.3,3.9
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2004,NA,4.02,3.8,3.93
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2004,1.87,3.39,2.1,1.38
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2004,3.28,5.15,4.5,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2004,9.72,9.48,9.31,8.44
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2004,1.36,4.12,2.8,2.98
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2004,2.38,3.87,3.2,3.01
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2004,5.42,8.85,5.85,8.22
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2004,6,8.32,6.64,8.42
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2004,1.48,1.41,1.1,1.09
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2004,8.26,10.7,5.2,6.19
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2004,7.16,5.02,4.98,6.5
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,2004,NA,5.23,5,5.36
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2004,'0.47,2.13,'0.98,2.76
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2004,NA,4.76,4.17,4.88
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2004,3.35,7.32,5,8.07
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2004,NA,2.17,1.85,2.79
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2004,'0.18,3.17,1.16,3.85
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2004,1.99,2.56,2.93,2.92
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2004,4.85,6.01,3.25,6.26
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2004,3.82,4.47,3.11,5.24
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2004,6.07,7.52,6.9,8
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2003,2.3,3.98,4.19,5.08
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2003,'0.64,2.07,1.1,'0.93
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2003,'0.2,1.66,1.91,'0.55
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2003,'0.28,3.29,1.14,'0.37
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2003,1.89,3.2,2.95,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2003,2.17,6.33,3.21,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2003,2.89,4.72,3.07,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2003,8.15,8.28,6.92,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2003,1.71,2.33,1.87,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2003,5.53,8.93,7.05,8.23
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2003,1.75,4.72,4.31,4.87
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2003,3.23,NA,3.87,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2003,'0.46,3.47,2.14,3.2
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2003,1.58,5.47,4.55,6.87
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2003,7.9,9.57,9.3,9.53
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2003,2.13,3.44,2.86,3.53
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2003,2.6,4.08,3.24,4.24
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2003,4.75,9.11,5.82,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2003,6.12,8.14,7.99,8.39
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2003,1.23,2.12,1.04,'0.96
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2003,2.18,8.28,5.23,3.33
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2003,6.85,5.66,5.01,7.36
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,2003,3.74,5.62,4.98,4.33
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2003,3.31,5.91,4.93,10.04
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2002,2.22,NA,3.26,4.54
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2002,3.58,NA,5.21,6.17
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2002,'0.02,1.31,1.31,'0.58
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2002,'0.38,4.93,2.63,'0.32
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2002,2.12,2.29,2.37,2.02
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2002,2.28,7.6,5.54,3.45
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2002,2.59,4.75,3.95,4.77
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2002,7.91,8.52,7.9,9.36
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2002,1.75,3.45,2.5,2.66
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2002,6.7,9.08,7.93,8.33
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2002,3.54,4.82,3.78,4.78
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2002,3.68,NA,3.85,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2002,1.51,3.67,1.21,'0.54
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2002,6.24,3.3,4.8,7.8
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2002,9.22,9.7,8.82,9.82
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2002,1.47,5.11,3.41,3.71
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2002,2.88,3.03,3.45,2.9
+AS,"Karbi Anglong",Diphu,Silonijan,26.12277778,93.7825,"Nambor adarsh","Tube Well",W12316,2002,2.63,NA,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2002,5.15,4.6,5.3,4.89
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2002,6.91,8.26,7.41,8.09
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2002,'0.99,1.68,1.24,'0.69
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2002,2.97,8.91,2.3,3.81
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2002,7.13,NA,5.53,6.24
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,2002,1.36,4.35,4.95,4.27
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2002,'0.63,2.05,1.26,1.07
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2001,3.25,NA,4.47,4.61
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,2001,3.34,3.34,NA,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2001,7.27,6.16,7.45,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2001,1.56,9.31,7.21,5.1
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2001,1.42,1.16,1.3,'0.85
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2001,7.95,6.75,7.58,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2001,5.55,8.1,4.32,8.3
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2001,3.51,4.2,3.34,3.6
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2001,3.52,3.6,3.21,4.8
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2001,9.62,10.32,3.13,9.5
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,2001,4.73,NA,3.5,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2001,'0.51,3.41,1.99,3.8
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2001,3.9,4.57,4.25,5.7
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2001,4.46,4.81,NA,4
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2001,8.43,8.95,7.7,9
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2001,2.02,2.93,1.85,3.6
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2001,8.32,8.42,8.06,8.54
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2001,3.43,3.83,4.09,4.73
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2001,4.73,7.93,7.02,10.28
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,2001,NA,3.56,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2001,2.13,2.26,2.34,2.53
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2001,1.66,NA,1.97,1.7
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2001,'0.36,NA,'0.96,'0.97
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2001,4.33,NA,5.41,6.25
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2001,'0.93,2.51,1.43,1.08
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,2000,6.4,4.41,6.17,8.18
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,2000,3.6,4.59,4.41,4.6
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,2000,7.81,13.8,7.17,12.04
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,2000,5.63,8.57,8.2,9.2
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,2000,2.73,4.29,3.05,4.5
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,2000,1.7,2.61,2.72,4.27
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,2000,'0.57,2.3,1.35,2.22
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,2000,NA,8.49,7.55,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,2000,1.01,3.46,2.9,1.81
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,2000,NA,4.96,4.08,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,2000,'0.56,1.87,'0.97,6.4
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,2000,1.38,7.18,7.07,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,2000,8.05,6.84,9.4,10.32
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,2000,1.4,3.97,NA,NA
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,2000,3.78,NA,5.14,6.68
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,2000,2.23,2.88,2.33,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,2000,4.19,7.82,5.67,4.99
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,2000,'0.81,NA,1.16,5.15
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11611111,93.06055556,Ongaon-I,"Tube Well",W12327,2000,'0.1,NA,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,2000,1.24,3.07,2.47,3.27
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,2000,'0.73,1.61,'0.97,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,2000,'0.53,NA,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,2000,3.75,NA,5.45,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,2000,'0.75,3.61,4.53,1.45
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,2000,1.68,4.24,4.93,2.83
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,1999,'0.52,1.76,1.07,4.46
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,1999,NA,4.66,4.3,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,1999,2.2,9.96,NA,11.2
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,1999,1.3,1.36,2.19,2.69
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,1999,NA,2.88,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,1999,2.21,2.31,3.29,3.38
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,1999,3.02,4.18,4.14,4.65
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,1999,4.21,2.24,7.91,13.55
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,1999,3.76,4.9,4.26,6.02
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,1999,8.32,8.78,8.1,9.16
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,1999,1.73,3.1,1.8,4.49
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,1999,6.03,8.98,7.74,8.77
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,1999,3.45,3.62,4.37,5.02
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,1999,3.03,4.2,3.35,6.64
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,1999,'0.77,3.68,3.13,4.02
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,1999,4.5,NA,4.93,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,1999,9.4,10.91,10.13,NA
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,1999,1.63,4.89,2.02,5.12
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,1999,2.82,4.33,3.23,5.04
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,1999,5.58,7.2,6.12,7.48
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,1999,6.51,8.03,7.39,8.68
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,1999,'0.38,'0.89,'0.91,4.11
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,1999,3,8.61,5.73,15.2
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,1999,6.38,5.71,6.67,9.27
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,1998,3.53,3.58,4.88,3.2
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,1998,'0.98,2,1.26,'0.49
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,1998,'0.48,1.42,'0.92,'0.57
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,1998,'0.07,6.22,2.27,'0.63
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,1998,2.28,2.73,2.3,2.26
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,1998,4.24,6.55,3.9,7.38
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,1998,'0.87,1.78,1.52,1.53
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,1998,5.41,6.03,4.77,3.39
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84166667,92.80027778,Khanajan,"Tube Well",W12334,1998,'0.98,NA,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,1998,8.85,7.59,8.64,8.78
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,1998,1.65,3.06,2.13,1.91
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,1998,3.56,8.47,8.3,8.7
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,1998,2.1,6.95,2.54,4.8
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,1998,1.65,5.82,3.77,4.02
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,1998,2.63,3.98,3.03,4.3
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,1998,1.38,NA,NA,4.37
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,1998,4.38,10.22,9.88,10.13
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,1998,1.6,2.48,4.3,3.23
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,1998,1.73,4.61,3.95,3.15
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,1998,3.4,7.46,6.12,6.1
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,1998,6.59,8.21,7.9,4.13
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,1998,'0.43,'0.98,'0.95,'0.83
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,1998,4.68,14.48,7.8,9.2
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,1998,1.96,6.65,5.08,5.48
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,1998,1.01,2.76,NA,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,1998,3.23,6.82,8.69,4.65
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,1997,3.43,4.52,3,4.83
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,1997,'0.81,2.19,1.52,1.53
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,1997,'0.37,2.2,1.13,1.67
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,1997,'0.04,5.11,5.11,3.67
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,1997,2.03,2.34,2.33,3.19
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,1997,4.17,3.02,7,4.23
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,1997,10.43,9.17,1.63,9.89
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,1997,5.63,4.78,4.25,5.91
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84166667,92.80027778,Khanajan,"Tube Well",W12334,1997,'0.87,NA,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,1997,8.93,8.85,8.06,8.69
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,1997,1.8,3.28,2.67,2.85
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,1997,7.19,8.75,9.58,8.56
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,1997,3.9,6.81,5.62,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,1997,3.86,4.85,6.13,5.73
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,1997,1.22,3.92,3.28,2.65
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,1997,NA,4.45,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,1997,9.54,10.12,10.26,8.99
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,1997,1.62,3.41,2.39,1.53
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,1997,3.88,4.51,5.08,4.59
+AS,"Karbi Anglong",Diphu,Silonijan,26.12277778,93.7825,"Nambor adarsh","Tube Well",W12316,1997,NA,4.01,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,1997,5.11,6.98,6.46,8.33
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,1997,4.07,8.6,6.88,5.31
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,1997,'0.49,1.2,1.01,1.83
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,1997,8.67,7.3,14.16,9.19
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,1997,7.7,5.81,5.94,10.73
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,1997,'0.62,3.67,2.18,4.89
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,1997,2.99,7.23,6.63,7.96
+AS,"Karbi Anglong",Phuloni,Silonijan,26.27805556,93.13861111,Dentaghat,"Dug Well",W12324,1996,3.55,4.39,4.14,4.67
+AS,"Karbi Anglong",Phuloni,Silonijan,26.19333333,92.96583333,Dengaon,"Dug Well",W12323,1996,'0.57,1.55,'0.89,1.38
+AS,"Karbi Anglong",Phuloni,Silonijan,26.24916667,93.15111111,Manikpur,"Dug Well",W12326,1996,'0.29,1.48,1.08,1.33
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11611111,93.06055556,Ongaon-I,"Tube Well",W12327,1996,NA,3.2,'0.96,NA
+AS,"Karbi Anglong",Phuloni,Silonijan,26.18222222,93.14694444,Phuloni,"Dug Well",W12328,1996,'0.02,4.16,2.65,3.41
+AS,"Karbi Anglong",Silonijan,Silonijan,25.93333333,92.70861111,Boithalangsu,"Dug Well",W12329,1996,1.96,2.31,2.15,3.36
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86333333,92.59694444,Hamren,"Dug Well",W12331,1996,4.34,4.3,3.7,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84611111,92.96472222,Hawaipur,"Dug Well",W12332,1996,10.67,7.42,8.02,8.35
+AS,"Karbi Anglong",Silonijan,Silonijan,25.86194444,92.76833333,Kalonga,"Dug Well",W12333,1996,5.87,4.81,3.4,5.31
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84166667,92.80027778,Khanajan,"Tube Well",W12334,1996,'0.9,2.91,NA,NA
+AS,"Karbi Anglong",Silonijan,Silonijan,25.84694444,92.89777778,Kheronighat,"Dug Well",W12335,1996,8.81,7.45,8.32,8.25
+AS,"Karbi Anglong",Diphu,Silonijan,26.15694444,93.8,Balipathar,"Dug Well",W12306,1996,2.53,2.35,3.02,2.12
+AS,"Karbi Anglong",Diphu,Silonijan,26.025,93.78,Bokajan,"Dug Well",W12307,1996,7.13,8.85,7.8,6.25
+AS,"Karbi Anglong",Diphu,Silonijan,26.01305556,93.40055556,Borjan,"Dug Well",W12308,1996,3.72,4.21,5.02,4.12
+AS,"Karbi Anglong",Diphu,Silonijan,26.22083333,93.84222222,Deopani,"Dug Well",W12309,1996,2.97,NA,5.12,4.21
+AS,"Karbi Anglong",Diphu,Silonijan,25.9625,93.585,Dillai,"Dug Well",W12311,1996,1.67,3.21,3.12,2.15
+AS,"Karbi Anglong",Diphu,Silonijan,26.01861111,93.63361111,Hidipi,"Dug Well",W12312,1996,NA,3.51,7.01,4.01
+AS,"Karbi Anglong",Diphu,Silonijan,26.03333333,93.23333333,Karamsa,"Dug Well",W12313,1996,9.7,9.41,10.11,9.72
+AS,"Karbi Anglong",Diphu,Silonijan,25.97722222,93.7625,Khatkhati,"Dug Well",W12314,1996,3.73,2.54,3.01,2.01
+AS,"Karbi Anglong",Diphu,Silonijan,25.95694444,93.4425,Manja,"Dug Well",W12315,1996,2.75,3.52,4.11,3.21
+AS,"Karbi Anglong",Diphu,Silonijan,26.12277778,93.7825,"Nambor adarsh","Tube Well",W12316,1996,NA,3.56,NA,NA
+AS,"Karbi Anglong",Diphu,Silonijan,26.31666667,93.875,Silanijan,"Dug Well",W12317,1996,8.13,2.54,4.51,5.05
+AS,"Karbi Anglong",Diphu,Silonijan,26.54166667,93.45,Siljuri,"Dug Well",W12318,1996,6.79,7.95,6.75,5.95
+AS,"Karbi Anglong",Donka,Silonijan,25.875,93.53333333,Bokulia,"Dug Well",W12319,1996,'0.41,1.23,'0.48,1.31
+AS,"Karbi Anglong",Donka,Silonijan,25.84166667,93.45,Diphu,"Dug Well",W12320,1996,8.79,4.21,6.12,9.45
+AS,"Karbi Anglong",Donka,Silonijan,25.90277778,93.53333333,Hapjan,"Dug Well",W12321,1996,9.28,7.75,6.21,4.95
+AS,"Karbi Anglong",Phuloni,Silonijan,26.11694444,93.09388889,Amoni,"Dug Well",W12322,1996,1.18,2.14,'0.65,3.15
+AS,"Karbi Anglong",Phuloni,Silonijan,26.22083333,93.05388889,Habranrangapar,"Dug Well",W12325,1996,2.77,6.18,5.97,7.72

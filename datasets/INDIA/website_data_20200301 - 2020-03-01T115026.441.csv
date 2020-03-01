@@ -1,0 +1,405 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2018,4.66,7.6,NA,NA
+GJ,Narmada,Sagbara,Sagbara,21.58527778,73.72388889,"Dev Mogra","Dug Well",W31388,2018,NA,6.6,NA,NA
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2018,30.26,31.27,NA,NA
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2018,9.13,10.7,NA,NA
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2018,11.5,15,NA,NA
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2018,1.06,1.05,NA,NA
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2018,22.02,25.1,NA,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2018,7.42,4.85,NA,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2018,2.81,2.4,NA,NA
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2018,'0.86,1.29,NA,NA
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2018,NA,20.8,15.41,NA
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2018,NA,4.9,4.4,NA
+GJ,Narmada,Nandod,Nandod,21.83888889,73.53472222,Sunderpura_Pz,"Bore Well",W21922,2018,NA,30.6,30.21,NA
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2018,NA,4.3,6.94,NA
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2018,NA,2.25,NA,NA
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2018,NA,NA,3.25,9.25
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2018,NA,NA,NA,27.44
+GJ,Narmada,Sagbara,Sagbara,21.48805556,73.88305556,Umran,"Dug Well",W27179,2018,NA,5.4,2.62,NA
+GJ,Narmada,Sagbara,Sagbara,21.61,73.76333333,"Selemba 1","Dug Well",W27255,2018,7.27,6.8,NA,NA
+GJ,Narmada,Dediapada,Dediapada,21.49222222,73.59694444,Jankh,"Dug Well",W27183,2018,1.51,'0.7,NA,NA
+GJ,Narmada,Dediapada,Dediapada,21.51388889,73.51944444,Khaidipada,"Dug Well",W27199,2018,'0.36,'0.8,NA,NA
+GJ,Narmada,Dediapada,Dediapada,21.52083333,73.64583333,"Kanbi pitha","Dug Well",W27201,2018,1.6,'0.75,NA,NA
+GJ,Narmada,Dediapada,Dediapada,21.55472222,73.47555556,Chuli,"Dug Well",W27221,2018,2.18,6.03,NA,NA
+GJ,Narmada,Dediapada,Dediapada,21.61,73.6525,Ralda,"Dug Well",W27254,2018,'0.8,'0.65,NA,NA
+GJ,Narmada,Dediapada,Dediapada,21.60888889,73.51083333,Almadi,"Dug Well",W27251,2018,'0.5,NA,NA,7.35
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2018,1.7,2.9,NA,NA
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2017,NA,NA,2.66,NA
+GJ,Narmada,Sagbara,Sagbara,21.58527778,73.72388889,"Dev Mogra","Dug Well",W31388,2017,4.25,7,NA,7
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2017,NA,9.25,NA,9.25
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2017,NA,17.5,NA,13.15
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2017,7.3,8.4,7.72,9.8
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2017,18.25,19.76,15.9,21.94
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2017,'0.64,4.24,2.85,5.45
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2017,29.8,29.82,29.5,31.43
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2017,4.2,3.65,2.95,7.82
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2017,10.8,11.35,9.65,11.69
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2017,2.2,2.23,1.6,1.66
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2017,22.9,22.39,22.94,22.34
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2017,7.6,12.05,10.85,11.97
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2017,3.7,4.35,3,5.16
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2017,'0.64,1.19,1.12,1.89
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2017,'0.45,8.65,3.04,4.56
+GJ,Narmada,Dediapada,Dediapada,21.51388889,73.51944444,Khaidipada,"Dug Well",W27199,2017,'0.1,'0.94,'0.72,5.3
+GJ,Narmada,Dediapada,Dediapada,21.55472222,73.47555556,Chuli,"Dug Well",W27221,2017,7.73,7.32,6.32,12.23
+GJ,Narmada,Dediapada,Dediapada,21.60888889,73.51083333,Almadi,"Dug Well",W27251,2017,1.45,3.47,1.81,7.35
+GJ,Narmada,Dediapada,Dediapada,21.61,73.6525,Ralda,"Dug Well",W27254,2017,2.65,1.73,1.95,4.6
+GJ,Narmada,Dediapada,Dediapada,21.49222222,73.59694444,Jankh,"Dug Well",W27183,2017,2.7,1.25,NA,3.58
+GJ,Narmada,Dediapada,Dediapada,21.52083333,73.64583333,"Kanbi pitha","Dug Well",W27201,2017,4.85,1.74,NA,1.49
+GJ,Narmada,Sagbara,Sagbara,21.61,73.76333333,"Selemba 1","Dug Well",W27255,2017,NA,6.4,NA,7.05
+GJ,Narmada,Sagbara,Sagbara,21.48805556,73.88305556,Umran,"Dug Well",W27179,2017,5.9,NA,NA,8
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2017,NA,NA,33.9,NA
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2016,NA,NA,NA,9.25
+GJ,Narmada,Sagbara,Sagbara,21.58527778,73.72388889,"Dev Mogra","Dug Well",W31388,2016,4.15,NA,NA,NA
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2016,1.64,NA,NA,7.98
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2016,11.15,NA,10.46,11.95
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2016,3.75,NA,7.35,5.22
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2016,4.97,NA,NA,30.05
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2016,3.7,NA,7.8,9.8
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2016,4.15,NA,4.56,4.73
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2016,9.58,NA,22.3,33.03
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2016,'0.99,NA,1.34,2.89
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2016,30.07,NA,29.31,26
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2016,NA,NA,NA,13.26
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2016,1.88,NA,1.6,2.25
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2016,7.71,NA,19.32,15.78
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2016,4.5,NA,3.55,2.63
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2016,7.2,NA,11.32,8.72
+GJ,Narmada,Dediapada,Dediapada,21.51388889,73.51944444,Khaidipada,"Dug Well",W27199,2016,'0.8,3.74,'0.24,5.68
+GJ,Narmada,Dediapada,Dediapada,21.52083333,73.64583333,"Kanbi pitha","Dug Well",W27201,2016,4.7,3.77,1.39,4.55
+GJ,Narmada,Dediapada,Dediapada,21.55472222,73.47555556,Chuli,"Dug Well",W27221,2016,7.33,9.69,5.65,12.23
+GJ,Narmada,Dediapada,Dediapada,21.60888889,73.51083333,Almadi,"Dug Well",W27251,2016,'0.72,7.25,1.6,7.35
+GJ,Narmada,Dediapada,Dediapada,21.61,73.6525,Ralda,"Dug Well",W27254,2016,1.45,2.66,1.54,5.05
+GJ,Narmada,Sagbara,Sagbara,21.61,73.76333333,"Selemba 1","Dug Well",W27255,2016,NA,7.04,5.95,8
+GJ,Narmada,Sagbara,Sagbara,21.48805556,73.88305556,Umran,"Dug Well",W27179,2016,5.17,NA,7.64,8
+GJ,Narmada,Dediapada,Dediapada,21.49222222,73.59694444,Jankh,"Dug Well",W27183,2016,1.2,3.19,'0.98,5.4
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2016,1.07,NA,3.05,5.45
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2015,NA,4.92,9.25,9.25
+GJ,Narmada,Sagbara,Sagbara,21.58527778,73.72388889,"Dev Mogra","Dug Well",W31388,2015,NA,NA,7,NA
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2015,3.48,7.98,NA,7.98
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2015,9.95,10.63,10.95,13.3
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2015,5.17,2.51,4.46,10.3
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2015,NA,30.85,NA,13.9
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2015,7.63,5.85,7.83,9.8
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2015,3.77,5.32,4.13,5.05
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2015,20.57,23.73,21.73,24.15
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2015,3.47,1.34,1.07,3.7
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2015,27.62,27.87,28.73,28.18
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2015,17.5,17.5,17.5,11.1
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2015,1.82,3.08,1.6,8.69
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2015,18.63,19.62,19.4,19.67
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2015,2.98,4.34,4.26,4.15
+GJ,Narmada,Nandod,Nandod,21.83888889,73.53472222,Sunderpura_Pz,"Bore Well",W21922,2015,NA,28.61,NA,28.78
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2015,8.8,3.8,11.22,3.82
+GJ,Narmada,Dediapada,Dediapada,21.51388889,73.51944444,Khaidipada,"Dug Well",W27199,2015,'0.14,2.24,'0.39,8.24
+GJ,Narmada,Dediapada,Dediapada,21.52083333,73.64583333,"Kanbi pitha","Dug Well",W27201,2015,4.61,2.47,2.44,24.02
+GJ,Narmada,Dediapada,Dediapada,21.55472222,73.47555556,Chuli,"Dug Well",W27221,2015,4.2,8.35,6.12,12.23
+GJ,Narmada,Sagbara,Sagbara,21.60833333,73.75833333,Selemba,"Dug Well",W27250,2015,8.3,NA,6.44,7.71
+GJ,Narmada,Dediapada,Dediapada,21.60888889,73.51083333,Almadi,"Dug Well",W27251,2015,4.21,4.25,1.85,7.35
+GJ,Narmada,Dediapada,Dediapada,21.61,73.6525,Ralda,"Dug Well",W27254,2015,2.44,NA,2,3.4
+GJ,Narmada,Sagbara,Sagbara,21.61,73.76333333,"Selemba 1","Dug Well",W27255,2015,NA,NA,NA,8.11
+GJ,Narmada,Sagbara,Sagbara,21.48805556,73.88305556,Umran,"Dug Well",W27179,2015,6.83,2.44,7.96,9
+GJ,Narmada,Dediapada,Dediapada,21.49222222,73.59694444,Jankh,"Dug Well",W27183,2015,4.62,1.88,1.09,7.75
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2015,5.13,4.9,5.42,5.45
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2014,2.455,3.3,3.21,5.42
+GJ,Narmada,Sagbara,Sagbara,21.58527778,73.72388889,"Dev Mogra","Dug Well",W31388,2014,NA,NA,3.08,NA
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2014,4.35,NA,NA,NA
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2014,8.34,9.17,9.72,11.27
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2014,NA,1.8,3.42,5.1
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2014,29.43,27.13,NA,32.61
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2014,5.55,4.65,4.18,9.8
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2014,'0.73,4.12,1.41,4.4
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2014,20.39,20.85,21.71,32.74
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2014,'0.97,1.34,1.04,3.36
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2014,25.34,24.09,27.05,25.81
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2014,NA,17.5,10,17.5
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2014,1.67,2.22,1.51,2.25
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2014,14.97,12.65,15.4,15.63
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2014,1.05,2.37,2.5,2.58
+GJ,Narmada,Nandod,Nandod,21.83888889,73.53472222,Sunderpura_Pz,"Bore Well",W21922,2014,28.24,27.73,27.77,32.27
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2014,3.76,7.06,'0.81,8.64
+GJ,Narmada,Dediapada,Dediapada,21.52083333,73.64583333,"Kanbi pitha","Dug Well",W27201,2014,NA,1.45,1.24,2.47
+GJ,Narmada,Sagbara,Sagbara,21.60833333,73.75833333,Selemba,"Dug Well",W27250,2014,NA,NA,6.34,7.3
+GJ,Narmada,Dediapada,Dediapada,21.60888889,73.51083333,Almadi,"Dug Well",W27251,2014,NA,NA,1.37,NA
+GJ,Narmada,Dediapada,Dediapada,21.61,73.6525,Ralda,"Dug Well",W27254,2014,NA,NA,2.92,NA
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2014,'0.63,3.4,3.85,5.45
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2013,NA,5.01,3.12,9.25
+GJ,Narmada,Sagbara,Sagbara,21.60833333,73.75833333,Selemba,"Dug Well",W27250,2013,NA,5.49,NA,7.62
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2013,NA,7.98,8.68,7.98
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2013,NA,11.6,9.08,11
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2013,NA,5.6,1.74,7.66
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2013,NA,30.62,27.22,NA
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2013,NA,6.35,4.61,9.8
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2013,NA,2.55,4.01,3.63
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2013,NA,21.3,NA,21.83
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2013,NA,1.26,1.17,1.82
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2013,NA,28.49,NA,28.97
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2013,NA,10.9,19.3,17.5
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2013,NA,2.2,2.15,1.63
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2013,NA,17.62,12.56,20.25
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2013,NA,5.4,2.27,7.15
+GJ,Narmada,Nandod,Nandod,21.83888889,73.53472222,Sunderpura_Pz,"Bore Well",W21922,2013,NA,27.57,27.6,29.04
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2013,NA,10.85,7.1,11.9
+GJ,Narmada,Dediapada,Dediapada,21.52083333,73.64583333,"Kanbi pitha","Dug Well",W27201,2013,NA,1.97,1.4,4.68
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2013,NA,5.1,3.34,5.45
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2012,NA,3.6,1.61,9.25
+GJ,Narmada,Sagbara,Sagbara,21.60833333,73.75833333,Selemba,"Dug Well",W27250,2012,NA,NA,4.51,NA
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2012,NA,7.98,7.98,7.98
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2012,NA,10.5,9.31,11.39
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2012,NA,2.6,6.46,4.84
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2012,NA,NA,26.66,NA
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2012,NA,7.85,6.44,9.69
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2012,NA,2.1,2.04,3.1
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2012,NA,21.15,22.22,18.65
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2012,NA,1.19,'0.99,1.68
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2012,NA,26.82,27.31,28.32
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2012,NA,NA,17.5,NA
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2012,NA,1.7,1.55,1.64
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2012,NA,11.57,19.32,19.23
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2012,NA,2.76,4.02,6.83
+GJ,Narmada,Nandod,Nandod,21.83888889,73.53472222,Sunderpura_Pz,"Bore Well",W21922,2012,NA,NA,27.84,37.46
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2012,NA,10.35,3.27,11.7
+GJ,Narmada,Dediapada,Dediapada,21.52083333,73.64583333,"Kanbi pitha","Dug Well",W27201,2012,NA,NA,1.45,NA
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2012,NA,3.68,1.48,5.45
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2011,2.31,3.32,3.41,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2011,1.87,10.75,2.98,12.8
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2011,2.4,7.98,7.98,NA
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2011,7.11,4.5,9.31,11.6
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2011,2.19,3.36,2.04,5.05
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2011,3.76,8.05,8.3,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2011,1.44,4.61,2.06,3.95
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2011,17.21,21.75,21.44,NA
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2011,1.43,1.24,2.46,1.69
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2011,24.52,27.22,30.62,NA
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2011,1.99,1.78,1.7,2.28
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2011,16.42,16.65,14.69,18.9
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2011,'0.56,4.11,2.69,7
+GJ,Narmada,Nandod,Nandod,21.83888889,73.53472222,Sunderpura_Pz,"Bore Well",W21922,2011,23.27,27.31,26.3,28.2
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2011,2.46,4.31,4.03,NA
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2010,6.85,3.48,2.93,8.68
+GJ,Narmada,Tilakwada,Tilakwada,22.03111111,73.65666667,Agar(Rep)_Pz,"Bore Well",W21923,2010,3,12.09,10.11,13.72
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2010,5.4,6.58,5.58,7.98
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2010,7.5,11.1,4.17,11.51
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2010,4.03,5.05,3.16,5.85
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2010,NA,34.2,NA,NA
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2010,5.75,8.2,7.12,9.8
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2010,3.4,4.83,3.06,5.2
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2010,32.1,21.17,22.01,23.32
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2010,1.19,1.33,1.11,1.59
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2010,26.77,27.69,26.47,30.27
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2010,NA,9.97,12.3,NA
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2010,1.85,2.28,1.71,1.73
+GJ,Narmada,Nandod,Nandod,21.79833333,73.37916667,"Baman Phalia_Pz","Bore Well",W21920,2010,19.7,18.44,16,21.36
+GJ,Narmada,Nandod,Nandod,21.88277778,73.70055556,Kewadia_Pz,"Bore Well",W21921,2010,2.6,4.89,3.19,7.34
+GJ,Narmada,Nandod,Nandod,21.83888889,73.53472222,Sunderpura_Pz,"Bore Well",W21922,2010,29,28.36,27.22,28.1
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2010,2.62,4.39,3.28,5.45
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2009,1.23,3.45,2.91,5.36
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2009,'0.15,3,2,4.6
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2009,4.95,6.25,5.41,7.7
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2009,9.85,10.38,10.38,11.41
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2009,5.15,2.9,5.35,4.31
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2009,3.95,9.8,7.6,9.8
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2009,27.45,28.92,34.2,34.2
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2009,21.58,11.51,21.36,21.05
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2009,'0.84,1.24,1.05,1.44
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2009,26.17,25.39,26.4,27.35
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2009,8.6,7.2,8.91,10.05
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2009,2.15,2.21,2.19,2.12
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2009,5.55,5.08,3.72,6
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2008,1.84,3.5,3.3,5.4
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2008,1.3,3.54,3.82,5.45
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2008,4.5,6.1,4.83,7.53
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2008,8.33,10.42,8.6,11.4
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2008,2.39,3.84,2.27,5.56
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2008,5.71,8.32,7.32,9.8
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2008,NA,NA,27.77,NA
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2008,22.31,22.18,22.3,21.92
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2008,1.1,1.14,1.22,1.42
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2008,24.52,25.22,24.45,27.27
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2008,7.31,9.48,NA,10.3
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2008,2.12,2.17,2.23,2.26
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2008,6.39,9.13,5.67,NA
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2007,2.15,3.74,2.73,5.29
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2007,'0.93,NA,'0.84,5.25
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2007,4.45,6.45,4.84,7.98
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,2007,27.22,NA,NA,NA
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2007,NA,10.94,8.62,11.48
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2007,3.45,6.54,3.26,8.81
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2007,29.15,29.32,NA,30.51
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2007,8.95,9.17,9.15,9.95
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2007,21.8,22.78,22.85,22.44
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2007,1.09,1.26,1.2,1.55
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2007,24.1,24.99,16.12,26.94
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2007,8.7,9.97,8.35,11.45
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2007,1.94,2.22,2.15,2.06
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2007,2.4,7.87,7.9,9.8
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2006,1.45,5.61,2.7,5.4
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2006,1.31,3.65,2.45,4.6
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2006,3.78,3.63,5.13,5.7
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,2006,NA,28.58,NA,NA
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2006,6.68,12.07,8.22,11.6
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2006,4.32,4.78,NA,6.3
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2006,18,28.64,27.5,28.83
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2006,6.76,9.97,9.78,12.32
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2006,NA,24.4,NA,NA
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2006,'0.89,1.2,1.09,1.27
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2006,20.07,NA,23.67,NA
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2006,6.62,10.29,9.35,13.37
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2006,1.55,2.03,1.9,2.08
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2006,4.8,8.67,7.51,9.05
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2005,2.35,3.37,2.37,5.52
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2005,3.6,2.92,2.02,5.35
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2005,4.77,6.07,4.97,7.8
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,2005,NA,NA,NA,31.8
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2005,8.65,11.16,8.85,11.98
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2005,5.2,8.22,3.46,5.7
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2005,28.7,34.2,34.2,34.2
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2005,13.9,14.5,13.23,15.17
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2005,25.3,24.2,24.36,25.24
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2005,1.11,1.17,1.13,1.57
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2005,25.67,26.83,25.19,28.01
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2005,9.54,NA,3.43,11.26
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2005,2.22,2.61,1.97,2.08
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2005,6.32,8.12,7.48,8.8
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2004,NA,3.45,2.82,5.43
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2004,NA,3.18,2.7,5.15
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2004,NA,6.1,5.12,8.14
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,2004,NA,NA,29.44,NA
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2004,NA,11.25,10.03,11.58
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2004,NA,4.22,3.79,5.24
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2004,NA,NA,28.16,29.56
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2004,NA,18.25,14.65,17.29
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2004,NA,NA,45.75,26.94
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2004,NA,1.19,1.15,1.57
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2004,NA,26.97,29.19,28.19
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2004,NA,NA,14.81,11.37
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2004,NA,2.05,2.1,2.09
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2004,NA,7.2,7.38,NA
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2003,1.35,4.1,2.71,NA
+GJ,Narmada,Kevadiya,Sagbara,21.60833333,73.75833333,"Dev mogra","Dug Well",W07995,2003,NA,3.62,NA,NA
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2003,'0.88,4.35,3.17,5.38
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2003,3.78,7.25,4.6,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.025,73.50972222,Bujetha,"Tube Well",W08001,2003,NA,NA,21.88,32.02
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2003,7.9,11.49,7.1,11.97
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2003,2.95,6.21,8.1,5.66
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2003,4.56,8.3,7.75,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2003,16.9,NA,16.7,NA
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2003,29.9,NA,28.51,29.21
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2003,'0.89,1.21,2.12,1.74
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2003,15.44,27.52,25.92,28.22
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2003,NA,11.21,10.4,NA
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2003,1.15,2.13,2.42,2.03
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2003,NA,29.08,NA,29
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2002,NA,NA,27.22,NA
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2002,11.47,12.65,11.12,13.86
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2002,2.04,2.32,2.07,2.35
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2002,5.53,5.14,6,5.38
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,2002,31.27,NA,NA,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.025,73.50972222,Bujetha,"Tube Well",W08001,2002,31.67,NA,31.67,NA
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2002,11.44,NA,NA,NA
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2002,'0.7,3.67,3.98,4.68
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2002,'0.9,1.35,1.32,1.07
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2002,2.35,3.58,3.09,4.08
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2002,6.29,6.43,6.16,NA
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2002,39.67,NA,29.42,NA
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2002,5.05,8.39,8.03,NA
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2002,29.3,NA,30.05,27.45
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2001,11.86,12.7,11.86,NA
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,2001,NA,30.81,30.2,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.025,73.50972222,Bujetha,"Tube Well",W08001,2001,NA,30.9,NA,NA
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2001,5,7.79,5.95,NA
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2001,1.84,5.67,2.65,NA
+GJ,Narmada,Kevadiya,Sagbara,21.60833333,73.75833333,"Dev mogra","Dug Well",W07995,2001,2.72,NA,NA,NA
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2001,2.54,5.19,NA,NA
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2001,29.7,28.91,29.5,30.4
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2001,2.28,NA,2.26,2.36
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2001,11.16,9.85,11.2,10.95
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2001,1.19,1.24,1.29,2.69
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2001,NA,28.61,29.23,29.03
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2001,6.93,8.55,8,NA
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2001,6.57,NA,5.28,5.57
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,2000,28.42,27.88,28.5,NA
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,2000,13.7,12.96,13.27,14.2
+GJ,Narmada,Tilakwada,Tilakwada,22.03055556,73.65277778,Agar,"Tube Well",W07998,2000,NA,12.85,NA,NA
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,2000,1.09,'0.3,1.04,1.14
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,2000,31.6,28.62,28.14,29.15
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,2000,6.65,6.93,7.2,7.7
+GJ,Narmada,Vadia,Nandod,21.875,73.5,Rajpipla,"Tube Well",W08704,2000,NA,NA,NA,26.75
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,2000,3.65,5.43,3.62,4.95
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,2000,8.8,10.1,9.88,9.25
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,2000,NA,16.18,NA,18.3
+GJ,Narmada,Tilakwada,Tilakwada,22.025,73.50972222,Bujetha,"Tube Well",W08001,2000,30.17,29.9,30.93,NA
+GJ,Narmada,Kevadiya,Sagbara,21.60833333,73.75833333,"Dev mogra","Dug Well",W07995,2000,2.83,5.11,4.38,3.97
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,2000,7.87,8.36,8.2,8.27
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,2000,30.45,30.36,30.71,30.7
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,2000,2.88,4.66,4.1,5.33
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,2000,5.46,5.67,5.63,6.75
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,2000,2.4,2.38,8,2.55
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,1999,21.4,29.1,27.8,29.8
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,1999,10.05,10.41,9.75,9.33
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,1999,'0.69,1.27,1.22,1.49
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,1999,29.3,27.25,1,7
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,1999,14.83,14.1,16,14.8
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,1999,7.81,7.38,7.9,9.8
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,1999,4.35,5.03,5.9,5.6
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,1999,11.4,11.26,12.43,13.7
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,1999,NA,29.71,30.25,30.2
+GJ,Narmada,Tilakwada,Tilakwada,22.025,73.50972222,Bujetha,"Tube Well",W08001,1999,28.3,29.51,1,29.62
+GJ,Narmada,Tilakwada,Tilakwada,21.96527778,73.5875,"Bhavpura i","Tube Well",W07999,1999,NA,NA,1,NA
+GJ,Narmada,Tilakwada,Tilakwada,22.03055556,73.65277778,Agar,"Tube Well",W07998,1999,10.45,NA,1,NA
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,1999,5.15,5.9,6.05,8.17
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,1999,3.77,3.45,3.12,4.52
+GJ,Narmada,Kevadiya,Sagbara,21.60833333,73.75833333,"Dev mogra","Dug Well",W07995,1999,3.15,2,2.93,3.75
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,1999,3.6,3.21,3.5,4.85
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,1999,2.5,3.05,2.47,2.4
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,1998,NA,NA,22.39,NA
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,1998,29.12,35.4,29.3,28.3
+GJ,Narmada,Tilakwada,Tilakwada,22.025,73.50972222,Bujetha,"Tube Well",W08001,1998,NA,30.79,29.67,7
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,1998,1.09,'0.49,1.19,1.19
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,1998,6.98,8.4,7.19,7.32
+GJ,Narmada,Tilakwada,Tilakwada,22.03055556,73.65277778,Agar,"Tube Well",W07998,1998,NA,9.57,NA,7
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,1998,9.42,NA,10.42,10.2
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,1998,6.26,5.32,5.58,6.45
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,1998,5.8,4.65,4.65,6.2
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,1998,1.78,3.49,2.75,4.15
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,1998,NA,36.3,27.5,7
+GJ,Narmada,Kevadiya,Sagbara,21.60833333,73.75833333,"Dev mogra","Dug Well",W07995,1998,2.71,NA,2.3,2.78
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,1998,11.15,11.9,10.8,13.9
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,1998,2.6,3.51,3,4.69
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,1998,2.51,2.49,2.7,2.53
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,1998,14.32,13.98,14,16.7
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,1997,28.48,29.25,28.1,29.2
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,1997,1.08,3.63,2.95,5.24
+GJ,Narmada,Kevadiya,Sagbara,21.60833333,73.75833333,"Dev mogra","Dug Well",W07995,1997,2.76,2.77,2.75,5.68
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,1997,'0.61,NA,2.7,5.15
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,1997,4.07,6.22,5.7,8
+GJ,Narmada,Tilakwada,Tilakwada,22.03055556,73.65277778,Agar,"Tube Well",W07998,1997,6.58,9.36,7,10.17
+GJ,Narmada,Tilakwada,Tilakwada,21.96527778,73.5875,"Bhavpura i","Tube Well",W07999,1997,34.56,35.55,7,36.22
+GJ,Narmada,Tilakwada,Tilakwada,22.025,73.50972222,Bujetha,"Tube Well",W08001,1997,29.48,29.42,7,31.98
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,1997,29.2,29.25,29.5,30.3
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,1997,7.01,11.77,11.7,11.79
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,1997,3.44,5.05,3.7,14.25
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,1997,NA,7.98,7.8,9.28
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,1997,13.04,14.2,14.8,14.93
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,1997,27.53,27.6,7,32.65
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,1997,'0.95,1.29,1.19,1.34
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,1997,8.31,11.54,10,10.72
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,1997,2.32,2.47,2.42,3.77
+GJ,Narmada,Kevadiya,Sagbara,21.54722222,73.76666667,Amayar,"Dug Well",W07994,1996,2.54,3.95,3.06,5.62
+GJ,Narmada,Vadia,Nandod,21.84722222,73.53611111,Sunderpura,"Dug Well",W08707,1996,28.35,14.7,29.17,28.84
+GJ,Narmada,Rajpipla,Dediapada,21.52083333,73.64583333,Chikada,"Dug Well",W07996,1996,1.23,3.74,3.5,5.95
+GJ,Narmada,Rajpipla,Dediapada,21.63333333,73.58333333,Dediapada,"Dug Well",W07997,1996,4.78,4.5,5.6,8.63
+GJ,Narmada,Tilakwada,Tilakwada,22.03055556,73.65277778,Agar,"Tube Well",W07998,1996,7.23,7,7,7
+GJ,Narmada,Tilakwada,Tilakwada,21.96527778,73.5875,"Bhavpura i","Tube Well",W07999,1996,34.71,7,34.7,7
+GJ,Narmada,Tilakwada,Tilakwada,22.025,73.50972222,Bujetha,"Tube Well",W08001,1996,29.9,7,29.8,7
+GJ,Narmada,Tilakwada,Tilakwada,21.95833333,73.61944444,"Gola talawadi","Dug Well",W08002,1996,33,30.18,28.83,33
+GJ,Narmada,Vadia,Nandod,21.89166667,73.65,Garudeshwar,"Dug Well",W08003,1996,7.3,11.88,10,13.8
+GJ,Narmada,Vadia,Nandod,21.86805556,73.6,Hirapura,"Dug Well",W08004,1996,4.32,5.34,4.72,5.01
+GJ,Narmada,Rajpipla,Dediapada,21.66944444,73.66666667,"Nani singlot","Dug Well",W08700,1996,5.75,8,7.87,9.62
+GJ,Narmada,Tilakwada,Tilakwada,22.04444444,73.62222222,Namaria,"Dug Well",W08701,1996,NA,11.6,14.8,16.6
+GJ,Narmada,Tilakwada,Tilakwada,21.96666667,73.625,Rasulpura,"Tube Well",W08702,1996,29.26,7,28.03,7
+GJ,Narmada,Vadia,Nandod,21.73333333,73.475,"Khota amba","Dug Well",W08703,1996,1.18,1.14,'0.3,1.41
+GJ,Narmada,Vadia,Nandod,21.925,73.49166667,Rasela,"Dug Well",W08705,1996,10.29,11.36,11.38,11.93
+GJ,Narmada,Vadia,Nandod,21.84166667,73.46666667,Ringani,"Dug Well",W08706,1996,2.73,9.95,2.72,2.53
+GJ,Narmada,Kevadiya,Sagbara,21.60833333,73.75833333,"Dev mogra","Dug Well",W07995,1996,2.58,3.36,2.6,7.5

@@ -1,0 +1,443 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2018,NA,9.99,14.54,NA
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2018,11.8,11.73,NA,NA
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2018,7.63,5.23,NA,NA
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2018,'0.82,1.46,NA,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2018,2.52,3.53,NA,NA
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2018,NA,15.95,NA,NA
+HR,Ambala,Ambala,Barara,30.31666667,76.98333333,Saha-Pz,"Tube Well",W30175,2018,NA,NA,NA,50
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2018,NA,3.27,NA,NA
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2018,13.57,NA,NA,13.11
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2018,1.06,NA,NA,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2018,8.06,NA,NA,7.93
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2018,NA,NA,NA,4.06
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2018,NA,2.6,NA,NA
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2017,9.78,14.55,NA,NA
+HR,Ambala,Ambala,Ambala,30.38333333,76.73333333,"Ambala City-DW","Dug Well",W30207,2017,NA,NA,1.67,NA
+HR,Ambala,Barara,Barara,30.28333333,77.03333333,"Uplana D","Tube Well",W32133,2017,NA,NA,44.07,44.82
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2017,3.2,3.3,4.3,4.7
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2017,1.95,2.42,3.35,2.59
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2017,7.43,NA,7.68,6.8
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2017,NA,NA,11.58,9.83
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2017,NA,NA,2.63,3.71
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2017,NA,NA,2.49,3.02
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2017,NA,NA,92.99,93.89
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2017,NA,NA,1.44,2.14
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2017,NA,NA,13.18,13.38
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2017,6.62,NA,NA,5.23
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2017,NA,NA,NA,2.32
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh-DW,"Dug Well",W33022,2017,NA,NA,13.89,14.79
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2016,NA,NA,10.7,10.83
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh-DW,"Dug Well",W33022,2016,NA,NA,14.27,14.69
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2016,NA,NA,22.85,NA
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2016,NA,NA,2.44,2.19
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2016,2.01,NA,2.22,2.45
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2016,5.93,NA,5.09,5.41
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2016,5.34,NA,5.32,5.72
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2016,4.2,NA,3.17,5.45
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2016,NA,NA,1.88,4.21
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2016,NA,NA,2.95,NA
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2016,NA,NA,14.48,NA
+HR,Ambala,Ambala,Ambala,30.26666667,76.85,Mohra-DW,"Dug Well",W30152,2016,NA,NA,NA,3.44
+HR,Ambala,Barara,Barara,30.28333333,77.03333333,"Uplana D","Tube Well",W32133,2016,NA,NA,45.13,43.8
+HR,Ambala,Naraingarh,Shahzadpur,30.43444444,76.955,Patvi,"Dug Well",W32149,2016,13.93,NA,NA,NA
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2016,NA,NA,1.82,2.11
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2015,NA,NA,9.64,10.56
+HR,Ambala,Panchkula,"Raipur Rani",30.54416667,77.04694444,"Shahjahan Pur-DW","Dug Well",W32160,2015,NA,NA,20.01,NA
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2015,NA,NA,NA,10.3
+HR,Ambala,Ambala,Ambala,30.32777778,76.9,Barakhuda,"Dug Well",W16082,2015,NA,7.21,NA,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2015,1.49,2.01,1.32,1.96
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2015,4.13,4.03,4.51,5.24
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2015,4.19,NA,4.19,5.45
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2015,4.2,4.7,3.24,5.62
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2015,'0.84,2.45,2.83,3.8
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2015,NA,NA,2.12,2.94
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2015,NA,NA,12.02,11.31
+HR,Ambala,Naraingarh,Shahzadpur,30.44166667,77.02083333,Shahzadpur,"Dug Well",W16110,2015,NA,NA,3.21,3.91
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2015,13.23,13.43,12.95,9.83
+HR,Ambala,Barara,Barara,30.19166667,76.98333333,"Ugala S","Tube Well",W22023,2015,NA,NA,34.2,34.3
+HR,Ambala,Barara,Barara,30.2125,77.03333333,"Barara S","Tube Well",W30135,2015,NA,NA,4.9,5.3
+HR,Ambala,Barara,Barara,30.21666667,77.05,Barara-Pz,"Tube Well",W30138,2015,NA,NA,19.15,20.17
+HR,Ambala,Ambala,Ambala,30.26666667,76.85,Mohra-DW,"Dug Well",W30152,2015,NA,NA,1.75,3.6
+HR,Ambala,Ambala,Ambala,30.28333333,76.65,Bhuragnpur-DW,"Dug Well",W30159,2015,NA,NA,4.08,4.58
+HR,Ambala,Ambala,Ambala,30.28333333,76.66666667,Churmastpur-DW,"Dug Well",W30160,2015,NA,NA,4.29,8.21
+HR,Ambala,Ambala,Ambala,30.28333333,76.75,Tejan-DW,"Dug Well",W30161,2015,NA,NA,3.33,4.48
+HR,Ambala,Ambala,Barara,30.3,77.08333333,Shahpur-DW,"Dug Well",W30169,2015,NA,NA,8.72,10.67
+HR,Ambala,Ambala,Barara,30.31666667,76.98333333,Saha-Pz,"Tube Well",W30175,2015,NA,NA,35.67,35.69
+HR,Ambala,Ambala,Ambala,30.35,76.76666667,Nasirpur-Pz,"Tube Well",W30188,2015,NA,NA,1.1,1.2
+HR,Ambala,Naraingarh,Naraingarh,30.35,77.08333333,Jauli-DW,"Dug Well",W30189,2015,NA,NA,18.4,20.15
+HR,Ambala,Ambala,Ambala,30.36666667,76.83333333,"Ambala Cantt-Pz","Tube Well",W30200,2015,NA,NA,3.5,5.51
+HR,Ambala,Ambala,Ambala,30.38333333,76.73333333,"Ambala City-DW","Dug Well",W30207,2015,NA,NA,'0.99,1.09
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,77.01666667,"Bichali Dhamouli-Pz","Tube Well",W30208,2015,NA,NA,7.15,7.75
+HR,Ambala,Naraingarh,Naraingarh,30.38333333,77.08333333,Nikuwana-DW,"Dug Well",W30209,2015,NA,NA,18.4,17.89
+HR,Ambala,Naraingarh,Shahzadpur,30.43333333,77.01666667,Shahzadpur-Pz,"Tube Well",W30223,2015,NA,NA,2.47,3.55
+HR,Ambala,Naraingarh,Naraingarh,30.46666667,77.11666667,Naraingarh-Pz,"Tube Well",W30236,2015,NA,NA,21.68,9.45
+HR,Ambala,Naraingarh,Naraingarh,30.5,77.08333333,Bhurewala-Pz,"Tube Well",W30246,2015,NA,NA,7.7,8.97
+HR,Ambala,Ambala,Ambala,30.2075,76.68527778,Jansui-DW,"Dug Well",W32120,2015,NA,NA,1.32,NA
+HR,Ambala,Barara,Barara,30.23444444,76.98444444,Tandwal-DW,"Dug Well",W32122,2015,NA,NA,3.8,NA
+HR,Ambala,Ambala,Ambala,30.23861111,76.70611111,Hasanpur-DW,"Dug Well",W32124,2015,NA,NA,6.01,NA
+HR,Ambala,Ambala,Ambala,30.24777778,76.65722222,"Khanna Majra","Dug Well",W32125,2015,NA,NA,1.6,NA
+HR,Ambala,Ambala,Ambala,30.24861111,76.7625,Kalumazra-DW,"Dug Well",W32127,2015,NA,NA,2.35,NA
+HR,Ambala,Barara,Barara,30.25388889,77.02638889,Sohana-DW,"Dug Well",W32128,2015,NA,NA,3.97,NA
+HR,Ambala,Barara,Barara,30.25444444,77.08888889,Salehpur-DW,"Dug Well",W32129,2015,NA,NA,2.99,NA
+HR,Ambala,Ambala,Barara,30.26166667,76.98888889,Chhapra-DW,"Dug Well",W32130,2015,NA,NA,7,NA
+HR,Ambala,Ambala,Ambala,30.28,76.78638889,Tharwa-DW,"Dug Well",W32131,2015,NA,NA,2.6,NA
+HR,Ambala,Ambala,Ambala,30.28055556,76.88083333,Dukheri-DW,"Dug Well",W32132,2015,NA,NA,2.6,NA
+HR,Ambala,Barara,Barara,30.28333333,77.03333333,"Uplana D","Tube Well",W32133,2015,NA,NA,45.4,NA
+HR,Ambala,Barara,Barara,30.30666667,77.13333333,"Binjal Pur-DW","Dug Well",W32135,2015,NA,NA,5.52,NA
+HR,Ambala,Naraingarh,Ambala,30.31111111,76.84611111,Nanhera-DW,"Dug Well",W32137,2015,NA,NA,17.57,NA
+HR,Ambala,Ambala,Ambala,30.34055556,76.92833333,"Kapoori At Saphera-PZ","Tube Well",W32139,2015,NA,NA,11.2,NA
+HR,Ambala,Naraingarh,Naraingarh,30.34777778,77.08388889,"Budhha Khera-DW","Dug Well",W32140,2015,NA,NA,6.78,NA
+HR,Ambala,Ambala,Ambala,30.37027778,76.87305556,Boh-DW,"Dug Well",W32141,2015,NA,NA,1.91,NA
+HR,Ambala,Ambala,Ambala,30.3775,76.77527778,"Bullana- DW","Dug Well",W32143,2015,NA,NA,'0.7,NA
+HR,Ambala,Naraingarh,Shahzadpur,30.43444444,76.955,Patvi,"Dug Well",W32149,2015,NA,NA,13.35,NA
+HR,Ambala,Naraingarh,Shahzadpur,30.45,76.91666667,"Khera Jattan-DW","Dug Well",W32151,2015,NA,8.32,NA,NA
+HR,Ambala,Naraingarh,Shahzadpur,30.45444444,77.02222222,"Kakkar Majra-DW","Dug Well",W32153,2015,NA,NA,10.7,NA
+HR,Ambala,Naraingarh,Shahzadpur,30.46277778,77.07222222,"Bari Bassi-DW","Dug Well",W32154,2015,NA,NA,9.75,NA
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2015,NA,NA,1.78,2.25
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2014,NA,NA,10.3,11.04
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha S","Tube Well",W32136,2014,NA,NA,NA,50
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2014,NA,NA,NA,1.58
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2014,1.68,1.41,2.15,1.56
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2014,NA,NA,32.99,33.1
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2014,NA,NA,5.11,3.51
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2014,NA,NA,3.1,NA
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2014,5.2,4.2,4.51,5.19
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2014,3.59,2.86,3,3.88
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2014,NA,NA,2.79,2.81
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2014,NA,NA,NA,61.09
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2014,NA,NA,NA,12.06
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2014,13.07333333,12.84,13.29,13.08
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (M)","Tube Well",W32126,2014,NA,NA,8.16,8.85
+HR,Ambala,Barara,Barara,30.28333333,77.03333333,"Uplana D","Tube Well",W32133,2014,NA,NA,41.32,41.77
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2014,NA,NA,1.66,NA
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2013,NA,NA,10.17,11.26
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2013,NA,NA,1.62,2.42
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2013,NA,NA,1.17,2.06
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2013,'0.38,1.44,1.34,1.98
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2013,NA,NA,40.3,40.13
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2013,3.25,3.7,2.83,5.2
+HR,Ambala,Barara,Barara,30.28333333,77.03333333,"Uplana D","Tube Well",W32133,2013,NA,NA,53.2,58.1
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2013,2.9,5.6,3.3,6.3
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2013,NA,NA,2.31,4.17
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2013,NA,NA,2.42,3.27
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2013,NA,NA,66.39,68.79
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2013,NA,NA,11.84,14.09
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2013,13.54,14.09,12.815,13.63
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2013,3.54,3.49,2.59,4.14
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2012,NA,NA,10.95,NA
+HR,Ambala,Barara,Barara,30.19166667,77.05,Adhoya,"Dug Well",W22551,2012,NA,10,NA,NA
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2012,NA,15.2,NA,13.68
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2012,NA,NA,1.91,2.44
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2012,NA,1.26,1.61,1.75
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2012,NA,32.8,NA,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2012,NA,NA,4.84,4.68
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2012,NA,NA,3.69,4.39
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2012,NA,NA,6.5,5.5
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2012,NA,NA,3.68,4.18
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2012,NA,NA,2.94,2.94
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2012,NA,61.9,NA,65.29
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2012,NA,NA,10.93,14.91
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2012,NA,NA,14.01,14.13
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2012,NA,NA,1.83,1.38
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2011,10.71,10.53,10.71,10.59
+HR,Ambala,Barara,Barara,30.19166667,77.05,Adhoya,"Dug Well",W22551,2011,NA,NA,1.37,NA
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2011,13.13,11.93,13.28,12.21
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2011,'0.84,1.31,1.09,2.16
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2011,'0.67,1.69,1.25,2.11
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2011,29.83,28.53,31.38,30.54
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2011,3.58,3.38,3.78,3.7
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2011,3.59,3.24,3.74,4.39
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2011,3.94,3.68,4,5.33
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2011,3.27,3.48,3.21,4.53
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2011,2.37,3.05,2.41,3.34
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2011,58.49,50.75,61.79,55.01
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2011,9.79,10.32,10.91,12.84
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2011,12.83,12.6,13.38,13.5
+HR,Ambala,Barara,Barara,30.23333333,76.90555556,Kesri,"Dug Well",W22294,2011,NA,NA,NA,4.08
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2011,1.4,1.43,1.88,2.14
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2010,11.26,NA,11,11.96
+HR,Ambala,Barara,Barara,30.19166667,76.98333333,"Ugala S","Tube Well",W22023,2010,42.78,NA,NA,NA
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2010,12.72,NA,12.35,NA
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2010,1.04,1.67,1.82,2.84
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2010,1.5,2.85,1.43,3.75
+HR,Ambala,Ambala,Ambala,30.27083333,76.85833333,"Mohra D","Tube Well",W16084,2010,39.36,NA,NA,NA
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2010,NA,NA,28.71,33.33
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2010,4.87,6.81,3.69,7.03
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2010,4.69,2.75,2.28,4.69
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2010,2.65,4.35,2.34,6.5
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2010,3.41,3.44,2.89,4.58
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2010,3.8,3.94,2.97,4.84
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2010,NA,NA,60.98,59.69
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2010,13.44,13.34,10.73,14.29
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2010,14.73,14.93,11.52,17.2
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2010,1.28,2.1,1.65,NA
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2009,11.2,9.3,10.87,11.19
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2009,14.66,13.87,14.38,14.58
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2009,14.38,12.08,14.33,13.93
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2009,1.19,1.59,1.58,2.34
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2009,3.52,3.12,2.57,3.7
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2009,NA,30.38,NA,34.29
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2009,7.02,7.93,7.08,8.04
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2009,4.29,3.17,2.69,5.78
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2009,6.92,5.32,3.43,7.28
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2009,4.21,3.58,NA,4.6
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2009,5.42,4.16,3.83,4.57
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2009,NA,NA,63.36,NA
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2009,6.92,NA,NA,NA
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2009,14.77,13.21,13.29,13.49
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2009,2.31,2.15,2.05,3.2
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2008,10.68,10.88,10.72,10.89
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2008,2.28,3.21,3.18,3.08
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2008,NA,NA,NA,15.88
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2008,1.15,2.22,1.66,2.39
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2008,3.69,4.4,3.25,4.67
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2008,NA,8.23,8.03,NA
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2008,13.36,13.88,13.35,14.8
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2008,6.31,6.68,6.03,7.7
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2008,4.18,4.18,3.18,5.11
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2008,4.49,4.54,3.49,NA
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2008,57.29,61.15,56.74,NA
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2008,3.32,2.82,2.99,NA
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2008,12.29,13.81,12.05,14.26
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2008,4.39,3.94,4.16,5.14
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2007,10.12,NA,10.36,10.16
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2007,13.29,11.19,13.69,11.73
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2007,NA,12.37,NA,12.38
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2007,1.56,2.34,1.97,2.34
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2007,3.92,4.06,5.25,4.35
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2007,NA,32.79,40.98,33.73
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2007,7.23,7.2,7.63,7.08
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2007,4.07,3.94,NA,4.29
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2007,6.25,5.49,6.7,5.4
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2007,NA,4.36,3.69,4.43
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2007,4.49,4.69,4.39,4.84
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2007,NA,52.87,59.4,53.39
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2007,2.74,9.06,NA,NA
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2007,13.64,13.72,13.86,14.19
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2007,2.51,2.76,3.11,2.93
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2006,9.77,9.56,9.93,9.76
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2006,10.12,8.47,10.69,9.43
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2006,NA,NA,14.47,NA
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2006,1.69,1.97,2.21,2.44
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2006,3.81,3.26,3.89,3.9
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2006,NA,25.48,NA,30.23
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2006,6.73,5.95,7.08,6.53
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2006,4.42,3.63,3.47,4.59
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2006,4.57,4.71,5.03,6.1
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2006,3.76,3.43,3.92,4.53
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2006,4.9,4.66,4.89,5.29
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2006,NA,44.77,NA,47.59
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2006,5.29,6.23,5.71,NA
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2006,13.9,12.35,13.61,13.39
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2006,2.85,2.13,2.72,2.33
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2005,9.51,9.55,9.81,9.43
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2005,7.17,5.26,7.41,7.22
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2005,NA,11.64,NA,11.32
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2005,1.48,'0.64,1.61,1.22
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2005,3.3,2.87,3.05,3.55
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2005,NA,25.41,27.83,29.23
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2005,5.58,5.06,5.73,5.81
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2005,4.49,3.54,3.07,4.43
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2005,4.26,4.11,4.35,5.02
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2005,3.01,3.38,2.85,4.59
+HR,Ambala,Barara,Barara,30.28333333,77.03333333,Laha,"Tube Well",W16099,2005,NA,NA,NA,477.13
+HR,Ambala,Barara,Barara,30.31666667,76.96666667,Mohra(shallow),"Tube Well",W16100,2005,NA,NA,NA,204
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2005,4.56,4.21,4.31,5.01
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2005,NA,39.19,NA,45.76
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,2005,4.29,4.68,4.91,NA
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2005,5.99,5.54,6.16,5.9
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2005,12.8,12.3,12.16,13.14
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,2005,NA,9.75,NA,9.75
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2005,1.93,1.78,1.98,2.6
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2004,9.78,9.38,9.45,9.62
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2004,6.01,5.53,4.51,7.39
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2004,13.37,11.28,11.7,12.27
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2004,'0.04,1.04,'0.48,1.49
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2004,2.88,3.85,2.68,4.32
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2004,NA,NA,24.25,24.97
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2004,5.64,6.08,4.79,6.52
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2004,3.44,3.49,2.77,4.45
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2004,4.86,3.5,3.49,4.72
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2004,4.46,3.45,2.66,4.38
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2004,4.62,3.41,5.17,4.99
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2004,NA,39.19,38.43,39.79
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,2004,5.42,4.82,4.1,5.38
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2004,5.88,5.15,5.48,5.5
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2004,13.14,11,12.1,12.23
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,2004,10.45,NA,NA,10.45
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,2004,9.75,8.5,NA,9.75
+HR,Ambala,Naraingarh,Shahzadpur,30.44166667,77.02083333,Shahzadpur,"Dug Well",W16110,2004,NA,NA,NA,10.2
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2004,'0.89,2.27,1.5,2.37
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2003,9.87,9.49,9.58,9.73
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2003,4.54,6.05,4.58,7.11
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2003,12.99,11.68,12.23,12.34
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2003,'0.79,1.42,1.14,1.61
+HR,Ambala,Ambala,Ambala,30.32777778,76.9,Barakhuda,"Dug Well",W16082,2003,NA,NA,8.4,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2003,4.06,3.85,3.96,4.21
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2003,43.93,25.08,24.44,29.79
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2003,5.74,4.99,5.74,5.63
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2003,3.99,2.47,3.12,4.29
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2003,4.12,5.5,4,5.74
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2003,2.43,3.95,2.98,4.88
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2003,4.76,4.9,4.29,5.34
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2003,48.49,39.06,48.81,44.23
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,2003,4.76,5.55,4.05,NA
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2003,5.86,5.55,5.55,5.94
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2003,11.8,11.39,11.4,12.54
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,2003,9.5,NA,10.45,10.1
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,2003,9.08,8.85,8.34,NA
+HR,Ambala,Naraingarh,Shahzadpur,30.44166667,77.02083333,Shahzadpur,"Dug Well",W16110,2003,NA,NA,10.2,NA
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2003,1.88,2.43,2.17,2.7
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2002,10.17,9.44,9.41,9.49
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2002,2.14,2.08,2.14,2.42
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2002,10.97,15.04,12.38,11.63
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2002,1.44,1.24,1.11,1.49
+HR,Ambala,Ambala,Ambala,30.32777778,76.9,Barakhuda,"Dug Well",W16082,2002,NA,NA,3.71,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2002,3.88,3.37,3.71,3.98
+HR,Ambala,Ambala,Ambala,30.27083333,76.85833333,"Mohra D","Tube Well",W16084,2002,25.79,22.06,NA,NA
+HR,Ambala,Ambala,Ambala,30.23888889,76.71388889,Nagal,"Dug Well",W16088,2002,NA,3.69,NA,NA
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2002,NA,25.28,30.6,24.85
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2002,5.53,4.4,4.36,5.33
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2002,3.84,3.24,2.65,3.97
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2002,6.16,5.38,5.19,5.95
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2002,4.68,4.19,3.66,4.76
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2002,5.24,4.48,4.78,5.72
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2002,NA,41.31,43.81,43.16
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,2002,5.6,5.42,5.33,5.98
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2002,5.59,4.84,5.5,5.2
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2002,12.33,NA,NA,11.61
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,2002,9.65,9.08,9.72,9.52
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,2002,NA,8.23,8.75,9.2
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2002,8.34,5.35,5.16,6.5
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2001,2.63,3.14,2.69,4.29
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2001,3.28,3.9,4.76,5.64
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2001,3.25,3.5,3.23,4.4
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,2001,8.35,8.32,8.76,9
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2001,2.98,3.09,3.51,4.45
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2001,9.99,9.49,10.57,10.99
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2001,9.04,8.92,9.38,9
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2001,4.59,4.41,4.79,4.34
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2001,'0.64,1.15,1.12,1.64
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,2001,3.32,4.17,5.05,4.95
+HR,Ambala,Ambala,Ambala,30.23888889,76.71388889,Nagal,"Dug Well",W16088,2001,3.06,3.12,3.33,4.36
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2001,43.89,35.43,46.04,37.79
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2001,1.05,2.04,1.8,3.48
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2001,3.99,3.91,4.23,4
+HR,Ambala,Ambala,Ambala,30.27083333,76.85833333,"Mohra D","Tube Well",W16084,2001,23.46,22.36,21.96,25.06
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2001,2.99,NA,3.9,4.19
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2001,12.5,10.7,15.59,NA
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2001,NA,3.85,5.14,4.85
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,2001,6.97,7.28,8.1,8.55
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,2000,2.14,4.14,3,5.7
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,2000,5.75,7.72,6.8,6.83
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,2000,NA,8.15,7.72,8.6
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,2000,9.06,10.32,9.09,9.49
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,2000,NA,4.55,NA,5.14
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,2000,NA,4.4,2.79,4.85
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,2000,39.89,36.49,NA,NA
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,2000,3.7,3.89,3.64,4.54
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,2000,2.46,3.34,2.78,4.54
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,2000,2.62,3.29,2.59,4.49
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,2000,2.33,3.4,2.53,4.4
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,2000,18.8,NA,NA,NA
+HR,Ambala,Ambala,Ambala,30.23888889,76.71388889,Nagal,"Dug Well",W16088,2000,1.63,4.57,2.43,3.66
+HR,Ambala,Ambala,Ambala,30.27083333,76.85833333,"Mohra D","Tube Well",W16084,2000,23.59,21.06,NA,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,2000,3.22,2.99,3.19,5.1
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,2000,'0.5,1.14,1.09,2.04
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,2000,10.57,10.75,NA,NA
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,2000,1.98,2.29,3.03,2.78
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,2000,11.15,11.25,11.1,11.5
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,2000,3.42,4.35,3.3,4.6
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,1999,32.8,23.96,NA,NA
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,1999,'0.54,'0.56,1.03,1.27
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,1999,9.04,9.7,9.12,10.49
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,1999,3.15,2.04,3.06,3.85
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,1999,NA,NA,11.56,NA
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,1999,3.2,2.03,3.82,3.63
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,1999,7.35,NA,7.62,7.3
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,1999,3.18,2.88,2.29,3.43
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,1999,3.24,2,2.79,3.74
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,1999,2.9,2.11,NA,3.55
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,1999,2.05,1.92,2.88,2.4
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,1999,11.35,11.69,11.25,12.55
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,1999,6.95,5.65,7.3,7
+HR,Ambala,Ambala,Ambala,30.23888889,76.71388889,Nagal,"Dug Well",W16088,1999,2.86,1.1,2.77,3.01
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,1999,4.91,NA,3.31,4.29
+HR,Ambala,Ambala,Ambala,30.27083333,76.85833333,"Mohra D","Tube Well",W16084,1999,NA,1.7,26.2,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,1999,2.55,2.12,2.74,3.27
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,1999,4.54,4.01,4.3,4.41
+HR,Ambala,Ambala,Ambala,30.32777778,76.9,Barakhuda,"Dug Well",W16082,1999,NA,2.99,NA,NA
+HR,Ambala,Naraingarh,Shahzadpur,30.44166667,77.02083333,Shahzadpur,"Dug Well",W16110,1999,NA,3.48,NA,NA
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,1999,3.64,3.04,3.51,3.46
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,1998,34.32,32.38,NA,NA
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,1998,3.42,3.71,3.09,4.29
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,1998,1.36,2.94,NA,3.79
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,1998,'0.5,2.82,'0.97,3.83
+HR,Ambala,Barara,Barara,30.2125,77.03333333,"Barara M","Tube Well",W16094,1998,NA,17.1,NA,NA
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,1998,2.1,2.86,1.49,4.24
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,1998,2.62,3.76,1.78,4.22
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,1998,NA,NA,7,NA
+HR,Ambala,Ambala,Ambala,30.23888889,76.71388889,Nagal,"Dug Well",W16088,1998,1.04,2.76,'0.66,3.58
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,1998,4.44,4,NA,4.5
+HR,Ambala,Ambala,Ambala,30.32777778,76.9,Barakhuda,"Dug Well",W16082,1998,NA,3.95,2.37,5.3
+HR,Ambala,Ambala,Ambala,30.37222222,76.8625,"Ambala Race Cor","Tube Well",W16080,1998,11.8,NA,NA,NA
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,1998,NA,NA,9.22,NA
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,1998,NA,NA,NA,3.65
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,1998,11.29,12.18,12.13,12.28
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,1998,3.29,4.5,2.01,5.65
+HR,Ambala,Naraingarh,Shahzadpur,30.44166667,77.02083333,Shahzadpur,"Dug Well",W16110,1998,4.38,4.96,3.7,5.12
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,1998,7.02,8.06,4.85,8.45
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,1998,NA,7.08,5.36,7.75
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,1998,10.52,11.29,9.54,11.68
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,1998,5.03,NA,4.2,5.51
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,1998,1.5,2.57,1.63,3.94
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,1998,'0.1,'0.62,'0.33,1.33
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,1997,2.66,5.95,2.66,5.31
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,1997,5.09,NA,6.72,4.94
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,1997,12.36,11.11,11.42,12.05
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,1997,7.66,7.26,7.25,8.33
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,1997,8.91,8.16,6.33,9.18
+HR,Ambala,Naraingarh,Shahzadpur,30.44166667,77.02083333,Shahzadpur,"Dug Well",W16110,1997,4.94,4.46,4.98,5.06
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,1997,5.55,4.5,5.77,6.84
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,1997,NA,NA,9.19,12.2
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,1997,3.13,4.82,2.81,5
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,1997,11.93,8.68,11.12,NA
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,1997,'0.04,1.14,1.09,2.73
+HR,Ambala,Ambala,Ambala,30.32777778,76.9,Barakhuda,"Dug Well",W16082,1997,NA,NA,NA,7.02
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,1997,5.21,4.55,5.04,7.02
+HR,Ambala,Ambala,Ambala,30.27083333,76.85833333,"Mohra D","Tube Well",W16084,1997,NA,NA,22.68,22.24
+HR,Ambala,Ambala,Ambala,30.23888889,76.71388889,Nagal,"Dug Well",W16088,1997,3.4,5.26,NA,4.87
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,1997,NA,15.52,NA,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,1997,NA,2.93,4.04,4.89
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,1997,1.81,3.58,3.02,5.25
+HR,Ambala,Barara,Barara,30.2125,77.03333333,"Barara M","Tube Well",W16094,1997,24.3,23.58,20.2,22.04
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,1997,1.88,3.09,2.57,4.65
+HR,Ambala,Barara,Barara,30.23333333,76.90833333,"Kesri S","Tube Well",W16097,1997,NA,NA,NA,12.73
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,1997,3.16,3.57,2.96,4.9
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,1997,4.02,3.93,3.79,4.73
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,1997,34.71,33.61,30.54,NA
+HR,Ambala,Barara,Barara,30.3125,77.025,Tamnauli,"Dug Well",W16104,1996,4.21,3.71,3.09,4.69
+HR,Ambala,Barara,Barara,30.30833333,76.97083333,"Saha M","Tube Well",W16102,1996,36.9,27.3,32.42,29.78
+HR,Ambala,Naraingarh,Naraingarh,30.47083333,77.125,Naraingarh,"Dug Well",W16107,1996,12.5,12.83,11.55,12.22
+HR,Ambala,Naraingarh,Shahzadpur,30.35833333,77.04583333,Badhauli,"Dug Well",W16108,1996,6.42,7.52,5.23,7.91
+HR,Ambala,Naraingarh,Shahzadpur,30.38333333,76.99722222,Ganeshpur,"Dug Well",W16109,1996,8.78,9.76,7.6,9.23
+HR,Ambala,Naraingarh,Shahzadpur,30.44166667,77.02083333,Shahzadpur,"Dug Well",W16110,1996,4.47,4.7,4.83,4.81
+HR,Ambala,Panchkula,Shahzadpur,30.46944444,76.93888889,Patwi,"Dug Well",W16546,1996,5.05,4.94,4.29,6.58
+HR,Ambala,Panchkula,"Raipur Rani",30.49166667,77.025,"Kakar Majra","Dug Well",W16556,1996,NA,12.74,12.55,12.51
+HR,Ambala,Ambala,Ambala,30.38333333,76.7625,"Ambala Cantt","Dug Well",W16078,1996,3.34,5.17,2.21,4.2
+HR,Ambala,Ambala,Ambala,30.35138889,76.84722222,"Ambala Harding","Tube Well",W16079,1996,9.86,NA,NA,11.07
+HR,Ambala,Ambala,Ambala,30.32083333,76.72916667,Balana,"Dug Well",W16081,1996,'0.47,1.25,1.01,2.64
+HR,Ambala,Ambala,Ambala,30.32777778,76.9,Barakhuda,"Dug Well",W16082,1996,NA,7.02,NA,NA
+HR,Ambala,Ambala,Ambala,30.40833333,76.7875,Kakru,"Dug Well",W16083,1996,4.91,4.77,4.2,4.84
+HR,Ambala,Ambala,Ambala,30.27083333,76.85833333,"Mohra D","Tube Well",W16084,1996,NA,20.57,20.36,5.2
+HR,Ambala,Ambala,Ambala,30.23888889,76.71388889,Nagal,"Dug Well",W16088,1996,4.01,3.57,1.6,NA
+HR,Ambala,Ambala,Ambala,30.24861111,76.71666667,"Nagal (m)","Tube Well",W16089,1996,NA,14.25,NA,15.45
+HR,Ambala,Ambala,Ambala,30.40833333,76.84583333,Panjokhra,"Dug Well",W16092,1996,3.93,5.08,2.97,4.52
+HR,Ambala,Ambala,Ambala,30.2625,76.61388889,Pinjola,"Dug Well",W16093,1996,2.55,4.42,3.18,4.63
+HR,Ambala,Barara,Barara,30.2125,77.03333333,"Barara M","Tube Well",W16094,1996,25.02,20.7,20.42,23.78
+HR,Ambala,Barara,Barara,30.29583333,77.11666667,Dhanaura,"Dug Well",W16096,1996,NA,3.24,2.33,4.21
+HR,Ambala,Barara,Barara,30.23333333,76.90833333,"Kesri S","Tube Well",W16097,1996,NA,9.36,NA,NA
+HR,Ambala,Barara,Barara,30.24166667,77.125,Khanahmadpur,"Dug Well",W16098,1996,3.31,NA,2.77,5
+HR,Ambala,Barara,Barara,30.28333333,77.04583333,Mulana,"Dug Well",W16101,1996,3.88,3.14,3.61,4.27
+HR,Ambala,Naraingarh,Naraingarh,30.4125,77.07916667,Kurali,"Dug Well",W16106,1996,5.41,4.84,4.87,5.29

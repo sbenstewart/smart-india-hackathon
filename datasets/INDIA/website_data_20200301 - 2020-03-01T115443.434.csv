@@ -1,0 +1,304 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2018,12.19,12.41,NA,NA
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2018,16.18,17.39,NA,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.55138889,77.58472222,"Chartawal Pz","Tube Well",W21937,2018,10.29,8.76,NA,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2018,NA,8.58,NA,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.27222222,77.60972222,"Inchauli(Ratanpuri) Pz GWD","Tube Well",W29946,2018,14.15,14.15,NA,NA
+UP,Muzaffarnagar,Shahpur,Shahpur,29.35,77.54166667,"Paldi Pz GWD","Tube Well",W29953,2018,18.52,13.62,NA,NA
+UP,Muzaffarnagar,Un,Un,29.625,77.14666667,"Kamalpur Pz","Tube Well",W21942,2018,10.36,9.91,NA,NA
+UP,Muzaffarnagar,Shamli,Shamli,29.45833333,77.31666667,"Shamli PZ GWD","Tube Well",W33005,2018,20.84,20.18,NA,NA
+UP,Muzaffarnagar,Shahpur,Budhana,29.36666667,77.49166667,"Shikarpur Pz GWD","Tube Well",W31998,2018,NA,13.48,NA,NA
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2018,23.08,23.65,NA,NA
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2018,2.71,3.33,NA,NA
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2018,13.81,13.65,NA,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.29166667,77.73333333,"Khatauli PZ (GWD)","Tube Well",W33004,2018,1.13,3.42,NA,NA
+UP,Muzaffarnagar,Un,Un,29.625,77.14666667,"Kamalpur Pz","Tube Well",W21942,2017,NA,NA,10.48,15
+UP,Muzaffarnagar,Shamli,Shamli,29.45833333,77.31666667,"Shamli PZ GWD","Tube Well",W33005,2017,15.1,19.05,18.11,20.1
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2017,16.73,17.45,17.42,18.4
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2017,13.7,13.12,14.48,14.27
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2017,2.77,3.7,3.02,NA
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2017,NA,22.2,16.64,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2017,8.66,8.6,NA,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.55138889,77.58472222,"Chartawal Pz","Tube Well",W21937,2017,NA,8.28,NA,NA
+UP,Muzaffarnagar,"Thana Bhawan","Thana Bhawan",29.59166667,77.43333333,"Thana Bhawan Pz","Tube Well",W21941,2017,NA,10.7,NA,12.62
+UP,Muzaffarnagar,Shahpur,Budhana,29.36666667,77.49166667,"Shikarpur Pz GWD","Tube Well",W31998,2017,13.65,NA,13.65,17.94
+UP,Muzaffarnagar,Kairana,Kairana,29.39166667,77.21333333,"Kairana Pz","Tube Well",W21938,2017,NA,23.45,NA,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.27222222,77.60972222,"Inchauli(Ratanpuri) Pz GWD","Tube Well",W29946,2017,14.08,13.02,14.08,16.45
+UP,Muzaffarnagar,Shahpur,Shahpur,29.35,77.54166667,"Paldi Pz GWD","Tube Well",W29953,2017,13.57,16.78,13.53,18.2
+UP,Muzaffarnagar,Khatauli,Khatauli,29.29166667,77.73333333,"Khatauli PZ (GWD)","Tube Well",W33004,2017,1.23,1.23,3.01,3.88
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2017,12.48,12.26,12.48,16.57
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2016,NA,NA,8.39,9.05
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2016,NA,NA,3.5,3.74
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2016,NA,NA,11.7,14.64
+UP,Muzaffarnagar,Kairana,Kairana,29.39166667,77.21333333,"Kairana Pz","Tube Well",W21938,2016,NA,NA,24,23.29
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2016,NA,NA,16.66,18.24
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2016,NA,NA,12.94,13.44
+UP,Muzaffarnagar,Shahpur,Budhana,29.36666667,77.49166667,"Shikarpur Pz GWD","Tube Well",W31998,2016,NA,16.6,NA,NA
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2016,NA,NA,22.82,23.44
+UP,Muzaffarnagar,Khatauli,Khatauli,29.27222222,77.60972222,"Inchauli(Ratanpuri) Pz GWD","Tube Well",W29946,2016,NA,10.9,13.32,15.09
+UP,Muzaffarnagar,Shahpur,Shahpur,29.35,77.54166667,"Paldi Pz GWD","Tube Well",W29953,2016,NA,20.1,17.15,18.51
+UP,Muzaffarnagar,Khatauli,Khatauli,29.29166667,77.73333333,"Khatauli PZ (GWD)","Tube Well",W33004,2016,NA,NA,3.12,3.97
+UP,Muzaffarnagar,Shamli,Shamli,29.45833333,77.31666667,"Shamli PZ GWD","Tube Well",W33005,2016,NA,NA,19.31,19.44
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,"Khatauli 1","Dug Well",W31970,2016,NA,5.2,NA,5.6
+UP,Muzaffarnagar,"Thana Bhawan","Thana Bhawan",29.59166667,77.43333333,"Thana Bhawan Pz","Tube Well",W21941,2016,NA,NA,9.97,11.72
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2015,9.15,NA,8.25,8.26
+UP,Muzaffarnagar,Shahpur,Budhana,29.36666667,77.49166667,"Shikarpur Pz GWD","Tube Well",W31998,2015,NA,NA,15.6,NA
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2015,3.68,NA,3.1,3.77
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2015,NA,NA,11.7,14.25
+UP,Muzaffarnagar,Charthawal,Charthawal,29.55138889,77.58472222,"Chartawal Pz","Tube Well",W21937,2015,8.35,NA,8.35,9.33
+UP,Muzaffarnagar,Kairana,Kairana,29.39166667,77.21333333,"Kairana Pz","Tube Well",W21938,2015,22.23,NA,NA,23.27
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2015,11,NA,16.5,17.4
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2015,11.25,NA,12.3,12.42
+UP,Muzaffarnagar,"Thana Bhawan","Thana Bhawan",29.59166667,77.43333333,"Thana Bhawan Pz","Tube Well",W21941,2015,10.13,NA,11,11.93
+UP,Muzaffarnagar,Un,Un,29.625,77.14666667,"Kamalpur Pz","Tube Well",W21942,2015,10.97,NA,11.4,11.46
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2015,6.61,NA,22.35,21.76
+UP,Muzaffarnagar,Khatauli,Khatauli,29.27222222,77.60972222,"Inchauli(Ratanpuri) Pz GWD","Tube Well",W29946,2015,13.37,NA,13.18,13.92
+UP,Muzaffarnagar,Shahpur,Shahpur,29.35,77.54166667,"Paldi Pz GWD","Tube Well",W29953,2015,17.96,NA,17.1,16.84
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,"Khatauli 1","Dug Well",W31970,2015,NA,NA,5.45,NA
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2015,6.05,NA,5.25,6.05
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2014,NA,9.23,NA,10.49
+UP,Muzaffarnagar,Shahpur,Budhana,29.36666667,77.49166667,"Shikarpur Pz GWD","Tube Well",W31998,2014,NA,NA,NA,10.97
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2014,NA,4.3,NA,4.63
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2014,NA,2.95,NA,4.2
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2014,NA,9.8,NA,11.28
+UP,Muzaffarnagar,Charthawal,Charthawal,29.55138889,77.58472222,"Chartawal Pz","Tube Well",W21937,2014,NA,6.25,NA,7.9
+UP,Muzaffarnagar,Kairana,Kairana,29.39166667,77.21333333,"Kairana Pz","Tube Well",W21938,2014,NA,22.2,NA,21.8
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2014,NA,16.42,NA,16.19
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2014,NA,10.55,NA,11.24
+UP,Muzaffarnagar,"Thana Bhawan","Thana Bhawan",29.59166667,77.43333333,"Thana Bhawan Pz","Tube Well",W21941,2014,NA,8.8,NA,NA
+UP,Muzaffarnagar,Un,Un,29.625,77.14666667,"Kamalpur Pz","Tube Well",W21942,2014,NA,9.05,NA,10.76
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2014,NA,20.65,NA,20.54
+UP,Muzaffarnagar,Khatauli,Khatauli,29.27222222,77.60972222,"Inchauli(Ratanpuri) Pz GWD","Tube Well",W29946,2014,NA,10.85,NA,11.77
+UP,Muzaffarnagar,Shahpur,Shahpur,29.35,77.54166667,"Paldi Pz GWD","Tube Well",W29953,2014,NA,NA,NA,15.9
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,"Khatauli 1","Dug Well",W31970,2014,NA,3.42,NA,3.61
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2014,NA,6.35,NA,7.9
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2013,9.57,10.2,9.4,10.7
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,"Khatauli 1","Dug Well",W31970,2013,NA,NA,3.2,3.69
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2013,4.27,4.65,4.3,NA
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2013,3.9,4.5,3.95,4.75
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2013,2.3,3.65,2.7,3.33
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2013,9.9,8.9,11,11.74
+UP,Muzaffarnagar,Charthawal,Charthawal,29.55138889,77.58472222,"Chartawal Pz","Tube Well",W21937,2013,6.75,7.07,7.05,7.8
+UP,Muzaffarnagar,Kairana,Kairana,29.39166667,77.21333333,"Kairana Pz","Tube Well",W21938,2013,22.95,21.95,NA,22.43
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2013,16.82,16.4,16.35,17.08
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2013,11.15,11,11,12.49
+UP,Muzaffarnagar,"Thana Bhawan","Thana Bhawan",29.59166667,77.43333333,"Thana Bhawan Pz","Tube Well",W21941,2013,10.54,10.7,9.4,NA
+UP,Muzaffarnagar,Un,Un,29.625,77.14666667,"Kamalpur Pz","Tube Well",W21942,2013,NA,NA,NA,11.19
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2013,NA,20.1,20.85,22.2
+UP,Muzaffarnagar,Khatauli,Khatauli,29.27222222,77.60972222,"Inchauli(Ratanpuri) Pz GWD","Tube Well",W29946,2013,12.31,11.6,11.6,NA
+UP,Muzaffarnagar,Shahpur,Shahpur,29.35,77.54166667,"Paldi Pz GWD","Tube Well",W29953,2013,NA,15.3,14.6,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2013,6.28,7.8,6.2,7.69
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2012,NA,9.3,10.51,11.29
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,"Khatauli 1","Dug Well",W31970,2012,NA,NA,3.51,NA
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2012,NA,NA,4.56,NA
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2012,NA,3.35,4.41,5.03
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2012,NA,3.4,3.5,5.3
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2012,NA,9.6,10.43,12.3
+UP,Muzaffarnagar,Charthawal,Charthawal,29.55138889,77.58472222,"Chartawal Pz","Tube Well",W21937,2012,NA,7.05,7.26,8.33
+UP,Muzaffarnagar,Kairana,Kairana,29.39166667,77.21333333,"Kairana Pz","Tube Well",W21938,2012,NA,21.15,22.3,21.7
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2012,NA,15.35,6.58,15.23
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2012,NA,10.2,11.12,11.27
+UP,Muzaffarnagar,"Thana Bhawan","Thana Bhawan",29.59166667,77.43333333,"Thana Bhawan Pz","Tube Well",W21941,2012,NA,10.2,11.38,12.26
+UP,Muzaffarnagar,Un,Un,29.625,77.14666667,"Kamalpur Pz","Tube Well",W21942,2012,NA,8.95,10.25,10.69
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2012,NA,19.13,20.69,20.28
+UP,Muzaffarnagar,Khatauli,Khatauli,29.27222222,77.60972222,"Inchauli(Ratanpuri) Pz GWD","Tube Well",W29946,2012,NA,NA,12.17,NA
+UP,Muzaffarnagar,Shahpur,Shahpur,29.35,77.54166667,"Paldi Pz GWD","Tube Well",W29953,2012,NA,NA,15.51,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2012,NA,7.2,7.6,7.94
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2011,12.49,9.8,9.88,10.09
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2011,6.92,7.42,7.11,7.89
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2011,2.76,3.55,3.75,NA
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2011,1.76,3.7,3.25,5.07
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2011,2.61,3.22,3.48,NA
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2011,10.34,8.6,10.06,10.05
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2011,20.85,19.85,19.23,19.33
+UP,Muzaffarnagar,Kairana,Kairana,29.39166667,77.21333333,"Kairana Pz","Tube Well",W21938,2011,21.41,21.15,21.52,21.14
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2011,15.14,14.35,15.32,15.75
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2011,10.31,10.5,10.26,10.68
+UP,Muzaffarnagar,"Thana Bhawan","Thana Bhawan",29.59166667,77.43333333,"Thana Bhawan Pz","Tube Well",W21941,2011,12.35,11.8,10.84,11.33
+UP,Muzaffarnagar,Un,Un,29.625,77.14666667,"Kamalpur Pz","Tube Well",W21942,2011,10.89,9.37,10.09,10.64
+UP,Muzaffarnagar,Charthawal,Charthawal,29.55138889,77.58472222,"Chartawal Pz","Tube Well",W21937,2011,6.46,7.95,6.84,7.29
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2010,9.7,9.17,9.33,10.59
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2010,7.8,7.59,7.13,8.17
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2010,3.9,4.41,3.3,5.32
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2010,2.05,4.1,3.07,4.5
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2010,2.1,3.49,3.06,4.12
+UP,Muzaffarnagar,Baghara,Baghara,29.46388889,77.575,"Baghra Pz","Tube Well",W21936,2010,9.8,9.97,9.73,11.01
+UP,Muzaffarnagar,Un,Un,29.58666667,77.16666667,"Un Pz","Tube Well",W21943,2010,20.5,7.65,18.86,20.35
+UP,Muzaffarnagar,Kairana,Kairana,29.39166667,77.21333333,"Kairana Pz","Tube Well",W21938,2010,21.27,20.23,21,21.93
+UP,Muzaffarnagar,Morna,Morna,29.46666667,77.95833333,"Morna Pz","Tube Well",W21939,2010,15.65,16.06,14.58,16.71
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.475,77.72777778,"Kukra-Sadar Pz","Tube Well",W21940,2010,10.54,9.69,10.1,10.51
+UP,Muzaffarnagar,"Thana Bhawan","Thana Bhawan",29.59166667,77.43333333,"Thana Bhawan Pz","Tube Well",W21941,2010,11.8,11.27,10.95,12.66
+UP,Muzaffarnagar,Un,Un,29.625,77.14666667,"Kamalpur Pz","Tube Well",W21942,2010,9.7,10.17,9.29,10.53
+UP,Muzaffarnagar,Charthawal,Charthawal,29.55138889,77.58472222,"Chartawal Pz","Tube Well",W21937,2010,7.35,7.36,7.25,8.17
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2009,7.6,8.75,9.48,9.76
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2009,7.3,6.9,7.55,7.83
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2009,3.1,3.3,3.57,4.05
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2009,'0.95,3.05,3.91,3.8
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2009,3.95,3.2,4.28,3.48
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2008,8.2,8.57,8.29,9.22
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2008,7.05,7.05,6.08,7.65
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2008,2.75,2.6,NA,4.4
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2008,3.15,3.7,3.29,4.05
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2008,1.75,3.65,2.75,NA
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2008,NA,7.57,NA,7.57
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2008,NA,5.9,NA,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2008,NA,9.05,NA,9.05
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2007,8,6.7,7.95,8.9
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2007,6.7,6.7,6.95,8.42
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2007,2.65,3.6,2.5,4.15
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2007,3.6,3.6,3.55,3.8
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2007,2.45,3.35,3.1,3.2
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2007,7.57,4.42,7.57,7.57
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2007,5.1,5.63,5.5,5.95
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2007,NA,3.2,NA,9.05
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2006,9.2,6.3,7.32,6.88
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2006,6.7,5.85,6.45,6.8
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2006,3.9,2.43,3.34,3.95
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2006,4.27,3.36,3.46,3.88
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2006,1.95,2.68,2.9,3.55
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2006,NA,3.27,4.14,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2006,NA,5,5.41,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2006,3.2,3.05,2.95,NA
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2005,13.08,6.45,6.1,7.3
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2005,6.53,6.55,5.6,7.14
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2005,3.45,4.94,1.72,4.34
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2005,1.61,2.66,2.65,3.31
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2005,1.85,4.25,1.15,3.85
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2005,7.57,4.42,2.42,NA
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,2005,15,13.59,NA,15
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2005,5.78,5.4,4.58,5.9
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,2005,20.11,NA,NA,NA
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2005,3.2,3.7,3,4.04
+UP,Muzaffarnagar,Shamli,Shamli,29.45,77.39166667,Shamli,"Dug Well",W15910,2005,11.93,NA,NA,NA
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2004,4.65,3.62,4.27,4.63
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2004,2.45,1.92,3.5,2.77
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2004,5.82,4.65,6.05,5.65
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,2004,NA,6.63,NA,9.97
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2004,4.7,4.67,5.05,5.45
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2004,6.28,5.8,6.45,6.72
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2004,1.36,2.34,2.53,3.06
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,2004,11.02,11.07,13.59,12.99
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2004,1.15,NA,2.35,3.45
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2004,4.83,3.48,4.63,5.1
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2003,1.3,2.3,2.21,2.91
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2003,2.24,3.62,3.51,3.85
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2003,2,3.82,3.5,4.73
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,2003,11.39,13.91,12.76,NA
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,2003,NA,12.96,NA,13.53
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2003,3.95,4.83,4.7,5.1
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2003,5.47,5.2,4.5,6.55
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,2003,NA,6.76,6.28,NA
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2003,1.47,3.45,2,3.07
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2003,6.04,6.02,5.8,6.75
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2003,3.42,3.87,3.18,4.25
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2002,4.62,4.21,3.41,4.49
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2002,6.1,5.34,4.49,5.93
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2002,2.85,2.34,1.95,3.05
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2002,2.81,2.79,2.03,3.03
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2002,6.5,5.8,5.54,5.12
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,2002,12.54,13.15,12.67,13.84
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2002,3.6,4.53,3.38,5.44
+UP,Muzaffarnagar,Shamli,Shamli,29.45,77.39166667,Shamli,"Dug Well",W15910,2002,10.52,9.74,NA,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2002,6.9,NA,5.83,7.3
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,2002,13.54,11.7,13.68,13.61
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,2002,6.18,5.68,6.46,'0.63
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2002,3.72,3.56,3.65,3.42
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,2001,4.62,NA,5.83,6.33
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,2001,12.12,NA,11.87,12.33
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2001,3.95,NA,4.12,4.77
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2001,1.27,NA,2.44,3.41
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2001,'0.45,NA,2.59,3.01
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2001,2.15,NA,4.1,5.26
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2001,5.2,NA,5.92,6.84
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2001,4.78,NA,5.75,5.72
+UP,Muzaffarnagar,Shamli,Shamli,29.45,77.39166667,Shamli,"Dug Well",W15910,2001,9.36,NA,10.01,9.51
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2001,2.24,NA,3.27,3.66
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,2001,13.89,NA,14.34,14.89
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2001,4.9,NA,5.26,5.74
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,2000,3.73,4.2,3.89,4.56
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,2000,5.17,5.33,5.6,6.09
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.46166667,77.80833333,"Jat mujhera","Dug Well",W15226,2000,5.42,5.12,NA,NA
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,2000,12.46,12.49,12.79,12.94
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,2000,4.4,3.73,1.98,4.79
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,2000,1.59,2.23,2.6,2.62
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,2000,3.61,3.24,NA,4.57
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,2000,2.28,3.36,2.96,3.59
+UP,Muzaffarnagar,Shamli,Shamli,29.45,77.39166667,Shamli,"Dug Well",W15910,2000,8.02,7.85,8.32,8.6
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,2000,5.27,5.25,5.76,6.34
+UP,Muzaffarnagar,Charthawal,Charthawal,29.56833333,77.51833333,Biralasi,"Dug Well",W15220,2000,5.41,5.23,5.78,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,2000,4.69,4.77,5.3,5.46
+UP,Muzaffarnagar,Jansath,Jansath,29.39444444,77.78888889,Sikhera,"Dug Well",W15904,2000,NA,3.32,NA,NA
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,2000,11.09,11.47,11.53,12.39
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,2000,1.09,2.8,2.07,2.86
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,1999,2.48,3.02,3,3.56
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,1999,4.1,2.95,4.54,4.98
+UP,Muzaffarnagar,Jansath,Jansath,29.39444444,77.78888889,Sikhera,"Dug Well",W15904,1999,2.73,2.47,3.5,4.16
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,1999,4.91,3.03,5.38,5.3
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,1999,11.65,10.03,11.75,11.3
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,1999,3.9,3,4,4.04
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,1999,1.52,2.17,2.37,2.6
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.46166667,77.80833333,"Jat mujhera","Dug Well",W15226,1999,4.99,4.56,4.94,4.98
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,1999,1.07,1.36,2.47,2.78
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,1999,2.55,1.98,3.16,4.62
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,1999,4.35,6.56,5.09,5.7
+UP,Muzaffarnagar,Charthawal,Charthawal,29.56833333,77.51833333,Biralasi,"Dug Well",W15220,1999,4.68,2.76,5.01,4.59
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,1999,3.07,1.98,3.76,3.55
+UP,Muzaffarnagar,Shamli,Shamli,29.45,77.39166667,Shamli,"Dug Well",W15910,1999,7.32,5.91,7.58,6.93
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,1999,12.04,12.15,12.13,12.33
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,1998,12.45,NA,12.26,13.03
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,1998,1.72,3.3,2.43,3.61
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,1998,'0.35,1.87,1.18,2.69
+UP,Muzaffarnagar,Jansath,Jansath,29.39,77.925,Kakrauli,"Dug Well",W15223,1998,5.15,6.9,4.6,11.07
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,1998,1.04,2.04,1.7,4.92
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,1998,11.39,10.58,9.85,12.32
+UP,Muzaffarnagar,Jansath,Jansath,29.39444444,77.78888889,Sikhera,"Dug Well",W15904,1998,1.83,6.1,2.26,4.21
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,1998,2.9,3.39,2.25,5.68
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,1998,3.36,3.48,2.37,4.23
+UP,Muzaffarnagar,Charthawal,Charthawal,29.56833333,77.51833333,Biralasi,"Dug Well",W15220,1998,2.97,3.07,1.99,4.2
+UP,Muzaffarnagar,Baghara,Baghara,29.49166667,77.49333333,Dholna,"Dug Well",W15219,1998,7.02,NA,NA,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,1998,3.05,4.53,2.73,NA
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,1998,1.28,3.46,'0.82,6.41
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,1998,'0.9,2.39,1.5,1.7
+UP,Muzaffarnagar,Shamli,Shamli,29.45,77.39166667,Shamli,"Dug Well",W15910,1998,6.19,6.51,4.45,7.58
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,1998,3.46,4.35,2.82,5.38
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.46166667,77.80833333,"Jat mujhera","Dug Well",W15226,1998,4.61,7.49,3.53,5.32
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,1997,2.45,NA,3.4,3.8
+UP,Muzaffarnagar,Shamli,Shamli,29.45,77.39166667,Shamli,"Dug Well",W15910,1997,6.96,7.2,6.96,8.38
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,1997,4.15,5.15,3.95,6.16
+UP,Muzaffarnagar,Baghara,Baghara,29.49166667,77.49333333,Dholna,"Dug Well",W15219,1997,7.57,8.61,7.62,12.58
+UP,Muzaffarnagar,Charthawal,Charthawal,29.56833333,77.51833333,Biralasi,"Dug Well",W15220,1997,3.14,3.51,3.65,4.78
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,1997,2.6,5.19,3.3,6.28
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,1997,1.3,2.18,2.3,NA
+UP,Muzaffarnagar,Jansath,Jansath,29.39,77.925,Kakrauli,"Dug Well",W15223,1997,4.35,6.48,5.95,7.8
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,1997,'0.97,2.34,2.47,NA
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.46166667,77.80833333,"Jat mujhera","Dug Well",W15226,1997,1.9,3.36,7.49,5.85
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,1997,1.43,1.66,1.65,3.08
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,1997,2.97,2.09,3.12,5
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,1997,12.19,12.37,13.19,13.32
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,1997,4.25,4.59,4.95,NA
+UP,Muzaffarnagar,Jansath,Jansath,29.39444444,77.78888889,Sikhera,"Dug Well",W15904,1997,1.88,3.32,3.21,4.51
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,1997,3.92,4.8,4.6,5.77
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,1997,18.6,13.42,NA,NA
+UP,Muzaffarnagar,Morna,Morna,29.46527778,77.9375,Morna1,"Dug Well",W15907,1997,NA,NA,NA,13.5
+UP,Muzaffarnagar,Purkaji,Purkaji,29.57777778,77.7375,"Rohana kalan","Dug Well",W15909,1996,NA,5.4,NA,NA
+UP,Muzaffarnagar,Morna,Morna,29.495,77.99,Sukratal,"Dug Well",W15908,1996,2.36,NA,3.24,NA
+UP,Muzaffarnagar,Baghara,Baghara,29.46805556,77.58055556,Baghra,"Dug Well",W15218,1996,6.35,7.12,6.04,NA
+UP,Muzaffarnagar,Baghara,Baghara,29.49166667,77.49333333,Dholna,"Dug Well",W15219,1996,8.35,10.16,9.85,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.56833333,77.51833333,Biralasi,"Dug Well",W15220,1996,4.5,5.32,4.96,NA
+UP,Muzaffarnagar,Charthawal,Charthawal,29.5375,77.59416667,Chartawal,"Dug Well",W15221,1996,5.15,5.2,5.19,NA
+UP,Muzaffarnagar,Jansath,Jansath,29.3125,77.85,Jansath2,"Dug Well",W15222,1996,'0.7,2.48,1.64,3.82
+UP,Muzaffarnagar,Jansath,Jansath,29.39,77.925,Kakrauli,"Dug Well",W15223,1996,6.28,5.93,6.15,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.27222222,77.60972222,Inchauli,"Dug Well",W15224,1996,NA,7.54,NA,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.22166667,77.73333333,Khatauli,"Dug Well",W15225,1996,'0.74,2.09,1.8,NA
+UP,Muzaffarnagar,Muzaffarnagar,Muzaffarnagar,29.46166667,77.80833333,"Jat mujhera","Dug Well",W15226,1996,5.57,3.32,3.29,NA
+UP,Muzaffarnagar,Purkaji,Purkaji,29.60972222,77.88083333,Barla,"Dug Well",W15227,1996,1.48,2.47,1.56,3.37
+UP,Muzaffarnagar,Purkaji,Purkaji,29.605,77.85666667,Basera,"Dug Well",W15228,1996,3.78,NA,2.63,4.38
+UP,Muzaffarnagar,Shahpur,Shahpur,29.295,77.555,Aterna,"Dug Well",W15229,1996,13.41,13.87,13.08,NA
+UP,Muzaffarnagar,Un,Un,29.63277778,77.22388889,Jalalabad,"Dug Well",W15230,1996,4.56,7.06,6.01,NA
+UP,Muzaffarnagar,Budhana,Budhana,29.28333333,77.48333333,Shahdabbar,"Dug Well",W15902,1996,NA,9.52,NA,NA
+UP,Muzaffarnagar,Jansath,Jansath,29.32666667,77.95,Sikandarpur1,"Dug Well",W15903,1996,8.74,NA,NA,NA
+UP,Muzaffarnagar,Jansath,Jansath,29.39444444,77.78888889,Sikhera,"Dug Well",W15904,1996,1.92,3.95,3.19,NA
+UP,Muzaffarnagar,Khatauli,Khatauli,29.345,77.70666667,Mansoorpur,"Dug Well",W15905,1996,5.51,4.89,4.58,NA
+UP,Muzaffarnagar,Morna,Morna,29.46833333,77.9375,Morna,"Dug Well",W15906,1996,12.91,12.55,13.27,NA
+UP,Muzaffarnagar,Morna,Morna,29.46527778,77.9375,Morna1,"Dug Well",W15907,1996,12.85,12.52,NA,NA
+UP,Muzaffarnagar,Shamli,Shamli,29.45,77.39166667,Shamli,"Dug Well",W15910,1996,7.7,7.16,7.08,NA

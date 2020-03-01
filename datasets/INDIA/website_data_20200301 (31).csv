@@ -1,206 +1,112 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2018,NA,5.12,5.02,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2018,NA,4.89,3.79,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2018,NA,5.32,1.94,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2018,NA,1.52,NA,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2018,NA,NA,NA,4.22
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2018,NA,NA,NA,2.27
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2018,NA,4.07,3.08,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2017,2.54,4.42,3.24,4.82
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2017,NA,'0.84,NA,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2017,NA,3.5,'0.81,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2017,'0.45,2.44,'0.45,2.78
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2017,1.12,3.27,2.62,3.77
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2017,3.47,4.85,3.92,'0.68
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2017,2.6,5.51,2.17,5.8
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2017,2.36,NA,2.95,3.88
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2017,NA,'0.62,NA,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2016,3.13,NA,3.74,4.35
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2016,'0.87,NA,'0.78,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2016,1.38,NA,3.21,3
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2016,1.77,NA,3.03,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2016,'0.98,NA,NA,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2016,3.88,NA,4.28,5.81
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2016,4.19,NA,4.36,4.97
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2016,NA,NA,4.56,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2016,1.39,NA,3.45,3.96
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2015,1.41,5.33,3.99,6.17
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2015,2.72,4.93,4.35,5.14
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2015,1.85,4.49,3.08,3.55
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2015,'0.36,'0.56,'0.46,'0.36
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2015,'0.34,2.78,2.72,3.3
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2015,'0.87,3.67,2.93,4.02
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2015,'0.99,3.4,2.05,'0.99
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2015,'0.38,'0.98,NA,'0.38
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2015,'0.8,3.96,3.09,'0.8
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2014,'0.73,4.43,NA,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2014,'0.94,3.44,NA,2.35
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2014,2.82,4.84,NA,5.15
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2014,'0.45,4.13,NA,3.71
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2014,1.55,4.45,NA,4.65
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2014,'0.34,NA,NA,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2014,'0.35,'0.6,NA,1.38
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2014,1.94,5.36,NA,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2014,'0.3,1,NA,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2013,2.35,3.55,2.29,4.21
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2013,2.05,4.4,2.96,4.68
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2013,'0.43,'0.67,'0.56,'0.87
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2013,NA,NA,2.65,3.2
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2013,2.3,5.51,4.16,6.21
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2013,1.43,4.63,3.13,5.18
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2013,NA,1,NA,1.02
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2013,1.27,4.23,2.73,4.75
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2013,3.48,4.98,3.71,5.08
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2012,NA,6.01,4.53,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2012,NA,NA,'0.98,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2012,NA,4.7,2.27,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2012,NA,4.01,2.63,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2012,NA,5.2,3.13,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2012,NA,'0.99,'0.58,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2012,NA,4.6,3.29,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2012,NA,5.22,NA,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2011,NA,3.93,3.11,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2011,2.3,4.42,3.53,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2011,'0.16,'0.83,'0.84,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2011,2.36,3.62,3.46,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2011,NA,1.01,'0.8,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2011,NA,6.11,3.87,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2011,3.42,5.22,4.2,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2011,2.71,4.85,3.88,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2010,2.05,5.92,3.77,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2010,1.64,3.74,3.25,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2010,1.87,4.3,3.12,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2010,'0.47,NA,'0.76,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2010,2.46,5.73,3.78,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2010,4.11,5.01,4.33,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2010,3.08,4.51,3.23,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2010,'0.44,1.32,'0.85,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2009,1.34,3.87,3.47,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2009,1.66,4.56,2.43,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2009,'0.48,NA,NA,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2009,'0.46,'0.67,'0.42,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2009,2.37,5.49,3.41,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2009,NA,5.08,4.18,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2009,2.25,4.48,3.14,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2009,NA,5.89,3.37,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2008,NA,3.03,2.78,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2008,2.03,3.91,2.48,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2008,1.47,4.68,2.25,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2008,'0.43,NA,NA,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2008,-0.1,'0.97,'0.27,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2008,2.02,5.25,3.47,NA
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2008,1.34,5.12,2.27,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2008,1.68,4.59,3.45,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2008,1.94,4.61,2.61,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2007,2.81,3.73,2.83,3.52
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2007,2.7,NA,3.44,2.61
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2007,2.6,NA,3.33,4.22
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2007,-0.2,'0.66,'0.51,-0.07
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2007,3.91,4.89,3.87,4.73
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2007,2.45,4.09,3.23,3.57
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2007,2.51,6.21,4.07,4.95
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2006,1.93,3.45,3.02,3.46
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2006,1.66,4.29,2.95,4.1
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2006,1.99,4.4,3.69,4
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2006,-0.25,1.09,-0.03,'0.35
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2006,3.67,4.95,4.45,4.77
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2006,2.05,4.24,2.25,2.95
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2006,1.84,5.18,3.33,4.33
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2005,1.54,2.89,3.07,1.27
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,2005,'0.56,NA,NA,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2005,1.51,2.46,2.63,1.26
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2005,1.44,3.69,2.01,2.22
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,2005,1.19,NA,NA,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2005,2.7,'0.32,3.55,'0.33
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2005,2.12,4.61,2.25,3.45
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2005,2.87,5.02,3.84,4.33
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2005,1.38,6.03,2.13,3.04
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,2005,NA,4.42,NA,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2005,2.31,4.16,3.36,2.55
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2004,'0.75,3.08,2.41,'0.3
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,2004,NA,3.29,NA,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2004,1.03,3.75,2.31,1.5
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2004,1.33,3.6,2.89,3.5
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2004,NA,1.91,'0.54,'0.5
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2004,1.92,4.42,3.63,1.91
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2004,3.82,4.59,4.67,3.02
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2004,2.17,4.13,3.58,2.15
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,2004,NA,2.85,NA,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2004,1.85,4.13,3.21,2.05
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2003,'0.86,2.79,2.49,3.54
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,2003,1.58,3.11,NA,3.4
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2003,2.67,2.51,1.99,2.1
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2003,1.67,3.34,2.64,4.26
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2003,'0.25,1.64,'0.74,'0.69
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2003,1.8,4.61,3.12,5.61
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2003,3.69,4.84,4.36,5.24
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2003,2.38,4.25,3.66,3.13
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,2003,NA,3.12,1.76,NA
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2003,1.32,4.12,3.43,4.03
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2002,'0.59,3.05,2.54,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,2002,1.19,3.35,2.81,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2002,1,3.82,2.13,2.56
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2002,1.4,3.52,3.1,4.1
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2002,'0.14,2.14,1.04,'0.41
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2002,1.61,4.66,3.64,3.61
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2002,3.38,4.91,4.53,4.28
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2002,5.03,4.22,3.55,3.25
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,2002,'0.98,2.56,1.41,2.28
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2002,2.35,4.15,3.87,4.4
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2001,'0.82,3.05,2.44,3.55
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,2001,1.24,2.65,2.44,2.81
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2001,'0.8,3.25,2.94,1.32
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2001,NA,3.55,2.54,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2001,'0.2,1.98,1.54,'0.95
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2001,1.9,4.75,3.7,5.61
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2001,1.92,4.75,4.57,5.11
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.39861111,94.88194444,Barbaruah,"Dug Well",W12219,2001,1.68,NA,3.51,4.77
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,2001,'0.92,2.9,2.14,3.57
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2001,1.58,4.1,3.32,4.56
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,2000,'0.71,3.21,2.24,1.89
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,2000,1.18,3.36,2.1,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,2000,2.58,2.46,3.1,1.8
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,2000,3.68,NA,2.95,3.03
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,2000,'0.04,2.19,1.97,'0.54
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,2000,1.95,4.89,3.75,2.35
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,2000,3.15,4.97,4.37,4.15
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,2000,'0.98,3.15,2.28,2.38
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,2000,NA,3.82,3.45,2.25
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,1999,'0.78,3.15,1.99,2.55
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,1999,1.38,NA,2.83,5.04
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,1999,NA,2.23,NA,3.11
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,1999,'0.94,4.89,3.33,2.47
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,1999,1.68,3.9,3.18,4.22
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,1999,'0.54,3.62,1.79,3.95
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,1999,'0.46,2.64,1.79,3.22
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,1999,2.92,5.13,4.42,3.77
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,1999,'0.81,3.41,1.31,1.44
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,1998,1.13,2.91,1.81,2.95
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,1998,3.26,4.92,5.75,5.02
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,1998,1.25,4.23,3.09,4.71
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,1998,'0.59,2.17,2.02,2.8
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,1998,2.45,3.16,4.7,4
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,1998,NA,'0.71,NA,NA
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,1998,1.1,1.97,NA,3.3
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,1998,1.94,3.59,2.19,2.09
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,1998,NA,NA,NA,2.9
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,1998,1.52,2.73,1.03,1.64
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,1997,4.05,4.95,4.77,5.02
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,1997,1.1,1.61,3,2.72
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,1997,1.53,2.55,1.48,3.54
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,1997,1.41,2.84,1.8,3.22
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,1997,1.55,2.09,2.54,2.57
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,1997,2.25,4.31,3.68,3.91
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,1997,1.72,3.12,2.43,2.09
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,1997,1.91,3.63,NA,3.61
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,1997,'0.55,'0.69,NA,2.47
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.48333333,94.90833333,Dibrugarh,"Dug Well",W12221,1996,1.59,3.08,1.5,1.74
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.255,95.23805556,"Jaipur naharani","Dug Well",W12227,1996,1.47,3.48,2.37,2.32
-AS,Dibrugarh,Moran,"Dibrugarh West",27.24611111,94.99305556,Bamunbari,"Dug Well",W12225,1996,1.65,3.73,1.41,2.11
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.37222222,94.87333333,Lapetkata-2,"Dug Well",W12222,1996,1.19,3.33,'0.45,1.39
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.35833333,94.90277778,Lapetkata-1,"Tube Well",W12223,1996,NA,3.45,NA,NA
-AS,Dibrugarh,"Dibrugarh West","Dibrugarh West",27.3,94.875,"Changelijan tinali","Dug Well",W12220,1996,1.01,3.05,1.57,1.03
-AS,Dibrugarh,Moran,"Dibrugarh West",27.31666667,94.95,"Azarguri gaon","Dug Well",W12224,1996,2.12,3.44,2.88,1.56
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.46666667,95.06805556,Dikom,"Dug Well",W12218,1996,3.19,5.02,4.3,3.75
-AS,Dibrugarh,"Dibrugarh East","Dibrugarh West",27.4875,95.19166667,Chabua,"Dug Well",W12217,1996,'0.74,3.25,2.88,2.49
-AS,Dibrugarh,Naharkatiya,"Dibrugarh West",27.23277778,95.36916667,Dirialgaon,"Tube Well",W12226,1996,'0.44,3.76,'0.31,'0.62
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2018,NA,3.9,2.07,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2018,NA,4.25,4.57,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2018,NA,NA,4.45,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2018,NA,NA,3.3,4.1
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2018,NA,2.85,2.94,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2017,'0.95,4.52,2,4.63
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2017,3.6,5.23,3.56,4.7
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2017,2.45,5.16,NA,4.9
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2017,NA,4.7,1,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2017,3.56,3.9,1.65,3.65
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2016,1.16,NA,3.3,4.24
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2016,'0.19,NA,3.12,5.52
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2016,3.78,NA,4.4,6.5
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2016,1.03,NA,3,7.1
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2016,2.7,NA,4.63,5.77
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2015,1.94,3.02,2.58,3.33
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2015,'0.02,3.75,NA,4.39
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2015,1.3,3.75,4.03,4.56
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2015,'0.82,4.15,2.89,5.55
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2015,1.74,2.31,4.76,4.76
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2014,NA,NA,NA,3.44
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2014,'0.8,NA,NA,4.5
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2014,'0.03,NA,NA,4.2
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2014,'0.78,NA,NA,5.4
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2014,1.02,NA,NA,4.27
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2013,1.57,2.98,2.47,3.25
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2013,'0.47,3.65,2.86,4.33
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2013,2.44,4.24,3.5,6.02
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2013,'0.87,4.48,1.6,5.37
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2013,2.4,4.2,3.73,4.53
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2012,NA,3.32,1.13,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2012,NA,4.37,2.26,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2012,NA,4.48,1.38,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2012,NA,4.9,4.3,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2012,NA,4.82,3.59,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2011,NA,2.03,NA,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2011,1.42,3.5,2.75,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2011,'0.74,4.44,2.15,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2011,2.02,4.8,4.05,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2011,1.34,5.15,2.9,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2011,1.19,4.48,3,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2010,NA,1.57,1.5,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2010,1.25,3.56,NA,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2010,1.08,4.71,3.54,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2010,1.7,4.8,3.6,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2010,1.75,6.82,3.5,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2010,'0.2,3.57,2.56,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2009,'0.69,3.12,1.3,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2009,1.64,3.49,2.52,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2009,2.38,5.01,3.55,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2009,2.31,5.02,3.34,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2009,'0.8,4.87,2.2,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2009,1.47,4.76,2.81,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2008,'0.05,3.35,1.29,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2008,'0.81,3.2,2.45,NA
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2008,'0.53,4.55,3.72,NA
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2008,1.26,4.41,3.9,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2008,'0.63,3.85,2.57,NA
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2008,-0.17,4.28,2.86,NA
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2007,'0.45,2.78,2.46,2.59
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2007,2.06,4.3,2.31,3.6
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2007,'0.99,5.35,3.55,4.75
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2007,2.25,5.45,3.51,5.5
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2007,'0.64,3.95,1.21,3.1
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2007,1.22,3.92,2.17,3.49
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2006,2.99,2.62,2.48,2.66
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2006,1.25,2.95,2.53,3.27
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2006,2.27,NA,3.59,4.26
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2006,2.68,4.55,2.85,4.44
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2006,'0.85,3.86,1.47,1.01
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2006,'0.62,3.48,'0.42,4.17
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2005,'0.9,2.72,2.3,2.54
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2005,1.3,2.76,2.04,2.06
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2005,2.85,4.22,3.42,3.72
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2005,2.1,4.3,3.41,3.94
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2005,'0.6,1.29,1,1.07
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2005,'0.12,3.77,1.2,3.83
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2004,2.3,2.6,2.41,1.41
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2004,1.22,2.6,2.06,1.6
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2004,2.27,3.25,NA,3.74
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2004,2.51,4.3,3.51,5.44
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2004,'0.91,2.12,1.6,'0.71
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2004,1.39,3.5,1.73,2.41
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2003,2.1,2.68,2.35,2.45
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2003,1.2,2.77,1.17,1.93
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2003,'0.34,3.71,1.7,3.41
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2003,2.41,4.35,3.4,4.2
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2003,'0.77,5.1,1,'0.83
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2003,2.62,3.96,3.63,4.07
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2002,2.02,2.63,2.63,2.39
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2002,'0.87,2.44,2.55,1
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2002,1.96,4.2,4.05,4.11
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2002,NA,3.82,2.51,3.68
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2002,1.18,2.87,2.61,1.87
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2002,1.71,3.46,4.02,3.86
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2001,1.81,2.8,1.83,2.45
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2001,2.93,4.44,3.51,NA
+AS,Dhubri,Dhubri,"South Salmara",26.01666667,89.98333333,"Dhubri Town","Dug Well",W12212,2001,1.07,NA,1.18,2.9
+AS,Dhubri,Chapar,"South Salmara",26.30944444,90.46444444,Bahalpur,"Dug Well",W12210,2001,'0.97,NA,1.42,4.8
+AS,Dhubri,Golokganj,"South Salmara",26.06638889,89.82916667,Rupshi,"Dug Well",W12215,2001,2.62,NA,3.46,4.6
+AS,Dhubri,Bagribari,"South Salmara",26.19027778,90.10583333,"Manipur Basti","Dug Well",W12206,2001,2.36,NA,2.43,3
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,2000,2.26,4.3,3.85,4.84
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,2000,1.45,2.69,2.2,2.53
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,1999,1.1,2.77,1.91,2.8
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,1999,2.48,3.92,3.63,2.56
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,1998,1.67,4.4,3.22,4.4
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,1998,1.05,2.85,1.95,2.42
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,1997,3.03,NA,3.81,NA
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,1997,1.69,NA,2.41,2.87
+AS,Dhubri,Bilasipara,"South Salmara",26.21666667,90.24166667,Bilasipara,"Dug Well",W12209,1996,2.01,2.88,1.88,3.12
+AS,Dhubri,Chapar,"South Salmara",26.27166667,90.46,Chapar,"Dug Well",W12211,1996,2.5,4.14,3.39,4.57

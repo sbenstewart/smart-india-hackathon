@@ -1,0 +1,636 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2018,16.5,8.89,NA,NA
+MP,Indore,Indore,Indore,22.73916667,75.85361111,"Polo Ground","Dug Well",W27970,2018,11.1,NA,NA,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2018,11,74.91,NA,NA
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2018,4,4.9,NA,NA
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2018,3.67,5.5,NA,NA
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2018,17.34,21.24,NA,NA
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2018,5.65,7.17,NA,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2018,9.43,7.15,NA,NA
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2018,3.54,8.95,NA,NA
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2018,9.78,24.28,NA,NA
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2018,6.03,13,NA,NA
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2018,2.55,24.45,NA,NA
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2018,2.24,24.14,NA,NA
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2018,7.74,6.6,NA,NA
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2018,NA,11.11,10.45,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2018,NA,9.4,8.17,NA
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2018,5.68,NA,NA,14.63
+MP,Indore,Mhow,Mhow,22.54138889,75.73861111,"Mhow Dbiss","Bore Well",W27858,2018,2.9,3.77,NA,NA
+MP,Indore,Indore,Indore,22.63111111,75.79222222,"Rau IIM","Bore Well",W27909,2018,7.63,12.1,NA,NA
+MP,Indore,Indore,Indore,22.65638889,75.88555556,"Bilawali Tank","Bore Well",W27920,2018,10.4,11.15,NA,NA
+MP,Indore,Indore,Indore,22.67805556,75.92444444,"Deoguradia IMC","Bore Well",W27929,2018,'0.14,1.8,NA,NA
+MP,Indore,Indore,Indore,22.68722222,76.03,"Khudel New Pz","Bore Well",W27935,2018,15.53,33.43,NA,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(S),"Bore Well",W27950,2018,10.2,7.7,NA,NA
+MP,Indore,Indore,Indore,22.72194444,75.85972222,"Indore IMC Office","Bore Well",W27962,2018,6.44,8.2,NA,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(S),"Bore Well",W27997,2018,11.06,14.76,NA,NA
+MP,Indore,Indore,Indore,22.79777778,75.74083333,"Hatod PWD New","Bore Well",W27998,2018,10.33,16.53,NA,NA
+MP,Indore,Sawer,Sawer,22.89277778,75.97861111,"Khsipra Budhi Barlai","Bore Well",W28045,2018,11.97,13.85,NA,NA
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(S),"Bore Well",W28092,2018,4.64,6.34,NA,NA
+MP,Indore,Sawer,Sawer,22.97944444,75.83194444,"Sanwer Block","Bore Well",W28095,2018,3.6,14.85,NA,NA
+MP,Indore,Sawer,Sawer,23.01388889,75.68361111,Chandrawatiganj,"Bore Well",W28126,2018,14.46,23.75,NA,NA
+MP,Indore,Depalpur,Depalpur,22.99277778,75.52,"Gautampura Tehsil","Bore Well",W28110,2018,17.07,21.12,NA,NA
+MP,Indore,Depalpur,Depalpur,22.8475,75.53666667,"Depalpur Block","Bore Well",W28025,2018,4.3,17.9,NA,NA
+MP,Indore,Indore,Indore,22.66583333,75.83416667,"Bijalpur Masjid","Dug Well",W27926,2018,2.02,NA,NA,NA
+MP,Indore,Indore,Indore,22.67583333,75.85694444,"Indore Pipliyapala","Bore Well",W27928,2018,4.82,NA,NA,NA
+MP,Indore,Indore,Indore,22.68333333,75.8725,"Soyabeen Research Centre","Dug Well",W27933,2018,9.66,NA,NA,NA
+MP,Indore,Indore,Indore,22.69222222,75.82638889,"Footi Kothi","Dug Well",W27939,2018,2.96,NA,NA,NA
+MP,Indore,Indore,Indore,22.695,75.88194444,"Sajjan Nagar","Dug Well",W27940,2018,4.45,NA,NA,NA
+MP,Indore,Indore,Indore,22.69555556,75.83416667,"Bhil Paltan","Dug Well",W27941,2018,2.35,NA,NA,NA
+MP,Indore,Indore,Indore,22.69555556,75.89416667,"Mushakhedi Phe","Dug Well",W27942,2018,5.25,NA,NA,NA
+MP,Indore,Indore,Indore,22.6975,75.87944444,"Prakash Nagar","Dug Well",W27943,2018,4.12,NA,NA,NA
+MP,Indore,Indore,Indore,22.70027778,75.83555556,"Ranjeet Hanuman Temple","Dug Well",W27948,2018,1.07,NA,NA,NA
+MP,Indore,Indore,Indore,22.705,75.84111111,"Indorecity Mhownaka","Bore Well",W27952,2018,6.8,NA,NA,19.87
+MP,Indore,Indore,Indore,22.71305556,75.83611111,"Cable Factory","Dug Well",W27954,2018,7.27,NA,NA,NA
+MP,Indore,Indore,Indore,22.72,75.86611111,"Gandhi Hall","Dug Well",W27959,2018,4.08,NA,NA,NA
+MP,Indore,Indore,Indore,22.72166667,75.89305556,"Ravindra Nagar","Dug Well",W27961,2018,5.1,NA,NA,NA
+MP,Indore,Indore,Indore,22.72333333,75.90361111,"Telephone Nagar","Dug Well",W27963,2018,5.78,NA,NA,NA
+MP,Indore,Indore,Indore,22.73777778,75.84972222,"Mari Mata","Dug Well",W27969,2018,5.35,NA,NA,NA
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2018,4.95,8.26,NA,NA
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2017,15.19,15.38,16.09,30.89
+MP,Indore,Indore,Indore,22.72194444,75.85972222,"Indore IMC Office","Bore Well",W27962,2017,5.56,5.52,NA,14.45
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2017,7.5,12.87,8.6,16.6
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2017,4.5,5.14,4.98,7.58
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2017,2.86,5.8,5.6,7.48
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2017,4.89,9.06,10.52,11.6
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2017,20.73,9.55,6.06,22.13
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2017,1.9,7.65,5.02,9
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2017,13.43,13.53,8.95,14.43
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2017,9.88,11.65,11.67,29.58
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2017,5.6,12.48,9.08,13.3
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2017,4.64,21.14,11.49,25.14
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2017,8.16,5.67,3.74,10.44
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2017,NA,21.29,16.94,40.64
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2017,NA,6.1,6.3,7.93
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2017,4.66,NA,11.58,25.1
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2017,3.15,9.51,NA,13.67
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(S),"Bore Well",W27950,2017,8.6,NA,6.8,11.9
+MP,Indore,Indore,Indore,22.79777778,75.74083333,"Hatod PWD New","Bore Well",W27998,2017,7.69,NA,8.27,10.73
+MP,Indore,Indore,Indore,22.65638889,75.88555556,"Bilawali Tank","Bore Well",W27920,2017,4.7,7.7,7.9,NA
+MP,Indore,Depalpur,Depalpur,22.8475,75.53666667,"Depalpur Block","Bore Well",W28025,2017,5.3,16.3,13.7,NA
+MP,Indore,Indore,Indore,22.63111111,75.79222222,"Rau IIM","Bore Well",W27909,2017,24.5,21.32,10.36,25.9
+MP,Indore,Indore,Indore,22.67805556,75.92444444,"Deoguradia IMC","Bore Well",W27929,2017,'0.4,2.3,1.24,'0.9
+MP,Indore,Indore,Indore,22.68722222,76.03,"Khudel New Pz","Bore Well",W27935,2017,14.93,15.55,15.63,21.93
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(S),"Bore Well",W27997,2017,6.91,10.98,7.7,10.66
+MP,Indore,Sawer,Sawer,22.89277778,75.97861111,"Khsipra Budhi Barlai","Bore Well",W28045,2017,23.1,16.28,13.34,23.33
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(S),"Bore Well",W28092,2017,3.84,4.74,5.48,5.54
+MP,Indore,Sawer,Sawer,22.97944444,75.83194444,"Sanwer Block","Bore Well",W28095,2017,4.31,9.72,6.65,20.37
+MP,Indore,Sawer,Sawer,23.01388889,75.68361111,Chandrawatiganj,"Bore Well",W28126,2017,21.05,19.43,16.68,23.23
+MP,Indore,Depalpur,Depalpur,22.99277778,75.52,"Gautampura Tehsil","Bore Well",W28110,2017,14.47,18.94,14.7,43.75
+MP,Indore,Mhow,Mhow,22.54138889,75.73861111,"Mhow Dbiss","Bore Well",W27858,2017,NA,4.03,3.35,NA
+MP,Indore,Indore,Indore,22.705,75.84111111,"Indorecity Mhownaka","Bore Well",W27952,2017,NA,6.75,6.68,NA
+MP,Indore,Indore,Indore,22.76416667,75.84305556,"Indore MPEB Grid","Bore Well",W27982,2017,NA,6.75,10.9,NA
+MP,Indore,Indore,Indore,22.67583333,75.85694444,"Indore Pipliyapala","Bore Well",W27928,2017,8.72,6.08,NA,11.42
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2017,3.88,5.64,3.19,8.56
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2016,4.31,NA,10.76,9.54
+MP,Indore,Sawer,Sawer,23.01388889,75.68361111,Chandrawatiganj,"Bore Well",W28126,2016,2,20.92,5.46,21
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2016,8.39,22.03,7.97,NA
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2016,1.8,15.63,4.23,NA
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2016,'0.21,9.02,6.98,NA
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2016,2.04,8.06,1.98,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2016,5.03,31.6,5.38,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2016,3.95,8.27,5.63,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2016,'0.01,13.17,'0.92,NA
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2016,3.85,6.06,3.37,NA
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2016,3.97,15.4,7.16,NA
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2016,8.3,9.28,6.98,NA
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2016,2.79,19.27,15.64,NA
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2016,4.18,6.05,6.02,NA
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2016,8.21,5.82,3.75,NA
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2016,3.08,12.08,5.44,NA
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2016,3.48,13.41,4.5,NA
+MP,Indore,Mhow,Mhow,22.54138889,75.73861111,"Mhow Dbiss","Bore Well",W27858,2016,2.57,4.22,3.4,NA
+MP,Indore,Indore,Indore,22.63111111,75.79222222,"Rau IIM","Bore Well",W27909,2016,6.75,27.76,11.7,30.5
+MP,Indore,Indore,Indore,22.65638889,75.88555556,"Bilawali Tank","Bore Well",W27920,2016,4.1,6.52,6.95,13.92
+MP,Indore,Indore,Indore,22.67583333,75.85694444,"Indore Pipliyapala","Bore Well",W27928,2016,1.42,5.89,4.54,12.1
+MP,Indore,Indore,Indore,22.67805556,75.92444444,"Deoguradia IMC","Bore Well",W27929,2016,'0.47,18.06,'0.65,3.07
+MP,Indore,Indore,Indore,22.68722222,76.03,"Khudel New Pz","Bore Well",W27935,2016,4.03,19.1,6.85,21.15
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(S),"Bore Well",W27950,2016,3.35,6.4,5.3,15.57
+MP,Indore,Indore,Indore,22.705,75.84111111,"Indorecity Mhownaka","Bore Well",W27952,2016,2.57,7.85,7.87,11.73
+MP,Indore,Indore,Indore,22.72194444,75.85972222,"Indore IMC Office","Bore Well",W27962,2016,'0.57,12.48,7.69,3.07
+MP,Indore,Indore,Indore,22.76416667,75.84305556,"Indore MPEB Grid","Bore Well",W27982,2016,2.23,10.56,1.63,5.96
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(S),"Bore Well",W27997,2016,4,11.53,4.78,24.36
+MP,Indore,Indore,Indore,22.79777778,75.74083333,"Hatod PWD New","Bore Well",W27998,2016,8.47,8.13,1.6,15.6
+MP,Indore,Depalpur,Depalpur,22.8475,75.53666667,"Depalpur Block","Bore Well",W28025,2016,1.2,13.34,5.72,15.44
+MP,Indore,Sawer,Sawer,22.89277778,75.97861111,"Khsipra Budhi Barlai","Bore Well",W28045,2016,3.46,12.56,6.07,14.96
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(S),"Bore Well",W28092,2016,3.82,6.35,5.11,4.82
+MP,Indore,Sawer,Sawer,22.97944444,75.83194444,"Sanwer Block","Bore Well",W28095,2016,3.66,13.61,4.74,38.15
+MP,Indore,Depalpur,Depalpur,22.99277778,75.52,"Gautampura Tehsil","Bore Well",W28110,2016,1.82,18.23,3.7,49.57
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2016,9.3,23.08,8.42,NA
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2015,NA,11.48,10.94,28.72
+MP,Indore,Sawer,Sawer,23.01388889,75.68361111,Chandrawatiganj,"Bore Well",W28126,2015,5.27,10.37,15.57,12.81
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2015,2.97,22.39,14.51,26.09
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2015,2.25,13.48,11.69,15.33
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2015,'0.01,4.24,3.45,12.13
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2015,'0.58,7.28,4.56,8.72
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2015,'0.7,31.6,9.4,15.24
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2015,3.15,8.67,7.33,14.53
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2015,1.28,8.98,6.44,7.88
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2015,2.06,8.48,6.63,10.58
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2015,'0.9,NA,9.24,20.84
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2015,3.6,9.87,7.5,11.66
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2015,11.76,19.92,18.8,31.64
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2015,NA,3.89,7.74,13.72
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2015,2.55,9.89,10.91,12.05
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2015,1.68,10.55,9.75,16.64
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2015,4.02,5.31,5.2,7.81
+MP,Indore,Mhow,Mhow,22.54138889,75.73861111,"Mhow Dbiss","Bore Well",W27858,2015,2.92,4.93,3.74,5.13
+MP,Indore,Indore,Indore,22.63111111,75.79222222,"Rau IIM","Bore Well",W27909,2015,7.55,12,6.88,12.5
+MP,Indore,Indore,Indore,22.65638889,75.88555556,"Bilawali Tank","Bore Well",W27920,2015,1.95,7.36,4.19,14.21
+MP,Indore,Indore,Indore,22.66583333,75.83416667,"Bijalpur Masjid","Dug Well",W27926,2015,1.97,NA,NA,NA
+MP,Indore,Indore,Indore,22.67583333,75.85694444,"Indore Pipliyapala","Bore Well",W27928,2015,1.67,3.65,4.52,6.64
+MP,Indore,Indore,Indore,22.67805556,75.92444444,"Deoguradia IMC","Bore Well",W27929,2015,'0.01,1.23,1.54,1.32
+MP,Indore,Indore,Indore,22.68333333,75.8725,"Soyabeen Research Centre","Dug Well",W27933,2015,8.16,6.32,NA,10.22
+MP,Indore,Indore,Indore,22.68722222,76.03,"Khudel New Pz","Bore Well",W27935,2015,1.15,12.18,8.6,17.89
+MP,Indore,Indore,Indore,22.69222222,75.82638889,"Footi Kothi","Dug Well",W27939,2015,3.38,4.86,NA,6.32
+MP,Indore,Indore,Indore,22.695,75.88194444,"Sajjan Nagar","Dug Well",W27940,2015,3.67,6,NA,8.32
+MP,Indore,Indore,Indore,22.69555556,75.83416667,"Bhil Paltan","Dug Well",W27941,2015,3.65,6.57,NA,14.02
+MP,Indore,Indore,Indore,22.69555556,75.89416667,"Mushakhedi Phe","Dug Well",W27942,2015,5.6,8.67,NA,9.9
+MP,Indore,Indore,Indore,22.6975,75.87944444,"Prakash Nagar","Dug Well",W27943,2015,3.81,4.78,NA,6.67
+MP,Indore,Indore,Indore,22.70027778,75.83555556,"Ranjeet Hanuman Temple","Dug Well",W27948,2015,2.08,2.99,NA,6.35
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(S),"Bore Well",W27950,2015,2.62,9.82,9.07,14.83
+MP,Indore,Indore,Indore,22.705,75.84111111,"Indorecity Mhownaka","Bore Well",W27952,2015,4.95,6.48,8.2,18.47
+MP,Indore,Indore,Indore,22.71305556,75.83611111,"Cable Factory","Dug Well",W27954,2015,6.43,9.97,NA,10.68
+MP,Indore,Indore,Indore,22.72,75.86611111,"Gandhi Hall","Dug Well",W27959,2015,4.37,8.11,NA,12.01
+MP,Indore,Indore,Indore,22.72166667,75.89305556,"Ravindra Nagar","Dug Well",W27961,2015,3.58,NA,NA,NA
+MP,Indore,Indore,Indore,22.72194444,75.85972222,"Indore IMC Office","Bore Well",W27962,2015,9.02,11.47,10.5,17.6
+MP,Indore,Indore,Indore,22.72333333,75.90361111,"Telephone Nagar","Dug Well",W27963,2015,2.5,3.26,NA,11.92
+MP,Indore,Indore,Indore,22.73777778,75.84972222,"Mari Mata","Dug Well",W27969,2015,4.45,3.7,NA,7.22
+MP,Indore,Indore,Indore,22.73916667,75.85361111,"Polo Ground","Dug Well",W27970,2015,5.18,7.75,NA,11.5
+MP,Indore,Indore,Indore,22.76416667,75.84305556,"Indore MPEB Grid","Bore Well",W27982,2015,2.32,12.44,10.46,18.57
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(S),"Bore Well",W27997,2015,'0.24,13.45,9.44,10.61
+MP,Indore,Indore,Indore,22.79777778,75.74083333,"Hatod PWD New","Bore Well",W27998,2015,'0.79,13.72,10.08,18.42
+MP,Indore,Depalpur,Depalpur,22.8475,75.53666667,"Depalpur Block","Bore Well",W28025,2015,2.52,15.36,14.22,19.22
+MP,Indore,Sawer,Sawer,22.89277778,75.97861111,"Khsipra Budhi Barlai","Bore Well",W28045,2015,NA,2.62,13.12,15.53
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(S),"Bore Well",W28092,2015,3.62,5.76,6.21,7.76
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(S),"Bore Well",W28093,2015,NA,15,NA,14
+MP,Indore,Sawer,Sawer,22.97944444,75.83194444,"Sanwer Block","Bore Well",W28095,2015,1.22,12.44,10.36,19.47
+MP,Indore,Depalpur,Depalpur,22.99277778,75.52,"Gautampura Tehsil","Bore Well",W28110,2015,3.05,27.28,12.57,49.57
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2015,3.46,21.88,14.52,26.13
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2014,3.41,11.15,10.6,34.58
+MP,Indore,Sawer,Sawer,23.01388889,75.68361111,Chandrawatiganj,"Bore Well",W28126,2014,6.28,9.27,8.77,10.85
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2014,3.11,11.92,10.58,22.15
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2014,3.25,9.17,7.1,18.1
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2014,1.07,10.63,5.26,7.5
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2014,2.66,4.73,3.67,8.41
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2014,5.4,8.72,7.97,29.6
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2014,4.29,6.13,6.26,12.23
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2014,NA,5.42,7.32,7.71
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2014,4.7,7.43,5.73,9.47
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2014,2.82,9.84,6.47,41.34
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2014,2.85,5.27,6.22,9.05
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2014,17.64,19.14,18.4,22.74
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2014,2.13,5.75,5.44,6.3
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2014,5.06,10.55,11.88,11.72
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2014,5.66,9.25,8.89,14.03
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2014,4.43,5.63,4.95,6.5
+MP,Indore,Mhow,Mhow,22.54138889,75.73861111,"Mhow Dbiss","Bore Well",W27858,2014,3.66,4.95,4.16,5.4
+MP,Indore,Indore,Indore,22.63111111,75.79222222,"Rau IIM","Bore Well",W27909,2014,8.57,13.68,9.6,14.3
+MP,Indore,Indore,Indore,22.65638889,75.88555556,"Bilawali Tank","Bore Well",W27920,2014,4.42,4.17,4.29,8.1
+MP,Indore,Indore,Indore,22.67583333,75.85694444,"Indore Pipliyapala","Bore Well",W27928,2014,1.1,2.95,2.83,6.62
+MP,Indore,Indore,Indore,22.67805556,75.92444444,"Deoguradia IMC","Bore Well",W27929,2014,NA,2.8,1.77,3
+MP,Indore,Indore,Indore,22.68722222,76.03,"Khudel New Pz","Bore Well",W27935,2014,3.45,10.19,7.25,15.13
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(S),"Bore Well",W27950,2014,2.24,5.5,4.3,9
+MP,Indore,Indore,Indore,22.705,75.84111111,"Indorecity Mhownaka","Bore Well",W27952,2014,3.3,5.38,6.81,10
+MP,Indore,Indore,Indore,22.72194444,75.85972222,"Indore IMC Office","Bore Well",W27962,2014,5.01,12,9.88,14.5
+MP,Indore,Indore,Indore,22.76416667,75.84305556,"Indore MPEB Grid","Bore Well",W27982,2014,5.86,9.01,9.38,16.4
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(S),"Bore Well",W27997,2014,5.64,9.47,6.79,17.01
+MP,Indore,Indore,Indore,22.79777778,75.74083333,"Hatod PWD New","Bore Well",W27998,2014,6.35,10.04,8.33,17.43
+MP,Indore,Depalpur,Depalpur,22.8475,75.53666667,"Depalpur Block","Bore Well",W28025,2014,2.25,10.75,10.36,37.4
+MP,Indore,Sawer,Sawer,22.89277778,75.97861111,"Khsipra Budhi Barlai","Bore Well",W28045,2014,7.47,11.42,'0.82,14.2
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(S),"Bore Well",W28092,2014,4.39,3.56,5.96,7.07
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(S),"Bore Well",W28093,2014,11.25,9.2,13.4,20
+MP,Indore,Sawer,Sawer,22.97944444,75.83194444,"Sanwer Block","Bore Well",W28095,2014,3.24,4.02,10.41,12.6
+MP,Indore,Depalpur,Depalpur,22.99277778,75.52,"Gautampura Tehsil","Bore Well",W28110,2014,12.07,9.89,14.56,35.57
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2014,3.15,11.94,10.58,22.14
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2013,3.1,12,NA,11.55
+MP,Indore,Sawer,Sawer,23.01388889,75.68361111,Chandrawatiganj,"Bore Well",W28126,2013,NA,NA,6.72,23.05
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2013,NA,22.4,NA,27.64
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2013,1.45,22.4,5.95,27
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2013,'0.1,12.35,1.61,18.1
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,2013,NA,NA,4.47,NA
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2013,1.25,10.4,NA,8.85
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2013,1.86,7.5,1.16,8.66
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2013,5.9,NA,4.3,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2013,7.13,NA,4.63,18.55
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2013,NA,4.3,4.82,7.4
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2013,1.85,10.7,3.61,14.1
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2013,NA,NA,3.4,20.19
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2013,NA,8,NA,11.57
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2013,'0.04,20.6,12.28,23.54
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2013,1.898,5.07,4.7125,6.518571
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2013,3.27,12.3,10.41,11.82
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2013,2.33,12.4,3.1,14.68
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2013,3.2,4.8,3.87,5.77
+MP,Indore,Mhow,Mhow,22.54138889,75.73861111,"Mhow Dbiss","Bore Well",W27858,2013,4,7.7,4.23,6.28
+MP,Indore,Indore,Indore,22.63111111,75.79222222,"Rau IIM","Bore Well",W27909,2013,6.1,NA,10,22.25
+MP,Indore,Indore,Indore,22.65638889,75.88555556,"Bilawali Tank","Bore Well",W27920,2013,2.5,5.9,3.31,11.9
+MP,Indore,Indore,Indore,22.67583333,75.85694444,"Indore Pipliyapala","Bore Well",W27928,2013,2.12,3.5,2.24,7.02
+MP,Indore,Indore,Indore,22.67805556,75.92444444,"Deoguradia IMC","Bore Well",W27929,2013,2.55,3.45,1.04,3.2
+MP,Indore,Indore,Indore,22.68722222,76.03,"Khudel New Pz","Bore Well",W27935,2013,3.93,14.4,3.74,31.33
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(S),"Bore Well",W27950,2013,1.6,5.4,NA,NA
+MP,Indore,Indore,Indore,22.705,75.84111111,"Indorecity Mhownaka","Bore Well",W27952,2013,3.5,NA,6.23,16.1
+MP,Indore,Indore,Indore,22.72194444,75.85972222,"Indore IMC Office","Bore Well",W27962,2013,4.3,15.1,5.69,14.7
+MP,Indore,Indore,Indore,22.76416667,75.84305556,"Indore MPEB Grid","Bore Well",W27982,2013,1.6,11.4,4.53,18.3
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(S),"Bore Well",W27997,2013,1.66,13.1,4.02,18.76
+MP,Indore,Indore,Indore,22.79777778,75.74083333,"Hatod PWD New","Bore Well",W27998,2013,1.83,13.2,4.36,18.03
+MP,Indore,Depalpur,Depalpur,22.8475,75.53666667,"Depalpur Block","Bore Well",W28025,2013,'0.4,14.4,2.79,19.3
+MP,Indore,Sawer,Sawer,22.89277778,75.97861111,"Khsipra Budhi Barlai","Bore Well",W28045,2013,1.5,14.9,6.95,24.05
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(S),"Bore Well",W28092,2013,NA,5.4,4.74,7.74
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(S),"Bore Well",W28093,2013,1.4,12.6,NA,16.9
+MP,Indore,Sawer,Sawer,22.97944444,75.83194444,"Sanwer Block","Bore Well",W28095,2013,1.9,5.6,2.84,17.25
+MP,Indore,Depalpur,Depalpur,22.99277778,75.52,"Gautampura Tehsil","Bore Well",W28110,2013,4.07,12.7,5.61,35.57
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2013,NA,NA,9.45,22.58
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2012,NA,6.75,11.55,11.55
+MP,Indore,Sawer,Sawer,23.01388889,75.68361111,Chandrawatiganj,"Bore Well",W28126,2012,NA,NA,9.2,NA
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2012,NA,11.57,6.47,NA
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2012,NA,22.84,8.84,26.94
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2012,NA,NA,9.14,NA
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2012,NA,11.58,3.4,18.1
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2012,NA,11.35,4.25,10.04
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2012,NA,7.64,3.38,8.66
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2012,NA,NA,5.75,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2012,NA,6.88,5.31,18.49
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2012,NA,6.24,NA,9.57
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2012,NA,8.05,6.4,7.45
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2012,NA,10.8,7,12.8
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2012,NA,9.46,NA,17.63
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2012,NA,2.52,6.52,21.39
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2012,NA,22.52,16.3,NA
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2012,NA,5.55,5.25,6.55
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2012,NA,10.77,5.37,12.89
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2012,NA,NA,4.82,NA
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2012,NA,4.65,3.4,5.98
+MP,Indore,Mhow,Mhow,22.54138889,75.73861111,"Mhow Dbiss","Bore Well",W27858,2012,NA,NA,8.3,NA
+MP,Indore,Indore,Indore,22.63111111,75.79222222,"Rau IIM","Bore Well",W27909,2012,NA,NA,11.71,NA
+MP,Indore,Indore,Indore,22.65638889,75.88555556,"Bilawali Tank","Bore Well",W27920,2012,NA,NA,4.45,NA
+MP,Indore,Indore,Indore,22.67583333,75.85694444,"Indore Pipliyapala","Bore Well",W27928,2012,NA,NA,4.55,NA
+MP,Indore,Indore,Indore,22.67805556,75.92444444,"Deoguradia IMC","Bore Well",W27929,2012,NA,NA,2.01,NA
+MP,Indore,Indore,Indore,22.68722222,76.03,"Khudel New Pz","Bore Well",W27935,2012,NA,NA,6.48,NA
+MP,Indore,Indore,Indore,22.705,75.84111111,"Indorecity Mhownaka","Bore Well",W27952,2012,NA,NA,7.33,NA
+MP,Indore,Indore,Indore,22.72194444,75.85972222,"Indore IMC Office","Bore Well",W27962,2012,NA,NA,6.54,NA
+MP,Indore,Indore,Indore,22.76416667,75.84305556,"Indore MPEB Grid","Bore Well",W27982,2012,NA,NA,6.59,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(S),"Bore Well",W27997,2012,NA,NA,5.79,NA
+MP,Indore,Depalpur,Depalpur,22.8475,75.53666667,"Depalpur Block","Bore Well",W28025,2012,NA,NA,6.14,NA
+MP,Indore,Sawer,Sawer,22.89277778,75.97861111,"Khsipra Budhi Barlai","Bore Well",W28045,2012,NA,NA,8.85,NA
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(S),"Bore Well",W28092,2012,NA,NA,5.1,NA
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(S),"Bore Well",W28093,2012,NA,NA,6.06,NA
+MP,Indore,Sawer,Sawer,22.97944444,75.83194444,"Sanwer Block","Bore Well",W28095,2012,NA,NA,3.4,NA
+MP,Indore,Depalpur,Depalpur,22.99277778,75.52,"Gautampura Tehsil","Bore Well",W28110,2012,NA,NA,6.71,NA
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2012,NA,NA,NA,17.15
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2011,4.59,6.49,5.65,8.85
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2011,1.17,4.77,4.03,6.6
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2011,1.89,12.41,NA,22.98
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2011,NA,NA,8.21,NA
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2011,2.95,7.33,3.2,18.1
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2011,'0.28,8.68,5,12.12
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2011,2.96,4.22,2.55,8.76
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2011,NA,NA,5.37,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2011,1.51,6.69,NA,19.28
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2011,'0.09,2.58,NA,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2011,'0.2,7.02,'0.53,6.85
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2011,10.1,NA,6.68,12.9
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2011,2.99,12.71,NA,18.04
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2011,1.64,6.93,NA,11.71
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2011,NA,19.2,16.41,22.26
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2011,1.75,5.02,6.4,6.28
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2011,2.17,10.22,9.16,13.1
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2011,NA,29.18,6.74,NA
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2010,5.8,6.19,5.65,9.48
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2010,5.1,5.1,4.5,7.12
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2010,NA,9.9,NA,NA
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2010,NA,11.99,NA,20.98
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2010,NA,11.58,NA,17.95
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2010,11,12.09,4.7,15.68
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2010,2.05,11.65,1.87,12.71
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2010,6.75,6.18,3.2,8.18
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2010,NA,9.93,NA,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2010,NA,6.3,NA,21.4
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2010,NA,2.94,NA,6.82
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2010,'0.01,5.51,2.1,9.58
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2010,5.55,8.4,6.1,9.92
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2010,NA,16.55,NA,NA
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2010,NA,7.27,NA,NA
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2010,NA,20.32,NA,NA
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2010,'0.9,5.05,4.2,6.2
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2010,5.77,9.15,8.47,13.4
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2010,NA,12.34,NA,15.54
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2010,7.95,12.9,7.22,NA
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2009,5.25,6.75,5.95,8.7
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2009,7.3,6.5,5.6,8.88
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2009,NA,29.28,NA,28.19
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2009,NA,21.64,NA,29.96
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2009,NA,21.64,NA,26
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2009,18.1,14.46,9.9,18.1
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2009,NA,32.7,NA,NA
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2009,8.75,10.91,6.8,13.63
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2009,NA,8.62,7.06,14.61
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2009,NA,22.68,NA,24.48
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2009,3.7,6.76,1.5,7.15
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2009,'0.55,7.91,NA,6.65
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2009,4.5,8.45,NA,14.1
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2009,NA,17.49,NA,18.45
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2009,NA,10.9,NA,13.95
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2009,NA,20.16,NA,32.72
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2009,4.55,5.14,5.7,6.3
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2009,7.57,9.57,9.37,13.67
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2009,NA,14.67,NA,14.75
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2009,4.4,16.9,NA,16.4
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2008,6.2,8.37,5.7,9.65
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,2008,9.22,10.52,NA,NA
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2008,15.98,NA,NA,28.48
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2008,6.94,NA,9,27.34
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2008,6.25,20.15,9.3,26.71
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2008,18.1,14.5,8.79,18.1
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2008,NA,27.22,NA,31.51
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2008,7.83,9.67,12.1,12.65
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2008,14.61,14.61,8.49,14.61
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2008,NA,16.1,NA,28.7
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2008,21.23,11.15,18.02,46.13
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2008,6.45,6.5,1.65,7.9
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2008,'0.55,7.65,2.4,9.65
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2008,14.1,6.7,14.1,14.1
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2008,NA,17.54,NA,NA
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2008,13.99,16.19,17.46,30.59
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2008,8.27,8.65,8.66,13.93
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2008,21.04,NA,15.12,32.12
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2008,5.5,7.5,5.95,6.7
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2008,NA,NA,5.81,NA
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2008,6.47,11.07,9.9,12.92
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2008,20.88,18.93,14.04,14.73
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2008,5.75,4.55,5.5,8.65
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2008,6.35,7.35,15.9,15.75
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2007,4.95,6.55,5.45,9.5
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,2007,5.42,NA,NA,NA
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2007,4.68,15.87,NA,NA
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2007,2.54,13.55,6.95,23.3
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2007,NA,12.13,6.75,23.13
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2007,4.6,10.1,6,15.64
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2007,21.79,26.86,17.2,27.14
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2007,4.57,6.3,3.65,9.05
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2007,10.66,6.95,4.66,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2007,8.1,9.69,9.57,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2007,5.33,6.04,5.91,NA
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2007,NA,3.8,2.05,6.85
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2007,'0.35,5.45,5.25,7.65
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2007,4.45,7.05,NA,14.1
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2007,4.04,6.11,4.02,14.08
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2007,5.94,9.06,7.59,14.57
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2007,3.15,7.28,7,12.77
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2007,5.24,14.8,14.29,22.61
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2007,5.3,6.25,5.2,6.06
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2007,5.1,NA,NA,NA
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2007,4.27,9.15,8.57,13.45
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2007,5.03,12.29,6.69,14.73
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2007,3.9,5.6,4.7,6.75
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2007,3.45,8.3,7.05,16.1
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2006,3.85,7.05,4.8,10.15
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,2006,NA,NA,NA,5.82
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2006,NA,NA,3.26,30.11
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2006,3.5,27.64,5.46,32.94
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2006,3.56,26.23,5.37,29.25
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2006,NA,15.2,2.6,15.7
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2006,21.2,29.5,13.41,30.62
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2006,NA,10.75,2.2,10.75
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2006,4.28,14.61,1.8,8.66
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2006,4.1,18.2,4.12,22.8
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2006,3.03,14.03,4.75,25.03
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2006,'0.4,7.6,1.4,8.1
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2006,1.6,6.78,4.05,NA
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2006,NA,9.3,6.1,14.1
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2006,1.94,4.84,4.83,13.64
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2006,2.94,20.79,NA,33.49
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2006,3.1,9.85,5.87,13.85
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2006,NA,21.64,11.06,25.64
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2006,3.48,5.35,4.4,6.3
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2006,NA,15.3,NA,NA
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2006,1.77,9.99,6.2,13.67
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2006,NA,15.23,NA,14.82
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2006,3.36,7.9,4.25,7.56
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2006,'0.65,14.71,2.6,8.95
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2005,6.34,6.9,6.5,9.3
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2005,6.3,6.37,9.97,15
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2005,28.58,34.77,29.48,36.28
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2005,11.92,15.06,24.94,25.84
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2005,11.72,14.63,22.9,24.85
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2005,15.4,14.76,16.95,15.83
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,2005,17.89,3.39,NA,NA
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2005,28.12,22.56,28.7,31.05
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2005,5.01,9.43,4.25,13.49
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2005,NA,7.2,14.61,14.61
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2005,NA,16.98,NA,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2005,12.4,11.53,NA,NA
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2005,5.75,5.88,9.57,7.83
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,2005,NA,10.7,NA,10.7
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2005,'0.25,5.85,5.55,7.73
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2005,8.06,7.54,14.1,9.99
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2005,5.21,3.91,7.04,13.48
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2005,18.22,-0.41,19.74,32.79
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2005,NA,8.15,8.65,13.42
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2005,20.69,20.33,20.64,NA
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2005,4.36,4.94,4.1,6.39
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2005,NA,NA,5.8,24.13
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2005,8.62,9.47,9.27,12.82
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2005,13.46,13.77,NA,14.99
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2005,6.09,4.88,7,7.25
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,2005,NA,NA,5.17,NA
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2004,1.9,4.28,5.58,7.48
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2004,NA,7.63,11.23,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2004,'0.1,8.55,2.35,7.55
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2004,4.78,7.48,9.66,NA
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2004,2.76,3.54,22.19,14.59
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2004,14.34,18.35,22.41,29.09
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2004,1.65,7.25,7.75,11.67
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2004,NA,NA,NA,30.54
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2004,5.2,5.65,5.55,5.91
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2004,3.15,7.3,NA,NA
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2004,5.81,12.19,8.07,10.67
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2004,10.51,13.66,13.57,14.78
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2004,4.2,5.43,7.6,6.65
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,2004,8.64,6.02,7.97,NA
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2004,5.35,7.21,3,8.55
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2004,7.15,14.85,6.15,15.85
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2004,9.28,16.56,NA,30.08
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2004,2.57,15.94,7.61,-0.66
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2004,2.64,17,5.65,23.08
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2004,13.4,13.52,12.25,15.83
+MP,Indore,Depalpur,Depalpur,22.84583333,75.53833333,Depalpur(D),"Bore Well",W00233,2004,NA,65.34,NA,NA
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,2004,15.48,NA,NA,17.6
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2004,23.24,26.5,16.05,27.38
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2004,'0.65,3.67,6.41,10.75
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2004,4.56,8.28,8.21,14.61
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2004,8.05,13.97,11.92,24.75
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,2004,NA,10.7,NA,10.7
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2003,NA,NA,1.96,7.4
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2003,10.25,NA,5.98,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2003,NA,5.8,2.85,8.13
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2003,5.05,10.31,6,10.8
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2003,3.1,12.82,4.72,25.44
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2003,18.88,23.26,9.64,33.94
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2003,6.29,11.85,6.55,13.5
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2003,18.96,NA,16.1,NA
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2003,2.1,5.32,5.2,6.31
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2003,5.6,NA,5.63,28.3
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2003,6.85,9.57,10.09,12.67
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,2003,10.77,NA,9.73,14.93
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2003,6.16,6.07,4.8,7.45
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,2003,NA,NA,8.52,NA
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2003,4.85,7.2,5.41,9.73
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2003,13.45,16.05,8.25,15.33
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2003,8.34,NA,9.98,NA
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2003,5.42,24.45,8.37,30.98
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2003,5.11,24.94,8.35,28.45
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2003,13.25,NA,8.25,NA
+MP,Indore,Depalpur,Depalpur,22.84583333,75.53833333,Depalpur(D),"Bore Well",W00233,2003,NA,NA,8.28,NA
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,2003,16.57,NA,NA,32.17
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2003,26.85,33.27,20.42,NA
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2003,2.4,10.57,2.51,9.9
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2003,6.83,17.66,5.74,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2003,10.7,19.84,8.5,NA
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,2003,10.7,24.79,7.02,NA
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2002,NA,7.6,4.9,7.7
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2002,NA,56.63,9.27,84.63
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2002,'0.05,8.45,4.56,9.3
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2002,4.2,8.68,8.8,10.1
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2002,4.64,9.14,11.39,14.64
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2002,NA,30.99,2.69,33.09
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2002,6.05,NA,NA,13.25
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2002,NA,22.24,19.35,31.24
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2002,1.5,5.8,5.28,6.2
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2002,NA,71.58,NA,75.92
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2002,10.4,10.65,9.87,10.7
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2002,5.93,8.87,5.5,6.76
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2002,10.05,7.15,6.15,9.7
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2002,NA,11.3,15.35,11
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2002,31.58,46.94,21.26,46.96
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2002,8.82,25.48,22.86,27.69
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2002,8.87,25.05,22.99,27.9
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2002,15.56,NA,NA,NA
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,2002,17.65,18.88,14.15,18.35
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2002,28.27,30.57,29.87,30.56
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2002,6.35,10.4,9.67,13.65
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2002,9.46,17.25,13.82,19.62
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2002,16.5,17.86,14.08,36.85
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,2002,8.68,25.7,22.84,27.75
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,2001,NA,13.4,14.64,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2001,1.5,7.8,6.85,10.05
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2001,6.3,8.2,7.1,7.84
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2001,4.48,14.84,6.08,15.84
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2001,16.76,27.94,18.84,33.29
+MP,Indore,Indore,Indore,22.7375,75.88333333,Musakhedi,"Bore Well",W00846,2001,8.35,NA,NA,NA
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2001,NA,22.44,NA,NA
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2001,5.23,5.65,5.5,6.3
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2001,5.5,NA,NA,33.94
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2001,9.82,12.47,10.42,11.07
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2001,3.22,7.15,6.76,7.28
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,2001,5.22,NA,NA,NA
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2001,6.05,9.1,5.89,10.65
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2001,12.97,11.15,15.6,14.97
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2001,17.8,34.68,18.35,32.88
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2001,8.74,24.94,14.84,30.54
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2001,8.42,23.75,14.79,28.47
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2001,16.73,15.55,16.7,16.73
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,2001,NA,NA,19.32,20.18
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2001,27.98,NA,28.92,24.58
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2001,10.75,9.6,9.94,12.55
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2001,11.22,16.9,14,17.57
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2001,12.05,NA,14.82,34.78
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2001,NA,8,7.48,8.2
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,2000,NA,10.62,NA,NA
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,2000,4.86,6.11,7.2,7.85
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,2000,3.2,4.18,5.65,7.58
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,2000,4.05,3.5,13.54,NA
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,2000,10.29,7.55,16.39,18.94
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,2000,NA,NA,12.99,21.99
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,2000,3.39,5.45,6,5.3
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,2000,NA,5.64,NA,NA
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,2000,7.07,12.58,9.62,11.27
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,2000,4.96,4.77,6.25,NA
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,2000,NA,4,NA,NA
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,2000,5.8,6.64,7.15,8.9
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,2000,12.97,19.56,10.35,NA
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,2000,12.7,14.68,36.48,24.13
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,2000,5.07,19.53,14.89,25.54
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,2000,4.88,18.87,11.95,25.5
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,2000,15.52,14.02,14.2,NA
+MP,Indore,Depalpur,Depalpur,22.84583333,75.53833333,Depalpur(D),"Bore Well",W00233,2000,NA,17.09,NA,17.18
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,2000,NA,13.49,NA,18.45
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,2000,NA,25.51,44.6,28.6
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,2000,4.23,10.23,7.75,8.6
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,2000,6.4,5.6,NA,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,2000,NA,10.89,NA,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,2000,NA,9.78,NA,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,2000,'0.7,7.73,7.05,8.4
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,1999,6.17,12.41,7.87,11.47
+MP,Indore,Mhow,Mhow,22.57833333,75.77916667,Mhow(D),"Bore Well",W00849,1999,NA,8.2,NA,NA
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,1999,3.5,5.26,4.06,8.8
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,1999,3.52,4.22,4.72,8.02
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,1999,3.3,6.75,2.1,9.15
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,1999,8.95,6.75,7.1,16.65
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,1999,5.88,9.96,6.28,20.18
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,1999,13.3,13.3,8.94,21.44
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,1999,NA,13.27,8.65,21.25
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,1999,11.9,9.3,6.1,14.7
+MP,Indore,Depalpur,Depalpur,22.84583333,75.53833333,Depalpur(D),"Bore Well",W00233,1999,3.68,9.68,6.08,29.18
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,1999,3.88,NA,8.95,NA
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,1999,22.4,24,22.15,25
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,1999,NA,10.15,3.15,8.85
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,1999,NA,6.08,7,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,1999,3.93,11.74,4,19.9
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,1999,13.33,11.28,5.87,NA
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,1999,3.3,5.24,3,NA
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,1999,NA,10.01,NA,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,1999,3.99,7.47,5.1,6.95
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,1999,2.64,3.1,5.8,NA
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,1999,NA,3.72,4.64,NA
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,1999,NA,14.76,4.39,19.09
+MP,Indore,Mhow,Mhow,22.43194444,75.61944444,Manpur,"Bore Well",W00847,1999,NA,20.15,NA,NA
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,1999,3.6,5.38,5.1,6.1
+MP,Indore,Sawer,Sawer,22.81555556,75.925,Mangliya(D),"Bore Well",W00851,1999,NA,20.1,NA,NA
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,1998,6.6,8.1,8.01,10.37
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,1998,5.4,4.58,4.81,8.75
+MP,Indore,Sawer,Sawer,22.97777778,75.83333333,Sanwer(D),"Bore Well",W00853,1998,7.26,NA,3.83,NA
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,1998,6.05,6.45,5.36,8.85
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,1998,3.56,14.7,2.98,14.7
+MP,Indore,Sawer,Sawer,22.87166667,75.8575,Dharampuri(D),"Bore Well",W00246,1998,6.58,NA,8.78,NA
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61166667,Betma(D),"Bore Well",W00230,1998,9.53,NA,8.68,NA
+MP,Indore,Depalpur,Depalpur,22.69027778,75.61111111,Betma(S),"Bore Well",W00231,1998,9.54,NA,8.34,NA
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,1998,7.61,5.78,3.74,12.35
+MP,Indore,Depalpur,Depalpur,22.84583333,75.53833333,Depalpur(D),"Bore Well",W00233,1998,7.63,NA,3.78,NA
+MP,Indore,Depalpur,Depalpur,22.97833333,75.52166667,Gautampura(D),"Bore Well",W00235,1998,7.6,NA,4.91,NA
+MP,Indore,Depalpur,Depalpur,22.67111111,75.52583333,Ghatabillod,"Bore Well",W00237,1998,24.6,NA,NA,NA
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,1998,4.51,4.48,1.4,10.32
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,1998,6.25,3.84,2.1,NA
+MP,Indore,Indore,Indore,22.79666667,75.7425,Hatod(D),"Bore Well",W00240,1998,11.61,NA,5.98,NA
+MP,Indore,Indore,Indore,22.70333333,75.88944444,Indore(D),"Bore Well",W00242,1998,13.8,NA,6.25,25.8
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,1998,3.29,2.55,1.02,7.8
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,1998,10.8,8.15,7.37,NA
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,1998,1.39,4.85,1.23,5.95
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,1998,1.35,1.94,1.04,5.4
+MP,Indore,Depalpur,Depalpur,22.79583333,75.65138889,"Yaswant Nagar(S)","Bore Well",W00844,1998,3.92,NA,4.05,12.9
+MP,Indore,Indore,Indore,22.68611111,76.03027778,Khudel(D),"Bore Well",W00845,1998,18.45,NA,8.92,18.45
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,1998,4.43,4.74,5.14,5.8
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,1997,4.8,6.36,4.47,7.9
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,1997,1.08,5.34,4.56,6.3
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,1997,2.64,7.08,1.28,9.1
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,1997,'0.5,5.71,2.75,6.95
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,1997,10.81,8.25,6.02,12.7
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,1997,2.04,5.47,'0.53,7.8
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,1997,3.7,7.32,2.32,7.8
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,1997,1.15,4.88,2.32,5.65
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,1997,3.21,9.99,3.37,15.4
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,1997,9.65,7.19,7.6,11.65
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,1997,5.35,6.7,5.61,8.55
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,1997,6.95,11.6,8.15,12.42
+MP,Indore,Mhow,Mhow,22.54861111,75.76194444,Mhow,"Dug Well",W00848,1996,2.67,5.48,4.75,6.3
+MP,Indore,Indore,Indore,22.79638889,75.74305556,Hatod,"Dug Well",W00239,1996,4.48,7.44,5.39,7.8
+MP,Indore,Depalpur,Depalpur,22.74388889,75.56972222,Rangwasa,"Dug Well",W00842,1996,-0.05,6.76,2.7,7.35
+MP,Indore,Indore,Indore,22.67555556,75.94555556,Dudhiya,"Dug Well",W00238,1996,'0.21,6.77,1.25,8.4
+MP,Indore,Mhow,Mhow,22.51388889,75.91833333,Nandpura,"Dug Well",W00850,1996,2.81,10.24,7.84,13.02
+MP,Indore,Sawer,Sawer,22.97111111,75.82777778,Sanwer,"Dug Well",W00852,1996,4.15,10.12,4.03,8.6
+MP,Indore,Depalpur,Depalpur,22.68055556,75.58944444,Mothala,"Dug Well",W00841,1996,6.96,NA,7.88,13.2
+MP,Indore,Sawer,Sawer,22.87166667,75.85583333,Dharampuri,"Dug Well",W00245,1996,3.25,14.38,3.48,15.15
+MP,Indore,Depalpur,Depalpur,22.80944444,75.67416667,Ushapura,"Dug Well",W00843,1996,6.05,7.75,5.08,9.85
+MP,Indore,Mhow,Mhow,22.45055556,75.94555556,Choral,"Dug Well",W00244,1996,4.69,7.86,5.69,9.75
+MP,Indore,Depalpur,Depalpur,22.67166667,75.68777778,Machal,"Dug Well",W00840,1996,'0.31,7.2,2.36,8.05
+MP,Indore,Depalpur,Depalpur,22.84333333,75.53944444,Depalpur,"Dug Well",W00232,1996,2.36,12.04,5.71,15.7

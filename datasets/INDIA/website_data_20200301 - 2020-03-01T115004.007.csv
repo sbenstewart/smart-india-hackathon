@@ -1,0 +1,347 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2018,NA,5.31,3.28,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.37027778,81.44138889,Tegara,"Dug Well",W26483,2018,NA,3.41,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2018,3.86,5.11,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2018,2.13,6.31,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2018,1.7,13.5,NA,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2018,5.6,7.02,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.2375,81.04166667,Ghotia,"Dug Well",W18847,2018,NA,7.16,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2018,NA,6.15,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2018,NA,7.63,NA,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2018,NA,5.14,NA,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2018,NA,5.41,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2018,NA,5.12,NA,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.4525,81.39277778,Ratesara,"Dug Well",W26521,2018,NA,6.09,1.5,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41416667,81.39388889,Urkura,"Dug Well",W33418,2018,NA,5.51,5.3,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.42527778,81.40583333,Jhipatota,"Dug Well",W33420,2018,NA,5.17,5.2,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,"Kanker1 PZ","Bore Well",W26422,2018,3.5,9.12,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.28333333,81.48333333,Govindpur,"Dug Well",W26427,2018,1.25,4.15,NA,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2018,NA,3.12,2.6,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2017,1.55,4.6,2.8,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.42527778,81.40583333,Jhipatota,"Dug Well",W33420,2017,3.3,5.2,3.7,8.75
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2017,2.9,6.98,NA,8.36
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2017,3.71,7.81,NA,10.16
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2017,4.16,7.58,NA,9.58
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2017,4.28,5.61,NA,6.3
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2017,2.41,NA,NA,7.56
+CG,"Uttar Bastar Kanker",Charama,Charama,20.4525,81.39277778,Ratesara,"Dug Well",W26521,2017,2.89,6.27,4.1,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2017,1.28,2.5,2,5.5
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,"Kanker1 PZ","Bore Well",W26422,2017,4.76,7.25,4.6,12.76
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.28333333,81.48333333,Govindpur,"Dug Well",W26427,2017,1.36,3.52,2.8,6.74
+CG,"Uttar Bastar Kanker",Charama,Charama,20.37027778,81.44138889,Tegara,"Dug Well",W26483,2017,1.69,2.4,1.52,4.48
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2017,4.06,5.76,NA,8
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2017,8.4,7,NA,8.78
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41416667,81.39388889,Urkura,"Dug Well",W33418,2017,3.6,5.65,4.35,7.4
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2017,5.36,7.81,2.6,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2016,1.85,NA,1.3,6.21
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2016,2.61,NA,4.2,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2016,NA,NA,NA,12.09
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2016,1.68,NA,2.21,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2016,NA,NA,3.16,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.42527778,81.40583333,Jhipatota,"Dug Well",W33420,2016,NA,NA,2.6,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,"Kanker1 PZ","Bore Well",W26422,2016,4.08,8.28,5.31,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.28333333,81.48333333,Govindpur,"Dug Well",W26427,2016,1.28,4.36,1.6,7.15
+CG,"Uttar Bastar Kanker",Charama,Charama,20.37027778,81.44138889,Tegara,"Dug Well",W26483,2016,'0.61,3.5,'0.9,4.92
+CG,"Uttar Bastar Kanker",Charama,Charama,20.4525,81.39277778,Ratesara,"Dug Well",W26521,2016,5,6.9,5.47,15
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41416667,81.39388889,Urkura,"Dug Well",W33418,2016,NA,NA,4.13,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2016,2.44,NA,1.57,9.9
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2015,NA,4.23,8.05,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.4525,81.39277778,Ratesara,"Dug Well",W26521,2015,6.9,6.31,4.15,3.14
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2015,NA,5.23,3.73,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2015,NA,3.96,8.7,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2015,NA,3.53,4.62,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2015,NA,5.59,7.21,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2015,NA,NA,3.07,3.58
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2015,NA,5.63,9.13,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2015,NA,2.91,5.56,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.2375,81.04166667,Ghotia,"Dug Well",W18847,2015,NA,4.56,8.9,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2015,NA,5.15,5.51,5.56
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,"Kanker1 PZ","Bore Well",W26422,2015,NA,6.85,6.19,5.86
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar-1,"Dug Well",W26425,2015,NA,4.11,4.21,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.28333333,81.48333333,Govindpur,"Dug Well",W26427,2015,1.33,3.65,2.82,5.73
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,"Bhanupratappur PZ","Bore Well",W26463,2015,NA,8.62,NA,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.37027778,81.44138889,Tegara,"Dug Well",W26483,2015,'0.48,2.74,1.97,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2015,NA,5.08,9.46,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2014,'0.76,5.9,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2014,1.2,3.17,2.51,6.4
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,"Kanker1 PZ","Bore Well",W26422,2014,3.64,3.17,2.9,8.24
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama2,"Dug Well",W31273,2014,NA,5.84,NA,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.37027778,81.44138889,Tegara,"Dug Well",W26483,2014,'0.1,NA,1.24,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.4525,81.39277778,Ratesara,"Dug Well",W26521,2014,1.9,NA,2.75,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.28333333,81.48333333,Govindpur,"Dug Well",W26427,2014,1.05,2.78,5.77,5.47
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama,"Dug Well",W11745,2013,NA,NA,NA,8.2
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2013,3,6.5,5.2,9.7
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama2,"Dug Well",W31273,2013,3.93,NA,4.65,7
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,"Kanker1 PZ","Bore Well",W26422,2013,1.97,5.63,2.57,8.34
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.28333333,81.48333333,Govindpur,"Dug Well",W26427,2013,'0.85,NA,2.5,5.25
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2013,NA,9.9,2.06,9.6
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2012,NA,6.28,5.31,8.2
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,"Kanker1 PZ","Bore Well",W26422,2012,NA,NA,3.76,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2012,NA,NA,NA,9.6
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2012,NA,6.5,5,8.34
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2011,7.73,4.93,4.95,8.88
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2011,3.59,4.2,4.5,9.6
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2011,2.09,NA,4.8,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2010,NA,6.88,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2010,NA,4.59,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2010,NA,12.65,NA,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2010,NA,6.97,3.21,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2010,NA,5.6,NA,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.36,81.66888889,Ganwarsillipara,"Dug Well",W21653,2010,NA,8.38,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2010,NA,6.54,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2010,NA,9.37,NA,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2010,NA,4.24,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2010,NA,5.56,1.67,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2010,NA,3.92,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2009,2.74,7.65,5.69,10.78
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2009,'0.69,4.5,3.91,7.22
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2009,NA,NA,4.59,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2009,9.1,9.85,8.28,12.65
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2009,6.83,7.63,6.28,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.36,81.66888889,Ganwarsillipara,"Dug Well",W21653,2009,2.09,6.6,NA,8.1
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2009,'0.92,4.66,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2009,1.72,6.7,2.97,11.6
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2009,1.41,9.08,8.62,11.19
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2009,'0.7,2.1,2.64,4.97
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2009,1.74,4.9,3.21,9.6
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2009,2.32,5.01,5.94,7.4
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2008,2.4,6.37,5.93,9.02
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2008,2.05,4.55,3.79,7.16
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2008,NA,3.97,3.21,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2008,1.3,12.65,9.15,12.65
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2008,'0.38,6.52,5.95,7.38
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.36,81.66888889,Ganwarsillipara,"Dug Well",W21653,2008,1,NA,4.3,7.5
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2008,1.91,3.7,2.04,16.23
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2008,'0.55,6.7,3.45,7.9
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2008,1.38,8.56,7.63,7.95
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2008,'0.85,2.02,1.83,4.3
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.175,81.50694444,Kulgaon,"Dug Well",W21629,2008,1.5,NA,3.1,5.8
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2008,1.06,4.51,3.46,3.46
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2007,2.92,6.07,5.38,8.55
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2007,1.55,4.42,3.94,6.84
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2007,'0.83,4.43,2.83,5.82
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.21666667,81.00416667,Kokrer,"Dug Well",W11743,2007,NA,NA,NA,1.98
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2007,1.41,10.29,3.05,9.32
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.2375,81.04166667,Ghotia,"Dug Well",W18847,2007,NA,NA,NA,5.29
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2007,1.1,NA,3.33,6.39
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2007,1.13,2.94,1.93,6.29
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2007,1.15,5.4,3.3,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2007,5.17,4.02,7.05,5.59
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2007,'0.9,2.05,1.89,5.07
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2007,4.59,5.73,5.03,8.62
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,2006,NA,4.82,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.2375,81.04166667,Ghotia,"Dug Well",W18847,2006,NA,4.67,NA,NA
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,2006,NA,7.19,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2006,2.07,5.56,4.56,7.3
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2006,1.03,4.25,3.79,7.77
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2006,1.33,3.99,5.49,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.21666667,81.00416667,Kokrer,"Dug Well",W11743,2006,NA,'0.55,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2006,'0.69,8.68,2.56,8.82
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2006,2.11,5.28,4,8.66
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2006,2.11,5.26,NA,6.87
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2006,'0.96,2.88,1.53,6.29
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2006,1.21,5.32,2.31,8.17
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2006,2.96,8.57,6.03,10.68
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08916667,80.67611111,"Kapsi-d (by M/s Techno)","Bore Well",W11761,2006,NA,4.9,NA,NA
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,2006,NA,5.98,NA,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2006,1.07,3.51,1.47,2.03
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2006,NA,4.91,NA,9.65
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,2006,NA,3.24,NA,NA
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,2005,'0.96,6.34,3,9.9
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.2375,81.04166667,Ghotia,"Dug Well",W18847,2005,1.1,4.88,3.27,6.2
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,2005,3.52,7.35,6.7,7.8
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2005,2.11,6.3,4.55,8.95
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2005,'0.94,4.6,3.72,6.72
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2005,'0.73,4.15,3.13,5.78
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.21666667,81.00416667,Kokrer,"Dug Well",W11743,2005,'0.06,'0.5,'0.35,2.65
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2005,'0.79,5.19,2.55,8.23
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2005,4.24,6.89,3.53,7.94
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2005,3.39,4.71,4.08,6.81
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.18472222,80.83472222,"Gumdidih (abandoned)","Dug Well",W11752,2005,'0.12,'0.21,'0.1,1.17
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2005,'0.99,3.61,1.56,7.41
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2005,'0.98,7.08,2.45,9.75
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2005,6.47,8.88,7.08,11.13
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08916667,80.67611111,"Kapsi-d (by M/s Techno)","Bore Well",W11761,2005,1.77,5.45,3.6,6.97
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,2005,2.82,7.82,3.84,9.43
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2005,'0.95,2.07,1.8,4.85
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2005,1.39,3.49,4.49,4.59
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,2005,'0.86,3.25,2.3,4.2
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,2004,1.13,5.45,NA,9.75
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2004,'0.96,2.87,2.55,7.8
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,2004,3.96,7.1,NA,7.67
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2004,1.84,5.8,5.06,8.14
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2004,1.32,3.95,3.86,5.79
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2004,'0.82,3.28,2.98,5.62
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.21666667,81.00416667,Kokrer,"Dug Well",W11743,2004,NA,NA,NA,4.21
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2004,'0.79,2.83,3.18,8.49
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2004,2.23,4.75,4.33,7.64
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2004,'0.9,6.11,2.66,6.79
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.21944444,80.955,Durgkondal,"Dug Well",W11751,2004,NA,NA,NA,1.85
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2004,'0.93,2.06,1.81,6.13
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2004,'0.85,6.27,4.7,8.56
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2004,4.25,7.63,7,10.42
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,2004,'0.3,2.36,1.87,3.82
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08916667,80.67611111,"Kapsi-d (by M/s Techno)","Bore Well",W11761,2004,2.05,4.9,4.33,6.94
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,2004,2,5.99,2.49,8.61
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2004,'0.91,1.55,1.71,1.9
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,2004,'0.92,2.85,2.45,4.41
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,2003,'0.25,6.15,NA,10.51
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2003,'0.94,4.81,1.91,NA
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,2003,NA,7.37,NA,8.11
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2003,2.8,6.85,NA,9.95
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2003,'0.89,4.81,NA,7.97
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2003,'0.63,4.91,NA,7.43
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.21666667,81.00416667,Kokrer,"Dug Well",W11743,2003,-0.05,NA,NA,5.12
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2003,'0.8,7.75,NA,10.37
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2003,4.95,8.86,2.43,9.55
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2003,3.36,7.4,1.96,8.35
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.22083333,80.77083333,Badgaon-2,"Dug Well",W11750,2003,'0.7,NA,NA,NA
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.21944444,80.955,Durgkondal,"Dug Well",W11751,2003,-0.12,NA,NA,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2003,'0.78,5.65,2.57,7.4
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2003,'0.98,8.09,2.42,9.55
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2003,6.54,10.97,7.84,7.99
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,2003,'0.01,3.58,NA,6.37
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08916667,80.67611111,"Kapsi-d (by M/s Techno)","Bore Well",W11761,2003,1.8,5.76,NA,7.4
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,2003,1.84,7.98,NA,9.49
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2003,'0.45,NA,NA,5.5
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,2003,'0.8,3.3,NA,3.77
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,2002,1.34,6.04,3.57,NA
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,2002,'0.58,3.71,3.01,10.83
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,2002,5.04,7.28,7.54,8.5
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2002,4.11,6.82,6.11,9.69
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2002,2.02,4.64,4.4,6.94
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2002,4.32,4.09,6.28,6.15
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2002,4.72,5.38,6.87,8.47
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama,"Dug Well",W11745,2002,NA,5.65,NA,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2002,7.88,6.05,8.28,8.38
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2002,NA,4.9,6.78,7.27
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.22083333,80.77083333,Badgaon-2,"Dug Well",W11750,2002,2.96,5.28,5.45,NA
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.18472222,80.83472222,"Gumdidih (abandoned)","Dug Well",W11752,2002,NA,'0.1,NA,'0.45
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2002,2.41,4.12,4.78,6.42
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2002,1.62,7.74,6.72,6.05
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2002,10.49,6.16,10.78,10.3
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,2002,'0.01,3.14,2.36,5.37
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08916667,80.67611111,"Kapsi-d (by M/s Techno)","Bore Well",W11761,2002,1.45,NA,3.85,7.57
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,2002,5.85,6.5,6.85,9.54
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2002,1.68,2.33,2.63,6.16
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2002,1.42,4.88,3.26,8.55
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2001,1.06,NA,NA,8.63
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2001,1.44,7.74,2.17,9.03
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2001,'0.63,4.78,3.96,7.13
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,2001,'0.54,7.21,4.43,9.33
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2001,NA,NA,4.56,NA
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08916667,80.67611111,"Kapsi-d (by M/s Techno)","Bore Well",W11761,2001,1.33,NA,NA,NA
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,2001,'0.58,5.99,3.14,4.69
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,2001,'0.15,5.53,3.16,6.5
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama,"Dug Well",W11745,2001,2.54,NA,3.2,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2001,3.17,9.68,6.65,11.12
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2001,'0.75,7.54,5.18,10.66
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2001,1.22,7.54,7.6,10.68
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2001,'0.42,6.96,4.33,9.16
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2001,'0.78,4.74,1.84,6.68
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,2001,'0.11,3.2,2.91,4.25
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.18472222,80.83472222,"Gumdidih (abandoned)","Dug Well",W11752,2001,'0.3,NA,'0.7,'0.61
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2001,'0.11,4.26,2.21,6.88
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,2001,2.89,7.31,7.03,7.98
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.22083333,80.77083333,Badgaon-2,"Dug Well",W11750,2001,'0.13,5.02,3.41,NA
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2001,'0.86,5.21,1.61,6.08
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,2000,2.03,6.4,4.25,9.44
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,2000,2.02,1.51,2.3,3.75
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,2000,1.9,5.74,5.61,9.09
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08916667,80.67611111,"Kapsi-d (by M/s Techno)","Bore Well",W11761,2000,1.4,NA,NA,NA
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,2000,'0.04,2.24,1.65,3.17
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,2000,8,7.78,8.44,9.77
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,2000,2.07,7.62,6.75,9.52
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,2000,1.18,2.67,2.63,5.86
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.18472222,80.83472222,"Gumdidih (abandoned)","Dug Well",W11752,2000,NA,NA,-0.35,NA
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.21944444,80.955,Durgkondal,"Dug Well",W11751,2000,NA,NA,4.8,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,2000,5.87,6.25,4.32,8.36
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,2000,5.68,6.53,6.2,8.12
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama,"Dug Well",W11745,2000,7.26,7.78,NA,NA
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,2000,3.14,5.17,5.9,10.08
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,2000,1.53,3.92,3.92,6.33
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,2000,'0.85,4.22,4.14,6.24
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,2000,3.2,5.93,6.01,8.93
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,2000,4.05,7.1,7.05,7.73
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,2000,1.51,3.06,2.55,4.24
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,2000,'0.76,5.6,3.3,8.64
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.22083333,80.77083333,Badgaon-2,"Dug Well",W11750,2000,'0.2,3.97,2.9,6.54
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,1999,1.03,4.18,3.7,5.93
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,1999,6.95,8.06,6.06,10.15
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,1999,1.56,4.1,NA,8.58
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,1999,1.03,2.51,1.49,5.83
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,1999,2.15,5.97,4.29,8.98
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,1999,NA,2.08,1.14,3.02
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.21944444,80.955,Durgkondal,"Dug Well",W11751,1999,NA,4.67,NA,NA
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,1999,3.8,7.15,6.72,7.54
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.22083333,80.77083333,Badgaon-2,"Dug Well",W11750,1999,NA,4.01,1.62,7.09
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,1999,NA,2.7,NA,2.95
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,1999,4.8,5.53,NA,7.33
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,1999,'0.8,2.94,2.16,4
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,1999,5.02,5.74,3.91,7.95
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08916667,80.67611111,"Kapsi-d (by M/s Techno)","Bore Well",W11761,1999,NA,5.63,NA,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama,"Dug Well",W11745,1999,7.96,7.91,6.1,8.9
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,1999,'0.71,5.33,2.6,8.52
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,1999,1.83,5.42,2.95,10.05
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,1999,NA,5.39,3.76,7.98
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,1999,1.07,3.8,2.38,5.89
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,1999,1.51,5.22,3.12,9.33
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,1998,7.42,7.88,7.35,9.95
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,1998,1.74,2.85,2.85,7.3
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,1998,1.16,1.88,1.4,15.67
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.18472222,80.83472222,"Gumdidih (abandoned)","Dug Well",W11752,1998,NA,NA,3.22,'0.21
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.21944444,80.955,Durgkondal,"Dug Well",W11751,1998,3.75,4.4,3.95,7.08
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.22083333,80.77083333,Badgaon-2,"Dug Well",W11750,1998,1.25,4.12,1.86,7.29
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,1998,4.63,5.24,4.6,7.21
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,1998,5.29,4.65,4.72,11.68
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama,"Dug Well",W11745,1998,7.99,6.65,6.02,8.9
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,1998,1.9,4.65,4,11.05
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,1998,1.96,3.87,3.61,6.16
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,1998,4.15,5.73,4.31,9.2
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,1998,3.89,7.14,6.87,7.8
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,1998,'0.94,2.75,2.15,4.58
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,1998,1.09,5.16,2.57,9.65
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,1998,1.9,3.1,3.19,7.45
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,1998,3.75,3.47,3.3,4.85
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,1998,4,5.41,3.54,7.8
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,1998,'0.13,1.95,3.22,3.08
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,1998,2.39,3.72,3.15,5.24
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,1997,3.91,6.18,3.82,8.53
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,1997,3.26,3.54,3.23,4.17
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,1997,3.89,4.21,4.45,4.6
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,1997,1.28,5.56,2.6,9.87
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,1997,1.48,3.2,1.6,4.54
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,1997,3.46,7.32,6.83,7.78
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,1997,3.1,6.67,5.21,9.85
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,1997,'0.65,4,3.94,5.92
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,1997,2.45,4.52,4.25,6.4
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,1997,1.62,6.8,4.6,12.34
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama,"Dug Well",W11745,1997,8.73,8.05,6.37,NA
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,1997,6.68,7.74,4.65,8.27
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,1997,5.46,5.6,5.67,6.87
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.22083333,80.77083333,Badgaon-2,"Dug Well",W11750,1997,1.15,4.74,2.8,NA
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.21944444,80.955,Durgkondal,"Dug Well",W11751,1997,1.95,5.81,4.15,NA
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,1997,1.3,4.1,1.58,6.8
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,1997,1.65,4.83,2.36,8.85
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,1997,6.05,8.17,6.79,10.19
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,1997,'0.77,2.3,1.46,3.73
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.03333333,80.625,Pakhanjor,"Dug Well",W11763,1996,2.32,5.45,4.51,8.3
+CG,"Uttar Bastar Kanker",Koaliboda,Koaliboda,20.08333333,80.67222222,Kapsi,"Dug Well",W11759,1996,'0.12,3.03,1.4,5.97
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.28277778,81.64472222,Murpar,"Dug Well",W11765,1996,1.27,3.88,2.49,7.07
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.09305556,81.16805556,Antagarh,"Dug Well",W11736,1996,'0.8,5.7,3.02,8.57
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,20.14444444,81.14444444,Pondgaon,"Dug Well",W11737,1996,'0.86,3.15,3.45,4.32
+CG,"Uttar Bastar Kanker",Antagarh,Antagarh,19.96388889,81.15555556,Toroki,"Dug Well",W11738,1996,5.2,7.3,7.05,7.76
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.325,81.07361111,Banupartappur,"Dug Well",W11739,1996,2.8,6.37,5.31,9.63
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31805556,81.175,Bhanbera,"Dug Well",W11740,1996,1.03,4.27,3.92,6.35
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.4,81.07777778,Kachhe,"Dug Well",W11742,1996,'0.91,5.19,4.01,7.02
+CG,"Uttar Bastar Kanker",Bhanupratappur,Bhanupratappur,20.31666667,81.275,Korar,"Dug Well",W11744,1996,'0.3,5.31,3.61,9.4
+CG,"Uttar Bastar Kanker",Charama,Charama,20.48944444,81.37083333,Charama,"Dug Well",W11745,1996,6.88,6.88,6.65,8.9
+CG,"Uttar Bastar Kanker",Charama,Charama,20.39583333,81.42777778,Lakhanpuri,"Dug Well",W11748,1996,6.58,5.66,6.25,5.78
+CG,"Uttar Bastar Kanker",Charama,Charama,20.41666667,81.62222222,Narharpur,"Dug Well",W11749,1996,4.5,3.55,3.92,6.06
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.22083333,80.77083333,Badgaon-2,"Dug Well",W11750,1996,'0.32,3.45,2.84,6.76
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.21944444,80.955,Durgkondal,"Dug Well",W11751,1996,2.16,4.57,4.18,7.08
+CG,"Uttar Bastar Kanker","Durg Kodal","Durg Kodal",20.18472222,80.83472222,"Gumdidih (abandoned)","Dug Well",W11752,1996,3,4.15,3.94,8.56
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30833333,81.40833333,Devri,"Dug Well",W11753,1996,1.39,2.96,1.77,6.33
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.27916667,81.49583333,Kanker-1,"Dug Well",W11754,1996,2.35,6.08,2.51,9.55
+CG,"Uttar Bastar Kanker",Kanker,Kanker,20.30138889,81.32777778,Markatola1,"Dug Well",W11757,1996,6.09,7.47,6.55,9.87
+CG,"Uttar Bastar Kanker",Sarana(narharpur),Sarana(narharpur),20.2875,81.75416667,Dudhawa,"Dug Well",W11764,1996,'0.55,2.94,2.33,7.6

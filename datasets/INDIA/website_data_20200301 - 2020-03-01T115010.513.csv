@@ -1,0 +1,300 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2018,NA,11.43,12.73,NA
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2018,NA,10.29,7.35,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2018,NA,14.37,16.3,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2018,NA,7.73,8.31,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden.(SH)","Tube Well",W29886,2018,NA,7.55,7.85,NA
+DL,"New Delhi","New Delhi","Connaught Place",28.61444444,77.24638889,"Pragati Maidan","Tube Well",W21321,2018,NA,8.61,NA,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2018,NA,28.45,28.38,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2018,NA,NA,8.42,8.71
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2018,13.2,NA,NA,14
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2018,NA,11.05,11.77,NA
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2017,13.24,11.99,12.3,NA
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2017,NA,NA,NA,12.91
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2017,NA,NA,NA,10.92
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2017,7.95,11.04,NA,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2017,NA,20.49,NA,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2017,NA,12.69,NA,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden.(SH)","Tube Well",W29886,2017,7.85,7.78,7.75,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2017,7.65,8.77,7.44,8.39
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2017,14.73,14.67,17.15,16.19
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2017,8.03,7.98,7.9,6.9
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2017,11.46,13.95,11.41,11.9
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2017,NA,26.61,28.3,24.65
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2017,NA,NA,NA,43.34
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2017,13.28,12.15,12.49,13.24
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2016,7.91,11.86,9.94,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2016,7.17,8.13,7.23,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2016,26.79,27.19,27.89,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2016,23.82,21.9,24.08,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2016,15.4,15.59,15.55,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2016,7.63,NA,8.55,9.76
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden.(SH)","Tube Well",W29886,2016,7.37,8.12,8.35,9.57
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2016,11.93,NA,12.27,12.13
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2016,12.27,NA,12.39,12.99
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2016,13.63,NA,13.76,14.01
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2016,20.8,NA,20.28,22.9
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2016,12.64,NA,12.18,13.2
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2016,11.56,NA,11.9,12.58
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2015,8.32,9.24,11.95,13.5
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2015,6.85,5.47,8.15,7.44
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2015,26.46,27.3,26.83,27.08
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2015,21.4,23.23,20.06,24.12
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2015,14.63,14.47,16.53,14.86
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2015,7.55,8.03,8.12,7.92
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden.(SH)","Tube Well",W29886,2015,7.23,7.73,7.8,7.55
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2015,11.94,14.06,12.35,14.58
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2015,12.13,13.9,12.54,14.11
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2015,13.52,15.14,13.46,14.97
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2015,20.78,20.56,20.26,21.05
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2015,13.08,13.14,12.16,13.31
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2015,11.8,11.6,12.05,12.1
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2014,12.53,9.2,10.78,13.3
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2014,6.07,5.23,6.88,5.98
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2014,27.43,25.51,27.79,26.97
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2014,21.53,20.74,22.36,20.57
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2014,14.4,13.67,18.01,14.25
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2014,8.67,7.38,8.72,8.6
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden.(SH)","Tube Well",W29886,2014,8.34,6.95,8.47,7.9
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2014,14.5,12.69,13.83,13.97
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2014,11.48,12.49,13.72,12.95
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2014,14.78,13.23,14.91,13.84
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2014,19.67,18.26,20.49,18.37
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2014,12.59,12.79,13.03,12.84
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2014,12.04,10.98,12.61,11.36
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2013,8.48,9.35,9.01,14.86
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2013,5.38,5.99,5.24,7.46
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2013,26.06,25.16,25.63,25.92
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2013,21.35,21.64,19.05,22.68
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2013,15.01,17.1,13.92,17.95
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2013,8.74,9.3,7.82,10.25
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden.(SH)","Tube Well",W29886,2013,8.37,9.53,7.52,10.06
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2013,13.81,15.15,13.47,15.38
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2013,12.82,14.4,12.5,14.87
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2013,12.82,15.31,13.4,15.8
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2013,17.59,17.93,17.93,16.73
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2013,11.34,12.51,12.46,16.73
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2013,12.28,12.03,11.49,13.6
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2012,NA,8.7,NA,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden.(SH)","Tube Well",W29886,2012,NA,NA,9.75,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2012,NA,6.69,6.11,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2012,NA,23,25.05,24.05
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2012,NA,22.09,21.94,22.74
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2012,NA,15.8,16.95,17.35
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2012,NA,8.76,NA,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2012,NA,8.87,9.72,10.3
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2012,NA,12.3,11.7,12.92
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2012,NA,13.53,15.16,14.85
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2012,NA,NA,14.37,14.22
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2012,NA,13.6,15.25,15.01
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2012,NA,17.64,17.9,18.12
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2012,NA,11.42,12.45,11.82
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2012,NA,7.9,9.1,7.3
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2011,10.9,8,12,9.26
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2011,11.68,10.02,11.35,10.97
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2011,4.64,6.09,4.79,7.89
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2011,23.5,23.95,23.15,23.25
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2011,22.44,20.64,22.44,21.84
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2011,13.45,12.25,15.85,13.77
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2011,NA,28.4,NA,28.4
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2011,7.28,6,8.82,8.15
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2011,9.46,7.74,9.1,9.52
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2011,12.6,11.4,12.2,12.07
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2011,12.03,12.93,12.45,13.25
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2011,12.15,13.5,13.03,13.66
+DL,"New Delhi","New Delhi","Chanakya Puri",28.62416667,77.20138889,Talkatora,"Dug Well",W18946,2011,NA,15.9,NA,17.25
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2011,16.65,14.69,17.61,16.52
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2011,5.55,4.9,6.9,6.3
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2010,8.7,8.34,8.48,8.82
+DL,"New Delhi","New Delhi","Connaught Place",28.61444444,77.24638889,"Pragati Maidan","Tube Well",W21321,2010,NA,4.01,NA,4.2
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2010,6.32,5.24,6.61,7.49
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2010,25.48,26.44,24.55,26.41
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2010,24.44,23.25,20.7,24.74
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2010,NA,15.34,NA,15.32
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2010,15.62,14.07,12.25,17.25
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2010,28.4,30,NA,28.4
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2010,NA,18.73,NA,18.54
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2010,7.38,8.96,4,10.22
+DL,"New Delhi","New Delhi","Parliament Street",28.63611111,77.20277778,"Cannaught place","Tube Well",W18939,2010,NA,18.76,NA,18.7
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2010,10.58,9.85,8.49,11.2
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2010,14.25,10.75,11.99,44.1
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2010,15.55,17.21,12.75,19.1
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2010,NA,NA,11.36,16.2
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2010,6.13,17.01,14,18.2
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2010,NA,15.96,14.69,18.81
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2010,NA,10.87,10.02,12.28
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59666667,77.21666667,"Aurangzeb Lane RWH","Tube Well",W20635,2010,NA,17.13,NA,15.32
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2010,5.95,3.41,2.5,11.45
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2009,8.86,7.9,8.11,8.55
+DL,"New Delhi","New Delhi","Connaught Place",28.61444444,77.24638889,"Pragati Maidan","Tube Well",W21321,2009,4.3,3.82,3.85,4.15
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2009,4.86,5.58,5.09,6.13
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2009,25.25,24.65,25.9,25.75
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2009,23.84,21.79,23.14,22.99
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2009,15.92,13.89,14.81,15.28
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2009,19.5,13.83,13.78,16.81
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2009,28.4,28.4,27.73,26.93
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2009,18.83,17.9,18.39,18.49
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2009,10.18,9.85,8.2,10.82
+DL,"New Delhi","New Delhi","Parliament Street",28.63611111,77.20277778,"Cannaught place","Tube Well",W18939,2009,18.66,17.56,18.11,18.68
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2009,10.64,8.55,9.03,9.84
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2009,13.7,10.55,11.21,11.56
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2009,17.55,16.05,16.79,17.4
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2009,17.36,15.71,16.18,17.15
+DL,"New Delhi","New Delhi","Chanakya Puri",28.62416667,77.20138889,Talkatora,"Dug Well",W18946,2009,21.06,18.8,20.46,19.82
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2009,19.12,15.8,15.7,18.78
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2009,12.79,10.3,10.48,12.26
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59666667,77.21666667,"Aurangzeb Lane RWH","Tube Well",W20635,2009,18.12,14.88,17.56,15.3
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2009,4.82,5.12,4.8,5.76
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2008,7.98,NA,8.05,7.4
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2008,4.58,NA,4.14,11.25
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2008,4.37,NA,4.66,5.69
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2008,24.35,NA,23.97,24.46
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2008,23.45,NA,22.9,23.7
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2008,13.37,NA,14.6,10.68
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2008,14.49,NA,13.94,15.3
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2008,30,NA,30,26.69
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2008,17.23,NA,17.78,14.92
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2008,9.48,NA,9.57,10.87
+DL,"New Delhi","New Delhi","Parliament Street",28.63611111,77.20277778,"Cannaught place","Tube Well",W18939,2008,16.95,NA,17.32,17.01
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2008,5.94,8.4,8.2,8.78
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2008,12.51,10.15,11.99,12.47
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2008,15.39,13.41,16.37,13.68
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2008,15.62,NA,16.42,15.52
+DL,"New Delhi","New Delhi","Chanakya Puri",28.62416667,77.20138889,Talkatora,"Dug Well",W18946,2008,17.48,NA,18.2,17.95
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2008,17.37,NA,15.7,17.9
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2008,11.54,NA,10.1,11.78
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59666667,77.21666667,"Aurangzeb Lane RWH","Tube Well",W20635,2008,12.85,NA,12.75,12.7
+DL,"New Delhi","New Delhi","Connaught Place",28.61444444,77.24638889,"Pragati Maidan","Tube Well",W21321,2008,3.32,3.39,3.76,3.71
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2007,NA,14.78,NA,14.95
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2007,NA,12.32,NA,12.58
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2007,NA,10.09,NA,10.4
+DL,"New Delhi","New Delhi","Chanakya Puri",28.62416667,77.20138889,Talkatora,"Dug Well",W18946,2007,NA,15.92,NA,16.75
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2007,NA,24.72,NA,26.37
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59666667,77.21666667,"Aurangzeb Lane RWH","Tube Well",W20635,2007,NA,12.56,NA,13.03
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2007,NA,14.06,NA,14.45
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2007,NA,22.1,NA,23.18
+DL,"New Delhi","New Delhi","Connaught Place",28.61444444,77.24638889,"Pragati Maidan","Tube Well",W21321,2007,2.91,NA,3.13,3.52
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2007,NA,23.74,NA,24.49
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2007,NA,14.57,NA,15.27
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2007,NA,8.33,NA,8.64
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2007,NA,5.52,NA,7.09
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2007,NA,9.14,NA,9.29
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2007,NA,10.07,NA,10.84
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2007,NA,10.78,NA,10.92
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2007,12.89,14.07,13.82,18.39
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2007,12.28,12.87,12.63,12.75
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2007,NA,6.9,NA,7.39
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2007,NA,10.03,NA,10.2
+DL,"New Delhi","New Delhi","Parliament Street",28.63611111,77.20277778,"Cannaught place","Tube Well",W18939,2007,NA,16,NA,16.51
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2006,14.12,15.38,16.55,16.01
+DL,"New Delhi","New Delhi","Chanakya Puri",28.62416667,77.20138889,Talkatora,"Dug Well",W18946,2006,16.9,17.42,15.32,15.75
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2006,14.17,13.65,13.91,14.8
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2006,12.28,12.4,NA,12.38
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2006,13.18,13.96,12.97,13.53
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2006,10.6,11.6,10.49,11.25
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2006,9.76,9.41,9.31,10.28
+DL,"New Delhi","New Delhi","Parliament Street",28.63611111,77.20277778,"Cannaught place","Tube Well",W18939,2006,13.01,NA,15.31,NA
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2006,9.1,9.05,9.7,9.87
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2006,14.58,14.66,14.81,14.84
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2006,23.1,22.37,22.6,22.37
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2006,17.85,16.84,12.37,14.62
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2006,10.24,10.12,9.47,9.59
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2006,21.74,20.11,23.14,22.74
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2006,21.55,21.84,22.8,23.03
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2006,5.12,3.19,5.19,5.38
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2006,9.76,8.81,10.71,10.14
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2006,6.16,6.96,6.58,7.23
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59666667,77.21666667,"Aurangzeb Lane RWH","Tube Well",W20635,2006,11.15,12.25,12.23,12.93
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2006,8.06,9.3,9.92,9.78
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2005,14.87,NA,14.75,14.8
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61722222,77.2,"Presidents Estate-2","Tube Well",W19458,2005,8.83,8.6,8.95,9.13
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2005,4.59,NA,3.57,NA
+DL,"New Delhi","New Delhi","Parliament Street",28.63277778,77.19583333,"Mandir Lane Pz","Tube Well",W18537,2005,8.9,8.8,9.55,9.5
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59166667,77.22055556,"Lodhi Graden Dw","Dug Well",W18942,2005,9.94,11.5,NA,11.16
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2005,21.82,22.5,21.71,22.05
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2005,20.45,16.3,17.41,19.9
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.21638889,"Lodhi Garden (D)-1","Tube Well",W18940,2005,NA,8.4,9.15,8.53
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2005,22.96,22.54,21.13,21.34
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2005,9.32,8.95,9.7,9.5
+DL,"New Delhi","New Delhi","Parliament Street",28.615,77.21222222,"Shram Shakti Bhawan-2","Tube Well",W18944,2005,13.46,14.85,12.7,13.48
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2005,10.52,12.09,9.04,11.29
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2005,6.71,7.1,6.89,6.45
+DL,"New Delhi","New Delhi","Parliament Street",28.61527778,77.2125,"Shram Shakti Bhawan-3","Tube Well",W18945,2005,16.4,15.4,15.08,15.62
+DL,"New Delhi","New Delhi","Chanakya Puri",28.62416667,77.20138889,Talkatora,"Dug Well",W18946,2005,16.92,15.4,17.1,15.1
+DL,"New Delhi","New Delhi","Parliament Street",28.63611111,77.20277778,"Cannaught place","Tube Well",W18939,2005,NA,13.6,NA,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59666667,77.21666667,"Aurangzeb Lane RWH","Tube Well",W20635,2005,NA,NA,11.71,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.61166667,77.19944444,"Presidents Estate-1","Tube Well",W19457,2005,14.84,14.85,14.9,15.39
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2005,22.69,22.4,22.73,21.57
+DL,"New Delhi","New Delhi","Parliament Street",28.61472222,77.21194444,"Shram Shakti Bhawan-1","Tube Well",W18943,2005,14.03,15.15,13.27,14.28
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2004,14.15,NA,14.8,14.67
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2004,5.94,5.65,5.9,6.03
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2004,13.3,6.35,2.71,13.52
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2004,NA,3.82,4.71,5.1
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2004,21.45,21.1,21.47,21.86
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2004,NA,NA,NA,12.99
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2004,11.11,9.8,17.21,14.33
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2004,23.07,18.17,21.17,20.75
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2003,2.91,4.16,3.84,4.8
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2003,13.19,12.3,13.15,13.58
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,2003,22.9,23.75,21.55,24.77
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2003,5.55,6.1,5.43,6.54
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2003,18.24,23.34,22.34,22.95
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2003,7.69,7.69,11.7,9.34
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2003,21.54,21.47,20.77,23.26
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2003,1.99,8.8,4.8,13.29
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2003,9.25,10.2,11,11.24
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2002,5.14,4.19,4.59,4.89
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2002,14.21,10.91,14.48,14.86
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2002,6,5.6,6.05,6
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2002,13.9,12.8,13.2,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2002,21.56,20.47,21.37,21.02
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2002,18.15,9.65,18.75,16.35
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2002,7.88,NA,7.29,6.35
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2002,22.04,19.34,21.74,19.79
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2001,12.23,11.3,12.6,12.6
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2001,18.16,17.44,19.34,19.84
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2001,5.3,5.85,5.44,5.45
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2001,9.92,15.7,11.85,15.05
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2001,5.67,5.55,6.45,6.4
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2001,20.62,19.92,20.67,20.32
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2001,9.17,8.06,11.81,11.71
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2001,3.74,4.81,4.89,4.18
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60611111,77.21,"Nehru Park","Dug Well",W01492,2000,18.49,15.73,NA,17.94
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,2000,3.36,3.97,3.97,4.39
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,2000,5.74,5.25,NA,5.4
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,2000,20.76,19.27,20.13,19.57
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,2000,NA,13.49,13.4,14.95
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,2000,12.5,NA,10.43,12.42
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,2000,4.97,6.35,5.68,6.88
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,2000,6.01,3.81,8.66,6.66
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,1999,18.58,17.49,18.93,18.29
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,1999,2.01,5.81,4.91,7.31
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,1999,NA,15.95,19.36,16.05
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,1999,4.19,3.55,4.11,4.35
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,1999,9.92,8.05,11.6,10.1
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,1999,9.03,8.93,16.25,10.35
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,1999,5.45,5,5.3,5.2
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,1999,5.64,4.2,6.8,5.4
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,1998,4.6,4.95,4.7,5.36
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,1998,17.49,16.89,17.89,19.99
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,1998,2.63,4.51,3.61,7.51
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,1998,10.44,10.7,9.3,10.94
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,1998,17.55,16.35,16.85,17.42
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,1998,4.25,4.5,3.52,5.08
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,1998,3.52,3.44,3.39,4.32
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,1998,12.43,NA,7.04,11.28
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,1997,7.08,NA,4.5,7.83
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,1997,4.34,3.68,4.4,4.12
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,1997,15.87,NA,16.4,13.05
+DL,"New Delhi","New Delhi","Chanakya Puri",28.6125,77.225,"India Gate","Tube Well",W01487,1997,3.44,3.09,3.02,3.56
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,1997,6.51,3.77,NA,7.91
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,1997,4.9,4.83,5.1,4.98
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,1997,9,7.34,9.32,8.25
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,1997,17.68,NA,17.49,20.89
+DL,"New Delhi","Central Delhi","Darya Ganj",28.62916667,77.2375,"Parsi Dharamsala","Dug Well",W01483,1996,4.32,4.94,4.65,5.15
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60416667,77.175,"Mahabir Vansth.","Tube Well",W01491,1996,NA,NA,15.59,NA
+DL,"New Delhi","New Delhi","Parliament Street",28.63194444,77.19861111,"Birla Mandir","Dug Well",W01486,1996,1.37,5.34,3.83,4.91
+DL,"New Delhi","New Delhi","Chanakya Puri",28.60138889,77.225,"South Block","Tube Well",W01496,1996,5.03,NA,6.14,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.18416667,"Shanti Path","Dug Well",W01495,1996,20.58,19.66,18.27,20.79
+DL,"New Delhi","New Delhi","Parliament Street",28.61666667,77.21388889,"Rail Bhavan","Tube Well",W01493,1996,2.31,NA,3,NA
+DL,"New Delhi","New Delhi","Chanakya Puri",28.59027778,77.2125,"Safdarganj Tomb","Dug Well",W01494,1996,4.65,6.03,4.63,22.5

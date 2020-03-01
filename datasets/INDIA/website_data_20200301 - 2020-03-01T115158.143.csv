@@ -1,0 +1,508 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2018,4.26,3.25,NA,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.66916667,77.75777778,Raisalpur,"Dug Well",W27927,2018,NA,6.9,8.84,NA
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2018,4.41,4.97,NA,NA
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2018,2.48,2.67,NA,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2018,3.4,3.22,NA,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2018,'0.61,6.56,NA,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2018,6.21,6.62,NA,NA
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2018,8.57,8.17,NA,NA
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2018,6.27,6.01,NA,NA
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2018,11.66,11.58,NA,NA
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2018,4.73,8.5,NA,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2018,7.57,7.01,NA,NA
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2018,NA,10.02,13.3,NA
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2018,NA,6.01,6.84,NA
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2018,NA,8.1,8.32,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2018,NA,1.93,1.39,NA
+MP,Hoshangabad,Kesla,Kesla,22.4775,77.83972222,Kesla,"Dug Well",W27824,2018,3.29,3.53,NA,NA
+MP,Hoshangabad,Kesla,Kesla,22.63,77.91805556,"Gurra New","Dug Well",W27907,2018,6.59,12.01,NA,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2018,12.11,17.64,NA,NA
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2017,2.83,NA,2.28,5.13
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.66916667,77.75777778,Raisalpur,"Dug Well",W27927,2017,9.5,7.54,9.7,11.27
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2017,4.04,5.26,4.92,8.32
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2017,2.72,2.99,2.95,3.95
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2017,4.73,3.41,5.8,6.7
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2017,6.23,5,7.45,7.98
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2017,6.45,4.42,5.69,6.07
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2017,13.9,15.55,14.05,14.17
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2017,6.83,6.41,5.93,8.49
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2017,8.65,7.96,8.05,9.5
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2017,8.4,6.78,8.83,8
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2017,'0.29,1.53,1.03,2.24
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2017,NA,5.42,6.14,6.63
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2017,8.6,NA,8.65,10.6
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2017,13.51,13.52,NA,2.37
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2017,6.53,5.38,NA,6.55
+MP,Hoshangabad,Kesla,Kesla,22.4775,77.83972222,Kesla,"Dug Well",W27824,2017,3.77,3.75,3.01,3.9
+MP,Hoshangabad,Kesla,Kesla,22.63,77.91805556,"Gurra New","Dug Well",W27907,2017,8.95,10.81,11.8,13.3
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2017,14.6,14.62,14.73,16.45
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2016,5.47,8.01,8.77,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.66916667,77.75777778,Raisalpur,"Dug Well",W27927,2016,3.95,6.7,6.4,4.76
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2016,1.43,5.38,NA,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2016,1.52,2.03,4.6,NA
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2016,'0.93,2.65,2.1,NA
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2016,'0.34,1.35,1.53,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2016,6.65,7.38,6.26,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2016,NA,1.57,'0.76,2.01
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2016,11.17,13.63,14.53,NA
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2016,2.78,4.77,4.72,NA
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2016,1.23,6.03,4.73,NA
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2016,3.71,8.07,6.75,NA
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2016,4.78,NA,8.5,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2016,3.45,NA,3.08,5.8
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2016,9.08,NA,10.6,18.3
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2016,1.45,NA,4.06,8.48
+MP,Hoshangabad,Kesla,Kesla,22.4775,77.83972222,Kesla,"Dug Well",W27824,2016,1.36,3.55,3.17,6.1
+MP,Hoshangabad,Kesla,Kesla,22.63,77.91805556,"Gurra New","Dug Well",W27907,2016,7.82,10.6,10.55,12.8
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2016,2.29,4.18,5.89,NA
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2015,8.3,8.97,8.92,9.87
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.66916667,77.75777778,Raisalpur,"Dug Well",W27927,2015,5.82,NA,6.67,7.82
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2015,2.76,3.29,5.38,3.73
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2015,4.82,1.81,5.6,5.4
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2015,1.77,2.47,2.91,3.4
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2015,1.08,2.02,1.54,7.05
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2015,7.04,7.08,8.67,9.22
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2015,'0.49,'0.86,'0.7,1.24
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2015,13.47,14.35,14.77,15.55
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2015,4.12,'0.55,4.94,12.58
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2015,3.22,5.27,6.21,6.85
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2015,5.67,7.51,6.55,8.37
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2015,6.88,9.5,8.07,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2015,4.25,4.55,4.85,4.93
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2015,10.58,11.5,11.02,14.5
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2015,4.35,4.8,6.15,7.95
+MP,Hoshangabad,Kesla,Kesla,22.4775,77.83972222,Kesla,"Dug Well",W27824,2015,3.75,4.39,4.2,5.17
+MP,Hoshangabad,Kesla,Kesla,22.63,77.91805556,"Gurra New","Dug Well",W27907,2015,10.32,12.55,11.05,11.95
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2015,5.19,4.69,5.34,7.09
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2014,7.71,7.83,8.15,9.57
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.66916667,77.75777778,Raisalpur,"Dug Well",W27927,2014,NA,NA,5.45,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2014,NA,NA,NA,11.35
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2014,5.27,4.17,5.79,4.3
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2014,NA,17.2,NA,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2014,2.37,2.83,3.43,5.38
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2014,6.42,5.72,NA,7.72
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2014,5.82,1.79,4.16,5.12
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2014,1.64,2.08,2.24,3.2
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2014,1.85,12.93,2.58,4.55
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2014,6.72,5.77,7.02,7.72
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2014,1.14,1.09,'0.99,1.31
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2014,NA,13.16,NA,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2014,2.67,5.49,12.95,14.07
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2014,4.49,4.24,4.59,5.3
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2014,2.63,4.33,5.24,6.65
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2014,6.2,7.37,7.35,8.49
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2014,13.52,1.75,9.37,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2014,5.77,3.75,4.02,4.66
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2014,10.74,5.42,10.8,14.3
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2014,4.67,5.2,8.05,6.5
+MP,Hoshangabad,Kesla,Kesla,22.4775,77.83972222,Kesla,"Dug Well",W27824,2014,3.13,3.42,3.45,3.88
+MP,Hoshangabad,Kesla,Kesla,22.63,77.91805556,"Gurra New","Dug Well",W27907,2014,12.28,16.35,11.7,7.5
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2014,NA,12.32,NA,NA
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,2013,NA,5.15,NA,NA
+MP,Hoshangabad,Kesla,Kesla,22.4775,77.83972222,Kesla,"Dug Well",W27824,2013,'0.55,NA,3.35,4.2
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2013,6.35,4.79,7.8,7
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2013,12.32,12.32,12.32,12.32
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,2013,NA,5.65,NA,NA
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2013,1.21,3.54,4.71,6.79
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2013,8.2,NA,10.52,17.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2013,1.33,3.63,2.95,4.08
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2013,3.06,5.66,5.86,6.445
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2013,NA,1.41,3.5975,4.83
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,2013,NA,11.35,NA,NA
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2013,NA,2.3,2.15,2.9
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2013,'0.43,NA,1.53,5.63
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2013,2.8,8.6,5.78,7.4
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2013,'0.99,1.81,1.09,2.09
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2013,7.25,14.4,10.03,14.35
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2013,1.835,4.61,3.6575,4.84
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2013,'0.305,5.35,3.02,5.455
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2013,1.5,7.3,6.03,8.1
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2013,'0.45,NA,7.05,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2013,1.25,4.1,2.89,5.35
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2013,3.3,12.4,6.72,15.65
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2013,'0.45,5.6,5.73,7.5
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,2013,3.7,11.9,7,15.2
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,2012,NA,NA,9.1,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2012,NA,5.45,4.4,7.4
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2012,NA,12.2,7.2,13
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2012,NA,5.28,NA,NA
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2012,NA,4.39,5.09,7.5
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2012,NA,4.3,13.42,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2012,NA,3.33,3.13,4.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2012,NA,6.52,6.67,7.7
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2012,NA,6.1,2.35,5.4
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2012,NA,4.5,1.8,4.5
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2012,NA,5.63,1.98,5
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2012,NA,7,6.8,9.2
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2012,NA,2.29,1.24,5.7
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2012,NA,13.16,NA,13.8
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2012,NA,13.95,13.47,12.5
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2012,NA,3.82,4.32,5.4
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2012,NA,4.83,4.11,6.6
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2012,NA,6.6,6.14,8.5
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2012,NA,13.52,6.45,14.87
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2012,NA,3.58,3.17,4.8
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2012,NA,6.4,11.2,16.55
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2012,NA,7.65,8.67,9
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2011,6.37,4.15,8.3,9.35
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2011,2.81,4.6,5.05,6.85
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2011,NA,NA,NA,15.33
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2011,-0.48,NA,5.45,11.35
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2011,2.59,4.5,3.5,6.14
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2011,8.9,NA,18,17.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2011,4.29,3.48,3.25,3.93
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2011,3.44,4.67,7.1,7.32
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2011,1.58,1.1,2.2,4.55
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2011,'0.38,2.1,2.7,4.22
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2011,2.33,5.13,4.05,8.51
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2011,6.6,8.55,7.9,7.85
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2011,'0.36,5.85,2.2,7.25
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2011,13.16,NA,13.8,13.16
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2011,10.75,NA,13.53,19.75
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2011,2.92,3.98,4.4,5.44
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2011,1.13,4.68,3.95,5.78
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2011,4.53,7.2,6.7,8.2
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2011,13.52,NA,6.3,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2011,2.75,4.9,3.6,5.25
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2011,7,NA,11.3,13.55
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2011,4.82,NA,8.8,12.2
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2010,7.1,8.05,8.1,9.45
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2010,3.1,4.6,4.55,6.95
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2010,NA,NA,11.35,NA
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2010,3.4,4.79,3.74,6.29
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2010,NA,14.25,14.22,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2010,2.1,2.98,1.83,4.03
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2010,5.6,4.17,5.58,7.52
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2010,'0.9,1.15,1.9,4.7
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2010,NA,2.35,2.2,4.4
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2010,4.9,4.58,4.05,8.63
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2010,8.1,6.8,8,7.8
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2010,1.6,1.64,1.22,7.04
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2010,NA,NA,13.16,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2010,11.6,15.35,14.89,NA
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2010,3.4,'0.21,4.14,5.32
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2010,2.2,2.76,4.13,6.33
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2010,5.9,5.8,7.1,8.05
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2010,NA,6.35,13.52,NA
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2010,4.6,4.65,3.07,4.55
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2010,NA,8.1,9.3,13.4
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2010,NA,10.75,8.37,NA
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2009,7.85,8.2,8.8,7.75
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2009,5.45,6.49,4.33,7.55
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2009,4.8,5.35,NA,11.35
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2009,5.94,4.57,5.68,5.19
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2009,NA,13.69,NA,15.86
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2009,4.8,3.92,2.81,4.83
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2009,7.1,5.65,6.4,6.72
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2009,3.35,4.02,1.33,4.7
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2009,2.94,3.59,2.52,6.8
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2009,7.28,6.31,4.53,5.73
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2009,7.65,7.28,NA,8.7
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2009,1.09,3.34,1.37,1.89
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2009,1,NA,6.9,13.16
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2009,12.7,14.38,14.45,14.75
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2009,4.27,4.66,4.2,6.42
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2009,3.43,3.66,2.48,7.43
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2009,7.85,7.7,5.2,7.05
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2009,10.9,13.52,7.3,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2009,9.7,5.2,5.61,5.75
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2009,4.46,14.71,9.66,18.2
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2009,6.1,12.2,8.25,12.2
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2008,7.98,10.84,8.13,9.81
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2008,4.32,7.64,6.59,6.85
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2008,3.97,7.06,5.46,11.35
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2008,4.89,4.11,4.67,5.09
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2008,12.29,16.02,13.52,17.1
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2008,2.27,4.06,4.43,4.35
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,2008,NA,NA,NA,6.75
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2008,6.23,4.98,8.14,7.54
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2008,2.37,'0.97,3.94,3.79
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2008,2.3,4.04,3.47,5.32
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2008,6.11,4.73,6.33,7.75
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2008,7.19,9.77,6.05,8.38
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2008,1.32,4.72,2.65,2.99
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2008,13.16,13.16,NA,13.16
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2008,11.42,14.99,14.28,14.55
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2008,3.72,4.27,4.56,4.96
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2008,2.03,4.33,3.48,6.16
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2008,5.89,7.57,7.38,7.75
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2008,6.58,13.52,13.24,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2008,2.17,4.55,5.02,5.01
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2008,7.74,11.49,14.6,18.3
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2008,7.83,9.97,12.2,12.2
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2007,5.17,8.35,9.3,9.75
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2007,6.85,4.93,5.31,6.58
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2007,11.64,11.82,NA,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2007,2.87,4.62,5.38,11.35
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2007,3.36,6.71,5.74,6.55
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2007,NA,12.85,14.4,15.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2007,3.16,3.81,3.83,4.65
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2007,4.46,4.02,6.85,7.57
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2007,2.26,3.88,2.52,3.9
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2007,1.51,3.92,2.55,4.33
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2007,2.81,4.39,3.08,7.13
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2007,7.32,7.58,7.7,9.07
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2007,3.72,5.91,2.14,2.85
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2007,5.76,4.71,6.91,13.16
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2007,9.92,14.67,13.43,14.07
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2007,3.18,4.07,4.22,5.07
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2007,1.92,4.73,3.03,6.29
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2007,6.07,8.17,7.2,8.05
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2007,6.13,12.85,7.45,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2007,3.67,3.2,3.9,6.27
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2007,7.8,9.9,10.4,14.4
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2007,10.48,8.5,8.25,11.18
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2006,5.97,8.65,8.97,7.05
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2006,1.69,5.4,3.27,7.5
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2006,NA,10.5,NA,13.73
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2006,'0.43,4.9,4.52,6.56
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2006,3.09,5.44,5.78,6.34
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2006,9.12,12.67,15.2,13.95
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2006,1.98,4.21,3.18,4.23
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,2006,2.59,4.55,6.12,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2006,2.74,4.82,6.09,7.44
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2006,'0.71,1.37,2,4.05
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2006,1.69,2.39,1.89,3.6
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2006,1.14,5.53,3.05,11.99
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2006,7.52,9.07,7.25,10.18
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2006,1.15,2.26,2.19,7.49
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2006,2.83,7.22,5.6,13.16
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2006,10.71,13.95,12.75,14.9
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2006,2.89,4.27,4.22,5.42
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2006,'0.89,4.16,3.2,6.06
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2006,1.67,7.35,6.23,7.75
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2006,1.94,13.52,13.52,13.52
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2006,1.47,4.41,2.29,10.65
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2006,3.7,16.8,8.8,17.4
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2006,5.28,11.16,7.83,12.2
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,2005,10,NA,4.9,10
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62638889,77.63888889,DolariaDW,"Dug Well",W20607,2005,NA,NA,5.62,NA
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2005,7.9,7.7,8.85,8.85
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2005,7.3,10.1,9.1,10.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,2005,3,4.13,NA,7.34
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2005,11.06,11.38,10.98,15.33
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2005,2.5,3.95,4.9,8.76
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2005,4.6,5.51,5.67,6.49
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2005,9.92,12.67,10.85,12.67
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2005,3.03,3.95,3.53,5.13
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,2005,3.95,4.46,6.48,6.5
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2005,4.08,4.29,5.67,7.54
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2005,'0.12,'0.95,2.65,4
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,2005,11.35,11.35,NA,11.35
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2005,1.18,5.03,2.4,5.76
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2005,3.81,5.41,3.23,9.18
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2005,7.9,8.82,8.15,10.25
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2005,1.31,3.62,1.59,8.19
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2005,5.74,7.56,6.14,11.66
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2005,10.65,13.49,11.9,14.02
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2005,2.02,4.37,3.62,5.14
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2005,1.44,4.3,2.68,7.38
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2005,2.75,7.27,2.75,8.17
+MP,Hoshangabad,Kesla,Kesla,22.57638889,77.79583333,PathrautaDW,"Dug Well",W20068,2005,NA,13.51,10.6,NA
+MP,Hoshangabad,Babai,Babai,22.7,77.93888889,BabaiDW,"Dug Well",W20605,2005,NA,NA,3.85,NA
+MP,Hoshangabad,Babai,Babai,22.62916667,77.99305556,BagratawaDW,"Dug Well",W20606,2005,NA,NA,12.5,NA
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,2005,10.1,18.1,NA,18.1
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,2004,10,2.65,10,10
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2004,5.26,6.55,7.55,7.57
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2004,1.37,4,8.5,6.34
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2004,8,3.65,9.22,10.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,2004,7.34,4.15,5.1,7.34
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2004,8.86,4.3,10.58,12.82
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2004,2.53,3.75,3.45,7.87
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2004,1.96,14.87,6.19,5.95
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2004,10.02,11.54,12.12,12.67
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2004,3.39,3.58,4.45,3.92
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,2004,5.88,NA,6.37,6.19
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2004,3.99,3.02,6.75,5.22
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2004,'0.68,1,2.28,8.9
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,2004,4.84,11.35,11.35,11.35
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2004,'0.62,1.73,3.17,3.98
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2004,'0.89,2,6.27,7.46
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2004,7.3,2.2,8.62,9.19
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2004,1.65,2.04,1.86,3.73
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2004,6.13,6.7,7.36,8.15
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2004,11.67,13,13.43,13.95
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2004,2.95,4.09,4.4,5.41
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2004,'0.85,8.49,4.03,6.9
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,2004,8.77,4.04,18.1,18.1
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,2003,3.6,NA,NA,NA
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2003,6.65,7.25,6.28,9.23
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2003,7.75,4.18,8.55,6.4
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2003,8.4,NA,7,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,2003,1.5,6.59,3.76,NA
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2003,7.98,10.31,9.13,12.51
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2003,2.1,6.1,3.12,9.14
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2003,3.19,5.57,5.57,6.85
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2003,11.2,NA,12.67,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2003,2.33,3.87,3.01,4.97
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,2003,NA,4.69,NA,7.1
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2003,1.87,4.45,4.52,7.52
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2003,'0.25,'0.84,'0.95,3.77
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,2003,5.3,NA,11.35,NA
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2003,1.75,2.48,1.72,4.4
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2003,2.13,4.87,2.81,7.5
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2003,7.7,8.13,7.8,8.88
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2003,1.39,5.04,'0.51,8.33
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2003,6.81,NA,5.23,8.48
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2003,12.6,12.05,12.35,14.65
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2003,2.47,4.25,4.1,5.07
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2003,1.03,4.23,2.43,6.8
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,2003,8.4,NA,7.62,NA
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,2002,8.1,5,6.35,5.3
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,2002,11.43,NA,11.1,NA
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2002,3.6,4.72,6.75,7.17
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2002,9.12,9.86,8.63,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,2002,3.83,5.3,4.77,6.72
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2002,3.87,5.72,7.13,8.95
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2002,4.05,5.89,5.87,6.93
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2002,NA,12.2,11.69,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2002,2.1,3.83,3.35,4.38
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,2002,NA,4.62,6.21,7.9
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2002,1.97,4.39,6.4,7.62
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2002,'0.16,1.07,2.51,4.25
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,2002,6.64,NA,9.08,NA
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2002,NA,3.72,2.63,5.16
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2002,2.63,5.05,4.01,9.8
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2002,7.6,9.06,8.1,9.9
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2002,1.09,2.88,4.15,8.79
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2002,6.36,NA,6.53,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2002,12.59,13.97,13.43,14.25
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2002,2.39,4.02,4.27,5.09
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2002,1.11,4.5,3,7.83
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2002,5.33,7.35,6.25,7.61
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,2001,2.31,NA,6.04,7.4
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2001,5.77,7.25,7,7.93
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2001,4.17,5.05,6.17,7.6
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2001,3.19,4.07,4.23,4.85
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2001,2.56,3.61,3.87,4.44
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2001,12.04,13.95,13.49,14.23
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,2001,3.94,5.5,5.1,6.76
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2001,6.5,NA,8.72,NA
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2001,11.01,NA,11.8,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2001,2.76,2.79,2.35,8.19
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,2001,5.09,4.1,4.72,4.9
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2001,7.77,8.2,8.1,9.43
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2001,2.89,5.69,6.23,6.99
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2001,1.69,7.68,3.7,8.68
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2001,8.87,11.1,8.55,NA
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2001,1.32,2.42,2.68,4.54
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2001,2.63,4.6,6.53,10.97
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,2001,5.05,NA,7.8,NA
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,2001,11.21,NA,9,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2001,'0.96,1.11,1.61,4.52
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2001,9.05,11.68,10.5,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2001,2.43,5.13,6.1,7.2
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2001,1.11,4.53,3.67,7.75
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,2000,4.35,6.54,7.15,7.17
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,2000,1.69,3.93,4.65,5.23
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,2000,3.62,3.92,6.14,5.47
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,2000,12.4,12.55,15.95,13.15
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,2000,NA,6.27,NA,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,2000,1.79,1.53,4.37,4.5
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,2000,7.96,5.73,8.24,8.23
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,2000,2.69,3.56,5.07,4.41
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,2000,2.14,2.37,3.65,4.69
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,2000,6,NA,NA,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,2000,1.3,1.36,3.13,4
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,2000,NA,3.82,NA,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,2000,2.78,3.22,3.83,3.79
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,2000,10.46,10.9,11,11.6
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,2000,3.49,5.43,4.79,5.36
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,2000,2.62,5.95,4.96,6.82
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,2000,9.18,NA,10.1,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,2000,NA,NA,7.78,NA
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,2000,7,7.91,8.32,NA
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,2000,5.47,7.7,5.35,8.63
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,2000,8.42,8.55,8.78,NA
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,2000,1.5,1.45,3.56,6.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,2000,2.34,3.77,4.98,4.94
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,1999,NA,8.27,5.7,9.3
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,1999,NA,1.89,1.52,4.02
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,1999,NA,6.66,4.43,8.03
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,1999,NA,13.31,10.95,13.45
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,1999,2.53,3.98,3.9,4.82
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,1999,NA,3.83,2.61,6.75
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,1999,NA,6.63,4.68,8.15
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,1999,NA,3.1,'0.63,6.35
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,1999,NA,NA,5,12.55
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,1999,NA,7.93,4.95,7.23
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,1999,NA,8.62,6.73,5.43
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,1999,1.66,4.65,4.81,6.25
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,1999,9.66,10.08,11.5,NA
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,1999,NA,5.1,3.35,10.7
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,1999,3.51,5.44,5.42,7.24
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,1999,NA,NA,8.37,11
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,1999,2.33,3.63,2.83,4.43
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.695,77.75138889,Powarkheda-1,"Tube Well",W00827,1999,NA,NA,3.5,NA
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,1999,3.02,4.26,5.28,7.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,1999,'0.3,'0.75,1.82,3.2
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,1999,3.43,NA,6.89,9.6
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,1999,2.01,2.36,2.25,4.31
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,1999,1.42,3.57,1.72,5.53
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,1998,1.69,1.49,1.39,3.32
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,1998,8.6,8.1,7.92,8.26
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,1998,12.5,12.95,16.15,13.75
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,1998,3.77,3.57,3.79,5.15
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,1998,2.83,2.33,2.52,5.48
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,1998,5.65,6.45,5.63,7.46
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,1998,3.1,2.88,1.9,4.81
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,1998,10.05,9.6,9.5,12.86
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,1998,8.1,8.65,8.77,9.06
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,1998,7,8.45,7.65,8.9
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,1998,6.15,4.4,4.9,5.3
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,1998,11.06,11.48,9.15,12.34
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,1998,4.25,4.5,4.98,7.06
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,1998,5.87,5.84,5.92,6.59
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,1998,10.35,10.6,NA,11.67
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,1998,3.05,2.83,3.13,3.99
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,1998,4.52,3.31,6.24,4.85
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,1998,1.65,1.18,2.82,4.07
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,1998,6.55,4.95,6.55,10.35
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,1998,2.62,2.38,2.25,4.84
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,1998,3.36,1.43,1.69,4.46
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,1998,8.36,5.36,5.5,7.42
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,1997,1.27,1.56,1.54,6.86
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,1997,7.85,8.51,7.96,7.9
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,1997,12.1,13.35,12.55,13.9
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,1997,1.68,3.57,3.88,4.77
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,1997,1.99,4.39,3.27,5.83
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,1997,4.94,7.03,6.55,7.75
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,1997,4.15,4.94,3.8,5.3
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,1997,13.88,13.6,11.6,18.1
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,1997,8.73,9.3,9.13,9.55
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,1997,7.93,9.43,8.35,10.2
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,1997,5.02,4.4,4.76,5.6
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,1997,7.81,11.38,12.13,12.53
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,1997,3.11,4.63,5,8.1
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,1997,2.94,5.39,5.99,6.49
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,1997,11.3,11.03,10.6,12.6
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,1997,2.5,4.33,3.26,3.53
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,1997,1.92,3.02,6.56,4.97
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,1997,'0.13,'0.6,3,4.8
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,1997,4.05,12.55,6.6,11.35
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,1997,1.35,3.6,2.5,3.4
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,1997,'0.98,3.93,2.63,5.73
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,1997,6.42,6.76,5.67,8.21
+MP,Hoshangabad,Pipariya,Pipariya,22.47722222,78.43916667,Pachmarhi,"Dug Well",W00834,1996,1.44,1.33,1.61,4.96
+MP,Hoshangabad,Pipariya,Pipariya,22.59222222,78.45777778,Matkuli,"Dug Well",W00833,1996,8.25,8.36,8.22,9
+MP,Hoshangabad,Pipariya,Pipariya,22.9125,78.35527778,Sandia,"Dug Well",W00836,1996,12.65,12.73,12.98,12.95
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.44833333,77.46555556,Seonimalwa,"Dug Well",W00837,1996,2.74,3.96,3.22,4.34
+MP,Hoshangabad,Sohagpur,Sohagpur,22.68861111,78.09194444,Semri1,"Dug Well",W00838,1996,2.57,4.1,3.2,5.46
+MP,Hoshangabad,Sohagpur,Sohagpur,22.69416667,78.18861111,Sohagpur,"Dug Well",W00839,1996,6.23,6.53,6.49,6.4
+MP,Hoshangabad,Babai,Babai,22.70111111,77.93861111,Babai,"Dug Well",W00222,1996,4.54,3.82,4.23,8.6
+MP,Hoshangabad,Babai,Babai,22.62944444,77.99277778,Bagratawa,"Dug Well",W00223,1996,11.65,10.55,10.02,16.5
+MP,Hoshangabad,Babai,Babai,22.73555556,78.07361111,Baharpur,"Dug Well",W00224,1996,7.81,7.82,8.48,5.79
+MP,Hoshangabad,Bankhedi,Bankhedi,22.76694444,78.53611111,Bankheri,"Dug Well",W00225,1996,NA,9.07,8.4,6.63
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.62694444,77.63888889,Dolaria,"Dug Well",W00226,1996,3.4,4.6,4.4,6.75
+MP,Hoshangabad,Kesla,Kesla,22.62833333,77.87111111,Gurra,"Dug Well",W00227,1996,10.18,11.66,12.28,14.98
+MP,Hoshangabad,Pipariya,Pipariya,22.85888889,78.36444444,Garhaghat,"Dug Well",W00228,1996,1.84,5.45,4.55,6.1
+MP,Hoshangabad,"Seoni Malwa","Seoni Malwa",22.49083333,77.52833333,Bhilatdeo,"Dug Well",W00229,1996,4.09,5.65,5.19,5.85
+MP,Hoshangabad,Babai,Babai,22.80416667,77.96861111,Naserabad,"Dug Well",W00825,1996,11,10.8,9.5,11.05
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.70777778,77.80555556,Nimsadia,"Dug Well",W00826,1996,2.71,3.69,2.63,2.69
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.67361111,77.75,Powarkheda-2,"Dug Well",W00828,1996,2.49,4.44,1.57,4.22
+MP,Hoshangabad,Hoshangabad,Hoshangabad,22.65,77.67666667,Sanwalkhera,"Dug Well",W00829,1996,1.4,1.45,1.6,3.1
+MP,Hoshangabad,Kesla,Kesla,22.57555556,77.79611111,Pathrauta,"Dug Well",W00830,1996,7.15,9.03,6.35,11.3
+MP,Hoshangabad,Kesla,Kesla,22.61666667,77.83416667,Sankhera,"Dug Well",W00831,1996,2.12,2.57,2.45,3.4
+MP,Hoshangabad,Kesla,Kesla,22.4075,77.84277778,Suktawa,"Dug Well",W00832,1996,3.47,3.33,2.6,4.66
+MP,Hoshangabad,Pipariya,Pipariya,22.75,78.35611111,Pipariya,"Dug Well",W00835,1996,6.56,6.48,6.28,6.47

@@ -1,298 +1,243 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2018,1.62,2.35,NA,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2018,2.54,4.58,NA,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2018,1.31,3.62,NA,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2018,2.13,3.76,NA,NA
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2018,1.36,4.33,NA,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2018,1.39,3.93,NA,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.14,84.43194444,"Korigawa Chowk","Dug Well",W29724,2018,'0.84,2.37,NA,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2018,NA,2.68,NA,NA
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2018,NA,NA,3.11,3.29
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.91388889,84.4375,Gurwalia,"Dug Well",W29692,2018,1.55,3.36,NA,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,27.00055556,84.36472222,Shishwania,"Dug Well",W29709,2018,1.55,3.83,NA,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.08111111,84.17416667,Belwa,"Dug Well",W29716,2018,1.27,2.55,NA,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.13944444,84.12472222,Mangalpur,"Dug Well",W29723,2018,1.83,4.12,NA,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2018,1.99,3.49,NA,NA
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2017,1.7,NA,3.15,3.33
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.14,84.43194444,"Korigawa Chowk","Dug Well",W29724,2017,'0.95,2.26,1.48,2.81
-BR,"Pashchim Champaran",Ramnagar,Ramnagar,27.17083333,84.32083333,Ramnagar-2,"Dug Well",W17767,2017,NA,NA,NA,4.43
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2017,1.27,NA,NA,NA
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2017,2.18,NA,NA,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2017,'0.65,4.16,4.7,4.93
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2017,1.55,3.44,3.7,4.06
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2017,2.6,3.56,3.6,4.39
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2017,1.25,1.67,2.45,3.11
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2017,'0.75,3.82,4.15,3.76
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2017,1.85,3.39,3.12,4.85
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.91388889,84.4375,Gurwalia,"Dug Well",W29692,2017,1.55,NA,3.2,3.81
-BR,"Pashchim Champaran",Lauriya,Lauriya,27.00055556,84.36472222,Shishwania,"Dug Well",W29709,2017,2.36,3.7,NA,4.36
-BR,"Pashchim Champaran",Bagaha,Bagha,27.08111111,84.17416667,Belwa,"Dug Well",W29716,2017,1.42,2.48,3.15,2.88
-BR,"Pashchim Champaran",Bagaha,Bagha,27.13944444,84.12472222,Mangalpur,"Dug Well",W29723,2017,1.6,3.98,4.25,4.06
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2017,2.3,2.25,3.12,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2016,1.13,NA,1.33,2.39
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.14,84.43194444,"Korigawa Chowk","Dug Well",W29724,2016,'0.88,3.07,1.98,3.19
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2016,1.48,NA,NA,3.71
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2016,1.35,NA,NA,3.17
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2016,1.51,NA,3.36,4.01
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2016,2.21,NA,NA,3.17
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2016,3.37,NA,4.12,5.01
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2016,2.6,NA,3.11,3.65
-BR,"Pashchim Champaran",Ramnagar,Ramnagar,27.17083333,84.32083333,Ramnagar-2,"Dug Well",W17767,2016,5.08,NA,NA,4.87
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2016,2.45,NA,NA,4.02
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2016,3.98,NA,3.16,4.78
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.91388889,84.4375,Gurwalia,"Dug Well",W29692,2016,1.43,3.09,2.78,2.93
-BR,"Pashchim Champaran",Lauriya,Lauriya,27.00055556,84.36472222,Shishwania,"Dug Well",W29709,2016,2.41,5.76,3.47,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.08111111,84.17416667,Belwa,"Dug Well",W29716,2016,1.47,2.67,2.45,3.5
-BR,"Pashchim Champaran",Bagaha,Bagha,27.13944444,84.12472222,Mangalpur,"Dug Well",W29723,2016,1.55,2.72,3.66,4.29
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2016,1.33,NA,NA,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2015,'0.5,1.28,1.76,2.54
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.14,84.43194444,"Korigawa Chowk","Dug Well",W29724,2015,1,1.98,1.55,2.49
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2015,1.6,3.1,3.16,4.33
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2015,1.84,2.64,3.3,2.19
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2015,1.46,NA,3.26,2.99
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2015,1.67,NA,3.28,6.09
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2015,2.55,3.93,4.42,5.5
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2015,1.74,3.16,3.31,1.74
-BR,"Pashchim Champaran",Ramnagar,Ramnagar,27.17083333,84.32083333,Ramnagar-2,"Dug Well",W17767,2015,5.05,NA,NA,5.05
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2015,2.16,3.2,3.77,4.03
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2015,1.72,3.28,3.32,4.3
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.91388889,84.4375,Gurwalia,"Dug Well",W29692,2015,1.61,2.68,2.79,3.75
-BR,"Pashchim Champaran",Lauriya,Lauriya,27.00055556,84.36472222,Shishwania,"Dug Well",W29709,2015,1.87,NA,4.1,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.08111111,84.17416667,Belwa,"Dug Well",W29716,2015,1.13,2.5,2.22,3.03
-BR,"Pashchim Champaran",Bagaha,Bagha,27.13944444,84.12472222,Mangalpur,"Dug Well",W29723,2015,1.62,3.64,3.59,2.97
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2015,1.78,3.16,4.33,4.74
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2014,1.46,1.27,'0.88,2.73
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2014,'0.38,NA,2.35,NA
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2014,1.53,2.84,2.45,4
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2014,'0.99,2.45,2.58,2.15
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2014,NA,3.94,NA,NA
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2014,1.47,NA,1.08,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.14,84.43194444,"Korigawa Chowk","Dug Well",W29724,2014,1.22,1.98,1.02,3.39
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2014,'0.61,2.89,2.4,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2014,'0.62,3.83,3.6,3.92
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2014,1.03,3.28,2.72,4.54
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.91388889,84.4375,Gurwalia,"Dug Well",W29692,2014,1.04,2.46,2.18,3.65
-BR,"Pashchim Champaran",Bagaha,Bagha,27.08111111,84.17416667,Belwa,"Dug Well",W29716,2014,1.01,3.32,'0.83,3.21
-BR,"Pashchim Champaran",Bagaha,Bagha,27.13944444,84.12472222,Mangalpur,"Dug Well",W29723,2014,'0.98,3.65,2.7,4.23
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2014,1.01,2.29,2.91,5.1
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2013,2.11,NA,1.04,4.89
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2013,2.48,NA,2.15,4.46
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2013,2.49,NA,2.75,3.8
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2013,4.31,NA,2.67,2.57
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.14,84.43194444,"Korigawa Chowk","Dug Well",W29724,2013,'0.86,NA,1.24,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2013,3.59,NA,NA,4.64
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2013,2.02,NA,2.25,4.6
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2013,2.14,NA,2.9,3.93
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2013,2.98,NA,2.77,5.88
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2013,3.39,NA,NA,4.44
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2012,NA,1.65,1.67,3.17
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2012,NA,2.78,2.05,4.33
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2012,NA,3.02,2,3.8
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2012,NA,NA,1.81,3.69
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2012,NA,3.7,NA,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2012,NA,5.03,3.97,5.12
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2012,NA,3.37,3.1,6.03
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2012,NA,3.3,2.15,4.52
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2012,NA,2.44,NA,4.56
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2011,'0.45,1.7,1.2,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2011,1.44,2.75,2.7,NA
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2011,1.52,3,2,4.32
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2011,2.69,NA,3.75,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2011,1.82,3.42,3.97,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2011,1.06,3.5,3.15,6.72
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2011,2.14,NA,2.63,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2010,'0.18,1.95,1.23,2.95
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2010,1.05,3.68,2.42,3.95
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2010,1.74,2.9,2.28,4
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2010,1.78,NA,2.51,3.45
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2010,NA,5.88,NA,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2010,2.06,4.32,3.8,4.92
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2010,'0.85,NA,3.15,4
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2010,'0.72,7.74,1.68,4
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2010,NA,3.76,NA,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2009,'0.65,1.7,1.35,3.5
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2009,1.5,2.7,2.38,4.68
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2009,NA,1.7,NA,NA
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2009,NA,2.54,NA,4.52
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2009,1.87,3.52,3.52,5.48
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2009,1.55,3.55,2.94,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2009,NA,3.44,NA,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2009,NA,3.45,NA,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2008,3.55,NA,5.25,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2008,NA,NA,5.3,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2008,'0.8,4.16,4.3,5.12
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2008,NA,NA,NA,6.09
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,2008,NA,NA,3.28,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2008,NA,NA,NA,5.88
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2008,NA,2.88,3,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2008,1.1,3.34,3.29,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2008,'0.1,2.44,1.74,1.75
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2008,'0.45,2.61,2.4,3.07
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2008,NA,2.43,NA,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2007,NA,NA,3.11,4.14
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2007,NA,3.1,2.58,3.7
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2007,NA,1.46,1.92,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2007,NA,NA,1.89,2.89
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2007,NA,1.83,1.8,3.3
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2007,NA,2.27,2.54,3.35
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2007,NA,NA,NA,5.34
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.3125,84.025,Harnatanr-3,"Dug Well",W12679,2007,NA,NA,3.11,4.14
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2007,NA,4.01,3.42,4.52
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.31277778,84.02583333,Harnatanr-2,"Dug Well",W20862,2006,NA,NA,4.1,5.88
-BR,"Pashchim Champaran",Ramnagar,Ramnagar,27.17083333,84.32083333,Ramnagar-2,"Dug Well",W17767,2006,NA,6.38,6.38,6.38
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2006,1.3,NA,NA,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2006,1.87,NA,3.77,NA
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2006,NA,NA,6.09,NA
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2006,'0.87,2.24,1.72,2.59
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2006,'0.9,1.47,1.2,2.03
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,2006,2.32,5.7,5.7,5.7
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,2006,NA,7.92,7.92,7.92
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2006,1.69,4.74,4.74,4.74
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2005,NA,2.59,4.74,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,2005,NA,3,NA,NA
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,2005,NA,NA,7.92,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2005,'0.15,2.05,1.4,3.7
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28333333,83.9375,Naurangia-2,"Dug Well",W17768,2005,1.22,4.94,NA,NA
-BR,"Pashchim Champaran",Ramnagar,Ramnagar,27.17083333,84.32083333,Ramnagar-2,"Dug Well",W17767,2005,NA,3.76,6.38,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.98333333,84.41666667,Lauria-2,"Dug Well",W17766,2005,NA,3,NA,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.95416667,84.52916667,Chanpatia-2,"Dug Well",W17765,2005,NA,4.02,3.92,4.87
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2005,NA,NA,NA,4.54
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.93194444,84.55361111,Chanpatia-1,"Dug Well",W12677,2005,NA,4.02,3.92,4.87
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2005,NA,2.42,NA,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2005,NA,4.89,NA,4.69
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,2005,NA,3.76,6.38,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,2005,1.22,4.94,NA,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,2005,3.3,NA,5.7,NA
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2005,'0.42,NA,2.07,3.07
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2004,NA,2.85,2,2.53
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,2004,NA,NA,4.77,4.98
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.93194444,84.55361111,Chanpatia-1,"Dug Well",W12677,2004,NA,NA,3.87,3.82
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2004,'0.55,NA,1.88,3.2
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2004,NA,3.1,2.5,3.02
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,2004,NA,3.5,NA,1.78
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,2004,NA,NA,3.41,4.53
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2004,NA,3.1,1.56,2.53
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,2004,1.55,NA,2.54,3.89
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2004,2.71,NA,1.52,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,2003,NA,NA,3.88,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2003,NA,4.69,4.99,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2003,'0.19,2.84,1.79,4
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.09583333,84.41666667,Bagaha-2,"Dug Well",W12514,2003,NA,2.84,NA,4
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.93194444,84.55361111,Chanpatia-1,"Dug Well",W12677,2003,NA,3.94,3.91,5.5
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.30916667,84.05138889,Harnatanr-1,"Dug Well",W12678,2003,NA,3.7,3.42,NA
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2003,NA,NA,2.49,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2003,'0.45,12,1.52,3.7
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,2003,NA,3.1,2.28,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.94444444,84.53888889,Panchpurwa-1,"Dug Well",W12903,2003,NA,2.69,NA,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,2003,NA,3.35,2.39,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2003,NA,2.69,2.39,NA
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2003,NA,2.42,1.59,3.5
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,2003,NA,3.69,'0.82,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.10666667,84.48805556,Narkatiaganj-2,"Dug Well",W12908,2003,NA,3.69,NA,NA
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,2003,NA,NA,3.26,NA
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,2002,1.8,1.1,2.41,NA
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2002,'0.67,1.68,NA,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.94444444,84.53888889,Panchpurwa-1,"Dug Well",W12903,2002,3.44,1.99,NA,3.21
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2002,'0.5,'0.4,2.2,2.78
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.93194444,84.55361111,Chanpatia-1,"Dug Well",W12677,2002,2.55,2.05,NA,4.49
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,2002,'0.98,1.3,2.31,4.8
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2002,'0.36,2.54,NA,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2002,'0.3,1.29,NA,3.24
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,2002,1.39,1.15,NA,3.12
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,2002,1.61,1.51,2.46,4.25
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.09583333,84.41666667,Bagaha-2,"Dug Well",W12514,2002,'0.3,1.29,NA,3.24
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2002,NA,1.57,1.37,3
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.30916667,84.05138889,Harnatanr-1,"Dug Well",W12678,2002,2.35,NA,NA,NA
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2002,3.44,1.99,NA,3.21
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,2002,3.44,2.14,NA,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.10666667,84.48805556,Narkatiaganj-2,"Dug Well",W12908,2002,1.39,1.15,NA,3.12
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,2001,'0.7,NA,NA,NA
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2001,'0.15,2.24,1.6,2.7
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2001,NA,2.52,NA,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.09583333,84.41666667,Bagaha-2,"Dug Well",W12514,2001,'0.89,2.88,1.68,3.2
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2001,'0.89,2.88,1.68,3.2
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.93194444,84.55361111,Chanpatia-1,"Dug Well",W12677,2001,NA,4.05,2.46,4.6
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,2001,'0.74,4.28,NA,NA
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,2001,'0.86,3.98,3.49,4.29
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.10666667,84.48805556,Narkatiaganj-2,"Dug Well",W12908,2001,'0.9,2.48,1.87,3.33
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,2001,NA,2.48,1.87,3.33
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2001,'0.42,2.63,2.08,2.99
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2001,1.09,2.71,2.61,3.18
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,2001,'0.9,3.17,2.41,4.3
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.94444444,84.53888889,Panchpurwa-1,"Dug Well",W12903,2001,1.09,2.71,2.61,3.18
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,2000,NA,NA,2.1,NA
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.94444444,84.53888889,Panchpurwa-1,"Dug Well",W12903,2000,1.34,2.68,2.32,3.45
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,2000,NA,4.89,3.7,4.98
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.30916667,84.05138889,Harnatanr-1,"Dug Well",W12678,2000,NA,4.08,NA,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,2000,1.45,2.98,2.18,3.25
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.93194444,84.55361111,Chanpatia-1,"Dug Well",W12677,2000,NA,4.01,3.55,4.7
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.09583333,84.41666667,Bagaha-2,"Dug Well",W12514,2000,1.24,2.96,2.48,3.12
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.10666667,84.48805556,Narkatiaganj-2,"Dug Well",W12908,2000,1.45,2.98,2.18,3.25
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,2000,1.36,NA,3.65,4.4
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,2000,1.34,2.68,2.32,3.45
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,2000,'0.25,2.43,2.42,3.06
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,2000,1.24,2.96,2.48,3.12
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,2000,1.2,3.59,2.8,3.52
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,2000,1.05,NA,NA,3.29
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,2000,1.04,4.73,3.99,5.62
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,2000,'0.57,2.62,2.02,3.41
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,1999,NA,3.46,3.22,4.47
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,1999,NA,3.04,3.12,3.79
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.93194444,84.55361111,Chanpatia-1,"Dug Well",W12677,1999,NA,NA,3.72,4.85
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,1999,1.51,3.73,3.42,4.74
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.09583333,84.41666667,Bagaha-2,"Dug Well",W12514,1999,NA,2.96,2.79,3.33
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,1999,NA,2.4,2.45,3.41
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.94444444,84.53888889,Panchpurwa-1,"Dug Well",W12903,1999,NA,2.39,2.58,3.39
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,1999,'0.57,2.18,2.26,3.29
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,1999,NA,5.27,4.49,5.16
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.30916667,84.05138889,Harnatanr-1,"Dug Well",W12678,1999,NA,NA,3.66,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,1999,NA,2.96,2.79,3.33
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,1999,NA,2.39,2.58,3.39
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,1999,NA,3.85,4.34,5.21
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,1999,'0.5,2.12,1.98,3.35
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.10666667,84.48805556,Narkatiaganj-2,"Dug Well",W12908,1999,NA,2.4,2.45,3.41
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.10666667,84.48805556,Narkatiaganj-2,"Dug Well",W12908,1998,1.16,2.23,1.73,2.33
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,1998,'0.98,3.19,2.19,3.35
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.3125,84.025,Harnatanr-3,"Dug Well",W12679,1998,NA,NA,3.21,NA
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,1998,1.08,2.38,3.39,2.95
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,1998,1.16,2.23,1.73,2.33
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,1998,'0.79,2.29,1.58,2.59
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,1998,NA,3.05,2.19,3.1
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.09583333,84.41666667,Bagaha-2,"Dug Well",W12514,1998,1.08,2.38,3.39,2.95
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,1998,1.23,2.9,2.76,3.8
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,1998,1.32,1.7,1.13,2.66
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.94444444,84.53888889,Panchpurwa-1,"Dug Well",W12903,1998,NA,3.05,2.19,3.1
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.93194444,84.55361111,Chanpatia-1,"Dug Well",W12677,1998,NA,NA,3.34,4.6
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,1998,1.86,3.88,5.04,4.09
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.30916667,84.05138889,Harnatanr-1,"Dug Well",W12678,1998,NA,NA,3.21,NA
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,1998,NA,4.39,3.92,5.19
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,1998,NA,2.59,NA,3.41
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,1998,2.05,4.67,4.54,4.92
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,1997,3.56,4.85,4.42,5.28
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,1997,2.91,3.17,4.18,4.54
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,1997,3.71,3.91,3.6,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.10666667,84.48805556,Narkatiaganj-2,"Dug Well",W12908,1997,2.06,2.81,1.89,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,1997,2.06,2.81,1.89,NA
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,1997,'0.97,2.45,2.01,3.14
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,1997,2.03,2.65,2.63,3.16
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,1997,2.1,3.66,2.54,4.17
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.94444444,84.53888889,Panchpurwa-1,"Dug Well",W12903,1997,2.03,2.65,2.63,3.16
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,1997,2.01,3.25,2.84,3.89
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,1997,'0.12,2.21,1.26,3.64
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,1997,NA,NA,2.24,NA
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.09583333,84.41666667,Bagaha-2,"Dug Well",W12514,1997,1.74,2.66,2.03,2.98
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,1997,1.74,2.66,2.03,2.98
-BR,"Pashchim Champaran",Bagaha,Bagha,27.0875,84.0875,Bagaha-1,"Dug Well",W12513,1996,1.49,2.65,1.91,4.01
-BR,"Pashchim Champaran",Bettiah,Bettiah,26.79583333,84.50833333,Bettiah,"Dug Well",W12575,1996,NA,2.13,1.58,3.98
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.11277778,84.46305556,Narkatiaganj-1,"Dug Well",W12907,1996,1.03,2.53,1.83,2.45
-BR,"Pashchim Champaran",Majhaulia,Manjhaulia,26.80416667,84.60416667,Majhwalia,"Dug Well",W12906,1996,'0.69,3.08,1.92,3.57
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.09583333,84.41666667,Bagaha-2,"Dug Well",W12514,1996,1.49,2.65,1.91,4.01
-BR,"Pashchim Champaran",Gaunaha,Narkatiyaganj,27.16666667,84.50833333,"Banspur pipra","Dug Well",W12529,1996,NA,4.2,1.43,3.32
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.42916667,83.94166667,Valmikinagar,"Dug Well",W12911,1996,NA,4.7,4.57,5.41
-BR,"Pashchim Champaran",Lauriya,Lauriya,26.97888889,84.40472222,Lauria-1,"Dug Well",W12904,1996,'0.93,4.09,2.98,4.61
-BR,"Pashchim Champaran",Chanpatia,Chanpatia,26.94444444,84.53888889,Panchpurwa-1,"Dug Well",W12903,1996,'0.82,4.2,2.23,3.87
-BR,"Pashchim Champaran",Bairia,Bairala,26.77916667,84.44583333,Pakhanaha,"Dug Well",W12902,1996,1.27,3.11,2.1,5.4
-BR,"Pashchim Champaran",Narkatiaganj,Narkatiyaganj,27.10666667,84.48805556,Narkatiaganj-2,"Dug Well",W12908,1996,1.03,2.53,1.83,2.45
-BR,"Pashchim Champaran",Ramnagar,Bagha,27.16666667,84.25833333,Ramnagar-1,"Dug Well",W12909,1996,2.93,NA,4.33,5.58
-BR,"Pashchim Champaran",Sidhaw,Sidhaw,27.28222222,83.95277778,Naurangia-1,"Dug Well",W12910,1996,2.6,NA,3.7,3.83
-BR,"Pashchim Champaran",Lauriya,Lauriya,27,84.34583333,Panchpurwa-2,"Dug Well",W12905,1996,'0.82,4.2,2.23,3.87
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2018,2.65,2.13,NA,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.02472222,85.57361111,"Shahpur Morh","Dug Well",W29114,2018,3.9,2.48,NA,NA
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2018,4.23,5,NA,NA
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2018,6.23,4.74,NA,NA
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2018,7.86,6.55,NA,NA
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2018,8.64,8.77,NA,NA
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2018,NA,5.88,NA,NA
+BR,Nawada,Kawakole,Kawakol,24.84583333,85.88333333,Kawakol,"Dug Well",W12894,2018,NA,4.74,NA,NA
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2018,NA,NA,3.48,NA
+BR,Nawada,Nawada,Nawada,24.90944444,85.53638889,Gonama,"Dug Well",W29083,2018,7.36,7.22,NA,NA
+BR,Nawada,"Pokri Barawan",Pakribarwan,24.95527778,85.74083333,"Pakribrawan Pond","Dug Well",W29092,2018,6.31,5.88,NA,NA
+BR,Nawada,Rajauli,Rajauli,24.71694444,85.51666667,Dopata,"Dug Well",W32914,2018,7,6.1,NA,NA
+BR,Nawada,Sirdala,Sirdauli,24.65027778,85.41833333,Nawabganj,"Dug Well",W32912,2018,1.63,3.55,NA,NA
+BR,Nawada,Sirdala,Maskaur,24.73416667,85.35111111,Meskaur,"Dug Well",W32915,2018,'0.58,3.47,NA,NA
+BR,Nawada,Narhat,Harnaut,24.73416667,85.41944444,Khanwa,"Dug Well",W32916,2018,2.78,4.04,NA,NA
+BR,Nawada,Gobindpur,Gobindpur,24.75083333,85.66861111,Bishunpur,"Dug Well",W32917,2018,2.85,3.55,NA,NA
+BR,Nawada,Nawada,Nawada,24.88861111,85.54027778,Garhpar,"Dug Well",W29079,2018,NA,3.75,4.03,NA
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2018,2.96,5.2,NA,NA
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2017,NA,NA,5.47,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.02472222,85.57361111,"Shahpur Morh","Dug Well",W29114,2017,1.99,2.4,NA,3.05
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2017,4.01,4.42,NA,5.95
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2017,1.3,2.29,2.59,2.69
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2017,3.46,4.28,4.4,5.13
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2017,2.51,4.37,4.42,8.6
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2017,'0.87,2.23,2.17,3.18
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2017,2.04,3.63,4.96,6.39
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2017,5.05,6.68,8.57,8.7
+BR,Nawada,Nawada,Nawada,24.88861111,85.54027778,Garhpar,"Dug Well",W29079,2017,3.6,NA,4.83,4.07
+BR,Nawada,"Pokri Barawan",Pakribarwan,24.95527778,85.74083333,"Pakribrawan Pond","Dug Well",W29092,2017,2.25,3.28,NA,6.03
+BR,Nawada,Nawada,Nawada,24.90944444,85.53638889,Gonama,"Dug Well",W29083,2017,4.17,4.18,6.56,7.69
+BR,Nawada,Rajauli,Rajauli,24.71694444,85.51666667,Dopata,"Dug Well",W32914,2017,5.01,4.23,6.28,6.67
+BR,Nawada,Sirdala,Sirdauli,24.65027778,85.41833333,Nawabganj,"Dug Well",W32912,2017,1.88,1.33,2.31,6.67
+BR,Nawada,Sirdala,Maskaur,24.73416667,85.35111111,Meskaur,"Dug Well",W32915,2017,1.21,2.91,2.52,4.68
+BR,Nawada,Narhat,Harnaut,24.73416667,85.41944444,Khanwa,"Dug Well",W32916,2017,3.31,3.37,3.78,7.13
+BR,Nawada,Gobindpur,Gobindpur,24.75083333,85.66861111,Bishunpur,"Dug Well",W32917,2017,1.64,3.03,3.84,4.84
+BR,Nawada,Kawakole,Kawakol,24.84583333,85.88333333,Kawakol,"Dug Well",W12894,2017,NA,NA,4.85,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2016,1.95,NA,NA,2.9
+BR,Nawada,Gobindpur,Gobindpur,24.75083333,85.66861111,Bishunpur,"Dug Well",W32917,2016,1.38,NA,2.53,5.2
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2016,2.45,NA,NA,5.45
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2016,2.11,NA,NA,NA
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2016,2.2,NA,2.28,6.8
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2016,1.98,NA,NA,6.72
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2016,NA,NA,NA,6.25
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2016,3.9,NA,NA,9.1
+BR,Nawada,Nawada,Nawada,24.88861111,85.54027778,Garhpar,"Dug Well",W29079,2016,3.08,4,NA,7.7
+BR,Nawada,Nawada,Nawada,24.90944444,85.53638889,Gonama,"Dug Well",W29083,2016,3.42,8,NA,8
+BR,Nawada,"Pokri Barawan",Pakribarwan,24.95527778,85.74083333,"Pakribrawan Pond","Dug Well",W29092,2016,2.05,4.2,NA,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.02472222,85.57361111,"Shahpur Morh","Dug Well",W29114,2016,2.45,NA,NA,3.3
+BR,Nawada,Sirdala,Sirdauli,24.65027778,85.41833333,Nawabganj,"Dug Well",W32912,2016,1.71,NA,NA,3.23
+BR,Nawada,Rajauli,Rajauli,24.71694444,85.51666667,Dopata,"Dug Well",W32914,2016,4.72,NA,5.12,6.93
+BR,Nawada,Sirdala,Maskaur,24.73416667,85.35111111,Meskaur,"Dug Well",W32915,2016,2.37,NA,3.11,7.89
+BR,Nawada,Narhat,Harnaut,24.73416667,85.41944444,Khanwa,"Dug Well",W32916,2016,2.5,NA,3.32,6.45
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2016,4.93,NA,2.5,9.24
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2015,1.59,1.05,1.98,1.93
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2015,2.13,3.7,4.07,7.5
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2015,3.53,3.98,4.72,10
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2015,2.16,4.15,3.77,7.2
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2015,3.61,4.8,4.86,7.9
+BR,Nawada,Warisaliganj,Warisaliganj,25.02472222,85.57361111,"Shahpur Morh","Dug Well",W29114,2015,1.58,2.3,2.18,2.48
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2015,'0.83,NA,NA,'0.83
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2015,7.97,6.46,8.19,7.2
+BR,Nawada,Nawada,Nawada,24.88861111,85.54027778,Garhpar,"Dug Well",W29079,2015,3.84,2.58,4.16,5.36
+BR,Nawada,Nawada,Nawada,24.90944444,85.53638889,Gonama,"Dug Well",W29083,2015,3.1,5.09,5.54,8
+BR,Nawada,"Pokri Barawan",Pakribarwan,24.95527778,85.74083333,"Pakribrawan Pond","Dug Well",W29092,2015,NA,NA,2.81,5
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2015,2,2.9,2.18,5.91
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2014,1.43,2.71,1.93,1.8
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2014,1.23,4.57,2.42,6.45
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2014,2.72,4.03,3.44,3.75
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2014,'0.8,4,2.53,5.95
+BR,Nawada,Warisaliganj,Warisaliganj,25.02472222,85.57361111,"Shahpur Morh","Dug Well",W29114,2014,1.52,NA,2.81,NA
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2014,'0.42,4.23,1.83,5.2
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2014,5.31,7.02,5.26,8.64
+BR,Nawada,Nawada,Nawada,24.88861111,85.54027778,Garhpar,"Dug Well",W29079,2014,1.9,3.54,2.87,3.39
+BR,Nawada,Nawada,Nawada,24.90944444,85.53638889,Gonama,"Dug Well",W29083,2014,1.6,4.83,3.77,4.82
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2014,3.52,NA,4.72,7.95
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2013,2.71,NA,'0.21,2.24
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2013,7.52,NA,3.22,7.28
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2013,7.22,NA,3.32,10
+BR,Nawada,Kawakole,Kawakol,24.84444444,85.88916667,"Kawakol ashram","Dug Well",W31717,2013,7.16,NA,NA,NA
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2013,7.16,NA,3.18,8.34
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2013,5.1,NA,2.27,6.5
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2013,NA,NA,7.04,7.55
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2013,5.1,NA,2.79,7.81
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2012,NA,2.12,1.62,1.98
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2012,NA,4.2,2.54,7.68
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2012,NA,3.87,3.19,4.97
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2012,NA,6.78,7.54,7.03
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2012,NA,NA,5.05,NA
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2012,NA,2.58,4.44,5.89
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2012,NA,3.78,5.23,7.51
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2011,1.55,2.07,1,NA
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2011,4.14,7.32,2.98,8.1
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2011,6.98,7.55,6,7.55
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2011,3.24,5.99,6,7.81
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2011,1.2,4.3,2.4,6.46
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2011,3.45,4.45,3.07,10
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2010,1.8,2,1.85,1.8
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2010,6.92,5.42,6.72,7.63
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2010,7.55,7.5,7.55,7.55
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2010,5.97,5.3,4.92,7.81
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2010,4.26,4.8,2.46,6.45
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2010,3.44,5.27,3.76,5.47
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2009,4.71,4.15,4.44,6
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2009,NA,5.8,6.5,NA
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2009,2.8,3.49,3.25,8.31
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2008,'0.55,2.5,2.36,2.56
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2008,1.17,4.07,2.86,5.67
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2008,1.96,3.27,3.88,4.8
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2008,2.88,4.98,4.72,6.5
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2008,1.25,NA,NA,NA
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2008,1.01,NA,2.63,5.35
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2008,1.29,4.2,NA,NA
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2008,'0.85,NA,3.22,5.88
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2007,'0.18,NA,NA,1.72
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2007,1.6,3.63,2.72,6.7
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2007,3.4,6.07,3.88,6.58
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2007,1.53,4.45,2.1,5.65
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2007,'0.76,3.87,1.37,5.1
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2007,2.45,3.48,4.47,4.63
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2006,'0.2,1.5,NA,NA
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2006,2.22,NA,2.34,5.01
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2006,6.42,7.38,4.95,NA
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2006,2.04,5.6,2.2,NA
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2006,'0.1,5.5,1.1,NA
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2006,2.52,NA,2.87,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2005,'0.4,NA,NA,2.96
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,2005,NA,4.27,NA,3.37
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2005,5.87,4.89,6.05,6.77
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2005,3.07,4.29,4.35,5.9
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2005,2.8,5.97,6.01,6.96
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2005,2.3,5.21,5.9,7.9
+BR,Nawada,Nawada,Nawada,24.88611111,85.54444444,Nawada-1,"Dug Well",W12897,2005,7.88,NA,NA,NA
+BR,Nawada,Nawada,Nawada,24.9125,85.55,Nawada-2,"Dug Well",W20474,2005,7.88,NA,NA,NA
+BR,Nawada,Nawada,Nawada,24.88611111,85.54444444,Nawada-1,"Dug Well",W12897,2004,6.2,5.03,NA,6.8
+BR,Nawada,Kawakole,Kawakol,24.84583333,85.88333333,Kawakol,"Dug Well",W12894,2004,1.7,NA,NA,NA
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2004,3.03,4.38,NA,4.34
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2004,2.8,5.96,4.08,5.72
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2004,4.98,NA,NA,NA
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2004,1.8,4.88,4.63,5.95
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,2004,2.7,4.47,2.78,5.59
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2004,1.6,4.09,4.12,5.51
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2004,1.47,NA,1.2,2.81
+BR,Nawada,Nawada,Nawada,24.88611111,85.54444444,Nawada-1,"Dug Well",W12897,2003,NA,5.13,4.26,6.23
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2003,3.03,3.54,3.14,4.79
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2003,1.8,2.22,2.03,6
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2003,NA,2.47,2.38,NA
+BR,Nawada,Hisua,Hisua,24.82,85.43611111,Hissua-1,"Dug Well",W12676,2003,NA,3.82,NA,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.00833333,85.64027778,"Warish aliganj-1","Dug Well",W12900,2003,NA,2.46,NA,NA
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,2003,2.7,3.65,4.08,4.99
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2003,NA,3.82,5.7,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2003,NA,2.46,2.32,NA
+BR,Nawada,"Pokri Barawan",Kawakol,24.85833333,85.75555556,Rupau-2,"Dug Well",W12899,2003,NA,2.22,NA,6
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2003,1.6,2.21,1.94,3.43
+BR,Nawada,Kawakole,Kawakol,24.84583333,85.88333333,Kawakol,"Dug Well",W12894,2003,1.7,NA,NA,NA
+BR,Nawada,Hisua,Hisua,24.8075,85.31388889,Tungi-1,"Dug Well",W12893,2003,NA,3.54,NA,4.79
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2003,4.98,2.35,2.29,NA
+BR,Nawada,Hisua,Hisua,24.8075,85.31388889,Tungi-1,"Dug Well",W12893,2002,2.54,3.12,4.25,6.23
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2002,NA,3.35,1.87,6.12
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2002,2.54,3.12,4.25,6.23
+BR,Nawada,Hisua,Hisua,24.82,85.43611111,Hissua-1,"Dug Well",W12676,2002,'0.59,3.38,3.6,5.25
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2002,'0.59,3.38,3.6,5.25
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,2002,NA,2.43,3.95,5.15
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2002,1.21,2.07,2.22,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.00833333,85.64027778,"Warish aliganj-1","Dug Well",W12900,2002,1.21,2.07,2.22,NA
+BR,Nawada,"Pokri Barawan",Kawakol,24.85833333,85.75555556,Rupau-2,"Dug Well",W12899,2002,'0.62,NA,1.95,5.98
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2002,'0.8,5.42,2.2,6.55
+BR,Nawada,Nawada,Nawada,24.88611111,85.54444444,Nawada-1,"Dug Well",W12897,2002,'0.83,5.25,3.85,5.98
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2002,'0.62,5.24,1.95,5.98
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2002,NA,2.63,2.25,8.18
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,2001,1.02,NA,NA,3.99
+BR,Nawada,Hisua,Hisua,24.8075,85.31388889,Tungi-1,"Dug Well",W12893,2001,2.83,NA,3.06,5.54
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2001,2.7,NA,2.52,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.00833333,85.64027778,"Warish aliganj-1","Dug Well",W12900,2001,1.61,3.18,NA,3.27
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2001,NA,3.79,2.31,NA
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2001,3.55,3.13,2.09,6.07
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2001,2.57,NA,3.06,5.54
+BR,Nawada,Hisua,Hisua,24.82,85.43611111,Hissua-1,"Dug Well",W12676,2001,3.9,3.13,2.09,6.07
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2001,-0.01,3.18,NA,3.27
+BR,Nawada,"Pokri Barawan",Kawakol,24.85833333,85.75555556,Rupau-2,"Dug Well",W12899,2001,3.8,NA,4.3,5.94
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2001,3.5,NA,4.3,5.94
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2001,1.7,5.58,2.99,3.86
+BR,Nawada,Hisua,Hisua,24.8075,85.31388889,Tungi-1,"Dug Well",W12893,2000,2.97,3.16,3.32,5.29
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,2000,1.58,2.6,2.47,4.62
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,2000,1.5,NA,1.61,4.47
+BR,Nawada,Warisaliganj,Warisaliganj,25.00833333,85.64027778,"Warish aliganj-1","Dug Well",W12900,2000,NA,1.99,1.06,3.69
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,2000,2.81,2.99,2.32,6.22
+BR,Nawada,"Pokri Barawan",Kawakol,24.85833333,85.75555556,Rupau-2,"Dug Well",W12899,2000,1.5,NA,1.61,4.47
+BR,Nawada,Hisua,Hisua,24.82,85.43611111,Hissua-1,"Dug Well",W12676,2000,2.81,2.99,2.32,6.22
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,2000,NA,1.99,1.06,3.69
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,2000,5.08,4.39,2.69,NA
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,2000,2.97,3.16,3.32,5.29
+BR,Nawada,Nawada,Nawada,24.88611111,85.54444444,Nawada-1,"Dug Well",W12897,2000,NA,3.1,NA,3.88
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,2000,1.57,NA,1.93,5.29
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,2000,2.42,NA,2.62,4.99
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,1999,2.45,3.19,2.68,4.99
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,1999,1.71,2.92,1.95,5.1
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,1999,1.77,3.44,'0.83,4.95
+BR,Nawada,Hisua,Hisua,24.8075,85.31388889,Tungi-1,"Dug Well",W12893,1999,2.45,3.19,2.68,4.99
+BR,Nawada,"Pokri Barawan",Kawakol,24.85833333,85.75555556,Rupau-2,"Dug Well",W12899,1999,NA,3.06,NA,4.2
+BR,Nawada,Hisua,Hisua,24.82,85.43611111,Hissua-1,"Dug Well",W12676,1999,2.39,3.77,1.38,6.22
+BR,Nawada,Warisaliganj,Warisaliganj,25.00833333,85.64027778,"Warish aliganj-1","Dug Well",W12900,1999,'0.9,1.55,1.39,4.05
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,1999,2.39,3.77,1.38,6.22
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,1999,NA,3.06,NA,4.2
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,1999,NA,2.6,NA,4.8
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,1999,'0.9,1.55,1.39,4.05
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,1999,'0.92,3.66,'0.98,3.8
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,1998,2.62,3.14,1.82,5.13
+BR,Nawada,Hisua,Hisua,24.82,85.43611111,Hissua-1,"Dug Well",W12676,1998,1.46,2.15,2.44,6.46
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,1998,1.46,2.15,2.44,6.46
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,1998,1.19,2.54,1.57,4.93
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,1998,1.16,'0.64,NA,3.42
+BR,Nawada,Warisaliganj,Warisaliganj,25.00833333,85.64027778,"Warish aliganj-1","Dug Well",W12900,1998,1.16,'0.64,NA,3.42
+BR,Nawada,"Pokri Barawan",Kawakol,24.85833333,85.75555556,Rupau-2,"Dug Well",W12899,1998,NA,1.42,1.74,4.33
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,1998,1.24,2.54,2.37,NA
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,1998,NA,1.42,1.74,4.33
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,1998,NA,2.48,NA,4.53
+BR,Nawada,Hisua,Hisua,24.8075,85.31388889,Tungi-1,"Dug Well",W12893,1998,2.62,3.14,1.82,5.13
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,1998,1.3,1.97,NA,5.22
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,1997,NA,NA,2.48,NA
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,1997,NA,2.92,1.97,7.04
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,1997,2.59,4.47,3.14,NA
+BR,Nawada,Hisua,Hisua,24.8075,85.31388889,Tungi-1,"Dug Well",W12893,1997,2.59,4.47,3.14,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.00833333,85.64027778,"Warish aliganj-1","Dug Well",W12900,1997,1.16,'0.68,'0.64,NA
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,1997,1.16,'0.68,'0.64,NA
+BR,Nawada,"Pokri Barawan",Kawakol,24.85833333,85.75555556,Rupau-2,"Dug Well",W12899,1997,NA,3.55,1.42,NA
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,1997,1.23,3.4,2.15,6.9
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,1997,'0.65,4.8,2.54,NA
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,1997,1.36,1.7,2.54,4.6
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,1997,NA,3.55,1.42,NA
+BR,Nawada,Hisua,Hisua,24.82,85.43611111,Hissua-1,"Dug Well",W12676,1997,1.23,3.4,2.15,6.9
+BR,Nawada,Akbarpur,Akbarpur,24.8125,85.56666667,Tungi-2,"Dug Well",W12891,1996,1.78,3.21,3.65,4.92
+BR,Nawada,Warisaliganj,Warisaliganj,25.02916667,85.64583333,"Warish aliganj-2","Dug Well",W12901,1996,'0.15,'0.66,1.83,NA
+BR,Nawada,Gobindpur,Roh,24.82916667,85.67083333,Hissua-2,"Dug Well",W12675,1996,1.36,2.37,2.68,6.12
+BR,Nawada,"Pokri Barawan",Roh,24.875,85.725,Pakribrawan,"Dug Well",W12898,1996,1.4,2.02,NA,4.72
+BR,Nawada,Hisua,Hisua,24.82,85.43611111,Hissua-1,"Dug Well",W12676,1996,1.36,2.37,2.68,6.12
+BR,Nawada,Kawakole,Kawakol,24.84611111,85.88361111,"Kawakol ashram","Dug Well",W12895,1996,1.09,NA,2.4,NA
+BR,Nawada,Hisua,Hisua,24.8075,85.31388889,Tungi-1,"Dug Well",W12893,1996,1.78,3.21,3.65,4.92
+BR,Nawada,Kawakole,Kawakol,24.85,85.75833333,Rupau-1,"Dug Well",W12896,1996,'0.98,2.51,3.2,NA
+BR,Nawada,"Pokri Barawan",Kawakol,24.85833333,85.75555556,Rupau-2,"Dug Well",W12899,1996,'0.98,2.51,3.2,NA
+BR,Nawada,Akbarpur,Akbarpur,24.75,85.5375,Akbarpur,"Dug Well",W12495,1996,1.46,2.73,2.75,NA
+BR,Nawada,Gobindpur,Roh,24.875,85.68333333,Roh,"Dug Well",W12892,1996,1.12,1.79,2.13,2.19
+BR,Nawada,Warisaliganj,Warisaliganj,25.00833333,85.64027778,"Warish aliganj-1","Dug Well",W12900,1996,'0.15,'0.66,1.83,NA

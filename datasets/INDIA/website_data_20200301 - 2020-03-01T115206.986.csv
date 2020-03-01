@@ -1,0 +1,873 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2018,NA,6.03,3.63,NA
+MP,Satna,Maihar,Maihar,24.14722222,80.63166667,Ghunwara,"Dug Well",W28863,2018,NA,7.5,5.15,NA
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2018,'0.76,6.06,NA,NA
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2018,4.3,8.1,NA,NA
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2018,'0.35,5.85,NA,NA
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2018,5.7,11.74,NA,NA
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2018,8.05,17.15,NA,NA
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2018,7.3,7.48,NA,NA
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2018,11.65,15.05,NA,NA
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2018,'0.05,4.5,NA,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2018,15.8,16.8,NA,NA
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2018,2.94,7.79,NA,NA
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2018,'0.9,7.6,NA,NA
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2018,2.1,15.17,NA,NA
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2018,5.95,8.55,NA,NA
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2018,6.21,10.51,NA,NA
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2018,5.97,5.87,NA,NA
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2018,8.3,8.8,NA,NA
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2018,3.75,8.75,NA,NA
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2018,3.75,28.5,NA,NA
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2018,2.44,6.44,NA,NA
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2018,4.5,4.5,NA,NA
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2018,4.25,8.25,NA,NA
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2018,3.45,7.35,NA,NA
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2018,2.15,3.45,NA,NA
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2018,6.65,8.2,NA,NA
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2018,1.65,4.95,NA,NA
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2018,17.2,18.4,NA,NA
+MP,Satna,Majhgawan,Majhgawan,25.11027778,80.78277778,Paldeo,"Dug Well",W29137,2018,6.6,8,NA,NA
+MP,Satna,Amarpatan,Amarpatan,24.42333333,81.24722222,Mukundpur,"Dug Well",W28951,2018,6.85,9.25,NA,NA
+MP,Satna,Amarpatan,Amarpatan,24.48694444,81.195,Kemar,"Dug Well",W28974,2018,'0.6,8.1,NA,NA
+MP,Satna,Unchahara,Unchahara,24.44444444,80.77916667,"Gobrao Kalan","Dug Well",W28960,2018,1.3,4,NA,NA
+MP,Satna,Unchahara,Unchahara,24.49194444,80.85777778,"Bhatanwara New","Dug Well",W28975,2018,6.7,9.7,NA,NA
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur1,"Dug Well",W28983,2018,1,2.95,NA,NA
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna-D,"Bore Well",W28995,2018,5.26,15.53,NA,NA
+MP,Satna,Sohawal,Sohawal,24.67055556,80.78666667,Barakalan,"Dug Well",W29022,2018,6.9,7.5,NA,NA
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar1,"Dug Well",W29028,2018,2.93,4.83,NA,NA
+MP,Satna,Nagod,Nagod,24.45055556,80.46083333,Dureha,"Dug Well",W28961,2018,'0.4,3.7,NA,NA
+MP,Satna,Nagod,Nagod,24.57638889,80.68416667,Barethia,"Dug Well",W29000,2018,5.35,8.45,NA,NA
+MP,Satna,Majhgawan,Majhgawan,24.97833333,80.79777778,Chowraha,"Dug Well",W29099,2018,1.3,6.1,NA,NA
+MP,Satna,Maihar,Maihar,24.035,80.45583333,Sabhaganj,"Dug Well",W28813,2018,1.6,4.5,NA,NA
+MP,Satna,Maihar,Maihar,24.15722222,80.93833333,Jowa,"Dug Well",W28869,2018,1.5,5.3,NA,NA
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Parasmaniya(S),"Bore Well",W28910,2018,3.75,6.56,NA,NA
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-S,"Bore Well",W28911,2018,2.2,3.89,NA,NA
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-D,"Bore Well",W28912,2018,12.5,31.7,NA,NA
+MP,Satna,Maihar,Maihar,24.26,80.76111111,"Maihar New","Dug Well",W28913,2018,2.2,3.3,NA,NA
+MP,Satna,Maihar,Maihar,24.27722222,80.84111111,Naraura,"Dug Well",W28921,2018,2.4,7.2,NA,NA
+MP,Satna,Ramnagar,Ramnagar,24.19444444,80.99694444,Devra,"Dug Well",W28881,2018,'0.3,8.5,NA,NA
+MP,Satna,Ramnagar,Ramnagar,24.26416667,81.20277778,"Sagauni New","Dug Well",W28914,2018,3.3,9.1,NA,NA
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Ramnagar_Bamhnadi,"Dug Well",W28882,2018,'0.2,9.8,NA,NA
+MP,Satna,Ramnagar,Ramnagar,24.23027778,81.18277778,Govindpur,"Dug Well",W28896,2018,'0.75,8.45,NA,NA
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan1,"Dug Well",W28932,2018,4.27,8.37,NA,NA
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2018,1.5,9.7,NA,NA
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2017,3.35,7.6,4.8,14.3
+MP,Satna,Maihar,Maihar,24.14722222,80.63166667,Ghunwara,"Dug Well",W28863,2017,NA,6.55,NA,NA
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2017,5.8,8.4,7.4,10.8
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2017,1.25,3.15,2.85,6.05
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2017,NA,11.78,NA,32.8
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2017,NA,8.11,NA,NA
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2017,2.43,3.93,3.73,7.43
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2017,2.85,9.75,9.1,11.73
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2017,9.65,17.15,17.14,17.15
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2017,6.2,5.45,7.05,7.2
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2017,13.55,9.5,14.25,15.05
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2017,1.35,2.3,3.65,4.35
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2017,15.5,15.5,16.7,16.3
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2017,3.84,5.94,5.64,9.69
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2017,1.7,7.7,4.8,9.2
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2017,5.35,6.45,6.6,8.35
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2017,5.76,7.31,8.76,12.01
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2017,3.82,3.77,5.27,8.27
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2017,7.3,9,7.95,10.6
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2017,6.15,7.65,8.95,9.45
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2017,8.09,19.3,23.2,21.7
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2017,3.04,6.34,4.94,7.99
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2017,2.1,3.85,4.1,6.9
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2017,5.45,7.95,7.75,8.65
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2017,4.55,8.55,6.15,11.29
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2017,1.8,1.8,1.95,6.35
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2017,7.69,7.52,7.65,7.55
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2017,1.85,4.4,3.7,13.05
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2017,17.9,17.05,18.97,19.62
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur1,"Dug Well",W28983,2017,NA,1.4,2.55,4.35
+MP,Satna,Majhgawan,Majhgawan,25.11027778,80.78277778,Paldeo,"Dug Well",W29137,2017,6.3,7.2,7.4,8.3
+MP,Satna,Amarpatan,Amarpatan,24.42333333,81.24722222,Mukundpur,"Dug Well",W28951,2017,8.05,8.35,8.95,10.15
+MP,Satna,Amarpatan,Amarpatan,24.48694444,81.195,Kemar,"Dug Well",W28974,2017,2.1,4.8,5,8.35
+MP,Satna,Unchahara,Unchahara,24.44444444,80.77916667,"Gobrao Kalan","Dug Well",W28960,2017,1.05,3,2.7,4.8
+MP,Satna,Unchahara,Unchahara,24.49194444,80.85777778,"Bhatanwara New","Dug Well",W28975,2017,5.2,8.3,8.35,9.1
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna-D,"Bore Well",W28995,2017,7.4,15.4,9.72,35.25
+MP,Satna,Sohawal,Sohawal,24.67055556,80.78666667,Barakalan,"Dug Well",W29022,2017,5.6,7.2,7.4,7.5
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar1,"Dug Well",W29028,2017,3.33,2.93,3.43,5.23
+MP,Satna,Nagod,Nagod,24.45055556,80.46083333,Dureha,"Dug Well",W28961,2017,1.15,3.45,2.6,7.4
+MP,Satna,Nagod,Nagod,24.57638889,80.68416667,Barethia,"Dug Well",W29000,2017,4.85,8.45,6.95,9.15
+MP,Satna,Majhgawan,Majhgawan,24.97833333,80.79777778,Chowraha,"Dug Well",W29099,2017,2.05,5.4,4.55,11.9
+MP,Satna,Maihar,Maihar,24.035,80.45583333,Sabhaganj,"Dug Well",W28813,2017,2,4.5,3.7,10.5
+MP,Satna,Maihar,Maihar,24.15722222,80.93833333,Jowa,"Dug Well",W28869,2017,3.45,4.4,4.7,6.6
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Parasmaniya(S),"Bore Well",W28910,2017,3.68,5.08,5.8,7.3
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-S,"Bore Well",W28911,2017,2.1,3.58,3.41,4.46
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-D,"Bore Well",W28912,2017,12.35,11.13,11.4,27.9
+MP,Satna,Maihar,Maihar,24.26,80.76111111,"Maihar New","Dug Well",W28913,2017,1.8,3.2,2.9,3.2
+MP,Satna,Maihar,Maihar,24.27722222,80.84111111,Naraura,"Dug Well",W28921,2017,2,5.18,5.3,9
+MP,Satna,Ramnagar,Ramnagar,24.19444444,80.99694444,Devra,"Dug Well",W28881,2017,1.1,6.55,4.8,8.9
+MP,Satna,Ramnagar,Ramnagar,24.26416667,81.20277778,"Sagauni New","Dug Well",W28914,2017,5.5,6.9,8.2,8.8
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Ramnagar_Bamhnadi,"Dug Well",W28882,2017,4.15,5.6,8.2,10.8
+MP,Satna,Ramnagar,Ramnagar,24.23027778,81.18277778,Govindpur,"Dug Well",W28896,2017,1.15,4.65,5.45,8.05
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan1,"Dug Well",W28932,2017,4.67,9.22,6.67,9.22
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2017,1.41,6.11,5.96,7.26
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2016,2.44,5.92,3.01,NA
+MP,Satna,Majhgawan,Majhgawan,25.11027778,80.78277778,Paldeo,"Dug Well",W29137,2016,4.4,9.2,5.59,8.4
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2016,3.76,19.9,NA,NA
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2016,4.95,8.66,7.32,NA
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2016,1.21,NA,NA,11.51
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2016,1.7,13.34,3.11,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2016,13.9,16.87,14.37,NA
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2016,6.54,7.86,6.52,NA
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2016,NA,7.2,'0.9,NA
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2016,1.6,3.84,2.62,NA
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2016,1.05,11.74,2.16,NA
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2016,4.65,15.03,6.42,NA
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2016,4.1,7.31,4.62,NA
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2016,6.04,21.79,12.82,NA
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2016,4.25,7.91,7.42,NA
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2016,3.3,10.47,6.72,NA
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2016,2.05,7.84,3.43,NA
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2016,'0.87,6.62,1.89,NA
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2016,3.73,9.9,5.33,NA
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2016,'0.8,9.15,1.96,NA
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2016,'0.9,4.1,2.1,NA
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2016,3.43,7.6,2.05,NA
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2016,'0.91,6.37,3.22,NA
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2016,1.85,7.28,2.87,NA
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2016,13.04,11.04,11.87,NA
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2016,4.39,12.26,5.31,NA
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2016,4.48,7.79,6.72,NA
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2016,2.35,11.29,4.57,NA
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2016,1.1,7.2,2.43,NA
+MP,Satna,Maihar,Maihar,24.035,80.45583333,Sabhaganj,"Dug Well",W28813,2016,1.71,5.9,3.15,11.3
+MP,Satna,Maihar,Maihar,24.14722222,80.63166667,Ghunwara,"Dug Well",W28863,2016,2.53,7.53,4.47,11.25
+MP,Satna,Maihar,Maihar,24.15722222,80.93833333,Jowa,"Dug Well",W28869,2016,2.8,5.83,4.31,8.09
+MP,Satna,Ramnagar,Ramnagar,24.19444444,80.99694444,Devra,"Dug Well",W28881,2016,'0.54,8.45,1.96,9.6
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Ramnagar_Bamhnadi,"Dug Well",W28882,2016,'0.8,NA,3.02,10.7
+MP,Satna,Ramnagar,Ramnagar,24.23027778,81.18277778,Govindpur,"Dug Well",W28896,2016,1.25,7.93,1.47,8.39
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Parasmaniya(S),"Bore Well",W28910,2016,'0.45,7.37,2.87,8.78
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-S,"Bore Well",W28911,2016,1.71,3.12,2.62,3.77
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-D,"Bore Well",W28912,2016,7.24,9.1,8.86,22.68
+MP,Satna,Maihar,Maihar,24.26,80.76111111,"Maihar New","Dug Well",W28913,2016,1.6,3,2.38,7.4
+MP,Satna,Ramnagar,Ramnagar,24.26416667,81.20277778,"Sagauni New","Dug Well",W28914,2016,3.5,8.28,6.12,9.1
+MP,Satna,Maihar,Maihar,24.27722222,80.84111111,Naraura,"Dug Well",W28921,2016,1.95,NA,3.62,11.9
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan1,"Dug Well",W28932,2016,4.04,8.91,5.79,9.47
+MP,Satna,Amarpatan,Amarpatan,24.42333333,81.24722222,Mukundpur,"Dug Well",W28951,2016,6.6,9.1,7.09,10.45
+MP,Satna,Unchahara,Unchahara,24.44444444,80.77916667,"Gobrao Kalan","Dug Well",W28960,2016,'0.4,3.07,1.6,4.1
+MP,Satna,Nagod,Nagod,24.45055556,80.46083333,Dureha,"Dug Well",W28961,2016,'0.34,2.31,'0.73,6.85
+MP,Satna,Amarpatan,Amarpatan,24.48694444,81.195,Kemar,"Dug Well",W28974,2016,'0.9,8.4,2.72,8.69
+MP,Satna,Unchahara,Unchahara,24.49194444,80.85777778,"Bhatanwara New","Dug Well",W28975,2016,3.95,10.2,6.43,10.2
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur1,"Dug Well",W28983,2016,1.1,2.76,1.22,2.7
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna-D,"Bore Well",W28995,2016,7.3,17.96,8.72,34.08
+MP,Satna,Nagod,Nagod,24.57638889,80.68416667,Barethia,"Dug Well",W29000,2016,3.75,9.75,7.07,9.75
+MP,Satna,Sohawal,Sohawal,24.67055556,80.78666667,Barakalan,"Dug Well",W29022,2016,1.8,7.5,4.41,7.49
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar1,"Dug Well",W29028,2016,1.53,4.85,2.87,6.18
+MP,Satna,Majhgawan,Majhgawan,24.97833333,80.79777778,Chowraha,"Dug Well",W29099,2016,2.25,9.91,4.81,12
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2016,3.4,17.15,6.41,NA
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2015,2.84,3.09,3.59,3.64
+MP,Satna,Majhgawan,Majhgawan,25.11027778,80.78277778,Paldeo,"Dug Well",W29137,2015,6.5,NA,8.05,7.4
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2015,NA,8.2,NA,NA
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2015,20.92,9.78,27.03,30.8
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2015,7.7,7.4,8.05,8.7
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2015,5.91,7.11,8.61,10.31
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2015,7.3,4.1,13.95,15.2
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2015,15.6,15.9,16.6,15.7
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2015,7.65,5.8,7.55,8.07
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2015,2.25,1.12,4.5,4.05
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2015,2.8,4.5,3.7,6.4
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2015,8.9,11.5,11.74,11.7
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2015,10.55,10.5,13.6,11.1
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2015,6.4,5.86,7.2,6.7
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2015,15.9,9.18,17.78,10.85
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2015,6.05,7.05,8.65,10.95
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2015,9,9.75,9.75,11.2
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2015,6.5,7.35,7.5,8.4
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2015,6.62,3.72,7.07,6.37
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2015,6.51,8.76,8.11,11.26
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2015,8,7.5,8.95,8.8
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2015,1.55,2.85,3.1,6.55
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2015,4.28,4.42,5.63,5.58
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2015,NA,2.98,NA,NA
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2015,5.06,7.21,5.91,6.26
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2015,4,4.61,5.8,7.75
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2015,17.08,12.42,18.87,12.8
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2015,7.44,8.14,9.99,10.44
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2015,7.65,8.05,7.9,8.75
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2015,5.35,8.48,7.75,10.35
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2015,2.15,6.25,5,5.95
+MP,Satna,Maihar,Maihar,24.035,80.45583333,Sabhaganj,"Dug Well",W28813,2015,3.95,4.05,5.1,6.35
+MP,Satna,Maihar,Maihar,24.14722222,80.63166667,Ghunwara,"Dug Well",W28863,2015,3.6,NA,6,8.71
+MP,Satna,Maihar,Maihar,24.15722222,80.93833333,Jowa,"Dug Well",W28869,2015,4.2,4.2,5.1,7.05
+MP,Satna,Ramnagar,Ramnagar,24.19444444,80.99694444,Devra,"Dug Well",W28881,2015,2.95,4.3,5.2,8.55
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Ramnagar_Bamhnadi,"Dug Well",W28882,2015,5.45,5.7,6.95,9
+MP,Satna,Ramnagar,Ramnagar,24.23027778,81.18277778,Govindpur,"Dug Well",W28896,2015,5.25,5.26,5.35,7.65
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Parasmaniya(S),"Bore Well",W28910,2015,5.66,6.35,5.7,7.37
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-S,"Bore Well",W28911,2015,6.85,2.18,3.08,2.62
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-D,"Bore Well",W28912,2015,NA,8.98,9.95,9.2
+MP,Satna,Maihar,Maihar,24.26,80.76111111,"Maihar New","Dug Well",W28913,2015,2.05,2.43,2.65,2.35
+MP,Satna,Ramnagar,Ramnagar,24.26416667,81.20277778,"Sagauni New","Dug Well",W28914,2015,6.2,6.8,8,8.4
+MP,Satna,Maihar,Maihar,24.27722222,80.84111111,Naraura,"Dug Well",W28921,2015,2.85,5.15,5.1,9.2
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan1,"Dug Well",W28932,2015,7.87,9.07,8.77,8.37
+MP,Satna,Amarpatan,Amarpatan,24.42333333,81.24722222,Mukundpur,"Dug Well",W28951,2015,8.75,8.75,9.15,9.95
+MP,Satna,Unchahara,Unchahara,24.44444444,80.77916667,"Gobrao Kalan","Dug Well",W28960,2015,2,2.35,2.9,3.95
+MP,Satna,Nagod,Nagod,24.45055556,80.46083333,Dureha,"Dug Well",W28961,2015,2.6,5.5,3,6.25
+MP,Satna,Amarpatan,Amarpatan,24.48694444,81.195,Kemar,"Dug Well",W28974,2015,3.7,2.8,6.58,8.2
+MP,Satna,Unchahara,Unchahara,24.49194444,80.85777778,"Bhatanwara New","Dug Well",W28975,2015,7.5,8.9,8.8,9.7
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur1,"Dug Well",W28983,2015,'0.55,'0.7,'0.45,2.4
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna-D,"Bore Well",W28995,2015,8.7,11.86,14.1,29.65
+MP,Satna,Nagod,Nagod,24.57638889,80.68416667,Barethia,"Dug Well",W29000,2015,5.25,8.65,8.25,9.05
+MP,Satna,Sohawal,Sohawal,24.67055556,80.78666667,Barakalan,"Dug Well",W29022,2015,4.06,7.3,7.5,7.2
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar1,"Dug Well",W29028,2015,3.78,8.2,5.13,4.28
+MP,Satna,Majhgawan,Majhgawan,24.97833333,80.79777778,Chowraha,"Dug Well",W29099,2015,4.3,4.4,4.95,7.4
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2015,17.15,17.15,17.15,17.15
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2014,2.84,4.29,2.76,4.44
+MP,Satna,Majhgawan,Majhgawan,24.97833333,80.79777778,Chowraha,"Dug Well",W29099,2014,3.1,3.5,3.25,5.75
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2014,7.4,9.05,7,12.3
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2014,16.86,12.21,10.92,16.9
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2014,7.2,7.4,7.21,8.35
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2014,5.21,6.01,5.48,8.81
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2014,3.15,2.5,3.16,6.85
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2014,14.7,13.8,14.71,14.9
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2014,7.4,6.75,7.05,7.25
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2014,'0.95,1.35,2.28,3.35
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2014,3.6,3.3,3.81,4.8
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2014,8.55,6,7.27,11.74
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2014,6.5,11.2,1.32,9
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2014,NA,6.65,NA,NA
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2014,5.2,5.3,5.4,6.4
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2014,15.5,15.92,11.05,7.62
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2014,7.45,7.75,7.75,21.15
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2014,7.95,7.6,5.55,9.1
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2014,5.15,5.9,6.05,7.6
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2014,3.27,2.67,3.08,5.12
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2014,7.24,5.96,7.66,8.56
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2014,8.35,6.85,6.23,8.9
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2014,2.05,2.6,2.35,5.25
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2014,3.13,2.83,2.6,4.43
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2014,1.95,1.95,NA,1.95
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2014,3.51,5.56,3.41,4.96
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2014,2.85,3.8,3.27,5.5
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2014,17.1,18.25,13.2,19.37
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2014,5.71,4.84,8.58,7.19
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2014,6.5,8.05,8.6,8.45
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2014,2.05,6.35,5.08,8.9
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2014,1.75,1.6,1.9,3.95
+MP,Satna,Maihar,Maihar,24.035,80.45583333,Sabhaganj,"Dug Well",W28813,2014,2.7,3.3,3.33,5.4
+MP,Satna,Maihar,Maihar,24.15722222,80.93833333,Jowa,"Dug Well",W28869,2014,4,4.6,4.26,7.2
+MP,Satna,Ramnagar,Ramnagar,24.19444444,80.99694444,Devra,"Dug Well",W28881,2014,1.5,5.3,9.09,8.5
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Ramnagar_Bamhnadi,"Dug Well",W28882,2014,1.8,5.6,5.73,9.6
+MP,Satna,Ramnagar,Ramnagar,24.23027778,81.18277778,Govindpur,"Dug Well",W28896,2014,1.25,3.9,2.79,7.55
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Parasmaniya(S),"Bore Well",W28910,2014,4.52,4.19,5.46,6.35
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-S,"Bore Well",W28911,2014,2.1,2.73,1.3,3.15
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-D,"Bore Well",W28912,2014,9.2,10.09,6.57,23
+MP,Satna,Ramnagar,Ramnagar,24.26416667,81.20277778,"Sagauni New","Dug Well",W28914,2014,6.3,7.4,6.27,7.5
+MP,Satna,Maihar,Maihar,24.27722222,80.84111111,Naraura,"Dug Well",W28921,2014,3.7,6.7,5.73,8.28
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan1,"Dug Well",W28932,2014,7.27,6.37,6.42,7.17
+MP,Satna,Amarpatan,Amarpatan,24.42333333,81.24722222,Mukundpur,"Dug Well",W28951,2014,9.35,8.55,8.57,9.75
+MP,Satna,Unchahara,Unchahara,24.44444444,80.77916667,"Gobrao Kalan","Dug Well",W28960,2014,1.93,2.65,2.05,3.9
+MP,Satna,Nagod,Nagod,24.45055556,80.46083333,Dureha,"Dug Well",W28961,2014,5.2,3.3,6.7,6.5
+MP,Satna,Amarpatan,Amarpatan,24.48694444,81.195,Kemar,"Dug Well",W28974,2014,4.2,5.1,2.33,7.25
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur1,"Dug Well",W28983,2014,'0.2,'0.9,2.35,3.6
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna-D,"Bore Well",W28995,2014,11.47,11.6,7.92,23
+MP,Satna,Nagod,Nagod,24.57638889,80.68416667,Barethia,"Dug Well",W29000,2014,4.95,6.9,6.62,6.95
+MP,Satna,Sohawal,Sohawal,24.67055556,80.78666667,Barakalan,"Dug Well",W29022,2014,4.55,4.7,5.18,6.5
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar1,"Dug Well",W29028,2014,2.33,3.23,1.49,3.93
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2014,8.35,17.15,NA,17.15
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2013,1.74,8.49,2.74,NA
+MP,Satna,Majhgawan,Majhgawan,24.97833333,80.79777778,Chowraha,"Dug Well",W29099,2013,1.65,4.75,2.1,7.3
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2013,5.75,6,6.9,NA
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2013,5.74,NA,5.63,NA
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2013,NA,7.93,6.15,NA
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2013,2.01,1.36,3.61,9
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2013,'0.15,16.95,'0.7,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2013,12.95,16,13.1,17.4
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2013,7.82857143,8.9,6.9,9.377143
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2013,'0.975,2.425,'0.365,4.025
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2013,'0.85,11.25,1.85,11.25
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2013,1.2,9.47,2.4,11.74
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2013,3.08,14.6,4.1,14.85
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2013,4.65,NA,5.9,13.5
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2013,7.15,9.05,3.95,NA
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2013,2.27,19.3,4.18,14
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2013,3.05,8.1,7.15,19.9
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2013,1.4,8.5,4.6,11.81
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2013,1.2,6.65,3.1,7.8
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2013,'0.72,3.89,2.37,NA
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2013,3.21,8.96,4.31,12.6
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2013,'0.8,8.23,2.4,11
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2013,1,6.05,1.6,7.6
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2013,1.755,3.105,1.33,6.365
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2013,1.45,17.17,1.75,NA
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2013,'0.68,7.43,2.36,6.2
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2013,1.75,4.7,2.62,4
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2013,11.21,19.37,12.93,22.6
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2013,1.54,5.54,3.14,10
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2013,2.6,7.95,7.15,9.6
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2013,1.45,9.25,3.15,12.04
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2013,1.125,3.225,1.91,4.735
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2013,2.47,NA,4.6,NA
+MP,Satna,Maihar,Maihar,24.035,80.45583333,Sabhaganj,"Dug Well",W28813,2013,1.6,4.1,2.5,NA
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Ramnagar_Bamhnadi,"Dug Well",W28882,2013,1,7.1,3.3,9.4
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Parasmaniya(S),"Bore Well",W28910,2013,'0.35,5.3,2.2,8.4
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-S,"Bore Well",W28911,2013,1.41,4.85,2.2,6.9
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-D,"Bore Well",W28912,2013,9.24,20.6,12.8,29.3
+MP,Satna,Maihar,Maihar,24.27722222,80.84111111,Naraura,"Dug Well",W28921,2013,1.65,7.55,3.74,9.4
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan1,"Dug Well",W28932,2013,5.12,8.62,3.34,9.9
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,*Ramnagar,"Dug Well",W31696,2013,NA,6.92,NA,NA
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,*Satna-S,"Bore Well",W31704,2013,2.62,9.29,6,NA
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur1,"Dug Well",W28983,2013,'0.2,3,1,3.55
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna-D,"Bore Well",W28995,2013,6.71,13.45,6.62,32.2
+MP,Satna,Nagod,Nagod,24.57638889,80.68416667,Barethia,"Dug Well",W29000,2013,1.95,8.75,4.05,NA
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar1,"Dug Well",W29028,2013,1.18,2.38,1.93,5.23
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2013,4.15,17.15,4.85,17.15
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2012,NA,5.99,4.74,10.44
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar1,"Dug Well",W29028,2012,NA,NA,1.25,NA
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2012,NA,NA,4,12.3
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2012,NA,4.55,1.9,9.15
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2012,NA,6.32,5.91,9.91
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2012,NA,9.1,12.1,11.4
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2012,NA,18.7,15.7,18.28
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2012,NA,9.55,7.85,9.8
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2012,NA,3.7,'0.97,3.75
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2012,NA,11.25,NA,5.55
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2012,NA,5.5,4.15,11.74
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2012,NA,10.65,NA,16.55
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2012,NA,11.15,8.2,12.35
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2012,NA,10.42,8.25,10.85
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2012,NA,11.4,2.35,18.43
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2012,NA,5.5,1.65,16.25
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2012,NA,9.9,6.2,10.9
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2012,NA,7.45,4.25,9.35
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2012,NA,5.87,4.22,8.17
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2012,NA,7.11,9.91,12.21
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2012,NA,5.9,4.36,9.4
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2012,NA,4.6,2.45,6.45
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2012,NA,5.43,1.98,7.23
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2012,NA,17.17,NA,2.85
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2012,NA,5.66,2.96,9.26
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2012,NA,3.35,3.11,8.6
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2012,NA,11.3,16.9,19.6
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2012,NA,4.94,NA,8.34
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2012,NA,8.55,7.89,8.65
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2012,NA,5.65,4.65,11.29
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2012,NA,3.75,1.14,5.25
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Ramnagar_Bamhnadi,"Dug Well",W28882,2012,NA,NA,5.7,NA
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Parasmaniya(S),"Bore Well",W28910,2012,NA,NA,5.1,NA
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-S,"Bore Well",W28911,2012,NA,NA,7,NA
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar-D,"Bore Well",W28912,2012,NA,NA,11.06,NA
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan1,"Dug Well",W28932,2012,NA,NA,4.55,NA
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur1,"Dug Well",W28983,2012,NA,NA,1.4,NA
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna-D,"Bore Well",W28995,2012,NA,NA,7.6,NA
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2012,NA,11.95,NA,17.15
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2011,1.54,5.1,5.04,9.64
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2011,NA,9.94,NA,NA
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2011,6.8,13,NA,13
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2011,NA,14.96,NA,NA
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2011,5,7.9,2.5,12.3
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2011,3.63,10.1,5.01,13.81
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2011,'0.2,18.75,8,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2011,17.15,19.38,17.9,19.38
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2011,7.95,10.4,8.75,10.05
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2011,-0.15,6.2,2.05,5.25
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2011,3.2,11.8,11.25,11.8
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2011,1.7,10.2,4.1,12.34
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2011,9.75,18,9.55,18
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2011,6.95,13.5,9.85,NA
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2011,9.55,11.6,9.45,12.45
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2011,6.22,12.2,15.6,23.9
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2011,4.45,25,5.45,14.1
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2011,7.05,11.4,8.5,13.31
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2011,2.95,7.6,5.85,12.04
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2011,2.67,8.2,4.77,11.4
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2011,5.61,11.55,6.01,13.41
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2011,1.8,6.9,4.5,10
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2011,'0.5,5.4,2.95,9.25
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2011,1.18,6.8,4.33,9.03
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2011,1.25,NA,17.17,17.72
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2011,'0.86,6.05,4.56,10.2
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2011,1.8,4.85,1.65,14.5
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2011,6.13,18.86,10.4,19.8
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2011,3.14,12.82,3.74,12.82
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2011,2.95,9.3,8.45,13.5
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2011,2,5.6,4.75,12.04
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2011,'0.75,4.35,2.15,7.25
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2011,11.65,18,11,18
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2010,2.64,3.94,4.44,10.54
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2010,2.25,4.95,2.6,NA
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2010,NA,12.3,9.4,NA
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2010,NA,4.3,6.4,6.65
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2010,7.51,8.21,9.26,11.01
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2010,NA,NA,11.8,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2010,NA,18.28,18.28,NA
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2010,9.05,10.05,9.85,9.85
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2010,3.95,3.55,5.35,5.55
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2010,NA,11.25,6.35,NA
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2010,NA,11.74,11.74,NA
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2010,NA,5.55,16.55,NA
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2010,8.45,9.85,9.28,11.95
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2010,10.65,9.65,11.45,11.2
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2010,NA,15.5,NA,16.4
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2010,4.4,6.45,6.45,10.85
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2010,9.5,9.5,11.81,11.1
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2010,8.05,7.15,10.55,NA
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2010,7.17,8.07,8.87,9.47
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2010,10.71,10.11,10.21,NA
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2010,5,4.5,6.3,9.3
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2010,2.55,2.95,4.85,6.25
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2010,6.43,8.03,8.19,NA
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2010,7.06,3.05,17.17,NA
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2010,2.56,4.16,5.56,5.66
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2010,2.75,4.35,4.15,NA
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2010,NA,17.7,NA,17.7
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2010,NA,12.82,12.26,NA
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2010,6.75,9.15,8.6,9.55
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2010,NA,11.29,11.29,NA
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2010,NA,17.15,17.15,NA
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2009,2.64,8.14,1.89,10.19
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2009,4.55,2.4,2.2,5.35
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2009,NA,12.3,7.3,12.3
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2009,NA,14.4,NA,32.52
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2009,6.5,7.4,6.55,11.4
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2009,7.41,8.91,11.01,15.71
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2009,NA,1.95,12.85,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2009,17.7,17.3,NA,18
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2009,9.25,9.15,9.35,9.8
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2009,5.95,4.4,2.65,7.3
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2009,NA,4.45,NA,11.25
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2009,8.9,9.2,5.55,11.74
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2009,10.75,11.9,11.5,15.1
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2009,7.45,9.85,9.5,12.35
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2009,10.05,9.43,10.1,14.5
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2009,NA,19.45,NA,20.85
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2009,4.75,17.05,2.45,7.2
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2009,10.9,9.6,9.45,10.75
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2009,7.45,7.35,6.15,9.5
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2009,7.17,5.27,5.27,9.32
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2009,10.61,10.61,10.31,11.96
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2009,7,7.85,4.32,9.55
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2009,1.95,2.95,2.6,6.45
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2009,6.53,6.33,2.88,8.36
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2009,2.45,5.45,3.3,6.25
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2009,NA,7.46,4.11,15.46
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2009,3.35,4.5,2.45,13.5
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2009,NA,16.1,NA,20.15
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2009,NA,7.14,6.54,12.26
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2009,8.25,8.45,8.95,12.95
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2009,NA,6.93,5.4,11.29
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2009,NA,17.15,NA,17.15
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2008,5.74,9.42,7.79,10.74
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2008,1.3,3.93,1.65,6.6
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2008,6.7,10.1,10.7,10.1
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2008,3.83,22.99,15.78,30.34
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2008,6.05,8.07,8.35,NA
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2008,4.66,7.93,10.51,15.71
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2008,'0.7,13.85,13.1,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2008,16.5,17.17,16.2,17.95
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2008,8.25,9.09,9.1,10.15
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2008,'0.65,5.15,2.9,6.97
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2008,5.85,8.8,10.13,11.25
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2008,1.85,9.33,5.35,11.74
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2008,7.5,11.88,9.25,14.5
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2008,5.57,9.67,9.4,12.35
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2008,8.4,10.45,8.9,14.15
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2008,4.7,23.83,12.7,22.55
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2008,2.85,15.23,2.75,7.1
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2008,6.4,10.48,10.6,11.1
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2008,3.75,7.41,9.35,9.35
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2008,3.77,8.09,4.72,10.09
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2008,7.71,9.94,9.31,11.11
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2008,'0.7,8.33,3.7,9.4
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2008,'0.85,5.35,2,6.4
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2008,6.43,5.45,7.93,8.36
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2008,2.45,4.05,3.85,15.1
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2008,2.96,7.3,7.06,15.46
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2008,3.1,5.83,3.25,13.48
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2008,5.61,13.73,15.2,20.4
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2008,5.24,8.5,11.04,12.26
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2008,3.85,8.07,7.69,12.95
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2008,4.7,10.17,4.6,11.29
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2008,8.95,11.15,10.95,17.15
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2007,1.64,9.3,4.84,10.19
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2007,NA,9.71,NA,12.94
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2007,10.1,10.1,9.15,10.1
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2007,10.64,19.02,13.3,27.85
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2007,7.4,7.56,6.2,9.55
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2007,7.39,6.61,15.71,9.73
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2007,13.02,16.95,11,10.3
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2007,17.1,17.1,13.3,16.9
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2007,8.58,9.8,15.52,9.15
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2007,5.95,6.25,3.35,6.55
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2007,7.7,11.25,6.55,3.9
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2007,7.4,9,4.75,11.74
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2007,8.98,9.65,8.95,11.7
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2007,7.47,9.95,8.3,12.35
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2007,9.2,9.15,9.4,9.65
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2007,12.24,19.7,10.1,18.11
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2007,2.55,15.25,2.95,20.95
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2007,10.32,9.6,11.15,10.25
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2007,7.9,7.7,9.05,8.38
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2007,7.3,8.77,7.02,9.77
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2007,9.86,8.11,9.01,10.81
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2007,4.95,8.1,4.9,9.2
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2007,1.55,4.75,3.05,5.85
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2007,6.43,5.03,4.43,6.33
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2007,2.5,3.6,2.55,5.05
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2007,4.06,8.86,5.21,13.21
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2007,5.63,6.05,3.77,12.3
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2007,8.73,10.63,8.25,15.83
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2007,8.84,8.04,8.19,10.94
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2007,6.85,10.85,7.95,12.75
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2007,8.1,8.75,5.95,11.29
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2007,6.25,3.65,6,5.75
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2007,10.9,12.25,15.65,12.25
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2006,1.79,7.76,6.24,9.84
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2006,NA,NA,5.49,NA
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2006,4.9,10.1,7.02,10.1
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2006,7.77,17.23,11.15,18.8
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2006,5.2,6.8,6.35,7.75
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2006,3.06,5.81,4.83,11.51
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2006,8.3,15.4,12.62,16.95
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2006,16.3,14.75,16.55,17.81
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2006,8.3,8.95,8.6,10.22
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2006,2.95,1.81,6.23,4.75
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2006,4.85,11.25,6.91,9.29
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2006,2.1,8.4,4.68,9
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2006,4.55,6.15,6.4,8.04
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2006,6.35,9.5,9,10.05
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2006,7.15,6.52,8.2,7.39
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2006,5.87,NA,9.3,14
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2006,5.2,9.85,2.97,17.15
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2006,6.42,8,8.05,9.35
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2006,3.3,5.33,6,7.73
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2006,2.87,3.37,4.29,8.03
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2006,4.51,4.96,4.61,10.65
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2006,1.2,7.53,3.77,9.2
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2006,'0.85,4.35,2.2,4.75
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2006,'0.78,4.03,2.78,7.03
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2006,1.45,2.78,2.7,5.65
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2006,1.56,8.06,5.46,14.86
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2006,2.11,3.44,3.78,8.11
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2006,3.64,11.55,6.66,19.28
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2006,5.54,6.53,5.79,8.41
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2006,4.95,8.15,11.7,8.8
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2006,3.95,5.92,5.39,7.88
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2006,1.65,2.05,2.48,4.47
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2006,6.4,10.84,9.7,11.35
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2005,NA,6.84,3.89,10.29
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2005,5.44,7.73,NA,14.3
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2005,2.79,8.43,5.65,10.1
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2005,5.13,10.93,11.08,21.32
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2005,'0.8,7,6.15,8.95
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2005,2.29,7.51,4.94,14.71
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2005,6.2,14.4,13.35,16.95
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2005,13.93,16.4,14.8,16.65
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2005,3.81,8.71,8.65,8.9
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2005,'0.03,1.97,1.35,4.4
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2005,1.58,7.45,5.95,11.25
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2005,1.28,9.67,5.05,11.74
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2005,2.31,5.4,4.35,8.57
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2005,7.61,8.86,9.18,11.65
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2005,3.25,7.49,6.15,8.4
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2005,4.07,11.24,NA,11.85
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2005,1.43,7.8,11.45,5.65
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2005,2.14,7.58,6,9.55
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2005,1.51,6.45,4.15,8.5
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2005,1.4,3.89,2.57,7.87
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2005,2.27,6.72,2.42,10.46
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2005,1.53,7.9,3.75,9.18
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2005,'0.45,3.87,2.15,5.13
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2005,1.7,3.38,1.93,5.48
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2005,'0.61,3.45,1.11,10.65
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2005,NA,8.46,'0.01,15.46
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2005,1.73,4.65,3.45,12.9
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2005,2.86,11.34,8.1,19.05
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2005,NA,6.94,4.54,12.26
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2005,1.99,8,7.75,9.3
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2005,'0.89,5.37,3.89,10.7
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2005,'0.85,1.8,1.05,4.3
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2005,2.84,10.09,7.85,11.05
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2004,2.8,4.79,2.96,9.49
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2004,6.45,9.35,6.71,10.67
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2004,5.1,7.2,5.1,10.1
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2004,6.95,11.1,12.25,14.2
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2004,5.5,6.55,5.19,9.18
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2004,4.11,5.33,4.67,11.71
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2004,8.9,13.95,8.3,16.45
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2004,15.2,13.9,15.2,15.15
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2004,8.05,8.05,7.99,8.87
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2004,1.15,2.05,'0.87,5.13
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2004,5.45,6.65,4.59,11.25
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2004,2,5.6,4.18,11.74
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2004,4.05,4.8,3.68,8.17
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2004,5.75,8.45,7.65,10.05
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2004,6.25,7.2,6.39,11.37
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2004,8.07,7.3,7.71,10.3
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2004,6.25,4.15,7.73,4.45
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2004,3.55,7.1,6.42,9.35
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2004,1.85,5.77,4.8,8.15
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2004,2.77,2.52,2.87,5.15
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2004,4.76,5.61,8.32,8.86
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2004,2.1,8,3.81,9.5
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2004,1.15,3.95,1.75,5.35
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2004,1.63,2.85,3.05,6.48
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2004,2.25,2.85,3.49,3.7
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2004,2.06,5.44,4.24,15.11
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2004,2.25,3.95,2.78,8.2
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2004,NA,8.5,6.33,16.85
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2004,5.04,4.6,NA,9.99
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2004,6.45,8.18,6.89,9.8
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2004,4.35,4.85,3.03,9.85
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2004,1.15,1.65,2.35,3.73
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2004,3.95,5.7,6.72,11.75
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2003,'0.75,1.65,2.37,4.25
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2003,4.55,7.15,6.3,8.85
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2003,4.26,8.14,5.43,9.13
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2003,3.25,4.1,2.7,14.56
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2003,1.03,8.3,5.17,9.7
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2003,'0.55,6.15,3.73,8.05
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2003,'0.23,3.72,2.17,8.47
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2003,'0.84,5.71,4.16,9.01
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2003,'0.5,6.4,3.3,10.3
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2003,'0.85,5.3,1.8,6.65
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2003,'0.33,2.73,2.28,5.23
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2003,1.45,5.3,2.3,3.96
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2003,'0.56,8.36,4.51,12.77
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2003,1.78,4.15,3.3,8.55
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2003,3.6,8.36,4.8,18.68
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2003,2.96,5.1,3.15,8.75
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2003,1.71,9.45,4.09,9.25
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2003,'0.45,5.55,3.2,8.25
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2003,1.54,6.44,3.17,10.96
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2003,2.99,9.85,6.65,10.49
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2003,2.97,6.6,5.7,9.82
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2003,2.88,13.3,9.5,20.16
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2003,3.55,6.32,5.85,9.6
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2003,1.71,7.51,3.76,13.21
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2003,5.4,13.3,10.85,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2003,13.64,14.85,13.12,15.8
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2003,6.15,8.3,7.79,8.75
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2003,'0.5,2.05,1.18,4.45
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2003,3.09,7.95,5.41,NA
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2003,'0.96,9.1,1.95,NA
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2003,2.45,5.55,3.65,8.05
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2003,4.1,8.65,8.15,9.85
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar,"Bore Well",W01115,2003,NA,3.5,NA,NA
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2003,2.4,6.1,4.52,NA
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2002,1.7,1.48,1.09,4.07
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2002,4.88,6.45,4.93,24.75
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2002,4.65,10.6,5.22,9.03
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2002,1.3,3.38,6.45,5.37
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2002,8.15,8.3,6.8,9.77
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2002,4.95,5.99,4.5,8.2
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2002,4.03,2.92,1.55,6.79
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2002,6.67,5.56,5.31,9.27
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2002,2.96,5.73,2.84,7.13
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2002,1.5,4.55,2.45,6.36
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2002,4.86,2.9,2.03,5.33
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2002,3.83,2.95,3,6.17
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2002,1.19,5.04,5.93,6.93
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2002,2.5,4.19,3.05,8.5
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2002,5.94,10.86,5.09,18.3
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2002,6.75,5.45,3.78,9.42
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2002,4.2,9.73,6.55,NA
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2002,5.35,4.75,3.77,8.9
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2002,1.82,4.36,3.94,9.86
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2002,7.61,10,6.79,NA
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2002,6.59,7.2,5.93,9.55
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2002,5.03,9.08,10.37,18
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2002,7.75,6.4,6.4,8.65
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2002,4.49,5.21,5.38,7.36
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2002,12.12,13.12,11.4,15.71
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2002,15.86,14.8,14.5,16
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2002,7.94,8.25,7.95,9
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2002,2.83,3.28,1.35,5.08
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2002,6.66,7.79,6.07,NA
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2002,4.85,7.87,4.97,NA
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2002,5.98,5.85,4.3,6.2
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2002,8.52,10.1,8.09,10.07
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar,"Bore Well",W01115,2002,2.1,4.14,1.7,6.04
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2002,7.3,7.85,6.25,10.89
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2001,'0.75,1.3,1.45,3.9
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2001,4.25,7.73,7.15,9.2
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2001,4.69,10.2,6.4,15.05
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2001,2.75,NA,2.35,5.1
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2001,1.46,8.34,6.42,9.85
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2001,'0.95,7.68,3.75,8.9
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2001,NA,4.22,1.67,NA
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2001,1.9,8.08,4.23,10.36
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2001,'0.8,6.9,2.74,10.56
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2001,'0.99,4.65,2.1,6.7
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2001,'0.33,4.26,1.88,6.13
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2001,1.55,5.7,2.15,6.4
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2001,'0.76,8.56,3.61,15.06
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2001,1.55,4.2,3.13,8.9
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2001,3.72,11.62,6.25,18.2
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2001,3,5.7,4.02,9.35
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2001,2.22,NA,9.95,NA
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2001,3.37,6.34,4.8,10.75
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2001,1.68,6.09,2.62,9.99
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2001,5.45,NA,7.35,NA
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2001,3.9,10.02,5.37,NA
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2001,4.96,15.03,7.94,18.65
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2001,4.6,7.65,7.9,9.9
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2001,1.91,8.61,4.26,NA
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2001,7.25,14.9,9.35,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2001,14.3,15.2,3.95,16.25
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2001,7.25,8.13,8.05,8.65
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2001,4.15,3.47,1.6,7.67
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2001,3.95,8.39,7.6,10.1
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2001,1.1,6.65,3.25,NA
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2001,2.97,8.67,4.48,11.25
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2001,5.25,9.25,8,11.1
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar,"Bore Well",W01115,2001,2.49,6.8,2.5,8.6
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2001,3.19,8.33,4.52,NA
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,2000,'0.8,1.1,'0.97,4.93
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,2000,5,NA,7.41,9.16
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,2000,6.24,NA,8.37,NA
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,2000,1.11,2.17,2.87,4.55
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,2000,4.36,7.23,6.81,9.73
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,2000,6.95,5.94,6.63,8.28
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,2000,2.17,2.67,4.03,4.05
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,2000,6.13,5.85,6.92,9.03
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,2000,1.42,5.39,3.06,8.57
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,2000,1.13,3.27,3.43,7.24
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,2000,1.78,2.55,2.38,5.28
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,2000,2.79,6.02,3.76,7.98
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,2000,7.31,NA,7.98,14.01
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,2000,2.85,3.45,2.94,6.87
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,2000,5.89,NA,7.5,NA
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,2000,6.3,NA,7.99,9.87
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,2000,2.91,8.98,9.03,NA
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,2000,3.15,4.82,4.73,7.58
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,2000,6.85,NA,8.07,11.19
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,2000,7.2,7.93,8.81,NA
+MP,Satna,Amarpatan,Amarpatan,24.31444444,80.97555556,Amarpatan,"Bore Well",W00412,2000,7.37,NA,12.77,NA
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,2000,5.96,7.28,6.52,8.61
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,2000,5.71,NA,6.59,8.92
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,2000,12.3,NA,12.61,NA
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,2000,14.8,14.3,4.71,15.48
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,2000,7.57,9.14,8.37,9
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,2000,'0.5,1.7,1.43,5.8
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,2000,4.6,7.2,6.29,9.9
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,2000,3.35,3.93,5.24,10.12
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,2000,5.3,4.98,6.38,7.24
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,2000,2.04,4.59,3.96,7.6
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,2000,6.55,8.9,7.8,9.75
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar,"Bore Well",W01115,2000,4,NA,5.72,NA
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,2000,4.89,NA,6.98,NA
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,1999,4.35,6.61,5.9,NA
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,1999,1.05,2.53,1.78,6.3
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,1999,1.93,5.59,1.37,6.71
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,1999,3.76,5.72,3.71,9.12
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,1999,1.8,7.09,2.28,9.18
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,1999,'0.85,5.51,'0.65,5.4
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,1999,1.21,3.81,1.54,6.28
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,1999,2.75,11.49,2.45,10.96
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,1999,5,7.18,4.26,14.22
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,1999,1.25,6.31,1.9,NA
+MP,Satna,Majhgawan,Majhgawan,24.91388889,80.79722222,Majhgawan-D,"Bore Well",W01104,1999,NA,NA,8.2,NA
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,1999,4.95,6.84,5.93,12.45
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,1999,2.33,7.79,4.25,10.85
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,1999,3.85,6.31,2.95,NA
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,1999,'0.95,3.01,'0.88,4.75
+MP,Satna,Ramnagar,Ramnagar,24.19611111,81.15111111,Newramnagar-D,"Bore Well",W01111,1999,NA,NA,7.26,NA
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,1999,5.2,8.43,6.2,10.85
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,1999,5.95,7.76,5.2,10.75
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,1999,6.42,7.83,6.6,9.58
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,1999,4.95,6.53,3.51,NA
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,1999,11.03,11.81,9.08,16.03
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,1999,14.9,9.06,13.63,16.63
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,1999,8.53,8.56,8.58,9.83
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,1999,'0.45,3.79,'0.31,4.35
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,1999,4.8,6.27,7.05,13.26
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,1999,2,6.97,5.3,12.04
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,1999,3.27,6.63,3.05,4.45
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,1999,2.4,6.76,2.39,8.33
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,1999,6.06,8.86,8.25,10.07
+MP,Satna,Sohawal,Sohawal,24.69944444,80.995,Kotar,"Bore Well",W01115,1999,NA,NA,2.12,NA
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,1999,6.15,8.62,5.65,8.7
+MP,Satna,Sohawal,Sohawal,24.51111111,81.05638889,Rampur,"Bore Well",W01118,1999,NA,NA,6.8,NA
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,1999,1.6,5.01,4.1,NA
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,1998,1.18,5.7,3.77,7.96
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,1998,3.39,2.97,3.78,NA
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,1998,2.9,5.29,4.91,7.09
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,1998,1.83,4.47,4.03,8.58
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,1998,2.63,1.42,3.52,5.67
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,1998,1.22,1.51,1.79,6.45
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,1998,2.63,3.99,3.71,12.86
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,1998,6.36,4.28,NA,9.88
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,1998,3.98,2.63,3.49,6.09
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,1998,4.97,4.63,5.43,8.9
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,1998,2.66,5.57,5.08,NA
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,1998,4.56,3.13,5.29,NA
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,1998,1.61,2.6,2.36,2.7
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,1998,4.18,6.53,6.34,9.51
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,1998,5.78,NA,6.62,10.23
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,1998,6.24,6.88,6.44,8.73
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,1998,4.94,4.41,5.42,9.01
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,1998,9.17,10.32,10.25,15.11
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,1998,6.97,15.34,7.83,NA
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,1998,6.94,9.15,7.81,9.71
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,1998,1.24,'0.58,2.61,3.21
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,1998,3.79,6.2,4.94,9.66
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,1998,2.28,4.42,4.15,9.92
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,1998,4.1,2.8,5.01,6.01
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,1998,4.07,NA,5.27,7.38
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,1998,5.42,7.92,8.52,NA
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,1998,6.83,7.45,7.66,8.57
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,1998,1.02,1.58,2.15,4.5
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,1998,3.91,7.14,5.21,9.15
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,1997,3.17,7.58,3.74,9.98
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,1997,1.55,2.06,1.61,5.59
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,1997,6.05,9.45,7.55,9.8
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,1997,6.88,9.76,7.93,9.9
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,1997,4.3,5.81,2.89,11
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,1997,5.33,6.72,3.34,8.32
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,1997,2.4,6.31,3.35,10.55
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,1997,6.48,8.19,5.65,10.57
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,1997,2.05,3.75,1.07,5.71
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,1997,NA,16.8,9,9.68
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,1997,NA,16.75,15.15,16.62
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,1997,NA,13.98,8.53,16.08
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,1997,NA,6.33,3.27,14.66
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,1997,NA,7.36,6.48,10.9
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,1997,7.08,8.33,5.8,10.8
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,1997,5.78,10.32,6.37,11.55
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,1997,2.55,3.15,'0.93,3.71
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,1997,3.33,6.38,3.5,10.26
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,1997,3.4,11.12,4.89,11.4
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,1997,NA,6.93,4.83,12.82
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,1997,NA,5.15,2.62,8.21
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,1997,NA,7.32,4,14.61
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,1997,3.6,6.97,3.51,12.95
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,1997,NA,3.89,1.21,6.43
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,1997,1.5,5.68,1.53,13.4
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,1997,2.16,7.61,4.15,9.9
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,1997,6,7.56,4.83,NA
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,1997,NA,5.38,2.27,10.34
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,1997,6.78,9.51,5.7,10.3
+MP,Satna,Sohawal,Sohawal,24.38833333,80.91666667,Chorhata,"Dug Well",W00423,1996,2.87,3.84,4.82,8.1
+MP,Satna,Unchahara,Unchahara,24.35027778,80.61583333,"Paras maniya","Dug Well",W01124,1996,1.71,6.3,5.63,8.04
+MP,Satna,Ramnagar,Ramnagar,24.26388889,81.20611111,Sagauni,"Dug Well",W01114,1996,5.86,8.55,8.94,9.74
+MP,Satna,Majhgawan,Majhgawan,24.73194444,80.68555556,Jhali,"Dug Well",W00419,1996,1.73,2.25,2.91,3.75
+MP,Satna,Nagod,Nagod,24.70166667,80.58194444,Singhpur,"Dug Well",W01108,1996,2.07,1.75,2.48,3.38
+MP,Satna,Sohawal,Sohawal,24.74722222,80.77666667,Kothi,"Dug Well",W01117,1996,7.67,8.65,8.39,5.93
+MP,Satna,Nagod,Nagod,24.54027778,80.65444444,Pathraundha,"Dug Well",W01107,1996,5.19,5.85,5.28,8.7
+MP,Satna,Majhgawan,Majhgawan,25.06666667,80.81666667,Chitrakoot,"Dug Well",W00418,1996,12.37,10.48,15.96,9.63
+MP,Satna,Nagod,Nagod,24.57166667,80.57777778,Nagod,"Dug Well",W01106,1996,2.97,10.75,5.72,10.62
+MP,Satna,"Rampur Baghelan","Rampur Baghelan",24.7975,80.96972222,Birsinghpur,"Dug Well",W00422,1996,4.34,5.52,5.45,8
+MP,Satna,Majhgawan,Majhgawan,25.0175,80.68611111,Nakaila,"Dug Well",W01105,1996,5.32,6.43,5.29,11.53
+MP,Satna,Majhgawan,Majhgawan,25.00416667,80.8,Babupur,"Dug Well",W00417,1996,12.45,15.9,18.83,16.4
+MP,Satna,Majhgawan,Majhgawan,24.91055556,80.81333333,Majhagawa,"Dug Well",W01103,1996,2.34,4.35,3.83,8.91
+MP,Satna,Sohawal,Sohawal,24.56805556,80.83194444,Satna,"Dug Well",W01120,1996,'0.83,1.98,1.87,3.91
+MP,Satna,Maihar,Maihar,24.12638889,80.86805556,Rivara,"Dug Well",W01102,1996,6.95,5.61,5.83,11.13
+MP,Satna,Maihar,Maihar,24.00416667,80.42583333,Jhukehi,"Dug Well",W00416,1996,9.47,13.33,11.47,15.61
+MP,Satna,Maihar,Maihar,24.25972222,80.76444444,Maihar,"Dug Well",W01098,1996,2.44,5.05,4.06,12.68
+MP,Satna,Ramnagar,Ramnagar,24.2375,81.035,Gorsari,"Dug Well",W00421,1996,2.59,6.25,3.88,11.1
+MP,Satna,Maihar,Maihar,24.17138889,80.67722222,Kusendi,"Dug Well",W01097,1996,'0.96,3.23,2.17,5.03
+MP,Satna,Maihar,Maihar,24.16666667,80.8225,Bhadanpur,"Dug Well",W00415,1996,5.53,5.51,4.59,8.81
+MP,Satna,Amarpatan,Amarpatan,24.44388889,81.11805556,"Mauhari katra","Dug Well",W01096,1996,1.36,4.75,2.69,7.02
+MP,Satna,Unchahara,Unchahara,24.39166667,80.54722222,Pahari,"Dug Well",W01123,1996,5.08,8,7.82,9.51
+MP,Satna,Amarpatan,Amarpatan,24.35277778,81.03888889,Kakra,"Dug Well",W01095,1996,2.06,7.55,4.49,9.34
+MP,Satna,Maihar,Maihar,24.10388889,80.57638889,Amdara,"Dug Well",W00414,1996,6.26,6.97,6.6,8.87
+MP,Satna,Unchahara,Unchahara,24.36166667,80.78111111,Uchehara,"Dug Well",W01126,1996,6.45,6.33,6.83,8.06
+MP,Satna,Nagod,Nagod,24.49861111,80.50416667,Jaso,"Dug Well",W00420,1996,5.87,7.48,6.59,10.06
+MP,Satna,Unchahara,Unchahara,24.47166667,80.75916667,Pondipithourabd,"Dug Well",W01125,1996,3.78,3.77,3.94,7.97
+MP,Satna,Unchahara,Unchahara,24.48972222,80.86055556,Bhatanwara,"Dug Well",W00425,1996,6.48,7.5,7.66,10.72
+MP,Satna,Sohawal,Sohawal,24.73972222,80.86722222,Jaitwara,"Dug Well",W00424,1996,4.85,9.45,7.85,10.45

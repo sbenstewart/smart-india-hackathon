@@ -1,220 +1,144 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,2018,4.45,NA,NA,7
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2018,7.28,7.77,NA,NA
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2018,12.3,12.3,NA,NA
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2018,9.7,9.7,NA,NA
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2018,3.95,2.45,NA,NA
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.27,83.57722222,Bevnaliya,"Dug Well",W29211,2018,5.5,6.54,NA,NA
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2018,8.4,7.29,NA,NA
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2018,5.2,7.64,NA,NA
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2018,7.84,8.12,NA,NA
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2018,NA,4.38,NA,NA
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.98027778,83.5675,Saraiya,"Dug Well",W29100,2018,7.3,12.49,NA,NA
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2018,6.17,9.19,NA,NA
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2017,4.23,NA,5.23,4.45
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2017,6.5,NA,8.08,10.35
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2017,4.16,NA,6.13,10.03
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2017,4.71,5.43,7.53,7.18
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2017,6.8,8.44,9.48,12.3
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.27,83.57722222,Bevnaliya,"Dug Well",W29211,2017,4.31,4.88,5.26,7.08
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2017,1.83,2.79,2.18,5.3
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2017,3.13,5.55,6.73,8.09
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2017,4.1,6.18,5.91,8.91
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.98027778,83.5675,Saraiya,"Dug Well",W29100,2017,8.62,8.13,7.16,12.18
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2017,5.24,5.39,9.66,9.7
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2016,2.16,NA,3.42,6.25
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2016,'0.61,NA,3.83,NA
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2016,NA,NA,2.65,5.6
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2016,'0.55,NA,4.16,NA
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2016,3.86,NA,2.26,9.7
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.27,83.57722222,Bevnaliya,"Dug Well",W29211,2016,4.49,6.75,2.63,7.3
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2016,6.65,NA,5.92,5.59
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2016,6.1,NA,6.01,10.3
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2016,8.86,NA,4.16,8.2
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.98027778,83.5675,Saraiya,"Dug Well",W29100,2016,4.06,10,5.08,NA
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2016,'0.9,NA,1.43,10.4
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2015,5.6,6.75,7.14,7.5
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2015,NA,NA,NA,8.58
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2015,3.8,6.45,5.91,9
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2015,4.58,7.77,5.5,9.4
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2015,5.36,7.09,9.26,7.45
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.27,83.57722222,Bevnaliya,"Dug Well",W29211,2015,4.02,NA,5.37,7.3
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2015,3.62,3.26,NA,4.99
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2015,NA,2.5,10.35,NA
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2015,6.8,8.7,10.46,12.2
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.98027778,83.5675,Saraiya,"Dug Well",W29100,2015,7.9,NA,9.5,NA
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2015,2.35,7.62,3.03,8.1
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2014,5.17,4.9,5.5,6.58
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2014,2.73,5.08,NA,NA
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2014,3.8,2.6,5.56,8.8
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2014,3.78,3.65,7.37,6.83
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2014,7.9,6.37,7.7,12.3
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2014,3.65,2.5,3.4,4.96
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2014,4.67,3.25,4.34,4.15
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2014,NA,NA,2.5,NA
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2014,6.48,NA,5.8,7.24
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2013,4.24,8.46,3.38,2.46
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2013,2.78,6.37,3.28,8.58
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2013,5.82,4.5,5.3,8.34
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2013,6.43,4.69,2.65,NA
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2013,5.93,NA,4.8,12.3
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2013,2.28,5.3,2.62,6.12
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,2013,NA,NA,NA,7
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2013,4.25,4.83,4,4.4
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2013,7.6,NA,3.78,NA
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2013,5.37,7.71,5.14,8.14
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2012,NA,NA,4.69,8.8
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2012,NA,4.18,4.92,NA
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2012,NA,NA,4.14,6.1
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2012,NA,NA,NA,9.45
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2012,NA,3.74,3.29,9.02
-BR,"Kaimur (bhabua)",Bhabua,Bhabhua,25.08805556,83.56277778,Mohania-2,"Dug Well",W21168,2012,NA,NA,3.97,NA
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,2012,NA,NA,NA,6.6
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2012,NA,NA,3.32,4.95
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2012,NA,7.03,NA,9.05
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2012,NA,6.54,4.57,11.5
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2012,NA,5.2,3.3,7.4
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2011,3.74,6.43,NA,8.11
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2011,5.6,8.98,3.64,7.56
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2011,4.32,7.2,NA,6.35
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2011,4.92,8.15,4.95,9.73
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2011,4.9,7.93,NA,12.3
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2011,2.58,5.74,4.55,7.7
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,2011,NA,NA,NA,6.97
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2011,6.02,4.95,NA,5.96
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2011,6.51,6.88,6.8,10.35
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2011,4.31,7.71,3.62,9.7
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2010,5.29,6.58,5.7,8.36
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2010,5.78,8.38,6.58,9.77
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2010,5.43,6.13,5.42,8.57
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2010,6.52,6.85,7.09,8.72
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2010,5.68,6.95,6.66,12.3
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2010,4.15,4.85,4.52,7.47
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2010,5.47,5.65,5.05,5.27
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2010,6.94,7.55,7.25,9.81
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2010,3.4,6.66,5.74,9.48
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2009,4.76,NA,NA,NA
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2009,3.16,5.9,5.21,6.85
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2009,5.09,7.3,4.6,9.15
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2009,6.25,NA,3.15,6.05
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2009,5.2,NA,4.7,8.05
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2009,3.93,3.55,4.65,5.65
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2009,7.05,6.95,7.55,10.15
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2009,5.48,8.72,7.62,7.97
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2008,NA,4.5,NA,NA
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2008,3.39,5.21,6.78,NA
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2008,NA,6.75,6.7,8.88
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2008,2.88,7.75,7.04,NA
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2008,1.67,5.92,8.61,8.82
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2008,4.16,6.4,4.86,7.21
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2008,3.25,NA,4.47,4.94
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2008,5.47,NA,7.45,9.71
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2008,2.12,6.81,NA,NA
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2007,5.03,7.52,NA,7.5
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2007,4.71,6.26,NA,9.9
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2007,2.79,5.33,4.97,NA
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2007,3.2,5.65,NA,6.8
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2007,NA,6.05,NA,4.9
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2007,1.48,5.39,3.35,6.65
-BR,"Kaimur (bhabua)",Bhabua,Bhabhua,25.08805556,83.56277778,Mohania-2,"Dug Well",W21168,2007,5.03,7.52,NA,7.5
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2007,5.95,7.79,NA,8.65
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2007,1.7,4.41,NA,NA
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2007,4.39,5.4,5.85,NA
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2006,2.85,4.93,4.41,6.42
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2006,4.36,5.45,4.6,7.6
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2006,NA,5.93,3.46,6.1
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2006,1.51,4.6,3.98,NA
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2006,2.86,5.55,3.35,5.9
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2006,7.02,8.75,7.15,8.17
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2006,6.35,7.42,4.26,7.16
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2006,3,2.77,3.33,6.55
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2006,5.18,4.77,5.25,5.27
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2005,2.52,NA,2.77,5.52
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2005,6.55,7.5,7.42,NA
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2005,5.3,NA,5.45,NA
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2005,1.73,5.7,4.6,7.24
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2005,3,6.04,5.55,7.5
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2005,4.3,6.4,5.93,8.9
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2005,7.95,8.35,8.75,10.15
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2005,2,NA,4.77,5.55
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2005,3.65,NA,4.93,7.7
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2004,NA,5.06,6.1,NA
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2004,NA,2.89,4.65,NA
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2004,3.28,NA,4.85,5.8
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2004,2.72,5.26,4,7.8
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,2004,NA,NA,3.47,NA
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2004,4.55,5.15,6.22,3.8
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2004,7.65,6.12,7.65,9
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2004,NA,3.88,8.42,6.2
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2004,4.05,4.52,5.23,NA
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2003,3.98,NA,4.7,7.45
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2003,NA,5.13,3.15,4.2
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2003,2.82,4.84,3.7,7.1
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2003,4.08,4.69,3.1,6.25
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2003,4.26,NA,3.9,5.25
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2003,4.1,4.56,3.1,6.63
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2003,NA,3.99,NA,5.27
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2003,4.09,7.65,7.2,6.12
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2002,2.81,NA,3.63,6.87
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2002,NA,NA,3.9,6.05
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2002,2.69,NA,3.81,5.19
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2002,NA,NA,3.2,4.3
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2002,7.04,5.11,6.44,8.83
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2002,3.21,4.23,3.22,6.73
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2002,2.85,3.66,3.76,6.36
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2002,NA,5.72,NA,NA
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2001,3.35,6.18,5.15,NA
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2001,'0.85,7.15,6.6,NA
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2001,NA,4.9,2.7,NA
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2001,NA,4.25,3.35,6.9
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2001,1.21,3.3,2.53,NA
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2001,NA,7.4,7.1,NA
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2001,'0.75,5.05,4.45,NA
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,2001,1.3,NA,NA,NA
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2001,2.15,6.5,6.45,7.9
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,2000,2.8,NA,3.55,7.5
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,2000,2,4.08,3.2,7
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,2000,2,3.21,4.8,5.35
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,2000,2.02,5.26,2.68,8.93
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,2000,NA,NA,7.1,8.05
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,2000,7,4.22,7.45,8.9
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,2000,2.95,3.95,6.55,7.35
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,2000,4.73,6.38,5.1,NA
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,1999,NA,2.54,4.86,4.08
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,1999,NA,2.19,2.75,5.15
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,1999,3.35,3.9,4.63,NA
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,1999,NA,2.84,3.13,7.2
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,1999,NA,2.59,3.22,7.55
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,1999,NA,3.22,NA,8
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,1999,NA,2.8,2.8,9.1
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,1999,NA,3.17,3.5,9.03
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,1999,NA,2.84,NA,NA
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,1998,2.52,3.63,3.1,5
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,1998,3,5.45,4.72,NA
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,1998,2.12,4.55,4.37,7.16
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,1998,NA,3.22,NA,NA
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,1998,7.09,8.3,7.74,9.13
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,1998,2.72,4.17,3.92,11.35
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,1998,2.11,3.55,2.77,7.18
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,1998,2.62,2.84,2.34,9.12
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,1998,NA,5.22,4.62,NA
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,1997,2.56,5.52,4.48,NA
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,1997,2.25,4.02,2.55,7.22
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,1997,NA,3.9,2.59,7.15
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,1997,2.7,NA,4.57,NA
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,1997,2.68,4.11,3.53,8.05
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,1997,2.46,5.5,3.62,11.8
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,1997,2.89,5.92,4.18,7.35
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,1997,'0.71,5.01,2.23,NA
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,1997,7.19,8.54,7.63,9.01
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,1997,1.8,3.15,2.93,5.05
-BR,"Kaimur (bhabua)",Chainpur,Chainpur,25.04305556,83.5,Chainpur,"Dug Well",W12638,1996,2.88,4.6,3.9,7.06
-BR,"Kaimur (bhabua)",Mohania,Mohania,25.17138889,83.61972222,Mohania-1,"Dug Well",W12797,1996,4.59,4.35,4.98,7.83
-BR,"Kaimur (bhabua)",Kudra,Karghar,25.06666667,83.79166667,"Jahanabad (kudra)","Dug Well",W12701,1996,4.27,8.01,8.62,8.52
-BR,"Kaimur (bhabua)",Bhagwanpur,Bhagwanpur,24.97638889,83.62777778,"Tori f.ck.post","Dug Well",W12794,1996,2.38,5.5,4.6,5.58
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.68277778,83.61777778,Adhaura,"Dug Well",W12493,1996,2.24,5.27,3.07,6.27
-BR,"Kaimur (bhabua)",Durgawati,Durgawati,25.24194444,83.44111111,Karmanasa,"Dug Well",W12795,1996,3.84,6.12,6.03,8.55
-BR,"Kaimur (bhabua)",Adhaura,Adahaura,24.81666667,83.575,Bhabhua,"Dug Well",W12566,1996,3.92,6.59,5.05,9.21
-BR,"Kaimur (bhabua)",Ramgarh,Ramgarh,25.28472222,83.69027778,Bandipur,"Dug Well",W12528,1996,3.65,4.9,5.37,4.87
-BR,"Kaimur (bhabua)",Chand,Chand,25.1125,83.4,"Chand in p.s.","Dug Well",W12639,1996,3.1,4.2,3.22,6.49
-BR,"Kaimur (bhabua)",Durgawati,Ramgarh,25.29305556,83.53611111,Nuawan,"Dug Well",W12796,1996,3.89,6.94,5.61,8.06
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2018,6,NA,NA,7.5
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2018,1.56,NA,NA,3.58
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2018,3.35,3.82,NA,NA
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2018,6.82,5.7,NA,NA
+BR,Jehanabad,Ghoshi,Ghoshi,25.13666667,85.10527778,Lakhwar,"Dug Well",W31732,2018,4.9,3.15,NA,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.20888889,84.98638889,Gaurakhini,"Dug Well",W29176,2018,7.72,7.54,NA,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.23,84.97805556,"Teni Bigha","Dug Well",W29199,2018,1.93,2.1,NA,NA
+BR,Jehanabad,Ghoshi,Hulhasganj,25.08583333,85.14777778,Hulasganj,"Dug Well",W31728,2018,4.5,4.05,NA,NA
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2018,7.74,3.2,NA,NA
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2017,2.67,NA,3.11,4.88
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2017,1.41,NA,3.23,3.82
+BR,Jehanabad,Jehanabad,Jehanabad,25.20888889,84.98638889,Gaurakhini,"Dug Well",W29176,2017,5.67,5.91,3.19,3.96
+BR,Jehanabad,Jehanabad,Jehanabad,25.23,84.97805556,"Teni Bigha","Dug Well",W29199,2017,1.45,2.24,1.98,3.37
+BR,Jehanabad,Ghoshi,Ghoshi,25.13666667,85.10527778,Lakhwar,"Dug Well",W31732,2017,2.09,2.56,3.36,4.29
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2017,1.21,3.67,3.63,5.4
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2017,2,4.3,3.09,6.07
+BR,Jehanabad,Ghoshi,Hulhasganj,25.08583333,85.14777778,Hulasganj,"Dug Well",W31728,2017,2.45,3.61,4.24,5.83
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2017,3.1,5.72,5.11,5.42
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2016,7.12,NA,NA,7.8
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2016,3.16,NA,2.44,6.1
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2016,3.6,NA,2.32,7.5
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2016,NA,NA,NA,6.76
+BR,Jehanabad,Jehanabad,Jehanabad,25.23,84.97805556,"Teni Bigha","Dug Well",W29199,2016,3.47,3.91,2.02,3.63
+BR,Jehanabad,Ghoshi,Hulhasganj,25.08583333,85.14777778,Hulasganj,"Dug Well",W31728,2016,3.39,4.67,3.07,NA
+BR,Jehanabad,Ghoshi,Ghoshi,25.13666667,85.10527778,Lakhwar,"Dug Well",W31732,2016,NA,3.55,2,4.9
+BR,Jehanabad,Jehanabad,Jehanabad,25.20888889,84.98638889,Gaurakhini,"Dug Well",W29176,2016,5.74,8.43,5.17,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2016,NA,NA,3.28,4.51
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2015,3.5,3.8,4.74,5.94
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2015,3.29,3.42,4.12,5.25
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2015,NA,3.29,NA,4.29
+BR,Jehanabad,Jehanabad,Jehanabad,25.23,84.97805556,"Teni Bigha","Dug Well",W29199,2015,2.05,2.37,3.83,3.46
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2015,2.7,3.56,3.67,4.05
+BR,Jehanabad,Ghoshi,Ghoshi,25.13666667,85.10527778,Lakhwar,"Dug Well",W31732,2015,NA,NA,3.28,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.20888889,84.98638889,Gaurakhini,"Dug Well",W29176,2015,6.87,5.6,8.21,8.47
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2015,2.73,4.69,5.26,6.26
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2014,NA,5.36,NA,7.5
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2014,NA,3.62,2.82,5.4
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2014,NA,3.95,NA,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.23,84.97805556,"Teni Bigha","Dug Well",W29199,2014,NA,NA,NA,3.55
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2014,2.97,3.62,3.68,4.04
+BR,Jehanabad,Jehanabad,Jehanabad,25.20888889,84.98638889,Gaurakhini,"Dug Well",W29176,2014,3.34,NA,7.4,7.43
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2014,3.15,4.74,5,6.65
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2013,7.12,6.03,4.84,4.43
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.08611111,84.98583333,Makdhumpur-1,"Dug Well",W12792,2013,NA,5.34,NA,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2013,2.89,4.39,NA,4.47
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2013,4.86,7.43,NA,4.33
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2013,6.29,NA,4.04,5.23
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2013,6.06,NA,NA,5.61
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2012,NA,3.1,1.27,7.21
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2012,NA,4.16,NA,6.07
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2012,NA,3.72,2.89,4.95
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2012,NA,4.29,3.68,6.64
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2012,NA,1.3,NA,4.57
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2011,6.65,6.15,4,8.9
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2011,3.83,4.31,3.96,6.58
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2011,2.47,4.92,3.52,5.36
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2011,4,7.02,3.94,6.58
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2011,NA,7.5,NA,NA
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2010,2.9,8.4,6.13,8.9
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2010,4.7,4.38,4.74,6.1
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2010,2.88,3.24,4.52,5.4
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2010,5.28,5.04,6.85,6.11
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2010,4.35,NA,7.5,7.5
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2009,NA,NA,4.13,5.4
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2009,3.77,4.78,4.18,4.65
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2009,4.72,5.48,4.64,5.95
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2009,6.8,NA,NA,NA
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2008,1.35,NA,NA,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2008,'0.6,3,2.95,5.55
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2008,NA,NA,5.48,6.15
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2008,1.29,NA,2.9,4.15
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2007,'0.3,2.41,NA,3.73
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2007,NA,NA,1.25,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2007,'0.93,3.3,1.7,3.9
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2007,NA,4.33,3.6,3.4
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2007,'0.87,2.8,NA,4.4
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2006,2.38,5.1,1.2,NA
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2006,1.82,4.3,1.33,NA
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2006,3.24,5.94,3.14,6.52
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2006,2.87,4.1,2.25,4.55
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2005,3.46,4.02,3.6,5.65
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2005,2.52,5.58,5.5,6.23
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,2005,NA,3.3,NA,NA
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,2005,'0.75,3.62,NA,4.6
+BR,Jehanabad,Jehanabad,Jehanabad,25.225,85.00416667,"Jahanabad hosp-1","Dug Well",W17741,2005,'0.75,3.62,NA,4.6
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2005,1.75,NA,NA,NA
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2004,5.25,NA,NA,3.55
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2004,4.6,4.86,5.46,5.35
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2004,4.15,NA,3,4
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,2004,3.05,2.05,3.66,3.5
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2003,1.8,4.4,2.02,5.3
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,2003,1.7,2.8,1.4,3.88
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2003,NA,NA,1.18,3.65
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,2003,NA,NA,NA,3.65
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2003,NA,3.78,1.6,4.3
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2002,NA,3.46,3.65,NA
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,2002,NA,2.48,2.31,3.65
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,2002,'0.99,2.71,2.25,NA
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2002,NA,NA,2.31,NA
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2002,1.9,4.47,4.44,5.23
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2002,NA,4.58,4.49,4.8
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.08611111,84.98583333,Makdhumpur-1,"Dug Well",W12792,2002,NA,4.58,4.49,4.8
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.08611111,84.98583333,Makdhumpur-1,"Dug Well",W12792,2001,3.59,3.01,2.42,5.93
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,2001,2.5,3.08,1.94,4.98
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2001,2.5,3.08,1.94,4.98
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2001,3.59,3.01,2.42,5.93
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2001,2.7,4.84,3.64,5.37
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,2001,2.15,2.84,2.03,3.85
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2001,2.15,3.61,1.19,4.85
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,2000,3.64,2.87,NA,4.34
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,2000,3.58,3.4,NA,5.19
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,2000,1.86,2.8,1.94,6.41
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,2000,4.27,4.45,4.12,5.12
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,2000,3.64,2.87,NA,4.34
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,2000,2.05,2.6,3.88,NA
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.08611111,84.98583333,Makdhumpur-1,"Dug Well",W12792,2000,1.86,2.8,1.94,6.41
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.08611111,84.98583333,Makdhumpur-1,"Dug Well",W12792,1999,1.01,3.24,1.4,5.03
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,1999,1.01,3.24,1.4,5.03
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,1999,'0.57,2.1,1.86,3.67
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,1999,NA,2.13,NA,NA
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,1999,1.71,4.65,3.62,5.3
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,1999,2.38,2.13,NA,NA
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,1998,NA,2.2,NA,4.33
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,1998,1.87,4.03,NA,5.01
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,1998,'0.96,3.32,NA,4.69
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.08611111,84.98583333,Makdhumpur-1,"Dug Well",W12792,1998,1.8,2.53,NA,6.45
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,1998,NA,1.8,NA,5.12
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,1998,1.8,2.53,NA,6.45
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,1998,NA,2.2,NA,4.33
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,1997,'0.8,4.11,2.53,7.46
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.08611111,84.98583333,Makdhumpur-1,"Dug Well",W12792,1997,'0.8,4.11,2.53,7.46
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,1997,1.22,2.76,4.03,5.74
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,1997,'0.85,3.15,1.8,5.75
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,1997,'0.56,3.05,3.32,4.07
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,1997,1.25,2.4,2.2,4
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,1997,1.25,2.4,2.2,4
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.08611111,84.98583333,Makdhumpur-1,"Dug Well",W12792,1996,1.44,2.68,3.19,4.86
+BR,Jehanabad,Makhdumpur,Makhdumpur,25.07916667,84.97916667,Makdhumpur-2,"Dug Well",W12793,1996,1.44,2.68,3.19,4.86
+BR,Jehanabad,Ghoshi,Ghoshi,25.22916667,85.10416667,Kako-2,"Dug Well",W12787,1996,2.19,NA,2.68,3.9
+BR,Jehanabad,Ghoshi,Ghoshi,25.1625,85.10833333,Ghoshi,"Dug Well",W12634,1996,1.15,NA,2.34,4.45
+BR,Jehanabad,Kako,Kako,25.22916667,85.0875,Kako-1,"Dug Well",W12788,1996,2.19,NA,2.68,3.9
+BR,Jehanabad,Jehanabad,Jehanabad,25.22555556,84.99111111,"Jahanabad hosp-2","Dug Well",W12635,1996,1.89,2.42,2.52,3.85
+BR,Jehanabad,Kurtha,Sonbhadra,25.2,84.8875,Jhunathi,"Dug Well",W12637,1996,2.55,NA,4.04,4.57

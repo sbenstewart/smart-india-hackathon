@@ -1,0 +1,782 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2018,NA,58.64,58.98,NA
+RJ,Sikar,Lachhamangarh,Lachhmangarh,27.76194444,74.81361111,"Dewau Ji Ka Bas","Tube Well",W31812,2018,NA,46.71,46.31,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2018,NA,12.57,8.53,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2018,NA,43.56,44.6,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2018,NA,57.8,52.18,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2018,NA,52.43,52.44,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2018,NA,65.34,64.57,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2018,NA,29.48,30.45,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2018,NA,70.48,73.82,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2018,NA,19.64,17.91,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2018,NA,31.02,NA,NA
+RJ,Sikar,Dhod,Dhond,27.50027778,74.94138889,Anokh_Pz,"Tube Well",W29763,2018,NA,73.86,72.23,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_II","Tube Well",W29794,2018,NA,43.74,43.8,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_I","Tube Well",W29795,2018,NA,43.84,42.83,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.86444444,74.86138889,Sekhiwas,"Tube Well",W29801,2018,NA,41.69,40.86,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.89111111,74.91277778,Bibipur,"Tube Well",W29805,2018,NA,50.5,42.96,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,ROHALSOBHSAR,"Tube Well",W29819,2018,NA,35.88,35.28,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.09138889,74.86361111,Dhanadhan,"Tube Well",W29827,2018,NA,34.6,34.72,NA
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2018,NA,48.45,NA,NA
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2018,NA,74.96,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2018,NA,43.12,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2018,NA,73.83,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2018,NA,74.8,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2018,NA,53.86,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2018,NA,50.51,NA,NA
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2018,NA,63.37,NA,NA
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2018,NA,77.38,NA,NA
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2018,NA,30.8,NA,NA
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2018,NA,59.85,61.32,NA
+RJ,Sikar,PIPRALI,Piprali,27.64111111,75.25,"Piprali Pz","Tube Well",W33308,2018,NA,71.48,66.48,NA
+RJ,Sikar,FATEHPUR,Fatehpur,28.07333333,74.82305556,Ramsisar,"Tube Well",W33321,2018,NA,35.04,33.51,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.91222222,74.89916667,Bikamsara,"Tube Well",W29806,2018,NA,39.84,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.05388889,74.93777778,Dewas,"Tube Well",W29821,2018,NA,36.09,NA,NA
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,PALSANA,"Tube Well",W29755,2018,NA,44.36,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.88833333,74.95305556,"Harsawa Bara","Tube Well",W31823,2018,NA,46.58,NA,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.74833333,75.88166667,Barala,"Dug Well",W31811,2018,NA,9.8,10.16,NA
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2018,NA,61.9,64.54,NA
+RJ,Sikar,Dhod,Dhond,27.50027778,74.94138889,Anokh_Pz,"Tube Well",W29763,2017,81.9,66.8,81.95,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.88833333,74.95305556,"Harsawa Bara","Tube Well",W31823,2017,46.45,46.2,46.5,46.4
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2017,34.61,30.76,34.76,30.86
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2017,NA,NA,NA,83.1
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,2017,35.71,NA,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_II","Tube Well",W29794,2017,43.78,44.15,43.89,43.75
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_I","Tube Well",W29795,2017,43.8,43.6,43.89,43.96
+RJ,Sikar,Fatehpur,Fatehpur,27.86444444,74.86138889,Sekhiwas,"Tube Well",W29801,2017,41.65,41.65,41.8,42.5
+RJ,Sikar,Fatehpur,Fatehpur,27.89111111,74.91277778,Bibipur,"Tube Well",W29805,2017,43.87,44.8,43.92,43.06
+RJ,Sikar,Fatehpur,Fatehpur,27.91222222,74.89916667,Bikamsara,"Tube Well",W29806,2017,39.55,39.5,39.65,42.8
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,ROHALSOBHSAR,"Tube Well",W29819,2017,36.27,35.81,35.85,35.8
+RJ,Sikar,Fatehpur,Fatehpur,28.09138889,74.86361111,Dhanadhan,"Tube Well",W29827,2017,34.65,32.6,34.72,34.8
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2017,47.34,50.14,47.7,47.9
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2017,58.5,57.92,58.7,58.3
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2017,74.55,86.1,74.8,71.1
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2017,65.5,66.7,65.58,61.1
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2017,14.77,11.52,16.33,12.02
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2017,43.3,42.8,43.4,46.7
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2017,43,42.6,43.12,43.05
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2017,55.6,54.6,55.67,55.05
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2017,76.05,85.4,76.18,64.7
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2017,53.08,52.13,53.16,53.03
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2017,72.95,68.5,73,69.8
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2017,66.64,67.39,66.78,68.44
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2017,58.37,52.87,58.44,54.97
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2017,54.73,49.93,50.48,54.93
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2017,28.9,27.67,28.92,28.85
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2017,77.35,72.6,77.42,70.3
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2017,17.24,16.99,17.36,26.16
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2017,59.89,59.85,60.2,59.7
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2017,76.91,75.79,76.99,76.54
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2017,30,28.61,30.32,29.7
+RJ,Sikar,Fatehpur,Fatehpur,28.05388889,74.93777778,Dewas,"Tube Well",W29821,2017,NA,36.05,36.25,36.25
+RJ,Sikar,FATEHPUR,Fatehpur,28.07333333,74.82305556,Ramsisar,"Tube Well",W33321,2017,36.75,34.98,36.8,33.85
+RJ,Sikar,PIPRALI,Piprali,27.64111111,75.25,"Piprali Pz","Tube Well",W33308,2017,69,64.3,69.12,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.74833333,75.88166667,Barala,"Dug Well",W31811,2017,11.9,6.7,NA,9.55
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,PALSANA,"Tube Well",W29755,2017,45.99,28.6,46.19,52.74
+RJ,Sikar,Lachhamangarh,Lachhmangarh,27.76194444,74.81361111,"Dewau Ji Ka Bas","Tube Well",W31812,2017,46.5,46.37,46.55,46.3
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2017,61.9,60.33,61.98,57.4
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2016,77.29,NA,72.57,70.3
+RJ,Sikar,FATEHPUR,Fatehpur,28.07333333,74.82305556,Ramsisar,"Tube Well",W33321,2016,35.28,NA,34.99,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2016,53.99,NA,52.85,54.77
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2016,49.04,NA,50.1,49.93
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2016,30.44,NA,30.26,30.66
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2016,70.72,NA,63.98,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2016,51.64,NA,51.89,52.78
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2016,42.79,NA,42.88,42.66
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2016,9.22,NA,11.46,11.72
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2016,NA,NA,75.85,74.84
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2016,66.63,NA,60.44,59.97
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2016,NA,NA,NA,66.2
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2016,82.7,NA,NA,82.93
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2016,69.29,NA,68.53,68.8
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2016,58.54,NA,59.04,52.3
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2016,61.36,NA,61.7,58.2
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2016,47.95,NA,48.08,46.25
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2016,71.8,NA,70.87,64.45
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2016,29.87,NA,28.59,27.8
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2016,57.66,NA,58.73,58.2
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2016,71.66,NA,81.91,70.85
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2016,54.42,NA,54.57,54.27
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2016,42.48,NA,42.57,42.43
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2016,27.26,NA,27.64,27.02
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.74833333,75.88166667,Barala,"Dug Well",W31811,2016,NA,NA,NA,8.6
+RJ,Sikar,Lachhamangarh,Lachhmangarh,27.76194444,74.81361111,"Dewau Ji Ka Bas","Tube Well",W31812,2016,46.29,48.72,46.52,46.1
+RJ,Sikar,Fatehpur,Fatehpur,27.88833333,74.95305556,"Harsawa Bara","Tube Well",W31823,2016,46.02,NA,46.14,46
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,PALSANA,"Tube Well",W29755,2016,40.87,41.01,40.79,41.09
+RJ,Sikar,Dhod,Dhond,27.50027778,74.94138889,Anokh_Pz,"Tube Well",W29763,2016,69.25,65.62,66.74,67.7
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_II","Tube Well",W29794,2016,37.62,43.59,44.13,43.6
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_I","Tube Well",W29795,2016,43.7,43.63,43.67,43.7
+RJ,Sikar,Fatehpur,Fatehpur,27.86444444,74.86138889,Sekhiwas,"Tube Well",W29801,2016,41.53,41.48,41.59,41.7
+RJ,Sikar,Fatehpur,Fatehpur,27.89111111,74.91277778,Bibipur,"Tube Well",W29805,2016,47.02,43.58,44.74,42.7
+RJ,Sikar,Fatehpur,Fatehpur,27.91222222,74.89916667,Bikamsara,"Tube Well",W29806,2016,39.81,39.61,39.47,40.47
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,ROHALSOBHSAR,"Tube Well",W29819,2016,35.63,35.18,35.8,35.83
+RJ,Sikar,Fatehpur,Fatehpur,28.05388889,74.93777778,Dewas,"Tube Well",W29821,2016,36.08,35.96,36.03,36
+RJ,Sikar,Fatehpur,Fatehpur,28.07333333,74.82277778,Ramasar,"Tube Well",W29825,2016,NA,35.76,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.09138889,74.86361111,Dhanadhan,"Tube Well",W29827,2016,NA,34.58,34.59,34.6
+RJ,Sikar,PIPRALI,Piprali,27.64111111,75.25,"Piprali Pz","Tube Well",W33308,2016,63.97,NA,64.27,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2016,17.09,NA,16.94,17.01
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2015,69.3,68.1,68.5,68.03
+RJ,Sikar,Fatehpur,Fatehpur,28.09138889,74.86361111,Dhanadhan,"Tube Well",W29827,2015,35.35,36.8,34.94,34.53
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2015,51.47,NA,NA,51.47
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2015,58.11,50.65,49.03,49.15
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2015,NA,41.37,41.24,40.7
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2015,30.46,NA,NA,30.46
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2015,61.88,NA,NA,59.16
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2015,51.27,52.08,51.29,51.25
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2015,42.42,35.78,41.35,35.38
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2015,4.97,4.02,6.69,5.41
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2015,11.72,11.14,11.94,11.52
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2015,72.46,NA,NA,72.46
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2015,NA,59.58,62.43,61.15
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2015,77.12,79.32,76.83,73.58
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2015,NA,NA,NA,64.17
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2015,48.81,46.09,48.28,43.92
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2015,69.87,71.7,NA,69.87
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2015,50.5,45.22,49.8,44.92
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2015,57.85,NA,NA,57.85
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2015,NA,NA,53.82,54.12
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2015,40.73,31.95,31.81,31.52
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2015,69.23,NA,68.5,67.4
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2015,26.18,25.58,26.7,25.82
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2015,57.5,57.36,56.63,56.82
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2015,68.84,71.66,68.6,65.14
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2015,NA,NA,NA,49.52
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2015,53.9,53.32,53.86,53.55
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2015,42.05,42.6,41.95,41.58
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2015,25.75,24.85,24.81,25.11
+RJ,Sikar,Fatehpur,Fatehpur,27.88833333,74.95305556,"Harsawa Bara","Tube Well",W31823,2015,NA,NA,30.4,NA
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.4,75.81666667,Ajitgarh,"Tube Well",W29741,2015,NA,36.18,NA,NA
+RJ,Sikar,Dhod,Dhond,27.48333333,74.98333333,Dhod,"Tube Well",W29751,2015,NA,69.65,NA,70.9
+RJ,Sikar,Dhod,Dhond,27.5,74.98333333,Binjyasi,"Tube Well",W29754,2015,60.71,57.3,NA,58.53
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,PALSANA,"Tube Well",W29755,2015,39.69,46.54,40.07,43.02
+RJ,Sikar,Dhod,Dhond,27.50027778,74.94138889,Anokh_Pz,"Tube Well",W29763,2015,64.92,65.55,64.52,62.08
+RJ,Sikar,Piprali,Piprali,27.58333333,75.18333333,Gokulpura,"Tube Well",W29772,2015,60.13,59.22,NA,58.08
+RJ,Sikar,Lachhamangarh,Lachhmangarh,27.66666667,74.91666667,Ghana,"Tube Well",W29780,2015,NA,60.4,NA,60.12
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_II","Tube Well",W29794,2015,43.6,43.52,43.23,43.52
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_I","Tube Well",W29795,2015,43.5,44.06,43.42,43.9
+RJ,Sikar,Fatehpur,Fatehpur,27.86444444,74.86138889,Sekhiwas,"Tube Well",W29801,2015,NA,43.88,41.59,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.89111111,74.91277778,Bibipur,"Tube Well",W29805,2015,43.6,44,43.4,43.6
+RJ,Sikar,Fatehpur,Fatehpur,27.91222222,74.89916667,Bikamsara,"Tube Well",W29806,2015,39.45,39.82,39.4,39.42
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,ROHALSOBHSAR,"Tube Well",W29819,2015,35.67,48.35,36.29,37
+RJ,Sikar,Fatehpur,Fatehpur,28.05388889,74.93777778,Dewas,"Tube Well",W29821,2015,35.88,36.94,35.82,36
+RJ,Sikar,Fatehpur,Fatehpur,28.07333333,74.82277778,Ramasar,"Tube Well",W29825,2015,NA,35.88,35.56,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2015,16.68,17.02,15.9,16.84
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2014,68.7,67.7,67.78,68.05
+RJ,Sikar,Fatehpur,Fatehpur,28.09138889,74.86361111,Dhanadhan,"Tube Well",W29827,2014,NA,NA,34.5,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2014,40.35,50.07,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2014,49.23,52.31,48.13,48.72
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2014,41.58,43.67,40.17,40.67
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2014,NA,30.26,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2014,61,58.79,58.3,58.94
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2014,52.5,51.03,56.13,51.29
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2014,42.7,62.43,35.4,41.7
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2014,NA,3.37,NA,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2014,8.82,12.32,9.42,16.12
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2014,58.85,59.83,55.83,57.33
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2014,70.8,69.49,68.99,69.26
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2014,59.55,55.4,56.4,56.44
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2014,60.85,NA,NA,60.96
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2014,74.74,76.3,84,73.53
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2014,NA,NA,NA,64.03
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2014,45.7,50,48.5,43.8
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2014,NA,68,NA,NA
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2014,45.58,43.7,43.63,44.8
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2014,NA,54,NA,NA
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2014,52.25,62,NA,53.67
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2014,32.08,42.3,31.1,31.5
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2014,68,70.3,NA,67.3
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2014,26.45,24.65,25.6,25.7
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2014,57.77,60.8,57,56.9
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2014,65.7,64.8,66,65
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2014,NA,44,NA,49.3
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2014,52.85,57.5,52.1,52.55
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2014,40,41.6,41.26,41.73
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2014,23.55,21.3,24.7,24.2
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.74833333,75.88166667,Barala,"Dug Well",W31811,2014,1.8,NA,NA,4.6
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,PALSANA,"Tube Well",W29755,2014,44.5,41.39,46.59,42.85
+RJ,Sikar,Dhod,Dhond,27.50027778,74.94138889,Anokh_Pz,"Tube Well",W29763,2014,62.7,63.85,66.05,62.05
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_II","Tube Well",W29794,2014,NA,NA,43.4,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.83916667,74.89222222,"Roru Badi_I","Tube Well",W29795,2014,NA,NA,43.7,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.86444444,74.86138889,Sekhiwas,"Tube Well",W29801,2014,NA,NA,43.1,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.89111111,74.91277778,Bibipur,"Tube Well",W29805,2014,NA,NA,43.7,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.91222222,74.89916667,Bikamsara,"Tube Well",W29806,2014,40.1,NA,39.3,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,ROHALSOBHSAR,"Tube Well",W29819,2014,37.07,36.7,36.45,36.03
+RJ,Sikar,Fatehpur,Fatehpur,28.05388889,74.93777778,Dewas,"Tube Well",W29821,2014,NA,NA,35.88,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.07333333,74.82277778,Ramasar,"Tube Well",W29825,2014,NA,NA,35.3,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2014,17.36,22.54,16.54,16.54
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2013,67.38,66.7,67.34,67.3
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,ROHALSOBHSAR,"Tube Well",W29819,2013,35.57,35.52,35.62,35.15
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2013,49.78,48.47,49.93,55
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2013,48.66,48.46,48.75,48.43
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2013,40.65,47.17,41.35,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2013,NA,30.46,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2013,58.97,58.04,60.11,60.79
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2013,NA,50.67,50.85,52.26
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2013,41.27,41.05,41.4,44.08
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2013,NA,NA,2.82,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2013,6.34,NA,9.62,11.14
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2013,56.86,54.33,56.93,57.71
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2013,NA,64.44,68.95,68.59
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2013,54.81,53.96,55.02,54.9
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2013,NA,NA,NA,58.55
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2013,71.3,70.1,71.73,74.12
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2013,63.55,64.77,63.68,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2013,41.77,40.92,41.89,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2013,NA,62,62.72,66.33
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2013,44.73,41.56,44.69,42.05
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2013,55.82,55.18,55.92,53.6
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2013,49.27,NA,49.4,NA
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2013,31.42,41.09,31.64,45.11
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2013,66.13,64.95,66.38,68.56
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2013,23.45,22.26,23.72,23.85
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2013,55.65,56.38,55.78,58.44
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2013,63.33,62.4,63.47,63.11
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2013,43.55,43.84,45.28,47.92
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2013,52.42,52.15,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2013,41.45,41.86,41.59,43.23
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2013,22.73,21.83,23.13,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.74833333,75.88166667,Barala,"Dug Well",W31811,2013,2.05,2,NA,NA
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,PALSANA,"Tube Well",W29755,2013,42.45,42.28,41.64,NA
+RJ,Sikar,Dhod,Dhond,27.50027778,74.94138889,Anokh_Pz,"Tube Well",W29763,2013,60.8,NA,NA,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2013,16.75,16,16.87,18.55
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2012,NA,66.65,66.91,66.12
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,ROHALSOBHSAR,"Tube Well",W29819,2012,NA,NA,35.57,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2012,NA,48.37,49.12,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2012,NA,48.28,48.52,48.53
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2012,NA,48.27,47.16,47.97
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2012,NA,30.06,30.13,30.66
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2012,NA,58.02,54.96,57.67
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2012,NA,50.53,50.1,50.73
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2012,NA,40.44,41.11,41.04
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2012,NA,7.15,NA,6
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2012,NA,53.68,NA,NA
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2012,NA,63.89,68.25,64.41
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2012,NA,52,53.72,53.1
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2012,NA,68.73,71.06,70
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2012,NA,NA,NA,64.75
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2012,NA,NA,41.73,40.8
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2012,NA,61.2,64.15,62.08
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2012,NA,40.75,40.37,41.13
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2012,NA,54.65,55.41,55.35
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2012,NA,NA,NA,24.7
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2012,NA,63.3,64.67,63.86
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2012,NA,20.08,21.46,22.2
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2012,NA,54.35,NA,55.35
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2012,NA,NA,62.08,61.5
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2012,NA,40.22,44.62,39.63
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2012,NA,51.5,58.19,52.4
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2012,NA,41.2,40.84,41.76
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2012,NA,20.66,21.91,21.66
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2012,NA,16.19,NA,16.62
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2011,67.01,66.8,66.63,66.62
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.4,75.81666667,Ajitgarh1,"Tube Well",W22108,2011,NA,29.39,NA,30.8
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2011,NA,48.19,48.32,49.48
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2011,NA,39.8,NA,40.67
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2011,48.41,48.08,48.27,49.18
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2011,43.41,51.42,48.29,52.4
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2011,29.79,29.86,30.01,30.8
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2011,59.57,57.51,57.99,58
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2011,50.47,50.53,50.51,51.73
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2011,40.2,39.59,40.4,40.94
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2011,3.65,5.82,4.41,6.78
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2011,53.7,52.87,53.63,54.47
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2011,66.55,65.23,63.84,64.58
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2011,51.85,53.15,51.95,53.26
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2011,56.07,54.9,56.1,56.38
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2011,68.79,67.2,68.75,69.24
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2011,61.14,55.35,NA,62.1
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2011,40.08,40.48,NA,41.24
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2011,61.36,60.03,61.2,61.83
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2011,40.64,39.27,40.7,41.15
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2011,54.57,53.65,54.65,55.6
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2011,24.44,23.25,NA,25.77
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2011,63.69,63,63.32,64.38
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2011,20.53,19.7,20.05,21.86
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2011,53.58,55.15,54.3,55.86
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2011,59.91,59.38,60.6,60.58
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2011,42.2,39,40.16,40.75
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2011,51.64,51.4,51.52,51.5
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2011,41.04,40,41.16,41.03
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2011,20.74,20.05,20.65,20.38
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2011,16.09,15.7,16.18,16.77
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2010,65.1,64.3,64,64.67
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2010,19.45,NA,19.58,19.26
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2010,47.77,47.13,56.87,48.73
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2010,39.67,39.7,52,39.65
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2010,48.03,47.88,47.99,48.79
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2010,57.97,48.88,47.29,49.56
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2010,29.7,30.22,29.69,31.18
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2010,56.09,56.13,56.24,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2010,50.37,49.93,50.28,50.52
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2010,39.27,NA,39.45,39.1
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2010,NA,6.83,NA,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2010,NA,13.92,12.74,15.82
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2010,51.41,51.64,53.31,51.17
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2010,64.39,63.31,63.64,63.89
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2010,50.48,49.21,55.07,50.17
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2010,NA,71.71,68.56,74.56
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2010,54.58,NA,58.9,55.43
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2010,66.78,65.7,66.88,66.66
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2010,59.83,58.81,NA,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2010,39.3,38.54,NA,39.34
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2010,59.6,58.6,NA,59.08
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2010,38.11,37.33,NA,38.14
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2010,54.44,53.85,56.3,54.4
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2010,NA,42.93,NA,NA
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2010,22.59,21.12,NA,22.67
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2010,62.45,61.63,62.63,62.28
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2010,19.35,17.95,19.32,19.12
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2010,53.88,53.26,53.91,54.02
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2010,58.35,57.36,58.68,58.06
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2010,38.85,37.62,3.8,38.64
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2010,51.2,50.85,51.22,51.13
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2010,40.85,40.67,41.8,40.77
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.39166667,"Khatu Shyamji-2","Dug Well",W20625,2010,NA,17.49,NA,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2010,15.44,14.68,15.62,15.16
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2009,63.84,63.22,64.1,64.68
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2009,17.36,16.36,17.95,19.4
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2009,46.78,46.17,47,46.52
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2009,39.03,39.51,39.59,37.5
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2009,47.71,47.5,48.18,47.67
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2009,45.85,50.1,48.69,42.37
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2009,29.43,29.43,30.03,29.43
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2009,55.27,54.38,55.93,55.19
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2009,49.66,54.82,50.32,49.13
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2009,38.7,38.41,38.84,38.57
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2009,3.99,4.37,6.47,7.07
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2009,12.29,12.26,12.8,12.87
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2009,51.05,50.32,51.43,50.88
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2009,62.67,61.7,63.03,62.43
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2009,54.63,47.22,51.14,48.13
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2009,70.51,66.44,71.5,72.41
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2009,51.84,51.85,51.84,52.7
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2009,62.8,63.8,65.28,64.45
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2009,58.35,57.27,58.57,55.69
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2009,37.16,35.36,38.13,37.16
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2009,58.07,57.29,58.56,37.8
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2009,35.5,35.38,36.88,46.86
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2009,53.47,52.86,53.75,53.94
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2009,42.12,39.37,NA,41.8
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2009,19.68,18.04,20.39,19.13
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2009,61.11,60.22,61.44,60.85
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2009,17.2,16.78,17.6,16.6
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2009,52.5,51.72,52.95,51.52
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2009,56.8,55.91,57.12,56.5
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2009,37.22,36.23,37.5,37.23
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2009,50.93,50.22,50.78,50.8
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2009,40.5,40.52,40.62,40.48
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2009,14.44,13.99,14.66,15.44
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2008,61.67,61.8,63.1,62.43
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2008,15.92,15.1,16.2,15.83
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2008,45.87,45.37,46.08,45.75
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2008,40.45,39.44,39.49,39.43
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2008,47.56,47.21,47.47,47.34
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2008,45.17,NA,44.95,44.92
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2008,29.58,29.18,29.94,29.26
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2008,53.87,53.44,54.22,53.81
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2008,49.63,49.62,49.83,49.7
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2008,38.28,38.15,38.9,38.24
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2008,1.73,6.04,3.96,2.24
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2008,10.02,14.45,11.36,14.62
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2008,49.81,49.15,50.16,49.66
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2008,61.15,60.19,61.57,60.92
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2008,46.52,45.82,46.93,46.52
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2008,65.88,65.08,66.32,66.18
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2008,51.5,51,51.81,51.4
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2008,62.17,62.2,53.48,62.01
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2008,58.75,56.07,57.15,57.89
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2008,34,33.02,34.63,33.92
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2008,57,56.29,57.98,56.87
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2008,NA,NA,35.27,NA
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2008,82.39,51.72,52.68,52.56
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2008,39.77,38.47,40.25,39.65
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2008,NA,NA,17.64,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2008,59.43,58.28,59.96,59.26
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2008,15.78,14.82,15.9,15.4
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2008,51.04,50.64,51.52,51.04
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2008,55.4,54.56,55.76,55.15
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2008,35.47,34.73,35.86,35.48
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2008,50.08,49.69,50.2,50.03
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2008,40.25,40.14,40.32,40.21
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2008,13.62,13.22,13.89,13.57
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2007,61.3,60.5,61.41,61
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2007,12.99,12.64,14.14,12.88
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2007,45.09,44.64,45.23,44.9
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2007,39.39,39.31,39.42,39.34
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2007,47.13,46.95,47.15,47.03
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2007,43.07,41.82,42.77,43.2
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2007,NA,29.04,29.37,29.07
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2007,53.04,52.38,53.25,52.1
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2007,49.46,49.35,49.55,49.47
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2007,38.02,37.75,38.14,37.92
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2007,4.72,5.09,4.92,5.89
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2007,13.94,14.69,14.13,14.82
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2007,48.68,47.91,48.8,48.43
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2007,59.67,58.69,59.82,59.23
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2007,45.3,44.32,45.6,45
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2007,64.49,63.58,64.92,64.08
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2007,50.55,51,50.76,50.34
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2007,61.6,60.94,61.88,61.37
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2007,32.67,31.91,32.82,32.91
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2007,55.9,55.16,56.02,55.62
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2007,51.35,50.53,51.64,51.4
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2007,38.02,36.96,38.27,37.68
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2007,57.52,56.7,57.7,57.12
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2007,14.4,13.51,14.7,14.57
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2007,50,49.3,50.33,49.74
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2007,53.96,53.05,54.36,53.57
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2007,34.22,33.39,34.53,34.18
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.7875,74.97527778,Datunjala,"Tube Well",W21186,2007,49.49,46.17,49.6,48.38
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.72777778,74.83972222,Garoda,"Tube Well",W21187,2007,39.98,38.88,40.13,38.46
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.39166667,"Khatu Shyamji-2","Dug Well",W20625,2007,14.05,NA,NA,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2007,NA,13.72,14.9,14.34
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2006,59.8,58.6,60.42,60.3
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2006,28.91,28.85,28.96,28.86
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2006,31,30.12,31.33,30.9
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2006,54.7,53.7,55.1,54.47
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2006,NA,NA,NA,30.96
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2006,49.6,48,49.9,51.2
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2006,36.2,NA,36.5,36
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2006,13,NA,NA,13.2
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2006,56,55.25,56.33,49.7
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2006,13,12.37,13.23,12.85
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2006,48.5,47.9,48.72,48.88
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2006,52.5,51.66,52.75,52.22
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2006,32.6,32.8,32.8,32.63
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.39166667,"Khatu Shyamji-2","Dug Well",W20625,2006,NA,NA,12.83,12.45
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2006,13.2,NA,13.38,13
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2006,51.74,50.84,52.04,55.71
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2006,49.13,49.28,49.26,49.41
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2006,37.66,37.5,37.73,37.65
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2006,2.67,2.63,2.56,4.83
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2006,13.62,13.68,12.51,15.72
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2006,40.34,46.47,47.63,47.1
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2006,58.09,56.95,58.41,54.13
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2006,43.72,42.97,43.93,43.35
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2006,63.16,62.46,63.32,62.84
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2006,49.7,49.13,49.82,49.6
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2006,59.9,59.07,60.15,59.6
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2006,NA,12.37,12.51,13.37
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,2006,30.1,29.22,30.43,30
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2006,43.77,43.95,44.52,44.87
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2006,39.2,39.17,39.3,39.2
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2006,46.78,46.73,46.85,46.73
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2006,41.67,39.34,42.53,40.17
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2006,57.25,54.08,54.91,54.35
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2005,58.68,57.64,58.93,58.31
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2005,30.27,28.71,28.76,28.71
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.43333333,75.41666667,Mandha-1,"Tube Well",W18396,2005,29.47,28.25,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.8,75.01666667,Lachhmangarh,"Tube Well",W18399,2005,52.93,52.7,54.32,52.33
+RJ,Sikar,Khandela,Khandela,27.48333333,75.55,Dhadhliawas,"Tube Well",W20242,2005,NA,NA,NA,28.53
+RJ,Sikar,Khandela,Khandela,27.55,75.46666667,"Dhudhwalo Ka Bas","Tube Well",W20243,2005,47.22,NA,47.65,46.53
+RJ,Sikar,Khandela,Srimadhopur,27.36666667,75.48333333,Lampura,"Tube Well",W20244,2005,NA,NA,NA,34.03
+RJ,Sikar,Khandela,Khandela,27.41666667,75.51666667,Nathusar,"Tube Well",W20245,2005,NA,NA,NA,11.63
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.79166667,75.13333333,Bau,"Tube Well",W20246,2005,61.05,NA,55.12,55.44
+RJ,Sikar,Piprali,Piprali,27.55,75.26666667,Goriya,"Tube Well",W20247,2005,12.05,NA,12.2,11.76
+RJ,Sikar,Piprali,Piprali,27.61666667,75.1,Nani,"Tube Well",W20248,2005,47.52,NA,47.3,47.37
+RJ,Sikar,Piprali,Piprali,27.65,75.13333333,Sabalpura,"Tube Well",W20249,2005,51.24,NA,51.49,50.83
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.36944444,75.59166667,Mehroli,"Tube Well",W20250,2005,31.48,NA,31.5,31.11
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.39166667,"Khatu Shyamji-2","Dug Well",W20625,2005,NA,NA,11.65,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.36666667,75.4,"Khatu Shyamji-3","Tube Well",W20626,2005,NA,NA,12.2,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2005,51.12,50.44,51.26,50.9
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2005,50.39,49.29,49.07,48.96
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2005,45.7,37.02,37.62,37.13
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2005,2.85,4.16,2.7,4.98
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2005,12.97,14.12,12.69,14.74
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2005,52.33,44.93,46.19,45.59
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2005,58.58,54.92,56.58,55.75
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2005,43.56,41.81,42.6,42.33
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2005,66.46,60.86,62.24,61.48
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2005,48.71,48.09,48.03,48.45
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2005,62,57.65,59.8,58.22
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2005,11.67,11.12,NA,11.44
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,2005,28.57,27.35,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2005,49.7,43.34,43.83,47.61
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2005,41.17,39.07,39.16,39.09
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2005,53.35,46.37,46.59,46.5
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2005,39.27,38.79,39.32,40.75
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2005,53.65,53.55,53.93,53.48
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2003,NA,55.04,NA,55.73
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2003,NA,NA,NA,28.41
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,2003,NA,NA,NA,8.68
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2003,NA,49.81,NA,50.06
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2003,NA,48.26,NA,48.45
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2003,NA,NA,NA,36.25
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2003,NA,2.85,NA,3.72
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2003,NA,NA,NA,14.14
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2003,NA,42.74,NA,43.19
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2003,NA,52.1,NA,52.71
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2003,NA,39.54,NA,39.9
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2003,NA,NA,NA,58.04
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,2003,NA,24.46,NA,25.84
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2003,NA,NA,NA,55.45
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2003,NA,10.21,NA,10.24
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.15,75.2,Nosal,"Tube Well",W14464,2003,NA,29.05,NA,28.51
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2003,NA,42.03,NA,42.37
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2003,NA,48.84,NA,38.86
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2003,NA,45.95,NA,45.98
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2003,NA,41.01,NA,38.27
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,Rohalsobhsar,"Tube Well",W14471,2003,NA,34.94,NA,35.1
+RJ,Sikar,Sikar,Dhond,27.60416667,74.95,"Sewad Bari","Tube Well",W14490,2003,NA,28.35,NA,51.18
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2002,54.22,53.36,54.3,54.12
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,2002,20.58,18.54,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2002,50.02,49.83,49.7,49.9
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2002,48.13,47.81,48.18,47.94
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2002,NA,35.5,NA,36.08
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2002,1.77,1.21,2.52,2.22
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2002,NA,12.68,NA,13.37
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2002,42.44,41.75,42.71,42.05
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2002,51.58,50.66,51.94,51.23
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2002,38.96,38.18,39.2,39.35
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2002,56.19,55.88,NA,56.05
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2002,NA,35.62,NA,45.25
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,2002,23.05,21.26,23.71,21.59
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2002,54.42,53.58,54.46,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2002,9.85,9.27,10.07,9.79
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,2002,47.88,46.06,48.68,46.55
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.15,75.2,Nosal,"Tube Well",W14464,2002,27,25.5,27.6,26.12
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2002,41.82,41.48,41.97,41.74
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2002,38.75,38.64,38.82,39.17
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2002,45.8,45.65,45.93,46.15
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2002,37.72,37.53,37.77,38.39
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,Rohalsobhsar,"Tube Well",W14471,2002,34.83,34.73,35.02,35.29
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2002,28.21,28.18,28.36,28.98
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2001,53.9,NA,53.03,53.8
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2001,29.96,28.88,29.08,29.37
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,Rohalsobhsar,"Tube Well",W14471,2001,36.41,36.23,35.65,35.65
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2001,40.08,38.36,39.63,38.66
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,2001,40.8,40.52,NA,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2001,46.55,46.42,45.31,49.46
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2001,39.6,39.79,38.99,39.65
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2001,42.72,42.44,41.4,41.49
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.15,75.2,Nosal,"Tube Well",W14464,2001,NA,NA,14.1,25.55
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,2001,NA,20.19,NA,21.43
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,2001,47.85,46.3,46.83,47.52
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2001,9.74,8.9,8.6,9.6
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2001,53.59,53.5,53.25,53.8
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,2001,21.6,20.75,21.81,21.55
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2001,35.66,35.9,35.29,36.13
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2001,54.55,56.23,55.26,56.43
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2001,39.1,39.51,37.42,39.4
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2001,51.06,50.12,50.42,50.64
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2001,42.29,41.79,41.56,42.04
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2001,13.74,13.7,16.02,14.05
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2001,1.67,2.51,1.08,3.1
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2001,NA,36,35.41,36.15
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2001,48.5,48.6,48.78,48.7
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2001,48.9,48.7,48.99,48.47
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.88333333,75.00833333,Alakhpura,"Dug Well",W14474,2001,49.92,NA,NA,52.05
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.03333333,Tajsir,"Dug Well",W14473,2001,43.6,NA,39.33,NA
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.38333333,75.55,Reengus,"Tube Well",W14496,2001,NA,36.71,NA,37.2
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,2001,17.99,18.9,17.02,20.4
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58555556,75.7,"Kanwat Oh","Tube Well",W14494,2001,22.35,24.47,23.04,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,2001,6.28,NA,6.46,7.2
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,2000,28.75,28.62,28.38,28.77
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,2000,52.16,51.25,52.32,52.02
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.15,75.2,Nosal,"Tube Well",W14464,2000,24.25,23.92,24.72,24.42
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,2000,55.48,54.92,56.18,55.39
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,2000,49.62,49.05,49.82,50
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,2000,11.2,10.73,19.1,11.13
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,2000,42.32,41.09,41.57,41.42
+RJ,Sikar,Sikar,Piprali,27.55416667,75.23333333,Bajor,"Dug Well",W14481,2000,16.31,15.39,NA,15.41
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,2000,46.3,46.33,46.35,46.27
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,2000,11.41,12.87,12.15,13.09
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.73333333,75.78333333,"Neem Ka Thana1","Dug Well",W14479,2000,29.06,27.52,28.87,28.76
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,2000,1.38,2.05,2.79,3.7
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,2000,45.85,45.3,46.09,45.68
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,2000,39.67,38.33,38.31,38.29
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,2000,36.52,35.7,35.87,36.05
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,2000,8.5,7.8,8.36,8.34
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.795,74.87361111,Jajod,"Tube Well",W14476,2000,48.33,48.28,48.36,48.31
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.05,Balodh,"Tube Well",W14467,2000,40.16,39.59,39.51,39.5
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,2000,48.55,48.07,48.4,48.3
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,2000,55.7,52.53,53.15,53.87
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.88333333,75.00833333,Alakhpura,"Dug Well",W14474,2000,50.35,49.94,50.54,52.02
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,Rohalsobhsar,"Tube Well",W14471,2000,35.57,35.63,35.62,35.54
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,2000,20.04,18.93,20.3,19.92
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.38333333,75.55,Reengus,"Tube Well",W14496,2000,36.13,35.38,36.51,36.28
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,2000,42.38,42.07,42.3,42.22
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,2000,16.26,16.44,16.81,17.92
+RJ,Sikar,Sikar,Piprali,27.64111111,75.25,Piprali,"Dug Well",W14487,2000,34.55,NA,36.32,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58555556,75.7,"Kanwat Oh","Tube Well",W14494,2000,NA,NA,22.4,21.77
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,2000,39.69,39.63,40.48,39.94
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,2000,NA,7.85,NA,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.70472222,75.625,Guhala,"Dug Well",W14492,2000,13.8,NA,NA,NA
+RJ,Sikar,Sikar,Dhond,27.52083333,74.79583333,Shahpura1,"Tube Well",W14491,2000,NA,30.63,NA,31.22
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.03333333,Tajsir,"Dug Well",W14473,2000,41.78,NA,NA,NA
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,2000,39.23,37.53,38.37,38.07
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,1999,53.9,53.83,54.67,54.26
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.86666667,Rohalsobhsar,"Tube Well",W14471,1999,36.12,NA,35.47,35.44
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,1999,50.42,49.36,50.58,50.31
+RJ,Sikar,Sikar,Dhond,27.52083333,74.79583333,Shahpura1,"Tube Well",W14491,1999,30.4,29.99,30.5,30.3
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,1999,4.49,6.98,7.83,7.4
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58555556,75.7,"Kanwat Oh","Tube Well",W14494,1999,21.78,18.07,NA,19.05
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,1999,14.18,11.5,14.17,13.48
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.38333333,75.55,Reengus,"Tube Well",W14496,1999,31.1,32.84,34.64,33.74
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,1999,NA,28.56,28.65,28.6
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.03333333,Tajsir,"Dug Well",W14473,1999,42.02,41.68,NA,41.85
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,1999,36.84,46.09,47.87,47.48
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,1999,NA,36.54,NA,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,1999,2.06,1.5,3.45,3.55
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.73333333,75.78333333,"Neem Ka Thana1","Dug Well",W14479,1999,27.24,27.7,27.35,26.76
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,1999,10.76,9.58,11.78,10.9
+RJ,Sikar,Sikar,Piprali,27.55416667,75.23333333,Bajor,"Dug Well",W14481,1999,NA,13.92,14.17,14.62
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,1999,40.51,40.9,40.73,40.36
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,1999,48.88,47.67,48.72,48.2
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,1999,36.84,38.26,38.1,36.77
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,1999,18.3,16.9,18.6,17.83
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,1999,51.7,50.93,52.16,51.78
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,1999,7.05,5.71,7.48,7
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,1999,44.65,44.03,44.98,44.47
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,1999,9.92,10,10.54,9.85
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.15,75.2,Nosal,"Tube Well",W14464,1999,23,21.72,23.67,22.3
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,Palsana,"Tube Well",W14465,1999,NA,21.03,NA,22.36
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,1999,46.55,41.38,42.06,39.63
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,1999,46.04,46.37,46.2,46.06
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,1999,36.2,40.33,39.83,39.46
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,1999,47.6,39,38.15,38.18
+RJ,Sikar,Sikar,Piprali,27.63333333,75.2,Kudli,"Tube Well",W14486,1999,NA,50.43,NA,50.93
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,1998,53.67,53.18,53.7,53.4
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,1998,38.09,37.72,38.84,37.98
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,1998,48.17,48.64,48.99,48.91
+RJ,Sikar,Sikar,Dhond,27.52083333,74.79583333,Shahpura1,"Tube Well",W14491,1998,29.9,31.92,29.95,29.83
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.70472222,75.625,Guhala,"Dug Well",W14492,1998,17.16,NA,8.63,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,1998,7.04,6.82,6.9,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58555556,75.7,"Kanwat Oh","Tube Well",W14494,1998,17.67,NA,18.6,NA
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,1998,10.88,10.31,11.8,11.5
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.38333333,75.55,Reengus,"Tube Well",W14496,1998,33.5,30.95,32.34,31.5
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,1998,38.57,28.54,28.54,28.65
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.03333333,Tajsir,"Dug Well",W14473,1998,41.76,41.37,41.71,41.6
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,1998,46.75,46.21,46.9,47.01
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,1998,35.46,35.36,35.62,35.34
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,1998,2.37,1.7,2.02,2.87
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.73333333,75.78333333,"Neem Ka Thana1","Dug Well",W14479,1998,25.73,25.07,25.63,25.57
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,1998,5.25,3.5,8.3,4.09
+RJ,Sikar,Sikar,Piprali,27.55416667,75.23333333,Bajor,"Dug Well",W14481,1998,13.91,NA,13.67,NA
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,1998,39.43,39.5,39.78,39.53
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,1998,47.29,43.23,47.5,46.96
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,1998,36.04,34.82,35.79,35.97
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,1998,16.82,16.8,16.72,17.06
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,1998,50.64,49.92,50.75,50.38
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,1998,5.17,5,5.39,5.47
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,1998,43.76,46.64,43.9,43.48
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,1998,8.14,7.28,8.07,8.88
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.15,75.2,Nosal,"Tube Well",W14464,1998,21.4,20.37,20.76,21
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,Palsana,"Tube Well",W14465,1998,21.11,20.5,21.05,20.87
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,1998,41.44,41.27,41.45,41.42
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,1998,46.42,46.38,46.41,45.95
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,1998,39.48,39.25,39.75,35.08
+RJ,Sikar,Sikar,Piprali,27.63333333,75.2,Kudli,"Tube Well",W14486,1998,47.93,47.42,51.6,48.4
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,1997,52.54,52.43,53,54.4
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,1997,38.83,37.88,37.84,37.93
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,1997,48.4,47.8,48.23,48.32
+RJ,Sikar,Sikar,Dhond,27.52083333,74.79583333,Shahpura1,"Tube Well",W14491,1997,29.98,29.9,29.98,30.4
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,1997,6.65,6.35,6.6,6.8
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,1997,10.1,9.08,9.88,10.25
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.38333333,75.55,Reengus,"Tube Well",W14496,1997,30.61,29.3,30.52,30.26
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,1997,29.98,28.39,28.46,31.52
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.03333333,Tajsir,"Dug Well",W14473,1997,42.74,41.71,41.52,41.58
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,1997,46.3,45.95,46.21,46.25
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,1997,34.9,34.7,35.2,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,1997,2.4,1.54,1.58,2.68
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.73333333,75.78333333,"Neem Ka Thana1","Dug Well",W14479,1997,25.45,25.3,25.26,25.4
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,1997,6.1,3,2.04,4.52
+RJ,Sikar,Sikar,Piprali,27.55416667,75.23333333,Bajor,"Dug Well",W14481,1997,14.08,13.2,13.64,NA
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,1997,39.2,38.75,39.1,38.28
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,1997,46.4,46,46.62,46.7
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,1997,35.6,35.28,35.31,35.38
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,1997,17.3,17.03,17.02,17.55
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,1997,49.8,49.28,49.81,49.65
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,1997,5.46,4.52,4.97,5.2
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,1997,43.17,42.8,43.17,42.98
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,1997,8.22,6.99,7.09,NA
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.15,75.2,Nosal,"Tube Well",W14464,1997,21.03,21.36,20.47,21.99
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,Palsana,"Tube Well",W14465,1997,21.45,20.48,21.35,20.93
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,1997,41.18,40.98,41.19,41.33
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,1997,45.83,45.67,45.8,45.78
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,1997,NA,39.7,39.37,39.35
+RJ,Sikar,Sikar,Piprali,27.63333333,75.2,Kudli,"Tube Well",W14486,1997,NA,43.95,47.9,48.3
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,1996,52.26,51.6,52.38,52.82
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,1996,37.63,37.95,37.91,37.38
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,1996,47.59,47.25,NA,47.82
+RJ,Sikar,Sikar,Dhond,27.52083333,74.79583333,Shahpura1,"Tube Well",W14491,1996,29.8,29.83,29.86,29.9
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.70472222,75.625,Guhala,"Dug Well",W14492,1996,6.9,12.78,NA,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,1996,6.22,7.24,6.36,7.58
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,1996,9.82,13.22,8.88,15.07
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.38333333,75.55,Reengus,"Tube Well",W14496,1996,30.57,30.53,29.68,31.32
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,1996,28.33,28.28,28.41,28.33
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.03333333,Tajsir,"Dug Well",W14473,1996,41.56,41.6,42.24,41.7
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,1996,45.66,35.35,45.86,45.62
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,1996,16.37,34.51,34.74,34.76
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,1996,'0.94,2.11,1.61,2.5
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.73333333,75.78333333,"Neem Ka Thana1","Dug Well",W14479,1996,25.97,26.19,25.36,26.89
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,1996,'0.45,5.42,2.36,5.35
+RJ,Sikar,Sikar,Piprali,27.55416667,75.23333333,Bajor,"Dug Well",W14481,1996,13.78,15.25,13.02,NA
+RJ,Sikar,Sikar,Dhond,27.52222222,74.91111111,Binjyasi,"Tube Well",W14482,1996,39.58,38.1,38.7,38.65
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,1996,46.97,45.42,45.93,45.82
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,1996,36.04,34.82,34.96,35.39
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,1996,17.9,18.26,17,19
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,1996,50.18,49.95,49.1,49.11
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,1996,4.62,6.55,4.75,7.31
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,1996,44.06,42.5,NA,43.2
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,1996,7.37,NA,5.95,10.09
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.15,75.2,Nosal,"Tube Well",W14464,1996,20.69,21.23,24.54,21.81
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,Palsana,"Tube Well",W14465,1996,21.52,23.06,20.73,23.3
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,1996,41.99,40.85,40.97,41
+RJ,Sikar,Fatehpur,Fatehpur,27.89166667,75,Chinchas,"Tube Well",W14468,1996,45.59,45.54,39.66,45.67
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,1996,40.24,36.99,39.35,39.34
+RJ,Sikar,Sikar,Piprali,27.63333333,75.2,Kudli,"Tube Well",W14486,1996,46.42,45.35,42.46,44.27
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,1995,51.27,50.9,51.55,51.3
+RJ,Sikar,Sikar,Piprali,27.63333333,75.2,Kudli,"Tube Well",W14486,1995,41.52,40.99,31.67,44.59
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,1995,46.72,46.59,47.05,47.02
+RJ,Sikar,Sikar,Dhond,27.52083333,74.79583333,Shahpura1,"Tube Well",W14491,1995,NA,NA,29.8,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.70472222,75.625,Guhala,"Dug Well",W14492,1995,12.17,15.96,NA,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,1995,7.31,8.35,7.21,6.6
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58555556,75.7,"Kanwat Oh","Tube Well",W14494,1995,NA,22.75,18.3,NA
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,1995,14.54,19.3,12.65,21.2
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.38333333,75.55,Reengus,"Tube Well",W14496,1995,30.74,28.78,31.3,30.7
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.03333333,Tajsir,"Dug Well",W14473,1995,40.59,42.2,41.9,41.5
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.88333333,75.00833333,Alakhpura,"Dug Well",W14474,1995,43.52,NA,NA,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.6625,74.89083333,Ghana,"Tube Well",W14475,1995,NA,NA,45.22,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,1995,NA,NA,34.63,NA
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,1995,1.1,2.73,2.2,5.04
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.73333333,75.78333333,"Neem Ka Thana1","Dug Well",W14479,1995,26.23,26.21,27,26.8
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,1995,1,NA,4.85,12.48
+RJ,Sikar,Sikar,Piprali,27.55416667,75.23333333,Bajor,"Dug Well",W14481,1995,15.35,15.07,NA,NA
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,1995,45.23,44.72,45.34,45.07
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,1995,34.42,34.23,34.72,34.62
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,1995,NA,18.51,17.25,19.05
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.3875,75.05,Karanpura,"Tube Well",W14460,1995,NA,47.7,NA,48.18
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,1995,8.39,5.55,7.94,9.3
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,1995,42.2,41.9,42.45,42.4
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,1995,9.38,8.27,8.9,9.63
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,Palsana,"Tube Well",W14465,1995,22.96,22.7,23.07,22.88
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,1995,40.75,40.52,40.75,NA
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,1995,39.28,39.27,39.4,NA
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,1995,37.25,37.42,37.42,41.5
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,1995,28.2,28.2,NA,28.2
+RJ,Sikar,Sikar,Piprali,27.63333333,75.2,Kudli,"Tube Well",W14486,1994,40.75,40.16,40.84,40.62
+RJ,Sikar,Fatehpur,Fatehpur,28.13444444,74.95972222,Rookansar,"Tube Well",W14472,1994,28.14,28.05,28.16,28.1
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.70472222,75.625,Guhala,"Dug Well",W14492,1994,NA,NA,14.99,NA
+RJ,Sikar,"Sri Madhopur","Neem Ka Thana",27.58333333,75.7,Kanwat,"Dug Well",W14493,1994,8.12,8.15,10.1,8.48
+RJ,Sikar,"Sri Madhopur",Khandela,27.56666667,75.55833333,Khandela,"Dug Well",W14495,1994,19.45,20.65,17.99,22.3
+RJ,Sikar,"Sri Madhopur",Srimadhopur,27.38333333,75.55,Reengus,"Tube Well",W14496,1994,27.72,26.8,28.17,27.37
+RJ,Sikar,Fatehpur,Fatehpur,28.03333333,75.03333333,Tajsir,"Dug Well",W14473,1994,41.7,41.75,41.46,41.4
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.88333333,75.00833333,Alakhpura,"Dug Well",W14474,1994,NA,43.43,45.52,NA
+RJ,Sikar,Lachhmangarh,Lachhmangarh,27.61666667,74.77,Nechwa,"Tube Well",W14477,1994,NA,36.94,38,36.84
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.75833333,75.88333333,"Bherala Mod","Dug Well",W14478,1994,1.7,2.42,2.53,4.82
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.73333333,75.78333333,"Neem Ka Thana1","Dug Well",W14479,1994,25.8,24.94,25.52,26.19
+RJ,Sikar,"Neem Ka Thana","Neem Ka Thana",27.8,75.98333333,Patan,"Dug Well",W14480,1994,7.72,10.12,10.65,11.94
+RJ,Sikar,Sikar,Piprali,27.55416667,75.23333333,Bajor,"Dug Well",W14481,1994,15.16,15.1,14.91,15.48
+RJ,Sikar,Sikar,Dhond,27.53333333,75,Dhod,"Tube Well",W14483,1994,44.53,44,44.63,44.31
+RJ,Sikar,Sikar,Piprali,27.57916667,75.18333333,Gokalpura,"Tube Well",W14484,1994,NA,NA,33.95,NA
+RJ,Sikar,Sikar,Piprali,27.69166667,75.2,Katrathal,"Tube Well",W14485,1994,50.68,50.16,50.81,50.53
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.25833333,75.19166667,"Ahir Ka Bas","Tube Well",W14459,1994,18.14,17.63,18.37,18.23
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.31666667,75.295,"Khatu Shyamji-1","Tube Well",W14461,1994,8.38,7.54,8.28,9.15
+RJ,Sikar,"Danta Ramgarh","Danta Ramgarh",27.38444444,74.95972222,Losal,"Tube Well",W14462,1994,41.3,41.03,41.68,41.39
+RJ,Sikar,"Danta Ramgarh",Khandela,27.45833333,75.42916667,Mandha-2,"Dug Well",W14463,1994,9.05,9.1,9.25,9.51
+RJ,Sikar,"Danta Ramgarh",Piprali,27.5,75.35,Palsana,"Tube Well",W14465,1994,22.5,22.03,22.57,22.33
+RJ,Sikar,Fatehpur,Fatehpur,27.90083333,74.96111111,Balaran,"Tube Well",W14466,1994,40.45,40.2,40.5,40.4
+RJ,Sikar,Fatehpur,Fatehpur,28.05,74.9375,Dewas,"Dug Well",W14469,1994,39.3,39.21,39.25,39.18
+RJ,Sikar,Fatehpur,Fatehpur,27.98333333,74.975,Fatehpur1,"Tube Well",W14470,1994,37.6,37.15,37.65,37.22
+RJ,Sikar,Sikar,Dhond,27.71666667,75.0875,Rashidpura,"Tube Well",W14489,1994,NA,NA,46.7,NA

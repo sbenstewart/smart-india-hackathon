@@ -1,0 +1,326 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2018,103.25,108.55,NA,NA
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,"Charada Pz -II","Tube Well",W28496,2018,NA,97.4,100.55,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2018,NA,68.53,NA,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2018,NA,107.73,NA,NA
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2018,NA,49.62,NA,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2018,NA,NA,106.53,110.59
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz -I","Tube Well",W22716,2018,NA,111.68,118.54,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2018,NA,91.56,97.07,NA
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,Charada_Pz_I,"Tube Well",W22493,2018,NA,189.06,185.94,NA
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2018,NA,113.5,119.18,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2018,NA,8.36,14,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2018,NA,96.84,103.5,NA
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2018,NA,13,13.7,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2018,NA,10.66,15.3,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2018,NA,NA,NA,64.82
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_II,"Tube Well",W28325,2018,NA,NA,NA,123.89
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_III,"Tube Well",W28248,2018,NA,20.91,NA,NA
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzi","Tube Well",W28416,2018,NA,110.06,NA,NA
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pziii","Tube Well",W28417,2018,NA,31.45,NA,NA
+GJ,Gandhinagar,Mansa,Mansa,23.46388889,72.72027778,Lodra,"Tube Well",W28487,2018,NA,48.63,NA,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_II,"Tube Well",W28247,2018,NA,76.65,87.79,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-II,"Tube Well",W28334,2018,NA,77.82,77.64,NA
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_III,"Tube Well",W28326,2018,NA,56.13,141.03,NA
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzii","Tube Well",W22590,2018,NA,74.49,NA,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz -I","Tube Well",W22716,2017,117.73,116.56,113.6,118.46
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz-II","Tube Well",W28358,2017,NA,133.91,NA,137.53
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzii","Tube Well",W22590,2017,81.66,82.93,79.53,84.24
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2017,116.67,118.93,114.8,119.58
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2017,70.16,64.46,67.62,74.56
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2017,100.2,100.44,97.85,104.16
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2017,11.67,13.57,9.85,14.35
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2017,NA,90.14,NA,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2017,NA,14.03,10.17,14.47
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2017,NA,14.86,10.1,15.15
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,Charada_Pz_I,"Tube Well",W22493,2017,191.1,177.01,194.42,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2017,99.94,111.36,NA,113.45
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2017,109.73,105.11,NA,112.01
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2017,52.58,53.78,NA,54.43
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2017,NA,NA,NA,113.34
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2017,NA,NA,NA,91.83
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,"Charada Pz -II","Tube Well",W28496,2017,NA,95.3,97.97,100.77
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_II,"Tube Well",W28247,2017,82.5,79.89,80.52,84.67
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_III,"Tube Well",W28248,2017,23.6,23.13,23.45,24.26
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-II,"Tube Well",W28334,2017,82.37,79.31,80.92,83.89
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzi","Tube Well",W28416,2017,109.73,107.46,104.43,112.82
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pziii","Tube Well",W28417,2017,32.4,59.3,31.76,34.79
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_II,"Tube Well",W28325,2017,52.21,120.39,50.78,130.03
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_III,"Tube Well",W28326,2017,59.41,60.09,57.77,62.6
+GJ,Gandhinagar,Dehgam,Dehgam,23.17083333,72.84166667,"Dahegam II","Tube Well",W31598,2017,3.2,NA,3.03,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.3,72.56666667,"Sardhav ii","Tube Well",W28360,2017,NA,NA,124.62,NA
+GJ,Gandhinagar,Mansa,Mansa,23.46388889,72.72027778,Lodra,"Tube Well",W28487,2017,49.33,55.01,NA,53.3
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2017,94.45,96.01,92.26,96.31
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2016,74.68,NA,67.98,63.35
+GJ,Gandhinagar,Dehgam,Dehgam,23.17083333,72.84166667,"Dahegam II","Tube Well",W31598,2016,NA,6.63,14.92,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2016,12.99,NA,13.11,14.08
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2016,89.68,NA,89.76,65.61
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2016,13.4,NA,13.48,13.43
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2016,96.58,NA,96.54,95.99
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2016,118.49,NA,118.16,118.34
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2016,103.16,NA,96.08,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2016,103.62,NA,NA,111.43
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,Charada_Pz_I,"Tube Well",W22493,2016,168.64,NA,169.81,185.72
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2016,97.86,NA,97.97,NA
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2016,53.95,NA,54.49,54.28
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzii","Tube Well",W22590,2016,84.24,NA,103.55,85.42
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz -I","Tube Well",W22716,2016,116.88,NA,122.91,117.53
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2016,102.5,NA,NA,108.6
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_II,"Tube Well",W28325,2016,117.35,NA,119.04,123.95
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_III,"Tube Well",W28326,2016,60.69,62.57,61.09,73.99
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-II,"Tube Well",W28334,2016,77.74,74.52,78.66,79.12
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz-II","Tube Well",W28358,2016,126.21,126.7,NA,136.14
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.3,72.56666667,"Sardhav ii","Tube Well",W28360,2016,122.77,128.08,NA,NA
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzi","Tube Well",W28416,2016,93.66,99.62,108.3,116.48
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pziii","Tube Well",W28417,2016,59.3,NA,NA,58.24
+GJ,Gandhinagar,Mansa,Mansa,23.46388889,72.72027778,Lodra,"Tube Well",W28487,2016,45.52,NA,45.43,55.26
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,"Charada Pz -II","Tube Well",W28496,2016,100.5,92.4,100.64,99.59
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_II,"Tube Well",W28247,2016,83.98,65.65,83.35,70.99
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_III,"Tube Well",W28248,2016,23.38,21.16,NA,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2016,13.42,NA,13.69,13.06
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2015,57.5,61.68,62.45,62.45
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_III,"Tube Well",W28248,2015,22.8,22.5,NA,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2015,11.74,10.14,12.87,3.16
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2015,13.11,12.65,11.36,13.59
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2015,NA,95.23,73.36,73.45
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2015,27,12.2,11.73,11.99
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2015,95.45,96.03,95.27,94.97
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2015,NA,118.29,116.77,110.99
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2015,NA,108.98,NA,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2015,NA,108.79,106.18,109.84
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,Charada_Pz_I,"Tube Well",W22493,2015,174.6,190.28,178.37,185.34
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2015,NA,97.61,NA,NA
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2015,NA,53.83,NA,NA
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzii","Tube Well",W22590,2015,83.84,83.91,80.32,84.33
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz -I","Tube Well",W22716,2015,120.4,115.18,111.76,115.78
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2015,102,106.85,104.07,106.5
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_II,"Tube Well",W28325,2015,126.6,123.3,NA,NA
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_III,"Tube Well",W28326,2015,59.63,66.04,64.3,64.61
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-II,"Tube Well",W28334,2015,77.6,82.57,78.12,77.99
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz-II","Tube Well",W28358,2015,128.5,136.18,131.21,134.56
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.3,72.56666667,"Sardhav ii","Tube Well",W28360,2015,NA,NA,129.49,132.41
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzi","Tube Well",W28416,2015,104,108.23,102.12,114.84
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pziii","Tube Well",W28417,2015,NA,57.15,NA,58.3
+GJ,Gandhinagar,Mansa,Mansa,23.46388889,72.72027778,Lodra,"Tube Well",W28487,2015,NA,51.86,54.28,53.87
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,"Charada Pz -II","Tube Well",W28496,2015,99.5,99.89,94.72,99.05
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_II,"Tube Well",W28247,2015,NA,83.48,68.99,70.35
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2015,88.89,NA,NA,88.89
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2014,57.36,49.72,60.6,58.4
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2014,NA,86.43,NA,119
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2014,10.42,11.04,9.12,12.58
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2014,11.32,12.75,9.1,14.18
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2014,63.24,57.24,96.21,64.51
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2014,8.85,11.55,7.25,12.25
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2014,92.45,97.06,94.4,96.315
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2014,114.37,121.68,118.05,119.585
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2014,112.3,105.14,113.8,110.6
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2014,111.58,NA,114.7,110.86
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,Charada_Pz_I,"Tube Well",W22493,2014,184,177.24,181.4,184.04
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2014,95.32,95.84,97.75,97.97
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2014,54.7,112.59,52.05,84.015
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzii","Tube Well",W22590,2014,81.83,83.51,83.8,83.61
+GJ,Gandhinagar,Mansa,Mansa,23.42472222,72.57027778,"Boru Pzi","Tube Well",W22720,2014,171.3,171.3,NA,171.3
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.21444444,72.69027778,Palaj_Pz-I,"Tube Well",W21909,2014,104.5,NA,NA,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2014,104.5,104.41,105.35,106.48
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_II,"Tube Well",W28325,2014,NA,NA,123.61,55.07
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_III,"Tube Well",W28326,2014,94.78,91.43,64.74,96.15
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-II,"Tube Well",W28334,2014,77.12,76.1,78.18,79.07
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz-II","Tube Well",W28358,2014,132.72,119.48,134.6,135.28
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.3,72.56666667,"Sardhav ii","Tube Well",W28360,2014,NA,NA,133.53,132.03
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzi","Tube Well",W28416,2014,116.74,107.12,104.4,114.8
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pziii","Tube Well",W28417,2014,56.98,57.62,57.65,57.75
+GJ,Gandhinagar,Mansa,Mansa,23.46388889,72.72027778,Lodra,"Tube Well",W28487,2014,NA,NA,53.1,NA
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,"Charada Pz -II","Tube Well",W28496,2014,100.53,99.97,100.4,99.97
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_II,"Tube Well",W28247,2014,63.83,71.58,64.85,71.58
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_III,"Tube Well",W28248,2014,23.12,23.02,24.55,23.4
+GJ,Gandhinagar,Dehgam,Dehgam,23.17083333,72.84166667,"Dahegam II","Tube Well",W31598,2014,NA,NA,4.05,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.21444444,72.69027778,Palaj_Pz-II,"Tube Well",W31602,2014,77.12,NA,NA,NA
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzii","Tube Well",W22590,2013,85,84.25,83.86,84
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2013,13.42,NA,12.74,13.86
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2013,101.33,80.45,78.38,78.5
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_II,"Tube Well",W28325,2013,56.4,NA,110.62,122.21
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_III,"Tube Well",W28326,2013,64.13,NA,64.2,67.36
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-II,"Tube Well",W28334,2013,77.72,NA,34.97,38.38
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz-II","Tube Well",W28358,2013,124.77,134.9,128,134.14
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzi","Tube Well",W28416,2013,110.46,120.95,108.16,119.47
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pziii","Tube Well",W28417,2013,59.17,59,58.9,61.45
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,"Charada Pz -II","Tube Well",W28496,2013,98.91,NA,99.23,102.47
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_II,"Tube Well",W28247,2013,72.61,83.45,70.12,85
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_III,"Tube Well",W28248,2013,23.83,25.42,22.83,22.61
+GJ,Gandhinagar,Dehgam,Dehgam,23.17083333,72.84166667,"Dahegam II","Tube Well",W31598,2013,NA,NA,NA,7.61
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.21444444,72.69027778,Palaj_Pz-II,"Tube Well",W31602,2013,NA,60.9,NA,NA
+GJ,Gandhinagar,Kalol,Kalol,23.33194444,72.56666667,"Nardipur  ii","Tube Well",W31617,2013,NA,44.15,NA,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2013,92.33,NA,91.01,NA
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2013,11.26,12.58,11.38,12.8
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2013,96.84,97.29,96.7,98.26
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2013,118.03,119.6,119.14,120.87
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2013,107.59,111.42,106.06,113.02
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2013,107.59,NA,NA,102.47
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,Charada_Pz_I,"Tube Well",W22493,2013,177.1,NA,176.7,179.12
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2013,97.67,96.52,94.88,98.83
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2013,56.77,56.74,56.86,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2013,46.82,NA,47.34,45.76
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2013,NA,NA,NA,79.45
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2013,8.96,12.49,8.94,12.04
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.3,72.56666667,"Sardhao i","Tube Well",W08432,2013,113.33,NA,NA,NA
+GJ,Gandhinagar,Mansa,Mansa,23.42472222,72.57027778,"Boru Pzi","Tube Well",W22720,2013,138.04,139.22,140.5,143.49
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz -I","Tube Well",W22716,2012,NA,NA,112.48,111.16
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2012,NA,9.66,13.42,13.2
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.21444444,72.69027778,Palaj_Pz-I,"Tube Well",W21909,2012,NA,94.16,102.44,101.38
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2012,NA,69.45,77.29,75.98
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_II,"Tube Well",W28325,2012,NA,NA,118.89,NA
+GJ,Gandhinagar,Kalol,Kalol,23.25833333,72.47222222,Kalol(Nest)_Pz_III,"Tube Well",W28326,2012,NA,NA,65.35,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-II,"Tube Well",W28334,2012,NA,NA,36.04,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.29722222,72.57388889,"Sardhav Pz-II","Tube Well",W28358,2012,NA,NA,129.82,NA
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzi","Tube Well",W28416,2012,NA,NA,112.34,NA
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pziii","Tube Well",W28417,2012,NA,NA,59.18,NA
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,"Charada Pz -II","Tube Well",W28496,2012,NA,NA,109.44,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_II,"Tube Well",W28247,2012,NA,NA,82.73,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_III,"Tube Well",W28248,2012,NA,NA,24.3,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.21444444,72.69027778,Palaj_Pz-II,"Tube Well",W31602,2012,NA,NA,60.02,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2012,NA,111.27,99.04,116.73
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2012,NA,12.21,13.22,12.36
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2012,NA,NA,97.53,98.27
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2012,NA,121.01,119.83,140.67
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2012,NA,NA,105.67,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2012,NA,NA,108.19,NA
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,Charada_Pz_I,"Tube Well",W22493,2012,NA,154.72,181.51,166.18
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2012,NA,89.52,95.45,94.56
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2012,NA,50.34,NA,56.36
+GJ,Gandhinagar,Mansa,Kalol,23.37361111,72.705,"Amrapur Pzii","Tube Well",W22590,2012,NA,NA,84.28,85
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2012,NA,49.76,41.65,52.35
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2012,NA,NA,NA,85.7
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2012,NA,8.76,11.02,18.42
+GJ,Gandhinagar,Mansa,Mansa,23.42472222,72.57027778,"Boru Pzi","Tube Well",W22720,2012,NA,NA,139.04,140.45
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.21444444,72.69027778,Palaj_Pz-I,"Tube Well",W21909,2011,93.69,94.94,100.84,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2011,71.36,67.58,75.65,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2011,103.05,105.06,116.03,NA
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2011,7.53,10.36,11.56,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2011,98.21,98.96,97.38,NA
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2011,134.73,NA,139.73,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2011,8.88,11.9,13.08,13.08
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2011,90.56,89.5,93.57,NA
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2011,54.82,57.22,55.53,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2011,61.48,63.52,61.7,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2011,84.86,87.34,84.9,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2011,7.25,10.64,12.12,13.2
+GJ,Gandhinagar,Mansa,Mansa,23.48166667,72.65166667,Charada_Pz_I,"Tube Well",W22493,2011,176.2,NA,178.12,NA
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.21444444,72.69027778,Palaj_Pz-I,"Tube Well",W21909,2010,94.38,98.2,94.6,100.58
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.26722222,72.67305556,Pethapur_Pz-I,"Tube Well",W21912,2010,69.12,98.83,67.55,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2010,NA,116.12,103.95,NA
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2010,7.57,12,10.19,12.28
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2010,99.33,98.59,97.5,105.43
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2010,129.7,120.07,135.36,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2010,12.95,13.96,11.82,14.58
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2010,NA,104.3,NA,111.65
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.175,72.55833333,Adalaj_Pz_I,"Tube Well",W22039,2010,89.11,NA,89.52,NA
+GJ,Gandhinagar,Kalol,Kalol,23.24333333,72.485,Kalol(Rep)_Pz_II,"Tube Well",W22042,2010,99.32,NA,NA,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2010,64.2,60.73,62.65,69.06
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2010,82.17,82.37,86.63,82.17
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2010,11.84,12.1,9.62,15.25
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2010,NA,103.36,NA,110.79
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2009,99.29,NA,92.03,100.94
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2009,11.2,12,12,11.41
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2009,102.63,100.93,NA,95.11
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2009,NA,NA,115.3,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2009,12.6,11.98,12.68,12.28
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2009,105.9,95.36,NA,102.78
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2009,64.84,56.3,NA,60.71
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2009,84.18,76.56,NA,82.98
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2009,13.33,10.54,NA,9.45
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2009,104.58,94.65,NA,102.09
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2008,90.73,97.19,92.71,NA
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2008,10.05,NA,10.63,11.58
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2008,95.45,97.46,95.53,94.62
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2008,90.56,99.96,100.78,97.7
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2008,91.23,101.46,101.53,97
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2008,54.5,65.72,56.9,61.64
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2008,71.2,NA,77.36,80.97
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2008,8.52,12.02,9.43,11.09
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2008,12.18,11,11.68,12.01
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2007,NA,9.61,10.05,10.67
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2007,95.42,98.33,96.72,98.05
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2007,94.98,105.4,101.24,103.47
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2007,78.23,80.29,79.57,83.46
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2007,NA,104.79,95.75,103.64
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2007,NA,106.37,95.35,103.87
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2007,NA,11.04,10.9,12.2
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2007,59.71,63.08,65.65,64.8
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2007,10.28,11.87,11.3,4.17
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2006,100.46,98.86,96.18,98.65
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2006,10.61,11.58,10.72,NA
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2006,8.42,12.14,NA,12.34
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2006,85.96,90.78,81.24,83.99
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2006,NA,65.78,64.3,65.39
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2006,94,103.4,100.79,103.38
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2006,6.52,8.42,7.92,9.64
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22722222,72.73916667,Chiloda_Pz_2,"Tube Well",W20965,2006,95.3,NA,100.05,99.96
+GJ,Gandhinagar,Gandhinagar,Gandhinagar,23.22666667,72.73888889,Chiloda_Pz_1,"Tube Well",W20964,2006,97.13,NA,98.33,103.27
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2006,125.46,134.82,NA,134.43
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2005,12.15,14.82,11.69,14.9
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2005,99.3,103.07,103.29,106.12
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2005,81.13,NA,83.78,87.78
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2005,11.9,13.1,12.08,13.62
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2005,6.77,13.4,NA,13.58
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2005,65.93,69.96,63.9,67.4
+GJ,Gandhinagar,Mansa,Mansa,23.42305556,72.665,Mansa,"Tube Well",W20568,2005,129.63,NA,125.26,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2005,100.09,99.01,97.57,99.35
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2004,NA,NA,NA,71.5
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2004,NA,99.15,100,100.56
+GJ,Gandhinagar,Chiloda(naroda),Gandhinagar,23.19027778,72.55277778,Kasturinagar_IFFCO,"Tube Well",W08439,2004,NA,NA,13.35,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2004,NA,99.88,101.6,101.41
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2004,12.07,13.93,12.95,13.76
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2004,NA,10.84,11.15,12.16
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2004,NA,85.28,84.77,85.15
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2003,14.65,15.5,14.28,15.15
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2003,79.7,80.37,83.25,84.86
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2003,101.18,110.08,100.34,118.94
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2003,63.35,NA,69.79,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2003,10.99,NA,10.11,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2003,91.3,NA,106.51,101.3
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2002,NA,11.6,NA,74.46
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2002,NA,12.42,14.8,11.37
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2002,15.2,14.43,NA,14.37
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2002,87.13,NA,96.91,107.19
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2002,99.65,NA,NA,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2002,75.18,NA,78.73,76.13
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2001,99.05,100,NA,97.95
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2001,14.98,NA,14.1,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2001,67.3,67.64,70.83,64.85
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2001,NA,71.14,11.4,65.1
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2001,NA,94.9,95.25,96.1
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2001,11.92,NA,12.02,11.35
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,2000,13.54,NA,NA,NA
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,2000,NA,60.95,65.42,62.2
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,2000,69.76,60.65,70.72,61.15
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,2000,10.47,8.72,9.86,9.04
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,2000,98.39,97.55,NA,96.2
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,2000,92.55,89.55,93.45,93.01
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,1999,NA,61.96,NA,61.06
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,1999,83.82,82.06,86.64,85.62
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,1999,14.33,NA,13.13,NA
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,1999,6.16,NA,7.4,9.84
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.275,72.45,Chatral,"Dug Well",W07836,1999,19.6,19.6,NA,19.6
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,1999,57.95,NA,NA,52.76
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,1999,84.52,92.1,94.75,93.31
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17083333,72.84166667,"Dahegam I","Tube Well",W07831,1998,66.63,NA,60.5,68.26
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,1998,NA,11.84,12.14,11.53
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,1998,88.1,90.51,92.19,91.68
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,1998,NA,49.65,NA,50.77
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.275,72.45,Chatral,"Dug Well",W07836,1998,19.6,19.6,19.6,19.6
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,1998,5.33,NA,5.12,10.7
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,1998,NA,80,80.97,83.89
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,1997,NA,12,3.18,13.05
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.275,72.45,Chatral,"Dug Well",W07836,1997,19.1,19.6,19.6,19.6
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,1997,13.2,NA,13.85,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,1997,NA,77.24,78.29,79.69
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,1997,46.9,NA,48.1,NA
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,1997,87.8,88.35,89.66,88.48
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.25833333,72.47222222,"Kalol  (deep)","Tube Well",W08436,1996,73.9,NA,75.71,75.93
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.275,72.45,Chatral,"Dug Well",W07836,1996,19.6,NA,19.6,19.6
+GJ,Gandhinagar,Chiloda(naroda),Kalol,23.33194444,72.56666667,"Nardipur  i","Tube Well",W08440,1996,82.98,NA,86.83,85.05
+GJ,Gandhinagar,Chandkheda,Dehgam,23.17916667,72.84166667,Shahpur,"Dug Cum Bore Well",W08431,1996,NA,12,NA,11.75
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.23472222,72.64166667,"Gandhinagar  II","Tube Well",W07833,1996,44.75,45.56,48.53,48.21
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.3,72.56666667,"Sardhao i","Tube Well",W08432,1996,534,NA,NA,534
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19166667,72.56666667,Serthapara-2,"Dug Cum Bore Well",W08434,1996,NA,12.46,NA,12.6
+GJ,Gandhinagar,Chhatral,Gandhinagar,23.19444444,72.56666667,Serthapara-1,"Dug Well",W08435,1996,NA,12.46,NA,12.6

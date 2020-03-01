@@ -1,0 +1,961 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2018,NA,119.58,80.01,NA
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_III,"Tube Well",W28105,2018,NA,NA,NA,38.1
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2018,NA,7.2,11.28,NA
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2018,NA,8.3,8.72,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2018,NA,69.7,69.5,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2018,NA,1.48,3.46,NA
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2018,NA,29.65,29.42,NA
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2018,NA,1.67,5.09,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2018,NA,4.27,11,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2018,10.78,11.7,NA,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2018,15.53,15.9,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2018,1.61,3.41,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2018,1.18,1.72,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2018,3.96,4.7,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2018,2.99,4.2,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2018,9.72,11.14,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2018,6.12,13.8,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2018,NA,1.36,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2018,NA,NA,16.28,NA
+GJ,Ahmadabad,"Ahmadabad City","Ahmadabad City",23.03833333,72.52972222,Vastrapur(lake)_Pz_I,"Tube Well",W28145,2018,NA,92.82,85.51,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_I,"Tube Well",W28146,2018,NA,27.55,2.77,NA
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-II,"Tube Well",W28181,2018,NA,28.6,25.43,NA
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-III,"Tube Well",W28182,2018,NA,3.48,4.3,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2018,29.79,45.61,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2018,22.19,28.21,NA,NA
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_I,"Tube Well",W21861,2018,68.3,111.5,NA,NA
+GJ,Ahmadabad,Dhandhuka,Dhandhuka,22.46222222,72.15833333,Fedra,"Tube Well",W22573,2018,1.14,1.24,NA,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2018,3.4,2.5,NA,NA
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2018,4.48,2.61,NA,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2018,NA,3.2,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2018,NA,NA,11.9,11.9
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2018,5.48,NA,NA,NA
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2018,NA,NA,NA,9.95
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_II,"Tube Well",W27914,2018,6.8,6.75,NA,NA
+GJ,Ahmadabad,Sanand,Sanand,23.00333333,72.37361111,"Sanand II","Tube Well",W28115,2018,15.7,17.78,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_II,"Tube Well",W28147,2018,NA,29.75,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2018,NA,4.5,7.28,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2017,2.25,2.08,1.39,NA
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_III,"Tube Well",W28105,2017,6.9,NA,NA,NA
+GJ,Ahmadabad,Dhandhuka,Dhandhuka,22.46222222,72.15833333,Fedra,"Tube Well",W22573,2017,'0.39,2.29,1.06,2.89
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2017,'0.83,1.95,1.73,3.89
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2017,23.34,36.62,26.37,40.16
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2017,3.26,2.29,1.81,1.75
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2017,1.57,4.96,3.52,4.17
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2017,NA,20.4,NA,20.4
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2017,NA,14.45,NA,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2017,4.65,14.05,4.82,15.42
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2017,12.65,16.7,15.29,17.18
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2017,1.61,4.37,3.13,5.87
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2017,NA,3.12,3.15,4.9
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2017,2.76,11.8,6.6,NA
+GJ,Ahmadabad,Mandal,Mandal,23.41472222,72.05833333,Jhanjharwa_Pz_II,"Tube Well",W22542,2017,NA,NA,16.45,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2017,15.58,67.4,NA,70.3
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2017,NA,45.75,NA,52.62
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2017,NA,32.04,NA,36.05
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2017,NA,9.81,NA,6.76
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2017,NA,8.3,NA,7.6
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2017,NA,11.9,NA,8.95
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2017,NA,3.15,NA,3.25
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2017,NA,68.81,NA,68.93
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2017,NA,NA,NA,100.85
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2017,'0.8,2.45,1.43,3.25
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2017,5.1,4.9,5.22,6.9
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2017,3.05,3.46,2.71,4.3
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2017,11.4,12.4,10.48,14.21
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-II,"Tube Well",W28181,2017,25.39,NA,26.55,38.86
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-III,"Tube Well",W28182,2017,3.25,3.83,3.06,3.59
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_II,"Tube Well",W27914,2017,NA,8.75,NA,7.45
+GJ,Ahmadabad,Sanand,Sanand,23.00333333,72.37361111,"Sanand II","Tube Well",W28115,2017,NA,17.8,NA,23.66
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_II,"Tube Well",W28140,2017,NA,NA,NA,3.37
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,Sola_Pz_III,"Tube Well",W28177,2017,NA,NA,NA,12.48
+GJ,Ahmadabad,"Ahmadabad City","Ahmadabad City",23.03833333,72.52972222,Vastrapur(lake)_Pz_I,"Tube Well",W28145,2017,NA,100.94,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2017,6.62,5.18,6.58,5.47
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2016,2.95,NA,3.13,NA
+GJ,Ahmadabad,Dholka,Dholka,22.46388889,72.29666667,"Koth III","Tube Well",W31532,2016,NA,NA,NA,10.2
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2016,2.82,NA,3.15,4.05
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2016,1.71,NA,1.99,4.1
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2016,NA,NA,NA,3.23
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2016,4.75,NA,5.05,4.1
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2016,3.01,NA,3.24,2.46
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2016,7.63,NA,9.09,14.85
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2016,NA,NA,100.92,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2016,2.07,NA,NA,2.99
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2016,2.6,NA,3.32,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2016,5.05,NA,5.38,5.77
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2016,NA,NA,NA,14.5
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2016,3.13,NA,3.47,5.23
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2016,9.32,NA,9.84,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2016,14.89,NA,9.75,21.62
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2016,15.25,NA,16.25,17.75
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2016,5.02,NA,5.1,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2016,66.6,NA,68.33,NA
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2016,11.9,NA,NA,NA
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2016,3.9,NA,4.22,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2016,11.04,NA,12.8,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2016,2.85,NA,3,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2016,96.4,NA,97.35,104.78
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2016,61.35,NA,61.75,68.25
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2016,34.26,NA,34.64,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2016,48.09,NA,49.31,45.69
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2016,30.64,NA,32.39,32.26
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2016,7.34,NA,7.44,7.6
+GJ,Ahmadabad,Dhandhuka,Dhandhuka,22.46222222,72.15833333,Fedra,"Tube Well",W22573,2016,1.87,NA,2.01,NA
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_II,"Tube Well",W27914,2016,7.21,7.15,6.07,6.89
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-II,"Tube Well",W28060,2016,NA,8.03,NA,NA
+GJ,Ahmadabad,Sanand,Sanand,23.00333333,72.37361111,"Sanand II","Tube Well",W28115,2016,18.55,17.65,19.5,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_II,"Tube Well",W28140,2016,2.81,2.24,3.02,5.05
+GJ,Ahmadabad,"Ahmadabad City","Ahmadabad City",23.03833333,72.52972222,Vastrapur(lake)_Pz_I,"Tube Well",W28145,2016,100.9,NA,102.53,100.18
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,"Sola I","Tube Well",W28176,2016,99.37,91.53,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,Sola_Pz_III,"Tube Well",W28177,2016,10.58,12.12,10.85,NA
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-II,"Tube Well",W28181,2016,29.9,30.4,30.7,NA
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-III,"Tube Well",W28182,2016,2.85,2.35,3.2,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2016,7.7,NA,NA,20.4
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2015,1.1,2.4,'0.85,3.02
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-III,"Tube Well",W28182,2015,2.6,3.17,2.32,3.59
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2015,2.88,2.83,3.5,6.88
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2015,1.3,2.05,1.2,7.16
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2015,4.55,4.8,3.8,7.25
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2015,2.51,2.6,1.82,9.6
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2015,8.05,12.35,7.55,22.3
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2015,NA,6.36,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2015,1.45,NA,1.25,1.45
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2015,2.57,3.24,2.17,7.42
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2015,5.68,4.94,5.95,5.68
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2015,3.08,3.35,2.69,2.5
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2015,11.28,11.28,11.28,9
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2015,10.7,11.8,15.4,24.12
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2015,16.45,16.65,14.3,24.77
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2015,11.8,11.8,11.8,11.8
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2015,67.85,61.7,63.58,71.34
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2015,11.9,11.9,11.9,11.9
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2015,3.95,4,2.73,2.42
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2015,8.55,7.73,9.5,6.82
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2015,2.3,2.2,2.78,3.8
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2015,98.61,96.2,95.4,100.65
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2015,57.65,69.6,55.85,67.93
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2015,27.9,26.25,25.48,24.7
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-I,"Tube Well",W21859,2015,29.8,30.34,32.15,33.45
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_I,"Tube Well",W21861,2015,47.5,61.92,46.52,67.1
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2015,32.6,57.22,29.2,37.55
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2015,19.44,28.64,28.1,29.16
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2015,5.54,5.99,6.2,5.54
+GJ,Ahmadabad,Dhandhuka,Dhandhuka,22.46222222,72.15833333,Fedra,"Tube Well",W22573,2015,1.1,1.21,1.99,1.1
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_II,"Tube Well",W27914,2015,5.15,5.81,5.75,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-II,"Tube Well",W28060,2015,6.5,7.17,7.36,8.6
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_II,"Tube Well",W28104,2015,13.35,14.54,10.9,17.52
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_III,"Tube Well",W28105,2015,NA,14.62,NA,NA
+GJ,Ahmadabad,Sanand,Sanand,23.00333333,72.37361111,"Sanand II","Tube Well",W28115,2015,17.3,16.85,14.9,17.48
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_II,"Tube Well",W28140,2015,2.34,3.14,2.65,'0.84
+GJ,Ahmadabad,"Ahmadabad City","Ahmadabad City",23.03833333,72.52972222,Vastrapur(lake)_Pz_I,"Tube Well",W28145,2015,NA,1.38,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_I,"Tube Well",W28146,2015,NA,79.02,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_II,"Tube Well",W28147,2015,NA,34.05,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,"Sola I","Tube Well",W28176,2015,98.12,92.42,98.92,91.76
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,Sola_Pz_III,"Tube Well",W28177,2015,10.93,6.36,10.83,13.48
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-II,"Tube Well",W28181,2015,26.4,29,24.63,27.87
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2015,13.78,11.52,NA,20.4
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2014,NA,1.7,1.18,2.98
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-III,"Tube Well",W28182,2014,NA,2.72,2.25,3.3
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2014,1.42,2.36,2.43,3.45
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2014,'0.79,2.15,1.25,2.83
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2014,NA,NA,4.5,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2014,6.12,7.91,5.7,6.21
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2014,'0.79,1.76,1.41,3.89
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2014,NA,NA,NA,20.5
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2014,3.42,9.95,14.25,22.3
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2014,89.3,NA,97.25,96.92
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2014,'0.86,1.2,1.2,2.51
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2014,1.64,2.77,2.47,9.82
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2014,4.62,7.8,4.8,7.8
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2014,1.51,10.63,2.53,3.63
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2014,'0.37,5.93,3.94,6.3
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2014,4.11,1.8,6.28,11.35
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2014,12.15,14.45,15.9,18.1
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2014,'0.24,8.91,6.15,11.8
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2014,NA,68.16,69.3,69.7
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2014,7.11,11.9,6.85,11.9
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2014,3.2,4.6,2.88,4.57
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2014,6.5,7.8,7.6,8.75
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2014,NA,NA,NA,3.25
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2014,NA,NA,2.32,4.8
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2014,92.08,NA,95.03,97.85
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2014,68.41,NA,68.54,38.25
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2014,24.4,NA,23.52,24.1
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-I,"Tube Well",W21859,2014,28.43,NA,29.22,33.86
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_I,"Tube Well",W21861,2014,NA,61.23,59.71,64.1
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2014,NA,41.81,35.05,35
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2014,26.47,NA,27.37,28.64
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2014,3.83,4.77,NA,NA
+GJ,Ahmadabad,Dhandhuka,Dhandhuka,22.46222222,72.15833333,Fedra,"Tube Well",W22573,2014,'0.12,1,'0.8,1
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_II,"Tube Well",W27914,2014,3.53,4.32,NA,4.32
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-II,"Tube Well",W28060,2014,5.35,NA,6.58,9
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_II,"Tube Well",W28104,2014,NA,13.96,9.48,17.95
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_III,"Tube Well",W28105,2014,NA,13.88,8.02,13.88
+GJ,Ahmadabad,Sanand,Sanand,23.00333333,72.37361111,"Sanand II","Tube Well",W28115,2014,NA,16.66,16.05,18.5
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_II,"Tube Well",W28140,2014,2.17,NA,2.54,5.07
+GJ,Ahmadabad,"Ahmadabad City","Ahmadabad City",23.03833333,72.52972222,Vastrapur(lake)_Pz_I,"Tube Well",W28145,2014,94.53,NA,99.7,99.7
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_I,"Tube Well",W28146,2014,48.63,NA,77.01,97.9
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_II,"Tube Well",W28147,2014,32.78,NA,32.87,33.93
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,"Sola I","Tube Well",W28176,2014,NA,NA,90.7,91.92
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,Sola_Pz_III,"Tube Well",W28177,2014,9.46,NA,9.78,11.98
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-II,"Tube Well",W28181,2014,NA,26.67,25.3,26.89
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2014,20.4,6,20.4,20.4
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2013,-0.02,4.29,1.12,4.71
+GJ,Ahmadabad,Dholka,Dholka,22.46388889,72.29666667,"Koth III","Tube Well",W31532,2013,NA,12.53,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2013,2.75,6.9,1.95,6.23
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2013,'0.02,4.28,2,4.55
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2013,6.42,7.78,5.45,7.45
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2013,'0.02,4.14,'0.98,4.11
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2013,17.59,22.8,17.5,21.73
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2013,5.3,9.79,6.75,22.3
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.05527778,72.47583333,Shilaj_Pz_III,"Tube Well",W08198,2013,5.49,NA,NA,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2013,8.74,NA,89.84,93.6
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2013,'0.45,3.26,'0.87,3.07
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2013,1.37,6.32,1.12,12.38
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2013,6.4,7.03,NA,6.75
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2013,NA,15.73,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2013,NA,4.84,NA,5.13
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2013,'0.18,8.79,2.09,9.62
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2013,1.82,13.63,1.52,21.8
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2013,11.08,18.43,9.45,22.95
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2013,2.5,10.21,5.85,8.05
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2013,64.52,NA,45.1,72.72
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2013,11.9,11.06,6.95,11.9
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2013,4.92,7.88,3.44,7.42
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,2013,27.35,NA,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,2013,NA,NA,NA,98.15
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2013,NA,59.79,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2013,9.8,12.84,7.7,12.82
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2013,2.2,NA,1.2,6.29
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2013,4,6.12,NA,10.9
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2013,90.78,NA,89.8,100.08
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2013,68.3,70.63,68.93,68.56
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2013,33.99,NA,NA,95.79
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2013,16.52,NA,NA,19.45
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2013,27.56,31.13,24.65,29.47
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-I,"Tube Well",W21859,2013,31.98,35.12,30.05,36.05
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_I,"Tube Well",W21861,2013,60.03,67.41,59.25,69.49
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2013,38.02,42.22,37.5,39.57
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2013,NA,64.09,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2013,29.09,19.8,27.43,29.77
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2013,5.55,7.98,4.5,7.14
+GJ,Ahmadabad,Dhandhuka,Dhandhuka,22.46222222,72.15833333,Fedra,"Tube Well",W22573,2013,'0.44,2.56,'0.59,2.76
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_II,"Tube Well",W27914,2013,5.85,7.63,4.27,6.9
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-II,"Tube Well",W28060,2013,6.4,2.08,6.65,9.09
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_II,"Tube Well",W28104,2013,13.02,21.85,10,20.74
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_III,"Tube Well",W28105,2013,12.91,NA,11.3,NA
+GJ,Ahmadabad,Sanand,Sanand,23.00333333,72.37361111,"Sanand II","Tube Well",W28115,2013,1.2,20.62,16.5,20.94
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_II,"Tube Well",W28140,2013,4.73,7.09,1.62,7.64
+GJ,Ahmadabad,"Ahmadabad City","Ahmadabad City",23.03833333,72.52972222,Vastrapur(lake)_Pz_I,"Tube Well",W28145,2013,17.59,100.88,99,100.51
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_I,"Tube Well",W28146,2013,95.84,NA,90.85,100.35
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_II,"Tube Well",W28147,2013,31.07,32.37,29.7,35.73
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,"Sola I","Tube Well",W28176,2013,NA,NA,94.6,98.66
+GJ,Ahmadabad,Daskroi,Daskroi,23.08055556,72.51861111,Sola_Pz_III,"Tube Well",W28177,2013,8.7,NA,NA,13.88
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-II,"Tube Well",W28181,2013,26.45,30.56,24.75,30.14
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-III,"Tube Well",W28182,2013,2.35,4.36,2.3,4.3
+GJ,Ahmadabad,"Ahmadabad City","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant_Pz_II","Tube Well",W31588,2013,NA,NA,NA,19.55
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2013,6.5,20.4,20.4,20.4
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2012,NA,2.34,2.86,3.1
+GJ,Ahmadabad,Dholka,Dholka,22.46388889,72.29666667,"Koth III","Tube Well",W31532,2012,NA,NA,10.9,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2012,NA,3.45,4.57,4.1
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2012,NA,2.03,2.24,2.26
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2012,NA,NA,NA,4.15
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2012,NA,5.17,5.23,5.7
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2012,NA,2,2.67,3.35
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2012,NA,20.4,NA,22.58
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2012,NA,22.3,NA,22.3
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2012,NA,89.28,NA,70.16
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2012,NA,2.42,2,2.39
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2012,NA,3.28,4.17,11.15
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2012,NA,5.68,6.15,11.89
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2012,NA,NA,14.7,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2012,NA,3.08,2.73,3.83
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2012,NA,6.85,6.79,11.28
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2012,NA,15.3,12.2,14.4
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2012,NA,18.28,16.4,21.03
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2012,NA,11.8,8.29,11.8
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2012,NA,66.12,NA,67.31
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2012,NA,10.28,9.23,10.28
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2012,NA,5.3,5.68,5.22
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,2012,NA,91.65,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2012,NA,178.57,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2012,NA,7.98,10.65,9.72
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2012,NA,3.2,4.8,7.65
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.005,72.59777778,Kankariya_Pz_I,"Tube Well",W18986,2012,NA,98.31,NA,106.63
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2012,NA,NA,NA,111.27
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2012,NA,93.43,68.7,96.72
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2012,NA,89.35,NA,94.85
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2012,NA,16.9,NA,19.62
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2012,NA,28.9,30,28.45
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-I,"Tube Well",W21859,2012,NA,32.94,33.8,35.3
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_I,"Tube Well",W21861,2012,NA,67.01,65.1,66.02
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2012,NA,34.76,40.92,59.5
+GJ,Ahmadabad,Daskroi,Daskroi,22.95305556,72.61583333,"Vatwa Pz-1","Tube Well",W20651,2012,NA,78.3,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2012,NA,NA,63.2,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2012,NA,26.75,11.79,28.81
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2012,NA,5.66,6.78,6.9
+GJ,Ahmadabad,Dhandhuka,Dhandhuka,22.46222222,72.15833333,Fedra,"Tube Well",W22573,2012,NA,1.15,1.54,2.54
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_II,"Tube Well",W27914,2012,NA,NA,6.6,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-II,"Tube Well",W28060,2012,NA,NA,1.15,NA
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_II,"Tube Well",W28104,2012,NA,NA,20.75,NA
+GJ,Ahmadabad,Sanand,Sanand,23.00333333,72.37361111,"Sanand II","Tube Well",W28115,2012,NA,NA,19.8,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_II,"Tube Well",W28140,2012,NA,NA,5.94,NA
+GJ,Ahmadabad,"Ahmadabad City","Ahmadabad City",23.03833333,72.52972222,Vastrapur(lake)_Pz_I,"Tube Well",W28145,2012,NA,NA,100.15,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_I,"Tube Well",W28146,2012,NA,NA,57.55,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03861111,72.45777778,Bopal_Pz_II,"Tube Well",W28147,2012,NA,NA,29.25,NA
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-II,"Tube Well",W28181,2012,NA,NA,28.75,NA
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-III,"Tube Well",W28182,2012,NA,NA,3.32,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2012,NA,13.95,20.4,19.8
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2011,'0.27,1.83,1.58,3.11
+GJ,Ahmadabad,Mandal,Mandal,23.41472222,72.05833333,Jhanjharwa_Pz_II,"Tube Well",W22542,2011,NA,NA,7.23,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2011,2.47,3.03,3.29,4.22
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2011,'0.72,1.96,1.63,3.58
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2011,3.1,NA,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2011,6.42,7.39,5.01,8.35
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2011,'0.64,3.09,1.48,5.02
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2011,19.59,18.92,22.87,20.32
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2011,5.87,12.65,22.3,22.3
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2011,1.1,1.2,1.34,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2011,'0.82,3.42,4.09,4.64
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2011,5.41,5.98,5.56,9.32
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2011,NA,14.81,NA,15
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2011,1.19,3.34,2.76,8.08
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2011,'0.31,5.7,5.75,7.39
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2011,5.27,7.54,5.3,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2011,12.47,16.76,17.15,19.08
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2011,5.62,11.8,6.3,11.8
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2011,NA,NA,NA,73.97
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2011,9.1,10.28,7.3,10.28
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2011,4.88,5.44,5,5.88
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.02083333,72.65138889,Arbudanagar_Pz_III,"Tube Well",W07665,2011,NA,NA,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2011,6.86,6.63,7.81,8.22
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2011,NA,6.82,NA,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2011,1.08,2.46,3.04,3.7
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.005,72.59777778,Kankariya_Pz_I,"Tube Well",W18986,2011,101.8,NA,104.62,105.14
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2011,89.05,90.15,123.41,96.66
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2011,93.45,92.5,94.97,99.2
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2011,92.49,88.01,94.11,101.74
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2011,16.79,17.74,20.63,18.67
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2011,26.21,29.7,NA,32.17
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-I,"Tube Well",W21859,2011,31.2,41.05,33.15,34.96
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_I,"Tube Well",W21861,2011,60,66.4,56.9,70.67
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2011,36.5,34.6,NA,58.75
+GJ,Ahmadabad,Daskroi,Daskroi,22.95305556,72.61583333,"Vatwa Pz-1","Tube Well",W20651,2011,NA,78.12,NA,83.1
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2011,NA,NA,57.72,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2011,26.2,NA,27.01,32.78
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2011,5.01,6.18,5.27,6.62
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2011,5.25,13.95,13.95,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2010,1.33,4.07,1.35,4
+GJ,Ahmadabad,Bavla,Bavla,22.64166667,72.21388889,Bagodara_Pz_I,"Tube Well",W22033,2010,6.25,NA,5.5,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2010,4.3,4.22,2.66,4.91
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2010,1.5,3.51,1.14,3.03
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2010,7.02,9.27,6.53,8.85
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2010,'0.96,5.99,1.9,5.26
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2010,16.6,NA,17.16,21.4
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2010,7.45,22.3,8.38,22.3
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2010,89.2,NA,NA,97.72
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2010,'0.85,2.33,'0.67,3.19
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2010,3.27,9.21,3.22,6.97
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2010,6.47,6.31,5.95,6.85
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2010,14.2,15.03,14.85,15.14
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2010,1.95,6.04,2.74,5.66
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2010,'0.47,7.53,1.65,8.17
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2010,7.85,11.78,3.8,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2010,14,17.97,14.15,21.2
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2010,8.85,NA,8.71,11.8
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2010,62.74,76.55,NA,73.9
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2010,9.38,NA,8.23,10.28
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2010,4.65,7.03,6.64,7.18
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2010,7.45,6.55,6.14,8.95
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2010,2.1,10.1,6.98,7.3
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2010,1,8.04,1.96,7.4
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.005,72.59777778,Kankariya_Pz_I,"Tube Well",W18986,2010,NA,105.85,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2010,87.16,100.05,86.18,97.55
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2010,69.73,80.27,50.19,99.45
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2010,93.22,95.19,90.26,97.47
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2010,16.39,21.69,16.82,18.49
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2010,25.97,29.45,24.47,28.82
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-I,"Tube Well",W21859,2010,32.34,38.12,33.25,37.18
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_I,"Tube Well",W21861,2010,57.03,73.65,58.06,65.8
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2010,34.75,39.39,37.7,56.5
+GJ,Ahmadabad,Daskroi,Daskroi,22.95305556,72.61583333,"Vatwa Pz-1","Tube Well",W20651,2010,81.22,NA,106.24,91.79
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2010,26.8,32.95,NA,31.24
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2010,13.95,13.95,13.95,13.95
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2009,3.04,3.02,3.27,3.29
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2009,13.95,6.89,13.95,13.95
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2009,3.77,2.92,3.95,3.85
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2009,3.25,1.95,3.39,3.65
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2009,NA,5.36,NA,7.89
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2009,7.8,6.93,7.94,6.85
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2009,3.5,2.81,4.59,3.54
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2009,21.31,20.22,NA,20.8
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2009,10.32,8.02,18.43,10.25
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2009,NA,NA,NA,99.28
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2009,1.55,1.38,1.8,2.67
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2009,8.35,2.36,8.23,11.15
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2009,5.8,5.61,6.62,6.05
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2009,NA,NA,14.98,13
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2009,4.87,3.7,4.83,4.43
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2009,4.79,6.87,6.54,7.57
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2009,5.18,4.81,10.37,11.23
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2009,14.4,16.1,17.19,17.25
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2009,11.8,5.42,11.8,11.8
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2009,80.1,71.8,74.58,70.75
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2009,NA,5.51,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2009,10.28,8.02,10.28,10.28
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2009,4.43,4.28,6.25,4.68
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2009,NA,88.38,NA,87.58
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2009,4.5,4.06,6.15,5.65
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2009,5.69,5.3,6.68,6.6
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2009,5.08,5.09,6.1,5.92
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.005,72.59777778,Kankariya_Pz_I,"Tube Well",W18986,2009,102.9,99.68,103.7,101.41
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2009,91.85,91.75,97.55,94.4
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2009,69.63,77.65,77.45,78.55
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2009,71.11,NA,92.39,NA
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2009,16.93,18.63,17.39,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2009,NA,28.1,27.4,25.94
+GJ,Ahmadabad,Daskroi,Daskroi,22.91861111,72.48777778,Visalpur_Pz-I,"Tube Well",W21859,2009,NA,NA,36.03,NA
+GJ,Ahmadabad,Sanand,Sanand,22.9875,72.20416667,Jholapur_Pz_I,"Tube Well",W21861,2009,NA,NA,69.5,NA
+GJ,Ahmadabad,Viramgam,Viramgam,23.08888889,72.01666667,Hansalpur_Pz-I,"Tube Well",W21864,2009,NA,NA,35.11,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95305556,72.61583333,"Vatwa Pz-1","Tube Well",W20651,2009,91.75,85.69,83.49,96.89
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2009,NA,NA,20.19,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2009,31.05,31.93,30.87,31.19
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2008,80.85,96.44,80.28,76.02
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2008,3.75,4.83,NA,NA
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2008,NA,19.35,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2008,24.02,30.6,24.5,27.26
+GJ,Ahmadabad,Daskroi,Daskroi,22.95305556,72.61583333,"Vatwa Pz-1","Tube Well",W20651,2008,83.39,NA,82,85.8
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2008,NA,56.69,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2008,33.39,33.94,32.37,33.41
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.04138889,72.59083333,"Hazipur Garden_Pz_III","Tube Well",W07667,2008,18.48,20.18,18.65,19.55
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2008,4.54,5.06,3.68,6.5
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2008,5.23,5.8,4.67,6.61
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2008,NA,5.4,4.75,5.7
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.005,72.59777778,Kankariya_Pz_I,"Tube Well",W18986,2008,102.02,107.7,101.37,103.92
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2008,86.05,94.98,89.06,95.81
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2008,4.5,NA,4.05,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2008,65.6,73.8,67.45,73.01
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2008,6.1,8.62,4.83,9.8
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2008,5.03,10.28,7.25,10.28
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2008,7.02,5.25,3.2,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2008,104.7,85.47,84.9,85.4
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2008,'0.99,4.78,1.17,6.77
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2008,5.87,6.11,NA,6.48
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2008,14.87,12.86,NA,14.99
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2008,2.69,3.57,2.91,4.13
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2008,3.37,7.7,5.82,8.16
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2008,7.35,4.38,3.6,14
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2008,15.65,13.67,9.55,19.65
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2008,6.1,10.45,6.31,NA
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2008,1.76,2.74,1.7,5
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2008,NA,21.18,NA,20.01
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2008,7.43,9.15,5.4,9.7
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2008,104.53,NA,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2008,'0.8,1.39,1.25,2.53
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2008,1.7,2.17,1.59,3.22
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2008,7.9,6.54,5.65,8.1
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2008,3.15,3.15,2.6,4.25
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2008,1.25,1.43,1.65,NA
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2008,NA,98.35,NA,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2007,79.05,104.94,76.95,105.61
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2007,NA,5.4,3.91,5.72
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2007,17.07,17.26,17.33,18.89
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2007,29.06,34.11,26.72,32.12
+GJ,Ahmadabad,Daskroi,Daskroi,22.95305556,72.61583333,"Vatwa Pz-1","Tube Well",W20651,2007,87.28,96.08,86.85,92.79
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2007,59.55,64.41,57.43,63.65
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2007,36.15,37.84,34.14,37.63
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.02083333,72.65138889,Arbudanagar_Pz_III,"Tube Well",W07665,2007,29.35,32.29,NA,32.5
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.04138889,72.59083333,"Hazipur Garden_Pz_III","Tube Well",W07667,2007,20.2,21.68,20.05,22.95
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2007,5.44,7.5,4.7,7.75
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2007,4.89,5.68,5.31,7.24
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2007,3.79,4.38,5.7,5.56
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.005,72.59777778,Kankariya_Pz_I,"Tube Well",W18986,2007,107.62,107.1,103.93,112.07
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2007,89.2,95.68,91.08,97.69
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2007,6.64,11.8,11.8,11.8
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2007,67.32,72.08,67.05,70.91
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2007,5.73,8.56,5.59,9.2
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2007,8.87,10.28,8.32,10.28
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2007,4.16,7.44,4.84,6.95
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,2007,NA,98.3,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2007,92.59,88.97,92.71,92.59
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2007,2.09,7.57,1.87,9.57
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2007,5.27,9.6,5.92,8.1
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2007,NA,9.96,14.47,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2007,1.17,3.23,3.79,4.01
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2007,4.29,9.88,5.22,8.54
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2007,2.41,11.2,NA,14
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2007,9.62,17.89,9.7,21.6
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2007,5.46,6.78,7.26,6.83
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2007,'0.99,2.98,1.66,3.74
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2007,18.08,19.74,19.2,19.98
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2007,2.8,14.45,10.6,15.81
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2007,NA,3.75,'0.92,2.35
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2007,'0.47,2.2,2.01,3.29
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2007,8.28,13.1,6.19,13.95
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2007,3.24,4.07,2.68,5.06
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2007,NA,2.85,'0.87,3.85
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2007,96.55,98.65,97.16,NA
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2006,111.6,100.74,103.3,105.32
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2006,2.51,5.4,3.97,5.97
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2006,16.57,17.92,17.19,18.84
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2006,31.48,39.01,31.57,35.73
+GJ,Ahmadabad,Daskroi,Daskroi,22.95305556,72.61583333,"Vatwa Pz-1","Tube Well",W20651,2006,91.08,91.69,91.13,94.47
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2006,67.18,79.35,65.06,69
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2006,39.73,42.21,36.76,43.14
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.02083333,72.65138889,Arbudanagar_Pz_III,"Tube Well",W07665,2006,27.94,30.51,28.09,35.7
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.04138889,72.59083333,"Hazipur Garden_Pz_III","Tube Well",W07667,2006,21.52,28.59,21.73,23.47
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2006,6.94,7.76,7.34,9.35
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2006,4.36,4.24,5.23,6.81
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2006,1.71,3.85,3.35,5.04
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.005,72.59777778,Kankariya_Pz_I,"Tube Well",W18986,2006,110.53,108.49,NA,113.14
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2006,90.37,95.79,91.48,96.24
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2006,11.8,11.8,11.8,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2006,61.93,91.72,65.98,70.88
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2006,6.76,9.53,7.3,10.7
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2006,9.85,10.28,10.28,NA
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2006,5.8,7.41,5.7,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,2006,104.15,NA,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2006,85.79,85.09,101.05,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2006,3.57,5.36,NA,5.91
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2006,6.6,8.32,7.41,8.77
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2006,NA,13.9,13.07,14.27
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2006,'0.78,3.27,2.96,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2006,2.63,6.66,NA,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2006,2.73,6.33,4.62,11.47
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2006,1.13,14.57,14.93,20.95
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2006,6.25,9.14,5.9,8.7
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2006,1.12,2.45,2.59,4.08
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2006,12.72,18.07,18.51,18.72
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2006,3.77,19.4,NA,12.13
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.05527778,72.47583333,Shilaj_Pz_III,"Tube Well",W08198,2006,11.98,15.45,NA,14.63
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2006,'0.91,1.78,1.12,2.43
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2006,'0.25,2.28,1.9,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2006,6.65,7.63,7.58,9.66
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2006,3.72,4.45,3.7,13.89
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2006,NA,1.49,'0.88,NA
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2006,104.04,101.06,100.81,103.98
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.0725,72.60416667,"Ahmedabad cant_Pz_1","Tube Well",W20357,2005,103.8,NA,98.83,107.35
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2005,NA,6.21,5.3,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.8475,72.53944444,Vasai_Pz_I,"Tube Well",W20360,2005,44,NA,39.43,49
+GJ,Ahmadabad,Daskroi,Daskroi,22.95305556,72.61583333,"Vatwa Pz-1","Tube Well",W20651,2005,NA,NA,92.18,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95333333,72.61611111,"Vatwa Pz-2","Tube Well",W20652,2005,NA,NA,77.41,NA
+GJ,Ahmadabad,Daskroi,Daskroi,22.95361111,72.61638889,"Vatwa Pz-3","Tube Well",W20653,2005,NA,NA,41.68,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.02083333,72.65138889,Arbudanagar_Pz_III,"Tube Well",W07665,2005,26.17,31.66,29.79,37.08
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.04138889,72.59083333,"Hazipur Garden_Pz_III","Tube Well",W07667,2005,26.8,27.77,24.44,29.3
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2005,10.9,12.1,8.68,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2005,NA,8.76,3.02,10.95
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2005,2.47,NA,2.71,NA
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.005,72.59777778,Kankariya_Pz_I,"Tube Well",W18986,2005,NA,108.74,109.32,112.1
+GJ,Ahmadabad,Daskroi,Daskroi,23.03388889,72.44972222,Ghuma_Pz_I,"Tube Well",W18991,2005,92.5,96.2,92.2,101.03
+GJ,Ahmadabad,Daskroi,Daskroi,23.08111111,72.51361111,Sola(HC)_Pz_I,"Tube Well",W18997,2005,107.3,90.89,103.65,108.8
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2005,14.15,18.35,NA,22.15
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2005,6.9,11.8,9.64,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2005,67.94,NA,69.2,78.16
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2005,NA,14.2,12.29,NA
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2005,11.38,NA,10.28,NA
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2005,9.17,10.05,7.24,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,2005,27.1,29.96,NA,29.65
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,2005,103.8,20.78,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2005,NA,NA,87.27,101.43
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2005,1.19,6.47,1.67,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2005,NA,NA,7.75,NA
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2005,NA,14.31,13.93,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2005,2.86,4.97,2.83,7.46
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2005,3.98,8.57,5.71,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2005,14,14,14,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2005,11.55,11.32,9.3,NA
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2005,2.67,4.51,2.33,4.56
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2005,9.77,25.57,11.67,10.16
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2005,NA,20.71,22.3,20.83
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.05527778,72.47583333,Shilaj_Pz_III,"Tube Well",W08198,2005,NA,22.76,NA,21.95
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2005,NA,NA,93.68,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.05138889,72.5125,Thaltej_Pz_III,"Tube Well",W08202,2005,NA,5.84,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2005,NA,2.05,1.82,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2005,1.58,4.22,1.5,4.69
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.09555556,72.53777778,Gota_Pz_III,"Tube Well",W07676,2005,NA,20.6,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2005,9.5,NA,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2005,6.1,NA,4.47,7.25
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2005,NA,3.5,1.9,NA
+GJ,Ahmadabad,"Ahmedabad City","Ahmadabad City",23.07277778,72.60444444,"Ahmedabad cant_Pz_2","Tube Well",W20358,2005,20.07,NA,17.72,21.2
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.02083333,72.65138889,Arbudanagar_Pz_III,"Tube Well",W07665,2004,NA,NA,28.84,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2004,10.74,11.48,8.24,11.24
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2004,12.33,13.76,NA,14.5
+GJ,Ahmadabad,Bavla,Barwala,22.15027778,71.89194444,Barvala-1,"Dug Well",W07669,2004,NA,NA,NA,18.5
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,2004,NA,5.75,NA,NA
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,2004,NA,6.33,NA,NA
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,2004,NA,2.05,NA,2.66
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03861111,72.45777778,Bopal_Pz_III,"Tube Well",W07674,2004,NA,NA,6.24,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2004,3.4,1.45,NA,10.67
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2004,8.64,NA,7.68,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2004,NA,81.18,NA,62.7
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2004,NA,12.29,NA,13.18
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2004,NA,NA,10.28,NA
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2004,9.26,NA,NA,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,2004,NA,30.2,28.15,28.6
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2004,NA,NA,91.48,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2004,1.3,2.9,5.85,5.9
+GJ,Ahmadabad,Dholka,Dhandhuka,22.36027778,71.86805556,Vagad(Repl)_Pz,"Tube Well",W08207,2004,NA,NA,9.48,NA
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2004,NA,13.71,NA,13.8
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2004,1.53,5.59,4.28,6.13
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,2004,NA,8.67,NA,13.59
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2004,NA,7.66,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,2004,NA,7.27,NA,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2004,11.15,NA,NA,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2004,14.22,20,16.69,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,2004,6.06,14.66,NA,NA
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2004,4.08,5.21,4.06,7.72
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03611111,72.53111111,"Shahpur(a,bad)","Dug Well",W08194,2004,NA,NA,20.81,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03833333,72.52972222,Vastrapur_lake_II(2),"Tube Well",W08195,2004,NA,NA,14.54,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2004,8.1,20.35,21.11,20.35
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.05527778,72.47583333,Shilaj_Pz_III,"Tube Well",W08198,2004,NA,NA,20.74,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2004,NA,NA,93.42,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2004,NA,1.96,'0.48,2.7
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2004,2.86,1.22,3.95,5.09
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.09555556,72.53777778,Gota_Pz_III,"Tube Well",W07676,2004,NA,NA,18.98,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.42638889,71.99305556,Adawal,"Dug Well",W07677,2004,NA,3.35,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.28333333,72.16666667,Bhariyad,"Dug Well",W07680,2004,NA,NA,NA,2.05
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2004,11.82,12.04,11.15,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2004,7.42,8.54,6.9,8.64
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2004,1.38,2.35,'0.1,3.9
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,2004,NA,6.43,NA,NA
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2004,NA,6.67,NA,6.96
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.04138889,72.59083333,"Hazipur Garden_Pz_III","Tube Well",W07667,2004,NA,NA,28.7,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07083333,72.54166667,Ghatlodia,"Dug Well",W07666,2003,NA,15.7,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2003,11.59,11.16,11.32,NA
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,2003,7.3,NA,4.52,NA
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,2003,7.24,7.22,8.26,6.68
+GJ,Ahmadabad,Bopal,Bavla,22.69166667,72.24166667,Bhamsara,"Dug Well",W07672,2003,NA,NA,NA,NA
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,2003,NA,2.05,3.12,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2003,NA,9.19,4.99,NA
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2003,11.25,NA,NA,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2003,66.32,NA,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2003,11.5,15.17,10.82,14.22
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,2003,27.66,31.86,29.69,29.67
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,2003,23.6,26.16,NA,25.91
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2003,97.12,95.22,NA,97.33
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2003,12.88,NA,13.12,NA
+GJ,Ahmadabad,Gota,Mandal,23.28333333,71.925,Mandal-1,"Dug Well",W08211,2003,4.48,NA,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2003,4.81,6.33,5.23,5.73
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,2003,8.98,NA,7.23,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2003,5.42,NA,6.69,NA
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,2003,7.62,9.09,7.35,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2003,15.7,21.95,18.43,20.35
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,2003,10.85,15.2,14.27,NA
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2003,4.69,8.94,5.29,10.21
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2003,10.1,19.68,20.62,19.44
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2003,88.15,91.21,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2003,1.4,2.73,1.59,3.24
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2003,1.87,3.88,2.07,7.2
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2003,4.61,NA,4.24,5.37
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2003,NA,NA,10.71,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2003,9.25,9.54,8.42,10.1
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2003,NA,2.37,1.8,3.3
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,2003,NA,17.87,NA,17.98
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2003,NA,7.47,5.78,18.34
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2003,14.16,15.09,13.57,15.9
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07083333,72.54166667,Ghatlodia,"Dug Well",W07666,2002,NA,14.4,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2002,15.82,5.28,15.15,18.3
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,2002,NA,5.25,NA,7.25
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,2002,6,NA,7.85,6.7
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,2002,1,1.3,1.3,'0.3
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2002,8.04,6.5,NA,8.18
+GJ,Ahmadabad,Jodhpur,Ranpur,22.35416667,71.7125,Ranpur2,"Dug Well",W08218,2002,9.4,NA,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2002,NA,NA,9.92,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2002,NA,NA,NA,72.18
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2002,11.8,11.8,13.34,13.1
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,2002,NA,NA,NA,12.6
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2002,NA,NA,10.1,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,2002,NA,30.4,31.18,32.75
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,2002,NA,27.62,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2002,93.73,90.58,94.46,92.53
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2002,NA,NA,12.69,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2002,6,5.46,6.15,6.03
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,2002,NA,8.89,NA,12.64
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2002,19.52,NA,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,2002,8.38,7.25,8.99,8.25
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2002,8.4,NA,NA,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2002,15.95,17.05,19.21,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,2002,11,14.85,14.59,NA
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2002,7.91,5.81,8.74,7.41
+GJ,Ahmadabad,Lambha,Viramgam,23.08333333,72.06666667,Hansalpur,"Dug Well",W07690,2002,14.95,NA,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2002,7.55,18.45,20.87,20.35
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2002,85.43,86.49,NA,86.36
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2002,NA,1.83,2.29,2.48
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2002,2.47,3.52,3.01,6.67
+GJ,Ahmadabad,Lambha,Viramgam,23.125,72.05416667,Viramgam-1,"Dug Well",W08231,2002,NA,3.7,NA,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2002,4.58,NA,4.83,4.55
+GJ,Ahmadabad,Dholka,Dhandhuka,22.42638889,71.99305556,Adawal,"Dug Well",W07677,2002,1.8,3.4,3.09,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.28333333,72.16666667,Bhariyad,"Dug Well",W07680,2002,15.95,NA,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2002,NA,NA,12.51,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2002,10.2,10.3,8.49,10.1
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2002,1.8,2.24,'0.2,2.8
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,2002,NA,17.2,16.82,16.8
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2002,NA,9.3,17.74,10.55
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2002,14.6,11,11.8,11.38
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07083333,72.54166667,Ghatlodia,"Dug Well",W07666,2001,13.02,13.8,13.7,14.3
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2001,9.7,11,10.39,NA
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,2001,2.63,NA,4.15,5.4
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,2001,4.59,7.3,NA,5.8
+GJ,Ahmadabad,Bopal,Bavla,22.69166667,72.24166667,Bhamsara,"Dug Well",W07672,2001,NA,NA,NA,3.21
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,2001,NA,1.6,'0.15,1.96
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2001,4.62,4.7,5.55,5.5
+GJ,Ahmadabad,Jodhpur,Ranpur,22.35416667,71.7125,Ranpur2,"Dug Well",W08218,2001,7.07,NA,10.65,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2001,61.12,74.25,73.23,NA
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2001,9.61,13.05,9.7,11.71
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,2001,7.3,NA,8.2,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.04583333,72.04166667,"Thori mubarak","Dug Well",W08226,2001,1.25,NA,NA,'0.66
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,2001,24.08,NA,26.6,24.96
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,2001,NA,NA,NA,31.02
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.01194444,72.52916667,"Anand Nagar","Tube Well",W07664,2001,NA,NA,90.26,NA
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2001,11.25,NA,NA,11.91
+GJ,Ahmadabad,Gota,Mandal,23.28333333,71.925,Mandal-1,"Dug Well",W08211,2001,3.55,NA,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2001,NA,6.13,4.84,6.98
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,2001,6.3,12.59,6.4,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2001,4.92,NA,NA,10.89
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,2001,6.16,8,6.35,9.95
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,2001,1.95,NA,22.2,11.57
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2001,11.85,NA,15.95,18.25
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,2001,8.65,NA,13.1,NA
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2001,2.54,5.21,3.33,7.06
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03611111,72.53111111,"Shahpur(a,bad)","Dug Well",W08194,2001,NA,11.99,NA,18.85
+GJ,Ahmadabad,Bavla,Barwala,22.12083333,71.89583333,Rampara,"Dug Well",W08196,2001,NA,NA,NA,30.3
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2001,3.91,NA,20.5,14.95
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2001,83.58,81.27,85.58,78.83
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2001,'0.82,NA,1.48,2.71
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29166667,71.95833333,Tagadi-2,"Dug Well",W08205,2001,2.75,NA,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2001,NA,NA,6.82,7.77
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2001,3.22,4.1,3.7,4.4
+GJ,Ahmadabad,Dholka,Dhandhuka,22.42638889,71.99305556,Adawal,"Dug Well",W07677,2001,1.54,NA,2.74,2.7
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,2001,5.01,NA,11.65,4.85
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2001,11.47,NA,10.6,12.55
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2001,'0.07,NA,2.45,NA
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,2001,14.6,NA,4.95,NA
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2001,5.97,NA,9.3,23.04
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2001,16.23,NA,4.95,20.8
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07083333,72.54166667,Ghatlodia,"Dug Well",W07666,2000,11.1,14.42,13.17,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,2000,9.35,9,10,NA
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,2000,3.15,5.35,5.85,5.95
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,2000,4.3,4.85,4.9,4.38
+GJ,Ahmadabad,Bopal,Bavla,22.69166667,72.24166667,Bhamsara,"Dug Well",W07672,2000,3.01,NA,NA,NA
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,2000,NA,2.63,'0.7,2.64
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,2000,3.1,4.6,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,2000,11.6,11.82,NA,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,2000,62.8,NA,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,2000,9.82,11.65,12.25,10.88
+GJ,Ahmadabad,Lambha,Viramgam,23.04583333,72.04166667,"Thori mubarak","Dug Well",W08226,2000,NA,2.4,NA,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,2000,10.37,25.7,28.46,25.75
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,2000,NA,10.91,NA,11.05
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,2000,5.14,NA,5.33,NA
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,2000,8.87,12.69,11.24,NA
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,2000,10.67,NA,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,2000,6.84,NA,7.75,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,2000,NA,19.47,18.15,21.45
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,2000,15.05,15.99,15.1,17.3
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,2000,3.78,4.79,4.95,6.79
+GJ,Ahmadabad,Lambha,Viramgam,23.02333333,72.16666667,Godhavi,"Dug Well",W07689,2000,5.59,7.92,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03611111,72.53111111,"Shahpur(a,bad)","Dug Well",W08194,2000,19.35,NA,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,2000,18.5,20.25,21.05,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,2000,82.69,81.5,81.96,80.56
+GJ,Ahmadabad,Chandlodiya,Daskroi,22.9625,72.63333333,Vatwa,"Dug Well",W08203,2000,NA,5,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,2000,2.63,2.76,2.88,3.08
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,2000,10.3,4.77,7.75,10.17
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,2000,3.27,3.68,3.9,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.42638889,71.99305556,Adawal,"Dug Well",W07677,2000,2.21,NA,4.2,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.28333333,72.16666667,Bhariyad,"Dug Well",W07680,2000,NA,NA,4.25,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,2000,11,11.25,NA,13.47
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,2000,4.65,4.1,4.4,5.8
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,2000,14.98,16.02,17.4,15.32
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,2000,7.29,7.65,8.5,7.7
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,2000,16.8,16.3,18.6,17.93
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,1999,20.4,17.85,16.71,21.16
+GJ,Ahmadabad,Lambha,Viramgam,23.08333333,72.06666667,Hansalpur,"Dug Well",W07690,1999,5.6,NA,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,1999,14,19.8,10.34,11.9
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,1999,60.2,63.9,NA,59.15
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,1999,9.27,11.95,10.73,10.67
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,1999,8.25,11.38,NA,9.61
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,1999,11.64,10,8.1,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.04583333,72.04166667,"Thori mubarak","Dug Well",W08226,1999,13.3,NA,NA,12.28
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,1999,21.3,23.1,1,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07083333,72.54166667,Ghatlodia,"Dug Well",W07666,1999,11.3,13.52,13.72,15.04
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,1999,15.67,13.58,15.49,14.71
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,1999,NA,4.97,4.59,5.37
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,1999,NA,4.32,4.41,5.18
+GJ,Ahmadabad,Bopal,Bavla,22.69166667,72.24166667,Bhamsara,"Dug Well",W07672,1999,NA,5.65,NA,5.65
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,1999,NA,'0.7,'0.46,4.87
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,1999,2.8,4.98,3.99,6.08
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03333333,72.56666667,Navrangpura,"Dug Well",W08193,1999,15.8,15.8,NA,15.8
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03611111,72.53111111,"Shahpur(a,bad)","Dug Well",W08194,1999,22.73,21.19,NA,NA
+GJ,Ahmadabad,Bavla,Barwala,22.12083333,71.89583333,Rampara,"Dug Well",W08196,1999,29.33,29.33,NA,29.33
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,1999,20.37,20.75,20.49,20.52
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,1999,75.25,72.61,79.55,72.11
+GJ,Ahmadabad,Chandlodiya,Daskroi,22.9625,72.63333333,Vatwa,"Dug Well",W08203,1999,4.1,NA,4.92,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,1999,1.93,1.95,2.37,2.62
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29166667,71.95833333,Tagadi-2,"Dug Well",W08205,1999,3.8,NA,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,1999,3.41,1.85,3.77,4.02
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,1999,NA,12.15,NA,9.73
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.46388889,72.29666667,Koth-2,"Tube Well",W08209,1999,NA,11.62,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.28333333,71.925,Mandal-1,"Dug Well",W08211,1999,6.03,NA,NA,NA
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,1999,4.18,3.85,4.6,4.47
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,1999,10.59,4.47,11.76,8.32
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,1999,11.22,8.47,NA,12.41
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,1999,5.3,4.33,5.65,5.55
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,1999,14.7,14.7,NA,14.7
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,1999,2.86,3.17,3.4,3.78
+GJ,Ahmadabad,Lambha,Viramgam,22.99166667,72.03333333,Watchafalia,"Dug Well",W08233,1999,9.9,14.8,NA,9.9
+GJ,Ahmadabad,Dholka,Dhandhuka,22.42638889,71.99305556,Adawal,"Dug Well",W07677,1999,1.98,2.9,3.56,4.58
+GJ,Ahmadabad,Dholka,Dhandhuka,22.44166667,72.00138889,Adwal,"Dug Well",W07678,1999,NA,3.35,3.56,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.28333333,72.16666667,Bhariyad,"Dug Well",W07680,1999,2.17,'0.83,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,1999,14.35,11.28,NA,14.35
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,1999,13.1,11.22,11.85,13.06
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,1999,2.9,1.58,3.55,2.98
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,1999,14.4,13.69,15.12,13.59
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,1999,2.7,NA,5.12,5.76
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,1999,8.45,6.8,9.57,7.46
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,1999,16.7,15.1,15.6,16.7
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,1999,3.16,3.06,4.06,4.79
+GJ,Ahmadabad,Lambha,Viramgam,23.02333333,72.16666667,Godhavi,"Dug Well",W07689,1999,5.78,NA,NA,10.32
+GJ,Ahmadabad,Jodhpur,Ranpur,22.35416667,71.7125,Ranpur2,"Dug Well",W08218,1999,14.85,14.85,NA,14.85
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,1998,18.5,16.45,17.25,21.55
+GJ,Ahmadabad,Lambha,Viramgam,23.08333333,72.06666667,Hansalpur,"Dug Well",W07690,1998,5.6,NA,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,1998,10.95,NA,10.3,11
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,1998,11.38,8.56,11.38,11.38
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,1998,8.1,NA,10,11.64
+GJ,Ahmadabad,Lambha,Viramgam,23.04583333,72.04166667,"Thori mubarak","Dug Well",W08226,1998,13.3,NA,13.3,NA
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,1998,19.2,23.78,18.3,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07083333,72.54166667,Ghatlodia,"Dug Well",W07666,1998,13.2,NA,13,14.1
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,1998,15,17.4,13.7,14.75
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,1998,4.77,4.28,4.95,5.55
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,1998,4.33,4.88,4.35,4.4
+GJ,Ahmadabad,Bopal,Bavla,22.69166667,72.24166667,Bhamsara,"Dug Well",W07672,1998,4.61,3.82,3.46,5.65
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,1998,NA,1.6,'0.1,2.65
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,1998,NA,2.82,4.85,4.32
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03333333,72.56666667,Navrangpura,"Dug Well",W08193,1998,15.8,NA,15.8,15.8
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03611111,72.53111111,"Shahpur(a,bad)","Dug Well",W08194,1998,NA,NA,20.95,NA
+GJ,Ahmadabad,Bavla,Barwala,22.12083333,71.89583333,Rampara,"Dug Well",W08196,1998,29.33,29.33,29.33,29.33
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,1998,12.45,20.7,20.85,20.56
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,1998,NA,NA,70.9,NA
+GJ,Ahmadabad,Chandlodiya,Daskroi,22.9625,72.63333333,Vatwa,"Dug Well",W08203,1998,NA,NA,9.22,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,1998,'0.82,1.66,1.3,2.28
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29166667,71.95833333,Tagadi-2,"Dug Well",W08205,1998,3.8,NA,NA,3.8
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,1998,1.77,2.88,1.12,5.57
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,1998,NA,10.22,9.8,10.47
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.46388889,72.29666667,Koth-2,"Tube Well",W08209,1998,11,10.43,9.6,NA
+GJ,Ahmadabad,Gota,Mandal,23.28333333,71.925,Mandal-1,"Dug Well",W08211,1998,NA,NA,NA,4.35
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,1998,4.23,6.13,2.68,NA
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,1998,6.27,12.59,4.29,9.62
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,1998,6.97,10.17,5.57,11.61
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,1998,5.67,8,4.08,NA
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,1998,12,10.06,14.7,14.7
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,1998,3.5,4.1,2.8,3.3
+GJ,Ahmadabad,Lambha,Viramgam,22.99166667,72.03333333,Watchafalia,"Dug Well",W08233,1998,9.9,11.07,12,9.9
+GJ,Ahmadabad,Dholka,Dhandhuka,22.42638889,71.99305556,Adawal,"Dug Well",W07677,1998,3.3,3.21,2.45,4.58
+GJ,Ahmadabad,Dholka,Dhandhuka,22.44166667,72.00138889,Adwal,"Dug Well",W07678,1998,NA,NA,1.8,3.6
+GJ,Ahmadabad,Dholka,Dhandhuka,22.28333333,72.16666667,Bhariyad,"Dug Well",W07680,1998,1.25,NA,'0.35,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,1998,14.35,14.35,10.2,14.35
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,1998,10.44,11.21,9.45,11.1
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,1998,1.85,2.57,'0.8,2.5
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,1998,12.97,11.38,12.05,12.66
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,1998,3.1,4.93,4.12,5.7
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,1998,9.8,11,6.4,7.15
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,1998,15.3,15.25,13.85,13.65
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,1998,9.31,5.21,4.61,5.11
+GJ,Ahmadabad,Lambha,Viramgam,23.02333333,72.16666667,Godhavi,"Dug Well",W07689,1998,NA,7.08,NA,7.65
+GJ,Ahmadabad,Jodhpur,Ranpur,22.35416667,71.7125,Ranpur2,"Dug Well",W08218,1998,14.85,13.06,12.8,14.85
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,1997,13.15,15.4,14.64,21.28
+GJ,Ahmadabad,Jodhpur,Ranpur,22.35416667,71.7125,Ranpur2,"Dug Well",W08218,1997,8.31,14.85,10.2,14.85
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,1997,9.1,11.36,9.15,NA
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,1997,54.1,NA,58.78,NA
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,1997,NA,10.46,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,1997,10,11.38,9.3,9.15
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,1997,6.2,NA,11.64,11.64
+GJ,Ahmadabad,Lambha,Viramgam,23.04583333,72.04166667,"Thori mubarak","Dug Well",W08226,1997,NA,'0.41,10.05,12.14
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,1997,NA,23.61,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,1997,NA,85.55,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07083333,72.54166667,Ghatlodia,"Dug Well",W07666,1997,11.45,13.26,12.2,13.75
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,1997,13.84,9.76,15.6,15.83
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,1997,2.47,NA,3.25,4.98
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,1997,3.71,5.2,3.5,4.92
+GJ,Ahmadabad,Bopal,Bavla,22.69166667,72.24166667,Bhamsara,"Dug Well",W07672,1997,NA,5.65,2.16,5.65
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,1997,NA,1.79,2.8,4.75
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,1997,'0.9,3.97,3.36,6.04
+GJ,Ahmadabad,Bavla,Barwala,22.12083333,71.89583333,Rampara,"Dug Well",W08196,1997,29.33,29.33,29.33,29.33
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,1997,NA,21.05,20.7,21.65
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,1997,63.5,64.8,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,1997,'0.84,2.72,1.82,2.77
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29166667,71.95833333,Tagadi-2,"Dug Well",W08205,1997,2.11,NA,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,1997,2.11,6.96,3.98,9.68
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,1997,9.7,11.84,NA,12.62
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.46388889,72.29666667,Koth-2,"Tube Well",W08209,1997,NA,12.17,NA,10.89
+GJ,Ahmadabad,Gota,Mandal,23.28333333,71.925,Mandal-1,"Dug Well",W08211,1997,NA,5.68,NA,5.21
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,1997,1.85,5.68,4.27,5.21
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,1997,5.34,NA,4.65,10.75
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,1997,4.49,13.14,NA,14
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,1997,3.94,NA,4.19,7
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,1997,10.91,10.5,5.68,14.7
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,1997,1.81,NA,2.5,3.96
+GJ,Ahmadabad,Lambha,Viramgam,22.99166667,72.03333333,Watchafalia,"Dug Well",W08233,1997,NA,9.9,9.95,9.9
+GJ,Ahmadabad,Dholka,Dhandhuka,22.42638889,71.99305556,Adawal,"Dug Well",W07677,1997,1.56,NA,2.65,4.58
+GJ,Ahmadabad,Dholka,Dhandhuka,22.44166667,72.00138889,Adwal,"Dug Well",W07678,1997,'0.95,6.35,2.65,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.28333333,72.16666667,Bhariyad,"Dug Well",W07680,1997,NA,NA,NA,4.47
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,1997,11.09,11.85,10.08,14.35
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,1997,NA,11.18,12.18,12.94
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,1997,'0.39,1.34,1.15,3.57
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,1997,11.8,5.2,10.5,13.75
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,1997,NA,5.6,NA,5.78
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,1997,6.7,NA,6.3,6.87
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,1997,12.55,15.79,13.79,16.7
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,1997,1.93,4.27,2.74,4.95
+GJ,Ahmadabad,Lambha,Viramgam,23.02333333,72.16666667,Godhavi,"Dug Well",W07689,1997,NA,NA,7.41,7.65
+GJ,Ahmadabad,Lambha,Viramgam,23.08333333,72.06666667,Hansalpur,"Dug Well",W07690,1997,NA,5.6,NA,5.6
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03333333,72.56666667,Navrangpura,"Dug Well",W08193,1997,15.8,15.8,15.8,15.8
+GJ,Ahmadabad,Jodhpur,Ranpur,22.35416667,71.7125,Ranpur2,"Dug Well",W08218,1996,14.85,14.85,18.4,14.85
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.03333333,72.56666667,Navrangpura,"Dug Well",W08193,1996,15.8,15.8,15.8,15.8
+GJ,Ahmadabad,Kali,Sanand,23.00333333,72.37361111,"Sanand I","Tube Well",W08220,1996,56.67,NA,NA,NA
+GJ,Ahmadabad,Kali,Sanand,22.84583333,72.13888889,Upardhal-2,"Tube Well",W08223,1996,9.65,NA,8.1,10.01
+GJ,Ahmadabad,Kali,Sanand,22.85,72.14583333,Upardhal-1,"Dug Well",W08224,1996,11.38,11.38,8.86,11.38
+GJ,Ahmadabad,Lambha,Viramgam,22.9,72.01666667,Kumarkhan-1,"Dug Well",W08225,1996,11.64,9.5,7.5,11.64
+GJ,Ahmadabad,Lambha,Viramgam,23.04583333,72.04166667,"Thori mubarak","Dug Well",W08226,1996,-0.65,2.05,NA,13.3
+GJ,Ahmadabad,Lambha,Viramgam,23.11861111,72.05333333,Ughraj-2,"Tube Well",W08227,1996,19,NA,19.95,20.83
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07222222,72.6125,"Ahmedabad cant","Tube Well",W07662,1996,76.11,72,NA,NA
+GJ,Ahmadabad,"Ahmedabad Cantonment","Ahmadabad City",23.07083333,72.54166667,Ghatlodia,"Dug Well",W07666,1996,12.67,13.5,12.11,15.05
+GJ,Ahmadabad,Bavla,Barwala,22.15,71.89166667,Barvala-2,"Dug Well",W07668,1996,14.09,13.05,14.2,13.85
+GJ,Ahmadabad,Bopal,Bavla,22.64166667,72.19583333,Bagodara,"Dug Well",W07670,1996,4.48,5.79,3.85,NA
+GJ,Ahmadabad,Bopal,Bavla,22.83333333,72.35833333,Baola,"Dug Well",W07671,1996,5.49,4.51,5.07,6.7
+GJ,Ahmadabad,Bopal,Bavla,22.69166667,72.24166667,Bhamsara,"Dug Well",W07672,1996,3.21,5.65,4.3,5.65
+GJ,Ahmadabad,Bopal,Bavla,22.75138889,72.31111111,Bhayala,"Dug Well",W07673,1996,6,2.54,6.4,3.45
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.03333333,72.44583333,Ghuma,"Dug Well",W07675,1996,4.55,3.97,4.1,5.28
+GJ,Ahmadabad,Bavla,Barwala,22.12083333,71.89583333,Rampara,"Dug Well",W08196,1996,NA,29.33,29.33,29.33
+GJ,Ahmadabad,Bavla,Barwala,22.15833333,71.77083333,Salangpor,"Dug Well",W08197,1996,20.95,20.56,20.85,22.75
+GJ,Ahmadabad,Chandlodiya,Daskroi,23.08055556,72.51861111,Sola,"Tube Well",W08199,1996,58.21,NA,NA,62.71
+GJ,Ahmadabad,Chandlodiya,Daskroi,22.9625,72.63333333,Vatwa,"Dug Well",W08203,1996,NA,NA,9.22,5.1
+GJ,Ahmadabad,Dholka,Dhandhuka,22.23222222,72.17888889,Pachcham,"Tube Well",W08204,1996,'0.85,NA,1.35,2.51
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29166667,71.95833333,Tagadi-2,"Dug Well",W08205,1996,3.65,7.36,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.29583333,71.94722222,Tagadi-1,"Dug Well",W08206,1996,7.65,7.36,5.87,11.87
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.63055556,72.29666667,Koth-1,"Tube Well",W08208,1996,11.09,NA,10.27,10.38
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.46388889,72.29666667,Koth-2,"Tube Well",W08209,1996,9.87,NA,10.36,10.52
+GJ,Ahmadabad,Gota,Mandal,23.28333333,71.925,Mandal-1,"Dug Well",W08211,1996,NA,NA,5.03,6.03
+GJ,Ahmadabad,Gota,Mandal,23.275,71.91666667,Mandal-2,"Dug Well",W08212,1996,NA,4.88,5.03,3.8
+GJ,Ahmadabad,Gota,Mandal,23.46666667,71.99972222,Sitapur,"Dug Well",W08213,1996,12.65,8.49,12.75,12.26
+GJ,Ahmadabad,Gota,Mandal,23.36666667,72.1,Ughraj-1,"Dug Well",W08214,1996,7.3,10.57,9.58,12.82
+GJ,Ahmadabad,Gota,Mandal,23.36944444,72.05416667,Vithalpur,"Dug Well",W08215,1996,6.7,6,6.44,6.93
+GJ,Ahmadabad,Jodhpur,Ranpur,22.26944444,71.7,Kundali,"Dug Well",W08216,1996,NA,9.65,14.7,14.7
+GJ,Ahmadabad,Jodhpur,Ranpur,22.30833333,71.69166667,Rajpada,"Dug Well",W08217,1996,18.05,18.25,21.3,21.15
+GJ,Ahmadabad,Lambha,Viramgam,23.125,72.05416667,Viramgam-1,"Dug Well",W08231,1996,NA,NA,NA,3.3
+GJ,Ahmadabad,Lambha,Viramgam,23.14166667,72.03333333,Viramgam-2,"Dug Well",W08232,1996,4.33,3.52,3.6,4.02
+GJ,Ahmadabad,Lambha,Viramgam,22.99166667,72.03333333,Watchafalia,"Dug Well",W08233,1996,NA,9.9,9.9,9.9
+GJ,Ahmadabad,Dholka,Dhandhuka,22.42638889,71.99305556,Adawal,"Dug Well",W07677,1996,3,3.48,NA,4.58
+GJ,Ahmadabad,Dholka,Dhandhuka,22.44166667,72.00138889,Adwal,"Dug Well",W07678,1996,3,3.48,NA,NA
+GJ,Ahmadabad,Dholka,Dhandhuka,22.12361111,72.20972222,Bhangadh,"Tube Well",W07679,1996,NA,NA,NA,10.1
+GJ,Ahmadabad,Dholka,Dhandhuka,22.28333333,72.16666667,Bhariyad,"Dug Well",W07680,1996,NA,NA,NA,4.2
+GJ,Ahmadabad,Dholka,Dhandhuka,22.37777778,71.98611111,Devalia,"Dug Well",W07681,1996,14.35,13.15,14.35,14.35
+GJ,Ahmadabad,Dholka,Dhandhuka,22.375,71.98611111,Dhandhuka1,"Dug Well",W07682,1996,NA,9.84,10.65,13.35
+GJ,Ahmadabad,Dholka,Dhandhuka,22.35833333,72.16666667,Gamph,"Dug Well",W07683,1996,1.15,2.14,2,3.8
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.67916667,72.36888889,Bavala,"Tube Well",W07684,1996,12.53,NA,12.45,12.95
+GJ,Ahmadabad,Ghatlodiya,Dholka,22.59861111,72.4875,Ingoli,"Tube Well",W07685,1996,3.28,NA,3.7,6
+GJ,Ahmadabad,Gota,Mandal,23.36666667,71.96666667,Dalod,"Dug Well",W07686,1996,7.4,7.9,7.93,7.75
+GJ,Ahmadabad,Jodhpur,Ranpur,22.22916667,71.84166667,Charanki,"Dug Well",W07687,1996,15.61,15.4,15.2,15.5
+GJ,Ahmadabad,Lambha,Mandal,23.27222222,72.05833333,Endla,"Dug Well",W07688,1996,4.75,6,2.74,7.33
+GJ,Ahmadabad,Lambha,Viramgam,23.02333333,72.16666667,Godhavi,"Dug Well",W07689,1996,NA,6.75,7.65,7.65
+GJ,Ahmadabad,Lambha,Viramgam,23.08333333,72.06666667,Hansalpur,"Dug Well",W07690,1996,NA,NA,5.6,5.6
+GJ,Ahmadabad,Kali,Sanand,22.90138889,72.22361111,Kumarkhan-2,"Dug Well",W08219,1996,9.1,11.72,11.27,11.9

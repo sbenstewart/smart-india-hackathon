@@ -1,0 +1,645 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2018,NA,8.84,3,NA
+CG,Mahasamund,Pithora,Pithora,21.275,82.73,Deori,"Dug Well",W31350,2018,NA,4.07,2.6,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2018,NA,3.24,2.19,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2018,NA,4.55,3.45,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2018,NA,5.84,4.58,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2018,NA,12.24,6.96,NA
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2018,NA,2.87,2.5,NA
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2018,1,1.9,NA,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2018,NA,8.78,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2018,NA,3.05,NA,NA
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2018,NA,NA,4.2,NA
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2018,NA,4.29,NA,NA
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2018,NA,NA,4.18,6.54
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,"Dug Well",W11847,2018,NA,NA,4.1,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2018,NA,NA,7.11,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.06694444,82.295,Bhimkhoj,"Dug Well",W26888,2018,NA,9,3.61,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,"Awaradawri S","Bore Well",W26904,2018,NA,11.44,5.2,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.07694444,82.14388889,Jhalkhamhariya,"Dug Well",W26898,2018,NA,15,3.36,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,"Dug Well",W26927,2018,NA,8.87,4.7,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22583333,82.25027778,Jogidipa,"Dug Well",W27015,2018,NA,5.42,3.74,NA
+CG,Mahasamund,Saraipali,Saraipali,21.3875,83.08055556,Marban,"Dug Well",W27098,2018,NA,3.92,5.19,NA
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,"Dug Well",W27103,2018,NA,3,2.8,NA
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-S PZ","Bore Well",W27054,2018,NA,10.22,5.95,NA
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2018,NA,4.36,3.05,NA
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2018,NA,9.26,6.68,NA
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2018,NA,3.92,4.53,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.08861111,82.11694444,Lavarakhurud,"Dug Well",W33434,2018,NA,5.12,3.9,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.20972222,82.14833333,Kowajhar,"Dug Well",W33444,2018,NA,5.61,2.96,NA
+CG,Mahasamund,BAGBAHARA,Mahasamund,21.1,82.21666667,Hadabandh,"Dug Well",W33183,2018,NA,NA,5.1,5.46
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,"Sirpur1 PZ","Bore Well",W27072,2018,5.41,11.16,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.16333333,82.02694444,Belsunda,"Dug Well",W26964,2018,1.53,4.12,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual D","Bore Well",W26925,2018,NA,15.46,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa D","Bore Well",W27012,2018,NA,7.66,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa S","Bore Well",W27013,2018,NA,7.21,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09888889,82.23611111,Nawagaon,"Dug Well",W26911,2018,NA,NA,5.22,6.51
+CG,Mahasamund,Basna,Basna,21.29055556,82.88138889,Barbaspur,"Dug Well",W27044,2018,NA,NA,3.41,4.7
+CG,Mahasamund,Mahasamund,Mahasamund,21.25,82.21666667,Jalki,"Dug Well",W32831,2018,NA,4.12,3.12,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,"Mahasamund-s PZ","Bore Well",W31325,2018,NA,8.24,6.61,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2018,NA,2.27,2.68,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2017,9.64,NA,12.64,24.9
+CG,Mahasamund,Bagbahara,Bagbahara,21.06694444,82.295,Bhimkhoj,"Dug Well",W26888,2017,NA,NA,7.81,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2017,4.08,7.13,NA,NA
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,2017,1.77,5.19,NA,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2017,1.81,5.49,7.7,9.53
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2017,3.36,6.29,4.04,10.9
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2017,1.17,3.62,1.84,4.95
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2017,1.29,3.24,2.61,7.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2017,2.12,3.37,3.78,8.6
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2017,3.75,5.81,4.69,7.1
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2017,1.27,3.26,2.43,4.45
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa S","Bore Well",W27013,2017,4.26,8.92,6.26,NA
+CG,Mahasamund,Saraipali,Saraipali,21.3875,83.08055556,Marban,"Dug Well",W27098,2017,1.51,3.41,1.81,NA
+CG,Mahasamund,Basna,Basna,21.29055556,82.88138889,Barbaspur,"Dug Well",W27044,2017,1.54,4.88,3.62,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual S","Bore Well",W26924,2017,NA,9.27,6.73,NA
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2017,1.15,2.1,1.35,5.13
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2017,4.64,9.18,8.44,18.77
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2017,1.42,3.94,3.54,5.8
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,"Awaradawri S","Bore Well",W26904,2017,5.48,8.13,10.07,15.95
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,"Sirpur1 PZ","Bore Well",W27072,2017,7.61,2.29,9.57,10.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.07694444,82.14388889,Jhalkhamhariya,"Dug Well",W26898,2017,2.08,5.92,15,15
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual D","Bore Well",W26925,2017,11.38,16.17,10.08,24.3
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,"Dug Well",W26927,2017,5.53,11.52,7.63,12.6
+CG,Mahasamund,Mahasamund,Mahasamund,21.16333333,82.02694444,Belsunda,"Dug Well",W26964,2017,1.5,4.05,3,11.38
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa D","Bore Well",W27012,2017,4.12,7.84,6.49,9.72
+CG,Mahasamund,Mahasamund,Mahasamund,21.22583333,82.25027778,Jogidipa,"Dug Well",W27015,2017,2.19,6.03,4.65,9.06
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,"Dug Well",W27103,2017,2.3,3.25,2.6,3.71
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-S PZ","Bore Well",W27054,2017,4.82,10.88,7.19,16.3
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2017,1.72,4.57,3.42,NA
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2017,1.67,5.34,3.27,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.25,82.21666667,Jalki,"Dug Well",W32831,2017,1.16,2.41,3.16,1.07
+CG,Mahasamund,Pithora,Pithora,21.275,82.73,Deori,"Dug Well",W31350,2017,1.77,5.19,3.39,10
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon D","Bore Well",W26984,2017,3.13,6.56,NA,8.59
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon S","Bore Well",W26983,2017,3.26,5.92,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.215,82.38277778,"Jhalap S","Bore Well",W27004,2017,7.52,18.87,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,"Mahasamund-s PZ","Bore Well",W31325,2017,6.26,NA,NA,21.56
+CG,Mahasamund,Mahasamund,Mahasamund,21.08861111,82.11694444,Lavarakhurud,"Dug Well",W33434,2017,1.56,4.59,4.62,7.95
+CG,Mahasamund,Mahasamund,Mahasamund,21.20972222,82.14833333,Kowajhar,"Dug Well",W33444,2017,2.07,6.28,4.47,4.55
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2017,NA,NA,1.81,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2016,2.45,NA,4.23,11.26
+CG,Mahasamund,Mahasamund,Mahasamund,21.20972222,82.14833333,Kowajhar,"Dug Well",W33444,2016,NA,NA,4.69,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2016,8.5,NA,4.29,10.25
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2016,7.6,NA,5.36,8.95
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2016,1.97,NA,2.33,12.98
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2016,1.77,NA,1.98,3.03
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2016,2.88,NA,NA,1.51
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2016,NA,NA,2.84,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2016,2.71,NA,3.19,10.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2016,3.39,NA,4.37,9.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2016,18.2,NA,NA,22.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2016,NA,NA,NA,10.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2016,NA,NA,NA,13.15
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2016,2.71,NA,2.04,10.15
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2016,2.38,NA,3.39,10.76
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2016,1.15,NA,1.55,8.9
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2016,1.4,NA,'0.94,4.07
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2016,12.5,NA,6.39,19.21
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2016,1.38,NA,2.41,3.33
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2016,9.5,NA,2.71,9.75
+CG,Mahasamund,Bagbahara,Bagbahara,21.06694444,82.295,Bhimkhoj,"Dug Well",W26888,2016,NA,NA,NA,9
+CG,Mahasamund,Mahasamund,Mahasamund,21.07694444,82.14388889,Jhalkhamhariya,"Dug Well",W26898,2016,9.44,NA,4.26,15
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,"Awaradawri S","Bore Well",W26904,2016,12.68,NA,6.81,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09888889,82.23611111,Nawagaon,"Dug Well",W26911,2016,2.95,2.36,3.29,7.12
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual S","Bore Well",W26924,2016,NA,NA,9.84,9.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual D","Bore Well",W26925,2016,NA,NA,5.12,5.23
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,"Dug Well",W26927,2016,6.08,9.86,5.27,12.5
+CG,Mahasamund,Mahasamund,Mahasamund,21.16333333,82.02694444,Belsunda,"Dug Well",W26964,2016,2.23,3.82,1.71,10.44
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon S","Bore Well",W26983,2016,2.76,NA,4.32,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon D","Bore Well",W26984,2016,3.31,NA,4.24,10.15
+CG,Mahasamund,Mahasamund,Mahasamund,21.215,82.38277778,"Jhalap S","Bore Well",W27004,2016,3.27,NA,12.18,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa D","Bore Well",W27012,2016,5.55,NA,5.21,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa S","Bore Well",W27013,2016,NA,NA,5.33,9.95
+CG,Mahasamund,Mahasamund,Mahasamund,21.22583333,82.25027778,Jogidipa,"Dug Well",W27015,2016,2.31,6.5,4.29,8.98
+CG,Mahasamund,Basna,Basna,21.29055556,82.88138889,Barbaspur,"Dug Well",W27044,2016,NA,NA,3.17,8.55
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-S PZ","Bore Well",W27054,2016,7.31,15.35,7.47,17.98
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,"Sirpur1 PZ","Bore Well",W27072,2016,9.3,9.65,8.26,10.3
+CG,Mahasamund,Saraipali,Saraipali,21.3875,83.08055556,Marban,"Dug Well",W27098,2016,3.01,NA,NA,6.95
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,"Dug Well",W27103,2016,2.45,7.5,2.1,6.72
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahera D","Bore Well",W31318,2016,2.56,NA,NA,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.05916667,82.26305556,"Keshwa S","Bore Well",W31321,2016,16.42,NA,NA,17.8
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,"Mahasamund-s PZ","Bore Well",W31325,2016,3.62,NA,NA,24.6
+CG,Mahasamund,Pithora,Pithora,21.275,82.73,Deori,"Dug Well",W31350,2016,7.95,6.7,3.62,10
+CG,Mahasamund,Mahasamund,Mahasamund,21.25,82.21666667,Jalki,"Dug Well",W32831,2016,'0.38,NA,1.16,1.4
+CG,Mahasamund,BAGBAHARA,Mahasamund,21.1,82.21666667,Hadabandh,"Dug Well",W33183,2016,2.71,NA,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.08861111,82.11694444,Lavarakhurud,"Dug Well",W33434,2016,NA,NA,2.84,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,"Dug Well",W11847,2016,3.53,NA,NA,10.65
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2015,1.62,5.53,5.57,7.92
+CG,Mahasamund,Pithora,Pithora,21.28388889,82.66222222,"Sakra S","Bore Well",W31352,2015,NA,NA,6.01,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2015,6.4,NA,6.14,7.09
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2015,5.07,7.68,5.83,8.73
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2015,'0.95,3.63,3.54,1.27
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2015,'0.74,2.16,1.77,2.1
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2015,NA,NA,1.43,2.8
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2015,1.35,5.64,4.83,6.82
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2015,NA,11.65,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2015,4.93,4.88,8.61,6.89
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2015,8.05,8.51,8.85,6.91
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2015,1.32,3.22,NA,2.92
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2015,8.24,5.99,4.19,3.73
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2015,'0.15,3.97,NA,'0.15
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2015,'0.75,2.17,1.61,'0.75
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2015,NA,12.38,11.75,9.21
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2015,'0.31,2.92,1.81,'0.89
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2015,5.2,4.37,6.1,3.82
+CG,Mahasamund,Bagbahara,Bagbahara,21.06694444,82.295,Bhimkhoj,"Dug Well",W26888,2015,4.15,NA,2.47,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.07694444,82.14388889,Jhalkhamhariya,"Dug Well",W26898,2015,4.56,NA,8.65,7.04
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,"Awaradawri S","Bore Well",W26904,2015,NA,8.81,6.5,11.06
+CG,Mahasamund,Mahasamund,Mahasamund,21.09888889,82.23611111,Nawagaon,"Dug Well",W26911,2015,2.04,4.79,3.9,2.46
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual S","Bore Well",W26924,2015,3.25,14.76,8.15,8.86
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual D","Bore Well",W26925,2015,NA,7.93,12.4,4.92
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,"Dug Well",W26927,2015,4.08,8.69,8.21,6.26
+CG,Mahasamund,Mahasamund,Mahasamund,21.16333333,82.02694444,Belsunda,"Dug Well",W26964,2015,1.19,2.06,1.73,1.08
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon S","Bore Well",W26983,2015,NA,5.58,3.09,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon D","Bore Well",W26984,2015,2.11,5.66,3.37,5.41
+CG,Mahasamund,Mahasamund,Mahasamund,21.215,82.38277778,"Jhalap S","Bore Well",W27004,2015,NA,17.46,14.27,18.58
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa D","Bore Well",W27012,2015,4.22,8.01,5.8,6.53
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa S","Bore Well",W27013,2015,NA,8.19,4.66,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22583333,82.25027778,Jogidipa,"Dug Well",W27015,2015,3.65,6.22,5.36,6.83
+CG,Mahasamund,Pithora,Mahasamund,21.25138889,82.51666667,"Pithora PZ","Bore Well",W27024,2015,NA,8.84,NA,NA
+CG,Mahasamund,Basna,Basna,21.29055556,82.88138889,Barbaspur,"Dug Well",W27044,2015,NA,4.39,NA,2.96
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-S PZ","Bore Well",W27054,2015,NA,12.98,NA,10.12
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,"Sirpur1 PZ","Bore Well",W27072,2015,NA,11.68,8.6,10.7
+CG,Mahasamund,Saraipali,Saraipali,21.3875,83.08055556,Marban,"Dug Well",W27098,2015,NA,4.04,NA,3.11
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,"Dug Well",W27103,2015,1.05,6.12,NA,7.15
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahara S","Bore Well",W31317,2015,NA,NA,3.08,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahera D","Bore Well",W31318,2015,NA,NA,4.54,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.05916667,82.26305556,"Keshwa S","Bore Well",W31321,2015,NA,NA,12.05,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,"Mahasamund-s PZ","Bore Well",W31325,2015,NA,NA,7,NA
+CG,Mahasamund,Basna,Pithora,21.26944444,82.82083333,"Basna S","Bore Well",W31348,2015,NA,NA,2.92,NA
+CG,Mahasamund,Pithora,Pithora,21.275,82.73,Deori,"Dug Well",W31350,2015,NA,NA,8.02,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,"Dug Well",W11847,2015,5.45,NA,5.6,5.45
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2014,2.7,NA,NA,NA
+CG,Mahasamund,Pithora,Pithora,21.28388889,82.66222222,"Sakra S","Bore Well",W31352,2014,6.86,9.6,5.9,13.8
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,"Dug Well",W11847,2014,'0.4,NA,NA,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2014,'0.8,5.56,2.7,8.26
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2014,3.37,5.63,4.36,7.77
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2014,'0.52,5.01,2.1,6.68
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2014,'0.27,1.75,1.59,1.69
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2014,'0.95,3.75,2.55,NA
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2014,'0.78,5.58,'0.98,'0.73
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2014,1.32,5.4,2.37,5.14
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2014,NA,9.32,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2014,3.3,12.85,2.85,60.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2014,'0.75,3.47,2.45,11.65
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2014,'0.94,4.35,NA,9.92
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2014,7.45,7.51,9.05,9.85
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2014,'0.8,4.17,2.66,4.89
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2014,4.6,5.42,4.1,10.06
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2014,'0.38,3,'0.5,1.6
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2014,'0.73,1.73,1.48,2.47
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2014,8.32,11.11,10.35,15.57
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2014,NA,3.1,2.11,4.39
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2014,1.9,4.96,2.94,8.07
+CG,Mahasamund,Pithora,Mahasamund,21.26111111,82.51805556,Pithora-1,"Dug Well",W21250,2014,NA,4.7,1.86,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.06694444,82.295,Bhimkhoj,"Dug Well",W26888,2014,NA,NA,1.7,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.07694444,82.14388889,Jhalkhamhariya,"Dug Well",W26898,2014,NA,NA,6.96,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,"Awaradawri S","Bore Well",W26904,2014,3.9,8.42,6.3,12.19
+CG,Mahasamund,Mahasamund,Mahasamund,21.09888889,82.23611111,Nawagaon,"Dug Well",W26911,2014,NA,NA,2.9,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual S","Bore Well",W26924,2014,3,6.35,5.22,20.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual D","Bore Well",W26925,2014,3.2,12.61,9.05,20.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,"Dug Well",W26927,2014,2.98,8.28,6.58,9.81
+CG,Mahasamund,Mahasamund,Mahasamund,21.16333333,82.02694444,Belsunda,"Dug Well",W26964,2014,'0.25,3.71,1.47,3.25
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon S","Bore Well",W26983,2014,2.1,4.86,3.04,4.15
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon D","Bore Well",W26984,2014,3.2,5.07,3.35,5.16
+CG,Mahasamund,Mahasamund,Mahasamund,21.215,82.38277778,"Jhalap S","Bore Well",W27004,2014,16.1,15.89,14.23,21.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa D","Bore Well",W27012,2014,4.2,6.52,4.87,8.48
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa S","Bore Well",W27013,2014,3.9,6.83,4.64,8.21
+CG,Mahasamund,Mahasamund,Mahasamund,21.22583333,82.25027778,Jogidipa,"Dug Well",W27015,2014,NA,6.55,NA,NA
+CG,Mahasamund,Pithora,Mahasamund,21.25138889,82.51666667,"Pithora PZ","Bore Well",W27024,2014,3.88,7.47,NA,10.21
+CG,Mahasamund,Basna,Basna,21.29055556,82.88138889,Barbaspur,"Dug Well",W27044,2014,NA,3.66,2.76,6.89
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-S PZ","Bore Well",W27054,2014,NA,11.66,NA,15.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,"Sirpur1 PZ","Bore Well",W27072,2014,6.82,10.92,8.39,9.19
+CG,Mahasamund,Saraipali,Saraipali,21.3875,83.08055556,Marban,"Dug Well",W27098,2014,1.45,3.77,2.45,8.15
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,"Dug Well",W27103,2014,1.02,3.17,1.6,6.3
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,"Palsipani - 1","Dug Well",W31304,2014,NA,4.65,3.78,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahara S","Bore Well",W31317,2014,NA,5.72,3.06,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahera D","Bore Well",W31318,2014,2.9,5.82,4.5,8.78
+CG,Mahasamund,Bagbahara,Bagbahara,21.05916667,82.26305556,"Keshwa S","Bore Well",W31321,2014,2.6,8.6,7.16,9.7
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,"Mahasamund-s PZ","Bore Well",W31325,2014,3.6,12,'0.98,24.7
+CG,Mahasamund,Basna,Pithora,21.26944444,82.82083333,"Basna S","Bore Well",W31348,2014,NA,19.52,2.6,NA
+CG,Mahasamund,Pithora,Pithora,21.275,82.73,Deori,"Dug Well",W31350,2014,NA,NA,2.9,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2014,NA,4.05,3.11,9.95
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2013,'0.2,6.28,2.69,10.635
+CG,Mahasamund,Pithora,Pithora,21.28388889,82.66222222,"Sakra S","Bore Well",W31352,2013,NA,NA,5.97,12.71
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2013,2.88,6.88,5.21,8.07
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2013,'0.59,NA,4.68,6.96
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2013,'0.08,3.65,1.58,2.465
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2013,1.3,NA,2.75,4.7
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2013,1.8,NA,4.05,4.63
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2013,1.42,5.51,5.13,4.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2013,NA,NA,8.93,13
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2013,NA,13.13,11.67,20
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2013,'0.56,NA,2.5,10.19
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2013,NA,4.53,3.14,8.64
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2013,'0.78,10.32,5.14,9.79
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2013,'0.21,5.13,3.23,4.3
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2013,'0.35,6.18,4.19,10.05
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2013,'0.18,1.2,1.5,8.79
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2013,'0.56,2.16,1.13,3.43
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2013,2.31,12.43,9.47,17.07
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2013,'0.42,3.12,2.21,4.735
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2013,'0.47,5.65,3.59,9.16
+CG,Mahasamund,Pithora,Mahasamund,21.26111111,82.51805556,Pithora-1,"Dug Well",W21250,2013,'0.61,NA,3.6,8.6
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,"Awaradawri S","Bore Well",W26904,2013,NA,NA,5.63,12.22
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual S","Bore Well",W26924,2013,1.1,NA,6.1,19.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual D","Bore Well",W26925,2013,1.44,NA,12.1,19.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,"Dug Well",W26927,2013,1.22,8.16,7.78,12
+CG,Mahasamund,Mahasamund,Mahasamund,21.16333333,82.02694444,Belsunda,"Dug Well",W26964,2013,'0.51,NA,1.9,2.11
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon S","Bore Well",W26983,2013,1.91,5.41,3.66,6.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon D","Bore Well",W26984,2013,2.02,5.57,4.11,5.6
+CG,Mahasamund,Mahasamund,Mahasamund,21.215,82.38277778,"Jhalap S","Bore Well",W27004,2013,3.37,16.36,14.18,21.07
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa D","Bore Well",W27012,2013,2.13,7.02,4.85,9.05
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa S","Bore Well",W27013,2013,2.21,7.22,5.14,8.75
+CG,Mahasamund,Mahasamund,Mahasamund,21.22583333,82.25027778,Jogidipa,"Dug Well",W27015,2013,1.2,NA,3.15,9.35
+CG,Mahasamund,Pithora,Mahasamund,21.25138889,82.51666667,"Pithora PZ","Bore Well",W27024,2013,1.75,7.92,6.28,13.15
+CG,Mahasamund,Basna,Basna,21.29055556,82.88138889,Barbaspur,"Dug Well",W27044,2013,'0.16,NA,3,7.64
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-S PZ","Bore Well",W27054,2013,2.43,11.64,10.7,13.89
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,"Sirpur1 PZ","Bore Well",W27072,2013,3.29,10.79,7.94,9.18
+CG,Mahasamund,Saraipali,Saraipali,21.3875,83.08055556,Marban,"Dug Well",W27098,2013,'0.24,NA,3.05,7.25
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,"Dug Well",W27103,2013,1.35,5.92,3.6,8.3
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,"Palsipani - 1","Dug Well",W31304,2013,'0.6,NA,2.5,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahara S","Bore Well",W31317,2013,2.11,5.35,3.24,10.6
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahera D","Bore Well",W31318,2013,2.26,6.26,3.3,9.27
+CG,Mahasamund,Bagbahara,Bagbahara,21.05916667,82.26305556,"Keshwa S","Bore Well",W31321,2013,3.4,NA,6.83,11.15
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,"Mahasamund-s PZ","Bore Well",W31325,2013,3.1,12.79,11.67,25
+CG,Mahasamund,Basna,Pithora,21.26944444,82.82083333,"Basna S","Bore Well",W31348,2013,NA,NA,18.9,20.89
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2013,'0.53,7.11,4.33,8.45
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2012,NA,4.94,3.7,9.85
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2012,NA,6.57,4.16,9.37
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2012,NA,NA,4.83,8.29
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2012,NA,4.95,4.35,6.57
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2012,NA,2.13,1.23,2
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2012,NA,NA,1.95,7.95
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2012,NA,NA,2.5,5.39
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2012,NA,5.58,5.04,6.1
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2012,NA,18.34,8.52,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2012,NA,3.52,4.4,10.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2012,NA,8.72,8.71,9.67
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2012,NA,2.66,2.55,5
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2012,NA,4.32,5.08,10.06
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2012,NA,1.51,'0.62,8.79
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2012,NA,1.64,1.32,3.91
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2012,NA,12.08,17.34,19
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2012,NA,1.99,2.28,4.37
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2012,NA,4.79,3.9,8.49
+CG,Mahasamund,Pithora,Mahasamund,21.26111111,82.51805556,Pithora-1,"Dug Well",W21250,2012,NA,3.08,3.06,8.92
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,"Awaradawri S","Bore Well",W26904,2012,NA,NA,5.29,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual S","Bore Well",W26924,2012,NA,NA,4.79,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,"Mahasamund Contractual D","Bore Well",W26925,2012,NA,NA,8.72,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,"Dug Well",W26927,2012,NA,NA,6.87,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon S","Bore Well",W26983,2012,NA,NA,3.25,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,"Tumgaon D","Bore Well",W26984,2012,NA,NA,3.2,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.215,82.38277778,"Jhalap S","Bore Well",W27004,2012,NA,NA,5.22,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa D","Bore Well",W27012,2012,NA,NA,5.22,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,"Jogideepa S","Bore Well",W27013,2012,NA,NA,5.36,NA
+CG,Mahasamund,Pithora,Mahasamund,21.25138889,82.51666667,"Pithora PZ","Bore Well",W27024,2012,NA,NA,5.85,NA
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-S PZ","Bore Well",W27054,2012,NA,NA,11.93,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,"Sirpur1 PZ","Bore Well",W27072,2012,NA,NA,8.24,NA
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,"Dug Well",W27103,2012,NA,NA,2.65,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,"Palsipani - 1","Dug Well",W31304,2012,NA,NA,2.3,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahara S","Bore Well",W31317,2012,NA,NA,4.69,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"Bagbahera D","Bore Well",W31318,2012,NA,NA,4.69,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.05916667,82.26305556,"Keshwa S","Bore Well",W31321,2012,NA,NA,6.53,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,"Mahasamund-s PZ","Bore Well",W31325,2012,NA,NA,4.81,NA
+CG,Mahasamund,Basna,Pithora,21.26944444,82.82083333,"Basna S","Bore Well",W31348,2012,NA,NA,18.84,NA
+CG,Mahasamund,Pithora,Pithora,21.28388889,82.66222222,"Sakra S","Bore Well",W31352,2012,NA,NA,8.59,NA
+CG,Mahasamund,Pithora,Mahasamund,21.26111111,82.51805556,Pithora-1,"Dug Well",W21250,2011,'0.7,3.77,NA,6.84
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2011,2.04,5.59,4.69,7.95
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2011,'0.84,5.92,6.84,7.75
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2011,'0.12,6.57,5.28,10.08
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2011,'0.9,8.75,6.37,8.75
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2011,'0.23,1.59,NA,2.03
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2011,1.45,3.05,NA,7.95
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2011,'0.07,1.88,1.83,2.12
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2011,'0.62,4.1,5.3,6.69
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2011,6.15,9.22,9.18,9.51
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2011,NA,NA,3.24,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2011,'0.31,3.82,4.43,9.88
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2011,12.43,5.77,19.02,11.41
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2011,3.33,9.27,4.67,9
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2011,'0.61,4.48,2.3,4.81
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2011,10.12,5.67,11.65,16.37
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2011,'0.83,1.61,1.38,2.86
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2011,'0.27,1.15,1.08,5.5
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2011,'0.5,10.06,4.44,10.06
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2011,'0.3,4.42,3.38,4.17
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2010,5.21,5.88,4.72,7.91
+CG,Mahasamund,Pithora,Mahasamund,21.26111111,82.51805556,Pithora-1,"Dug Well",W21250,2010,7.45,7.12,5.71,8.34
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2010,1.27,6.85,3.25,9.9
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2010,2.72,7.34,4.12,10.08
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2010,3.14,7.53,5.05,22.99
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2010,1.55,7,1.54,7.95
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2010,8.08,6.93,6.98,9.05
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2010,2.27,7.27,3.42,9.95
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2010,'0.95,2.6,2.35,4.84
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2010,'0.67,2.02,1.69,3.02
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2010,17.62,16.05,12.75,19.95
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2010,1.7,NA,NA,9.15
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2010,'0.91,1.96,1.39,4.3
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2010,1.47,3.44,2.5,5.62
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2010,'0.85,1.05,'0.71,8.79
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2010,NA,9.17,NA,10.2
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2010,10.06,6.85,NA,7.43
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2010,8.15,8.52,8.69,12.2
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2010,1.35,5.85,2.95,8.11
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2010,'0.68,4.35,1.4,11.86
+CG,Mahasamund,Pithora,Mahasamund,21.26111111,82.51805556,Pithora-1,"Dug Well",W21250,2009,1.85,3.72,2.35,8.65
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2009,1.1,6.64,6.52,10.06
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2009,'0.3,1.65,'0.7,9.59
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2009,4.71,2,1.43,NA
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2009,19.61,14.89,14.23,20.72
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,"Dug Well",W21827,2009,'0.19,NA,1.63,4.97
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2009,1,5.08,5.2,8.1
+CG,Mahasamund,Pithora,Pithora,21.27777778,82.73055556,Deori(bhagat)-1,"Dug Well",W21249,2009,9.3,8,NA,8
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2009,NA,10.47,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2009,15,14.91,5.6,42.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2009,1.79,4.5,4.05,10.55
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2009,7.9,9.3,8.65,12.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2009,'0.52,3.8,2.23,5.8
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2009,1.05,1.44,1.69,2.02
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2009,1.83,7.95,4.2,7.95
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2009,'0.35,3.76,2.28,11.86
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2009,1.34,9.62,7.75,10.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2009,'0.76,8.74,5.65,8.75
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2009,NA,10.55,NA,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2009,1.83,2.17,5.1,10.08
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2009,2.45,6.95,5.82,10.3
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2009,4.61,6.91,5.04,5.87
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2009,1.09,5.13,3.77,8.77
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2008,NA,7.35,5.41,9.4
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2008,1.21,4.53,3.89,7.37
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2008,1.04,1.92,1.76,3.43
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2008,NA,14.27,15.37,NA
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2008,1.95,4.47,4.41,5.6
+CG,Mahasamund,Pithora,Pithora,21.27777778,82.73055556,Deori(bhagat)-1,"Dug Well",W21249,2008,7.75,6.3,5.99,7.9
+CG,Mahasamund,Pithora,Mahasamund,21.26111111,82.51805556,Pithora-1,"Dug Well",W21250,2008,7.31,5.62,4.93,12.35
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2008,5.07,7.43,6.88,13.23
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2008,23.26,25.2,12.9,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2008,'0.84,7.11,3.62,8.75
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2008,8,9.15,8.57,9.35
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2008,1.02,3.5,2.88,3.8
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2008,'0.62,1.86,1.86,10.82
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2008,1.84,3.51,2.86,7.95
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2008,'0.83,1.48,3.64,6.38
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2008,9.19,8.8,5.13,10.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2008,1.14,3.54,6.07,4.7
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2008,1.79,7.2,6.23,11.25
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2008,2.53,5.52,4.76,8.72
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2008,2.51,6.4,5.92,9
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2008,4.29,NA,6.27,NA
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2008,'0.25,1.28,'0.8,8.79
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2007,3.7,6.7,4.25,10.1
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2007,1.22,4.62,2.07,7.89
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2007,1.03,2.27,1.33,4.78
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2007,16.7,12.97,NA,18.76
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,"Dug Well",W21248,2007,4.2,3.2,2.9,8.11
+CG,Mahasamund,Pithora,Pithora,21.27777778,82.73055556,Deori(bhagat)-1,"Dug Well",W21249,2007,6.3,5.67,5.15,8
+CG,Mahasamund,Pithora,Mahasamund,21.26111111,82.51805556,Pithora-1,"Dug Well",W21250,2007,'0.9,3.63,1.65,8.5
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2007,1.79,7.84,5.13,13.23
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2007,19.57,26.27,18.96,41.15
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2007,'0.55,4.33,3.15,10.75
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2007,7.45,9.35,8.48,9.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2007,'0.6,4.09,2,7
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2007,'0.52,2.11,1.47,5.49
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2007,1.73,6.53,2.35,7.95
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2007,'0.63,8.98,1.38,10.48
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2007,2.46,9.76,3.9,10.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2007,'0.98,2.13,2.4,7.99
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2007,1.76,7.43,4.5,10.55
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2007,'0.62,5.39,3.32,8.92
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2007,2.26,6.93,2.5,9.65
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2007,4.48,5.87,3.59,7.81
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2007,'0.4,5,'0.5,8.79
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,2006,4.6,7.38,NA,10.69
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2006,'0.87,4.29,2.47,6.68
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2006,NA,1.04,1.03,9.59
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2006,'0.93,2,1.68,3.74
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2006,6.62,11.81,11.02,15.06
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2006,1.58,7.47,5.33,13.14
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2006,22.2,29.25,22.2,40.97
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2006,'0.71,3.51,2.93,3.45
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2006,1.99,5.72,NA,11.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2006,9.8,9.39,8.7,9.58
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2006,'0.9,3.74,2.6,4.26
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2006,'0.37,2.02,1.82,4.71
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2006,1.45,5.78,3.5,8.5
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2006,'0.38,10.53,6.68,7.81
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2006,2.45,8.23,5.9,10.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2006,'0.75,6.24,2.3,4.62
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2006,1.6,7.01,5.5,11.25
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2006,'0.07,4.81,3.32,7.8
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,"Dug Well",W11847,2006,NA,2.43,2.2,4.8
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2006,'0.95,7.29,4.77,9.84
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2006,1.91,5.84,4.56,7.89
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2006,1.7,7.45,4.45,9.4
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,2005,6.55,6.8,6.99,9.79
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2005,1.55,5.92,2.14,7.32
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2005,3.41,1.2,NA,8.79
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2005,2.61,1.88,1.39,3.48
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,"Saraipalli-D PZ","Bore Well",W18595,2005,13.38,12.67,10.35,16.27
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2005,2.31,7.63,4.45,12.03
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2005,28.6,31,23.87,33.56
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2005,1.47,4.1,2.69,4.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2005,4.87,5.54,4.01,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2005,8.36,9.45,8.62,9.55
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2005,1.54,3.8,1.91,6.25
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2005,1.27,NA,1.54,3.77
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2005,3.16,2.92,2.6,6.6
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2005,NA,9.48,7.41,10.12
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,2005,NA,5.23,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2005,3.04,7.77,4.38,10.38
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,"Dug Well",W11858,2005,1.54,NA,3.3,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2005,3.27,7.2,5.29,10.55
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2005,2.37,5.42,2.24,9.12
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,"Dug Well",W11847,2005,1.23,5.8,1.38,5.3
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2005,2.52,7.3,4.94,9.86
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2005,4.2,6.12,4.53,7.97
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2005,1.29,7.5,5.49,10
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,2004,3.97,5.16,5.92,7.48
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2004,1.22,4.07,3.05,7.32
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2004,'0.4,'0.72,'0.73,3.88
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2004,1.08,1.95,1.33,3.37
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2004,2.18,6.15,5.29,11.51
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2004,7.86,19.22,26.49,15.21
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2004,1.13,3.29,3.09,4.7
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2004,1.98,4.72,4.41,8.18
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2004,7.25,9.2,9.13,9.59
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2004,1.1,3.02,2.48,3.76
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2004,'0.85,1.69,1.66,4.62
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2004,1.32,2.5,1.69,6.42
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2004,'0.88,7.11,5.85,10.25
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,2004,2.01,4.96,NA,7.85
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2004,1.6,5.98,3.72,7.47
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2004,2.55,6.05,5.39,8.41
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2004,'0.36,2.5,2.85,7.22
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,"Dug Well",W11847,2004,NA,2.66,1.99,4.82
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2004,1.85,5.94,4.18,8.86
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2004,1.8,5.15,4.51,7.9
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2004,3.64,5.02,4.89,8.44
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,2003,NA,6.9,3.58,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2003,'0.97,5.58,1.83,8.96
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2003,NA,1.32,'0.5,6.5
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2003,1.47,2.19,1.23,4.98
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2003,NA,8.44,3.61,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2003,11.2,17.5,11.5,27.66
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2003,1,3.86,2.41,5.93
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2003,6.36,6.36,2.14,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2003,NA,9.6,7.95,10
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2003,'0.32,4.08,2.06,7
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,"Dug Well",W11852,2003,'0.9,NA,1.17,6.17
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2003,2,3.56,1.45,7.9
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2003,'0.53,NA,1.32,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,2003,NA,10.95,2.48,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2003,NA,7.85,2.84,10.1
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2003,2.2,8.28,3.28,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2003,'0.04,7.93,'0.1,10.67
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,"Dug Well",W11847,2003,NA,NA,1.34,6.2
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2003,1.64,8.64,1.58,11.1
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2003,3.75,6.85,2.52,8.37
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2003,NA,6.52,4.44,7.55
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,2002,6,8.63,NA,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2002,1.25,4.58,3.81,10.77
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2002,'0.24,1.16,'0.87,6.77
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2002,'0.97,2.13,1.53,4
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2002,2.28,7.36,5.91,12.34
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2002,15.52,NA,16.02,27.46
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2002,1.87,2.9,2.97,7.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2002,8.58,5.95,5.81,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2002,8.55,9.59,9.1,9.8
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2002,'0.82,4.19,2.64,7.05
+CG,Mahasamund,Bagbahara,Bagbahara,20.9,82.35694444,Tohalu,"Dug Well",W11851,2002,NA,2.71,NA,6.2
+CG,Mahasamund,Basna,Basna,21.25833333,82.83888889,Chhannanpur,"Dug Well",W11853,2002,NA,5.84,NA,NA
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2002,3.39,2.58,2.33,6.56
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2002,'0.42,11.86,7.08,10.11
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,2002,5.18,6.13,6.03,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2002,4.79,6.61,5.56,9.56
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2002,8.6,6.95,6.95,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2002,5.34,5.17,6.17,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.45833333,"Koma khan","Dug Well",W11846,2002,8.12,6.75,8.2,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2002,10.64,7.33,7.28,10.48
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2002,7.94,NA,6.19,8.15
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2002,5.04,5.58,5.06,7.18
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,2001,5.09,6.08,5.95,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2001,1.47,7.87,2.38,8.72
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2001,1.39,5.23,'0.61,8.05
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2001,1.14,6.1,1.59,5.41
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2001,'0.86,7.68,5.34,11.68
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2001,'0.68,4.67,2.83,5.58
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2001,4.34,NA,7.65,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2001,7.35,9.8,8.26,10.05
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2001,'0.81,5.25,3.01,9.93
+CG,Mahasamund,Bagbahara,Bagbahara,20.9,82.35694444,Tohalu,"Dug Well",W11851,2001,1.86,3.53,2.43,NA
+CG,Mahasamund,Basna,Basna,21.25833333,82.83888889,Chhannanpur,"Dug Well",W11853,2001,5.43,5.46,5.49,NA
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2001,'0.99,5.19,1.74,NA
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2001,'0.7,12.03,8.15,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,2001,'0.91,10.81,3.71,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2001,1.24,7.33,5.01,9.45
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2001,1.88,7.45,5.35,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2001,1.88,7.32,2.63,9.35
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.45833333,"Koma khan","Dug Well",W11846,2001,'0.84,8.84,2.69,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2001,1.21,10.18,5.26,12.36
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2001,1.34,8.64,NA,10.66
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2001,1.95,6.07,4.82,7.45
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,2000,7.11,6.49,4.53,8.39
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,2000,2.07,3.29,4.51,9.45
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,2000,'0.24,1.68,1.37,7.57
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,2000,5.42,2.45,2.5,4.3
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,2000,1.46,6.83,5.72,11.38
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,2000,NA,27.44,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,2000,2.23,3.27,3.44,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,2000,9.29,6.07,NA,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,2000,8.83,6.94,9.27,9.38
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,2000,1.56,3.72,3.06,5.58
+CG,Mahasamund,Bagbahara,Bagbahara,20.9,82.35694444,Tohalu,"Dug Well",W11851,2000,1.57,2.44,2.9,7.72
+CG,Mahasamund,Basna,Basna,21.25833333,82.83888889,Chhannanpur,"Dug Well",W11853,2000,4.61,NA,NA,NA
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,2000,4.6,2.8,4.26,6.63
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,2000,2.86,2.58,NA,10.81
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,2000,3.83,5.65,6.54,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,2000,2.12,6.33,5.75,8.67
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,2000,5.26,6.43,6.77,7.71
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,2000,1.82,5.01,5.71,8.23
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.45833333,"Koma khan","Dug Well",W11846,2000,4.9,3.3,7.39,8.02
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,2000,9.33,6.8,9.79,9.8
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,2000,6.62,NA,6.94,NA
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,2000,5.03,5.6,5.7,7.17
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,1999,'0.28,3.94,2.86,6.1
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,1999,5.45,7.05,7.25,8.05
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,1999,NA,3.9,NA,NA
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,1999,'0.5,'0.57,'0.69,3.68
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,1999,3.08,6.58,5.18,8.83
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,1999,4.44,5.28,3.1,8.7
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.45833333,"Koma khan","Dug Well",W11846,1999,2.04,3.5,2.43,7.08
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,1999,2.4,7,3.88,NA
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.49583333,Suarmar-1,"Bore Well",W11849,1999,NA,NA,NA,8.2
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,1999,1.87,3.57,3.05,7.77
+CG,Mahasamund,Bagbahara,Bagbahara,20.9,82.35694444,Tohalu,"Dug Well",W11851,1999,3.56,2.61,2.6,NA
+CG,Mahasamund,Basna,Basna,21.25833333,82.83888889,Chhannanpur,"Dug Well",W11853,1999,NA,5.43,NA,NA
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,1999,NA,2.35,NA,NA
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,1999,NA,1.03,11.79,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,1999,2.23,5.85,3.53,7.85
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,1999,'0.83,6.63,3.99,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,1999,2.03,7.93,4.91,10.73
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,"Bore Well",W11860,1999,NA,NA,5.07,33
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,1999,'0.55,3.37,2.99,9.07
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,1999,5.28,6.24,4.82,9.58
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,1999,2.5,4.35,5.3,8.23
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,1998,1.55,3.41,1.7,5.8
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,1998,4.2,5.8,3.7,7.72
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,1998,4,5.28,3.5,4.8
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,1998,'0.1,1.34,'0.17,7.45
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,1998,5.73,6.64,5.13,9.03
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,1998,3.3,3.04,2.6,9.1
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.45833333,"Koma khan","Dug Well",W11846,1998,3.3,3.45,2.5,6.8
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,1998,8.45,8.1,1.65,12.4
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,1998,2.12,3.52,2.19,7.37
+CG,Mahasamund,Bagbahara,Bagbahara,20.9,82.35694444,Tohalu,"Dug Well",W11851,1998,NA,3.09,NA,4.52
+CG,Mahasamund,Basna,Basna,21.25833333,82.83888889,Chhannanpur,"Dug Well",W11853,1998,5.43,5.55,5.13,6.23
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,1998,2.05,1.81,1.85,5.98
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,1998,'0.33,8.63,'0.13,10.08
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,1998,4.43,5.74,2.9,12.11
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,1998,4.98,6.25,4.38,9.13
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,1998,5.03,6.85,5.58,11.73
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,1998,1.13,3.29,1.83,8.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,1998,6.34,4.69,4.21,8.67
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,1998,1.2,7.69,8.15,7.75
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,1997,4.4,6.73,5.11,8.41
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,1997,7.15,8.31,8.75,9.26
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,1997,3.44,8.13,3.63,11.4
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,1997,1.32,4.03,3.22,6.88
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,1997,2.38,8.45,5.17,12.52
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,1997,2.28,7.48,4.63,9.65
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,1997,1.91,9.45,4.02,8.52
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,1997,1.18,10.74,11,12.48
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,1997,1.46,5.26,3.95,8.38
+CG,Mahasamund,Basna,Basna,21.25833333,82.83888889,Chhannanpur,"Dug Well",W11853,1997,6.43,NA,4.83,6.6
+CG,Mahasamund,Bagbahara,Bagbahara,20.9,82.35694444,Tohalu,"Dug Well",W11851,1997,NA,4.62,2.9,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,1997,'0.86,6.45,2.45,8.47
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,1997,2.22,9.09,5.26,9.44
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.45833333,"Koma khan","Dug Well",W11846,1997,1.9,5.99,2.1,9.73
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,1997,2.08,4.12,2.38,5.53
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,1997,5.08,7.52,5.43,7.08
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,1997,NA,2.96,NA,4.34
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,1997,1.1,3.19,1.6,9.59
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,1997,3.34,5.82,4.64,7.11
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,1997,2.01,4.34,2.71,8.11
+CG,Mahasamund,Mahasamund,Mahasamund,21.25138889,82.51666667,Pithora-2,"Dug Well",W11863,1996,7.14,5.12,6.59,7.69
+CG,Mahasamund,Pithora,Pithora,21.26666667,82.73333333,Deori(bhagat)-2,"Dug Well",W11868,1996,6.42,6.28,5.64,8.73
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,"Dug Well",W11857,1996,3.8,6.5,5.27,8.63
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,"Dug Well",W11850,1996,2.02,4.24,3.06,7.51
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,"Dug Well",W11865,1996,NA,NA,NA,10.1
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,"Dug Well",W11848,1996,8.36,8.05,7.98,11.35
+CG,Mahasamund,Mahasamund,Mahasamund,21.21388889,82.35416667,Chindoli,"Dug Well",W11856,1996,6.08,7.41,6.25,10.83
+CG,Mahasamund,Bagbahara,Bagbahara,20.96666667,82.45833333,"Koma khan","Dug Well",W11846,1996,3.56,4.48,3.88,7.85
+CG,Mahasamund,Mahasamund,Mahasamund,21.29166667,82.20555556,Phusera,"Dug Well",W11862,1996,2.16,3.8,3.34,8.42
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,"B k bahera-2","Dug Well",W11845,1996,1.53,5.44,3.01,9.39
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,"Dug Well",W11855,1996,'0.51,10.65,8.34,11.86
+CG,Mahasamund,Bagbahara,Bagbahara,21.075,82.41666667,"B k bahera-1","Dug Well",W11844,1996,6.37,7.05,7.27,8.43
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,"Dug Well",W11867,1996,'0.98,3.64,2.73,5.11
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,"Dug Well",W11925,1996,NA,2.44,2.84,4.26
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,"Dug Well",W11854,1996,1.32,4.52,4.07,7.68
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,"Dug Well",W11870,1996,'0.31,3.16,1.91,7.89
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund,"Dug Well",W11859,1996,3.19,7.57,6.26,12.46
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,"Dug Well",W11869,1996,2.46,5.51,5.11,7.03
+CG,Mahasamund,Basna,Basna,21.25833333,82.83888889,Chhannanpur,"Dug Well",W11853,1996,1.94,NA,7.57,6.23
+CG,Mahasamund,Bagbahara,Bagbahara,20.9,82.35694444,Tohalu,"Dug Well",W11851,1996,NA,3.15,2.99,4.84

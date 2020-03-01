@@ -1,0 +1,431 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2018,NA,13.7,14.07,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.28277778,77.61472222,Bairasandra,"Dug Well",W31055,2018,NA,6.95,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2018,NA,2.4,2.36,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2018,NA,23.3,23.84,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2018,NA,34.15,33.17,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2018,NA,29.15,28.87,NA
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2018,NA,2.28,2.23,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2018,NA,5.43,5.62,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2018,NA,10.24,10.24,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2018,NA,4.02,5.73,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2018,NA,9.7,13.24,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2018,NA,15.8,24,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,"Devanahalli A","Dug Well",W31054,2018,NA,12.48,13.68,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.17583333,77.21194444,Gangenapura,"Dug Well",W24377,2018,NA,1.85,1.84,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.29972222,77.70027778,"Kodagurki A","Dug Well",W24416,2018,NA,2.52,3.61,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.28694444,77.53833333,Dodballapur,"Dug Well",W24414,2018,NA,2.27,2.4,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2018,NA,NA,8.49,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2018,NA,3.58,5.88,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2017,7.08,5.46,2.48,7.23
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.28277778,77.61472222,Bairasandra,"Dug Well",W31055,2017,1.85,NA,NA,6.96
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2017,24.1,23.35,23.88,23.51
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2017,42.05,40.47,35.1,42.04
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2017,30.57,31.68,26.45,32.9
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2017,2.36,2.54,2.08,3.16
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2017,11.84,10.74,9.51,11.88
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2017,5.3,5.25,2.8,5.88
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2017,10.31,14.44,6.08,14.44
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2017,15.4,11.73,6.98,14.96
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2017,30.4,28.9,19.17,30.36
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2017,59.26,59.26,59.26,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2017,5.76,5.11,4.19,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2017,13.3,17.55,8.17,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,"Devanahalli A","Dug Well",W31054,2017,15.33,14.28,12.58,16.05
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.17583333,77.21194444,Gangenapura,"Dug Well",W24377,2017,4.55,4.38,1.55,5.54
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.29972222,77.70027778,"Kodagurki A","Dug Well",W24416,2017,3.35,4.02,1.77,5.08
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.28694444,77.53833333,Dodballapur,"Dug Well",W24414,2017,3.3,2.32,1.61,3.46
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2017,2.25,2.6,1.4,3.32
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2016,38.52,NA,39.03,39.15
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.28277778,77.61472222,Bairasandra,"Dug Well",W31055,2016,NA,2.82,NA,2.08
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2016,23.1,NA,23.27,23.79
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2016,21.6,NA,24,30.78
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2016,8.64,NA,9.69,10.14
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2016,3.76,NA,4.42,5.18
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2016,7.56,NA,9.92,12.18
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2016,2.37,NA,2.97,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2016,1.88,NA,2.51,2.66
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2016,13.14,NA,14.81,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2016,4.41,NA,4.53,4.5
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2016,9.96,NA,10.14,11.22
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2016,29.75,NA,31.08,30.05
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2016,1.93,NA,2.63,2.13
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.17583333,77.21194444,Gangenapura,"Dug Well",W24377,2016,2.88,2.73,3.21,4.24
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.28694444,77.53833333,Dodballapur,"Dug Well",W24414,2016,1.36,1.87,1.91,3
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.29972222,77.70027778,"Kodagurki A","Dug Well",W24416,2016,1.7,2.72,3.13,3.66
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,"Devanahalli A","Dug Well",W31054,2016,13.3,14.18,13.38,15.55
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2016,34.23,NA,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2015,43.45,48.2,38.55,41.8
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,"Devanahalli A","Dug Well",W31054,2015,22.28,22.28,15.74,22.28
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2015,24.51,24.2,24.06,23.9
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2015,13.9,13.9,NA,9
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2015,25.49,26.3,21.46,19.3
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2015,10.95,2.02,9.83,10.95
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2015,5.17,10.1,2.96,1.25
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2015,13.16,10.4,8.87,5.1
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2015,3.1,3.18,NA,3.64
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2015,2.2,2.95,1.55,5.54
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2015,14.33,14.8,NA,69.3
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2015,3.83,3.9,2.19,3.83
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2015,13.55,NA,10.97,2.5
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2015,29.39,31.2,29.86,29.49
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2015,1.9,2.43,1.78,1.88
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.17583333,77.21194444,Gangenapura,"Dug Well",W24377,2015,4.13,3.9,1.94,8.2
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.28694444,77.53833333,Dodballapur,"Dug Well",W24414,2015,2.45,3.6,1.25,10.1
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.29972222,77.70027778,"Kodagurki A","Dug Well",W24416,2015,4.03,3.87,2.78,11.6
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,S.S.Ghati,"Dug Well",W24459,2015,NA,5.33,NA,4.5
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2015,37.18,35.06,NA,37.18
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2014,NA,8.59,NA,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,"Devanahalli A","Dug Well",W31054,2014,22.28,22.28,22.28,22.28
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2014,38.02,37.03,31.96,37.48
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2014,23.84,23.56,23.76,23.76
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2014,13.9,NA,13.9,13.9
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2014,41.31,35.95,29.32,40.49
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2014,6.34,4.42,4.64,5.78
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2014,13.99,11.61,6.97,15.69
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2014,5.49,8.39,2.51,10
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2014,2.08,13.42,1.3,13.85
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2014,14.3,16.61,10.45,19.19
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2014,1.88,4.09,'0.87,5.47
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2014,13.59,12.14,12.33,13.6
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2014,34.12,33.67,28.87,33.62
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2014,3.23,4.88,1.99,2.41
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.17583333,77.21194444,Gangenapura,"Dug Well",W24377,2014,5.15,4.35,2.79,5.58
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.28694444,77.53833333,Dodballapur,"Dug Well",W24414,2014,11.18,7.65,1.74,10.74
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.29972222,77.70027778,"Kodagurki A","Dug Well",W24416,2014,5.7,4.23,2.31,6.77
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,S.S.Ghati,"Dug Well",W24459,2014,5.53,5.56,4.28,6.4
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2014,48.94,48.15,46.4,47.17
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2013,8.59,4.74,8.59,8.59
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29833333,77.55222222,"Siddanayakanahalli A","Dug Well",W31056,2013,13.3,NA,8.25,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2013,38.56,33.61,35.74,42.56
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2013,23.3,23,23.56,25.4
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2013,13.9,14.5,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2013,45.2,38.7,38.6,51.4
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2013,14.44,11.28,1.82,3.01
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2013,6.13,6.45,3.48,6.7
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2013,13.3,NA,15.68,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2013,9.8,10.38,7.06,11.53
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2013,14.38,15.3,13.75,14.1
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2013,13.73,17.6,13.47,16.9
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2013,4.9,NA,3.8,6.18
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.42472222,Doddabelavengala,"Dug Well",W20741,2013,NA,NA,NA,12.12
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2013,13.36,11.84,12.09,12.67
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2013,37.18,35.8,32.24,37.8
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2013,2.81,NA,2.58,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.17583333,77.21194444,Gangenapura,"Dug Well",W24377,2013,5.73,NA,3.28,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.28694444,77.53833333,Dodballapur,"Dug Well",W24414,2013,10.3,6.9,2.72,12.52
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,S.S.Ghati,"Dug Well",W24459,2013,5.65,NA,4.66,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,"Devanahalli A","Dug Well",W31054,2013,NA,NA,16.02,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2013,49,NA,48.95,48.68
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2012,NA,11.71,NA,11.71
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,S.S.Ghati,"Dug Well",W24459,2012,NA,NA,5.12,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2012,NA,NA,7.89,5.92
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2012,NA,42.6,46.37,46.98
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2012,NA,4.2,10.01,8.3
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2012,NA,31.83,35.05,36.36
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2012,NA,22.48,22.84,26.18
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2012,NA,9.28,13.66,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2012,NA,23.58,37.07,31.08
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2012,NA,11,NA,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2012,NA,7.03,7.29,5.09
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2012,NA,12.03,15.06,12.91
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2012,NA,7.08,9.61,7.98
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2012,NA,9.33,15.13,10.9
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2012,NA,14.28,15.27,13.4
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2012,NA,3.69,5.65,4.11
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2012,NA,9.6,NA,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2012,NA,35,34.12,36.06
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2012,NA,2.88,NA,1.95
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2012,NA,10.73,NA,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2011,11.71,11.71,11.71,NA
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2011,1.85,NA,2.32,2.13
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2011,NA,4.49,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2011,40.97,41.4,40.51,41.55
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2011,8.1,10.01,6.3,8.92
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2011,29.37,28.23,30.04,30.97
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2011,22.62,19.8,22.5,22.59
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2011,5.2,6.25,7.52,7.85
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2011,23.68,19.35,21.35,25.7
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2011,10.97,NA,10.78,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2011,3.98,3.75,4.46,5.5
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2011,12.6,11.9,11.51,12.9
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2011,7.13,6.28,5.51,8.59
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2011,11.23,8.1,9.02,11.05
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2011,12.33,11.75,11.3,16.3
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,2011,NA,6.25,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2011,2.56,NA,3.08,2.93
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2011,10.45,NA,9.34,11.5
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2011,31.13,35.2,33.44,36.61
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2011,NA,10.73,10.73,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2010,NA,11.71,11.71,NA
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2010,7.43,7.33,6.93,6.93
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2010,4.44,4.29,4.41,8.59
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2010,41.25,35.5,32.67,41.45
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2010,NA,10.01,10.01,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2010,31.5,28.16,29.86,32.58
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2010,21.94,21.48,22.53,22.04
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2010,4.9,5.55,5.4,7.7
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2010,18.7,23.12,19.88,34.73
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2010,3.42,4.17,3.62,5.25
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2010,12.47,12.95,12.1,14.5
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2010,8.61,7.78,6.83,9.09
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2010,15.6,4.71,13.9,5.64
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2010,12.5,12.63,9.89,17.79
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,2010,NA,6.25,6.25,6.25
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2010,4.06,3.58,NA,14.18
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.42472222,Doddabelavengala,"Dug Well",W20741,2010,NA,12.12,NA,12.12
+KA,"Bangalore Rural",Hoskote,Hoskote,13.0375,77.85,Dasarahalli-1,"Dug Well",W20742,2010,NA,18.79,NA,18.79
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2010,NA,NA,13.62,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2010,40.2,40.98,35.72,44.36
+KA,"Bangalore Rural",Hoskote,Hoskote,13.06666667,77.8,Hosakote-2,"Dug Well",W20943,2010,NA,10.58,NA,10.58
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2010,NA,10.73,10.73,10.73
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2009,11.71,11.71,11.71,11.71
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2009,6.55,3.93,7.23,5.93
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2009,NA,5.09,2.59,5.51
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2009,36.48,37.5,NA,37.2
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2009,10.01,10.01,NA,10.01
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,2009,6.84,NA,NA,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2009,23.86,23.98,24.88,25.76
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2009,21.71,6.15,21.55,21.45
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2009,7.42,5.95,5.02,6.45
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2009,25.41,19.1,16.71,24.8
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2009,5.55,4.9,4.09,5.03
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2009,11.22,12.3,12.35,13.48
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2009,6.73,4.58,5.88,6.89
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2009,15.35,2.85,14.37,4
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2009,13.12,12.58,12.13,15.15
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,2009,6.25,6.25,6.25,6.25
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2009,3.4,2.78,2.03,3.43
+KA,"Bangalore Rural",Hoskote,Hoskote,13.0375,77.85,Dasarahalli-1,"Dug Well",W20742,2009,NA,NA,18.79,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2009,13.62,NA,NA,13.62
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2009,37.5,36.58,40.41,38.15
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2009,10.73,10.73,10.73,10.73
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2008,3.8,3.91,3.41,4.08
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2008,NA,2.45,1.65,7.43
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2008,25.36,23.86,35.46,27.37
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2008,22.21,21.75,21.65,22.66
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2008,6.03,5.88,4.03,7.27
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2008,25.79,21.43,10.58,27.57
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2008,9.84,10.9,NA,10.16
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2008,4.34,4.38,4,4.24
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2008,11.25,13,11.2,12.72
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2008,5.9,6.01,3.59,8.27
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2008,9.25,3.05,1.97,8.9
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2008,10.76,13.68,10.06,14.71
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2008,1.63,4.43,4.55,5.48
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2008,11.89,12.17,NA,13.62
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2008,42.08,40.05,32.98,40.54
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2008,41.25,38.93,38.5,43.16
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2007,10.73,NA,NA,NA
+KA,"Bangalore Rural",Magadi,Hoskote,12.91666667,77.83333333,"Rudrapura Chadrappa Circle","Dug Well",W21343,2007,7.03,NA,1.84,7.23
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2007,44.2,28.3,37.74,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,2007,6.84,NA,NA,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2007,26.96,24.92,23.9,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2007,22.3,21.6,22.1,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2007,NA,NA,4.81,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2007,44.9,25.1,23.01,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2007,11.08,NA,10.32,11.08
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2007,6.2,6.58,4.2,6.84
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2007,14.8,NA,12.69,13.23
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2007,8.18,7,4.7,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2007,15.7,8.85,4.89,13.4
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2007,20.8,21.6,12.87,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2007,5.88,NA,7.42,5.49
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.34166667,77.775,Avathi,"Dug Well",W21497,2007,NA,NA,13.11,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.775,Hosakote-1,"Bore Well",W21197,2007,38.5,36.26,38.08,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2007,5.39,5.79,3.94,7.26
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2006,11.71,NA,NA,11.71
+KA,"Bangalore Rural",Hoskote,Hoskote,13.06666667,77.8,Hosakote-2,"Dug Well",W20943,2006,NA,NA,NA,10.58
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2006,5.84,NA,5.77,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2006,37.95,37.13,37.19,37.8
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2006,NA,8.25,NA,10.01
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,2006,6.84,6.84,6.84,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2006,22.09,15.96,23.52,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2006,21.2,20.83,21.35,21.2
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2006,10.47,10.47,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2006,27.27,25.42,28.23,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2006,11.06,9.59,11.02,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2006,5.84,3.88,5.83,5.7
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2006,13.61,11.45,13.7,13.6
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2006,7,3.82,6.65,6.7
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2006,5.15,6.13,5.35,8.7
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2006,18.23,10.38,19.73,16.03
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,2006,6.25,6.25,6.25,6.25
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2006,4.21,6.86,4.43,6.98
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.42472222,Doddabelavengala,"Dug Well",W20741,2006,12.12,12.12,NA,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.0375,77.85,Dasarahalli-1,"Dug Well",W20742,2006,NA,18.79,NA,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2006,10.73,9.6,10.73,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2005,11.71,11.37,9.6,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2005,10.73,NA,10.73,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2005,8.59,7.62,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2005,40.82,39.1,38.09,40.02
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2005,10.01,NA,9.35,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,2005,6.84,NA,6.14,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2005,21.71,18.8,16.62,20.07
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2005,21.46,20.77,20.85,20.62
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2005,-0.7,30.38,33.8,36.9
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2005,8.88,11.19,9.78,11.04
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2005,12.46,7.58,5.2,8.23
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2005,NA,12.54,12.6,4.63
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,2005,NA,4.73,NA,2.9
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2005,5.59,5.25,3.73,7.06
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2005,6.45,2.93,3.25,11.11
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2005,17.24,12.42,9.35,14.91
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,2005,6.25,NA,6.25,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2005,3.76,8.76,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2004,12.4,11.95,8.41,13.1
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,2004,4.05,4.78,3.78,4.98
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2004,13.22,10.2,11.9,13.8
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2004,9.87,9.03,7.1,9.4
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2004,11.1,11.11,11.08,10.68
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2004,NA,28.1,31.15,35.6
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2004,NA,20.1,20.64,20.5
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2004,NA,21.66,18.02,22.66
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2004,NA,36.9,38.8,38.55
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2004,8.09,8.77,7.09,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2004,NA,NA,12.6,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2004,NA,NA,4.86,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2004,NA,18.58,10.7,19.5
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2004,NA,7.98,4.22,8.88
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2003,8.71,7.99,8.82,9.05
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2003,NA,18.03,NA,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,2003,NA,8.39,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2003,NA,6.97,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2003,NA,34.02,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2003,11.04,11.19,9.2,11.38
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2003,9.35,9.6,11.7,6.6
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2003,9.43,6.32,10.23,8.55
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2003,NA,NA,10.36,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2003,NA,22.11,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,2003,4.64,6.29,3.53,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2003,NA,20.71,NA,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2003,NA,18.37,NA,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2003,8.67,7.77,8.76,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2002,8.35,6.05,7.25,3.99
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.225,77.24166667,Sompura,"Dug Well",W06420,2002,NA,11.15,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2002,NA,NA,19.5,18.8
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,2002,NA,3.86,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2002,NA,8.28,NA,9.08
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2002,6.6,4.75,7.1,5.9
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2002,10.85,8.26,NA,10.02
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2002,NA,8.34,NA,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2002,6.59,4.5,7.15,3.59
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2002,NA,NA,30.48,29.99
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2002,NA,2.84,NA,7.6
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,2002,NA,6.71,NA,6.75
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2002,16.62,NA,33.06,7.06
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2002,17.7,NA,18.02,17.45
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,2002,NA,NA,NA,7.7
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2002,21.1,NA,21.7,17.81
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2002,11.05,9.6,10.98,11.08
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2002,5.6,3.66,6,5.32
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,2002,5.33,1.76,5.88,2.98
+KA,"Bangalore Rural",Hoskote,Hoskote,13.075,77.80277778,Yalachahalli,"Dug Well",W06411,2002,NA,3.53,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2002,7.14,NA,6.48,3.89
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2001,5.87,3.85,5.67,5.29
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2001,NA,5.04,NA,5.54
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2001,7.07,8.05,2,9.06
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2001,5.15,3.01,2.62,4.35
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2001,NA,7.49,9.27,10.08
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2001,10.61,8.47,8.75,9.92
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2001,8.47,5.8,2.2,10.96
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2001,20.22,16.12,15.88,19.12
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2001,11.07,9.75,7,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2001,NA,17.43,16.96,17.79
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,2001,NA,3.58,2.35,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2001,11.89,11.9,12.54,16.13
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2001,5.51,3.68,3.4,6.26
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,2001,NA,6.55,4.21,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.225,77.24166667,Sompura,"Dug Well",W06420,2001,NA,11.6,10.55,12.42
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2001,NA,4.7,4.58,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2001,16.76,13.47,NA,14.06
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2001,30.87,30.12,28.05,30.46
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,2001,5.13,1.18,4.22,2.73
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,2000,5.94,5.66,3.46,6.86
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,2000,NA,4.06,3.22,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,2000,5.7,5.5,2.34,6.49
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,2000,10.98,10.38,7.28,11.18
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,2000,20.5,NA,14.45,22.14
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,2000,18.08,NA,17.62,18
+KA,"Bangalore Rural",Hoskote,Hoskote,12.99166667,77.79166667,Kadugodi,"Bore Well",W05714,2000,14.06,NA,10.71,16.19
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,2000,7.49,6.04,4.14,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,2000,6.9,NA,2.1,8.05
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,2000,5.35,5.05,3.2,6.47
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,2000,NA,8.82,NA,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,2000,NA,11,9.28,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,2000,5.2,4.35,2.97,6.3
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.1,77.3875,Nelamangala,"Dug Well",W06101,2000,NA,5.45,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,2000,7.37,8.63,4.19,7.53
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,2000,NA,4.05,2.09,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,2000,16.97,NA,10.13,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.225,77.24166667,Sompura,"Dug Well",W06420,2000,13.9,12.71,11.32,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,2000,8.15,3.23,2.43,8.61
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.1875,77.47083333,Kanasvadi,"Bore Well",W05710,2000,31.81,NA,29.07,24.82
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,1999,6.15,3.97,4.1,4.85
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.1,77.3875,Nelamangala,"Dug Well",W06101,1999,7.95,8.3,6.12,7.6
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,1999,NA,7.59,8.55,8.65
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,1999,7.08,5.27,4.95,5.75
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,1999,7.51,7.07,5.4,6.9
+KA,"Bangalore Rural",Hoskote,Hoskote,13.05833333,77.775,Huskur,"Dug Well",W05712,1999,NA,7.7,NA,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,1999,NA,4.2,5.46,5.06
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.725,Dasarahalli-2,"Bore Well",W05488,1999,19.04,NA,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.54166667,Dodballapur1,"Bore Well",W05490,1999,22.28,NA,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,1999,11.36,10.91,9.68,10.92
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,1999,7.78,7.52,5.41,7.53
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,1999,NA,4.54,3.66,3.52
+KA,"Bangalore Rural",Hoskote,Hoskote,13.1875,77.83611111,Thammarasanahalli,"Dug Well",W06409,1999,NA,NA,10.25,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.12222222,77.88611111,Thavarekere,"Dug Well",W06410,1999,NA,4.24,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.16805556,77.225,Shivagange,"Bore Well",W06418,1999,6.66,NA,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,1999,8.44,6.16,7.36,7.72
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.225,77.24166667,Sompura,"Dug Well",W06420,1999,14.9,13.53,12.85,14.26
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.0625,77.34583333,Yentiganahalli,"Bore Well",W06421,1999,NA,NA,19.6,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,1999,5.36,1.85,2.99,2.63
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,1999,8.55,7.1,6.02,9.12
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,1999,NA,10.22,10.75,11.23
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,1998,5.85,6.13,2.32,6.75
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.2,77.7,Arasinakunte,"Dug Well",W05236,1998,NA,NA,9.5,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.68472222,Jyotipura,"Dug Well",W05708,1998,NA,NA,7.1,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,1998,6.89,7,3.78,8.46
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,1998,NA,8.72,5.23,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.05833333,77.775,Huskur,"Dug Well",W05712,1998,NA,NA,6.96,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,1998,5.32,9.67,2.29,7.56
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,1998,10.33,10.91,9.46,11.11
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,1998,9.54,9.9,6.83,10.91
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,1998,NA,NA,3.17,3.2
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,1998,3.62,8.34,3.38,9.51
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.225,77.24166667,Sompura,"Dug Well",W06420,1998,12.9,11.93,11.95,13.69
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,1998,NA,NA,'0.73,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,1998,6.89,8.52,7.57,8.58
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.1,77.3875,Nelamangala,"Dug Well",W06101,1998,8.15,7.9,6.75,13.59
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,1997,8.04,6.46,6.22,7.66
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,1997,9.69,5.88,5.69,10.83
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,1997,NA,6,NA,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.225,77.24166667,Sompura,"Dug Well",W06420,1997,13.82,11.46,12.91,13.08
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,1997,12.27,7.87,9.08,12.2
+KA,"Bangalore Rural",Hoskote,Hoskote,13.12222222,77.88611111,Thavarekere,"Dug Well",W06410,1997,NA,5.4,NA,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.1875,77.83611111,Thammarasanahalli,"Dug Well",W06409,1997,NA,11.18,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,1997,2.65,2.91,1.61,3.71
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,1997,12.85,10.47,10.12,12.74
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.43888889,77.46111111,Gundumgere,"Dug Well",W05492,1997,10.84,NA,NA,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,1997,11.91,11.71,10.58,12.01
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,1997,NA,13.56,NA,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,1997,7.82,3.98,4.4,8.37
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,1997,NA,8.9,9.03,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,1997,9.64,7.96,7.26,9.31
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.1,77.3875,Nelamangala,"Dug Well",W06101,1997,10.13,9.07,8.32,9.42
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.1,77.3875,Nelamangala,"Dug Well",W06101,1996,10.1,9.36,8.76,10.69
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.275,77.65,Vishwanathapura,"Dug Well",W06405,1996,6.26,7.74,6.91,8.35
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.30833333,77.59333333,Rajaghatta,"Dug Well",W06406,1996,NA,15.33,NA,15.39
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.18888889,77.22777778,Shivagange1,"Dug Well",W06419,1996,8.2,7.51,7.19,7.65
+KA,"Bangalore Rural",Hoskote,Hoskote,13.11666667,77.90138889,Mugabala,"Dug Well",W06094,1996,NA,NA,4.99,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36388889,77.52111111,Gollahalli,"Dug Well",W05491,1996,13.7,14.87,11.43,14.91
+KA,"Bangalore Rural",Hoskote,Hoskote,13.12222222,77.88611111,Thavarekere,"Dug Well",W06410,1996,6.96,6.99,4.1,NA
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.25,77.7,Devanhalli1,"Dug Well",W05489,1996,15.6,14.79,14.75,15.95
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.06666667,77.31666667,Mahadevapura,"Dug Well",W06100,1996,9.35,9.88,4.77,11.36
+KA,"Bangalore Rural",Hoskote,Hoskote,13.03333333,77.86111111,Jadigenahalli,"Dug Well",W05713,1996,NA,5.01,3.85,NA
+KA,"Bangalore Rural",Hoskote,Hoskote,13.1875,77.83611111,Thammarasanahalli,"Dug Well",W06409,1996,NA,NA,10.66,NA
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.36666667,77.38333333,Kanikanahalli,"Dug Well",W05711,1996,NA,NA,8.41,NA
+KA,"Bangalore Rural",Nelamangala,Nelamangala,13.225,77.24166667,Sompura,"Dug Well",W06420,1996,11.94,11.79,10.45,13.91
+KA,"Bangalore Rural",Devanhalli,Devanhalli,13.26666667,77.71666667,Kodagurki,"Dug Well",W05709,1996,9,7.68,7.68,9.32
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.40694444,77.53166667,"Subraya Nagenahalli","Dug Well",W06408,1996,2.5,5.34,4.05,2.74
+KA,"Bangalore Rural",Dodballapur,"Dod Ballapur",13.29166667,77.54166667,Siddanayakanahalli,"Dug Well",W06407,1996,12.38,11.21,10.51,12.8

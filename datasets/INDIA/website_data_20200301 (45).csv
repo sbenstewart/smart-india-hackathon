@@ -1,235 +1,54 @@
 STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2018,NA,NA,2.68,4.82
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2018,NA,NA,3.1,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2018,NA,3.16,1.72,NA
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,2018,NA,4.6,NA,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2018,NA,NA,2.56,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2017,NA,1.6,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2017,NA,1.44,NA,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2017,2.31,4.6,1.81,5.5
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2017,1.26,1.16,1.51,3.98
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,Moranhat,"Dug Well",W29714,2017,NA,3.73,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2017,NA,3.17,NA,NA
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2017,NA,2.71,NA,NA
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,2017,NA,1.64,NA,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2017,NA,'0.85,1.31,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2017,NA,3.9,4.45,4
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2016,4.15,NA,NA,4.93
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2016,1.74,NA,NA,1.74
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2016,NA,NA,NA,3.9
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2016,2.42,NA,NA,5.4
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2016,NA,NA,NA,1.4
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,Moranhat,"Dug Well",W29714,2015,1.8,3.84,3.66,5.38
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2015,2.8,3,3.18,5.1
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,2015,NA,NA,NA,3.47
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2015,'0.35,3.99,'0.61,1.39
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2015,1.1,3.59,NA,1.1
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2015,NA,2.52,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2015,NA,3.55,NA,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2015,2.5,3.67,NA,5.28
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2015,1.4,3.68,'0.98,5.19
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2015,'0.43,3.62,'0.93,'0.43
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2014,1.45,3.62,NA,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2014,NA,3.68,NA,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2014,2.31,3.67,NA,5.1
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2014,NA,3.57,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2014,1.98,3.55,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2014,1.29,2.52,NA,NA
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2014,1.9,3.59,NA,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2014,1.14,3.59,NA,1.65
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2014,2.45,3.94,NA,6.08
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,Moranhat,"Dug Well",W29714,2014,1.06,3.84,NA,4.8
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2013,1.6,4.02,3.89,4.34
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,2013,NA,NA,NA,3.76
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,Moranhat,"Dug Well",W29714,2013,1.06,3.61,4.52,4.67
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2013,2.98,3.17,3.57,3.2
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2013,1.2,1.44,4.52,1.44
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2013,1.68,3.24,3.9,3.36
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2013,1.15,2.24,3.37,2.49
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,2013,2.03,NA,NA,3.65
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2013,1.63,3.91,3.67,3.78
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2013,NA,3.56,3.73,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2013,2.2,4.16,4.08,4.26
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2013,1.86,2.71,3.59,2.75
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2012,NA,3.98,2.67,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,Moranhat,"Dug Well",W29714,2012,NA,NA,3.54,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2012,NA,1.76,3.11,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2012,NA,3.4,1.39,NA
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2012,NA,6.53,2.46,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2012,NA,3.01,NA,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2012,NA,5.1,3.44,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2012,NA,5.13,2.97,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2012,NA,6.79,3.86,NA
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2012,NA,5.08,2.62,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2011,2.58,3.48,2.53,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2011,3.42,1.78,1.59,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2011,1.36,2.05,1.63,NA
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2011,2.69,2.55,1.92,NA
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2011,2.44,5.02,4,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2011,1.76,2.48,2.05,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2011,2.13,4.46,3.22,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2011,2.64,3.44,3.15,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2011,1.24,1.43,'0.87,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2010,1.8,7.2,3.11,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2010,NA,4.91,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2010,'0.92,6.03,1.09,NA
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2010,NA,5.56,NA,NA
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2010,1.79,6.5,2.08,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2010,1.26,6.03,1.63,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2010,1.58,7.72,2.21,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2010,1.59,6.95,3.68,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2010,1.57,3,1.6,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2009,2.03,4.81,3.39,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2009,'0.55,NA,'0.79,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2009,NA,3.99,NA,NA
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2009,'0.36,3.7,NA,NA
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2009,NA,5.52,4.27,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2009,'0.4,3.99,7.78,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2009,1.05,5.01,3.05,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2009,2.31,5.37,4.13,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2009,'0.16,3.03,'0.85,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2008,1.69,6.25,2.72,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2008,NA,'0.97,3.94,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2008,'0.58,3,4.31,NA
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2008,'0.96,4.7,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,2008,NA,1.57,NA,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2008,3.04,4.85,2.98,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2008,1.97,4.94,3.22,NA
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2008,1.65,6.44,3.77,NA
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2008,NA,6.42,4.13,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2008,1.88,3.96,1.44,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2007,'0.26,3.14,2.3,6.49
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2007,NA,2.68,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2007,'0.17,2.51,NA,NA
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2007,NA,3.37,NA,NA
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2007,NA,2.67,3.56,3.45
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2007,NA,3.98,2.85,5.34
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2007,'0.86,3.13,2.89,4.56
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2007,2.14,4.6,4.23,4.76
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2007,NA,2.26,NA,3.28
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2006,2.05,5.6,2.1,5.93
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2006,'0.05,1.03,'0.82,'0.11
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2006,1.79,NA,2.4,1.04
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2006,NA,3.52,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,2006,NA,3.06,NA,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2006,2.69,3.5,3.13,2.53
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2006,2.45,4.48,3.83,2.7
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2006,4.41,4.96,4.5,4.12
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2006,4.64,5.36,4.29,4.36
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2006,2.35,2.77,2.61,1.13
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2005,'0.65,5,2.3,2.25
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2005,'0.14,'0.97,'0.79,'0.11
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2005,NA,2.11,NA,1.13
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2005,'0.32,3.61,1.88,NA
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,2005,'0.25,3.18,2.4,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2005,1.33,3.45,2.99,2.31
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2005,'0.99,4.64,3.4,1.92
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2005,2.28,4.81,4.4,3.31
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2005,'0.72,5.22,3.95,1.61
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2005,'0.77,2.62,1.97,'0.9
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2004,7.52,5.73,1.68,5.88
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2004,'0.06,1,'0.85,'0.98
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2004,1.1,2.85,1.57,1.1
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2004,'0.31,'0.9,1.72,'0.82
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,2004,'0.25,1.4,NA,1.4
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2004,1.44,3.62,2.88,3.6
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2004,1.34,2.67,3.2,1.68
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,2004,NA,4.68,NA,'0.38
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2004,NA,2.8,3.84,2.78
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2003,1.42,4.14,1.42,3.02
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,2003,'0.47,NA,NA,1.44
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2003,'0.49,2.03,1.14,2.86
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2003,1.09,5.36,5,2.84
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2003,NA,4.89,1.69,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2003,2,NA,3.31,5.93
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2003,'0.02,'0.57,'0.41,1.1
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,2003,'0.47,6.14,2.07,4.72
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2003,1.63,3.14,2.63,3.65
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2003,'0.35,NA,3.61,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2003,'0.47,2.27,2.62,'0.92
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2002,3.11,4.85,2.07,4.4
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,2002,'0.52,NA,NA,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2002,'0.59,3.8,3.17,'0.3
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2002,1.12,5.26,4.34,4.94
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,2002,'0.63,NA,3.12,1.52
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2002,'0.33,3.26,2.86,2.18
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,2002,'0.66,NA,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2002,'0.55,2.12,1.19,2.94
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,2002,'0.46,NA,2.66,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2002,2.1,NA,2.7,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2002,1.42,3.49,3.05,2.83
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2002,'0.02,1.03,'0.52,'0.13
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2002,1.13,4.34,3.96,4.22
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2001,1.32,2.94,2.75,3.3
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2001,1.77,3.47,2.45,2.9
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2001,NA,5.9,NA,NA
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,2001,NA,1.56,'0.82,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2001,'0.33,2.69,2.3,1.1
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,2001,'0.41,NA,NA,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2001,'0.58,2.94,1.1,2.7
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2001,NA,1.32,'0.43,'0.4
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,2001,NA,NA,1.2,NA
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2001,1.14,4.08,NA,3.9
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,2001,'0.75,4.58,1.17,3.6
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,2001,1.3,NA,NA,NA
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,2000,'0.21,NA,'0.87,'0.46
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,2000,1.62,4.37,3.85,2.3
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,2000,'0.8,NA,NA,1.6
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,2000,'0.25,4.82,1.57,'0.72
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,2000,1.34,2.33,2.24,2.94
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,2000,'0.82,4.67,2.21,1.37
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,2000,1.2,NA,NA,1.4
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,2000,3.2,3.76,4.85,4.1
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,2000,'0.05,2.25,'0.77,'0.07
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,2000,1.23,4.28,2.73,1.93
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,2000,'0.44,3.66,3.27,1.19
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,1999,'0.87,4.07,'0.73,2.9
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,1999,2.43,3.83,3.23,2.43
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,1999,'0.63,1.79,NA,1.7
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,1999,1.03,3.9,2.98,3.95
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,1999,1.4,1.7,2.37,'0.15
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,1999,'0.97,2.84,2.43,NA
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,1999,'0.94,2.85,1.32,3.25
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,1999,NA,NA,2.93,4.14
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,1999,1.13,4.87,3.33,4.64
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,1999,1.09,NA,2.89,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,1999,NA,2.22,NA,NA
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,1999,1.84,3.5,3.13,1.86
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,1998,2.08,NA,2.37,2.92
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,1998,'0.59,2.1,1.1,1.5
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,1998,'0.39,5.06,1.8,5.08
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,1998,'0.62,NA,2.79,1.96
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,1998,1.02,3.11,2.83,NA
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,1998,'0.34,NA,1.04,'0.44
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,1998,1.23,3.45,2.7,NA
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,1998,1.43,NA,2.62,2.3
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,1998,'0.82,4.2,2.14,1.56
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,1998,'0.36,1.01,1.2,1.39
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,1998,'0.63,NA,1.19,1.28
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,1998,1.03,3.42,1.92,2.3
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,1997,NA,NA,3.21,NA
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,1997,'0.27,'0.95,2.4,5.41
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,1997,NA,3.11,NA,3.14
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,1997,1.91,5.7,3.08,3.51
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,1997,NA,NA,NA,3.29
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,1997,1.82,2.31,4.29,NA
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,1997,NA,3.41,2.5,2.62
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,1997,2.59,3.21,5.1,NA
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,1997,1.32,4.92,4.89,2.84
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,1997,1.35,4.35,4.36,4.91
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,1997,NA,1.92,NA,2.01
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,1997,'0.53,NA,1.55,2.01
-AS,Sivasagar,Nazira,Amguri,26.87638889,94.71111111,Dihajan,"Tube Well",W12440,1996,1.98,3.13,3.59,2.91
-AS,Sivasagar,Demow,Amguri,27.0625,94.69166667,"Rajabari te","Dug Well",W12439,1996,2.83,5.54,3.11,3.25
-AS,Sivasagar,Sonari,Amguri,27.03888889,95.09166667,Bengenabari,"Dug Well",W12446,1996,'0.38,2.22,3.95,1.25
-AS,Sivasagar,Sonari,Amguri,27.01666667,95.05,"Sonari tel.exch","Dug Well",W12448,1996,1.68,3.05,4.59,2.71
-AS,Sivasagar,Demow,Amguri,27.15,94.75,"Dimow charali","Dug Well",W12437,1996,NA,1.12,4.98,4.22
-AS,Sivasagar,Demow,Amguri,27.14583333,94.74722222,"Demow sukan","Dug Well",W12436,1996,2.37,NA,4.01,NA
-AS,Sivasagar,Nazira,Amguri,26.90277778,94.72083333,Hanumanbagh,"Dug Well",W12442,1996,1.19,3.5,2.55,2.35
-AS,Sivasagar,Demow,Amguri,27.19583333,94.74861111,Bandarmari,"Dug Well",W12433,1996,2.89,3.2,3.15,NA
-AS,Sivasagar,Demow,Amguri,27.05833333,94.59861111,Chetiagaon,"Dug Well",W12435,1996,NA,1.85,2.21,4.21
-AS,Sivasagar,Demow,Amguri,27.06527778,94.7125,"Betbari alimore","Dug Well",W12434,1996,1.17,3.21,2.01,2.11
-AS,Sivasagar,Sibsagar,Amguri,26.99166667,94.63333333,Sibsagar,"Dug Well",W12445,1996,'0.21,1.65,2.85,1.35
-AS,Sivasagar,Nazira,Amguri,26.80416667,94.70833333,Geleki,"Dug Well",W12441,1996,1.33,3.65,1.21,5.35
-AS,Sivasagar,Sibsagar,Amguri,27.03611111,94.6,Dhapaboria,"Dug Well",W12444,1996,NA,2.51,3.13,1.39
-AS,Sivasagar,Sonari,Amguri,27.08333333,95.2,Sapekhati,"Dug Well",W12447,1996,1.19,4.02,4.01,4.52
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Tihu,"Dug Well",W29558,2018,NA,NA,2.07,1.93
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Tihu,"Dug Well",W29558,2017,1.8,NA,1.43,3.97
+AS,Nalbari,Barama,Barama,26.525,91.36777778,Barama,"Dug Well",W12421,2016,NA,NA,NA,4
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Tihu,"Dug Well",W29558,2016,'0.76,1.64,NA,2.6
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Tihu,"Dug Well",W29558,2015,'0.81,4.71,'0.63,2.32
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Tihu,"Dug Well",W29558,2014,NA,2.06,2.15,2.19
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Tihu,"Dug Well",W29558,2013,NA,1.74,1.27,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Tihu,"Dug Well",W29558,2012,NA,NA,1.79,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2012,NA,1.54,NA,NA
+AS,Nalbari,Barama,Barama,26.55611111,91.4525,Dhamdhama,"Dug Well",W12422,2011,NA,2.53,NA,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2011,NA,2.22,'0.85,NA
+AS,Nalbari,Nalbari,Barama,26.41777778,91.47472222,Balilecha,"Tube Well",W12429,2011,NA,2.12,NA,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2010,NA,2.04,'0.65,NA
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,2010,NA,3.07,NA,NA
+AS,Nalbari,Barama,Barama,26.55611111,91.4525,Dhamdhama,"Dug Well",W12422,2010,NA,2.69,NA,NA
+AS,Nalbari,Nalbari,Barama,26.41777778,91.47472222,Balilecha,"Tube Well",W12429,2009,NA,NA,2.16,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2009,NA,1.05,2,NA
+AS,Nalbari,Barama,Barama,26.55611111,91.4525,Dhamdhama,"Dug Well",W12422,2009,NA,NA,2.28,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2008,'0.68,1.15,1.29,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2007,NA,1.29,1.48,'0.9
+AS,Nalbari,Ghograpar,Barama,26.48055556,91.49861111,Nankarvaira,"Tube Well",W12425,2007,NA,3.35,NA,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2006,'0.36,1.13,NA,'0.72
+AS,Nalbari,Barama,Barama,26.55611111,91.4525,Dhamdhama,"Dug Well",W12422,2005,NA,NA,NA,4.45
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2005,1.29,2.59,1.45,'0.06
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,2004,1.2,NA,2.15,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2004,1.41,'0.88,NA,'0.39
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,2003,NA,NA,1.79,2.91
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2003,'0.82,1.05,'0.49,'0.37
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2002,'0.44,1.11,'0.77,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2001,'0.8,1.2,'0.73,'0.8
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,2001,NA,2.96,NA,NA
+AS,Nalbari,Nalbari,Barama,26.41777778,91.47472222,Balilecha,"Tube Well",W12429,2001,NA,2.43,NA,NA
+AS,Nalbari,Barama,Barama,26.55611111,91.4525,Dhamdhama,"Dug Well",W12422,2001,4.14,NA,NA,NA
+AS,Nalbari,Barama,Barama,26.525,91.36777778,Barama,"Dug Well",W12421,2001,'0.66,1.1,NA,NA
+AS,Nalbari,Ghograpar,Barama,26.48055556,91.49861111,Nankarvaira,"Tube Well",W12425,2001,4.5,NA,NA,NA
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,2000,1.05,2.91,3.02,3.52
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,2000,'0.22,NA,'0.78,'0.9
+AS,Nalbari,Barama,Barama,26.525,91.36777778,Barama,"Dug Well",W12421,2000,'0.36,NA,'0.71,NA
+AS,Nalbari,Nalbari,Barama,26.41777778,91.47472222,Balilecha,"Tube Well",W12429,2000,'0.2,NA,NA,NA
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,1999,'0.71,NA,NA,1.71
+AS,Nalbari,Barama,Barama,26.525,91.36777778,Barama,"Dug Well",W12421,1999,NA,NA,NA,4.09
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,1999,2.05,3.11,1.98,3.16
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,1998,NA,3.1,1.85,2.98
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,1998,'0.36,1.3,NA,'0.9
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,1997,1.83,2.45,'0.93,'0.25
+AS,Nalbari,Nalbari,Barama,26.41777778,91.47472222,Balilecha,"Tube Well",W12429,1997,NA,NA,NA,1.73
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,1997,3.11,2.98,3.61,3.05
+AS,Nalbari,Barama,Barama,26.525,91.36777778,Barama,"Dug Well",W12421,1996,NA,2.51,NA,4.09
+AS,Nalbari,Ghograpar,Barama,26.48055556,91.49861111,Nankarvaira,"Tube Well",W12425,1996,NA,NA,NA,5
+AS,Nalbari,Barama,Barama,26.55611111,91.4525,Dhamdhama,"Dug Well",W12422,1996,NA,4.17,NA,NA
+AS,Nalbari,Nalbari,Barama,26.41777778,91.47472222,Balilecha,"Tube Well",W12429,1996,NA,NA,1.5,5.6
+AS,Nalbari,Kamarkuchi,Barama,26.37166667,91.445,Arikuchi,"Dug Well",W12426,1996,1.92,1.16,'0.45,'0.85
+AS,Nalbari,Barkhetri,Barama,26.25,91.275,Mukalmua,"Dug Well",W12423,1996,3.1,3.07,1.41,2.66

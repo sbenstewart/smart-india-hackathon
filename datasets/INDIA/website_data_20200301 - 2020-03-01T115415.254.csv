@@ -1,0 +1,344 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2018,9.57,9.54,NA,NA
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2018,'0.04,1.68,NA,NA
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2018,4.08,6.98,NA,NA
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2018,10.07,9.75,NA,NA
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2018,5.19,5.66,NA,NA
+UP,Aligarh,LODHA,Lodha,27.91916667,77.99166667,"Lodha (GWD PZ)","Tube Well",W33317,2018,18.7,14.4,NA,NA
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2018,9.38,8.63,NA,NA
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2018,NA,2.03,NA,NA
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur(new),"Dug Well",W29814,2018,'0.81,3.53,NA,NA
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Harduaganj,"Dug Well",W32996,2018,NA,4.55,NA,NA
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2018,8.71,10.78,NA,NA
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2017,9.32,8.08,9.24,9.2
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2017,'0.41,2.27,1.01,3.87
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2017,6.02,6.55,6.74,7.89
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2017,9.41,9.41,9.73,9.77
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2017,5.57,5.64,5.57,5.64
+UP,Aligarh,LODHA,Lodha,27.91916667,77.99166667,"Lodha (GWD PZ)","Tube Well",W33317,2017,NA,18.32,18.89,18.59
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2017,9.47,8.77,8.57,9.1
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2017,NA,'0.72,1.56,2.46
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Harduaganj,"Dug Well",W32996,2017,3.21,2.55,4.2,5.03
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur(new),"Dug Well",W29814,2017,1.1,3.1,NA,3.75
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2017,10.9,9.65,10.66,10.65
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2016,5.15,NA,NA,NA
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2016,13.32,NA,13.98,NA
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2016,2,NA,1.81,4.19
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2016,'0.26,NA,'0.31,1.21
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2016,9.65,NA,8.95,9.45
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2016,8.55,NA,8.51,8.8
+UP,Aligarh,LODHA,Lodha,27.91916667,77.99166667,"Lodha (GWD PZ)","Tube Well",W33317,2016,18.25,NA,18.25,NA
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2016,3.4,NA,5.5,NA
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2016,10.6,NA,9.68,11.4
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2016,4.84,NA,5.51,6.29
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur(new),"Dug Well",W29814,2016,'0.07,3.9,1.58,4.6
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Harduaganj,"Dug Well",W32996,2016,2.6,NA,2.32,6.3
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2016,7.74,NA,7.3,8.97
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2015,NA,NA,5.91,2.25
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2015,12.85,NA,14.05,12.85
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2015,2.09,NA,2.79,3.31
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2015,'0.65,NA,1.44,1.26
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2015,8.81,NA,8.25,7.25
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur(new),"Dug Well",W29814,2015,1.03,NA,3.5,3.97
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2015,8.09,7.81,8.01,8.32
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2015,4.91,NA,6.3,7.02
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2015,9.41,NA,9.86,9.47
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2015,5.29,NA,5.57,5.29
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2015,8.74,NA,8.63,8.65
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2014,5.23,5.06,NA,5.89
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2014,13.87,NA,NA,NA
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2014,2.66,2.05,NA,3.54
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2014,'0.76,1.08,NA,1.84
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2014,8.25,8.74,NA,9.1
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur(new),"Dug Well",W29814,2014,1.32,2.16,3.1,3.24
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2014,7.15,6.26,NA,7.88
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2014,4.6,6.01,NA,6.88
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2014,9.6,6.47,NA,8.09
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2014,4.89,4.17,NA,5.17
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2014,8.45,7.91,NA,8.59
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2013,5.11,5.95,5.47,5.55
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2013,NA,13.2,12.77,NA
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2013,2.31,2.31,1.93,3.91
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2013,'0.82,2.26,1.68,2.56
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2013,8.79,8.85,8.85,9.25
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur(new),"Dug Well",W29814,2013,1.28,2.5,2.78,3.3
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2013,6.44,7,6,8.5
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2013,4.52,6.3,5.8,7.8
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2013,7.75,8.9,9,9.3
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2013,4.57,4.59,4.04,NA
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2013,8.17,7.45,8.25,6.95
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2012,NA,5.22,5.75,6.72
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2012,NA,11.25,12.9,12.56
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2012,NA,NA,3.75,3.93
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2012,NA,1.86,1.86,3.37
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2012,NA,8.18,NA,12.5
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2012,NA,2.06,2.32,2.5
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur(new),"Dug Well",W29814,2012,NA,NA,2.63,NA
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2012,NA,6.81,7.7,7.41
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2012,NA,5.71,6.8,7.08
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2012,NA,5.35,6.1,6.47
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2012,NA,7.93,8.85,8.85
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2012,NA,3.02,4.31,4.42
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2012,NA,9.29,8.5,9.64
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2011,3.15,5.71,5.25,6.05
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2011,10.9,11.65,11.27,12.48
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2011,NA,2.99,1.63,1.39
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2011,NA,8.66,7.83,NA
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2011,'0.96,3.51,2.16,2.84
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2011,1.29,4.87,3.84,5.29
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2011,7.17,7.56,6.78,8.1
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2011,5.03,7.53,5.53,8.62
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2011,2,5.5,5.12,6.26
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2011,7.7,5.16,7.69,8.9
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2011,10.35,10.45,9.35,11.15
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2010,6.45,6.01,5.02,7
+UP,Aligarh,Sasni,Iglas,27.73194444,78.02083333,"Alipur Mohna","Dug Well",W21703,2010,NA,NA,NA,23.6
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2010,5.15,3.31,NA,5.65
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2010,3.83,2.97,1.88,4.33
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2010,11.65,NA,9.6,NA
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2010,3.05,2.42,2.18,3.51
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2010,10.86,11.29,10.85,11.35
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2010,8.35,8.71,8.59,8.97
+UP,Aligarh,Iglas,Iglas,27.64166667,77.93333333,Bagichi,"Dug Well",W15003,2010,8.43,10.49,8.35,10.72
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2010,8.82,8.5,8.12,9.47
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2010,NA,7.84,NA,NA
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2010,6.95,6.06,4.68,7.38
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2010,4.86,9.95,8.3,5.26
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2010,5.95,5.85,3.7,6.19
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2010,13.53,12.75,12.32,14.27
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2009,6.5,8.17,5.25,6.35
+UP,Aligarh,Sasni,Iglas,27.73194444,78.02083333,"Alipur Mohna","Dug Well",W21703,2009,19.38,16.36,16.4,17.55
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2009,5.35,2.83,3.71,3.82
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2009,3.61,3.69,2.41,3.9
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2009,8.45,8.89,8.75,4.15
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2009,1.2,3.44,2.01,2.31
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2009,10.95,NA,10.83,13.8
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2009,8.65,6.57,8.45,8.23
+UP,Aligarh,Iglas,Iglas,27.64166667,77.93333333,Bagichi,"Dug Well",W15003,2009,10.6,10.45,9.95,10.31
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2009,8.5,NA,8.48,8.28
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2009,4.64,4.49,7.84,7.84
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2009,5.6,5.88,5.92,6.1
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2009,9.85,6.54,9.25,9.58
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2009,5.69,8.01,3.99,8.25
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2009,13,11.3,12.56,12.78
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2008,3.95,6.17,4.38,6.75
+UP,Aligarh,Sasni,Iglas,27.73194444,78.02083333,"Alipur Mohna","Dug Well",W21703,2008,16.9,NA,16.97,19.38
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2008,1.66,2.84,2.8,2.8
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2008,1.04,2.83,1.84,3.71
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2008,6.78,6.85,6.65,9
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2008,'0.86,'0.99,1.5,2.36
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2008,10.85,11.35,10.87,11.85
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2008,7.85,7.98,7.63,8.65
+UP,Aligarh,Iglas,Iglas,27.64166667,77.93333333,Bagichi,"Dug Well",W15003,2008,8.86,10.25,8.9,11.1
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2008,5.3,6.63,7.3,7.3
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2008,2.39,5.34,4.87,5.04
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2008,2.8,5.5,4.72,6.35
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2008,9.7,10.1,9.4,10.04
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2008,NA,5.28,4.1,5.69
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2008,9.28,12.3,11.8,13.2
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2007,6.45,6.67,6.07,6.85
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2007,12.22,12.88,12.15,12.83
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2007,1.82,3.49,2.18,3.31
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2007,2.03,2.97,2.51,3.6
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2007,6.55,6.9,6.75,7.51
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2007,1.06,2.16,1.96,2.06
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2007,10.87,11.43,4.45,11.26
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2007,7.87,7.79,7.88,7.98
+UP,Aligarh,Iglas,Iglas,27.64166667,77.93333333,Bagichi,"Dug Well",W15003,2007,12.25,9.56,9.83,10.72
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2007,5.76,5.41,6.23,6.25
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2007,4.23,4.95,4.8,4.9
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2007,3.67,6.28,4.87,6.08
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2007,1.66,10.28,9.67,10.45
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2007,4.56,5.21,5.17,5.21
+UP,Aligarh,Iglas,Iglas,27.64166667,77.93333333,Bagichi,"Dug Well",W15003,2006,9.6,8.17,9.57,10.8
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2006,4.69,4.21,5.05,5.21
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2006,4.29,4.73,4.72,5.43
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2006,4.2,5.17,5.39,7.05
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2006,10.01,8.81,10.37,10.24
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2006,4.4,5,4.93,5.46
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2006,7.68,7.25,7.74,7.9
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2006,12.57,11.99,12.82,13
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2006,1.65,2.62,2.69,4.6
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2006,2.35,2.36,2.54,3.88
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2006,6.39,5.45,6.62,7.8
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2006,1.31,1.82,2.07,2.83
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2006,10.85,11.02,11.21,11.1
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2006,9.7,5.53,6.89,6.7
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2005,4.46,4.72,3.9,5.57
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2005,4.52,NA,4.34,5.21
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2005,3.48,5.69,4.34,5.36
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2005,9.67,8.95,9.04,10.9
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2005,3.51,4.79,4.6,5.14
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2005,4.22,5.46,4.93,6.28
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2005,12.1,11.75,11.98,12.63
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2005,1.4,2.65,2.2,3.55
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2005,2.16,2.47,1.93,3.44
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2005,6.26,7.35,5.92,7.45
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2005,1.01,1.95,1.59,2.39
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2005,11.07,11.53,11.02,11.3
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2005,7.5,7.63,7.25,7.91
+UP,Aligarh,Iglas,Iglas,27.64166667,77.93333333,Bagichi,"Dug Well",W15003,2005,7,9.26,8.01,11.57
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2004,4.76,3.75,4.23,4.86
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2004,4.26,4.82,4.43,5.31
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2004,4.89,4.96,4.39,6.72
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2004,9.23,8.2,8.78,9.58
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2004,4.02,4.84,4.18,NA
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2004,5.81,5.15,4.78,6.3
+UP,Aligarh,Iglas,Iglas,27.64166667,77.93333333,Bagichi,"Dug Well",W15003,2004,9.57,9.1,8.87,9.56
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2004,2.76,2.16,1.71,4.65
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2004,3.16,2.08,1.74,3.68
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2004,7,7.05,6.94,7.38
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2004,1.03,1.66,1.4,2.55
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2004,11.51,11.8,11.27,11.76
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2004,8.34,7.76,7.62,8.23
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2004,11.65,11.13,11.81,11.78
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2003,3.94,6.15,3.36,6.71
+UP,Aligarh,Iglas,Iglas,27.64166667,77.93333333,Bagichi,"Dug Well",W15003,2003,9.5,NA,9.7,NA
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2003,3.77,5.85,4.64,6.53
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2003,9.5,9.6,9.25,10.25
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2003,4.59,6.29,4.61,6.46
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur,"Dug Well",W15461,2003,'0.35,1.95,NA,2.74
+UP,Aligarh,Akrabad,Akrabad,27.80666667,78.275,Akrabad,"Dug Well",W14611,2003,NA,2.3,NA,3.44
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2003,5.77,6.05,4.55,6.89
+UP,Aligarh,Bijauli,Gangiri,27.925,78.43833333,Bhikampur,"Dug Well",W14614,2003,11.55,NA,10.9,NA
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2003,1.81,2.85,2.05,3.7
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2003,'0.56,2.66,1.44,3.87
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2003,5.35,8.65,6.85,8.79
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2003,'0.93,2.01,1.61,2.74
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2003,12.35,12.45,11.8,12.65
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2003,9.15,9.55,7.85,9.68
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2003,4.2,4.84,4.64,5.38
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2002,7.71,5,5.76,5.87
+UP,Aligarh,Tappal,Tappal,28.00638889,77.56527778,Kansora,"Dug Well",W14624,2002,NA,11,NA,NA
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2002,7.4,5.9,4.94,6.55
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2002,NA,9.1,9.22,9.02
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2002,NA,5.59,6.15,6.21
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur,"Dug Well",W15461,2002,3.57,2.8,2.35,2.94
+UP,Aligarh,Akrabad,Akrabad,27.80666667,78.275,Akrabad,"Dug Well",W14611,2002,3.46,2.66,2.17,3.25
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2002,NA,NA,6.4,7.01
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2002,NA,3.25,2.27,3.56
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2002,2.77,NA,2.59,3.92
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2002,9.2,8.35,8.19,8.94
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2002,NA,1.89,1.97,2.88
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2002,13.3,12.85,12.35,12.9
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2002,NA,9.7,9.5,9.82
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2002,NA,4.84,4.58,4.99
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2001,4.49,NA,4.44,4.83
+UP,Aligarh,Tappal,Tappal,28.00638889,77.56527778,Kansora,"Dug Well",W14624,2001,10.38,NA,10.42,10.52
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2001,4.9,NA,5.12,6.81
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2001,8.12,NA,9.16,7.96
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2001,5.05,NA,5.21,5.7
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur,"Dug Well",W15461,2001,'0.95,NA,2.12,2.86
+UP,Aligarh,Akrabad,Akrabad,27.80666667,78.275,Akrabad,"Dug Well",W14611,2001,1.78,NA,2.3,3.33
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2001,6.25,NA,6.57,6.51
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2001,1.69,NA,2.75,3.49
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2001,2.71,NA,2.11,4.14
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2001,7.55,NA,7.76,7.89
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2001,1.06,NA,1.81,2.24
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2001,12.43,NA,12.31,12.81
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2001,9.12,NA,9.35,9.49
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2001,NA,NA,4.57,5.15
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,2000,2.52,3.3,3.65,4.17
+UP,Aligarh,Tappal,Tappal,28.00638889,77.56527778,Kansora,"Dug Well",W14624,2000,9.1,10.13,8.73,10.06
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,2000,NA,4.73,NA,5.35
+UP,Aligarh,Dhanipur,Dhanipur,27.94444444,78.17277778,Panaithi,"Dug Well",W15457,2000,3.35,NA,4.23,4.66
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,2000,2.44,4.69,2.4,6.1
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,2000,6.8,7.6,7.36,7.5
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,2000,4.39,4.99,4.99,9.71
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur,"Dug Well",W15461,2000,'0.45,1.55,1.17,3.76
+UP,Aligarh,Akrabad,Akrabad,27.80666667,78.275,Akrabad,"Dug Well",W14611,2000,1.22,2.14,2.38,4.02
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,2000,4.55,5.1,4.98,6.18
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,2000,1.71,2.58,3.62,3.76
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,2000,1.04,2.2,1.92,4.67
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,2000,6.3,6.13,5.94,8.47
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.08722222,78.05694444,Barauli,"Dug Well",W14620,2000,'0.97,2.67,1.85,5.29
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,2000,'0.78,1.62,'0.84,3.05
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,2000,NA,13,NA,12.76
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,2000,8.93,9.45,NA,9.85
+UP,Aligarh,Akrabad,Akrabad,27.71666667,78.23,Vijaigarh,"Dug Well",W15454,2000,NA,3.28,NA,5.01
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,1999,1.71,1.21,1.36,3.36
+UP,Aligarh,Akrabad,Akrabad,27.80666667,78.275,Akrabad,"Dug Well",W14611,1999,1.66,1.26,1.86,3.16
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,1999,NA,4.49,4.64,5.34
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,1999,7.3,6.7,7.95,8.7
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,1999,1.08,1.8,1.9,4.2
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,1999,1.41,1.95,1.75,3.35
+UP,Aligarh,Tappal,Tappal,28.00638889,77.56527778,Kansora,"Dug Well",W14624,1999,8.45,7.25,7.25,8.9
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur,"Dug Well",W15461,1999,'0.4,1.43,1.5,2.25
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,1999,NA,10.02,9.45,10.55
+UP,Aligarh,Dhanipur,Dhanipur,27.94444444,78.17277778,Panaithi,"Dug Well",W15457,1999,2.7,1.9,NA,7.73
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,1999,13.35,13.08,12.75,13.35
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,1999,8.65,3.6,4.55,6.05
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,1999,1.16,1.26,1.36,2.06
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,1999,NA,5.69,4.59,NA
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.08722222,78.05694444,Barauli,"Dug Well",W14620,1999,2.87,1.17,1.77,3.72
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,1999,3.15,2.45,3.4,5.4
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,1999,6.15,6.05,5.55,6.75
+UP,Aligarh,Akrabad,Akrabad,27.71666667,78.23,Vijaigarh,"Dug Well",W15454,1999,3.48,1.58,2.68,4.38
+UP,Aligarh,Akrabad,Akrabad,27.80833333,78.23666667,Nanubridge,"Dug Well",W15453,1998,NA,3.1,NA,8.04
+UP,Aligarh,Akrabad,Akrabad,27.71666667,78.23,Vijaigarh,"Dug Well",W15454,1998,1.58,2.48,'0.91,NA
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,1998,4.04,4.64,4.26,5.26
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,1998,'0.8,4.87,1.11,6.45
+UP,Aligarh,Tappal,Tappal,28.00638889,77.56527778,Kansora,"Dug Well",W14624,1998,8.16,9.16,6.7,10.2
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,1998,10.45,11.2,10,11.47
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,1998,13.85,13.81,13.05,14.05
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,1998,'0.83,1.41,1.06,1.96
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.08722222,78.05694444,Barauli,"Dug Well",W14620,1998,2.92,2.79,'0.62,3.85
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,1998,6.35,7.3,5.15,8.01
+UP,Aligarh,Gangiri,Gangiri,27.93,78.38333333,Chharra,"Dug Well",W14617,1998,13.07,10.95,NA,13.07
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,1998,'0.25,'0.8,1.35,2.13
+UP,Aligarh,Atrauli,Atrauli,28.0375,78.28166667,Atrauli,"Dug Well",W14613,1998,14,11.79,NA,14
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,1998,2.35,4.93,2.67,5.89
+UP,Aligarh,Akrabad,Akrabad,27.80666667,78.275,Akrabad,"Dug Well",W14611,1998,'0.66,1.58,'0.6,3.12
+UP,Aligarh,Iglas,Iglas,27.72916667,77.92916667,Naseerpur,"Dug Well",W15732,1998,NA,8.89,NA,8.89
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur,"Dug Well",W15461,1998,'0.65,2.1,'0.98,2.9
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,1998,5.49,6.11,4.64,6.49
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,1998,6.3,6.98,6.15,8.2
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,1998,1.5,4.42,1.98,5.2
+UP,Aligarh,Dhanipur,Dhanipur,27.94444444,78.17277778,Panaithi,"Dug Well",W15457,1998,1.8,1.8,1.43,4.38
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,1998,'0.11,1.74,'0.51,3.31
+UP,Aligarh,Dhanipur,Dhanipur,27.94444444,78.17277778,Panaithi,"Dug Well",W15457,1997,3.06,4.2,3.55,4.8
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,1997,3.27,5.1,3.66,6.3
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,1997,7.1,8.1,6.85,8.2
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,1997,5.95,9.48,5.99,9.48
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur,"Dug Well",W15461,1997,'0.58,3.15,1.27,3.45
+UP,Aligarh,Iglas,Iglas,27.72916667,77.92916667,Naseerpur,"Dug Well",W15732,1997,8.89,8.89,8.89,8.89
+UP,Aligarh,Akrabad,Akrabad,27.80666667,78.275,Akrabad,"Dug Well",W14611,1997,1.46,2.36,1.21,3.86
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,1997,4.95,5.75,4.65,6.65
+UP,Aligarh,Atrauli,Atrauli,28.0375,78.28166667,Atrauli,"Dug Well",W14613,1997,13,NA,12.2,14
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,1997,'0.15,1.55,'0.4,2.75
+UP,Aligarh,Gangiri,Gangiri,27.93,78.38333333,Chharra,"Dug Well",W14617,1997,11.6,13.07,11.35,13.07
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,1997,1.64,2.91,1.25,4.41
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,1997,7.6,8.95,7.15,8.65
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.08722222,78.05694444,Barauli,"Dug Well",W14620,1997,2.5,3.72,2.1,4.62
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,1997,'0.96,1.86,1.24,2.56
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,1997,13.78,14.05,13.65,14.35
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,1997,11.44,11.75,11.25,11.95
+UP,Aligarh,Tappal,Tappal,28.00638889,77.56527778,Kansora,"Dug Well",W14624,1997,9.46,10.16,8.72,10.06
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,1997,4.8,4.9,4.69,6.2
+UP,Aligarh,Akrabad,Akrabad,27.80833333,78.23666667,Nanubridge,"Dug Well",W15453,1997,10.55,NA,2.94,NA
+UP,Aligarh,Akrabad,Akrabad,27.71666667,78.23,Vijaigarh,"Dug Well",W15454,1997,2.51,4.08,2.23,4.98
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,1997,4.09,4.64,4.39,5.24
+UP,Aligarh,Dhanipur,Dhanipur,27.95,78.16666667,Safedpur,"Dug Well",W15458,1996,2.64,5.5,3.77,NA
+UP,Aligarh,Dhanipur,Dhanipur,27.94444444,78.17277778,Panaithi,"Dug Well",W15457,1996,3.4,4.6,4.18,3.75
+UP,Aligarh,Khair,Khair,27.89111111,77.82666667,Palachand,"Dug Well",W15460,1996,9.48,9.48,9.48,9.48
+UP,Aligarh,Tappal,Tappal,28.02333333,77.65333333,Taquipur,"Dug Well",W15461,1996,NA,4.05,1.91,NA
+UP,Aligarh,Iglas,Iglas,27.72916667,77.92916667,Naseerpur,"Dug Well",W15732,1996,NA,8.89,8.89,8.89
+UP,Aligarh,Akrabad,Akrabad,27.80666667,78.275,Akrabad,"Dug Well",W14611,1996,'0.94,2.72,2.13,3.61
+UP,Aligarh,Akrabad,Akrabad,27.75,78.32777778,Gopi,"Dug Well",W14612,1996,3.87,6.1,5.19,6.55
+UP,Aligarh,Atrauli,Atrauli,28.0375,78.28166667,Atrauli,"Dug Well",W14613,1996,13.05,14,12.63,14.2
+UP,Aligarh,Dhanipur,Dhanipur,27.94638889,78.1575,Hardanaganj,"Dug Well",W14615,1996,'0.42,1.95,1.42,2.73
+UP,Aligarh,Gangiri,Gangiri,27.90555556,78.32222222,Barala,"Dug Well",W14616,1996,14.31,14.68,14.68,14.75
+UP,Aligarh,Gangiri,Gangiri,27.93,78.38333333,Chharra,"Dug Well",W14617,1996,10.45,8.05,13.07,13.07
+UP,Aligarh,Gonda,Gonda,27.81944444,77.8875,Gonda,"Dug Well",W14618,1996,1.16,4.26,2.14,4.91
+UP,Aligarh,Gonda,Gonda,27.69722222,77.83166667,Gorai,"Dug Well",W14619,1996,8.25,9.29,7.72,9.62
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.08722222,78.05694444,Barauli,"Dug Well",W14620,1996,1.6,4.22,3.06,4.5
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",28.025,78.115,Jawan,"Dug Well",W14621,1996,'0.92,2.26,1.71,NA
+UP,Aligarh,Khair,Khair,27.91833333,77.91888889,Andla,"Dug Well",W14622,1996,13.15,14.25,13.62,13.85
+UP,Aligarh,Khair,Khair,27.96666667,77.91666667,Khair,"Dug Well",W14623,1996,11.29,12.07,11.16,11.82
+UP,Aligarh,Tappal,Tappal,28.00638889,77.56527778,Kansora,"Dug Well",W14624,1996,7.91,10.16,8.91,9.86
+UP,Aligarh,Iglas,Iglas,27.71666667,77.93333333,Iglas,"Dug Well",W15004,1996,3.81,7.16,4.3,7.59
+UP,Aligarh,Akrabad,Akrabad,27.80833333,78.23666667,Nanubridge,"Dug Well",W15453,1996,NA,3.85,NA,4.01
+UP,Aligarh,Akrabad,Akrabad,27.71666667,78.23,Vijaigarh,"Dug Well",W15454,1996,2.96,8.26,3.51,5.33
+UP,Aligarh,Bijauli,Bijauli,28.04722222,78.53055556,Sankra,"Dug Well",W15455,1996,4.17,7.64,4.55,4.92
+UP,Aligarh,Chandaus,Chandaus,28.1,77.86388889,Tajpur,"Dug Well",W15456,1996,NA,12.94,NA,13.2
+UP,Aligarh,"Jawan Sikanderpur","Jawan Sikanderpur",27.98888889,78.10277778,Sudiyal,"Dug Well",W15459,1996,6.9,7.4,7.1,7.25
